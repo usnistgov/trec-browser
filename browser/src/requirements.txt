@@ -1,0 +1,9 @@
+pymdown-extensions 
+mkdocs
+mkdocs-material
+pyyaml
+mkdocs-exclude-search
+bibtexparser
+pylatexenc
+docutils
+mkdocs-alias-plugin

@@ -1,0 +1,210 @@
+# Proceedings - Incident Streams 2018 
+
+#### CBNU at TREC 2018 Incident Streams Track
+
+_Won-Gyu Choi, Seung-Hyeon Jo, Kyung-Soon Lee_
+
+- :fontawesome-solid-user-group: **Participant:** [cbnu](./participants.md#cbnu)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/cbnu-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/cbnu-IS.pdf)
+- :material-file-search: **Runs:** [cbnuC1](./runs.md#cbnuc1), [cbnuC2](./runs.md#cbnuc2), [cbnuS2](./runs.md#cbnus2), [cbnuS1](./runs.md#cbnus1)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ChoiJL18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/ChoiJL18,
+		author = {Won{-}Gyu Choi and Seung{-}Hyeon Jo and Kyung{-}Soon Lee},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{CBNU} at {TREC} 2018 Incident Streams Track},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/cbnu-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/ChoiJL18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### EPIC_MR Participation in the TREC 2018 Incidence Stream Track
+
+_Simon W. Y. Chung, K. K. Lo_
+
+- :fontawesome-solid-user-group: **Participant:** [EPIC_MR](./participants.md#epic_mr)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/EPIC_MR-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/EPIC_MR-IS.pdf)
+- :material-file-search: **Runs:** [myrun-11](./runs.md#myrun-11), [myrun-10](./runs.md#myrun-10), [myrun-2](./runs.md#myrun-2), [myrun-21](./runs.md#myrun-21)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ChungL18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/ChungL18,
+		author = {Simon W. Y. Chung and K. K. Lo},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {EPIC{\_}MR Participation in the {TREC} 2018 Incidence Stream Track},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/EPIC\_MR-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/ChungL18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### Neural Networks and Support Vector Machine based Approach for Classifying  Tweets by Information Types at TREC 2018 Incident Streams Task
+
+_Abu Nowshed Chy, Umme Aymun Siddiqua, Masaki Aono_
+
+- :fontawesome-solid-user-group: **Participant:** [KDEIS](./participants.md#kdeis)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/KDEIS-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/KDEIS-IS.pdf)
+- :material-file-search: **Runs:** [KDEIS2_ACBLSTM](./runs.md#kdeis2_acblstm), [KDEIS1_CLSTM](./runs.md#kdeis1_clstm), [KDEIS3_ACSBLSTM](./runs.md#kdeis3_acsblstm), [KDEIS4_DM](./runs.md#kdeis4_dm)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ChySA18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/ChySA18,
+		author = {Abu Nowshed Chy and Umme Aymun Siddiqua and Masaki Aono},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {Neural Networks and Support Vector Machine based Approach for Classifying Tweets by Information Types at {TREC} 2018 Incident Streams Task},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/KDEIS-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/ChySA18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### SINAI at TREC 2018: Experiments in Incident Streams
+
+_Miguel Ángel García Cumbreras, Manuel Carlos Díaz-Galiano, Manuel García Vega, Salud María Jiménez Zafra_
+
+- :fontawesome-solid-user-group: **Participant:** [SINAI](./participants.md#sinai)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/SINAI-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/SINAI-IS.pdf)
+- :material-file-search: **Runs:** [SINAI_run1](./runs.md#sinai_run1), [SINAI_run2](./runs.md#sinai_run2), [SINAI_run3](./runs.md#sinai_run3), [SINAI_run4](./runs.md#sinai_run4)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/CumbrerasDVZ18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/CumbrerasDVZ18,
+		author = {Miguel {\'{A}}ngel Garc{\'{\i}}a Cumbreras and Manuel Carlos D{\'{\i}}az{-}Galiano and Manuel Garc{\'{\i}}a Vega and Salud Mar{\'{\i}}a Jim{\'{e}}nez Zafra},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{SINAI} at {TREC} 2018: Experiments in Incident Streams},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/SINAI-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/CumbrerasDVZ18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### BJUT at TREC 2018: Incident Streams Track
+
+_Ning Lu, Hesong Wang, Zhen Yang_
+
+- :fontawesome-solid-user-group: **Participant:** [BJUT](./participants.md#bjut)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/BJUT-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/BJUT-IS.pdf)
+- :material-file-search: **Runs:** [myrun2](./runs.md#myrun2), [myrun1](./runs.md#myrun1)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/LuW018.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/LuW018,
+		author = {Ning Lu and Hesong Wang and Zhen Yang},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{BJUT} at {TREC} 2018: Incident Streams Track},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/BJUT-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/LuW018.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### IIT-BHU In TREC 2018 Incidents Stream Track
+
+_Harshit Mehrotra, Sukomal Pal_
+
+- :fontawesome-solid-user-group: **Participant:** [IIT-BHU](./participants.md#iit-bhu)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/IIT-BHU-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/IIT-BHU-IS.pdf)
+- :material-file-search: **Runs:** [IITBHU1](./runs.md#iitbhu1), [IITBHU12](./runs.md#iitbhu12)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/MehrotraP18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/MehrotraP18,
+		author = {Harshit Mehrotra and Sukomal Pal},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{IIT-BHU} In {TREC} 2018 Incidents Stream Track},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/IIT-BHU-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/MehrotraP18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### NHK STRL at TREC 2018 Incident Streams track
+
+_Taro Miyazaki, Kiminobu Makino, Yuka Takei, Hiroki Okamoto, Jun Goto_
+
+- :fontawesome-solid-user-group: **Participant:** [NHK](./participants.md#nhk)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/NHK-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/NHK-IS.pdf)
+- :material-file-search: **Runs:** [NHK_run2](./runs.md#nhk_run2), [NHK_run3](./runs.md#nhk_run3), [NHK_run1](./runs.md#nhk_run1), [NHK_run4](./runs.md#nhk_run4)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/MiyazakiMTOG18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/MiyazakiMTOG18,
+		author = {Taro Miyazaki and Kiminobu Makino and Yuka Takei and Hiroki Okamoto and Jun Goto},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{NHK} {STRL} at {TREC} 2018 Incident Streams track},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/NHK-IS.pdf},
+		timestamp = {Sun, 02 Oct 2022 01:00:00 +0200},
+		biburl = {https://dblp.org/rec/conf/trec/MiyazakiMTOG18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
+#### DICE @ TREC-IS 2018: Combining Knowledge Graphs and Deep Learning  to Identify Crisis-Relevant Tweets
+
+_Hamada M. Zahera, Rricha Jalota, Ricardo Usbeck_
+
+- :fontawesome-solid-user-group: **Participant:** [DICE-UPB](./participants.md#dice-upb)
+- :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/DICE-UPB-IS.pdf](https://trec.nist.gov/pubs/trec27/papers/DICE-UPB-IS.pdf)
+- :material-file-search: **Runs:** [UPB_DICE1](./runs.md#upb_dice1), [UPB_DICE2](./runs.md#upb_dice2), [UPB_DICE4](./runs.md#upb_dice4), [UPB_DICE3](./runs.md#upb_dice3)
+
+??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ZaheraJU18.bib) "
+	```
+	@inproceedings{DBLP:conf/trec/ZaheraJU18,
+		author = {Hamada M. Zahera and Rricha Jalota and Ricardo Usbeck},
+		editor = {Ellen M. Voorhees and Angela Ellis},
+		title = {{DICE} @ {TREC-IS} 2018: Combining Knowledge Graphs and Deep Learning to Identify Crisis-Relevant Tweets},
+		booktitle = {Proceedings of the Twenty-Seventh Text REtrieval Conference, {TREC} 2018, Gaithersburg, Maryland, USA, November 14-16, 2018},
+		series = {{NIST} Special Publication},
+		volume = {500-331},
+		publisher = {National Institute of Standards and Technology {(NIST)}},
+		year = {2018},
+		url = {https://trec.nist.gov/pubs/trec27/papers/DICE-UPB-IS.pdf},
+		timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+		biburl = {https://dblp.org/rec/conf/trec/ZaheraJU18.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
+	}
+	```
+
