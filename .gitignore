@@ -1,0 +1,6 @@
+browser/*
+api/*
+
+*.db
+
+.DS_Store
