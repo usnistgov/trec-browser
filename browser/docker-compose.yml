@@ -1,0 +1,10 @@
+version: "3"
+services:
+  trec_browser:
+    image: mkdocs 
+    build: ./src 
+    volumes:
+      - ./src:/usr/src/app
+    ports:
+      - 8000:8000
+    restart: always

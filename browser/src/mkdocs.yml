@@ -1,0 +1,1400 @@
+site_name: TREC Browser
+site_url: https://pages.nist.gov/trec-browser
+theme:
+  name: material
+  logo: assets/search.svg
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to light mode
+  features:
+  - content.code.copy
+  - navigation.instant
+markdown_extensions:
+- def_list
+- attr_list
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- toc:
+    permalink: true
+extra_css:
+- https://pages.nist.gov/nist-header-footer/css/nist-combined.css
+extra_javascript:
+- https://code.jquery.com/jquery-3.6.2.min.js
+- https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js
+nav:
+- Home: index.md
+- TREC-31 (2022):
+  - Overview: trec31/overview.md
+  - NeuCLIR:
+    - Overview: trec31/neuclir/overview.md
+    - Data: trec31/neuclir/data.md
+    - Participants: trec31/neuclir/participants.md
+    - Runs: trec31/neuclir/runs.md
+    - Results: trec31/neuclir/results.md
+    - Proceedings: trec31/neuclir/proceedings.md
+  - Health Misinformation:
+    - Overview: trec31/misinfo/overview.md
+    - Data: trec31/misinfo/data.md
+    - Participants: trec31/misinfo/participants.md
+    - Runs: trec31/misinfo/runs.md
+    - Results: trec31/misinfo/results.md
+    - Proceedings: trec31/misinfo/proceedings.md
+  - Deep Learning:
+    - Overview: trec31/deep/overview.md
+    - Data: trec31/deep/data.md
+    - Participants: trec31/deep/participants.md
+    - Runs: trec31/deep/runs.md
+    - Results: trec31/deep/results.md
+    - Proceedings: trec31/deep/proceedings.md
+  - Conversational Assistance:
+    - Overview: trec31/cast/overview.md
+    - Data: trec31/cast/data.md
+    - Participants: trec31/cast/participants.md
+    - Runs: trec31/cast/runs.md
+    - Results: trec31/cast/results.md
+    - Proceedings: trec31/cast/proceedings.md
+  - Clinical Trials:
+    - Overview: trec31/trials/overview.md
+    - Data: trec31/trials/data.md
+    - Participants: trec31/trials/participants.md
+    - Runs: trec31/trials/runs.md
+    - Results: trec31/trials/results.md
+    - Proceedings: trec31/trials/proceedings.md
+  - Fair Ranking:
+    - Overview: trec31/fair/overview.md
+    - Data: trec31/fair/data.md
+    - Participants: trec31/fair/participants.md
+    - Runs: trec31/fair/runs.md
+    - Proceedings: trec31/fair/proceedings.md
+  - CrisisFACTs:
+    - Overview: trec31/crisis/overview.md
+    - Data: trec31/crisis/data.md
+    - Participants: trec31/crisis/participants.md
+    - Runs: trec31/crisis/runs.md
+    - Proceedings: trec31/crisis/proceedings.md
+- TREC-30 (2021):
+  - Overview: trec30/overview.md
+  - Incident Streams:
+    - Overview: trec30/incident/overview.md
+    - Data: trec30/incident/data.md
+    - Participants: trec30/incident/participants.md
+    - Runs: trec30/incident/runs.md
+    - Proceedings: trec30/incident/proceedings.md
+  - News:
+    - Overview: trec30/news/overview.md
+    - Data: trec30/news/data.md
+    - Participants: trec30/news/participants.md
+    - Runs: trec30/news/runs.md
+    - Results: trec30/news/results.md
+    - Proceedings: trec30/news/proceedings.md
+  - Fair Ranking:
+    - Overview: trec30/fair/overview.md
+    - Data: trec30/fair/data.md
+    - Participants: trec30/fair/participants.md
+    - Runs: trec30/fair/runs.md
+    - Proceedings: trec30/fair/proceedings.md
+  - Deep Learning:
+    - Overview: trec30/deep/overview.md
+    - Data: trec30/deep/data.md
+    - Participants: trec30/deep/participants.md
+    - Runs: trec30/deep/runs.md
+    - Results: trec30/deep/results.md
+    - Proceedings: trec30/deep/proceedings.md
+  - Clinical Trials:
+    - Overview: trec30/trials/overview.md
+    - Data: trec30/trials/data.md
+    - Participants: trec30/trials/participants.md
+    - Runs: trec30/trials/runs.md
+    - Results: trec30/trials/results.md
+    - Proceedings: trec30/trials/proceedings.md
+  - Conversational Assistance:
+    - Overview: trec30/cast/overview.md
+    - Data: trec30/cast/data.md
+    - Participants: trec30/cast/participants.md
+    - Runs: trec30/cast/runs.md
+    - Results: trec30/cast/results.md
+    - Proceedings: trec30/cast/proceedings.md
+  - Health Misinformation:
+    - Overview: trec30/misinfo/overview.md
+    - Data: trec30/misinfo/data.md
+    - Participants: trec30/misinfo/participants.md
+    - Runs: trec30/misinfo/runs.md
+    - Results: trec30/misinfo/results.md
+    - Proceedings: trec30/misinfo/proceedings.md
+  - Podcast:
+    - Overview: trec30/podcast/overview.md
+    - Data: trec30/podcast/data.md
+    - Participants: trec30/podcast/participants.md
+    - Runs: trec30/podcast/runs.md
+    - Results: trec30/podcast/results.md
+    - Proceedings: trec30/podcast/proceedings.md
+- TREC-29 (2020):
+  - Overview: trec29/overview.md
+  - News:
+    - Overview: trec29/news/overview.md
+    - Data: trec29/news/data.md
+    - Participants: trec29/news/participants.md
+    - Runs: trec29/news/runs.md
+    - Proceedings: trec29/news/proceedings.md
+  - Deep Learning:
+    - Overview: trec29/deep/overview.md
+    - Data: trec29/deep/data.md
+    - Participants: trec29/deep/participants.md
+    - Runs: trec29/deep/runs.md
+    - Results: trec29/deep/results.md
+    - Proceedings: trec29/deep/proceedings.md
+  - Incident Streams:
+    - Overview: trec29/incident/overview.md
+    - Data: trec29/incident/data.md
+    - Participants: trec29/incident/participants.md
+    - Runs: trec29/incident/runs.md
+    - Proceedings: trec29/incident/proceedings.md
+  - Health Misinformation:
+    - Overview: trec29/misinfo/overview.md
+    - Data: trec29/misinfo/data.md
+    - Participants: trec29/misinfo/participants.md
+    - Runs: trec29/misinfo/runs.md
+    - Results: trec29/misinfo/results.md
+    - Proceedings: trec29/misinfo/proceedings.md
+  - Conversational Assistance:
+    - Overview: trec29/cast/overview.md
+    - Data: trec29/cast/data.md
+    - Participants: trec29/cast/participants.md
+    - Runs: trec29/cast/runs.md
+    - Results: trec29/cast/results.md
+    - Proceedings: trec29/cast/proceedings.md
+  - Precision Medicine:
+    - Overview: trec29/pm/overview.md
+    - Data: trec29/pm/data.md
+    - Participants: trec29/pm/participants.md
+    - Runs: trec29/pm/runs.md
+    - Results: trec29/pm/results.md
+    - Proceedings: trec29/pm/proceedings.md
+  - Podcast:
+    - Overview: trec29/podcast/overview.md
+    - Data: trec29/podcast/data.md
+    - Participants: trec29/podcast/participants.md
+    - Runs: trec29/podcast/runs.md
+    - Results: trec29/podcast/results.md
+    - Proceedings: trec29/podcast/proceedings.md
+  - Fair Ranking:
+    - Overview: trec29/fair/overview.md
+    - Data: trec29/fair/data.md
+    - Participants: trec29/fair/participants.md
+    - Runs: trec29/fair/runs.md
+    - Proceedings: trec29/fair/proceedings.md
+- TREC-28 (2019):
+  - Overview: trec28/overview.md
+  - Complex Answer Retrieval:
+    - Overview: trec28/car/overview.md
+    - Data: trec28/car/data.md
+    - Participants: trec28/car/participants.md
+    - Runs: trec28/car/runs.md
+    - Proceedings: trec28/car/proceedings.md
+  - Deep Learning:
+    - Overview: trec28/deep/overview.md
+    - Data: trec28/deep/data.md
+    - Participants: trec28/deep/participants.md
+    - Runs: trec28/deep/runs.md
+    - Results: trec28/deep/results.md
+    - Proceedings: trec28/deep/proceedings.md
+  - Precision Medicine:
+    - Overview: trec28/pm/overview.md
+    - Data: trec28/pm/data.md
+    - Participants: trec28/pm/participants.md
+    - Runs: trec28/pm/runs.md
+    - Results: trec28/pm/results.md
+    - Proceedings: trec28/pm/proceedings.md
+  - Conversational Assistance:
+    - Overview: trec28/cast/overview.md
+    - Data: trec28/cast/data.md
+    - Participants: trec28/cast/participants.md
+    - Runs: trec28/cast/runs.md
+    - Results: trec28/cast/results.md
+    - Proceedings: trec28/cast/proceedings.md
+  - News:
+    - Overview: trec28/news/overview.md
+    - Data: trec28/news/data.md
+    - Participants: trec28/news/participants.md
+    - Runs: trec28/news/runs.md
+    - Results: trec28/news/results.md
+    - Proceedings: trec28/news/proceedings.md
+  - Decision:
+    - Overview: trec28/decisions/overview.md
+    - Data: trec28/decisions/data.md
+    - Participants: trec28/decisions/participants.md
+    - Runs: trec28/decisions/runs.md
+    - Results: trec28/decisions/results.md
+    - Proceedings: trec28/decisions/proceedings.md
+  - Fair Ranking:
+    - Overview: trec28/fair/overview.md
+    - Data: trec28/fair/data.md
+    - Participants: trec28/fair/participants.md
+    - Runs: trec28/fair/runs.md
+    - Proceedings: trec28/fair/proceedings.md
+  - Incident Streams:
+    - Overview: trec28/incident/overview.md
+    - Data: trec28/incident/data.md
+    - Participants: trec28/incident/participants.md
+    - Runs: trec28/incident/runs.md
+    - Proceedings: trec28/incident/proceedings.md
+- TREC-27 (2018):
+  - Overview: trec27/overview.md
+  - Precision Medicine:
+    - Overview: trec27/pm/overview.md
+    - Data: trec27/pm/data.md
+    - Participants: trec27/pm/participants.md
+    - Runs: trec27/pm/runs.md
+    - Results: trec27/pm/results.md
+    - Proceedings: trec27/pm/proceedings.md
+  - Common Core:
+    - Overview: trec27/core/overview.md
+    - Data: trec27/core/data.md
+    - Participants: trec27/core/participants.md
+    - Runs: trec27/core/runs.md
+    - Results: trec27/core/results.md
+    - Proceedings: trec27/core/proceedings.md
+  - Real-time Summarization:
+    - Overview: trec27/rts/overview.md
+    - Data: trec27/rts/data.md
+    - Participants: trec27/rts/participants.md
+    - Runs: trec27/rts/runs.md
+    - Proceedings: trec27/rts/proceedings.md
+  - Complex Answer Retrieval:
+    - Overview: trec27/car/overview.md
+    - Data: trec27/car/data.md
+    - Participants: trec27/car/participants.md
+    - Runs: trec27/car/runs.md
+    - Proceedings: trec27/car/proceedings.md
+  - News:
+    - Overview: trec27/news/overview.md
+    - Data: trec27/news/data.md
+    - Participants: trec27/news/participants.md
+    - Runs: trec27/news/runs.md
+    - Results: trec27/news/results.md
+    - Proceedings: trec27/news/proceedings.md
+  - Incident Streams:
+    - Overview: trec27/incident/overview.md
+    - Data: trec27/incident/data.md
+    - Participants: trec27/incident/participants.md
+    - Runs: trec27/incident/runs.md
+    - Proceedings: trec27/incident/proceedings.md
+  - CENTRE:
+    - Overview: trec27/centre/overview.md
+    - Participants: trec27/centre/participants.md
+    - Runs: trec27/centre/runs.md
+    - Proceedings: trec27/centre/proceedings.md
+- TREC-26 (2017):
+  - Overview: trec26/overview.md
+  - Common Core:
+    - Overview: trec26/core/overview.md
+    - Data: trec26/core/data.md
+    - Participants: trec26/core/participants.md
+    - Runs: trec26/core/runs.md
+    - Results: trec26/core/results.md
+    - Proceedings: trec26/core/proceedings.md
+  - Precision Medicine:
+    - Overview: trec26/pm/overview.md
+    - Data: trec26/pm/data.md
+    - Participants: trec26/pm/participants.md
+    - Runs: trec26/pm/runs.md
+    - Results: trec26/pm/results.md
+    - Proceedings: trec26/pm/proceedings.md
+  - LiveQA:
+    - Overview: trec26/qa/overview.md
+    - Data: trec26/qa/data.md
+    - Participants: trec26/qa/participants.md
+    - Runs: trec26/qa/runs.md
+    - Proceedings: trec26/qa/proceedings.md
+  - Real-time Summarization:
+    - Overview: trec26/rts/overview.md
+    - Data: trec26/rts/data.md
+    - Participants: trec26/rts/participants.md
+    - Runs: trec26/rts/runs.md
+    - Proceedings: trec26/rts/proceedings.md
+  - Complex Answer Retrieval:
+    - Overview: trec26/car/overview.md
+    - Data: trec26/car/data.md
+    - Participants: trec26/car/participants.md
+    - Runs: trec26/car/runs.md
+    - Proceedings: trec26/car/proceedings.md
+  - Tasks:
+    - Overview: trec26/task/overview.md
+    - Data: trec26/task/data.md
+    - Participants: trec26/task/participants.md
+    - Runs: trec26/task/runs.md
+    - Results: trec26/task/results.md
+    - Proceedings: trec26/task/proceedings.md
+  - Dynamic Domain:
+    - Overview: trec26/domain/overview.md
+    - Data: trec26/domain/data.md
+    - Participants: trec26/domain/participants.md
+    - Runs: trec26/domain/runs.md
+    - Proceedings: trec26/domain/proceedings.md
+  - OpenSearch:
+    - Overview: trec26/open/overview.md
+    - Participants: trec26/open/participants.md
+    - Runs: trec26/open/runs.md
+    - Proceedings: trec26/open/proceedings.md
+- TREC-25 (2016):
+  - Overview: trec25/overview.md
+  - Clinical Decision Support:
+    - Overview: trec25/clinical/overview.md
+    - Data: trec25/clinical/data.md
+    - Participants: trec25/clinical/participants.md
+    - Runs: trec25/clinical/runs.md
+    - Results: trec25/clinical/results.md
+    - Proceedings: trec25/clinical/proceedings.md
+  - LiveQA:
+    - Overview: trec25/qa/overview.md
+    - Data: trec25/qa/data.md
+    - Participants: trec25/qa/participants.md
+    - Runs: trec25/qa/runs.md
+    - Proceedings: trec25/qa/proceedings.md
+  - Contextual Suggestion:
+    - Overview: trec25/context/overview.md
+    - Data: trec25/context/data.md
+    - Participants: trec25/context/participants.md
+    - Runs: trec25/context/runs.md
+    - Results: trec25/context/results.md
+    - Proceedings: trec25/context/proceedings.md
+  - Real-time Summarization:
+    - Overview: trec25/realtime/overview.md
+    - Data: trec25/realtime/data.md
+    - Participants: trec25/realtime/participants.md
+    - Runs: trec25/realtime/runs.md
+    - Proceedings: trec25/realtime/proceedings.md
+  - Total Recall:
+    - Overview: trec25/recall/overview.md
+    - Participants: trec25/recall/participants.md
+    - Runs: trec25/recall/runs.md
+    - Proceedings: trec25/recall/proceedings.md
+  - Tasks:
+    - Overview: trec25/task/overview.md
+    - Data: trec25/task/data.md
+    - Participants: trec25/task/participants.md
+    - Runs: trec25/task/runs.md
+    - Results: trec25/task/results.md
+    - Proceedings: trec25/task/proceedings.md
+  - Dynamic Domain:
+    - Overview: trec25/domain/overview.md
+    - Data: trec25/domain/data.md
+    - Participants: trec25/domain/participants.md
+    - Runs: trec25/domain/runs.md
+    - Proceedings: trec25/domain/proceedings.md
+  - OpenSearch:
+    - Overview: trec25/open/overview.md
+    - Participants: trec25/open/participants.md
+    - Runs: trec25/open/runs.md
+    - Proceedings: trec25/open/proceedings.md
+- TREC-24 (2015):
+  - Overview: trec24/overview.md
+  - Clinical Decision Support:
+    - Overview: trec24/clinical/overview.md
+    - Data: trec24/clinical/data.md
+    - Participants: trec24/clinical/participants.md
+    - Runs: trec24/clinical/runs.md
+    - Results: trec24/clinical/results.md
+    - Proceedings: trec24/clinical/proceedings.md
+  - Microblog:
+    - Overview: trec24/microblog/overview.md
+    - Data: trec24/microblog/data.md
+    - Participants: trec24/microblog/participants.md
+    - Runs: trec24/microblog/runs.md
+    - Results: trec24/microblog/results.md
+    - Proceedings: trec24/microblog/proceedings.md
+  - Contextual Suggestion:
+    - Overview: trec24/context/overview.md
+    - Data: trec24/context/data.md
+    - Participants: trec24/context/participants.md
+    - Runs: trec24/context/runs.md
+    - Results: trec24/context/results.md
+    - Proceedings: trec24/context/proceedings.md
+  - Temporal Summarization:
+    - Overview: trec24/tempsumm/overview.md
+    - Data: trec24/tempsumm/data.md
+    - Participants: trec24/tempsumm/participants.md
+    - Runs: trec24/tempsumm/runs.md
+    - Proceedings: trec24/tempsumm/proceedings.md
+  - Tasks:
+    - Overview: trec24/task/overview.md
+    - Data: trec24/task/data.md
+    - Participants: trec24/task/participants.md
+    - Runs: trec24/task/runs.md
+    - Proceedings: trec24/task/proceedings.md
+  - Total Recall:
+    - Overview: trec24/recall/overview.md
+    - Participants: trec24/recall/participants.md
+    - Runs: trec24/recall/runs.md
+    - Proceedings: trec24/recall/proceedings.md
+  - Dynamic Domain:
+    - Overview: trec24/domain/overview.md
+    - Data: trec24/domain/data.md
+    - Participants: trec24/domain/participants.md
+    - Runs: trec24/domain/runs.md
+    - Proceedings: trec24/domain/proceedings.md
+  - LiveQA:
+    - Overview: trec24/qa/overview.md
+    - Data: trec24/qa/data.md
+    - Participants: trec24/qa/participants.md
+    - Runs: trec24/qa/runs.md
+    - Proceedings: trec24/qa/proceedings.md
+- TREC-23 (2014):
+  - Overview: trec23/overview.md
+  - Clinical Decision Support:
+    - Overview: trec23/clinical/overview.md
+    - Data: trec23/clinical/data.md
+    - Participants: trec23/clinical/participants.md
+    - Runs: trec23/clinical/runs.md
+    - Results: trec23/clinical/results.md
+    - Proceedings: trec23/clinical/proceedings.md
+  - Contextual Suggestion:
+    - Overview: trec23/context/overview.md
+    - Data: trec23/context/data.md
+    - Participants: trec23/context/participants.md
+    - Runs: trec23/context/runs.md
+    - Proceedings: trec23/context/proceedings.md
+  - Microblog:
+    - Overview: trec23/microblog/overview.md
+    - Data: trec23/microblog/data.md
+    - Participants: trec23/microblog/participants.md
+    - Runs: trec23/microblog/runs.md
+    - Results: trec23/microblog/results.md
+    - Proceedings: trec23/microblog/proceedings.md
+  - Web:
+    - Overview: trec23/web/overview.md
+    - Data: trec23/web/data.md
+    - Participants: trec23/web/participants.md
+    - Runs: trec23/web/runs.md
+    - Results: trec23/web/results.md
+    - Proceedings: trec23/web/proceedings.md
+  - Federated Web Search:
+    - Overview: trec23/federated/overview.md
+    - Data: trec23/federated/data.md
+    - Participants: trec23/federated/participants.md
+    - Runs: trec23/federated/runs.md
+    - Proceedings: trec23/federated/proceedings.md
+  - Knowledge Base Acceleration:
+    - Overview: trec23/kba/overview.md
+    - Data: trec23/kba/data.md
+    - Participants: trec23/kba/participants.md
+    - Runs: trec23/kba/runs.md
+    - Proceedings: trec23/kba/proceedings.md
+  - Temporal Summarization:
+    - Overview: trec23/tempsumm/overview.md
+    - Data: trec23/tempsumm/data.md
+    - Participants: trec23/tempsumm/participants.md
+    - Runs: trec23/tempsumm/runs.md
+    - Proceedings: trec23/tempsumm/proceedings.md
+  - Session:
+    - Overview: trec23/session/overview.md
+    - Data: trec23/session/data.md
+    - Participants: trec23/session/participants.md
+    - Runs: trec23/session/runs.md
+    - Results: trec23/session/results.md
+    - Proceedings: trec23/session/proceedings.md
+- TREC-22 (2013):
+  - Overview: trec22/overview.md
+  - Knowledge Base Acceleration:
+    - Overview: trec22/kba/overview.md
+    - Data: trec22/kba/data.md
+    - Participants: trec22/kba/participants.md
+    - Runs: trec22/kba/runs.md
+    - Proceedings: trec22/kba/proceedings.md
+  - Contextual Suggestion:
+    - Overview: trec22/context/overview.md
+    - Data: trec22/context/data.md
+    - Participants: trec22/context/participants.md
+    - Runs: trec22/context/runs.md
+    - Proceedings: trec22/context/proceedings.md
+  - Web:
+    - Overview: trec22/web/overview.md
+    - Data: trec22/web/data.md
+    - Participants: trec22/web/participants.md
+    - Runs: trec22/web/runs.md
+    - Results: trec22/web/results.md
+    - Proceedings: trec22/web/proceedings.md
+  - Federated Web Search:
+    - Overview: trec22/federated/overview.md
+    - Data: trec22/federated/data.md
+    - Participants: trec22/federated/participants.md
+    - Runs: trec22/federated/runs.md
+    - Proceedings: trec22/federated/proceedings.md
+  - Microblog:
+    - Overview: trec22/microblog/overview.md
+    - Data: trec22/microblog/data.md
+    - Participants: trec22/microblog/participants.md
+    - Runs: trec22/microblog/runs.md
+    - Results: trec22/microblog/results.md
+    - Proceedings: trec22/microblog/proceedings.md
+  - Temporal Summarization:
+    - Overview: trec22/tempsumm/overview.md
+    - Data: trec22/tempsumm/data.md
+    - Participants: trec22/tempsumm/participants.md
+    - Runs: trec22/tempsumm/runs.md
+    - Proceedings: trec22/tempsumm/proceedings.md
+  - Session:
+    - Overview: trec22/session/overview.md
+    - Data: trec22/session/data.md
+    - Participants: trec22/session/participants.md
+    - Runs: trec22/session/runs.md
+    - Results: trec22/session/results.md
+    - Proceedings: trec22/session/proceedings.md
+  - Crowdsourcing:
+    - Overview: trec22/crowd/overview.md
+    - Participants: trec22/crowd/participants.md
+    - Runs: trec22/crowd/runs.md
+    - Proceedings: trec22/crowd/proceedings.md
+- TREC-21 (2012):
+  - Overview: trec21/overview.md
+  - Microblog:
+    - Overview: trec21/microblog/overview.md
+    - Data: trec21/microblog/data.md
+    - Participants: trec21/microblog/participants.md
+    - Runs: trec21/microblog/runs.md
+    - Results: trec21/microblog/results.md
+    - Proceedings: trec21/microblog/proceedings.md
+  - Web:
+    - Overview: trec21/web/overview.md
+    - Data: trec21/web/data.md
+    - Participants: trec21/web/participants.md
+    - Runs: trec21/web/runs.md
+    - Results: trec21/web/results.md
+    - Proceedings: trec21/web/proceedings.md
+  - Contextual Suggestion:
+    - Overview: trec21/context/overview.md
+    - Data: trec21/context/data.md
+    - Participants: trec21/context/participants.md
+    - Runs: trec21/context/runs.md
+    - Proceedings: trec21/context/proceedings.md
+  - Medical:
+    - Overview: trec21/medical/overview.md
+    - Data: trec21/medical/data.md
+    - Participants: trec21/medical/participants.md
+    - Runs: trec21/medical/runs.md
+    - Results: trec21/medical/results.md
+    - Proceedings: trec21/medical/proceedings.md
+  - Session:
+    - Overview: trec21/session/overview.md
+    - Data: trec21/session/data.md
+    - Participants: trec21/session/participants.md
+    - Runs: trec21/session/runs.md
+    - Results: trec21/session/results.md
+    - Proceedings: trec21/session/proceedings.md
+  - Crowdsourcing:
+    - Overview: trec21/crowd/overview.md
+    - Participants: trec21/crowd/participants.md
+    - Runs: trec21/crowd/runs.md
+    - Proceedings: trec21/crowd/proceedings.md
+  - Knowledge Base Acceleration:
+    - Overview: trec21/kba/overview.md
+    - Data: trec21/kba/data.md
+    - Participants: trec21/kba/participants.md
+    - Runs: trec21/kba/runs.md
+    - Proceedings: trec21/kba/proceedings.md
+- TREC-20 (2011):
+  - Overview: trec20/overview.md
+  - Entity:
+    - Overview: trec20/entity/overview.md
+    - Data: trec20/entity/data.md
+    - Participants: trec20/entity/participants.md
+    - Runs: trec20/entity/runs.md
+    - Results: trec20/entity/results.md
+    - Proceedings: trec20/entity/proceedings.md
+  - Microblog:
+    - Overview: trec20/microblog/overview.md
+    - Data: trec20/microblog/data.md
+    - Participants: trec20/microblog/participants.md
+    - Runs: trec20/microblog/runs.md
+    - Results: trec20/microblog/results.md
+    - Proceedings: trec20/microblog/proceedings.md
+  - Web:
+    - Overview: trec20/web/overview.md
+    - Data: trec20/web/data.md
+    - Participants: trec20/web/participants.md
+    - Runs: trec20/web/runs.md
+    - Results: trec20/web/results.md
+    - Proceedings: trec20/web/proceedings.md
+  - Legal:
+    - Overview: trec20/legal/overview.md
+    - Data: trec20/legal/data.md
+    - Participants: trec20/legal/participants.md
+    - Runs: trec20/legal/runs.md
+    - Proceedings: trec20/legal/proceedings.md
+  - Chemical:
+    - Overview: trec20/chemical/overview.md
+    - Data: trec20/chemical/data.md
+    - Participants: trec20/chemical/participants.md
+    - Runs: trec20/chemical/runs.md
+    - Results: trec20/chemical/results.md
+    - Proceedings: trec20/chemical/proceedings.md
+  - Medical:
+    - Overview: trec20/medical/overview.md
+    - Data: trec20/medical/data.md
+    - Participants: trec20/medical/participants.md
+    - Runs: trec20/medical/runs.md
+    - Results: trec20/medical/results.md
+    - Proceedings: trec20/medical/proceedings.md
+  - Session:
+    - Overview: trec20/session/overview.md
+    - Data: trec20/session/data.md
+    - Participants: trec20/session/participants.md
+    - Runs: trec20/session/runs.md
+    - Results: trec20/session/results.md
+    - Proceedings: trec20/session/proceedings.md
+  - Crowd:
+    - Overview: trec20/crowd/overview.md
+    - Participants: trec20/crowd/participants.md
+    - Runs: trec20/crowd/runs.md
+    - Proceedings: trec20/crowd/proceedings.md
+- TREC-19 (2010):
+  - Overview: trec19/overview.md
+  - Blog:
+    - Overview: trec19/blog/overview.md
+    - Data: trec19/blog/data.md
+    - Participants: trec19/blog/participants.md
+    - Runs: trec19/blog/runs.md
+    - Results: trec19/blog/results.md
+    - Proceedings: trec19/blog/proceedings.md
+  - Web:
+    - Overview: trec19/web/overview.md
+    - Data: trec19/web/data.md
+    - Participants: trec19/web/participants.md
+    - Runs: trec19/web/runs.md
+    - Results: trec19/web/results.md
+    - Proceedings: trec19/web/proceedings.md
+  - Chemical:
+    - Overview: trec19/chemical/overview.md
+    - Data: trec19/chemical/data.md
+    - Participants: trec19/chemical/participants.md
+    - Runs: trec19/chemical/runs.md
+    - Results: trec19/chemical/results.md
+    - Proceedings: trec19/chemical/proceedings.md
+  - Relevance Feedback:
+    - Overview: trec19/relfdbk/overview.md
+    - Data: trec19/relfdbk/data.md
+    - Participants: trec19/relfdbk/participants.md
+    - Runs: trec19/relfdbk/runs.md
+    - Proceedings: trec19/relfdbk/proceedings.md
+  - Legal:
+    - Overview: trec19/legal/overview.md
+    - Data: trec19/legal/data.md
+    - Participants: trec19/legal/participants.md
+    - Runs: trec19/legal/runs.md
+    - Proceedings: trec19/legal/proceedings.md
+  - Session:
+    - Overview: trec19/session/overview.md
+    - Data: trec19/session/data.md
+    - Participants: trec19/session/participants.md
+    - Runs: trec19/session/runs.md
+    - Proceedings: trec19/session/proceedings.md
+  - Entity:
+    - Overview: trec19/entity/overview.md
+    - Data: trec19/entity/data.md
+    - Participants: trec19/entity/participants.md
+    - Runs: trec19/entity/runs.md
+    - Results: trec19/entity/results.md
+    - Proceedings: trec19/entity/proceedings.md
+- TREC-18 (2009):
+  - Overview: trec18/overview.md
+  - Relevance Feedback:
+    - Overview: trec18/relfdbk/overview.md
+    - Data: trec18/relfdbk/data.md
+    - Participants: trec18/relfdbk/participants.md
+    - Runs: trec18/relfdbk/runs.md
+    - Results: trec18/relfdbk/results.md
+    - Proceedings: trec18/relfdbk/proceedings.md
+  - Chemical:
+    - Overview: trec18/chemical/overview.md
+    - Data: trec18/chemical/data.md
+    - Participants: trec18/chemical/participants.md
+    - Runs: trec18/chemical/runs.md
+    - Results: trec18/chemical/results.md
+    - Proceedings: trec18/chemical/proceedings.md
+  - Legal:
+    - Overview: trec18/legal/overview.md
+    - Data: trec18/legal/data.md
+    - Participants: trec18/legal/participants.md
+    - Runs: trec18/legal/runs.md
+    - Results: trec18/legal/results.md
+    - Proceedings: trec18/legal/proceedings.md
+  - Web:
+    - Overview: trec18/web/overview.md
+    - Data: trec18/web/data.md
+    - Participants: trec18/web/participants.md
+    - Runs: trec18/web/runs.md
+    - Results: trec18/web/results.md
+    - Proceedings: trec18/web/proceedings.md
+  - Million Query:
+    - Overview: trec18/million-query/overview.md
+    - Data: trec18/million-query/data.md
+    - Participants: trec18/million-query/participants.md
+    - Runs: trec18/million-query/runs.md
+    - Results: trec18/million-query/results.md
+    - Proceedings: trec18/million-query/proceedings.md
+  - Blog:
+    - Overview: trec18/blog/overview.md
+    - Data: trec18/blog/data.md
+    - Participants: trec18/blog/participants.md
+    - Runs: trec18/blog/runs.md
+    - Results: trec18/blog/results.md
+    - Proceedings: trec18/blog/proceedings.md
+  - Entity:
+    - Overview: trec18/entity/overview.md
+    - Data: trec18/entity/data.md
+    - Participants: trec18/entity/participants.md
+    - Runs: trec18/entity/runs.md
+    - Results: trec18/entity/results.md
+    - Proceedings: trec18/entity/proceedings.md
+- TREC-17 (2008):
+  - Overview: trec17/overview.md
+  - Blog:
+    - Overview: trec17/blog/overview.md
+    - Data: trec17/blog/data.md
+    - Participants: trec17/blog/participants.md
+    - Runs: trec17/blog/runs.md
+    - Results: trec17/blog/results.md
+    - Proceedings: trec17/blog/proceedings.md
+  - Million Query:
+    - Overview: trec17/million-query/overview.md
+    - Data: trec17/million-query/data.md
+    - Participants: trec17/million-query/participants.md
+    - Runs: trec17/million-query/runs.md
+    - Proceedings: trec17/million-query/proceedings.md
+  - Enterprise:
+    - Overview: trec17/enterprise/overview.md
+    - Data: trec17/enterprise/data.md
+    - Participants: trec17/enterprise/participants.md
+    - Runs: trec17/enterprise/runs.md
+    - Results: trec17/enterprise/results.md
+    - Proceedings: trec17/enterprise/proceedings.md
+  - Legal:
+    - Overview: trec17/legal/overview.md
+    - Data: trec17/legal/data.md
+    - Participants: trec17/legal/participants.md
+    - Runs: trec17/legal/runs.md
+    - Results: trec17/legal/results.md
+    - Proceedings: trec17/legal/proceedings.md
+  - Relevance Feedback:
+    - Overview: trec17/relfdbk/overview.md
+    - Data: trec17/relfdbk/data.md
+    - Participants: trec17/relfdbk/participants.md
+    - Runs: trec17/relfdbk/runs.md
+    - Proceedings: trec17/relfdbk/proceedings.md
+- TREC-16 (2007):
+  - Overview: trec16/overview.md
+  - Million Query:
+    - Overview: trec16/million-query/overview.md
+    - Data: trec16/million-query/data.md
+    - Participants: trec16/million-query/participants.md
+    - Runs: trec16/million-query/runs.md
+    - Results: trec16/million-query/results.md
+    - Proceedings: trec16/million-query/proceedings.md
+  - Genomics:
+    - Overview: trec16/genomics/overview.md
+    - Data: trec16/genomics/data.md
+    - Participants: trec16/genomics/participants.md
+    - Runs: trec16/genomics/runs.md
+    - Results: trec16/genomics/results.md
+    - Proceedings: trec16/genomics/proceedings.md
+  - Spam:
+    - Overview: trec16/spam/overview.md
+    - Data: trec16/spam/data.md
+    - Participants: trec16/spam/participants.md
+    - Runs: trec16/spam/runs.md
+    - Proceedings: trec16/spam/proceedings.md
+  - Legal:
+    - Overview: trec16/legal/overview.md
+    - Data: trec16/legal/data.md
+    - Participants: trec16/legal/participants.md
+    - Runs: trec16/legal/runs.md
+    - Results: trec16/legal/results.md
+    - Proceedings: trec16/legal/proceedings.md
+  - Question Answering:
+    - Overview: trec16/qa/overview.md
+    - Data: trec16/qa/data.md
+    - Participants: trec16/qa/participants.md
+    - Runs: trec16/qa/runs.md
+    - Proceedings: trec16/qa/proceedings.md
+  - Enterprise:
+    - Overview: trec16/enterprise/overview.md
+    - Data: trec16/enterprise/data.md
+    - Participants: trec16/enterprise/participants.md
+    - Runs: trec16/enterprise/runs.md
+    - Results: trec16/enterprise/results.md
+    - Proceedings: trec16/enterprise/proceedings.md
+  - Blog:
+    - Overview: trec16/blog/overview.md
+    - Data: trec16/blog/data.md
+    - Participants: trec16/blog/participants.md
+    - Runs: trec16/blog/runs.md
+    - Results: trec16/blog/results.md
+    - Proceedings: trec16/blog/proceedings.md
+- TREC-15 (2006):
+  - Overview: trec15/overview.md
+  - Terabyte:
+    - Overview: trec15/terabyte/overview.md
+    - Data: trec15/terabyte/data.md
+    - Participants: trec15/terabyte/participants.md
+    - Runs: trec15/terabyte/runs.md
+    - Results: trec15/terabyte/results.md
+    - Proceedings: trec15/terabyte/proceedings.md
+  - Spam:
+    - Overview: trec15/spam/overview.md
+    - Data: trec15/spam/data.md
+    - Participants: trec15/spam/participants.md
+    - Runs: trec15/spam/runs.md
+    - Proceedings: trec15/spam/proceedings.md
+  - Genomics:
+    - Overview: trec15/genomics/overview.md
+    - Data: trec15/genomics/data.md
+    - Participants: trec15/genomics/participants.md
+    - Runs: trec15/genomics/runs.md
+    - Results: trec15/genomics/results.md
+    - Proceedings: trec15/genomics/proceedings.md
+  - Enterprise:
+    - Overview: trec15/enterprise/overview.md
+    - Data: trec15/enterprise/data.md
+    - Participants: trec15/enterprise/participants.md
+    - Runs: trec15/enterprise/runs.md
+    - Results: trec15/enterprise/results.md
+    - Proceedings: trec15/enterprise/proceedings.md
+  - Blog:
+    - Overview: trec15/blog/overview.md
+    - Data: trec15/blog/data.md
+    - Participants: trec15/blog/participants.md
+    - Runs: trec15/blog/runs.md
+    - Results: trec15/blog/results.md
+    - Proceedings: trec15/blog/proceedings.md
+  - Question Answering:
+    - Overview: trec15/qa/overview.md
+    - Data: trec15/qa/data.md
+    - Participants: trec15/qa/participants.md
+    - Runs: trec15/qa/runs.md
+    - Proceedings: trec15/qa/proceedings.md
+  - Legal:
+    - Overview: trec15/legal/overview.md
+    - Data: trec15/legal/data.md
+    - Participants: trec15/legal/participants.md
+    - Runs: trec15/legal/runs.md
+    - Results: trec15/legal/results.md
+    - Proceedings: trec15/legal/proceedings.md
+- TREC-14 (2005):
+  - Overview: trec14/overview.md
+  - Spam:
+    - Overview: trec14/spam/overview.md
+    - Data: trec14/spam/data.md
+    - Participants: trec14/spam/participants.md
+    - Runs: trec14/spam/runs.md
+    - Proceedings: trec14/spam/proceedings.md
+  - Terabyte:
+    - Overview: trec14/terabyte/overview.md
+    - Data: trec14/terabyte/data.md
+    - Participants: trec14/terabyte/participants.md
+    - Runs: trec14/terabyte/runs.md
+    - Results: trec14/terabyte/results.md
+    - Proceedings: trec14/terabyte/proceedings.md
+  - Genomics:
+    - Overview: trec14/genomics/overview.md
+    - Data: trec14/genomics/data.md
+    - Participants: trec14/genomics/participants.md
+    - Runs: trec14/genomics/runs.md
+    - Results: trec14/genomics/results.md
+    - Proceedings: trec14/genomics/proceedings.md
+  - HARD:
+    - Overview: trec14/HARD/overview.md
+    - Data: trec14/HARD/data.md
+    - Participants: trec14/HARD/participants.md
+    - Runs: trec14/HARD/runs.md
+    - Results: trec14/HARD/results.md
+    - Proceedings: trec14/HARD/proceedings.md
+  - Question Answering:
+    - Overview: trec14/qa/overview.md
+    - Data: trec14/qa/data.md
+    - Participants: trec14/qa/participants.md
+    - Runs: trec14/qa/runs.md
+    - Proceedings: trec14/qa/proceedings.md
+  - Enterprise:
+    - Overview: trec14/enterprise/overview.md
+    - Data: trec14/enterprise/data.md
+    - Participants: trec14/enterprise/participants.md
+    - Runs: trec14/enterprise/runs.md
+    - Results: trec14/enterprise/results.md
+    - Proceedings: trec14/enterprise/proceedings.md
+  - Robust:
+    - Overview: trec14/robust/overview.md
+    - Data: trec14/robust/data.md
+    - Participants: trec14/robust/participants.md
+    - Runs: trec14/robust/runs.md
+    - Results: trec14/robust/results.md
+    - Proceedings: trec14/robust/proceedings.md
+- TREC-13 (2004):
+  - Overview: trec13/overview.md
+  - Genomics:
+    - Overview: trec13/genomics/overview.md
+    - Data: trec13/genomics/data.md
+    - Participants: trec13/genomics/participants.md
+    - Runs: trec13/genomics/runs.md
+    - Results: trec13/genomics/results.md
+    - Proceedings: trec13/genomics/proceedings.md
+  - HARD:
+    - Overview: trec13/HARD/overview.md
+    - Participants: trec13/HARD/participants.md
+    - Runs: trec13/HARD/runs.md
+    - Proceedings: trec13/HARD/proceedings.md
+  - Robust:
+    - Overview: trec13/robust/overview.md
+    - Data: trec13/robust/data.md
+    - Participants: trec13/robust/participants.md
+    - Runs: trec13/robust/runs.md
+    - Results: trec13/robust/results.md
+    - Proceedings: trec13/robust/proceedings.md
+  - Question Answering:
+    - Overview: trec13/qa/overview.md
+    - Data: trec13/qa/data.md
+    - Participants: trec13/qa/participants.md
+    - Runs: trec13/qa/runs.md
+    - Proceedings: trec13/qa/proceedings.md
+  - Web:
+    - Overview: trec13/web/overview.md
+    - Data: trec13/web/data.md
+    - Participants: trec13/web/participants.md
+    - Runs: trec13/web/runs.md
+    - Results: trec13/web/results.md
+    - Proceedings: trec13/web/proceedings.md
+  - Novelty:
+    - Overview: trec13/novelty/overview.md
+    - Data: trec13/novelty/data.md
+    - Participants: trec13/novelty/participants.md
+    - Runs: trec13/novelty/runs.md
+    - Results: trec13/novelty/results.md
+    - Proceedings: trec13/novelty/proceedings.md
+  - Terabyte:
+    - Overview: trec13/terabyte/overview.md
+    - Data: trec13/terabyte/data.md
+    - Participants: trec13/terabyte/participants.md
+    - Runs: trec13/terabyte/runs.md
+    - Results: trec13/terabyte/results.md
+    - Proceedings: trec13/terabyte/proceedings.md
+- TREC-12 (2003):
+  - Overview: trec12/overview.md
+  - Genomics:
+    - Overview: trec12/genomics/overview.md
+    - Data: trec12/genomics/data.md
+    - Participants: trec12/genomics/participants.md
+    - Runs: trec12/genomics/runs.md
+    - Results: trec12/genomics/results.md
+    - Proceedings: trec12/genomics/proceedings.md
+  - Web:
+    - Overview: trec12/web/overview.md
+    - Data: trec12/web/data.md
+    - Participants: trec12/web/participants.md
+    - Runs: trec12/web/runs.md
+    - Results: trec12/web/results.md
+    - Proceedings: trec12/web/proceedings.md
+  - HARD:
+    - Overview: trec12/hard/overview.md
+    - Data: trec12/hard/data.md
+    - Participants: trec12/hard/participants.md
+    - Runs: trec12/hard/runs.md
+    - Results: trec12/hard/results.md
+    - Proceedings: trec12/hard/proceedings.md
+  - Robust:
+    - Overview: trec12/robust/overview.md
+    - Data: trec12/robust/data.md
+    - Participants: trec12/robust/participants.md
+    - Runs: trec12/robust/runs.md
+    - Results: trec12/robust/results.md
+    - Proceedings: trec12/robust/proceedings.md
+  - Question Answering:
+    - Overview: trec12/qa/overview.md
+    - Data: trec12/qa/data.md
+    - Participants: trec12/qa/participants.md
+    - Runs: trec12/qa/runs.md
+    - Proceedings: trec12/qa/proceedings.md
+  - Novelty:
+    - Overview: trec12/novelty/overview.md
+    - Data: trec12/novelty/data.md
+    - Participants: trec12/novelty/participants.md
+    - Runs: trec12/novelty/runs.md
+    - Results: trec12/novelty/results.md
+    - Proceedings: trec12/novelty/proceedings.md
+- TREC-11 (2002):
+  - Overview: trec11/overview.md
+  - Cross-Language:
+    - Overview: trec11/xlingual/overview.md
+    - Participants: trec11/xlingual/participants.md
+    - Runs: trec11/xlingual/runs.md
+    - Results: trec11/xlingual/results.md
+    - Proceedings: trec11/xlingual/proceedings.md
+  - Web:
+    - Overview: trec11/web/overview.md
+    - Data: trec11/web/data.md
+    - Participants: trec11/web/participants.md
+    - Runs: trec11/web/runs.md
+    - Results: trec11/web/results.md
+    - Proceedings: trec11/web/proceedings.md
+  - Question Answering:
+    - Overview: trec11/qa/overview.md
+    - Data: trec11/qa/data.md
+    - Participants: trec11/qa/participants.md
+    - Runs: trec11/qa/runs.md
+    - Proceedings: trec11/qa/proceedings.md
+  - Filtering:
+    - Overview: trec11/filtering/overview.md
+    - Data: trec11/filtering/data.md
+    - Participants: trec11/filtering/participants.md
+    - Runs: trec11/filtering/runs.md
+    - Proceedings: trec11/filtering/proceedings.md
+  - Novelty:
+    - Overview: trec11/novelty/overview.md
+    - Data: trec11/novelty/data.md
+    - Participants: trec11/novelty/participants.md
+    - Runs: trec11/novelty/runs.md
+    - Results: trec11/novelty/results.md
+    - Proceedings: trec11/novelty/proceedings.md
+  - Interactive:
+    - Overview: trec11/interactive/overview.md
+    - Data: trec11/interactive/data.md
+    - Participants: trec11/interactive/participants.md
+    - Runs: trec11/interactive/runs.md
+    - Proceedings: trec11/interactive/proceedings.md
+  - Video:
+    - Overview: trec11/video/overview.md
+    - Participants: trec11/video/participants.md
+    - Runs: trec11/video/runs.md
+    - Proceedings: trec11/video/proceedings.md
+- TREC-10 (2001):
+  - Overview: trec10/overview.md
+  - Web:
+    - Overview: trec10/web/overview.md
+    - Data: trec10/web/data.md
+    - Participants: trec10/web/participants.md
+    - Runs: trec10/web/runs.md
+    - Results: trec10/web/results.md
+    - Proceedings: trec10/web/proceedings.md
+  - Question Answering:
+    - Overview: trec10/qa/overview.md
+    - Data: trec10/qa/data.md
+    - Participants: trec10/qa/participants.md
+    - Runs: trec10/qa/runs.md
+    - Proceedings: trec10/qa/proceedings.md
+  - Cross-Language:
+    - Overview: trec10/xlingual/overview.md
+    - Participants: trec10/xlingual/participants.md
+    - Runs: trec10/xlingual/runs.md
+    - Results: trec10/xlingual/results.md
+    - Proceedings: trec10/xlingual/proceedings.md
+  - Filtering:
+    - Overview: trec10/filtering/overview.md
+    - Data: trec10/filtering/data.md
+    - Participants: trec10/filtering/participants.md
+    - Runs: trec10/filtering/runs.md
+    - Proceedings: trec10/filtering/proceedings.md
+  - Video:
+    - Overview: trec10/video/overview.md
+    - Participants: trec10/video/participants.md
+    - Runs: trec10/video/runs.md
+    - Proceedings: trec10/video/proceedings.md
+  - Interactive:
+    - Overview: trec10/interactive/overview.md
+    - Data: trec10/interactive/data.md
+    - Participants: trec10/interactive/participants.md
+    - Runs: trec10/interactive/runs.md
+    - Proceedings: trec10/interactive/proceedings.md
+- TREC-9 (2000):
+  - Overview: trec9/overview.md
+  - Web:
+    - Overview: trec9/web/overview.md
+    - Data: trec9/web/data.md
+    - Participants: trec9/web/participants.md
+    - Runs: trec9/web/runs.md
+    - Results: trec9/web/results.md
+    - Proceedings: trec9/web/proceedings.md
+  - Spoken Document Retrieval:
+    - Overview: trec9/sdr/overview.md
+    - Participants: trec9/sdr/participants.md
+    - Runs: trec9/sdr/runs.md
+    - Results: trec9/sdr/results.md
+    - Proceedings: trec9/sdr/proceedings.md
+  - Question Answering:
+    - Overview: trec9/qa/overview.md
+    - Data: trec9/qa/data.md
+    - Participants: trec9/qa/participants.md
+    - Runs: trec9/qa/runs.md
+    - Proceedings: trec9/qa/proceedings.md
+  - Cross-Language:
+    - Overview: trec9/xlingual/overview.md
+    - Participants: trec9/xlingual/participants.md
+    - Runs: trec9/xlingual/runs.md
+    - Results: trec9/xlingual/results.md
+    - Proceedings: trec9/xlingual/proceedings.md
+  - Filtering:
+    - Overview: trec9/filtering/overview.md
+    - Data: trec9/filtering/data.md
+    - Participants: trec9/filtering/participants.md
+    - Runs: trec9/filtering/runs.md
+    - Proceedings: trec9/filtering/proceedings.md
+  - Query:
+    - Overview: trec9/query/overview.md
+    - Participants: trec9/query/participants.md
+    - Runs: trec9/query/runs.md
+    - Proceedings: trec9/query/proceedings.md
+  - Interactive:
+    - Overview: trec9/interactive/overview.md
+    - Data: trec9/interactive/data.md
+    - Participants: trec9/interactive/participants.md
+    - Runs: trec9/interactive/runs.md
+    - Proceedings: trec9/interactive/proceedings.md
+- TREC-8 (1999):
+  - Overview: trec8/overview.md
+  - Adhoc:
+    - Overview: trec8/adhoc/overview.md
+    - Data: trec8/adhoc/data.md
+    - Participants: trec8/adhoc/participants.md
+    - Runs: trec8/adhoc/runs.md
+    - Results: trec8/adhoc/results.md
+    - Proceedings: trec8/adhoc/proceedings.md
+  - Filtering:
+    - Overview: trec8/filtering/overview.md
+    - Data: trec8/filtering/data.md
+    - Participants: trec8/filtering/participants.md
+    - Runs: trec8/filtering/runs.md
+    - Proceedings: trec8/filtering/proceedings.md
+  - Large Web:
+    - Overview: trec8/web/overview.md
+    - Data: trec8/web/data.md
+    - Participants: trec8/web/participants.md
+    - Runs: trec8/web/runs.md
+    - Results: trec8/web/results.md
+    - Proceedings: trec8/web/proceedings.md
+  - Query:
+    - Overview: trec8/query/overview.md
+    - Data: trec8/query/data.md
+    - Participants: trec8/query/participants.md
+    - Runs: trec8/query/runs.md
+    - Proceedings: trec8/query/proceedings.md
+  - Question Answering:
+    - Overview: trec8/qa/overview.md
+    - Data: trec8/qa/data.md
+    - Participants: trec8/qa/participants.md
+    - Runs: trec8/qa/runs.md
+    - Proceedings: trec8/qa/proceedings.md
+  - Spoken Data Recognition:
+    - Overview: trec8/sdr/overview.md
+    - Data: trec8/sdr/data.md
+    - Participants: trec8/sdr/participants.md
+    - Runs: trec8/sdr/runs.md
+    - Results: trec8/sdr/results.md
+    - Proceedings: trec8/sdr/proceedings.md
+  - Cross-Language:
+    - Overview: trec8/xlingual/overview.md
+    - Participants: trec8/xlingual/participants.md
+    - Runs: trec8/xlingual/runs.md
+    - Results: trec8/xlingual/results.md
+    - Proceedings: trec8/xlingual/proceedings.md
+  - GIRT:
+    - Overview: trec8/girt/overview.md
+    - Participants: trec8/girt/participants.md
+    - Runs: trec8/girt/runs.md
+    - Proceedings: trec8/girt/proceedings.md
+  - Interactive:
+    - Overview: trec8/interactive/overview.md
+    - Data: trec8/interactive/data.md
+    - Participants: trec8/interactive/participants.md
+    - Runs: trec8/interactive/runs.md
+    - Proceedings: trec8/interactive/proceedings.md
+- TREC-7 (1998):
+  - Overview: trec7/overview.md
+  - Adhoc:
+    - Overview: trec7/adhoc/overview.md
+    - Data: trec7/adhoc/data.md
+    - Participants: trec7/adhoc/participants.md
+    - Runs: trec7/adhoc/runs.md
+    - Results: trec7/adhoc/results.md
+    - Proceedings: trec7/adhoc/proceedings.md
+  - High-Precision:
+    - Overview: trec7/hp/overview.md
+    - Participants: trec7/hp/participants.md
+    - Runs: trec7/hp/runs.md
+    - Results: trec7/hp/results.md
+    - Proceedings: trec7/hp/proceedings.md
+  - Filtering:
+    - Overview: trec7/filtering/overview.md
+    - Data: trec7/filtering/data.md
+    - Participants: trec7/filtering/participants.md
+    - Runs: trec7/filtering/runs.md
+    - Proceedings: trec7/filtering/proceedings.md
+  - Spoken Data Recognition:
+    - Overview: trec7/sdr/overview.md
+    - Data: trec7/sdr/data.md
+    - Participants: trec7/sdr/participants.md
+    - Runs: trec7/sdr/runs.md
+    - Results: trec7/sdr/results.md
+    - Proceedings: trec7/sdr/proceedings.md
+  - Cross-Language:
+    - Overview: trec7/xlingual/overview.md
+    - Data: trec7/xlingual/data.md
+    - Participants: trec7/xlingual/participants.md
+    - Runs: trec7/xlingual/runs.md
+    - Results: trec7/xlingual/results.md
+    - Proceedings: trec7/xlingual/proceedings.md
+  - Query:
+    - Overview: trec7/query/overview.md
+    - Participants: trec7/query/participants.md
+    - Runs: trec7/query/runs.md
+    - Results: trec7/query/results.md
+    - Proceedings: trec7/query/proceedings.md
+  - Interactive:
+    - Overview: trec7/interactive/overview.md
+    - Data: trec7/interactive/data.md
+    - Participants: trec7/interactive/participants.md
+    - Runs: trec7/interactive/runs.md
+    - Proceedings: trec7/interactive/proceedings.md
+- TREC-6 (1997):
+  - Overview: trec6/overview.md
+  - Adhoc:
+    - Overview: trec6/adhoc/overview.md
+    - Data: trec6/adhoc/data.md
+    - Participants: trec6/adhoc/participants.md
+    - Runs: trec6/adhoc/runs.md
+    - Results: trec6/adhoc/results.md
+    - Proceedings: trec6/adhoc/proceedings.md
+  - Routing:
+    - Overview: trec6/routing/overview.md
+    - Data: trec6/routing/data.md
+    - Participants: trec6/routing/participants.md
+    - Runs: trec6/routing/runs.md
+    - Results: trec6/routing/results.md
+    - Proceedings: trec6/routing/proceedings.md
+  - Chinese:
+    - Overview: trec6/chinese/overview.md
+    - Data: trec6/chinese/data.md
+    - Participants: trec6/chinese/participants.md
+    - Runs: trec6/chinese/runs.md
+    - Results: trec6/chinese/results.md
+    - Proceedings: trec6/chinese/proceedings.md
+  - Cross Language:
+    - Overview: trec6/clir/overview.md
+    - Data: trec6/clir/data.md
+    - Participants: trec6/clir/participants.md
+    - Runs: trec6/clir/runs.md
+    - Results: trec6/clir/results.md
+    - Proceedings: trec6/clir/proceedings.md
+  - Filtering:
+    - Overview: trec6/filtering/overview.md
+    - Data: trec6/filtering/data.md
+    - Participants: trec6/filtering/participants.md
+    - Runs: trec6/filtering/runs.md
+    - Proceedings: trec6/filtering/proceedings.md
+  - High-Precision:
+    - Overview: trec6/hp/overview.md
+    - Participants: trec6/hp/participants.md
+    - Runs: trec6/hp/runs.md
+    - Results: trec6/hp/results.md
+    - Proceedings: trec6/hp/proceedings.md
+  - Interactive:
+    - Overview: trec6/interactive/overview.md
+    - Data: trec6/interactive/data.md
+    - Participants: trec6/interactive/participants.md
+    - Runs: trec6/interactive/runs.md
+    - Proceedings: trec6/interactive/proceedings.md
+  - NLP:
+    - Overview: trec6/nlp/overview.md
+    - Participants: trec6/nlp/participants.md
+    - Runs: trec6/nlp/runs.md
+    - Results: trec6/nlp/results.md
+    - Proceedings: trec6/nlp/proceedings.md
+  - Spoken Document Retrieval:
+    - Overview: trec6/sdr/overview.md
+    - Data: trec6/sdr/data.md
+    - Participants: trec6/sdr/participants.md
+    - Runs: trec6/sdr/runs.md
+    - Proceedings: trec6/sdr/proceedings.md
+  - Very Large Corpus:
+    - Overview: trec6/vlc/overview.md
+    - Participants: trec6/vlc/participants.md
+    - Runs: trec6/vlc/runs.md
+    - Proceedings: trec6/vlc/proceedings.md
+- TREC-5 (1996):
+  - Overview: trec5/overview.md
+  - Adhoc:
+    - Overview: trec5/adhoc/overview.md
+    - Data: trec5/adhoc/data.md
+    - Participants: trec5/adhoc/participants.md
+    - Runs: trec5/adhoc/runs.md
+    - Results: trec5/adhoc/results.md
+    - Proceedings: trec5/adhoc/proceedings.md
+  - Database Merging:
+    - Overview: trec5/dbmerge/overview.md
+    - Participants: trec5/dbmerge/participants.md
+    - Runs: trec5/dbmerge/runs.md
+    - Results: trec5/dbmerge/results.md
+    - Proceedings: trec5/dbmerge/proceedings.md
+  - Routing:
+    - Overview: trec5/routing/overview.md
+    - Data: trec5/routing/data.md
+    - Participants: trec5/routing/participants.md
+    - Runs: trec5/routing/runs.md
+    - Results: trec5/routing/results.md
+    - Proceedings: trec5/routing/proceedings.md
+  - Filtering:
+    - Overview: trec5/filtering/overview.md
+    - Participants: trec5/filtering/participants.md
+    - Runs: trec5/filtering/runs.md
+    - Proceedings: trec5/filtering/proceedings.md
+  - Spanish:
+    - Overview: trec5/Spanish/overview.md
+    - Data: trec5/Spanish/data.md
+    - Participants: trec5/Spanish/participants.md
+    - Runs: trec5/Spanish/runs.md
+    - Results: trec5/Spanish/results.md
+    - Proceedings: trec5/Spanish/proceedings.md
+  - Chinese:
+    - Overview: trec5/Chinese/overview.md
+    - Data: trec5/Chinese/data.md
+    - Participants: trec5/Chinese/participants.md
+    - Runs: trec5/Chinese/runs.md
+    - Results: trec5/Chinese/results.md
+    - Proceedings: trec5/Chinese/proceedings.md
+  - NLP:
+    - Overview: trec5/nlp/overview.md
+    - Participants: trec5/nlp/participants.md
+    - Runs: trec5/nlp/runs.md
+    - Results: trec5/nlp/results.md
+    - Proceedings: trec5/nlp/proceedings.md
+  - Confusion:
+    - Overview: trec5/confusion/overview.md
+    - Data: trec5/confusion/data.md
+    - Participants: trec5/confusion/participants.md
+    - Runs: trec5/confusion/runs.md
+    - Proceedings: trec5/confusion/proceedings.md
+  - Interactive:
+    - Overview: trec5/interactive/overview.md
+    - Data: trec5/interactive/data.md
+    - Participants: trec5/interactive/participants.md
+    - Runs: trec5/interactive/runs.md
+    - Proceedings: trec5/interactive/proceedings.md
+- TREC-4 (1995):
+  - Overview: trec4/overview.md
+- TREC-3 (1994):
+  - Overview: trec3/overview.md
+- TREC-2 (1993):
+  - Overview: trec2/overview.md
+- TREC-1 (1992):
+  - Overview: trec1/overview.md

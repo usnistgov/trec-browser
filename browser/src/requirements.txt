@@ -1,0 +1,5 @@
+mkdocs==1.5.3
+mkdocs-material==9.4.14
+mkdocs-exclude-search==0.6.5
+mkdocs-alias-plugin==0.6.0
+pymdown-extensions==10.5
