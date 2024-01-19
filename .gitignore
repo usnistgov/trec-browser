@@ -1,5 +1,5 @@
 browser/*
-api/*
+api/demo.ipynb
 
 *.db
 

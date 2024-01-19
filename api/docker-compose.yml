@@ -1,0 +1,10 @@
+version: "3"
+services:
+  trec_api:
+    image: api 
+    build: ./src 
+    volumes:
+      - ./src:/usr/src/app
+    ports:
+      - 5000:5000
+    restart: always
