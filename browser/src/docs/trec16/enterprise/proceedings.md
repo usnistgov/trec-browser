@@ -315,7 +315,6 @@ _Pavel Serdyukov, Henning Rode, Djoerd Hiemstra_
 
 - :fontawesome-solid-user-group: **Participant:** [twenteu.serdyuko](./participants.md#twenteu.serdyuko)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec16/papers/utwente.ent.final.pdf](http://trec.nist.gov/pubs/trec16/papers/utwente.ent.final.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/SerdyukovRH07.bib) "
 	```

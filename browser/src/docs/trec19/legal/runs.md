@@ -3,7 +3,7 @@
 #### BC34Fam 
 [**`Participants`**](./participants.md#bck_cgsh) 
 
-- :material-rename: **Name:** BC34Fam 
+- :material-rename: **Run ID:** BC34Fam 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -16,7 +16,7 @@
 #### BC34NoFam 
 [**`Participants`**](./participants.md#bck_cgsh) 
 
-- :material-rename: **Name:** BC34NoFam 
+- :material-rename: **Run ID:** BC34NoFam 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -29,7 +29,7 @@
 #### BC4BFam 
 [**`Participants`**](./participants.md#bck_cgsh) 
 
-- :material-rename: **Name:** BC4BFam 
+- :material-rename: **Run ID:** BC4BFam 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -42,7 +42,7 @@
 #### BC4BNoFam 
 [**`Participants`**](./participants.md#bck_cgsh) 
 
-- :material-rename: **Name:** BC4BNoFam 
+- :material-rename: **Run ID:** BC4BNoFam 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -55,7 +55,7 @@
 #### BckBigA 
 [**`Participants`**](./participants.md#bck_cgsh), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/BckBigA.pdf) 
 
-- :material-rename: **Name:** BckBigA 
+- :material-rename: **Run ID:** BckBigA 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -69,7 +69,7 @@
 #### BckExtA 
 [**`Participants`**](./participants.md#bck_cgsh), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/BckExtA.pdf) 
 
-- :material-rename: **Name:** BckExtA 
+- :material-rename: **Run ID:** BckExtA 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -83,7 +83,7 @@
 #### BckLitA 
 [**`Participants`**](./participants.md#bck_cgsh), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/BckLitA.pdf) 
 
-- :material-rename: **Name:** BckLitA 
+- :material-rename: **Run ID:** BckLitA 
 - :fontawesome-solid-user-group: **Participant:** BCK_CGSH 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -97,7 +97,7 @@
 #### Clearwell10 
 [**`Participants`**](./participants.md#clearwell) 
 
-- :material-rename: **Name:** Clearwell10 
+- :material-rename: **Run ID:** Clearwell10 
 - :fontawesome-solid-user-group: **Participant:** Clearwell 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -110,7 +110,7 @@
 #### DUTHlrgA 
 [**`Participants`**](./participants.md#eeduthgr), [**`Proceedings`**](./proceedings.md#duth-does-probabilities-of-relevance-at-the-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/DUTHlrgA.pdf) 
 
-- :material-rename: **Name:** DUTHlrgA 
+- :material-rename: **Run ID:** DUTHlrgA 
 - :fontawesome-solid-user-group: **Participant:** EE.DUTH.GR 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -124,7 +124,7 @@
 #### DUTHsdeA 
 [**`Participants`**](./participants.md#eeduthgr), [**`Proceedings`**](./proceedings.md#duth-does-probabilities-of-relevance-at-the-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/DUTHsdeA.pdf) 
 
-- :material-rename: **Name:** DUTHsdeA 
+- :material-rename: **Run ID:** DUTHsdeA 
 - :fontawesome-solid-user-group: **Participant:** EE.DUTH.GR 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -138,7 +138,7 @@
 #### DUTHsdtA 
 [**`Participants`**](./participants.md#eeduthgr), [**`Proceedings`**](./proceedings.md#duth-does-probabilities-of-relevance-at-the-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/DUTHsdtA.pdf) 
 
-- :material-rename: **Name:** DUTHsdtA 
+- :material-rename: **Run ID:** DUTHsdtA 
 - :fontawesome-solid-user-group: **Participant:** EE.DUTH.GR 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -152,7 +152,7 @@
 #### Equivio303R1 
 [**`Participants`**](./participants.md#equivio) 
 
-- :material-rename: **Name:** Equivio303R1 
+- :material-rename: **Run ID:** Equivio303R1 
 - :fontawesome-solid-user-group: **Participant:** Equivio 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -165,7 +165,7 @@
 #### EwaLanlKvm 
 [**`Participants`**](./participants.md#lanl) 
 
-- :material-rename: **Name:** EwaLanlKvm 
+- :material-rename: **Run ID:** EwaLanlKvm 
 - :fontawesome-solid-user-group: **Participant:** LANL 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -178,7 +178,7 @@
 #### Integreon302 
 [**`Participants`**](./participants.md#integreon) 
 
-- :material-rename: **Name:** Integreon302 
+- :material-rename: **Run ID:** Integreon302 
 - :fontawesome-solid-user-group: **Participant:** Integreon 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -191,7 +191,7 @@
 #### Integreon304 
 [**`Participants`**](./participants.md#integreon) 
 
-- :material-rename: **Name:** Integreon304 
+- :material-rename: **Run ID:** Integreon304 
 - :fontawesome-solid-user-group: **Participant:** Integreon 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -204,7 +204,7 @@
 #### IRISICAL1 
 [**`Participants`**](./participants.md#irisical), [**`Proceedings`**](./proceedings.md#indian-statistical-institute-kolkata-at-trec-2010-legal-interactive) 
 
-- :material-rename: **Name:** IRISICAL1 
+- :material-rename: **Run ID:** IRISICAL1 
 - :fontawesome-solid-user-group: **Participant:** IRISICAL 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -217,7 +217,7 @@
 #### ITCOMRUN0 
 [**`Participants`**](./participants.md#itcom), [**`Proceedings`**](./proceedings.md#it-discovery-at-trec-2010-legal) 
 
-- :material-rename: **Name:** ITCOMRUN0 
+- :material-rename: **Run ID:** ITCOMRUN0 
 - :fontawesome-solid-user-group: **Participant:** IT.com 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -230,7 +230,7 @@
 #### ITD 
 [**`Participants`**](./participants.md#itcom), [**`Proceedings`**](./proceedings.md#it-discovery-at-trec-2010-legal), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/ITD.pdf) 
 
-- :material-rename: **Name:** ITD 
+- :material-rename: **Run ID:** ITD 
 - :fontawesome-solid-user-group: **Participant:** IT.com 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -243,7 +243,7 @@
 #### MailMeter 
 [**`Participants`**](./participants.md#mailmeter) 
 
-- :material-rename: **Name:** MailMeter 
+- :material-rename: **Run ID:** MailMeter 
 - :fontawesome-solid-user-group: **Participant:** mailmeter 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -256,7 +256,7 @@
 #### melbit10 
 [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#the-melbourne-team-at-the-trec-2010-legal-track) 
 
-- :material-rename: **Name:** melbit10 
+- :material-rename: **Run ID:** melbit10 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -269,7 +269,7 @@
 #### otL10bT 
 [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#learning-task-experiments-in-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/otL10bT.pdf) 
 
-- :material-rename: **Name:** otL10bT 
+- :material-rename: **Run ID:** otL10bT 
 - :fontawesome-solid-user-group: **Participant:** ot 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -283,7 +283,7 @@
 #### otL10FT 
 [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#learning-task-experiments-in-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/otL10FT.pdf) 
 
-- :material-rename: **Name:** otL10FT 
+- :material-rename: **Run ID:** otL10FT 
 - :fontawesome-solid-user-group: **Participant:** ot 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -297,7 +297,7 @@
 #### otL10rvlT 
 [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#learning-task-experiments-in-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/otL10rvlT.pdf) 
 
-- :material-rename: **Name:** otL10rvlT 
+- :material-rename: **Run ID:** otL10rvlT 
 - :fontawesome-solid-user-group: **Participant:** ot 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -311,7 +311,7 @@
 #### rmitindA 
 [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#the-melbourne-team-at-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/rmitindA.pdf) 
 
-- :material-rename: **Name:** rmitindA 
+- :material-rename: **Run ID:** rmitindA 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -325,7 +325,7 @@
 #### rmitmlfT 
 [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#the-melbourne-team-at-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/rmitmlfT.pdf) 
 
-- :material-rename: **Name:** rmitmlfT 
+- :material-rename: **Run ID:** rmitmlfT 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -339,7 +339,7 @@
 #### rmitmlsT 
 [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#the-melbourne-team-at-the-trec-2010-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/rmitmlsT.pdf) 
 
-- :material-rename: **Name:** rmitmlsT 
+- :material-rename: **Run ID:** rmitmlsT 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -353,7 +353,7 @@
 #### tcd1 
 [**`Participants`**](./participants.md#tcdi), [**`Proceedings`**](./proceedings.md#auto-relevancy-baseline-a-hybrid-system-without-human-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/tcd1.pdf) 
 
-- :material-rename: **Name:** tcd1 
+- :material-rename: **Run ID:** tcd1 
 - :fontawesome-solid-user-group: **Participant:** TCDI 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -367,7 +367,7 @@
 #### UBlegal2010 
 [**`Participants`**](./participants.md#ub), [**`Proceedings`**](./proceedings.md#ub-at-trec-2010-legal-interactive) 
 
-- :material-rename: **Name:** UBlegal2010 
+- :material-rename: **Run ID:** UBlegal2010 
 - :fontawesome-solid-user-group: **Participant:** UB 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -380,7 +380,7 @@
 #### URSK35T 
 [**`Participants`**](./participants.md#ursinus), [**`Proceedings`**](./proceedings.md#applying-latent-semantic-indexing-on-the-trec-2010-legal-dataset), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/URSK35T.pdf) 
 
-- :material-rename: **Name:** URSK35T 
+- :material-rename: **Run ID:** URSK35T 
 - :fontawesome-solid-user-group: **Participant:** ursinus 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -394,7 +394,7 @@
 #### URSK70T 
 [**`Participants`**](./participants.md#ursinus), [**`Proceedings`**](./proceedings.md#applying-latent-semantic-indexing-on-the-trec-2010-legal-dataset), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/URSK70T.pdf) 
 
-- :material-rename: **Name:** URSK70T 
+- :material-rename: **Run ID:** URSK70T 
 - :fontawesome-solid-user-group: **Participant:** ursinus 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -408,7 +408,7 @@
 #### URSLSIT 
 [**`Participants`**](./participants.md#ursinus), [**`Proceedings`**](./proceedings.md#applying-latent-semantic-indexing-on-the-trec-2010-legal-dataset), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/URSLSIT.pdf) 
 
-- :material-rename: **Name:** URSLSIT 
+- :material-rename: **Run ID:** URSLSIT 
 - :fontawesome-solid-user-group: **Participant:** ursinus 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -422,7 +422,7 @@
 #### USFISDS 
 [**`Participants`**](./participants.md#usf_isds), [**`Proceedings`**](./proceedings.md#using-bag-of-words-bow-and-standard-deviations-to-represent-expected-structures-for-document-retrieval-a-way-of-thinking-that-leads-to-method-choices) 
 
-- :material-rename: **Name:** USFISDS 
+- :material-rename: **Run ID:** USFISDS 
 - :fontawesome-solid-user-group: **Participant:** USF_ISDS 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -435,7 +435,7 @@
 #### watlint10 
 [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2010-legal-interactive) 
 
-- :material-rename: **Name:** watlint10 
+- :material-rename: **Run ID:** watlint10 
 - :fontawesome-solid-user-group: **Participant:** uwaterlooclarke 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -448,7 +448,7 @@
 #### xrceCalA 
 [**`Participants`**](./participants.md#xerox), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/xrceCalA.pdf) 
 
-- :material-rename: **Name:** xrceCalA 
+- :material-rename: **Run ID:** xrceCalA 
 - :fontawesome-solid-user-group: **Participant:** XEROX 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -462,7 +462,7 @@
 #### xrceLogA 
 [**`Participants`**](./participants.md#xerox), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/xrceLogA.pdf) 
 
-- :material-rename: **Name:** xrceLogA 
+- :material-rename: **Run ID:** xrceLogA 
 - :fontawesome-solid-user-group: **Participant:** XEROX 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 
@@ -476,7 +476,7 @@
 #### xrceNoRA 
 [**`Participants`**](./participants.md#xerox), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/legal-learning/xrceNoRA.pdf) 
 
-- :material-rename: **Name:** xrceNoRA 
+- :material-rename: **Run ID:** xrceNoRA 
 - :fontawesome-solid-user-group: **Participant:** XEROX 
 - :material-format-text: **Track:** Legal 
 - :material-calendar: **Year:** 2010 

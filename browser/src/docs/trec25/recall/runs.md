@@ -1,9 +1,9 @@
 # Runs - Total Recall 2016 
 
 #### ah4_descsubset 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
-- :material-rename: **Name:** ah4_descsubset 
+- :material-rename: **Run ID:** ah4_descsubset 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -14,9 +14,9 @@
 
 ---
 #### ah4_run1 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
-- :material-rename: **Name:** ah4_run1 
+- :material-rename: **Run ID:** ah4_run1 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -27,9 +27,9 @@
 
 ---
 #### ah4_run2_seed_expansion 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
-- :material-rename: **Name:** ah4_run2_seed_expansion 
+- :material-rename: **Run ID:** ah4_run2_seed_expansion 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -40,9 +40,9 @@
 
 ---
 #### auto_shift_rotation 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** auto_shift_rotation 
+- :material-rename: **Run ID:** auto_shift_rotation 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -53,9 +53,9 @@
 
 ---
 #### auto_shift_rotation_exp 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** auto_shift_rotation_exp 
+- :material-rename: **Run ID:** auto_shift_rotation_exp 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -66,9 +66,9 @@
 
 ---
 #### baseline_bm25 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** baseline_bm25 
+- :material-rename: **Run ID:** baseline_bm25 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -79,9 +79,9 @@
 
 ---
 #### baseline_bm25_smoothing 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** baseline_bm25_smoothing 
+- :material-rename: **Run ID:** baseline_bm25_smoothing 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -92,9 +92,9 @@
 
 ---
 #### manual_seed 
-[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#an-exploration-of-total-recall-with-multiple-manual-seedings), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#an-exploration-of-total-recall-with-multiple-manual-seedings) 
 
-- :material-rename: **Name:** manual_seed 
+- :material-rename: **Run ID:** manual_seed 
 - :fontawesome-solid-user-group: **Participant:** catres 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -105,9 +105,9 @@
 
 ---
 #### Run1 
-[**`Participants`**](./participants.md#e-discoveryteam), [**`Proceedings`**](./proceedings.md#trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#e-discoveryteam), [**`Proceedings`**](./proceedings.md#trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** Run1 
+- :material-rename: **Run ID:** Run1 
 - :fontawesome-solid-user-group: **Participant:** e-discoveryteam 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -118,9 +118,9 @@
 
 ---
 #### sandbox_run 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
-- :material-rename: **Name:** sandbox_run 
+- :material-rename: **Run ID:** sandbox_run 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -131,9 +131,9 @@
 
 ---
 #### UWathome4Baseline 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4Baseline 
+- :material-rename: **Run ID:** UWathome4Baseline 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -144,9 +144,9 @@
 
 ---
 #### UWathome4descBaseline 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4descBaseline 
+- :material-rename: **Run ID:** UWathome4descBaseline 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -157,9 +157,9 @@
 
 ---
 #### UWathome4descKnee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4descKnee 
+- :material-rename: **Run ID:** UWathome4descKnee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -170,9 +170,9 @@
 
 ---
 #### UWathome4descTarget 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4descTarget 
+- :material-rename: **Run ID:** UWathome4descTarget 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -183,9 +183,9 @@
 
 ---
 #### UWathome4Knee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4Knee 
+- :material-rename: **Run ID:** UWathome4Knee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -196,9 +196,9 @@
 
 ---
 #### UWathome4Target 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** UWathome4Target 
+- :material-rename: **Run ID:** UWathome4Target 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -209,9 +209,9 @@
 
 ---
 #### uwsandboxknee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** uwsandboxknee 
+- :material-rename: **Run ID:** uwsandboxknee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 
@@ -222,9 +222,9 @@
 
 ---
 #### uwsandboxtarget 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
-- :material-rename: **Name:** uwsandboxtarget 
+- :material-rename: **Run ID:** uwsandboxtarget 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2016 

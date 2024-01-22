@@ -81,7 +81,6 @@ _Kripabandhu Ghosh, Swapan K. Parui, Prasenjit Majumder_
 
 - :fontawesome-solid-user-group: **Participant:** [IRISCAL](./participants.md#iriscal)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec20/papers/IRISCAL.legal.update.pdf](http://trec.nist.gov/pubs/trec20/papers/IRISCAL.legal.update.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/GhoshPM11.bib) "
 	```

@@ -289,7 +289,6 @@ _Paul Browne, Cathal Gurrin, Hyowon Lee, Kieran McDonald, Sorin Sav, Alan F. Sme
 
 - :fontawesome-solid-user-group: **Participant:** [DCUKI2001](./participants.md#dcuki2001)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec10/papers/dcu_trec01_final.pdf](http://trec.nist.gov/pubs/trec10/papers/dcu_trec01_final.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BrowneGLMSSY01.bib) "
 	```

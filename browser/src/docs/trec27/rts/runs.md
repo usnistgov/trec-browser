@@ -3,7 +3,7 @@
 #### BJUT-BJUT_run1-A-03 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run1-A-03.pdf) 
 
-- :material-rename: **Name:** BJUT-BJUT_run1-A-03 
+- :material-rename: **Run ID:** BJUT-BJUT_run1-A-03 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -15,7 +15,7 @@
 #### BJUT-BJUT_run2-A-04 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run2-A-04.pdf) 
 
-- :material-rename: **Name:** BJUT-BJUT_run2-A-04 
+- :material-rename: **Run ID:** BJUT-BJUT_run2-A-04 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -27,7 +27,7 @@
 #### BJUT-BJUT_run3-A-05 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run3-A-05.pdf) 
 
-- :material-rename: **Name:** BJUT-BJUT_run3-A-05 
+- :material-rename: **Run ID:** BJUT-BJUT_run3-A-05 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -39,7 +39,7 @@
 #### bjut_run1 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run1.pdf) 
 
-- :material-rename: **Name:** bjut_run1 
+- :material-rename: **Run ID:** bjut_run1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -53,7 +53,7 @@
 #### bjut_run2 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run2.pdf) 
 
-- :material-rename: **Name:** bjut_run2 
+- :material-rename: **Run ID:** bjut_run2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -67,7 +67,7 @@
 #### bjut_run3 
 [**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run3.pdf) 
 
-- :material-rename: **Name:** bjut_run3 
+- :material-rename: **Run ID:** bjut_run3 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -81,7 +81,7 @@
 #### IR-N 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-N.pdf) 
 
-- :material-rename: **Name:** IR-N 
+- :material-rename: **Run ID:** IR-N 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -95,7 +95,7 @@
 #### IR-NR1 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR1.pdf) 
 
-- :material-rename: **Name:** IR-NR1 
+- :material-rename: **Run ID:** IR-NR1 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -109,7 +109,7 @@
 #### IR-NR2 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR2.pdf) 
 
-- :material-rename: **Name:** IR-NR2 
+- :material-rename: **Run ID:** IR-NR2 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -123,7 +123,7 @@
 #### IRIT-IRIT-Run1-06 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run1-06.pdf) 
 
-- :material-rename: **Name:** IRIT-IRIT-Run1-06 
+- :material-rename: **Run ID:** IRIT-IRIT-Run1-06 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -135,7 +135,7 @@
 #### IRIT-IRIT-Run2-07 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run2-07.pdf) 
 
-- :material-rename: **Name:** IRIT-IRIT-Run2-07 
+- :material-rename: **Run ID:** IRIT-IRIT-Run2-07 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -147,7 +147,7 @@
 #### IRIT-IRIT-Run3-08 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run3-08.pdf) 
 
-- :material-rename: **Name:** IRIT-IRIT-Run3-08 
+- :material-rename: **Run ID:** IRIT-IRIT-Run3-08 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -159,7 +159,7 @@
 #### IRIT-RunB1 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB1.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB1 
+- :material-rename: **Run ID:** IRIT-RunB1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -173,7 +173,7 @@
 #### IRIT-RunB2 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB2.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB2 
+- :material-rename: **Run ID:** IRIT-RunB2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -187,7 +187,7 @@
 #### IRIT-RunB3 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB3.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB3 
+- :material-rename: **Run ID:** IRIT-RunB3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -201,7 +201,7 @@
 #### IRLAB-LDRP1 
 [**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP1.pdf) 
 
-- :material-rename: **Name:** IRLAB-LDRP1 
+- :material-rename: **Run ID:** IRLAB-LDRP1 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -215,7 +215,7 @@
 #### IRLAB-LDRP2 
 [**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP2.pdf) 
 
-- :material-rename: **Name:** IRLAB-LDRP2 
+- :material-rename: **Run ID:** IRLAB-LDRP2 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -229,7 +229,7 @@
 #### LDRP-ldrpTest-09 
 [**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-09.pdf) 
 
-- :material-rename: **Name:** LDRP-ldrpTest-09 
+- :material-rename: **Run ID:** LDRP-ldrpTest-09 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -241,7 +241,7 @@
 #### LDRP-ldrpTest-10 
 [**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-10.pdf) 
 
-- :material-rename: **Name:** LDRP-ldrpTest-10 
+- :material-rename: **Run ID:** LDRP-ldrpTest-10 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -253,7 +253,7 @@
 #### ldrpitr-ldrpitr_Run2-12 
 [**`Participants`**](./participants.md#ldrpitr), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitr_Run2-12.pdf) 
 
-- :material-rename: **Name:** ldrpitr-ldrpitr_Run2-12 
+- :material-rename: **Run ID:** ldrpitr-ldrpitr_Run2-12 
 - :fontawesome-solid-user-group: **Participant:** ldrpitr 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -265,7 +265,7 @@
 #### ldrpitr-ldrpitrTest-11 
 [**`Participants`**](./participants.md#ldrpitr), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitrTest-11.pdf) 
 
-- :material-rename: **Name:** ldrpitr-ldrpitrTest-11 
+- :material-rename: **Run ID:** ldrpitr-ldrpitrTest-11 
 - :fontawesome-solid-user-group: **Participant:** ldrpitr 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -277,7 +277,7 @@
 #### UA_GPLSI-GPLSI-runA1-13 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA1-13.pdf) 
 
-- :material-rename: **Name:** UA_GPLSI-GPLSI-runA1-13 
+- :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA1-13 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -289,7 +289,7 @@
 #### UA_GPLSI-GPLSI-runA2-14 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA2-14.pdf) 
 
-- :material-rename: **Name:** UA_GPLSI-GPLSI-runA2-14 
+- :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA2-14 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -301,7 +301,7 @@
 #### UA_GPLSI-GPLSI-runA3-15 
 [**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA3-15.pdf) 
 
-- :material-rename: **Name:** UA_GPLSI-GPLSI-runA3-15 
+- :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA3-15 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
@@ -313,7 +313,7 @@
 #### umd_hcil-primary_run-16 
 [**`Participants`**](./participants.md#umd_hcil), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/umd_hcil-primary_run-16.pdf) 
 
-- :material-rename: **Name:** umd_hcil-primary_run-16 
+- :material-rename: **Run ID:** umd_hcil-primary_run-16 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 

@@ -3,7 +3,7 @@
 #### 000cos 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.000cos.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.000cos.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/000cos.main.pdf) 
 
-- :material-rename: **Name:** 000cos 
+- :material-rename: **Run ID:** 000cos 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -16,7 +16,7 @@
 #### 000klabs 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.000klabs.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.000klabs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/000klabs.main.pdf) 
 
-- :material-rename: **Name:** 000klabs 
+- :material-rename: **Run ID:** 000klabs 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -29,7 +29,7 @@
 #### 000okapi 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.000okapi.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.000okapi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/000okapi.main.pdf) 
 
-- :material-rename: **Name:** 000okapi 
+- :material-rename: **Run ID:** 000okapi 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -42,7 +42,7 @@
 #### 000tfidfBM25 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.000tfidfBM25.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.000tfidfBM25.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/000tfidfBM25.main.pdf) 
 
-- :material-rename: **Name:** 000tfidfBM25 
+- :material-rename: **Run ID:** 000tfidfBM25 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -55,7 +55,7 @@
 #### 000tfidfLOG 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.000tfidfLOG.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.000tfidfLOG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/000tfidfLOG.main.pdf) 
 
-- :material-rename: **Name:** 000tfidfLOG 
+- :material-rename: **Run ID:** 000tfidfLOG 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -68,7 +68,7 @@
 #### dxrun 
 [**`Participants`**](./participants.md#i3s_group_of_ict), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.dxrun.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.dxrun.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/dxrun.main.pdf) 
 
-- :material-rename: **Name:** dxrun 
+- :material-rename: **Run ID:** dxrun 
 - :fontawesome-solid-user-group: **Participant:** I3S_Group_of_ICT 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -81,7 +81,7 @@
 #### hedge0 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.hedge0.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.hedge0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/hedge0.main.pdf) 
 
-- :material-rename: **Name:** hedge0 
+- :material-rename: **Run ID:** hedge0 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -94,7 +94,7 @@
 #### ind25QLnST08 
 [**`Participants`**](./participants.md#umass), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.ind25QLnST08.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.ind25QLnST08.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/ind25QLnST08.main.pdf) 
 
-- :material-rename: **Name:** ind25QLnST08 
+- :material-rename: **Run ID:** ind25QLnST08 
 - :fontawesome-solid-user-group: **Participant:** uMass 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -107,7 +107,7 @@
 #### indri25DM08 
 [**`Participants`**](./participants.md#umass), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.indri25DM08.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.indri25DM08.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/indri25DM08.main.pdf) 
 
-- :material-rename: **Name:** indri25DM08 
+- :material-rename: **Run ID:** indri25DM08 
 - :fontawesome-solid-user-group: **Participant:** uMass 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -120,7 +120,7 @@
 #### indriLowMu08 
 [**`Participants`**](./participants.md#umass), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.indriLowMu08.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.indriLowMu08.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/indriLowMu08.main.pdf) 
 
-- :material-rename: **Name:** indriLowMu08 
+- :material-rename: **Run ID:** indriLowMu08 
 - :fontawesome-solid-user-group: **Participant:** uMass 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -133,7 +133,7 @@
 #### indriQLST08 
 [**`Participants`**](./participants.md#umass), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.indriQLST08.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.indriQLST08.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/indriQLST08.main.pdf) 
 
-- :material-rename: **Name:** indriQLST08 
+- :material-rename: **Run ID:** indriQLST08 
 - :fontawesome-solid-user-group: **Participant:** uMass 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -146,7 +146,7 @@
 #### lsi150dyn 
 [**`Participants`**](./participants.md#arsc08), [**`Proceedings`**](./proceedings.md#distributed-multisearch-and-resource-selection-for-the-trec-million-query-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.lsi150dyn.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.lsi150dyn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/lsi150dyn.main.pdf) 
 
-- :material-rename: **Name:** lsi150dyn 
+- :material-rename: **Run ID:** lsi150dyn 
 - :fontawesome-solid-user-group: **Participant:** ARSC08 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -159,7 +159,7 @@
 #### lsi150stat 
 [**`Participants`**](./participants.md#arsc08), [**`Proceedings`**](./proceedings.md#distributed-multisearch-and-resource-selection-for-the-trec-million-query-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.lsi150stat.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.lsi150stat.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/lsi150stat.main.pdf) 
 
-- :material-rename: **Name:** lsi150stat 
+- :material-rename: **Run ID:** lsi150stat 
 - :fontawesome-solid-user-group: **Participant:** ARSC08 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -172,7 +172,7 @@
 #### LucDeflt 
 [**`Participants`**](./participants.md#ibm-haifa), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.LucDeflt.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.LucDeflt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/LucDeflt.main.pdf) 
 
-- :material-rename: **Name:** LucDeflt 
+- :material-rename: **Run ID:** LucDeflt 
 - :fontawesome-solid-user-group: **Participant:** ibm-haifa 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -185,7 +185,7 @@
 #### LucLpTfS 
 [**`Participants`**](./participants.md#ibm-haifa), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.LucLpTfS.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.LucLpTfS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/LucLpTfS.main.pdf) 
 
-- :material-rename: **Name:** LucLpTfS 
+- :material-rename: **Run ID:** LucLpTfS 
 - :fontawesome-solid-user-group: **Participant:** ibm-haifa 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -198,7 +198,7 @@
 #### mpiimq0801 
 [**`Participants`**](./participants.md#mpi-d5), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.mpiimq0801.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.mpiimq0801.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/mpiimq0801.main.pdf) 
 
-- :material-rename: **Name:** mpiimq0801 
+- :material-rename: **Run ID:** mpiimq0801 
 - :fontawesome-solid-user-group: **Participant:** mpi-d5 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -211,7 +211,7 @@
 #### neumsfilt 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.neumsfilt.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.neumsfilt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/neumsfilt.main.pdf) 
 
-- :material-rename: **Name:** neumsfilt 
+- :material-rename: **Run ID:** neumsfilt 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -224,7 +224,7 @@
 #### neuMSRF 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.neuMSRF.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.neuMSRF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/neuMSRF.main.pdf) 
 
-- :material-rename: **Name:** neuMSRF 
+- :material-rename: **Run ID:** neuMSRF 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -237,7 +237,7 @@
 #### neustbl 
 [**`Participants`**](./participants.md#neu), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.neustbl.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.neustbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/neustbl.main.pdf) 
 
-- :material-rename: **Name:** neustbl 
+- :material-rename: **Run ID:** neustbl 
 - :fontawesome-solid-user-group: **Participant:** neu 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -250,7 +250,7 @@
 #### sabmq08a1 
 [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.sabmq08a1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.sabmq08a1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/sabmq08a1.main.pdf) 
 
-- :material-rename: **Name:** sabmq08a1 
+- :material-rename: **Run ID:** sabmq08a1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -263,7 +263,7 @@
 #### sabmq08b1 
 [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.sabmq08b1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.sabmq08b1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/sabmq08b1.main.pdf) 
 
-- :material-rename: **Name:** sabmq08b1 
+- :material-rename: **Run ID:** sabmq08b1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -276,7 +276,7 @@
 #### txrun 
 [**`Participants`**](./participants.md#i3s_group_of_ict), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.txrun.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.txrun.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/txrun.main.pdf) 
 
-- :material-rename: **Name:** txrun 
+- :material-rename: **Run ID:** txrun 
 - :fontawesome-solid-user-group: **Participant:** I3S_Group_of_ICT 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -289,7 +289,7 @@
 #### vsmdyn 
 [**`Participants`**](./participants.md#arsc08), [**`Proceedings`**](./proceedings.md#distributed-multisearch-and-resource-selection-for-the-trec-million-query-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.vsmdyn.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.vsmdyn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/vsmdyn.main.pdf) 
 
-- :material-rename: **Name:** vsmdyn 
+- :material-rename: **Run ID:** vsmdyn 
 - :fontawesome-solid-user-group: **Participant:** ARSC08 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -302,7 +302,7 @@
 #### vsmstat 
 [**`Participants`**](./participants.md#arsc08), [**`Proceedings`**](./proceedings.md#distributed-multisearch-and-resource-selection-for-the-trec-million-query-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.vsmstat.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.vsmstat.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/vsmstat.main.pdf) 
 
-- :material-rename: **Name:** vsmstat 
+- :material-rename: **Run ID:** vsmstat 
 - :fontawesome-solid-user-group: **Participant:** ARSC08 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 
@@ -315,7 +315,7 @@
 #### vsmstat07 
 [**`Participants`**](./participants.md#arsc08), [**`Proceedings`**](./proceedings.md#distributed-multisearch-and-resource-selection-for-the-trec-million-query-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/million-query/summary.mtc.vsmstat07.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/million-query/summary.statAP.vsmstat07.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/million.query/vsmstat07.main.pdf) 
 
-- :material-rename: **Name:** vsmstat07 
+- :material-rename: **Run ID:** vsmstat07 
 - :fontawesome-solid-user-group: **Participant:** ARSC08 
 - :material-format-text: **Track:** Million Query 
 - :material-calendar: **Year:** 2008 

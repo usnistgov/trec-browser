@@ -627,7 +627,6 @@ _Chen Zhang, Matthew Gerber, Tyler Baldwin, Steve Emelander, Joyce Yue Chai, Ron
 
 - :fontawesome-solid-user-group: **Participant:** [mich-stateu.cha](./participants.md#mich-stateu.cha)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec16/papers/michiganu.qa.final.pdf](http://trec.nist.gov/pubs/trec16/papers/michiganu.qa.final.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ZhangGBECJ07.bib) "
 	```

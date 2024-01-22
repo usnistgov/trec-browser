@@ -3,7 +3,7 @@
 #### ans_bm25 
 [**`Participants`**](./participants.md#anserini), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ans_bm25.pdf) 
 
-- :material-rename: **Name:** ans_bm25 
+- :material-rename: **Run ID:** ans_bm25 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -17,7 +17,7 @@
 #### ans_bm25_rm3 
 [**`Participants`**](./participants.md#anserini), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ans_bm25_rm3.pdf) 
 
-- :material-rename: **Name:** ans_bm25_rm3 
+- :material-rename: **Run ID:** ans_bm25_rm3 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -31,7 +31,7 @@
 #### ans_bm25_rm3_df 
 [**`Participants`**](./participants.md#anserini), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ans_bm25_rm3_df.pdf) 
 
-- :material-rename: **Name:** ans_bm25_rm3_df 
+- :material-rename: **Run ID:** ans_bm25_rm3_df 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -45,7 +45,7 @@
 #### BJTAG1 
 [**`Participants`**](./participants.md#bjtag), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/BJTAG1.pdf) 
 
-- :material-rename: **Name:** BJTAG1 
+- :material-rename: **Run ID:** BJTAG1 
 - :fontawesome-solid-user-group: **Participant:** BJTAG 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -59,7 +59,7 @@
 #### BJTAG3 
 [**`Participants`**](./participants.md#bjtag), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/BJTAG3.pdf) 
 
-- :material-rename: **Name:** BJTAG3 
+- :material-rename: **Run ID:** BJTAG3 
 - :fontawesome-solid-user-group: **Participant:** BJTAG 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -73,7 +73,7 @@
 #### BJTAG_wiki1 
 [**`Participants`**](./participants.md#bjtag), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/BJTAG_wiki1.pdf) 
 
-- :material-rename: **Name:** BJTAG_wiki1 
+- :material-rename: **Run ID:** BJTAG_wiki1 
 - :fontawesome-solid-user-group: **Participant:** BJTAG 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -87,7 +87,7 @@
 #### BJTAG_wiki2 
 [**`Participants`**](./participants.md#bjtag), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/BJTAG_wiki2.pdf) 
 
-- :material-rename: **Name:** BJTAG_wiki2 
+- :material-rename: **Run ID:** BJTAG_wiki2 
 - :fontawesome-solid-user-group: **Participant:** BJTAG 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -101,7 +101,7 @@
 #### clac-combined 
 [**`Participants`**](./participants.md#clac_news_2020), [**`Proceedings`**](./proceedings.md#the-clac-system-at-the-trec-2020-news-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/clac-combined.pdf) 
 
-- :material-rename: **Name:** clac-combined 
+- :material-rename: **Run ID:** clac-combined 
 - :fontawesome-solid-user-group: **Participant:** CLAC_NEWS_2020 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -115,7 +115,7 @@
 #### clac-d2v2019 
 [**`Participants`**](./participants.md#clac_news_2020), [**`Proceedings`**](./proceedings.md#the-clac-system-at-the-trec-2020-news-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/clac-d2v2019.pdf) 
 
-- :material-rename: **Name:** clac-d2v2019 
+- :material-rename: **Run ID:** clac-d2v2019 
 - :fontawesome-solid-user-group: **Participant:** CLAC_NEWS_2020 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -129,7 +129,7 @@
 #### clac-es-bm25 
 [**`Participants`**](./participants.md#clac_news_2020), [**`Proceedings`**](./proceedings.md#the-clac-system-at-the-trec-2020-news-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/clac-es-bm25.pdf) 
 
-- :material-rename: **Name:** clac-es-bm25 
+- :material-rename: **Run ID:** clac-es-bm25 
 - :fontawesome-solid-user-group: **Participant:** CLAC_NEWS_2020 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -143,7 +143,7 @@
 #### clac-gpt2-norm 
 [**`Participants`**](./participants.md#clac_news_2020), [**`Proceedings`**](./proceedings.md#the-clac-system-at-the-trec-2020-news-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/clac-gpt2-norm.pdf) 
 
-- :material-rename: **Name:** clac-gpt2-norm 
+- :material-rename: **Run ID:** clac-gpt2-norm 
 - :fontawesome-solid-user-group: **Participant:** CLAC_NEWS_2020 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -157,7 +157,7 @@
 #### IRISINews1 
 [**`Participants`**](./participants.md#irlabisi), [**`Proceedings`**](./proceedings.md#trec-2020-news-track-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/IRISINews1.pdf) 
 
-- :material-rename: **Name:** IRISINews1 
+- :material-rename: **Run ID:** IRISINews1 
 - :fontawesome-solid-user-group: **Participant:** IRLABISI 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -171,7 +171,7 @@
 #### IRISINews2 
 [**`Participants`**](./participants.md#irlabisi), [**`Proceedings`**](./proceedings.md#trec-2020-news-track-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/IRISINews2.pdf) 
 
-- :material-rename: **Name:** IRISINews2 
+- :material-rename: **Run ID:** IRISINews2 
 - :fontawesome-solid-user-group: **Participant:** IRLABISI 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -185,7 +185,7 @@
 #### IRISINews3 
 [**`Participants`**](./participants.md#irlabisi), [**`Proceedings`**](./proceedings.md#trec-2020-news-track-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/IRISINews3.pdf) 
 
-- :material-rename: **Name:** IRISINews3 
+- :material-rename: **Run ID:** IRISINews3 
 - :fontawesome-solid-user-group: **Participant:** IRLABISI 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -199,7 +199,7 @@
 #### IRISINews4 
 [**`Participants`**](./participants.md#irlabisi), [**`Proceedings`**](./proceedings.md#trec-2020-news-track-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/IRISINews4.pdf) 
 
-- :material-rename: **Name:** IRISINews4 
+- :material-rename: **Run ID:** IRISINews4 
 - :fontawesome-solid-user-group: **Participant:** IRLABISI 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -213,7 +213,7 @@
 #### mlt_base 
 [**`Participants`**](./participants.md#osc), [**`Proceedings`**](./proceedings.md#osc-at-trec-2020-news-track-s-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/mlt_base.pdf) 
 
-- :material-rename: **Name:** mlt_base 
+- :material-rename: **Run ID:** mlt_base 
 - :fontawesome-solid-user-group: **Participant:** OSC 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -227,7 +227,7 @@
 #### mlt_tune 
 [**`Participants`**](./participants.md#osc), [**`Proceedings`**](./proceedings.md#osc-at-trec-2020-news-track-s-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/mlt_tune.pdf) 
 
-- :material-rename: **Name:** mlt_tune 
+- :material-rename: **Run ID:** mlt_tune 
 - :fontawesome-solid-user-group: **Participant:** OSC 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -241,7 +241,7 @@
 #### mlt_tune_ners 
 [**`Participants`**](./participants.md#osc), [**`Proceedings`**](./proceedings.md#osc-at-trec-2020-news-track-s-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/mlt_tune_ners.pdf) 
 
-- :material-rename: **Name:** mlt_tune_ners 
+- :material-rename: **Run ID:** mlt_tune_ners 
 - :fontawesome-solid-user-group: **Participant:** OSC 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -255,7 +255,7 @@
 #### QU_KCR 
 [**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/QU_KCR.pdf) 
 
-- :material-rename: **Name:** QU_KCR 
+- :material-rename: **Run ID:** QU_KCR 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -269,7 +269,7 @@
 #### QU_KTR 
 [**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/QU_KTR.pdf) 
 
-- :material-rename: **Name:** QU_KTR 
+- :material-rename: **Run ID:** QU_KTR 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -283,7 +283,7 @@
 #### QUKC 
 [**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/QUKC.pdf) 
 
-- :material-rename: **Name:** QUKC 
+- :material-rename: **Run ID:** QUKC 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -297,7 +297,7 @@
 #### QUKT 
 [**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/QUKT.pdf) 
 
-- :material-rename: **Name:** QUKT 
+- :material-rename: **Run ID:** QUKT 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -311,7 +311,7 @@
 #### ru_g_diversity 
 [**`Participants`**](./participants.md#ruir), [**`Proceedings`**](./proceedings.md#radboud-university-at-trec-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ru_g_diversity.pdf) 
 
-- :material-rename: **Name:** ru_g_diversity 
+- :material-rename: **Run ID:** ru_g_diversity 
 - :fontawesome-solid-user-group: **Participant:** RUIR 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -325,7 +325,7 @@
 #### ru_g_ne 
 [**`Participants`**](./participants.md#ruir), [**`Proceedings`**](./proceedings.md#radboud-university-at-trec-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ru_g_ne.pdf) 
 
-- :material-rename: **Name:** ru_g_ne 
+- :material-rename: **Run ID:** ru_g_ne 
 - :fontawesome-solid-user-group: **Participant:** RUIR 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -339,7 +339,7 @@
 #### ru_g_novelty 
 [**`Participants`**](./participants.md#ruir), [**`Proceedings`**](./proceedings.md#radboud-university-at-trec-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ru_g_novelty.pdf) 
 
-- :material-rename: **Name:** ru_g_novelty 
+- :material-rename: **Run ID:** ru_g_novelty 
 - :fontawesome-solid-user-group: **Participant:** RUIR 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -353,7 +353,7 @@
 #### ru_g_textrank 
 [**`Participants`**](./participants.md#ruir), [**`Proceedings`**](./proceedings.md#radboud-university-at-trec-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ru_g_textrank.pdf) 
 
-- :material-rename: **Name:** ru_g_textrank 
+- :material-rename: **Run ID:** ru_g_textrank 
 - :fontawesome-solid-user-group: **Participant:** RUIR 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -367,7 +367,7 @@
 #### ru_graph 
 [**`Participants`**](./participants.md#ruir), [**`Proceedings`**](./proceedings.md#radboud-university-at-trec-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/ru_graph.pdf) 
 
-- :material-rename: **Name:** ru_graph 
+- :material-rename: **Run ID:** ru_graph 
 - :fontawesome-solid-user-group: **Participant:** RUIR 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -381,7 +381,7 @@
 #### SUNLP_BERT_RR 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_BERT_RR.pdf) 
 
-- :material-rename: **Name:** SUNLP_BERT_RR 
+- :material-rename: **Run ID:** SUNLP_BERT_RR 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -395,7 +395,7 @@
 #### SUNLP_BERT_Summ 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_BERT_Summ.pdf) 
 
-- :material-rename: **Name:** SUNLP_BERT_Summ 
+- :material-rename: **Run ID:** SUNLP_BERT_Summ 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -409,7 +409,7 @@
 #### SUNLP_doc2vec 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_doc2vec.pdf) 
 
-- :material-rename: **Name:** SUNLP_doc2vec 
+- :material-rename: **Run ID:** SUNLP_doc2vec 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -423,7 +423,7 @@
 #### SUNLP_FullText 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_FullText.pdf) 
 
-- :material-rename: **Name:** SUNLP_FullText 
+- :material-rename: **Run ID:** SUNLP_FullText 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -437,7 +437,7 @@
 #### SUNLP_textorder 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_textorder.pdf) 
 
-- :material-rename: **Name:** SUNLP_textorder 
+- :material-rename: **Run ID:** SUNLP_textorder 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -451,7 +451,7 @@
 #### SUNLP_USE 
 [**`Participants`**](./participants.md#sunlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2020), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/SUNLP_USE.pdf) 
 
-- :material-rename: **Name:** SUNLP_USE 
+- :material-rename: **Run ID:** SUNLP_USE 
 - :fontawesome-solid-user-group: **Participant:** SUNLP 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -465,7 +465,7 @@
 #### tune_ners_embed 
 [**`Participants`**](./participants.md#osc), [**`Proceedings`**](./proceedings.md#osc-at-trec-2020-news-track-s-background-linking-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/tune_ners_embed.pdf) 
 
-- :material-rename: **Name:** tune_ners_embed 
+- :material-rename: **Run ID:** tune_ners_embed 
 - :fontawesome-solid-user-group: **Participant:** OSC 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -479,7 +479,7 @@
 #### tuw-ifs-1 
 [**`Participants`**](./participants.md#tuw-ifs), [**`Proceedings`**](./proceedings.md#tuw-ifs-at-trec-news-2020-wikification-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/tuw-ifs-1.pdf) 
 
-- :material-rename: **Name:** tuw-ifs-1 
+- :material-rename: **Run ID:** tuw-ifs-1 
 - :fontawesome-solid-user-group: **Participant:** TUW-IFS 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -493,7 +493,7 @@
 #### tuw-ifs-2 
 [**`Participants`**](./participants.md#tuw-ifs), [**`Proceedings`**](./proceedings.md#tuw-ifs-at-trec-news-2020-wikification-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/tuw-ifs-2.pdf) 
 
-- :material-rename: **Name:** tuw-ifs-2 
+- :material-rename: **Run ID:** tuw-ifs-2 
 - :fontawesome-solid-user-group: **Participant:** TUW-IFS 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -507,7 +507,7 @@
 #### tuw-ifs-3 
 [**`Participants`**](./participants.md#tuw-ifs), [**`Proceedings`**](./proceedings.md#tuw-ifs-at-trec-news-2020-wikification-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/tuw-ifs-3.pdf) 
 
-- :material-rename: **Name:** tuw-ifs-3 
+- :material-rename: **Run ID:** tuw-ifs-3 
 - :fontawesome-solid-user-group: **Participant:** TUW-IFS 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -521,7 +521,7 @@
 #### tuw-ifs-4 
 [**`Participants`**](./participants.md#tuw-ifs), [**`Proceedings`**](./proceedings.md#tuw-ifs-at-trec-news-2020-wikification-task), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/tuw-ifs-4.pdf) 
 
-- :material-rename: **Name:** tuw-ifs-4 
+- :material-rename: **Run ID:** tuw-ifs-4 
 - :fontawesome-solid-user-group: **Participant:** TUW-IFS 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -535,7 +535,7 @@
 #### udel_fang_AW 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#aspect-based-background-document-retrieval-for-news-articles), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/udel_fang_AW.pdf) 
 
-- :material-rename: **Name:** udel_fang_AW 
+- :material-rename: **Run ID:** udel_fang_AW 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -549,7 +549,7 @@
 #### udel_fang_CE 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#aspect-based-background-document-retrieval-for-news-articles), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/udel_fang_CE.pdf) 
 
-- :material-rename: **Name:** udel_fang_CE 
+- :material-rename: **Run ID:** udel_fang_CE 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 
@@ -563,7 +563,7 @@
 #### udel_fang_CW 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#aspect-based-background-document-retrieval-for-news-articles), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/news/udel_fang_CW.pdf) 
 
-- :material-rename: **Name:** udel_fang_CW 
+- :material-rename: **Run ID:** udel_fang_CW 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** News 
 - :material-calendar: **Year:** 2020 

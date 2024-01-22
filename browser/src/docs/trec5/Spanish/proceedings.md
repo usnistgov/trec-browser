@@ -185,7 +185,6 @@ _Douglas W. Oard_
 
 - :fontawesome-solid-user-group: **Participant:** [UMd](./participants.md#umd)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec5/papers/umd.ps.gz](http://trec.nist.gov/pubs/trec5/papers/umd.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Oard96.bib) "
 	```

@@ -6,7 +6,7 @@ search:
 # Results - Decision 2019 
 
 #### UWaterMDS_BM25 
-[**`Metadata`**](./runs.md#uwatermds_bm25), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWaterMDS_BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWaterMDS_BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWaterMDS_BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWaterMDS_BM25.pdf)
+[**`Metadata`**](./runs.md#uwatermds_bm25), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWaterMDS_BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWaterMDS_BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWaterMDS_BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWaterMDS_BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3764 
@@ -26,7 +26,7 @@ search:
 	```
 ---
 #### UWatMDSBM25_HC1 
-[**`Metadata`**](./runs.md#uwatmdsbm25_hc1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDSBM25_HC1.pdf)
+[**`Metadata`**](./runs.md#uwatmdsbm25_hc1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDSBM25_HC1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.4027 
@@ -46,7 +46,7 @@ search:
 	```
 ---
 #### UWatMDSBM25_HC2 
-[**`Metadata`**](./runs.md#uwatmdsbm25_hc2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC2), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDSBM25_HC2.pdf)
+[**`Metadata`**](./runs.md#uwatmdsbm25_hc2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC2), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDSBM25_HC2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3911 
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### UWatMDSBM25_HC3 
-[**`Metadata`**](./runs.md#uwatmdsbm25_hc3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC3), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDSBM25_HC3.pdf)
+[**`Metadata`**](./runs.md#uwatmdsbm25_hc3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDSBM25_HC3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDSBM25_HC3), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDSBM25_HC3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDSBM25_HC3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.4108 
@@ -86,7 +86,7 @@ search:
 	```
 ---
 #### UWatMDS_BM25_ZS 
-[**`Metadata`**](./runs.md#uwatmds_bm25_zs), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BM25_ZS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BM25_ZS), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BM25_ZS), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BM25_ZS.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bm25_zs), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BM25_ZS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BM25_ZS), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BM25_ZS), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BM25_ZS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3105 
@@ -106,7 +106,7 @@ search:
 	```
 ---
 #### UWatMDS_BM25_Z 
-[**`Metadata`**](./runs.md#uwatmds_bm25_z), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BM25_Z.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BM25_Z), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BM25_Z), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BM25_Z.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bm25_z), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BM25_Z.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BM25_Z), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BM25_Z), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BM25_Z.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3448 
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### UWatMDS_BMZBS10 
-[**`Metadata`**](./runs.md#uwatmds_bmzbs10), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMZBS10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMZBS10), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMZBS10), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BMZBS10.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bmzbs10), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMZBS10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMZBS10), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMZBS10), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BMZBS10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2827 
@@ -146,7 +146,7 @@ search:
 	```
 ---
 #### UWatMDS_BMF_C90 
-[**`Metadata`**](./runs.md#uwatmds_bmf_c90), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_C90.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_C90), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_C90), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BMF_C90.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bmf_c90), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_C90.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_C90), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_C90), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BMF_C90.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1562 
@@ -166,7 +166,7 @@ search:
 	```
 ---
 #### UWatMDS_BMF_C95 
-[**`Metadata`**](./runs.md#uwatmds_bmf_c95), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_C95.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_C95), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_C95), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BMF_C95.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bmf_c95), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_C95.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_C95), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_C95), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BMF_C95.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1699 
@@ -186,7 +186,7 @@ search:
 	```
 ---
 #### UWatMDS_BMF_S30 
-[**`Metadata`**](./runs.md#uwatmds_bmf_s30), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_S30.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_S30), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_S30), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/UWatMDS_BMF_S30.pdf)
+[**`Metadata`**](./runs.md#uwatmds_bmf_s30), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.UWatMDS_BMF_S30.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.UWatMDS_BMF_S30), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.UWatMDS_BMF_S30), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/UWatMDS_BMF_S30.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2855 
@@ -206,7 +206,7 @@ search:
 	```
 ---
 #### webisMSame1 
-[**`Metadata`**](./runs.md#webismsame1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMSame1.pdf)
+[**`Metadata`**](./runs.md#webismsame1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMSame1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1402 
@@ -226,7 +226,7 @@ search:
 	```
 ---
 #### webisMSame2 
-[**`Metadata`**](./runs.md#webismsame2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame2), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMSame2.pdf)
+[**`Metadata`**](./runs.md#webismsame2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame2), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMSame2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1382 
@@ -246,7 +246,7 @@ search:
 	```
 ---
 #### webisMSame3 
-[**`Metadata`**](./runs.md#webismsame3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame3), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMSame3.pdf)
+[**`Metadata`**](./runs.md#webismsame3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame3), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMSame3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1417 
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### webisMSame4 
-[**`Metadata`**](./runs.md#webismsame4), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame4), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMSame4.pdf)
+[**`Metadata`**](./runs.md#webismsame4), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame4), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMSame4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1354 
@@ -286,7 +286,7 @@ search:
 	```
 ---
 #### webisMSame5 
-[**`Metadata`**](./runs.md#webismsame5), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame5), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame5), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMSame5.pdf)
+[**`Metadata`**](./runs.md#webismsame5), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMSame5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMSame5), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMSame5), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMSame5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1349 
@@ -306,7 +306,7 @@ search:
 	```
 ---
 #### webisTSame1 
-[**`Metadata`**](./runs.md#webistsame1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTSame1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTSame1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTSame1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisTSame1.pdf)
+[**`Metadata`**](./runs.md#webistsame1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTSame1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTSame1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTSame1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisTSame1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1373 
@@ -326,7 +326,7 @@ search:
 	```
 ---
 #### IELAB01_ori_q 
-[**`Metadata`**](./runs.md#ielab01_ori_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB01_ori_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB01_ori_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB01_ori_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB01_ori_q.pdf)
+[**`Metadata`**](./runs.md#ielab01_ori_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB01_ori_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB01_ori_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB01_ori_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB01_ori_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3334 
@@ -346,7 +346,7 @@ search:
 	```
 ---
 #### IELAB02_ori_d 
-[**`Metadata`**](./runs.md#ielab02_ori_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB02_ori_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB02_ori_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB02_ori_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB02_ori_d.pdf)
+[**`Metadata`**](./runs.md#ielab02_ori_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB02_ori_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB02_ori_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB02_ori_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB02_ori_d.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2082 
@@ -366,7 +366,7 @@ search:
 	```
 ---
 #### IELAB03_umls_d 
-[**`Metadata`**](./runs.md#ielab03_umls_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB03_umls_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB03_umls_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB03_umls_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB03_umls_d.pdf)
+[**`Metadata`**](./runs.md#ielab03_umls_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB03_umls_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB03_umls_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB03_umls_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB03_umls_d.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2723 
@@ -386,7 +386,7 @@ search:
 	```
 ---
 #### IELAB04_umls_n 
-[**`Metadata`**](./runs.md#ielab04_umls_n), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB04_umls_n.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB04_umls_n), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB04_umls_n), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB04_umls_n.pdf)
+[**`Metadata`**](./runs.md#ielab04_umls_n), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB04_umls_n.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB04_umls_n), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB04_umls_n), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB04_umls_n.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2387 
@@ -406,7 +406,7 @@ search:
 	```
 ---
 #### IELAB05_xChv_q 
-[**`Metadata`**](./runs.md#ielab05_xchv_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB05_xChv_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB05_xChv_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB05_xChv_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB05_xChv_q.pdf)
+[**`Metadata`**](./runs.md#ielab05_xchv_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB05_xChv_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB05_xChv_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB05_xChv_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB05_xChv_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2642 
@@ -426,7 +426,7 @@ search:
 	```
 ---
 #### IELAB06_xChv_d 
-[**`Metadata`**](./runs.md#ielab06_xchv_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB06_xChv_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB06_xChv_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB06_xChv_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB06_xChv_d.pdf)
+[**`Metadata`**](./runs.md#ielab06_xchv_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB06_xChv_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB06_xChv_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB06_xChv_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB06_xChv_d.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2613 
@@ -446,7 +446,7 @@ search:
 	```
 ---
 #### IELAB07_xWiki_q 
-[**`Metadata`**](./runs.md#ielab07_xwiki_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB07_xWiki_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB07_xWiki_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB07_xWiki_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB07_xWiki_q.pdf)
+[**`Metadata`**](./runs.md#ielab07_xwiki_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB07_xWiki_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB07_xWiki_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB07_xWiki_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB07_xWiki_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3129 
@@ -466,7 +466,7 @@ search:
 	```
 ---
 #### IELAB08_xWiki_d 
-[**`Metadata`**](./runs.md#ielab08_xwiki_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB08_xWiki_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB08_xWiki_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB08_xWiki_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB08_xWiki_d.pdf)
+[**`Metadata`**](./runs.md#ielab08_xwiki_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB08_xWiki_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB08_xWiki_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB08_xWiki_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB08_xWiki_d.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2718 
@@ -486,7 +486,7 @@ search:
 	```
 ---
 #### IELAB09_xCW_q 
-[**`Metadata`**](./runs.md#ielab09_xcw_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB09_xCW_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB09_xCW_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB09_xCW_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB09_xCW_q.pdf)
+[**`Metadata`**](./runs.md#ielab09_xcw_q), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB09_xCW_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB09_xCW_q), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB09_xCW_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB09_xCW_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2568 
@@ -506,7 +506,7 @@ search:
 	```
 ---
 #### IELAB10_xCW_d 
-[**`Metadata`**](./runs.md#ielab10_xcw_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB10_xCW_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB10_xCW_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB10_xCW_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/IELAB10_xCW_d.pdf)
+[**`Metadata`**](./runs.md#ielab10_xcw_d), [**`Participants`**](./participants.md#uq), [**`Proceedings`**](./proceedings.md#uq-ielab-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.IELAB10_xCW_d.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.IELAB10_xCW_d), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.IELAB10_xCW_d), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/IELAB10_xCW_d.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2611 
@@ -526,7 +526,7 @@ search:
 	```
 ---
 #### ICTNETv1BM25 
-[**`Metadata`**](./runs.md#ictnetv1bm25), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.ICTNETv1BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.ICTNETv1BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.ICTNETv1BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/ICTNETv1BM25.pdf)
+[**`Metadata`**](./runs.md#ictnetv1bm25), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.ICTNETv1BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.ICTNETv1BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.ICTNETv1BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/ICTNETv1BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0000 
@@ -546,7 +546,7 @@ search:
 	```
 ---
 #### webisMMajority1 
-[**`Metadata`**](./runs.md#webismmajority1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMMajority1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMMajority1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMMajority1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMMajority1.pdf)
+[**`Metadata`**](./runs.md#webismmajority1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMMajority1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMMajority1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMMajority1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMMajority1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1475 
@@ -566,7 +566,7 @@ search:
 	```
 ---
 #### webisTMajority1 
-[**`Metadata`**](./runs.md#webistmajority1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTMajority1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTMajority1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTMajority1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisTMajority1.pdf)
+[**`Metadata`**](./runs.md#webistmajority1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTMajority1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTMajority1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTMajority1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisTMajority1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1491 
@@ -586,7 +586,7 @@ search:
 	```
 ---
 #### webisMAll1 
-[**`Metadata`**](./runs.md#webismall1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMAll1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMAll1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMAll1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisMAll1.pdf)
+[**`Metadata`**](./runs.md#webismall1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisMAll1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisMAll1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisMAll1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisMAll1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1504 
@@ -606,7 +606,7 @@ search:
 	```
 ---
 #### webisTAll1 
-[**`Metadata`**](./runs.md#webistall1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTAll1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTAll1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTAll1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/webisTAll1.pdf)
+[**`Metadata`**](./runs.md#webistall1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.webisTAll1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.webisTAll1), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.webisTAll1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/webisTAll1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1495 
@@ -626,7 +626,7 @@ search:
 	```
 ---
 #### ICTNETv2BM25 
-[**`Metadata`**](./runs.md#ictnetv2bm25), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.ICTNETv2BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.ICTNETv2BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.ICTNETv2BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decision/ICTNETv2BM25.pdf)
+[**`Metadata`**](./runs.md#ictnetv2bm25), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-decision-track), [**`Input`**](https://trec.nist.gov/results/trec28/decision/input.ICTNETv2BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec28/decision/summary.trec_eval.ICTNETv2BM25), [**`Summary (extended)`**](https://trec.nist.gov/results/trec28/decision/summary.extended.ICTNETv2BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/decisions/ICTNETv2BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0037 

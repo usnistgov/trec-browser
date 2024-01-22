@@ -180,7 +180,7 @@ Spoken Document Retrieval (SDR) involves the retrieval of excerpts from recordin
 
 ## Very Large Corpus
 
-[`Overview`](./vlc/overview.md), [`Proceedings`](./vlc/proceedings.md), [`Runs`](./vlc/runs.md), [`Participants`](./vlc/participants.md)
+[`Overview`](./vlc/overview.md), [`Proceedings`](./vlc/proceedings.md)
 
 {==
 

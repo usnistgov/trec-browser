@@ -3,7 +3,7 @@
 #### adv_lirmm-Run1 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/adv_lirmm-Run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-adv_lirmm-Run1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/adv_lirmm-Run1.pdf) 
 
-- :material-rename: **Name:** adv_lirmm-Run1 
+- :material-rename: **Run ID:** adv_lirmm-Run1 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -18,7 +18,7 @@
 #### adv_lirmm-Run2 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/adv_lirmm-Run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-adv_lirmm-Run2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/adv_lirmm-Run2.pdf) 
 
-- :material-rename: **Name:** adv_lirmm-Run2 
+- :material-rename: **Run ID:** adv_lirmm-Run2 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -33,7 +33,7 @@
 #### adv_lirmm-Run3 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/adv_lirmm-Run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-adv_lirmm-Run3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/adv_lirmm-Run3.pdf) 
 
-- :material-rename: **Name:** adv_lirmm-Run3 
+- :material-rename: **Run ID:** adv_lirmm-Run3 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -48,7 +48,7 @@
 #### advanse_lirmm-Run1-A 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/advanse_lirmm-Run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-advanse_lirmm-Run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-advanse_lirmm-Run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/advanse_lirmm-Run1-A.pdf) 
 
-- :material-rename: **Name:** advanse_lirmm-Run1-A 
+- :material-rename: **Run ID:** advanse_lirmm-Run1-A 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -60,7 +60,7 @@
 #### advanse_lirmm-Run2-A 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/advanse_lirmm-Run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-advanse_lirmm-Run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-advanse_lirmm-Run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/advanse_lirmm-Run2-A.pdf) 
 
-- :material-rename: **Name:** advanse_lirmm-Run2-A 
+- :material-rename: **Run ID:** advanse_lirmm-Run2-A 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -72,7 +72,7 @@
 #### advanse_lirmm-Run3-A 
 [**`Participants`**](./participants.md#advanse_lirmm), [**`Proceedings`**](./proceedings.md#summarizing-tweet-in-real-time-by-filtering-quality-relevant-and-non-redundant-tweets), [**`Input`**](https://trec.nist.gov/results/trec26/rts/advanse_lirmm-Run3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-advanse_lirmm-Run3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-advanse_lirmm-Run3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/advanse_lirmm-Run3-A.pdf) 
 
-- :material-rename: **Name:** advanse_lirmm-Run3-A 
+- :material-rename: **Run ID:** advanse_lirmm-Run3-A 
 - :fontawesome-solid-user-group: **Participant:** advanse_lirmm 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -84,7 +84,7 @@
 #### bjut_tmg 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/bjut_tmg.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-bjut_tmg.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/bjut_tmg.pdf) 
 
-- :material-rename: **Name:** bjut_tmg 
+- :material-rename: **Run ID:** bjut_tmg 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -98,7 +98,7 @@
 #### bjutg 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/bjutg.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-bjutg.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/bjutg.pdf) 
 
-- :material-rename: **Name:** bjutg 
+- :material-rename: **Run ID:** bjutg 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -112,7 +112,7 @@
 #### bjutgs 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/bjutgs.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-bjutgs.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/bjutgs.pdf) 
 
-- :material-rename: **Name:** bjutgs 
+- :material-rename: **Run ID:** bjutgs 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -126,7 +126,7 @@
 #### BL1-A 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/BL1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-BL1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-BL1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/BL1-A.pdf) 
 
-- :material-rename: **Name:** BL1-A 
+- :material-rename: **Run ID:** BL1-A 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -138,7 +138,7 @@
 #### BL2-A 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/BL2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-BL2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-BL2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/BL2-A.pdf) 
 
-- :material-rename: **Name:** BL2-A 
+- :material-rename: **Run ID:** BL2-A 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -150,7 +150,7 @@
 #### BL3-A 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/BL3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-BL3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-BL3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/BL3-A.pdf) 
 
-- :material-rename: **Name:** BL3-A 
+- :material-rename: **Run ID:** BL3-A 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -162,7 +162,7 @@
 #### HLJIT_l2r 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/HLJIT_l2r.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-HLJIT_l2r.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/HLJIT_l2r.pdf) 
 
-- :material-rename: **Name:** HLJIT_l2r 
+- :material-rename: **Run ID:** HLJIT_l2r 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -176,7 +176,7 @@
 #### HLJIT_rank_svm 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/HLJIT_rank_svm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-HLJIT_rank_svm.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/HLJIT_rank_svm.pdf) 
 
-- :material-rename: **Name:** HLJIT_rank_svm 
+- :material-rename: **Run ID:** HLJIT_rank_svm 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -190,7 +190,7 @@
 #### ICTNET-Run1 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-Run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-ICTNET-Run1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-Run1.pdf) 
 
-- :material-rename: **Name:** ICTNET-Run1 
+- :material-rename: **Run ID:** ICTNET-Run1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -205,7 +205,7 @@
 #### ICTNET-run1-A 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-ICTNET-run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-ICTNET-run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-run1-A.pdf) 
 
-- :material-rename: **Name:** ICTNET-run1-A 
+- :material-rename: **Run ID:** ICTNET-run1-A 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -217,7 +217,7 @@
 #### ICTNET-Run2 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-Run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-ICTNET-Run2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-Run2.pdf) 
 
-- :material-rename: **Name:** ICTNET-Run2 
+- :material-rename: **Run ID:** ICTNET-Run2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -232,7 +232,7 @@
 #### ICTNET-run2-A 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-ICTNET-run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-ICTNET-run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-run2-A.pdf) 
 
-- :material-rename: **Name:** ICTNET-run2-A 
+- :material-rename: **Run ID:** ICTNET-run2-A 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -244,7 +244,7 @@
 #### ICTNET-Run3 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-Run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-ICTNET-Run3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-Run3.pdf) 
 
-- :material-rename: **Name:** ICTNET-Run3 
+- :material-rename: **Run ID:** ICTNET-Run3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -259,7 +259,7 @@
 #### ICTNET-run3-A 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ICTNET-run3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-ICTNET-run3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-ICTNET-run3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ICTNET-run3-A.pdf) 
 
-- :material-rename: **Name:** ICTNET-run3-A 
+- :material-rename: **Run ID:** ICTNET-run3-A 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -271,7 +271,7 @@
 #### IRIT-Run1-A 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-Run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-IRIT-Run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-IRIT-Run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-Run1-A.pdf) 
 
-- :material-rename: **Name:** IRIT-Run1-A 
+- :material-rename: **Run ID:** IRIT-Run1-A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -283,7 +283,7 @@
 #### IRIT-Run2-A 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-Run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-IRIT-Run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-IRIT-Run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-Run2-A.pdf) 
 
-- :material-rename: **Name:** IRIT-Run2-A 
+- :material-rename: **Run ID:** IRIT-Run2-A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -295,7 +295,7 @@
 #### IRIT-Run3-A 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-Run3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-IRIT-Run3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-IRIT-Run3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-Run3-A.pdf) 
 
-- :material-rename: **Name:** IRIT-Run3-A 
+- :material-rename: **Run ID:** IRIT-Run3-A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -307,7 +307,7 @@
 #### IRIT-RunB1 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-RunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRIT-RunB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-RunB1.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB1 
+- :material-rename: **Run ID:** IRIT-RunB1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -322,7 +322,7 @@
 #### IRIT-RunB2 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-RunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRIT-RunB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-RunB2.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB2 
+- :material-rename: **Run ID:** IRIT-RunB2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -337,7 +337,7 @@
 #### IRIT-RunB3 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2017), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRIT-RunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRIT-RunB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRIT-RunB3.pdf) 
 
-- :material-rename: **Name:** IRIT-RunB3 
+- :material-rename: **Run ID:** IRIT-RunB3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -352,7 +352,7 @@
 #### IRLAB-DAIICT 
 [**`Participants`**](./participants.md#irlab_daiict), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRLAB-DAIICT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRLAB-DAIICT.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRLAB-DAIICT.pdf) 
 
-- :material-rename: **Name:** IRLAB-DAIICT 
+- :material-rename: **Run ID:** IRLAB-DAIICT 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DAIICT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -366,7 +366,7 @@
 #### IRLAB-LDRP2 
 [**`Participants`**](./participants.md#irlab_daiict), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRLAB-LDRP2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRLAB-LDRP2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRLAB-LDRP2.pdf) 
 
-- :material-rename: **Name:** IRLAB-LDRP2 
+- :material-rename: **Run ID:** IRLAB-LDRP2 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DAIICT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -380,7 +380,7 @@
 #### irlab-Run1-A 
 [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/rts/irlab-Run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-irlab-Run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-irlab-Run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/irlab-Run1-A.pdf) 
 
-- :material-rename: **Name:** irlab-Run1-A 
+- :material-rename: **Run ID:** irlab-Run1-A 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -392,7 +392,7 @@
 #### IRLAB_LDRP 
 [**`Participants`**](./participants.md#irlab_daiict), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IRLAB_LDRP.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IRLAB_LDRP.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IRLAB_LDRP.pdf) 
 
-- :material-rename: **Name:** IRLAB_LDRP 
+- :material-rename: **Run ID:** IRLAB_LDRP 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DAIICT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -406,7 +406,7 @@
 #### IUB 
 [**`Participants`**](./participants.md#soic), [**`Proceedings`**](./proceedings.md#fast-nlp-based-pattern-matching-in-real-time-tweet-recommendation), [**`Input`**](https://trec.nist.gov/results/trec26/rts/IUB.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-IUB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/IUB.pdf) 
 
-- :material-rename: **Name:** IUB 
+- :material-rename: **Run ID:** IUB 
 - :fontawesome-solid-user-group: **Participant:** SOIC 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -420,7 +420,7 @@
 #### ldrp-Run2-A 
 [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/rts/ldrp-Run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-ldrp-Run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-ldrp-Run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/ldrp-Run2-A.pdf) 
 
-- :material-rename: **Name:** ldrp-Run2-A 
+- :material-rename: **Run ID:** ldrp-Run2-A 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -432,7 +432,7 @@
 #### lm-jm-lambda0.5 
 [**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec26/rts/lm-jm-lambda0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-lm-jm-lambda0.5.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/lm-jm-lambda0.5.pdf) 
 
-- :material-rename: **Name:** lm-jm-lambda0.5 
+- :material-rename: **Run ID:** lm-jm-lambda0.5 
 - :fontawesome-solid-user-group: **Participant:** ISIKol 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -446,7 +446,7 @@
 #### NOVASearchB1 
 [**`Participants`**](./participants.md#novasearch), [**`Proceedings`**](./proceedings.md#novasearch-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/NOVASearchB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-NOVASearchB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/NOVASearchB1.pdf) 
 
-- :material-rename: **Name:** NOVASearchB1 
+- :material-rename: **Run ID:** NOVASearchB1 
 - :fontawesome-solid-user-group: **Participant:** NOVASearch 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -460,7 +460,7 @@
 #### NOVASearchB2 
 [**`Participants`**](./participants.md#novasearch), [**`Proceedings`**](./proceedings.md#novasearch-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/NOVASearchB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-NOVASearchB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/NOVASearchB2.pdf) 
 
-- :material-rename: **Name:** NOVASearchB2 
+- :material-rename: **Run ID:** NOVASearchB2 
 - :fontawesome-solid-user-group: **Participant:** NOVASearch 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -474,7 +474,7 @@
 #### NOVASearchB3 
 [**`Participants`**](./participants.md#novasearch), [**`Proceedings`**](./proceedings.md#novasearch-at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/NOVASearchB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-NOVASearchB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/NOVASearchB3.pdf) 
 
-- :material-rename: **Name:** NOVASearchB3 
+- :material-rename: **Run ID:** NOVASearchB3 
 - :fontawesome-solid-user-group: **Participant:** NOVASearch 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -488,7 +488,7 @@
 #### pertopicburst-A 
 [**`Participants`**](./participants.md#umd-hcil), [**`Input`**](https://trec.nist.gov/results/trec26/rts/pertopicburst-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-pertopicburst-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-pertopicburst-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/pertopicburst-A.pdf) 
 
-- :material-rename: **Name:** pertopicburst-A 
+- :material-rename: **Run ID:** pertopicburst-A 
 - :fontawesome-solid-user-group: **Participant:** umd-hcil 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -500,7 +500,7 @@
 #### PKUICSTRunA1-A 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunA1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PKUICSTRunA1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PKUICSTRunA1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunA1-A.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunA1-A 
+- :material-rename: **Run ID:** PKUICSTRunA1-A 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -512,7 +512,7 @@
 #### PKUICSTRunA2-A 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunA2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PKUICSTRunA2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PKUICSTRunA2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunA2-A.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunA2-A 
+- :material-rename: **Run ID:** PKUICSTRunA2-A 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -524,7 +524,7 @@
 #### PKUICSTRunA3-A 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunA3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PKUICSTRunA3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PKUICSTRunA3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunA3-A.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunA3-A 
+- :material-rename: **Run ID:** PKUICSTRunA3-A 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -536,7 +536,7 @@
 #### PKUICSTRunB1 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PKUICSTRunB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunB1.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunB1 
+- :material-rename: **Run ID:** PKUICSTRunB1 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -550,7 +550,7 @@
 #### PKUICSTRunB2 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PKUICSTRunB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunB2.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunB2 
+- :material-rename: **Run ID:** PKUICSTRunB2 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -564,7 +564,7 @@
 #### PKUICSTRunB3 
 [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2017-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PKUICSTRunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PKUICSTRunB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PKUICSTRunB3.pdf) 
 
-- :material-rename: **Name:** PKUICSTRunB3 
+- :material-rename: **Run ID:** PKUICSTRunB3 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -578,7 +578,7 @@
 #### PRNA-A1-A 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-A1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PRNA-A1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PRNA-A1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-A1-A.pdf) 
 
-- :material-rename: **Name:** PRNA-A1-A 
+- :material-rename: **Run ID:** PRNA-A1-A 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -590,7 +590,7 @@
 #### PRNA-A2-A 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-A2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PRNA-A2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PRNA-A2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-A2-A.pdf) 
 
-- :material-rename: **Name:** PRNA-A2-A 
+- :material-rename: **Run ID:** PRNA-A2-A 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -602,7 +602,7 @@
 #### PRNA-A3-A 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-A3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-PRNA-A3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-PRNA-A3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-A3-A.pdf) 
 
-- :material-rename: **Name:** PRNA-A3-A 
+- :material-rename: **Run ID:** PRNA-A3-A 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -614,7 +614,7 @@
 #### PRNA-B1 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-B1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PRNA-B1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-B1.pdf) 
 
-- :material-rename: **Name:** PRNA-B1 
+- :material-rename: **Run ID:** PRNA-B1 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -628,7 +628,7 @@
 #### PRNA-B2 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-B2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PRNA-B2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-B2.pdf) 
 
-- :material-rename: **Name:** PRNA-B2 
+- :material-rename: **Run ID:** PRNA-B2 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -642,7 +642,7 @@
 #### PRNA-B3 
 [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#recognizing-tweet-relevance-with-profile-specific-and-profile-independent-supervised-models), [**`Input`**](https://trec.nist.gov/results/trec26/rts/PRNA-B3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-PRNA-B3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/PRNA-B3.pdf) 
 
-- :material-rename: **Name:** PRNA-B3 
+- :material-rename: **Run ID:** PRNA-B3 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -656,7 +656,7 @@
 #### qFB_url 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/qFB_url.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-qFB_url.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/qFB_url.pdf) 
 
-- :material-rename: **Name:** qFB_url 
+- :material-rename: **Run ID:** qFB_url 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -670,7 +670,7 @@
 #### QUBaseline-A 
 [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#exploiting-live-feedback-for-tweet-real-time-push-notifications), [**`Input`**](https://trec.nist.gov/results/trec26/rts/QUBaseline-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-QUBaseline-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-QUBaseline-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/QUBaseline-A.pdf) 
 
-- :material-rename: **Name:** QUBaseline-A 
+- :material-rename: **Run ID:** QUBaseline-A 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -682,7 +682,7 @@
 #### QUExp-A 
 [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#exploiting-live-feedback-for-tweet-real-time-push-notifications), [**`Input`**](https://trec.nist.gov/results/trec26/rts/QUExp-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-QUExp-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-QUExp-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/QUExp-A.pdf) 
 
-- :material-rename: **Name:** QUExp-A 
+- :material-rename: **Run ID:** QUExp-A 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -694,7 +694,7 @@
 #### QUExpDyn-A 
 [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#exploiting-live-feedback-for-tweet-real-time-push-notifications), [**`Input`**](https://trec.nist.gov/results/trec26/rts/QUExpDyn-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-QUExpDyn-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-QUExpDyn-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/QUExpDyn-A.pdf) 
 
-- :material-rename: **Name:** QUExpDyn-A 
+- :material-rename: **Run ID:** QUExpDyn-A 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -706,7 +706,7 @@
 #### retweet-A 
 [**`Participants`**](./participants.md#umd-hcil), [**`Input`**](https://trec.nist.gov/results/trec26/rts/retweet-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-retweet-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-retweet-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/retweet-A.pdf) 
 
-- :material-rename: **Name:** retweet-A 
+- :material-rename: **Run ID:** retweet-A 
 - :fontawesome-solid-user-group: **Participant:** umd-hcil 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -718,7 +718,7 @@
 #### SHNU_run1 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-SHNU_run1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run1.pdf) 
 
-- :material-rename: **Name:** SHNU_run1 
+- :material-rename: **Run ID:** SHNU_run1 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -732,7 +732,7 @@
 #### SHNU_run1-A 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-SHNU_run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-SHNU_run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run1-A.pdf) 
 
-- :material-rename: **Name:** SHNU_run1-A 
+- :material-rename: **Run ID:** SHNU_run1-A 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -744,7 +744,7 @@
 #### SHNU_run2 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-SHNU_run2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run2.pdf) 
 
-- :material-rename: **Name:** SHNU_run2 
+- :material-rename: **Run ID:** SHNU_run2 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -758,7 +758,7 @@
 #### SHNU_run2-A 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-SHNU_run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-SHNU_run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run2-A.pdf) 
 
-- :material-rename: **Name:** SHNU_run2-A 
+- :material-rename: **Run ID:** SHNU_run2-A 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -770,7 +770,7 @@
 #### SHNU_run3 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-SHNU_run3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run3.pdf) 
 
-- :material-rename: **Name:** SHNU_run3 
+- :material-rename: **Run ID:** SHNU_run3 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -784,7 +784,7 @@
 #### SHNU_run3-A 
 [**`Participants`**](./participants.md#st), [**`Proceedings`**](./proceedings.md#at-trec-2017-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SHNU_run3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-SHNU_run3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-SHNU_run3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SHNU_run3-A.pdf) 
 
-- :material-rename: **Name:** SHNU_run3-A 
+- :material-rename: **Run ID:** SHNU_run3-A 
 - :fontawesome-solid-user-group: **Participant:** S.T 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -796,7 +796,7 @@
 #### SOIC-Run1-A 
 [**`Participants`**](./participants.md#soic), [**`Proceedings`**](./proceedings.md#fast-nlp-based-pattern-matching-in-real-time-tweet-recommendation), [**`Input`**](https://trec.nist.gov/results/trec26/rts/SOIC-Run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-SOIC-Run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-SOIC-Run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/SOIC-Run1-A.pdf) 
 
-- :material-rename: **Name:** SOIC-Run1-A 
+- :material-rename: **Run ID:** SOIC-Run1-A 
 - :fontawesome-solid-user-group: **Participant:** SOIC 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -808,7 +808,7 @@
 #### testRun1-A 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/testRun1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-testRun1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-testRun1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/testRun1-A.pdf) 
 
-- :material-rename: **Name:** testRun1-A 
+- :material-rename: **Run ID:** testRun1-A 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -820,7 +820,7 @@
 #### testRun2-A 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/testRun2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-testRun2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-testRun2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/testRun2-A.pdf) 
 
-- :material-rename: **Name:** testRun2-A 
+- :material-rename: **Run ID:** testRun2-A 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -832,7 +832,7 @@
 #### testRun3-A 
 [**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2017-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec26/rts/testRun3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-testRun3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-testRun3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/testRun3-A.pdf) 
 
-- :material-rename: **Name:** testRun3-A 
+- :material-rename: **Run ID:** testRun3-A 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -844,7 +844,7 @@
 #### udelRun081D-A 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081D-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-udelRun081D-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-udelRun081D-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081D-A.pdf) 
 
-- :material-rename: **Name:** udelRun081D-A 
+- :material-rename: **Run ID:** udelRun081D-A 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -856,7 +856,7 @@
 #### udelRun081D-B 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081D-B.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-udelRun081D-B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081D-B.pdf) 
 
-- :material-rename: **Name:** udelRun081D-B 
+- :material-rename: **Run ID:** udelRun081D-B 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -870,7 +870,7 @@
 #### udelRun081HT-A 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081HT-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-udelRun081HT-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-udelRun081HT-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081HT-A.pdf) 
 
-- :material-rename: **Name:** udelRun081HT-A 
+- :material-rename: **Run ID:** udelRun081HT-A 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -882,7 +882,7 @@
 #### udelRun081HT-B 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081HT-B.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-udelRun081HT-B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081HT-B.pdf) 
 
-- :material-rename: **Name:** udelRun081HT-B 
+- :material-rename: **Run ID:** udelRun081HT-B 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -896,7 +896,7 @@
 #### udelRun081HTD-A 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081HTD-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-udelRun081HTD-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-udelRun081HTD-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081HTD-A.pdf) 
 
-- :material-rename: **Name:** udelRun081HTD-A 
+- :material-rename: **Run ID:** udelRun081HTD-A 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -908,7 +908,7 @@
 #### udelRun081HTD-B 
 [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/rts/udelRun081HTD-B.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-udelRun081HTD-B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/udelRun081HTD-B.pdf) 
 
-- :material-rename: **Name:** udelRun081HTD-B 
+- :material-rename: **Run ID:** udelRun081HTD-B 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -922,7 +922,7 @@
 #### UDInfoBL-A 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoBL-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-UDInfoBL-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-UDInfoBL-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoBL-A.pdf) 
 
-- :material-rename: **Name:** UDInfoBL-A 
+- :material-rename: **Run ID:** UDInfoBL-A 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -934,7 +934,7 @@
 #### UDInfoEXP-A 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoEXP-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-UDInfoEXP-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-UDInfoEXP-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoEXP-A.pdf) 
 
-- :material-rename: **Name:** UDInfoEXP-A 
+- :material-rename: **Run ID:** UDInfoEXP-A 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -946,7 +946,7 @@
 #### UDInfoJac 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoJac.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-UDInfoJac.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoJac.pdf) 
 
-- :material-rename: **Name:** UDInfoJac 
+- :material-rename: **Run ID:** UDInfoJac 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -960,7 +960,7 @@
 #### UDInfoSDWR-A 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoSDWR-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-UDInfoSDWR-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-UDInfoSDWR-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoSDWR-A.pdf) 
 
-- :material-rename: **Name:** UDInfoSDWR-A 
+- :material-rename: **Run ID:** UDInfoSDWR-A 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -972,7 +972,7 @@
 #### UDInfoW2VPre 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoW2VPre.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-UDInfoW2VPre.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoW2VPre.pdf) 
 
-- :material-rename: **Name:** UDInfoW2VPre 
+- :material-rename: **Run ID:** UDInfoW2VPre 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -986,7 +986,7 @@
 #### UDInfoW2VTWT 
 [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#silent-day-detection-in-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec26/rts/UDInfoW2VTWT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-UDInfoW2VTWT.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/UDInfoW2VTWT.pdf) 
 
-- :material-rename: **Name:** UDInfoW2VTWT 
+- :material-rename: **Run ID:** UDInfoW2VTWT 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -1000,7 +1000,7 @@
 #### umc_hcil_ptbv1 
 [**`Participants`**](./participants.md#umd-hcil), [**`Input`**](https://trec.nist.gov/results/trec26/rts/umc_hcil_ptbv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-umc_hcil_ptbv1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/umc_hcil_ptbv1.pdf) 
 
-- :material-rename: **Name:** umc_hcil_ptbv1 
+- :material-rename: **Run ID:** umc_hcil_ptbv1 
 - :fontawesome-solid-user-group: **Participant:** umd-hcil 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -1015,7 +1015,7 @@
 #### umc_hcil_rtv1 
 [**`Participants`**](./participants.md#umd-hcil), [**`Input`**](https://trec.nist.gov/results/trec26/rts/umc_hcil_rtv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/rts/summary-batchB-umc_hcil_rtv1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/umc_hcil_rtv1.pdf) 
 
-- :material-rename: **Name:** umc_hcil_rtv1 
+- :material-rename: **Run ID:** umc_hcil_rtv1 
 - :fontawesome-solid-user-group: **Participant:** umd-hcil 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -1030,7 +1030,7 @@
 #### WuWien-Run1-A 
 [**`Participants`**](./participants.md#wuwien), [**`Input`**](https://trec.nist.gov/results/trec26/rts/WuWien-Run1-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-WuWien-Run1-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-WuWien-Run1-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/WuWien-Run1-A.pdf) 
 
-- :material-rename: **Name:** WuWien-Run1-A 
+- :material-rename: **Run ID:** WuWien-Run1-A 
 - :fontawesome-solid-user-group: **Participant:** WUWien 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -1042,7 +1042,7 @@
 #### WuWien-Run2-A 
 [**`Participants`**](./participants.md#wuwien), [**`Input`**](https://trec.nist.gov/results/trec26/rts/WuWien-Run2-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-WuWien-Run2-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-WuWien-Run2-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/WuWien-Run2-A.pdf) 
 
-- :material-rename: **Name:** WuWien-Run2-A 
+- :material-rename: **Run ID:** WuWien-Run2-A 
 - :fontawesome-solid-user-group: **Participant:** WUWien 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
@@ -1054,7 +1054,7 @@
 #### WuWien-Run3-A 
 [**`Participants`**](./participants.md#wuwien), [**`Input`**](https://trec.nist.gov/results/trec26/rts/WuWien-Run3-A.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec26/rts/summary-batchA-WuWien-Run3-A.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec26/rts/summary-mobileA-WuWien-Run3-A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/rts/WuWien-Run3-A.pdf) 
 
-- :material-rename: **Name:** WuWien-Run3-A 
+- :material-rename: **Run ID:** WuWien-Run3-A 
 - :fontawesome-solid-user-group: **Participant:** WUWien 
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 

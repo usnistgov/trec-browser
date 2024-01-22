@@ -133,7 +133,6 @@ _Jian Mo, Luc Lamontagne, Richard Khoury_
 
 - :fontawesome-solid-user-group: **Participant:** [LavallVA](./participants.md#lavallva)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec24/papers/LavallVA-CX.pdf](http://trec.nist.gov/pubs/trec24/papers/LavallVA-CX.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/MoLK15.bib) "
 	```

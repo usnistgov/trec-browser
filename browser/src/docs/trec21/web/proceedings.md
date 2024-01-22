@@ -107,7 +107,6 @@ _Bekir Taner Dinçer_
 
 - :fontawesome-solid-user-group: **Participant:** [irra](./participants.md#irra)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec21/papers/irra.web.nb.pdf](http://trec.nist.gov/pubs/trec21/papers/irra.web.nb.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Dincer12.bib) "
 	```

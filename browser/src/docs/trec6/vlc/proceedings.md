@@ -28,9 +28,7 @@ _David Hawking, Paul B. Thistlewaite_
 
 _Amit Singhal_
 
-- :fontawesome-solid-user-group: **Participant:** [ATT](./participants.md#att)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/att.ps.gz](http://trec.nist.gov/pubs/trec6/papers/att.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Singhal97.bib) "
 	```
@@ -55,9 +53,7 @@ _Amit Singhal_
 
 _Steve Walker, Stephen E. Robertson, Mohand Boughanem, Gareth J. F. Jones, Karen Sparck Jones_
 
-- :fontawesome-solid-user-group: **Participant:** [City](./participants.md#city)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/city_proc_auto.ps.gz](http://trec.nist.gov/pubs/trec6/papers/city_proc_auto.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/WalkerRBJJ97.bib) "
 	```
@@ -82,9 +78,7 @@ _Steve Walker, Stephen E. Robertson, Mohand Boughanem, Gareth J. F. Jones, Karen
 
 _David Hawking, Paul B. Thistlewaite, Nick Craswell_
 
-- :fontawesome-solid-user-group: **Participant:** [ANU](./participants.md#anu)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/anu.ps.gz](http://trec.nist.gov/pubs/trec6/papers/anu.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/HawkingTC97.bib) "
 	```
@@ -109,9 +103,7 @@ _David Hawking, Paul B. Thistlewaite, Nick Craswell_
 
 _Gordon V. Cormack, Charles L. A. Clarke, Christopher R. Palmer, Samuel S. L. To_
 
-- :fontawesome-solid-user-group: **Participant:** [Waterloo](./participants.md#waterloo)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/waterloo.ps.gz](http://trec.nist.gov/pubs/trec6/papers/waterloo.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/CormackCPT97.bib) "
 	```
@@ -136,9 +128,7 @@ _Gordon V. Cormack, Charles L. A. Clarke, Christopher R. Palmer, Samuel S. L. To
 
 _Eric W. Brown, Herb A. Chong_
 
-- :fontawesome-solid-user-group: **Participant:** [IBM-Brown](./participants.md#ibm-brown)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/ibm_brown.ps.gz](http://trec.nist.gov/pubs/trec6/papers/ibm_brown.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BrownC97.bib) "
 	```
@@ -163,9 +153,7 @@ _Eric W. Brown, Herb A. Chong_
 
 _James Allan, James P. Callan, W. Bruce Croft, Lisa Ballesteros, Donald Byrd, Russell C. Swan, Jinxi Xu_
 
-- :fontawesome-solid-user-group: **Participant:** [UMass](./participants.md#umass)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec6/papers/umass-trec6.ps.gz](http://trec.nist.gov/pubs/trec6/papers/umass-trec6.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/AllanCCBBSX97.bib) "
 	```

@@ -1,9 +1,9 @@
 # Runs - Relevance Feedback 2010 
 
 #### Hit10rf.10-1 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.10-1.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.10-1 
+- :material-rename: **Run ID:** Hit10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -14,9 +14,9 @@
 
 ---
 #### Hit10rf.10-2 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.10-2.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.10-2 
+- :material-rename: **Run ID:** Hit10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -27,9 +27,9 @@
 
 ---
 #### Hit10rf.10-3 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.10-3.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.10-3 
+- :material-rename: **Run ID:** Hit10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -40,9 +40,9 @@
 
 ---
 #### Hit10rf.10-4 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.10-4.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.10-4 
+- :material-rename: **Run ID:** Hit10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -53,9 +53,9 @@
 
 ---
 #### Hit10rf.10-5 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.10-5.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.10-5 
+- :material-rename: **Run ID:** Hit10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -66,9 +66,9 @@
 
 ---
 #### Hit10rf.B 
-[**`Participants`**](./participants.md#hit), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Hit10rf.B.pdf) 
+[**`Participants`**](./participants.md#hit) 
 
-- :material-rename: **Name:** Hit10rf.B 
+- :material-rename: **Run ID:** Hit10rf.B 
 - :fontawesome-solid-user-group: **Participant:** hit 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -79,9 +79,9 @@
 
 ---
 #### PRIS10rf.10-1 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.10-1.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.10-1 
+- :material-rename: **Run ID:** PRIS10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -92,9 +92,9 @@
 
 ---
 #### PRIS10rf.10-2 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.10-2.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.10-2 
+- :material-rename: **Run ID:** PRIS10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -105,9 +105,9 @@
 
 ---
 #### PRIS10rf.10-3 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.10-3.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.10-3 
+- :material-rename: **Run ID:** PRIS10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -118,9 +118,9 @@
 
 ---
 #### PRIS10rf.10-4 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.10-4.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.10-4 
+- :material-rename: **Run ID:** PRIS10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -131,9 +131,9 @@
 
 ---
 #### PRIS10rf.10-5 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.10-5.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.10-5 
+- :material-rename: **Run ID:** PRIS10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -144,9 +144,9 @@
 
 ---
 #### PRIS10rf.B 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/PRIS10rf.B.pdf) 
+[**`Participants`**](./participants.md#pris) 
 
-- :material-rename: **Name:** PRIS10rf.B 
+- :material-rename: **Run ID:** PRIS10rf.B 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -157,9 +157,9 @@
 
 ---
 #### qut10rf.10-1 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-1.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-1 
+- :material-rename: **Run ID:** qut10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -170,9 +170,9 @@
 
 ---
 #### qut10rf.10-1.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-1.2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-1.2 
+- :material-rename: **Run ID:** qut10rf.10-1.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -183,9 +183,9 @@
 
 ---
 #### qut10rf.10-2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-2 
+- :material-rename: **Run ID:** qut10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -196,9 +196,9 @@
 
 ---
 #### qut10rf.10-2.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-2.2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-2.2 
+- :material-rename: **Run ID:** qut10rf.10-2.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -209,9 +209,9 @@
 
 ---
 #### qut10rf.10-3 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-3.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-3 
+- :material-rename: **Run ID:** qut10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -222,9 +222,9 @@
 
 ---
 #### qut10rf.10-3.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-3.2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-3.2 
+- :material-rename: **Run ID:** qut10rf.10-3.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -235,9 +235,9 @@
 
 ---
 #### qut10rf.10-4 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-4.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-4 
+- :material-rename: **Run ID:** qut10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -248,9 +248,9 @@
 
 ---
 #### qut10rf.10-4.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-4.2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-4.2 
+- :material-rename: **Run ID:** qut10rf.10-4.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -261,9 +261,9 @@
 
 ---
 #### qut10rf.10-5 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-5.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-5 
+- :material-rename: **Run ID:** qut10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -274,9 +274,9 @@
 
 ---
 #### qut10rf.10-5.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.10-5.2.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.10-5.2 
+- :material-rename: **Run ID:** qut10rf.10-5.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -287,9 +287,9 @@
 
 ---
 #### qut10rf.B 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/qut10rf.B.pdf) 
+[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** qut10rf.B 
+- :material-rename: **Run ID:** qut10rf.B 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -300,9 +300,9 @@
 
 ---
 #### Sab10rf.10-1 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-1.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-1 
+- :material-rename: **Run ID:** Sab10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -313,9 +313,9 @@
 
 ---
 #### Sab10rf.10-10 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-10.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-10 
+- :material-rename: **Run ID:** Sab10rf.10-10 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -326,9 +326,9 @@
 
 ---
 #### Sab10rf.10-2 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-2.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-2 
+- :material-rename: **Run ID:** Sab10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -339,9 +339,9 @@
 
 ---
 #### Sab10rf.10-3 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-3.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-3 
+- :material-rename: **Run ID:** Sab10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -352,9 +352,9 @@
 
 ---
 #### Sab10rf.10-4 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-4.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-4 
+- :material-rename: **Run ID:** Sab10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -365,9 +365,9 @@
 
 ---
 #### Sab10rf.10-5 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-5.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-5 
+- :material-rename: **Run ID:** Sab10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -378,9 +378,9 @@
 
 ---
 #### Sab10rf.10-6 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-6.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-6 
+- :material-rename: **Run ID:** Sab10rf.10-6 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -391,9 +391,9 @@
 
 ---
 #### Sab10rf.10-7 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-7.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-7 
+- :material-rename: **Run ID:** Sab10rf.10-7 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -404,9 +404,9 @@
 
 ---
 #### Sab10rf.10-8 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-8.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-8 
+- :material-rename: **Run ID:** Sab10rf.10-8 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -417,9 +417,9 @@
 
 ---
 #### Sab10rf.10-9 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.10-9.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.10-9 
+- :material-rename: **Run ID:** Sab10rf.10-9 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -430,9 +430,9 @@
 
 ---
 #### Sab10rf.B 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.B.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.B 
+- :material-rename: **Run ID:** Sab10rf.B 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -443,9 +443,9 @@
 
 ---
 #### Sab10rf.ranking 
-[**`Participants`**](./participants.md#sabir), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/Sab10rf.ranking.pdf) 
+[**`Participants`**](./participants.md#sabir) 
 
-- :material-rename: **Name:** Sab10rf.ranking 
+- :material-rename: **Run ID:** Sab10rf.ranking 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -456,9 +456,9 @@
 
 ---
 #### UAmsRF.10-1 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.10-1.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.10-1 
+- :material-rename: **Run ID:** UAmsRF.10-1 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -469,9 +469,9 @@
 
 ---
 #### UAmsRF.10-2 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.10-2.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.10-2 
+- :material-rename: **Run ID:** UAmsRF.10-2 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -482,9 +482,9 @@
 
 ---
 #### UAmsRF.10-3 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.10-3.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.10-3 
+- :material-rename: **Run ID:** UAmsRF.10-3 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -495,9 +495,9 @@
 
 ---
 #### UAmsRF.10-4 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.10-4.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.10-4 
+- :material-rename: **Run ID:** UAmsRF.10-4 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -508,9 +508,9 @@
 
 ---
 #### UAmsRF.10-5 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.10-5.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.10-5 
+- :material-rename: **Run ID:** UAmsRF.10-5 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -521,9 +521,9 @@
 
 ---
 #### UAmsRF.B 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UAmsRF.B.pdf) 
+[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
-- :material-rename: **Name:** UAmsRF.B 
+- :material-rename: **Run ID:** UAmsRF.B 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -534,9 +534,9 @@
 
 ---
 #### udel.10-1 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-1.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-1 
+- :material-rename: **Run ID:** udel.10-1 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -547,9 +547,9 @@
 
 ---
 #### udel.10-10 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-10.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-10 
+- :material-rename: **Run ID:** udel.10-10 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -560,9 +560,9 @@
 
 ---
 #### udel.10-2 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-2.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-2 
+- :material-rename: **Run ID:** udel.10-2 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -573,9 +573,9 @@
 
 ---
 #### udel.10-3 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-3.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-3 
+- :material-rename: **Run ID:** udel.10-3 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -586,9 +586,9 @@
 
 ---
 #### udel.10-4 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-4.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-4 
+- :material-rename: **Run ID:** udel.10-4 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -599,9 +599,9 @@
 
 ---
 #### udel.10-5 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-5.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-5 
+- :material-rename: **Run ID:** udel.10-5 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -612,9 +612,9 @@
 
 ---
 #### udel.10-6 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-6.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-6 
+- :material-rename: **Run ID:** udel.10-6 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -625,9 +625,9 @@
 
 ---
 #### udel.10-7 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-7.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-7 
+- :material-rename: **Run ID:** udel.10-7 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -638,9 +638,9 @@
 
 ---
 #### udel.10-8 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-8.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-8 
+- :material-rename: **Run ID:** udel.10-8 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -651,9 +651,9 @@
 
 ---
 #### udel.10-9 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.10-9.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.10-9 
+- :material-rename: **Run ID:** udel.10-9 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -664,9 +664,9 @@
 
 ---
 #### udel.B 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/udel.B.pdf) 
+[**`Participants`**](./participants.md#udel) 
 
-- :material-rename: **Name:** udel.B 
+- :material-rename: **Run ID:** udel.B 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -677,9 +677,9 @@
 
 ---
 #### UPD10rf.10-1 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-1.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-1 
+- :material-rename: **Run ID:** UPD10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -690,9 +690,9 @@
 
 ---
 #### UPD10rf.10-10 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-10.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-10 
+- :material-rename: **Run ID:** UPD10rf.10-10 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -703,9 +703,9 @@
 
 ---
 #### UPD10rf.10-2 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-2.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-2 
+- :material-rename: **Run ID:** UPD10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -716,9 +716,9 @@
 
 ---
 #### UPD10rf.10-3 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-3.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-3 
+- :material-rename: **Run ID:** UPD10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -729,9 +729,9 @@
 
 ---
 #### UPD10rf.10-4 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-4.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-4 
+- :material-rename: **Run ID:** UPD10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -742,9 +742,9 @@
 
 ---
 #### UPD10rf.10-5 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-5.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-5 
+- :material-rename: **Run ID:** UPD10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -755,9 +755,9 @@
 
 ---
 #### UPD10rf.10-6 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-6.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-6 
+- :material-rename: **Run ID:** UPD10rf.10-6 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -768,9 +768,9 @@
 
 ---
 #### UPD10rf.10-7 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-7.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-7 
+- :material-rename: **Run ID:** UPD10rf.10-7 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -781,9 +781,9 @@
 
 ---
 #### UPD10rf.10-8 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-8.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-8 
+- :material-rename: **Run ID:** UPD10rf.10-8 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -794,9 +794,9 @@
 
 ---
 #### UPD10rf.10-9 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.10-9.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.10-9 
+- :material-rename: **Run ID:** UPD10rf.10-9 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
@@ -807,9 +807,9 @@
 
 ---
 #### UPD10rf.B 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/relfdbk/UPD10rf.B.pdf) 
+[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
-- :material-rename: **Name:** UPD10rf.B 
+- :material-rename: **Run ID:** UPD10rf.B 
 - :fontawesome-solid-user-group: **Participant:** UPD 
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 

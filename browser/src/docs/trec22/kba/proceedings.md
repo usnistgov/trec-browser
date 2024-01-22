@@ -107,7 +107,6 @@ _Miles Efron, Craig Willis, Peter Organisciak, Brian Balsamo, Ana Lucic_
 
 - :fontawesome-solid-user-group: **Participant:** [uiuc](./participants.md#uiuc)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec22/papers/uiuc-kba.pdf](http://trec.nist.gov/pubs/trec22/papers/uiuc-kba.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/EfronWOBLI13.bib) "
 	```

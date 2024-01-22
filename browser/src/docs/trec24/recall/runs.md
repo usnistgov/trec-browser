@@ -1,9 +1,9 @@
 # Runs - Total Recall 2015 
 
 #### 1NB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1NB 
+- :material-rename: **Run ID:** 1NB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -14,9 +14,9 @@
 
 ---
 #### 1NB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1NB_sandbox 
+- :material-rename: **Run ID:** 1NB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -27,9 +27,9 @@
 
 ---
 #### 1SB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1SB 
+- :material-rename: **Run ID:** 1SB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -40,9 +40,9 @@
 
 ---
 #### 1SB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1SB_sandbox 
+- :material-rename: **Run ID:** 1SB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -53,9 +53,9 @@
 
 ---
 #### 1ST 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1ST 
+- :material-rename: **Run ID:** 1ST 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -66,9 +66,9 @@
 
 ---
 #### 1ST_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 1ST_sandbox 
+- :material-rename: **Run ID:** 1ST_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -79,9 +79,9 @@
 
 ---
 #### 6NB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6NB 
+- :material-rename: **Run ID:** 6NB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -92,9 +92,9 @@
 
 ---
 #### 6NB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6NB_sandbox 
+- :material-rename: **Run ID:** 6NB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -105,9 +105,9 @@
 
 ---
 #### 6SB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6SB 
+- :material-rename: **Run ID:** 6SB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -118,9 +118,9 @@
 
 ---
 #### 6SB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6SB_sandbox 
+- :material-rename: **Run ID:** 6SB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -131,9 +131,9 @@
 
 ---
 #### 6ST 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6ST 
+- :material-rename: **Run ID:** 6ST 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -144,9 +144,9 @@
 
 ---
 #### 6ST_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
-- :material-rename: **Name:** 6ST_sandbox 
+- :material-rename: **Run ID:** 6ST_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -157,9 +157,9 @@
 
 ---
 #### Athome1 
-[**`Participants`**](./participants.md#ninja), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ninja) 
 
-- :material-rename: **Name:** Athome1 
+- :material-rename: **Run ID:** Athome1 
 - :fontawesome-solid-user-group: **Participant:** NINJA 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -170,9 +170,9 @@
 
 ---
 #### Athome2 
-[**`Participants`**](./participants.md#ninja), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ninja) 
 
-- :material-rename: **Name:** Athome2 
+- :material-rename: **Run ID:** Athome2 
 - :fontawesome-solid-user-group: **Participant:** NINJA 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -183,9 +183,9 @@
 
 ---
 #### Athome3 
-[**`Participants`**](./participants.md#ninja), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ninja) 
 
-- :material-rename: **Name:** Athome3 
+- :material-rename: **Run ID:** Athome3 
 - :fontawesome-solid-user-group: **Participant:** NINJA 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -196,9 +196,9 @@
 
 ---
 #### attemptone 
-[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#a-constrained-approach-to-manual-total-recall), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#a-constrained-approach-to-manual-total-recall) 
 
-- :material-rename: **Name:** attemptone 
+- :material-rename: **Run ID:** attemptone 
 - :fontawesome-solid-user-group: **Participant:** catres 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -209,9 +209,9 @@
 
 ---
 #### Baseline 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
-- :material-rename: **Name:** Baseline 
+- :material-rename: **Run ID:** Baseline 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -222,9 +222,9 @@
 
 ---
 #### BASELINE 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** BASELINE 
+- :material-rename: **Run ID:** BASELINE 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -235,9 +235,9 @@
 
 ---
 #### BASELINE2 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** BASELINE2 
+- :material-rename: **Run ID:** BASELINE2 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -248,9 +248,9 @@
 
 ---
 #### BASELINE2_SANDBOX 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** BASELINE2_SANDBOX 
+- :material-rename: **Run ID:** BASELINE2_SANDBOX 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -261,9 +261,9 @@
 
 ---
 #### BASELINE_SANDBOX 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** BASELINE_SANDBOX 
+- :material-rename: **Run ID:** BASELINE_SANDBOX 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -274,9 +274,9 @@
 
 ---
 #### CCRi-athome 
-[**`Participants`**](./participants.md#ccri), [**`Proceedings`**](./proceedings.md#efficient-semantic-indexing-via-neural-networks-with-dynamic-supervised-feedback), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ccri), [**`Proceedings`**](./proceedings.md#efficient-semantic-indexing-via-neural-networks-with-dynamic-supervised-feedback) 
 
-- :material-rename: **Name:** CCRi-athome 
+- :material-rename: **Run ID:** CCRi-athome 
 - :fontawesome-solid-user-group: **Participant:** CCRi 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -287,9 +287,9 @@
 
 ---
 #### iterative_expansion 
-[**`Participants`**](./participants.md#whu_irgroup), [**`Proceedings`**](./proceedings.md#whu-at-trec-total-recall-track-2015), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#whu_irgroup), [**`Proceedings`**](./proceedings.md#whu-at-trec-total-recall-track-2015) 
 
-- :material-rename: **Name:** iterative_expansion 
+- :material-rename: **Run ID:** iterative_expansion 
 - :fontawesome-solid-user-group: **Participant:** WHU_IRGroup 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -300,9 +300,9 @@
 
 ---
 #### Keyphrase 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
-- :material-rename: **Name:** Keyphrase 
+- :material-rename: **Run ID:** Keyphrase 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -313,9 +313,9 @@
 
 ---
 #### Multimodal 
-[**`Participants`**](./participants.md#ediscoveryteam), [**`Proceedings`**](./proceedings.md#e-discovery-team-at-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#ediscoveryteam), [**`Proceedings`**](./proceedings.md#e-discovery-team-at-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** Multimodal 
+- :material-rename: **Run ID:** Multimodal 
 - :fontawesome-solid-user-group: **Participant:** eDiscoveryTeam 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -326,9 +326,9 @@
 
 ---
 #### SandboxBaseline 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
-- :material-rename: **Name:** SandboxBaseline 
+- :material-rename: **Run ID:** SandboxBaseline 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -339,9 +339,9 @@
 
 ---
 #### SandboxKeyphrase 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
-- :material-rename: **Name:** SandboxKeyphrase 
+- :material-rename: **Run ID:** SandboxKeyphrase 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -352,9 +352,9 @@
 
 ---
 #### stop3299 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** stop3299 
+- :material-rename: **Run ID:** stop3299 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -365,9 +365,9 @@
 
 ---
 #### UWGVCknee100 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** UWGVCknee100 
+- :material-rename: **Run ID:** UWGVCknee100 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -378,9 +378,9 @@
 
 ---
 #### UWGVCknee1000 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** UWGVCknee1000 
+- :material-rename: **Run ID:** UWGVCknee1000 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -391,9 +391,9 @@
 
 ---
 #### UWPAH 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** UWPAH 
+- :material-rename: **Run ID:** UWPAH 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 
@@ -404,9 +404,9 @@
 
 ---
 #### UWPAH_ 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/recall/recall.pdf) 
+[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
 
-- :material-rename: **Name:** UWPAH_ 
+- :material-rename: **Run ID:** UWPAH_ 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
 - :material-format-text: **Track:** Total Recall 
 - :material-calendar: **Year:** 2015 

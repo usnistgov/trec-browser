@@ -237,7 +237,6 @@ _Gina-Anne Levow_
 
 - :fontawesome-solid-user-group: **Participant:** [u.chichago](./participants.md#u.chichago)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec13/papers/uchichago.hard.pdf](http://trec.nist.gov/pubs/trec13/papers/uchichago.hard.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Levow04.bib) "
 	```

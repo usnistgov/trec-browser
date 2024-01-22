@@ -3,7 +3,7 @@
 #### 1APSalRed 
 [**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/1APSalRed.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/1APSalRed.pdf) 
 
-- :material-rename: **Name:** 1APSalRed 
+- :material-rename: **Run ID:** 1APSalRed 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -16,7 +16,7 @@
 #### 2APSal 
 [**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/2APSal.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/2APSal.pdf) 
 
-- :material-rename: **Name:** 2APSal 
+- :material-rename: **Run ID:** 2APSal 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -29,7 +29,7 @@
 #### 3AP 
 [**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/3AP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/3AP.pdf) 
 
-- :material-rename: **Name:** 3AP 
+- :material-rename: **Run ID:** 3AP 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -42,7 +42,7 @@
 #### Cluster1 
 [**`Participants`**](./participants.md#bupt_pris), [**`Proceedings`**](./proceedings.md#the-information-extraction-systems-of-bupt-pris-at-trec2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Cluster1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Cluster1.pdf) 
 
-- :material-rename: **Name:** Cluster1 
+- :material-rename: **Run ID:** Cluster1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -55,7 +55,7 @@
 #### Cluster2 
 [**`Participants`**](./participants.md#bupt_pris), [**`Proceedings`**](./proceedings.md#the-information-extraction-systems-of-bupt-pris-at-trec2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Cluster2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Cluster2.pdf) 
 
-- :material-rename: **Name:** Cluster2 
+- :material-rename: **Run ID:** Cluster2 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -68,7 +68,7 @@
 #### Cluster3 
 [**`Participants`**](./participants.md#bupt_pris), [**`Proceedings`**](./proceedings.md#the-information-extraction-systems-of-bupt-pris-at-trec2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Cluster3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Cluster3.pdf) 
 
-- :material-rename: **Name:** Cluster3 
+- :material-rename: **Run ID:** Cluster3 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -81,7 +81,7 @@
 #### Cluster4 
 [**`Participants`**](./participants.md#bupt_pris), [**`Proceedings`**](./proceedings.md#the-information-extraction-systems-of-bupt-pris-at-trec2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Cluster4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Cluster4.pdf) 
 
-- :material-rename: **Name:** Cluster4 
+- :material-rename: **Run ID:** Cluster4 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -94,7 +94,7 @@
 #### KW30H10NW300 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW30H10NW300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW30H10NW300.pdf) 
 
-- :material-rename: **Name:** KW30H10NW300 
+- :material-rename: **Run ID:** KW30H10NW300 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -107,7 +107,7 @@
 #### KW30H5NW300 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW30H5NW300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW30H5NW300.pdf) 
 
-- :material-rename: **Name:** KW30H5NW300 
+- :material-rename: **Run ID:** KW30H5NW300 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -120,7 +120,7 @@
 #### KW30H5NW3600 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW30H5NW3600.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW30H5NW3600.pdf) 
 
-- :material-rename: **Name:** KW30H5NW3600 
+- :material-rename: **Run ID:** KW30H5NW3600 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -133,7 +133,7 @@
 #### KW80H10NW300 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW80H10NW300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW80H10NW300.pdf) 
 
-- :material-rename: **Name:** KW80H10NW300 
+- :material-rename: **Run ID:** KW80H10NW300 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -146,7 +146,7 @@
 #### KW80H5NW300 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW80H5NW300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW80H5NW300.pdf) 
 
-- :material-rename: **Name:** KW80H5NW300 
+- :material-rename: **Run ID:** KW80H5NW300 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -159,7 +159,7 @@
 #### KW80H5NW3600 
 [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/KW80H5NW3600.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/KW80H5NW3600.pdf) 
 
-- :material-rename: **Name:** KW80H5NW3600 
+- :material-rename: **Run ID:** KW80H5NW3600 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -172,7 +172,7 @@
 #### Q0 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Q0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Q0.pdf) 
 
-- :material-rename: **Name:** Q0 
+- :material-rename: **Run ID:** Q0 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -185,7 +185,7 @@
 #### Q1 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Q1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Q1.pdf) 
 
-- :material-rename: **Name:** Q1 
+- :material-rename: **Run ID:** Q1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -198,7 +198,7 @@
 #### Q2 
 [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/Q2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/Q2.pdf) 
 
-- :material-rename: **Name:** Q2 
+- :material-rename: **Run ID:** Q2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -211,7 +211,7 @@
 #### run1 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-temporal-summarization-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/run1.pdf) 
 
-- :material-rename: **Name:** run1 
+- :material-rename: **Run ID:** run1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -224,7 +224,7 @@
 #### run2 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-temporal-summarization-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/run2.pdf) 
 
-- :material-rename: **Name:** run2 
+- :material-rename: **Run ID:** run2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -237,7 +237,7 @@
 #### run3 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-temporal-summarization-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/run3.pdf) 
 
-- :material-rename: **Name:** run3 
+- :material-rename: **Run ID:** run3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -250,7 +250,7 @@
 #### run4 
 [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-temporal-summarization-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/run4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/run4.pdf) 
 
-- :material-rename: **Name:** run4 
+- :material-rename: **Run ID:** run4 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -263,7 +263,7 @@
 #### uogTr2A 
 [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/uogTr2A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/uogTr2A.pdf) 
 
-- :material-rename: **Name:** uogTr2A 
+- :material-rename: **Run ID:** uogTr2A 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -276,7 +276,7 @@
 #### uogTr4A 
 [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/uogTr4A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/uogTr4A.pdf) 
 
-- :material-rename: **Name:** uogTr4A 
+- :material-rename: **Run ID:** uogTr4A 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -289,7 +289,7 @@
 #### uogTr4AC 
 [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/uogTr4AC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/uogTr4AC.pdf) 
 
-- :material-rename: **Name:** uogTr4AC 
+- :material-rename: **Run ID:** uogTr4AC 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 
@@ -302,7 +302,7 @@
 #### uogTr4ARas 
 [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/tempsumm/uogTr4ARas.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/tempsumm/uogTr4ARas.pdf) 
 
-- :material-rename: **Name:** uogTr4ARas 
+- :material-rename: **Run ID:** uogTr4ARas 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
 - :material-format-text: **Track:** Temporal Summarization 
 - :material-calendar: **Year:** 2014 

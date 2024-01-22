@@ -1,54 +1,54 @@
 # Runs - Interactive 2002 
 
 #### Icsiro 
-[**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#trec-11-web-and-interactive-tracks-at-csiro), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/Icsiro.pdf) 
+[**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#trec-11-web-and-interactive-tracks-at-csiro) 
 
-- :material-rename: **Name:** Icsiro 
+- :material-rename: **Run ID:** Icsiro 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 
 
 ---
 #### IOHSU 
-[**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#more-statistical-power-needed-the-ohsu-trec-2002-interactive-track-experiments), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/IOHSU.pdf) 
+[**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#more-statistical-power-needed-the-ohsu-trec-2002-interactive-track-experiments) 
 
-- :material-rename: **Name:** IOHSU 
+- :material-rename: **Run ID:** IOHSU 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 
 
 ---
 #### IRutgers 
-[**`Participants`**](./participants.md#rutgers_belkin), [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-2002), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/IRutgers.pdf) 
+[**`Participants`**](./participants.md#rutgers_belkin), [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-2002) 
 
-- :material-rename: **Name:** IRutgers 
+- :material-rename: **Run ID:** IRutgers 
 - :fontawesome-solid-user-group: **Participant:** rutgers_belkin 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 
 
 ---
 #### IToronto 
-[**`Participants`**](./participants.md#toronto), [**`Proceedings`**](./proceedings.md#augmenting-and-limiting-search-queries), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/IToronto.pdf) 
+[**`Participants`**](./participants.md#toronto), [**`Proceedings`**](./proceedings.md#augmenting-and-limiting-search-queries) 
 
-- :material-rename: **Name:** IToronto 
+- :material-rename: **Run ID:** IToronto 
 - :fontawesome-solid-user-group: **Participant:** toronto 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 
 
 ---
 #### IUNC 
-[**`Participants`**](./participants.md#uncnewby), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/IUNC.pdf) 
+[**`Participants`**](./participants.md#uncnewby) 
 
-- :material-rename: **Name:** IUNC 
+- :material-rename: **Run ID:** IUNC 
 - :fontawesome-solid-user-group: **Participant:** uncNewby 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 
 
 ---
 #### IUWashington 
-[**`Participants`**](./participants.md#uwashington), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/interactive/IUWashington.pdf) 
+[**`Participants`**](./participants.md#uwashington) 
 
-- :material-rename: **Name:** IUWashington 
+- :material-rename: **Run ID:** IUWashington 
 - :fontawesome-solid-user-group: **Participant:** uwashington 
 - :material-format-text: **Track:** Interactive 
 - :material-calendar: **Year:** 2002 

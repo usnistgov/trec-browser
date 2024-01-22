@@ -81,7 +81,6 @@ _Seyyed Hadi Hashemi, Jaap Kamps_
 
 - :fontawesome-solid-user-group: **Participant:** [UAmsterdam](./participants.md#uamsterdam)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec23/papers/pro-UAmsterdam_cs-web.pdf](http://trec.nist.gov/pubs/trec23/papers/pro-UAmsterdam_cs-web.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/HashemiK14.bib) "
 	```

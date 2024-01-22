@@ -133,7 +133,6 @@ _Matthias Hagen, Johannes Kiesel, Payam Adineh, Masoud Alahyari, Ehsan Fatehifar
 
 - :fontawesome-solid-user-group: **Participant:** [Webis](./participants.md#webis)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec25/papers/Webis-T-TR-O.pdf](http://trec.nist.gov/pubs/trec25/papers/Webis-T-TR-O.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/HagenKAAFBFS16.bib) "
 	```

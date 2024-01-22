@@ -29,7 +29,6 @@ _José Luís Devezas, Carla Teixeira Lopes, Sérgio Nunes_
 
 - :fontawesome-solid-user-group: **Participant:** [FEUP](./participants.md#feup)
 - :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec26/papers/FEUP-O.pdf](https://trec.nist.gov/pubs/trec26/papers/FEUP-O.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/DevezasLN17.bib) "
 	```

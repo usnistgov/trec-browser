@@ -1,6 +1,6 @@
 # Overview - Very Large Corpus 1997
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md)
 
 {==
 

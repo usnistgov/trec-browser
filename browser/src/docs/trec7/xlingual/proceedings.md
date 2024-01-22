@@ -57,7 +57,6 @@ _Richard C. Bodner, Mark H. Chignell_
 
 - :fontawesome-solid-user-group: **Participant:** [toronto](./participants.md#toronto)
 - :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec7/papers/uoftimg_trec7_report2.pdf.gz](https://trec.nist.gov/pubs/trec7/papers/uoftimg_trec7_report2.pdf.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BodnerC98.bib) "
 	```

@@ -29,7 +29,6 @@ _Vassilis Plachouras, Iadh Ounis, Gianni Amati, C. J. van Rijsbergen_
 
 - :fontawesome-solid-user-group: **Participant:** [glasgow](./participants.md#glasgow)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/glasgow.web.pdf](http://trec.nist.gov/pubs/trec11/papers/glasgow.web.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/PlachourasOAR02.bib) "
 	```

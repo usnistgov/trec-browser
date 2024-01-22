@@ -159,7 +159,6 @@ _Shan Jin, Man Lan_
 
 - :fontawesome-solid-user-group: **Participant:** [ECNU](./participants.md#ecnu)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec23/papers/pro-ECNU_federated.pdf](http://trec.nist.gov/pubs/trec23/papers/pro-ECNU_federated.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/JinL14.bib) "
 	```

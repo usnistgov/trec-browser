@@ -107,7 +107,6 @@ _Youjun E, Weitong Chen, Zhen Yang_
 
 - :fontawesome-solid-user-group: **Participant:** [BJUT](./participants.md#bjut)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf](http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ECY16.bib) "
 	```

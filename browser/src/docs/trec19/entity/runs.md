@@ -1,9 +1,9 @@
 # Runs - Entity 2010 
 
 #### B64 
-[**`Results`**](./results.md#b64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.B64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.B64), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/B64.pdf) 
+[**`Results`**](./results.md#b64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.B64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.B64) 
 
-- :material-rename: **Name:** B64 
+- :material-rename: **Run ID:** B64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -15,9 +15,9 @@
 
 ---
 #### bitDSHPRun 
-[**`Results`**](./results.md#bitdshprun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSHPRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSHPRun), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/bitDSHPRun.pdf) 
+[**`Results`**](./results.md#bitdshprun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSHPRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSHPRun) 
 
-- :material-rename: **Name:** bitDSHPRun 
+- :material-rename: **Run ID:** bitDSHPRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -29,9 +29,9 @@
 
 ---
 #### bitDSRRun 
-[**`Results`**](./results.md#bitdsrrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSRRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSRRun), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/bitDSRRun.pdf) 
+[**`Results`**](./results.md#bitdsrrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSRRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSRRun) 
 
-- :material-rename: **Name:** bitDSRRun 
+- :material-rename: **Run ID:** bitDSRRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -43,9 +43,9 @@
 
 ---
 #### bitRFRun 
-[**`Results`**](./results.md#bitrfrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitRFRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitRFRun), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/bitRFRun.pdf) 
+[**`Results`**](./results.md#bitrfrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitRFRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitRFRun) 
 
-- :material-rename: **Name:** bitRFRun 
+- :material-rename: **Run ID:** bitRFRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -57,9 +57,9 @@
 
 ---
 #### CARDENSMBLE 
-[**`Results`**](./results.md#cardensmble), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDENSMBLE.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDENSMBLE), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/CARDENSMBLE.pdf) 
+[**`Results`**](./results.md#cardensmble), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDENSMBLE.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDENSMBLE) 
 
-- :material-rename: **Name:** CARDENSMBLE 
+- :material-rename: **Run ID:** CARDENSMBLE 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -71,9 +71,9 @@
 
 ---
 #### CARDFPR 
-[**`Results`**](./results.md#cardfpr), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDFPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDFPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/CARDFPR.pdf) 
+[**`Results`**](./results.md#cardfpr), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDFPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDFPR) 
 
-- :material-rename: **Name:** CARDFPR 
+- :material-rename: **Run ID:** CARDFPR 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -85,9 +85,9 @@
 
 ---
 #### CARDHITS 
-[**`Results`**](./results.md#cardhits), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDHITS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDHITS), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/CARDHITS.pdf) 
+[**`Results`**](./results.md#cardhits), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDHITS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDHITS) 
 
-- :material-rename: **Name:** CARDHITS 
+- :material-rename: **Run ID:** CARDHITS 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -99,9 +99,9 @@
 
 ---
 #### CARDSGFCS 
-[**`Results`**](./results.md#cardsgfcs), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDSGFCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDSGFCS), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/CARDSGFCS.pdf) 
+[**`Results`**](./results.md#cardsgfcs), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDSGFCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDSGFCS) 
 
-- :material-rename: **Name:** CARDSGFCS 
+- :material-rename: **Run ID:** CARDSGFCS 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -113,9 +113,9 @@
 
 ---
 #### Comp 
-[**`Results`**](./results.md#comp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Comp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Comp), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/Comp.pdf) 
+[**`Results`**](./results.md#comp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Comp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Comp) 
 
-- :material-rename: **Name:** Comp 
+- :material-rename: **Run ID:** Comp 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -127,9 +127,9 @@
 
 ---
 #### Div 
-[**`Results`**](./results.md#div), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Div.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Div), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/Div.pdf) 
+[**`Results`**](./results.md#div), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Div.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Div) 
 
-- :material-rename: **Name:** Div 
+- :material-rename: **Run ID:** Div 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -141,9 +141,9 @@
 
 ---
 #### EntityHP 
-[**`Results`**](./results.md#entityhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/EntityHP.pdf) 
+[**`Results`**](./results.md#entityhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP) 
 
-- :material-rename: **Name:** EntityHP 
+- :material-rename: **Run ID:** EntityHP 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -155,9 +155,9 @@
 
 ---
 #### EntityHP1 
-[**`Results`**](./results.md#entityhp1), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/EntityHP1.pdf) 
+[**`Results`**](./results.md#entityhp1), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP1) 
 
-- :material-rename: **Name:** EntityHP1 
+- :material-rename: **Run ID:** EntityHP1 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -169,9 +169,9 @@
 
 ---
 #### FduWimET1 
-[**`Results`**](./results.md#fduwimet1), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/FduWimET1.pdf) 
+[**`Results`**](./results.md#fduwimet1), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET1) 
 
-- :material-rename: **Name:** FduWimET1 
+- :material-rename: **Run ID:** FduWimET1 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -183,9 +183,9 @@
 
 ---
 #### FduWimET2 
-[**`Results`**](./results.md#fduwimet2), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/FduWimET2.pdf) 
+[**`Results`**](./results.md#fduwimet2), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET2) 
 
-- :material-rename: **Name:** FduWimET2 
+- :material-rename: **Run ID:** FduWimET2 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -197,9 +197,9 @@
 
 ---
 #### FduWimET3 
-[**`Results`**](./results.md#fduwimet3), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/FduWimET3.pdf) 
+[**`Results`**](./results.md#fduwimet3), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET3) 
 
-- :material-rename: **Name:** FduWimET3 
+- :material-rename: **Run ID:** FduWimET3 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -211,9 +211,9 @@
 
 ---
 #### FduWimET4 
-[**`Results`**](./results.md#fduwimet4), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET4), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/FduWimET4.pdf) 
+[**`Results`**](./results.md#fduwimet4), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET4) 
 
-- :material-rename: **Name:** FduWimET4 
+- :material-rename: **Run ID:** FduWimET4 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -225,9 +225,9 @@
 
 ---
 #### G16 
-[**`Results`**](./results.md#g16), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G16.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G16), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/G16.pdf) 
+[**`Results`**](./results.md#g16), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G16.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G16) 
 
-- :material-rename: **Name:** G16 
+- :material-rename: **Run ID:** G16 
 - :fontawesome-solid-user-group: **Participant:** HPI 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -239,9 +239,9 @@
 
 ---
 #### G64 
-[**`Results`**](./results.md#g64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G64), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/G64.pdf) 
+[**`Results`**](./results.md#g64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G64) 
 
-- :material-rename: **Name:** G64 
+- :material-rename: **Run ID:** G64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -253,9 +253,9 @@
 
 ---
 #### ICTNETRun1 
-[**`Results`**](./results.md#ictnetrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-entity-track-trec-2010), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ICTNETRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ICTNETRun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ICTNETRun1.pdf) 
+[**`Results`**](./results.md#ictnetrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-entity-track-trec-2010), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ICTNETRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ICTNETRun1) 
 
-- :material-rename: **Name:** ICTNETRun1 
+- :material-rename: **Run ID:** ICTNETRun1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -267,9 +267,9 @@
 
 ---
 #### ilpsA500 
-[**`Results`**](./results.md#ilpsa500), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsA500.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsA500), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsA500.pdf) 
+[**`Results`**](./results.md#ilpsa500), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsA500.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsA500) 
 
-- :material-rename: **Name:** ilpsA500 
+- :material-rename: **Run ID:** ilpsA500 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -281,9 +281,9 @@
 
 ---
 #### ilpsM50 
-[**`Results`**](./results.md#ilpsm50), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsM50.pdf) 
+[**`Results`**](./results.md#ilpsm50), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50) 
 
-- :material-rename: **Name:** ilpsM50 
+- :material-rename: **Run ID:** ilpsM50 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -295,9 +295,9 @@
 
 ---
 #### ilpsM50agfil 
-[**`Results`**](./results.md#ilpsm50agfil), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50agfil.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50agfil), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsM50agfil.pdf) 
+[**`Results`**](./results.md#ilpsm50agfil), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50agfil.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50agfil) 
 
-- :material-rename: **Name:** ilpsM50agfil 
+- :material-rename: **Run ID:** ilpsM50agfil 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -309,9 +309,9 @@
 
 ---
 #### ilpsM50var 
-[**`Results`**](./results.md#ilpsm50var), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50var.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50var), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsM50var.pdf) 
+[**`Results`**](./results.md#ilpsm50var), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50var.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50var) 
 
-- :material-rename: **Name:** ilpsM50var 
+- :material-rename: **Run ID:** ilpsM50var 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -323,9 +323,9 @@
 
 ---
 #### ilpsSetOL 
-[**`Results`**](./results.md#ilpssetol), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOL.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOL), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsSetOL.pdf) 
+[**`Results`**](./results.md#ilpssetol), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOL.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOL) 
 
-- :material-rename: **Name:** ilpsSetOL 
+- :material-rename: **Run ID:** ilpsSetOL 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -337,9 +337,9 @@
 
 ---
 #### ilpsSetOLnar 
-[**`Results`**](./results.md#ilpssetolnar), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOLnar.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOLnar), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ilpsSetOLnar.pdf) 
+[**`Results`**](./results.md#ilpssetolnar), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOLnar.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOLnar) 
 
-- :material-rename: **Name:** ilpsSetOLnar 
+- :material-rename: **Run ID:** ilpsSetOLnar 
 - :fontawesome-solid-user-group: **Participant:** UAms 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -351,9 +351,9 @@
 
 ---
 #### KMR1PU 
-[**`Results`**](./results.md#kmr1pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR1PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR1PU), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/KMR1PU.pdf) 
+[**`Results`**](./results.md#kmr1pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR1PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR1PU) 
 
-- :material-rename: **Name:** KMR1PU 
+- :material-rename: **Run ID:** KMR1PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -365,9 +365,9 @@
 
 ---
 #### KMR3PU 
-[**`Results`**](./results.md#kmr3pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR3PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR3PU), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/KMR3PU.pdf) 
+[**`Results`**](./results.md#kmr3pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR3PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR3PU) 
 
-- :material-rename: **Name:** KMR3PU 
+- :material-rename: **Run ID:** KMR3PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -379,9 +379,9 @@
 
 ---
 #### KMR5PU 
-[**`Results`**](./results.md#kmr5pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR5PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR5PU), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/KMR5PU.pdf) 
+[**`Results`**](./results.md#kmr5pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR5PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR5PU) 
 
-- :material-rename: **Name:** KMR5PU 
+- :material-rename: **Run ID:** KMR5PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -393,9 +393,9 @@
 
 ---
 #### LearnDPI 
-[**`Results`**](./results.md#learndpi), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LearnDPI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LearnDPI), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/LearnDPI.pdf) 
+[**`Results`**](./results.md#learndpi), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LearnDPI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LearnDPI) 
 
-- :material-rename: **Name:** LearnDPI 
+- :material-rename: **Run ID:** LearnDPI 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -407,9 +407,9 @@
 
 ---
 #### LiraSealClwb 
-[**`Results`**](./results.md#lirasealclwb), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealClwb.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealClwb), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/LiraSealClwb.pdf) 
+[**`Results`**](./results.md#lirasealclwb), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealClwb.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealClwb) 
 
-- :material-rename: **Name:** LiraSealClwb 
+- :material-rename: **Run ID:** LiraSealClwb 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -421,9 +421,9 @@
 
 ---
 #### LiraSealgoog 
-[**`Results`**](./results.md#lirasealgoog), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealgoog.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealgoog), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/LiraSealgoog.pdf) 
+[**`Results`**](./results.md#lirasealgoog), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealgoog.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealgoog) 
 
-- :material-rename: **Name:** LiraSealgoog 
+- :material-rename: **Run ID:** LiraSealgoog 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -435,9 +435,9 @@
 
 ---
 #### PRIS1 
-[**`Results`**](./results.md#pris1), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/PRIS1.pdf) 
+[**`Results`**](./results.md#pris1), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS1) 
 
-- :material-rename: **Name:** PRIS1 
+- :material-rename: **Run ID:** PRIS1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -449,9 +449,9 @@
 
 ---
 #### PRIS2 
-[**`Results`**](./results.md#pris2), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/PRIS2.pdf) 
+[**`Results`**](./results.md#pris2), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS2) 
 
-- :material-rename: **Name:** PRIS2 
+- :material-rename: **Run ID:** PRIS2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -463,9 +463,9 @@
 
 ---
 #### PRIS3 
-[**`Results`**](./results.md#pris3), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/PRIS3.pdf) 
+[**`Results`**](./results.md#pris3), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS3) 
 
-- :material-rename: **Name:** PRIS3 
+- :material-rename: **Run ID:** PRIS3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -477,9 +477,9 @@
 
 ---
 #### PRIS4 
-[**`Results`**](./results.md#pris4), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS4), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/PRIS4.pdf) 
+[**`Results`**](./results.md#pris4), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS4) 
 
-- :material-rename: **Name:** PRIS4 
+- :material-rename: **Run ID:** PRIS4 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -491,9 +491,9 @@
 
 ---
 #### RanksDivComp 
-[**`Results`**](./results.md#ranksdivcomp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.RanksDivComp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.RanksDivComp), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/RanksDivComp.pdf) 
+[**`Results`**](./results.md#ranksdivcomp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.RanksDivComp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.RanksDivComp) 
 
-- :material-rename: **Name:** RanksDivComp 
+- :material-rename: **Run ID:** RanksDivComp 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -505,9 +505,9 @@
 
 ---
 #### SIEL10RUN1 
-[**`Results`**](./results.md#siel10run1), [**`Participants`**](./participants.md#siel10), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIEL10RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIEL10RUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SIEL10RUN1.pdf) 
+[**`Results`**](./results.md#siel10run1), [**`Participants`**](./participants.md#siel10), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIEL10RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIEL10RUN1) 
 
-- :material-rename: **Name:** SIEL10RUN1 
+- :material-rename: **Run ID:** SIEL10RUN1 
 - :fontawesome-solid-user-group: **Participant:** siel10 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -519,9 +519,9 @@
 
 ---
 #### SIELRUN1 
-[**`Results`**](./results.md#sielrun1), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SIELRUN1.pdf) 
+[**`Results`**](./results.md#sielrun1), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN1) 
 
-- :material-rename: **Name:** SIELRUN1 
+- :material-rename: **Run ID:** SIELRUN1 
 - :fontawesome-solid-user-group: **Participant:** SIEL_IIITH 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -533,9 +533,9 @@
 
 ---
 #### SIELRUN2 
-[**`Results`**](./results.md#sielrun2), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SIELRUN2.pdf) 
+[**`Results`**](./results.md#sielrun2), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN2) 
 
-- :material-rename: **Name:** SIELRUN2 
+- :material-rename: **Run ID:** SIELRUN2 
 - :fontawesome-solid-user-group: **Participant:** SIEL_IIITH 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -547,9 +547,9 @@
 
 ---
 #### Supp 
-[**`Results`**](./results.md#supp), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Supp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Supp), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/Supp.pdf) 
+[**`Results`**](./results.md#supp), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Supp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Supp) 
 
-- :material-rename: **Name:** Supp 
+- :material-rename: **Run ID:** Supp 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -561,9 +561,9 @@
 
 ---
 #### SuppHome 
-[**`Results`**](./results.md#supphome), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHome.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHome), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SuppHome.pdf) 
+[**`Results`**](./results.md#supphome), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHome.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHome) 
 
-- :material-rename: **Name:** SuppHome 
+- :material-rename: **Run ID:** SuppHome 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -575,9 +575,9 @@
 
 ---
 #### SuppHomeIsA 
-[**`Results`**](./results.md#supphomeisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHomeIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHomeIsA), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SuppHomeIsA.pdf) 
+[**`Results`**](./results.md#supphomeisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHomeIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHomeIsA) 
 
-- :material-rename: **Name:** SuppHomeIsA 
+- :material-rename: **Run ID:** SuppHomeIsA 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -589,9 +589,9 @@
 
 ---
 #### SuppIsA 
-[**`Results`**](./results.md#suppisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppIsA), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/SuppIsA.pdf) 
+[**`Results`**](./results.md#suppisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppIsA) 
 
-- :material-rename: **Name:** SuppIsA 
+- :material-rename: **Run ID:** SuppIsA 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -603,9 +603,9 @@
 
 ---
 #### UAbaseanchB 
-[**`Results`**](./results.md#uabaseanchb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaseanchB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaseanchB), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UAbaseanchB.pdf) 
+[**`Results`**](./results.md#uabaseanchb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaseanchB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaseanchB) 
 
-- :material-rename: **Name:** UAbaseanchB 
+- :material-rename: **Run ID:** UAbaseanchB 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -617,9 +617,9 @@
 
 ---
 #### UAbaselinkA 
-[**`Results`**](./results.md#uabaselinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaselinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaselinkA), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UAbaselinkA.pdf) 
+[**`Results`**](./results.md#uabaselinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaselinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaselinkA) 
 
-- :material-rename: **Name:** UAbaselinkA 
+- :material-rename: **Run ID:** UAbaselinkA 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -631,9 +631,9 @@
 
 ---
 #### UAcatscombB 
-[**`Results`**](./results.md#uacatscombb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatscombB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatscombB), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UAcatscombB.pdf) 
+[**`Results`**](./results.md#uacatscombb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatscombB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatscombB) 
 
-- :material-rename: **Name:** UAcatscombB 
+- :material-rename: **Run ID:** UAcatscombB 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -645,9 +645,9 @@
 
 ---
 #### UAcatslinkA 
-[**`Results`**](./results.md#uacatslinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatslinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatslinkA), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UAcatslinkA.pdf) 
+[**`Results`**](./results.md#uacatslinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatslinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatslinkA) 
 
-- :material-rename: **Name:** UAcatslinkA 
+- :material-rename: **Run ID:** UAcatslinkA 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -659,9 +659,9 @@
 
 ---
 #### UWAT1 
-[**`Results`**](./results.md#uwat1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UWAT1.pdf) 
+[**`Results`**](./results.md#uwat1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT1) 
 
-- :material-rename: **Name:** UWAT1 
+- :material-rename: **Run ID:** UWAT1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -673,9 +673,9 @@
 
 ---
 #### UWAT2 
-[**`Results`**](./results.md#uwat2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UWAT2.pdf) 
+[**`Results`**](./results.md#uwat2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT2) 
 
-- :material-rename: **Name:** UWAT2 
+- :material-rename: **Run ID:** UWAT2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -687,9 +687,9 @@
 
 ---
 #### UWEntTI 
-[**`Results`**](./results.md#uwentti), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWEntTI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWEntTI), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/UWEntTI.pdf) 
+[**`Results`**](./results.md#uwentti), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWEntTI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWEntTI) 
 
-- :material-rename: **Name:** UWEntTI 
+- :material-rename: **Run ID:** UWEntTI 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -701,9 +701,9 @@
 
 ---
 #### ValueDoc 
-[**`Results`**](./results.md#valuedoc), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ValueDoc.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ValueDoc), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/ValueDoc.pdf) 
+[**`Results`**](./results.md#valuedoc), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ValueDoc.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ValueDoc) 
 
-- :material-rename: **Name:** ValueDoc 
+- :material-rename: **Run ID:** ValueDoc 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -715,9 +715,9 @@
 
 ---
 #### Y64 
-[**`Results`**](./results.md#y64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Y64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Y64), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/Y64.pdf) 
+[**`Results`**](./results.md#y64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Y64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Y64) 
 
-- :material-rename: **Name:** Y64 
+- :material-rename: **Run ID:** Y64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 
@@ -729,9 +729,9 @@
 
 ---
 #### YahooEnHP 
-[**`Results`**](./results.md#yahooenhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.YahooEnHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.YahooEnHP), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/entity/YahooEnHP.pdf) 
+[**`Results`**](./results.md#yahooenhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.YahooEnHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.YahooEnHP) 
 
-- :material-rename: **Name:** YahooEnHP 
+- :material-rename: **Run ID:** YahooEnHP 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
 - :material-format-text: **Track:** Entity 
 - :material-calendar: **Year:** 2010 

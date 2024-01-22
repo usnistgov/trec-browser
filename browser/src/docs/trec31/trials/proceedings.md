@@ -185,7 +185,6 @@ _Ming-Xuan Shi, Tsung-Hsuan Pan, Hsin-Hsi Chen, Hen-Hsen Huang_
 
 - :fontawesome-solid-user-group: **Participant:** [NTU_NLP](./participants.md#ntu_nlp)
 - :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec30/papers/NTU_NLP-CT.pdf](https://trec.nist.gov/pubs/trec30/papers/NTU_NLP-CT.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ShiPCH21.bib) "
 	```

@@ -6,7 +6,6 @@ _Giorgio Maria Di Nunzio, Stefano Marchesin_
 
 - :fontawesome-solid-user-group: **Participant:** [ims_unipd](./participants.md#ims_unipd)
 - :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec27/papers/ims_unipd-C.pdf](https://trec.nist.gov/pubs/trec27/papers/ims_unipd-C.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Nunzio018.bib) "
 	```

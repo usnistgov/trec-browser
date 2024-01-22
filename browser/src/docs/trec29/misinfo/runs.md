@@ -3,7 +3,7 @@
 #### adhoc_run1 
 [**`Results`**](./results.md#adhoc_run1), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run1.pdf) 
 
-- :material-rename: **Name:** adhoc_run1 
+- :material-rename: **Run ID:** adhoc_run1 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -17,7 +17,7 @@
 #### adhoc_run10 
 [**`Results`**](./results.md#adhoc_run10), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run10.pdf) 
 
-- :material-rename: **Name:** adhoc_run10 
+- :material-rename: **Run ID:** adhoc_run10 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -31,7 +31,7 @@
 #### adhoc_run11 
 [**`Results`**](./results.md#adhoc_run11), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run11.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run11), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run11.pdf) 
 
-- :material-rename: **Name:** adhoc_run11 
+- :material-rename: **Run ID:** adhoc_run11 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -45,7 +45,7 @@
 #### adhoc_run12 
 [**`Results`**](./results.md#adhoc_run12), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run12.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run12), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run12.pdf) 
 
-- :material-rename: **Name:** adhoc_run12 
+- :material-rename: **Run ID:** adhoc_run12 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -59,7 +59,7 @@
 #### adhoc_run13 
 [**`Results`**](./results.md#adhoc_run13), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run13.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run13), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run13.pdf) 
 
-- :material-rename: **Name:** adhoc_run13 
+- :material-rename: **Run ID:** adhoc_run13 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -73,7 +73,7 @@
 #### adhoc_run2 
 [**`Results`**](./results.md#adhoc_run2), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run2.pdf) 
 
-- :material-rename: **Name:** adhoc_run2 
+- :material-rename: **Run ID:** adhoc_run2 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -87,7 +87,7 @@
 #### adhoc_run3 
 [**`Results`**](./results.md#adhoc_run3), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run3.pdf) 
 
-- :material-rename: **Name:** adhoc_run3 
+- :material-rename: **Run ID:** adhoc_run3 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -101,7 +101,7 @@
 #### adhoc_run4 
 [**`Results`**](./results.md#adhoc_run4), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run4.pdf) 
 
-- :material-rename: **Name:** adhoc_run4 
+- :material-rename: **Run ID:** adhoc_run4 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -115,7 +115,7 @@
 #### adhoc_run5 
 [**`Results`**](./results.md#adhoc_run5), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run5.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run5.pdf) 
 
-- :material-rename: **Name:** adhoc_run5 
+- :material-rename: **Run ID:** adhoc_run5 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -129,7 +129,7 @@
 #### adhoc_run6 
 [**`Results`**](./results.md#adhoc_run6), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run6.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run6), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run6.pdf) 
 
-- :material-rename: **Name:** adhoc_run6 
+- :material-rename: **Run ID:** adhoc_run6 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -143,7 +143,7 @@
 #### adhoc_run7 
 [**`Results`**](./results.md#adhoc_run7), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run7.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run7), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run7.pdf) 
 
-- :material-rename: **Name:** adhoc_run7 
+- :material-rename: **Run ID:** adhoc_run7 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -157,7 +157,7 @@
 #### adhoc_run8 
 [**`Results`**](./results.md#adhoc_run8), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run8.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run8), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run8.pdf) 
 
-- :material-rename: **Name:** adhoc_run8 
+- :material-rename: **Run ID:** adhoc_run8 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -171,7 +171,7 @@
 #### adhoc_run9 
 [**`Results`**](./results.md#adhoc_run9), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run9.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run9), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run9.pdf) 
 
-- :material-rename: **Name:** adhoc_run9 
+- :material-rename: **Run ID:** adhoc_run9 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -185,7 +185,7 @@
 #### bm25-desc 
 [**`Results`**](./results.md#bm25-desc), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25-desc.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25-desc), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25-desc.pdf) 
 
-- :material-rename: **Name:** bm25-desc 
+- :material-rename: **Run ID:** bm25-desc 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -199,7 +199,7 @@
 #### bm25-title 
 [**`Results`**](./results.md#bm25-title), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25-title.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25-title), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25-title.pdf) 
 
-- :material-rename: **Name:** bm25-title 
+- :material-rename: **Run ID:** bm25-title 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -213,7 +213,7 @@
 #### bm25_desc 
 [**`Results`**](./results.md#bm25_desc), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_desc.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_desc), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_desc.pdf) 
 
-- :material-rename: **Name:** bm25_desc 
+- :material-rename: **Run ID:** bm25_desc 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -227,7 +227,7 @@
 #### bm25_title 
 [**`Results`**](./results.md#bm25_title), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_title.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_title), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_title.pdf) 
 
-- :material-rename: **Name:** bm25_title 
+- :material-rename: **Run ID:** bm25_title 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -241,7 +241,7 @@
 #### CiTIUSCrdAdh 
 [**`Results`**](./results.md#citiuscrdadh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdAdh.pdf) 
 
-- :material-rename: **Name:** CiTIUSCrdAdh 
+- :material-rename: **Run ID:** CiTIUSCrdAdh 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -255,7 +255,7 @@
 #### CiTIUSCrdRelAdh 
 [**`Results`**](./results.md#citiuscrdreladh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdRelAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdRelAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdRelAdh.pdf) 
 
-- :material-rename: **Name:** CiTIUSCrdRelAdh 
+- :material-rename: **Run ID:** CiTIUSCrdRelAdh 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -269,7 +269,7 @@
 #### CiTIUSCrdRelTot 
 [**`Results`**](./results.md#citiuscrdreltot), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdRelTot.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdRelTot), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdRelTot.pdf) 
 
-- :material-rename: **Name:** CiTIUSCrdRelTot 
+- :material-rename: **Run ID:** CiTIUSCrdRelTot 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -283,7 +283,7 @@
 #### CiTIUSCrdTot 
 [**`Results`**](./results.md#citiuscrdtot), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdTot.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdTot), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdTot.pdf) 
 
-- :material-rename: **Name:** CiTIUSCrdTot 
+- :material-rename: **Run ID:** CiTIUSCrdTot 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -297,7 +297,7 @@
 #### CiTIUSSimAdh 
 [**`Results`**](./results.md#citiussimadh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimAdh.pdf) 
 
-- :material-rename: **Name:** CiTIUSSimAdh 
+- :material-rename: **Run ID:** CiTIUSSimAdh 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -311,7 +311,7 @@
 #### CiTIUSSimRelAdh 
 [**`Results`**](./results.md#citiussimreladh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimRelAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimRelAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimRelAdh.pdf) 
 
-- :material-rename: **Name:** CiTIUSSimRelAdh 
+- :material-rename: **Run ID:** CiTIUSSimRelAdh 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -325,7 +325,7 @@
 #### CiTIUSSimTot 
 [**`Results`**](./results.md#citiussimtot), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimTot.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimTot), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimTot.pdf) 
 
-- :material-rename: **Name:** CiTIUSSimTot 
+- :material-rename: **Run ID:** CiTIUSSimTot 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -339,7 +339,7 @@
 #### cn-ax-rer 
 [**`Results`**](./results.md#cn-ax-rer), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-ax-rer.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-ax-rer), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-ax-rer.pdf) 
 
-- :material-rename: **Name:** cn-ax-rer 
+- :material-rename: **Run ID:** cn-ax-rer 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -353,7 +353,7 @@
 #### cn-descr-2 
 [**`Results`**](./results.md#cn-descr-2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-descr-2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-descr-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-descr-2.pdf) 
 
-- :material-rename: **Name:** cn-descr-2 
+- :material-rename: **Run ID:** cn-descr-2 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -367,7 +367,7 @@
 #### cn-kq 
 [**`Results`**](./results.md#cn-kq), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq.pdf) 
 
-- :material-rename: **Name:** cn-kq 
+- :material-rename: **Run ID:** cn-kq 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -381,7 +381,7 @@
 #### cn-kq-t-td 
 [**`Results`**](./results.md#cn-kq-t-td), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-t-td.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-t-td), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-t-td.pdf) 
 
-- :material-rename: **Name:** cn-kq-t-td 
+- :material-rename: **Run ID:** cn-kq-t-td 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -395,7 +395,7 @@
 #### cn-kq-td 
 [**`Results`**](./results.md#cn-kq-td), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-td.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-td), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-td.pdf) 
 
-- :material-rename: **Name:** cn-kq-td 
+- :material-rename: **Run ID:** cn-kq-td 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -409,7 +409,7 @@
 #### cn-m-title 
 [**`Results`**](./results.md#cn-m-title), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-m-title.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-m-title), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-m-title.pdf) 
 
-- :material-rename: **Name:** cn-m-title 
+- :material-rename: **Run ID:** cn-m-title 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -423,7 +423,7 @@
 #### cn-title-2 
 [**`Results`**](./results.md#cn-title-2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-title-2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-title-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-title-2.pdf) 
 
-- :material-rename: **Name:** cn-title-2 
+- :material-rename: **Run ID:** cn-title-2 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -437,7 +437,7 @@
 #### h2oloo.m1 
 [**`Results`**](./results.md#h2oloom1), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m1.pdf) 
 
-- :material-rename: **Name:** h2oloo.m1 
+- :material-rename: **Run ID:** h2oloo.m1 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -451,7 +451,7 @@
 #### h2oloo.m10 
 [**`Results`**](./results.md#h2oloom10), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m10.pdf) 
 
-- :material-rename: **Name:** h2oloo.m10 
+- :material-rename: **Run ID:** h2oloo.m10 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -465,7 +465,7 @@
 #### h2oloo.m2 
 [**`Results`**](./results.md#h2oloom2), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m2.pdf) 
 
-- :material-rename: **Name:** h2oloo.m2 
+- :material-rename: **Run ID:** h2oloo.m2 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -479,7 +479,7 @@
 #### h2oloo.m3 
 [**`Results`**](./results.md#h2oloom3), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m3.pdf) 
 
-- :material-rename: **Name:** h2oloo.m3 
+- :material-rename: **Run ID:** h2oloo.m3 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -493,7 +493,7 @@
 #### h2oloo.m4 
 [**`Results`**](./results.md#h2oloom4), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m4.pdf) 
 
-- :material-rename: **Name:** h2oloo.m4 
+- :material-rename: **Run ID:** h2oloo.m4 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -507,7 +507,7 @@
 #### h2oloo.m5 
 [**`Results`**](./results.md#h2oloom5), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m5.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m5.pdf) 
 
-- :material-rename: **Name:** h2oloo.m5 
+- :material-rename: **Run ID:** h2oloo.m5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -521,7 +521,7 @@
 #### h2oloo.m7 
 [**`Results`**](./results.md#h2oloom7), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m7.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m7), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m7.pdf) 
 
-- :material-rename: **Name:** h2oloo.m7 
+- :material-rename: **Run ID:** h2oloo.m7 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -535,7 +535,7 @@
 #### h2oloo.m8 
 [**`Results`**](./results.md#h2oloom8), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m8.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m8), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m8.pdf) 
 
-- :material-rename: **Name:** h2oloo.m8 
+- :material-rename: **Run ID:** h2oloo.m8 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -549,7 +549,7 @@
 #### h2oloo.m9 
 [**`Results`**](./results.md#h2oloom9), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m9.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m9), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m9.pdf) 
 
-- :material-rename: **Name:** h2oloo.m9 
+- :material-rename: **Run ID:** h2oloo.m9 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -563,7 +563,7 @@
 #### NLM_BNU_E_GH 
 [**`Results`**](./results.md#nlm_bnu_e_gh), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_E_GH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_E_GH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_E_GH.pdf) 
 
-- :material-rename: **Name:** NLM_BNU_E_GH 
+- :material-rename: **Run ID:** NLM_BNU_E_GH 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -577,7 +577,7 @@
 #### NLM_BNU_E_NLI_C 
 [**`Results`**](./results.md#nlm_bnu_e_nli_c), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_E_NLI_C.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_E_NLI_C), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_E_NLI_C.pdf) 
 
-- :material-rename: **Name:** NLM_BNU_E_NLI_C 
+- :material-rename: **Run ID:** NLM_BNU_E_NLI_C 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -591,7 +591,7 @@
 #### NLM_BNU_ENS_NLI 
 [**`Results`**](./results.md#nlm_bnu_ens_nli), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_ENS_NLI.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_ENS_NLI), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_ENS_NLI.pdf) 
 
-- :material-rename: **Name:** NLM_BNU_ENS_NLI 
+- :material-rename: **Run ID:** NLM_BNU_ENS_NLI 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -605,7 +605,7 @@
 #### NLM_BNU_T5_CTM 
 [**`Results`**](./results.md#nlm_bnu_t5_ctm), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_T5_CTM.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_T5_CTM), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_T5_CTM.pdf) 
 
-- :material-rename: **Name:** NLM_BNU_T5_CTM 
+- :material-rename: **Run ID:** NLM_BNU_T5_CTM 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -619,7 +619,7 @@
 #### NLM_CTM_R1 
 [**`Results`**](./results.md#nlm_ctm_r1), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R1.pdf) 
 
-- :material-rename: **Name:** NLM_CTM_R1 
+- :material-rename: **Run ID:** NLM_CTM_R1 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -633,7 +633,7 @@
 #### NLM_CTM_R1_C 
 [**`Results`**](./results.md#nlm_ctm_r1_c), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R1_C.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R1_C), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R1_C.pdf) 
 
-- :material-rename: **Name:** NLM_CTM_R1_C 
+- :material-rename: **Run ID:** NLM_CTM_R1_C 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -647,7 +647,7 @@
 #### NLM_CTM_R2 
 [**`Results`**](./results.md#nlm_ctm_r2), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R2.pdf) 
 
-- :material-rename: **Name:** NLM_CTM_R2 
+- :material-rename: **Run ID:** NLM_CTM_R2 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -661,7 +661,7 @@
 #### NLM_E3 
 [**`Results`**](./results.md#nlm_e3), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E3.pdf) 
 
-- :material-rename: **Name:** NLM_E3 
+- :material-rename: **Run ID:** NLM_E3 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -675,7 +675,7 @@
 #### NLM_E4 
 [**`Results`**](./results.md#nlm_e4), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E4.pdf) 
 
-- :material-rename: **Name:** NLM_E4 
+- :material-rename: **Run ID:** NLM_E4 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -689,7 +689,7 @@
 #### NLM_TME 
 [**`Results`**](./results.md#nlm_tme), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME.pdf) 
 
-- :material-rename: **Name:** NLM_TME 
+- :material-rename: **Run ID:** NLM_TME 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -703,7 +703,7 @@
 #### NLM_TME_GH 
 [**`Results`**](./results.md#nlm_tme_gh), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_GH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_GH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_GH.pdf) 
 
-- :material-rename: **Name:** NLM_TME_GH 
+- :material-rename: **Run ID:** NLM_TME_GH 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -717,7 +717,7 @@
 #### NLM_TME_NLIR 
 [**`Results`**](./results.md#nlm_tme_nlir), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_NLIR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_NLIR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_NLIR.pdf) 
 
-- :material-rename: **Name:** NLM_TME_NLIR 
+- :material-rename: **Run ID:** NLM_TME_NLIR 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -731,7 +731,7 @@
 #### NLM_TME_NLIR_C 
 [**`Results`**](./results.md#nlm_tme_nlir_c), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_NLIR_C.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_NLIR_C), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_NLIR_C.pdf) 
 
-- :material-rename: **Name:** NLM_TME_NLIR_C 
+- :material-rename: **Run ID:** NLM_TME_NLIR_C 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -745,7 +745,7 @@
 #### RSL_BM25 
 [**`Results`**](./results.md#rsl_bm25), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25.pdf) 
 
-- :material-rename: **Name:** RSL_BM25 
+- :material-rename: **Run ID:** RSL_BM25 
 - :fontawesome-solid-user-group: **Participant:** RealSakaiLab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -759,7 +759,7 @@
 #### RSL_BM25LC 
 [**`Results`**](./results.md#rsl_bm25lc), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LC.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LC), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LC.pdf) 
 
-- :material-rename: **Name:** RSL_BM25LC 
+- :material-rename: **Run ID:** RSL_BM25LC 
 - :fontawesome-solid-user-group: **Participant:** RealSakaiLab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -773,7 +773,7 @@
 #### RSL_BM25LM 
 [**`Results`**](./results.md#rsl_bm25lm), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LM.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LM), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LM.pdf) 
 
-- :material-rename: **Name:** RSL_BM25LM 
+- :material-rename: **Run ID:** RSL_BM25LM 
 - :fontawesome-solid-user-group: **Participant:** RealSakaiLab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -787,7 +787,7 @@
 #### RSL_BM25LMC 
 [**`Results`**](./results.md#rsl_bm25lmc), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LMC.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LMC), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LMC.pdf) 
 
-- :material-rename: **Name:** RSL_BM25LMC 
+- :material-rename: **Run ID:** RSL_BM25LMC 
 - :fontawesome-solid-user-group: **Participant:** RealSakaiLab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -801,7 +801,7 @@
 #### run1 
 [**`Results`**](./results.md#run1), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run1.pdf) 
 
-- :material-rename: **Name:** run1 
+- :material-rename: **Run ID:** run1 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -815,7 +815,7 @@
 #### run10 
 [**`Results`**](./results.md#run10), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run10.pdf) 
 
-- :material-rename: **Name:** run10 
+- :material-rename: **Run ID:** run10 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -829,7 +829,7 @@
 #### run11 
 [**`Results`**](./results.md#run11), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run11.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run11), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run11.pdf) 
 
-- :material-rename: **Name:** run11 
+- :material-rename: **Run ID:** run11 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -843,7 +843,7 @@
 #### run2 
 [**`Results`**](./results.md#run2), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run2.pdf) 
 
-- :material-rename: **Name:** run2 
+- :material-rename: **Run ID:** run2 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -857,7 +857,7 @@
 #### run3 
 [**`Results`**](./results.md#run3), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run3.pdf) 
 
-- :material-rename: **Name:** run3 
+- :material-rename: **Run ID:** run3 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -871,7 +871,7 @@
 #### run4 
 [**`Results`**](./results.md#run4), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run4.pdf) 
 
-- :material-rename: **Name:** run4 
+- :material-rename: **Run ID:** run4 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -885,7 +885,7 @@
 #### run5 
 [**`Results`**](./results.md#run5), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run5.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run5.pdf) 
 
-- :material-rename: **Name:** run5 
+- :material-rename: **Run ID:** run5 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -899,7 +899,7 @@
 #### run6 
 [**`Results`**](./results.md#run6), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run6.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run6), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run6.pdf) 
 
-- :material-rename: **Name:** run6 
+- :material-rename: **Run ID:** run6 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -913,7 +913,7 @@
 #### run7 
 [**`Results`**](./results.md#run7), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run7.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run7), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run7.pdf) 
 
-- :material-rename: **Name:** run7 
+- :material-rename: **Run ID:** run7 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -927,7 +927,7 @@
 #### run8 
 [**`Results`**](./results.md#run8), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run8.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run8), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run8.pdf) 
 
-- :material-rename: **Name:** run8 
+- :material-rename: **Run ID:** run8 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -941,7 +941,7 @@
 #### run9 
 [**`Results`**](./results.md#run9), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.run9.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.run9), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/run9.pdf) 
 
-- :material-rename: **Name:** run9 
+- :material-rename: **Run ID:** run9 
 - :fontawesome-solid-user-group: **Participant:** KU 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -955,7 +955,7 @@
 #### THUIRRuleBased 
 [**`Results`**](./results.md#thuirrulebased), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.THUIRRuleBased.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.THUIRRuleBased), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/THUIRRuleBased.pdf) 
 
-- :material-rename: **Name:** THUIRRuleBased 
+- :material-rename: **Run ID:** THUIRRuleBased 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -969,7 +969,7 @@
 #### vohbm25 
 [**`Results`**](./results.md#vohbm25), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohbm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohbm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohbm25.pdf) 
 
-- :material-rename: **Name:** vohbm25 
+- :material-rename: **Run ID:** vohbm25 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -983,7 +983,7 @@
 #### vohbm25rm3 
 [**`Results`**](./results.md#vohbm25rm3), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohbm25rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohbm25rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohbm25rm3.pdf) 
 
-- :material-rename: **Name:** vohbm25rm3 
+- :material-rename: **Run ID:** vohbm25rm3 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -997,7 +997,7 @@
 #### vohcolabEvSim 
 [**`Results`**](./results.md#vohcolabevsim), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohcolabEvSim.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohcolabEvSim), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohcolabEvSim.pdf) 
 
-- :material-rename: **Name:** vohcolabEvSim 
+- :material-rename: **Run ID:** vohcolabEvSim 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -1011,7 +1011,7 @@
 #### vohEvDiv_colm 
 [**`Results`**](./results.md#vohevdiv_colm), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohEvDiv_colm.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohEvDiv_colm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohEvDiv_colm.pdf) 
 
-- :material-rename: **Name:** vohEvDiv_colm 
+- :material-rename: **Run ID:** vohEvDiv_colm 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 
@@ -1025,7 +1025,7 @@
 #### vohEvDivTfidf 
 [**`Results`**](./results.md#vohevdivtfidf), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohEvDivTfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohEvDivTfidf), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohEvDivTfidf.pdf) 
 
-- :material-rename: **Name:** vohEvDivTfidf 
+- :material-rename: **Run ID:** vohEvDivTfidf 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
 - :material-format-text: **Track:** Health Misinformation 
 - :material-calendar: **Year:** 2020 

@@ -3,7 +3,7 @@
 #### CLIPS-1 
 [**`Participants`**](./participants.md#clips-imag), [**`Proceedings`**](./proceedings.md#trec-10-shot-boundary-detection-task-clips-system-description-and-evaluation), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CLIPS-1 
+- :material-rename: **Run ID:** CLIPS-1 
 - :fontawesome-solid-user-group: **Participant:** clips-imag 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -13,7 +13,7 @@
 #### CLIPS-2 
 [**`Participants`**](./participants.md#clips-imag), [**`Proceedings`**](./proceedings.md#trec-10-shot-boundary-detection-task-clips-system-description-and-evaluation), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CLIPS-2 
+- :material-rename: **Run ID:** CLIPS-2 
 - :fontawesome-solid-user-group: **Participant:** clips-imag 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -23,7 +23,7 @@
 #### CMRS_UMD 
 [**`Participants`**](./participants.md#umd-allen), [**`Proceedings`**](./proceedings.md#trec-10-experiments-at-university-of-maryland-clir-and-video), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMRS_UMD 
+- :material-rename: **Run ID:** CMRS_UMD 
 - :fontawesome-solid-user-group: **Participant:** umd-allen 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -33,7 +33,7 @@
 #### CMRS_UMD2 
 [**`Participants`**](./participants.md#umd-allen), [**`Proceedings`**](./proceedings.md#trec-10-experiments-at-university-of-maryland-clir-and-video), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMRS_UMD2 
+- :material-rename: **Run ID:** CMRS_UMD2 
 - :fontawesome-solid-user-group: **Participant:** umd-allen 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -43,7 +43,7 @@
 #### CMU1 
 [**`Participants`**](./participants.md#cmu-hauptmann), [**`Proceedings`**](./proceedings.md#video-retrieval-with-the-informedia-digital-video-library-system), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMU1 
+- :material-rename: **Run ID:** CMU1 
 - :fontawesome-solid-user-group: **Participant:** cmu-Hauptmann 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -53,7 +53,7 @@
 #### CMU2 
 [**`Participants`**](./participants.md#cmu-hauptmann), [**`Proceedings`**](./proceedings.md#video-retrieval-with-the-informedia-digital-video-library-system), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMU2 
+- :material-rename: **Run ID:** CMU2 
 - :fontawesome-solid-user-group: **Participant:** cmu-Hauptmann 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -63,7 +63,7 @@
 #### CMU3 
 [**`Participants`**](./participants.md#cmu-hauptmann), [**`Proceedings`**](./proceedings.md#video-retrieval-with-the-informedia-digital-video-library-system), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMU3 
+- :material-rename: **Run ID:** CMU3 
 - :fontawesome-solid-user-group: **Participant:** cmu-Hauptmann 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -73,7 +73,7 @@
 #### CMU4 
 [**`Participants`**](./participants.md#cmu-hauptmann), [**`Proceedings`**](./proceedings.md#video-retrieval-with-the-informedia-digital-video-library-system), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** CMU4 
+- :material-rename: **Run ID:** CMU4 
 - :fontawesome-solid-user-group: **Participant:** cmu-Hauptmann 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -83,7 +83,7 @@
 #### DCUKI2001 
 [**`Participants`**](./participants.md#dublin), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** DCUKI2001 
+- :material-rename: **Run ID:** DCUKI2001 
 - :fontawesome-solid-user-group: **Participant:** dublin 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -93,7 +93,7 @@
 #### FDUSys1 
 [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-10-filtering-qa-web-and-video-tasks), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** FDUSys1 
+- :material-rename: **Run ID:** FDUSys1 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -103,7 +103,7 @@
 #### FisChalr1 
 [**`Participants`**](./participants.md#dublin), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** FisChalr1 
+- :material-rename: **Run ID:** FisChalr1 
 - :fontawesome-solid-user-group: **Participant:** dublin 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -113,7 +113,7 @@
 #### FisChalr2 
 [**`Participants`**](./participants.md#dublin), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** FisChalr2 
+- :material-rename: **Run ID:** FisChalr2 
 - :fontawesome-solid-user-group: **Participant:** dublin 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -123,7 +123,7 @@
 #### FundanSys1 
 [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-10-filtering-qa-web-and-video-tasks), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** FundanSys1 
+- :material-rename: **Run ID:** FundanSys1 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -133,7 +133,7 @@
 #### FundanSys2 
 [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-10-filtering-qa-web-and-video-tasks), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** FundanSys2 
+- :material-rename: **Run ID:** FundanSys2 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -143,7 +143,7 @@
 #### IBM_A_ASR 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_A_ASR 
+- :material-rename: **Run ID:** IBM_A_ASR 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -153,7 +153,7 @@
 #### IBM_A_C+S 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_A_C+S 
+- :material-rename: **Run ID:** IBM_A_C+S 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -163,7 +163,7 @@
 #### IBM_A_CBR 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_A_CBR 
+- :material-rename: **Run ID:** IBM_A_CBR 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -173,7 +173,7 @@
 #### IBM_Alm1 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_Alm1 
+- :material-rename: **Run ID:** IBM_Alm1 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -183,7 +183,7 @@
 #### IBM_Alm2 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_Alm2 
+- :material-rename: **Run ID:** IBM_Alm2 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -193,7 +193,7 @@
 #### IBM_I_ASR 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_I_ASR 
+- :material-rename: **Run ID:** IBM_I_ASR 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -203,7 +203,7 @@
 #### IBM_I_C+S 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_I_C+S 
+- :material-rename: **Run ID:** IBM_I_C+S 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -213,7 +213,7 @@
 #### IBM_I_CBR 
 [**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#integrating-features-models-and-semantics-for-trec-video-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** IBM_I_CBR 
+- :material-rename: **Run ID:** IBM_I_CBR 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -223,7 +223,7 @@
 #### ICKM1 
 [**`Participants`**](./participants.md#imperial), [**`Proceedings`**](./proceedings.md#multi-timescale-video-shot-change-detection), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** ICKM1 
+- :material-rename: **Run ID:** ICKM1 
 - :fontawesome-solid-user-group: **Participant:** imperial 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -233,7 +233,7 @@
 #### JHUAPL 
 [**`Participants`**](./participants.md#apl-jhu), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2001-experiments-in-filtering-and-in-arabic-video-and-web-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** JHUAPL 
+- :material-rename: **Run ID:** JHUAPL 
 - :fontawesome-solid-user-group: **Participant:** apl-jhu 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -243,7 +243,7 @@
 #### JHUAPLg 
 [**`Participants`**](./participants.md#apl-jhu), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2001-experiments-in-filtering-and-in-arabic-video-and-web-retrieval), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** JHUAPLg 
+- :material-rename: **Run ID:** JHUAPLg 
 - :fontawesome-solid-user-group: **Participant:** apl-jhu 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -253,7 +253,7 @@
 #### Lowlands_1 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** Lowlands_1 
+- :material-rename: **Run ID:** Lowlands_1 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -263,7 +263,7 @@
 #### Lowlands_2 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** Lowlands_2 
+- :material-rename: **Run ID:** Lowlands_2 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -273,7 +273,7 @@
 #### Lowlands_3 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** Lowlands_3 
+- :material-rename: **Run ID:** Lowlands_3 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -283,7 +283,7 @@
 #### Lowlands_4 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** Lowlands_4 
+- :material-rename: **Run ID:** Lowlands_4 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -293,7 +293,7 @@
 #### Lowlands_5 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** Lowlands_5 
+- :material-rename: **Run ID:** Lowlands_5 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -303,7 +303,7 @@
 #### MB_frequency 
 [**`Participants`**](./participants.md#glasgow), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** MB_frequency 
+- :material-rename: **Run ID:** MB_frequency 
 - :fontawesome-solid-user-group: **Participant:** glasgow 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -313,7 +313,7 @@
 #### MediaMill1 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** MediaMill1 
+- :material-rename: **Run ID:** MediaMill1 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -323,7 +323,7 @@
 #### MediaMill2 
 [**`Participants`**](./participants.md#lowlands), [**`Proceedings`**](./proceedings.md#lazy-users-and-automatic-video-retrieval-tools-in-the-lowlands), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** MediaMill2 
+- :material-rename: **Run ID:** MediaMill2 
 - :fontawesome-solid-user-group: **Participant:** lowlands 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -333,7 +333,7 @@
 #### MSSD 
 [**`Participants`**](./participants.md#microsoft-china), [**`Proceedings`**](./proceedings.md#msr-asia-at-trec-10-video-track-shot-boundary-detection-task), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** MSSD 
+- :material-rename: **Run ID:** MSSD 
 - :fontawesome-solid-user-group: **Participant:** microsoft-china 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -343,7 +343,7 @@
 #### UMDLAMP 
 [**`Participants`**](./participants.md#umd-allen), [**`Proceedings`**](./proceedings.md#trec-10-experiments-at-university-of-maryland-clir-and-video), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** UMDLAMP 
+- :material-rename: **Run ID:** UMDLAMP 
 - :fontawesome-solid-user-group: **Participant:** umd-allen 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 
@@ -353,7 +353,7 @@
 #### UNT1 
 [**`Participants`**](./participants.md#north_texas), [**`Proceedings`**](./proceedings.md#unt-trecvid-a-brighton-image-searcher-application), [**`nb.backintro1`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro1.pdf), [**`nb.backintro2`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.backintro2.pdf), [**`nb.gs.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.gs.precision.pdf), [**`nb.ki.precision`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.precision.pdf), [**`nb.ki.recall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.ki.recall.pdf), [**`nb.sb.cutsgrad.insertcount`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cutsgrad.insertcount.pdf), [**`nb.sb.cuts.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.cuts.precisionrecall.pdf), [**`nb.sb.grad.precisionrecall`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.sb.grad.precisionrecall.pdf), [**`nb.topics`**](https://trec.nist.gov/pubs/trec10/appendices/video/nb.topics.pdf) 
 
-- :material-rename: **Name:** UNT1 
+- :material-rename: **Run ID:** UNT1 
 - :fontawesome-solid-user-group: **Participant:** north_texas 
 - :material-format-text: **Track:** Video 
 - :material-calendar: **Year:** 2001 

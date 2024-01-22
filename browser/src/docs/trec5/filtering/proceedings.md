@@ -211,7 +211,6 @@ _Kwong Bor Ng, David Loewenstern, Chumki Basu, Haym Hirsh, Paul B. Kantor_
 
 - :fontawesome-solid-user-group: **Participant:** [RutgersK](./participants.md#rutgersk)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec5/papers/rutgers.kantor.ps.gz](http://trec.nist.gov/pubs/trec5/papers/rutgers.kantor.ps.gz)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/NgLBHK96.bib) "
 	```

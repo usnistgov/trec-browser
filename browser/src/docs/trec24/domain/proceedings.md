@@ -29,7 +29,6 @@ _Annie Bryant Burgess, Chris Mattmann, Giuseppe Totaro, Lewis John McGibbney, Pa
 
 - :fontawesome-solid-user-group: **Participant:** [JPL_USC](./participants.md#jpl_usc)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec24/papers/JPL_USC-DD.pdf](http://trec.nist.gov/pubs/trec24/papers/JPL_USC-DD.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BurgessMTMR15.bib) "
 	```
@@ -55,7 +54,6 @@ _Robin Joganah, Luc Lamontagne, Richard Khoury_
 
 - :fontawesome-solid-user-group: **Participant:** [LavallVA](./participants.md#lavallva)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec24/papers/LavallVA-DD.pdf](http://trec.nist.gov/pubs/trec24/papers/LavallVA-DD.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/JoganahLK15.bib) "
 	```

@@ -81,7 +81,6 @@ _Jeffrey Dalton, Laura Dietz_
 
 - :fontawesome-solid-user-group: **Participant:** [UMass_CIRR](./participants.md#umass_cirr)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec21/papers/umass_CIRR.kba.final.pdf](http://trec.nist.gov/pubs/trec21/papers/umass_CIRR.kba.final.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/DaltonD12.bib) "
 	```
@@ -237,7 +236,6 @@ _Carl Tompkins, Zachary Witter, Sharon G. Small_
 
 - :fontawesome-solid-user-group: **Participant:** [SCIATeam](./participants.md#sciateam)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec21/papers/SCIATeam.kba.final.pdf](http://trec.nist.gov/pubs/trec21/papers/SCIATeam.kba.final.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/TompkinsWS12.bib) "
 	```

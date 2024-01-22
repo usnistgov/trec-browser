@@ -81,7 +81,6 @@ _Ben He, Craig Macdonald, Iadh Ounis, Jie Peng, Rodrygo L. T. Santos_
 
 - :fontawesome-solid-user-group: **Participant:** [UoGTr](./participants.md#uogtr)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec17/papers/uglasgow.blog.ent.rf.rev.pdf](http://trec.nist.gov/pubs/trec17/papers/uglasgow.blog.ent.rf.rev.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/HeMOPS08.bib) "
 	```
@@ -237,7 +236,6 @@ _Pavel Serdyukov, Robin Aly, Djoerd Hiemstra_
 
 - :fontawesome-solid-user-group: **Participant:** [utwentedb](./participants.md#utwentedb)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec17/papers/utwente.ent.rev.pdf](http://trec.nist.gov/pubs/trec17/papers/utwente.ent.rev.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/SerdyukovAH08.bib) "
 	```

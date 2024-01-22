@@ -552,7 +552,6 @@ _Martin Franz, J. Scott McCarley, Todd Ward_
 
 - :fontawesome-solid-user-group: **Participant:** [ibm-franzs](./participants.md#ibm-franzs)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec8/papers/t8_ibm_hlt.pdf](http://trec.nist.gov/pubs/trec8/papers/t8_ibm_hlt.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/FranzMW99.bib) "
 	```

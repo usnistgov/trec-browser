@@ -162,7 +162,6 @@ _Dina Demner-Fushman, Swapna Abhyankar, Antonio Jimeno-Yepes, Russell F. Loane, 
 
 - :fontawesome-solid-user-group: **Participant:** [NLM](./participants.md#nlm)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec20/papers/NLM.medical.pdf](http://trec.nist.gov/pubs/trec20/papers/NLM.medical.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Demner-FushmanAJLRLIAA11.bib) "
 	```
@@ -448,7 +447,6 @@ _Martijn J. Schuemie, Dolf Trieschnigg, Edgar Meij_
 
 - :fontawesome-solid-user-group: **Participant:** [DutchHatTrick](./participants.md#dutchhattrick)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec20/papers/DutchHatTrick.med.update.pdf](http://trec.nist.gov/pubs/trec20/papers/DutchHatTrick.med.update.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/SchuemieTM11.bib) "
 	```

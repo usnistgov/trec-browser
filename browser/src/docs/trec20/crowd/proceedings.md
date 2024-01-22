@@ -6,7 +6,6 @@ _Paul Bennett, Ece Kamar, Gabriella Kazai_
 
 - :fontawesome-solid-user-group: **Participant:** [MSRC](./participants.md#msrc)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec20/papers/MSRC.crowdsourcing.update.pdf](http://trec.nist.gov/pubs/trec20/papers/MSRC.crowdsourcing.update.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BennettKK11.bib) "
 	```
@@ -32,7 +31,6 @@ _Sanmitra Bhattacharya, Christopher G. Harris, Yelena Mejova, Chao Yang, Padmini
 
 - :fontawesome-solid-user-group: **Participant:** [UIowaS](./participants.md#uiowas)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec20/papers/UIowaS.microblog.medical.crowdsourcing.update.pdf](http://trec.nist.gov/pubs/trec20/papers/UIowaS.microblog.medical.crowdsourcing.update.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Bhattacharya0MYS11.bib) "
 	```
