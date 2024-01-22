@@ -1,22 +1,6 @@
 from main import db
 import json
 
-no_tracks = [
-    'application', 
-    'proceedings', 
-    'notebook', 
-    'xpm',
-    'xfair', 
-    'xcast', 
-    'xdeep', 
-    'xtask', 
-    'xcontext', 
-    'xmicroblog', 
-    'xsession', 
-    'xclinical', 
-    'XHARD'
-]
-
 
 def is_json(json_data):
     try:
@@ -219,7 +203,34 @@ class Dataset(db.Model):
 
     def __repr__(self):
         return 
-    
+        
+    def to_json(self):
+
+        if hasattr(self, 'ir_datasets'):
+            ir_datasets = json.loads(self.ir_datasets) if is_json(self.ir_datasets) else self.ir_datasets 
+        if hasattr(self, 'corpus'):
+            corpus = json.loads(self.corpus) if is_json(self.corpus) else self.corpus  
+        if hasattr(self, 'topics'):
+            topics = json.loads(self.topics) if is_json(self.topics) else self.topics 
+        if hasattr(self, 'qrels'):
+            qrels = json.loads(self.qrels) if is_json(self.qrels) else self.qrels 
+        if hasattr(self, 'other'):
+            if self.other:
+                if is_json(self.other):
+                    other = json.loads(self.other)
+            else:
+                other = self.other
+        else:
+            other = self.other
+
+        return {
+            'ir_datasets': ir_datasets,
+            'corpus': corpus if corpus else '',
+            'topics': topics if topics else '',
+            'qrels': qrels if qrels else '',
+            'other': other if other else '',
+        }
+
 
 class Publication(db.Model):
     '''
@@ -239,6 +250,21 @@ class Publication(db.Model):
 
     def __repr__(self):
         return 
+    
+    def to_json(self):
+        json_publication = {
+            'trec': self.trec,
+            'track': self.track,
+            'pid': self.pid,
+            'url': self.url,
+            'biburl': self.biburl,
+            'key': self.key,
+            'title': self.title,
+            'author': self.author,
+            'bibtex': self.bibtex
+        }
+
+        return json_publication
 
 
 class Result(db.Model):
@@ -257,6 +283,19 @@ class Result(db.Model):
 
     def __repr__(self):
         return 
+    
+    def to_json(self):
+        json_publication = {
+            'trec': self.trec,
+            'track': self.track,
+            'runid': self.runid,
+            'eval': self.eval,
+            'measure': self.measure,
+            'topic': self.topic,
+            'score': self.score
+        }
+
+        return json_publication
 
 
 class Track(db.Model):

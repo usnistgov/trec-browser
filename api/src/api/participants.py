@@ -1,7 +1,7 @@
 from flask import jsonify
 from . import api
 from main import app
-from models import Participant, Run, no_tracks
+from models import Participant, Run
 
 
 @api.route('/<string:trec>/<string:track>/participants')
@@ -59,7 +59,7 @@ def get_trec_participants(trec):
                     Run.pid==p.get('pid'),
                     Run.trec==trec, 
                     ).with_entities(Run.track).distinct()
-                _distinct_tracks_runs = filter(lambda x: x.track not in no_tracks, _distinct_tracks_runs)
+                # _distinct_tracks_runs = filter(lambda x: x.track not in no_tracks, _distinct_tracks_runs)
                 p['tracks'] = [run.track for run in _distinct_tracks_runs]
 
             participants = filter(lambda x: len(x.get('tracks')) > 0, participants)
