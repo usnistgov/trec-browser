@@ -6,7 +6,7 @@ search:
 # Results - Precision Medicine 2017 
 
 #### teckro1 
-[**`Metadata`**](./runs.md#teckro1), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.teckro1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro1.pdf)
+[**`Metadata`**](./runs.md#teckro1), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2430 
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### teckro2 
-[**`Metadata`**](./runs.md#teckro2), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.teckro2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro2.pdf)
+[**`Metadata`**](./runs.md#teckro2), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1653 
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### teckro3 
-[**`Metadata`**](./runs.md#teckro3), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.teckro3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro3.pdf)
+[**`Metadata`**](./runs.md#teckro3), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2430 
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### teckro4 
-[**`Metadata`**](./runs.md#teckro4), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.teckro4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro4.pdf)
+[**`Metadata`**](./runs.md#teckro4), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1653 
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### teckro5 
-[**`Metadata`**](./runs.md#teckro5), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.teckro5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro5.pdf)
+[**`Metadata`**](./runs.md#teckro5), [**`Participants`**](./participants.md#teckro), [**`Proceedings`**](./proceedings.md#patient-selection-for-clinical-trials-based-on-concept-based-retrieval-and-result-filtering-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.teckro5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.teckro5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/teckro5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2435 
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### UCASBASE 
-[**`Metadata`**](./runs.md#ucasbase), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASBASE.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASBASE), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UCASBASE), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASBASE.pdf)
+[**`Metadata`**](./runs.md#ucasbase), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASBASE.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASBASE), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASBASE.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2686 
@@ -210,7 +210,7 @@ search:
 	```
 ---
 #### cCSIROmedAll 
-[**`Metadata`**](./runs.md#ccsiromedall), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedAll.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedAll), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cCSIROmedAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedAll.pdf)
+[**`Metadata`**](./runs.md#ccsiromedall), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedAll.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedAll.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2122 
@@ -223,7 +223,7 @@ search:
 	```
 ---
 #### kksetri1 
-[**`Metadata`**](./runs.md#kksetri1), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.kksetri1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri1.pdf)
+[**`Metadata`**](./runs.md#kksetri1), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0319 
@@ -236,7 +236,7 @@ search:
 	```
 ---
 #### kksetri2 
-[**`Metadata`**](./runs.md#kksetri2), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.kksetri2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri2.pdf)
+[**`Metadata`**](./runs.md#kksetri2), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0539 
@@ -249,7 +249,7 @@ search:
 	```
 ---
 #### kksetri4 
-[**`Metadata`**](./runs.md#kksetri4), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.kksetri4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri4.pdf)
+[**`Metadata`**](./runs.md#kksetri4), [**`Participants`**](./participants.md#kaist-kse), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.kksetri4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.kksetri4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/kksetri4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0921 
@@ -283,7 +283,7 @@ search:
 	```
 ---
 #### mugctbase 
-[**`Metadata`**](./runs.md#mugctbase), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctbase.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctbase), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mugctbase), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctbase.pdf)
+[**`Metadata`**](./runs.md#mugctbase), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctbase.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctbase), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctbase.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1369 
@@ -422,7 +422,7 @@ search:
 	```
 ---
 #### GP16Trail 
-[**`Metadata`**](./runs.md#gp16trail), [**`Participants`**](./participants.md#hokiego), [**`Proceedings`**](./proceedings.md#hokiego-at-2017-pm-task-genetic-programming-based-re-ranking-method-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.GP16Trail.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.GP16Trail), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.GP16Trail), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/GP16Trail.pdf)
+[**`Metadata`**](./runs.md#gp16trail), [**`Participants`**](./participants.md#hokiego), [**`Proceedings`**](./proceedings.md#hokiego-at-2017-pm-task-genetic-programming-based-re-ranking-method-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.GP16Trail.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.GP16Trail), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/GP16Trail.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0178 
@@ -456,7 +456,7 @@ search:
 	```
 ---
 #### GP14Trail 
-[**`Metadata`**](./runs.md#gp14trail), [**`Participants`**](./participants.md#hokiego), [**`Proceedings`**](./proceedings.md#hokiego-at-2017-pm-task-genetic-programming-based-re-ranking-method-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.GP14Trail.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.GP14Trail), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.GP14Trail), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/GP14Trail.pdf)
+[**`Metadata`**](./runs.md#gp14trail), [**`Participants`**](./participants.md#hokiego), [**`Proceedings`**](./proceedings.md#hokiego-at-2017-pm-task-genetic-programming-based-re-ranking-method-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.GP14Trail.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.GP14Trail), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/GP14Trail.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0319 
@@ -469,7 +469,7 @@ search:
 	```
 ---
 #### cCSIROmedNEG 
-[**`Metadata`**](./runs.md#ccsiromedneg), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedNEG.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedNEG), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cCSIROmedNEG), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedNEG.pdf)
+[**`Metadata`**](./runs.md#ccsiromedneg), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedNEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedNEG), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedNEG.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1577 
@@ -482,7 +482,7 @@ search:
 	```
 ---
 #### cCSIROmedMCM 
-[**`Metadata`**](./runs.md#ccsiromedmcm), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedMCM.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedMCM), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cCSIROmedMCM), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedMCM.pdf)
+[**`Metadata`**](./runs.md#ccsiromedmcm), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedMCM.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedMCM), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedMCM.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1738 
@@ -495,7 +495,7 @@ search:
 	```
 ---
 #### cCSIROmedHGB 
-[**`Metadata`**](./runs.md#ccsiromedhgb), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedHGB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedHGB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cCSIROmedHGB), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedHGB.pdf)
+[**`Metadata`**](./runs.md#ccsiromedhgb), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedHGB.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedHGB), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedHGB.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1980 
@@ -508,7 +508,7 @@ search:
 	```
 ---
 #### cCSIROmedMCB 
-[**`Metadata`**](./runs.md#ccsiromedmcb), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedMCB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedMCB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cCSIROmedMCB), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedMCB.pdf)
+[**`Metadata`**](./runs.md#ccsiromedmcb), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiro-at-2017-trec-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cCSIROmedMCB.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cCSIROmedMCB), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cCSIROmedMCB.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1609 
@@ -710,7 +710,7 @@ search:
 	```
 ---
 #### UKY_TRL 
-[**`Metadata`**](./runs.md#uky_trl), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_TRL.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_TRL), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UKY_TRL), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_TRL.pdf)
+[**`Metadata`**](./runs.md#uky_trl), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_TRL.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_TRL), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_TRL.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1937 
@@ -723,7 +723,7 @@ search:
 	```
 ---
 #### UKY_T2 
-[**`Metadata`**](./runs.md#uky_t2), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UKY_T2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T2.pdf)
+[**`Metadata`**](./runs.md#uky_t2), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1896 
@@ -736,7 +736,7 @@ search:
 	```
 ---
 #### UKY_T3 
-[**`Metadata`**](./runs.md#uky_t3), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UKY_T3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T3.pdf)
+[**`Metadata`**](./runs.md#uky_t3), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1941 
@@ -749,7 +749,7 @@ search:
 	```
 ---
 #### UKY_T4 
-[**`Metadata`**](./runs.md#uky_t4), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UKY_T4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T4.pdf)
+[**`Metadata`**](./runs.md#uky_t4), [**`Participants`**](./participants.md#uknlp), [**`Proceedings`**](./proceedings.md#team-uknlp-at-trec-2017-precision-medicine-track-a-knowledge-based-ir-system-with-tuned-query-time-boosting), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UKY_T4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UKY_T4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UKY_T4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1941 
@@ -888,7 +888,7 @@ search:
 	```
 ---
 #### KISTI01CT 
-[**`Metadata`**](./runs.md#kisti01ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI01CT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI01CT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.KISTI01CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI01CT.pdf)
+[**`Metadata`**](./runs.md#kisti01ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI01CT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI01CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI01CT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2082 
@@ -901,7 +901,7 @@ search:
 	```
 ---
 #### KISTI02CT 
-[**`Metadata`**](./runs.md#kisti02ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI02CT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI02CT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.KISTI02CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI02CT.pdf)
+[**`Metadata`**](./runs.md#kisti02ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI02CT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI02CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI02CT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2452 
@@ -914,7 +914,7 @@ search:
 	```
 ---
 #### KISTI03CT 
-[**`Metadata`**](./runs.md#kisti03ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI03CT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI03CT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.KISTI03CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI03CT.pdf)
+[**`Metadata`**](./runs.md#kisti03ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI03CT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI03CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI03CT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2317 
@@ -927,7 +927,7 @@ search:
 	```
 ---
 #### KISTI04CT 
-[**`Metadata`**](./runs.md#kisti04ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI04CT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI04CT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.KISTI04CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI04CT.pdf)
+[**`Metadata`**](./runs.md#kisti04ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI04CT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI04CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI04CT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2315 
@@ -940,7 +940,7 @@ search:
 	```
 ---
 #### KISTI05CT 
-[**`Metadata`**](./runs.md#kisti05ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI05CT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI05CT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.KISTI05CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI05CT.pdf)
+[**`Metadata`**](./runs.md#kisti05ct), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.KISTI05CT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.KISTI05CT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/KISTI05CT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2252 
@@ -953,7 +953,7 @@ search:
 	```
 ---
 #### SIBTct1 
-[**`Metadata`**](./runs.md#sibtct1), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SIBTct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct1.pdf)
+[**`Metadata`**](./runs.md#sibtct1), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1032 
@@ -966,7 +966,7 @@ search:
 	```
 ---
 #### SIBTct2 
-[**`Metadata`**](./runs.md#sibtct2), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SIBTct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct2.pdf)
+[**`Metadata`**](./runs.md#sibtct2), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1295 
@@ -979,7 +979,7 @@ search:
 	```
 ---
 #### SIBTct3 
-[**`Metadata`**](./runs.md#sibtct3), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SIBTct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct3.pdf)
+[**`Metadata`**](./runs.md#sibtct3), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1496 
@@ -992,7 +992,7 @@ search:
 	```
 ---
 #### SIBTct4 
-[**`Metadata`**](./runs.md#sibtct4), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SIBTct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct4.pdf)
+[**`Metadata`**](./runs.md#sibtct4), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1810 
@@ -1005,7 +1005,7 @@ search:
 	```
 ---
 #### SIBTct5 
-[**`Metadata`**](./runs.md#sibtct5), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SIBTct5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct5.pdf)
+[**`Metadata`**](./runs.md#sibtct5), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#customizing-a-variant-annotation-support-tool-an-inquiry-into-probability-ranking-principles-for-trec-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SIBTct5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SIBTct5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SIBTct5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2136 
@@ -1060,7 +1060,7 @@ search:
 	```
 ---
 #### NOVAtr1 
-[**`Metadata`**](./runs.md#novatr1), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.NOVAtr1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr1.pdf)
+[**`Metadata`**](./runs.md#novatr1), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2427 
@@ -1073,7 +1073,7 @@ search:
 	```
 ---
 #### NOVAtr2 
-[**`Metadata`**](./runs.md#novatr2), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.NOVAtr2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr2.pdf)
+[**`Metadata`**](./runs.md#novatr2), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2496 
@@ -1086,7 +1086,7 @@ search:
 	```
 ---
 #### NOVAtr3 
-[**`Metadata`**](./runs.md#novatr3), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.NOVAtr3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr3.pdf)
+[**`Metadata`**](./runs.md#novatr3), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2200 
@@ -1099,7 +1099,7 @@ search:
 	```
 ---
 #### NOVAtr4 
-[**`Metadata`**](./runs.md#novatr4), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.NOVAtr4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr4.pdf)
+[**`Metadata`**](./runs.md#novatr4), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2349 
@@ -1112,7 +1112,7 @@ search:
 	```
 ---
 #### NOVAtr5 
-[**`Metadata`**](./runs.md#novatr5), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.NOVAtr5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr5.pdf)
+[**`Metadata`**](./runs.md#novatr5), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.NOVAtr5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.NOVAtr5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/NOVAtr5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2088 
@@ -1251,7 +1251,7 @@ search:
 	```
 ---
 #### trial1 
-[**`Metadata`**](./runs.md#trial1), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.trial1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial1.pdf)
+[**`Metadata`**](./runs.md#trial1), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0868 
@@ -1264,7 +1264,7 @@ search:
 	```
 ---
 #### trial2 
-[**`Metadata`**](./runs.md#trial2), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.trial2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial2.pdf)
+[**`Metadata`**](./runs.md#trial2), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0868 
@@ -1277,7 +1277,7 @@ search:
 	```
 ---
 #### Gwave_ct 
-[**`Metadata`**](./runs.md#gwave_ct), [**`Participants`**](./participants.md#gravitywave), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Gwave_ct.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Gwave_ct), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Gwave_ct), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Gwave_ct.pdf)
+[**`Metadata`**](./runs.md#gwave_ct), [**`Participants`**](./participants.md#gravitywave), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Gwave_ct.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Gwave_ct), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Gwave_ct.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0251 
@@ -1458,7 +1458,7 @@ search:
 	```
 ---
 #### MedIER_ct1 
-[**`Metadata`**](./runs.md#medier_ct1), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.MedIER_ct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct1.pdf)
+[**`Metadata`**](./runs.md#medier_ct1), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0358 
@@ -1471,7 +1471,7 @@ search:
 	```
 ---
 #### MedIER_ct2 
-[**`Metadata`**](./runs.md#medier_ct2), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.MedIER_ct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct2.pdf)
+[**`Metadata`**](./runs.md#medier_ct2), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0425 
@@ -1484,7 +1484,7 @@ search:
 	```
 ---
 #### MedIER_ct3 
-[**`Metadata`**](./runs.md#medier_ct3), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.MedIER_ct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct3.pdf)
+[**`Metadata`**](./runs.md#medier_ct3), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0359 
@@ -1497,7 +1497,7 @@ search:
 	```
 ---
 #### MedIER_ct4 
-[**`Metadata`**](./runs.md#medier_ct4), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.MedIER_ct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct4.pdf)
+[**`Metadata`**](./runs.md#medier_ct4), [**`Participants`**](./participants.md#medier), [**`Proceedings`**](./proceedings.md#retrieving-documents-based-on-gene-name-variations-medier-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.MedIER_ct4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.MedIER_ct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/MedIER_ct4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0427 
@@ -1510,7 +1510,7 @@ search:
 	```
 ---
 #### udelT2Base 
-[**`Metadata`**](./runs.md#udelt2base), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Base.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Base), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.udelT2Base), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Base.pdf)
+[**`Metadata`**](./runs.md#udelt2base), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Base.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Base), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Base.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2572 
@@ -1523,7 +1523,7 @@ search:
 	```
 ---
 #### udelT2PRF 
-[**`Metadata`**](./runs.md#udelt2prf), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2PRF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2PRF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.udelT2PRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2PRF.pdf)
+[**`Metadata`**](./runs.md#udelt2prf), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2PRF.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2PRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2PRF.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2753 
@@ -1536,7 +1536,7 @@ search:
 	```
 ---
 #### udelT2Gene 
-[**`Metadata`**](./runs.md#udelt2gene), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Gene.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Gene), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.udelT2Gene), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Gene.pdf)
+[**`Metadata`**](./runs.md#udelt2gene), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Gene.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Gene), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Gene.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2358 
@@ -1549,7 +1549,7 @@ search:
 	```
 ---
 #### udelT2GeMeSH 
-[**`Metadata`**](./runs.md#udelt2gemesh), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2GeMeSH.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2GeMeSH), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.udelT2GeMeSH), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2GeMeSH.pdf)
+[**`Metadata`**](./runs.md#udelt2gemesh), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2GeMeSH.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2GeMeSH), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2GeMeSH.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2487 
@@ -1562,7 +1562,7 @@ search:
 	```
 ---
 #### udelT2Comb 
-[**`Metadata`**](./runs.md#udelt2comb), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Comb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Comb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.udelT2Comb), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Comb.pdf)
+[**`Metadata`**](./runs.md#udelt2comb), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.udelT2Comb.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.udelT2Comb), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/udelT2Comb.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2678 
@@ -1680,7 +1680,7 @@ search:
 	```
 ---
 #### eth_t_ws 
-[**`Metadata`**](./runs.md#eth_t_ws), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_ws.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_ws), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.eth_t_ws), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_ws.pdf)
+[**`Metadata`**](./runs.md#eth_t_ws), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_ws.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_ws), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_ws.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0309 
@@ -1693,7 +1693,7 @@ search:
 	```
 ---
 #### eth_t_luc 
-[**`Metadata`**](./runs.md#eth_t_luc), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_luc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_luc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.eth_t_luc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_luc.pdf)
+[**`Metadata`**](./runs.md#eth_t_luc), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_luc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_luc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_luc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0319 
@@ -1706,7 +1706,7 @@ search:
 	```
 ---
 #### eth_t_nn 
-[**`Metadata`**](./runs.md#eth_t_nn), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_nn.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_nn), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.eth_t_nn), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_nn.pdf)
+[**`Metadata`**](./runs.md#eth_t_nn), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_nn.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_nn), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_nn.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0091 
@@ -1719,7 +1719,7 @@ search:
 	```
 ---
 #### eth_t_wsb_q 
-[**`Metadata`**](./runs.md#eth_t_wsb_q), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_wsb_q.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_wsb_q), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.eth_t_wsb_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_wsb_q.pdf)
+[**`Metadata`**](./runs.md#eth_t_wsb_q), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_wsb_q.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_wsb_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_wsb_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0195 
@@ -1732,7 +1732,7 @@ search:
 	```
 ---
 #### eth_t_gwsq 
-[**`Metadata`**](./runs.md#eth_t_gwsq), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_gwsq.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_gwsq), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.eth_t_gwsq), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_gwsq.pdf)
+[**`Metadata`**](./runs.md#eth_t_gwsq), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-zurich-at-trec-precision-medicine-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.eth_t_gwsq.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.eth_t_gwsq), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/eth_t_gwsq.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0135 
@@ -1766,7 +1766,7 @@ search:
 	```
 ---
 #### pms_run1_tri 
-[**`Metadata`**](./runs.md#pms_run1_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run1_tri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run1_tri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.pms_run1_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run1_tri.pdf)
+[**`Metadata`**](./runs.md#pms_run1_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run1_tri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run1_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run1_tri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1459 
@@ -1800,7 +1800,7 @@ search:
 	```
 ---
 #### pms_run2_tri 
-[**`Metadata`**](./runs.md#pms_run2_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run2_tri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run2_tri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.pms_run2_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run2_tri.pdf)
+[**`Metadata`**](./runs.md#pms_run2_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run2_tri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run2_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run2_tri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0380 
@@ -1855,7 +1855,7 @@ search:
 	```
 ---
 #### pms_run3_tri 
-[**`Metadata`**](./runs.md#pms_run3_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run3_tri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run3_tri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.pms_run3_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run3_tri.pdf)
+[**`Metadata`**](./runs.md#pms_run3_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run3_tri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run3_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run3_tri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1066 
@@ -1889,7 +1889,7 @@ search:
 	```
 ---
 #### pms_run4_tri 
-[**`Metadata`**](./runs.md#pms_run4_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run4_tri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run4_tri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.pms_run4_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run4_tri.pdf)
+[**`Metadata`**](./runs.md#pms_run4_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run4_tri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run4_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run4_tri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0177 
@@ -1902,7 +1902,7 @@ search:
 	```
 ---
 #### mayonlpct1 
-[**`Metadata`**](./runs.md#mayonlpct1), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mayonlpct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct1.pdf)
+[**`Metadata`**](./runs.md#mayonlpct1), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0771 
@@ -1915,7 +1915,7 @@ search:
 	```
 ---
 #### mayonlpct2 
-[**`Metadata`**](./runs.md#mayonlpct2), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mayonlpct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct2.pdf)
+[**`Metadata`**](./runs.md#mayonlpct2), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0506 
@@ -1949,7 +1949,7 @@ search:
 	```
 ---
 #### mayonlpct3 
-[**`Metadata`**](./runs.md#mayonlpct3), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mayonlpct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct3.pdf)
+[**`Metadata`**](./runs.md#mayonlpct3), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0705 
@@ -1962,7 +1962,7 @@ search:
 	```
 ---
 #### mayonlpct4 
-[**`Metadata`**](./runs.md#mayonlpct4), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mayonlpct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct4.pdf)
+[**`Metadata`**](./runs.md#mayonlpct4), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1036 
@@ -1975,7 +1975,7 @@ search:
 	```
 ---
 #### mayonlpct5 
-[**`Metadata`**](./runs.md#mayonlpct5), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mayonlpct5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct5.pdf)
+[**`Metadata`**](./runs.md#mayonlpct5), [**`Participants`**](./participants.md#mayonlpteam), [**`Proceedings`**](./proceedings.md#leveraging-both-structured-and-unstructured-data-for-precision-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mayonlpct5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mayonlpct5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mayonlpct5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0767 
@@ -1988,7 +1988,7 @@ search:
 	```
 ---
 #### pms_run5_tri 
-[**`Metadata`**](./runs.md#pms_run5_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run5_tri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run5_tri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.pms_run5_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run5_tri.pdf)
+[**`Metadata`**](./runs.md#pms_run5_tri), [**`Participants`**](./participants.md#prna-mit-suny), [**`Proceedings`**](./proceedings.md#a-hybrid-approach-to-precision-medicine-related-biomedical-article-retrieval-and-clinical-trial-matching), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.pms_run5_tri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.pms_run5_tri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/pms_run5_tri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1942 
@@ -2043,7 +2043,7 @@ search:
 	```
 ---
 #### UWMSOIS0 
-[**`Metadata`**](./runs.md#uwmsois0), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UWMSOIS0), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS0.pdf)
+[**`Metadata`**](./runs.md#uwmsois0), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS0.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS0), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS0.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2159 
@@ -2056,7 +2056,7 @@ search:
 	```
 ---
 #### UCASSEM3 
-[**`Metadata`**](./runs.md#ucassem3), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UCASSEM3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM3.pdf)
+[**`Metadata`**](./runs.md#ucassem3), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2415 
@@ -2069,7 +2069,7 @@ search:
 	```
 ---
 #### UCASSEM2 
-[**`Metadata`**](./runs.md#ucassem2), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UCASSEM2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM2.pdf)
+[**`Metadata`**](./runs.md#ucassem2), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2483 
@@ -2082,7 +2082,7 @@ search:
 	```
 ---
 #### UCASSEMUMLS 
-[**`Metadata`**](./runs.md#ucassemumls), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEMUMLS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEMUMLS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UCASSEMUMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEMUMLS.pdf)
+[**`Metadata`**](./runs.md#ucassemumls), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEMUMLS.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEMUMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEMUMLS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1919 
@@ -2095,7 +2095,7 @@ search:
 	```
 ---
 #### UCASSEM1 
-[**`Metadata`**](./runs.md#ucassem1), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UCASSEM1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM1.pdf)
+[**`Metadata`**](./runs.md#ucassem1), [**`Participants`**](./participants.md#ucas), [**`Proceedings`**](./proceedings.md#ucas-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UCASSEM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UCASSEM1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UCASSEM1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2386 
@@ -2108,7 +2108,7 @@ search:
 	```
 ---
 #### UWMSOIS1 
-[**`Metadata`**](./runs.md#uwmsois1), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UWMSOIS1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS1.pdf)
+[**`Metadata`**](./runs.md#uwmsois1), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2010 
@@ -2121,7 +2121,7 @@ search:
 	```
 ---
 #### UWMSOIS2 
-[**`Metadata`**](./runs.md#uwmsois2), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UWMSOIS2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS2.pdf)
+[**`Metadata`**](./runs.md#uwmsois2), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1936 
@@ -2155,7 +2155,7 @@ search:
 	```
 ---
 #### UWMSOIS3 
-[**`Metadata`**](./runs.md#uwmsois3), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UWMSOIS3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS3.pdf)
+[**`Metadata`**](./runs.md#uwmsois3), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1983 
@@ -2231,7 +2231,7 @@ search:
 	```
 ---
 #### UWMSOIS4 
-[**`Metadata`**](./runs.md#uwmsois4), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UWMSOIS4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS4.pdf)
+[**`Metadata`**](./runs.md#uwmsois4), [**`Participants`**](./participants.md#uwmsois), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UWMSOIS4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UWMSOIS4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UWMSOIS4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1972 
@@ -2391,7 +2391,7 @@ search:
 	```
 ---
 #### ECNU_C_1 
-[**`Metadata`**](./runs.md#ecnu_c_1), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.ECNU_C_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_1.pdf)
+[**`Metadata`**](./runs.md#ecnu_c_1), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0164 
@@ -2404,7 +2404,7 @@ search:
 	```
 ---
 #### ECNU_C_2 
-[**`Metadata`**](./runs.md#ecnu_c_2), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.ECNU_C_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_2.pdf)
+[**`Metadata`**](./runs.md#ecnu_c_2), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2025 
@@ -2417,7 +2417,7 @@ search:
 	```
 ---
 #### ECNU_C_3 
-[**`Metadata`**](./runs.md#ecnu_c_3), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.ECNU_C_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_3.pdf)
+[**`Metadata`**](./runs.md#ecnu_c_3), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2107 
@@ -2430,7 +2430,7 @@ search:
 	```
 ---
 #### ECNU_C_4 
-[**`Metadata`**](./runs.md#ecnu_c_4), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.ECNU_C_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_4.pdf)
+[**`Metadata`**](./runs.md#ecnu_c_4), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2008 
@@ -2443,7 +2443,7 @@ search:
 	```
 ---
 #### ECNU_C_5 
-[**`Metadata`**](./runs.md#ecnu_c_5), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.ECNU_C_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_5.pdf)
+[**`Metadata`**](./runs.md#ecnu_c_5), [**`Participants`**](./participants.md#ecnuica), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.ECNU_C_5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.ECNU_C_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/ECNU_C_5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1669 
@@ -2456,7 +2456,7 @@ search:
 	```
 ---
 #### 1_ec_simple 
-[**`Metadata`**](./runs.md#1_ec_simple), [**`Participants`**](./participants.md#trec_ub), [**`Proceedings`**](./proceedings.md#ranking-clinical-trials-using-elasticsearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.1_ec_simple.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.1_ec_simple), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.1_ec_simple), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/1_ec_simple.pdf)
+[**`Metadata`**](./runs.md#1_ec_simple), [**`Participants`**](./participants.md#trec_ub), [**`Proceedings`**](./proceedings.md#ranking-clinical-trials-using-elasticsearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.1_ec_simple.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.1_ec_simple), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/1_ec_simple.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0151 
@@ -2469,7 +2469,7 @@ search:
 	```
 ---
 #### 2_ec_complex 
-[**`Metadata`**](./runs.md#2_ec_complex), [**`Participants`**](./participants.md#trec_ub), [**`Proceedings`**](./proceedings.md#ranking-clinical-trials-using-elasticsearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.2_ec_complex.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.2_ec_complex), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.2_ec_complex), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/2_ec_complex.pdf)
+[**`Metadata`**](./runs.md#2_ec_complex), [**`Participants`**](./participants.md#trec_ub), [**`Proceedings`**](./proceedings.md#ranking-clinical-trials-using-elasticsearch), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.2_ec_complex.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.2_ec_complex), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/2_ec_complex.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0196 
@@ -2482,7 +2482,7 @@ search:
 	```
 ---
 #### dumbmethod 
-[**`Metadata`**](./runs.md#dumbmethod), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.dumbmethod.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.dumbmethod), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.dumbmethod), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/dumbmethod.pdf)
+[**`Metadata`**](./runs.md#dumbmethod), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.dumbmethod.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.dumbmethod), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/dumbmethod.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0929 
@@ -2495,7 +2495,7 @@ search:
 	```
 ---
 #### trial3 
-[**`Metadata`**](./runs.md#trial3), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.trial3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial3.pdf)
+[**`Metadata`**](./runs.md#trial3), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0868 
@@ -2508,7 +2508,7 @@ search:
 	```
 ---
 #### trial4 
-[**`Metadata`**](./runs.md#trial4), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.trial4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial4.pdf)
+[**`Metadata`**](./runs.md#trial4), [**`Participants`**](./participants.md#fdudmiip), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.trial4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.trial4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/trial4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0868 
@@ -2521,7 +2521,7 @@ search:
 	```
 ---
 #### LGDprfGOpt 
-[**`Metadata`**](./runs.md#lgdprfgopt), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDprfGOpt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDprfGOpt), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.LGDprfGOpt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDprfGOpt.pdf)
+[**`Metadata`**](./runs.md#lgdprfgopt), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDprfGOpt.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDprfGOpt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDprfGOpt.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1821 
@@ -2534,7 +2534,7 @@ search:
 	```
 ---
 #### LGDnoprfGOpt 
-[**`Metadata`**](./runs.md#lgdnoprfgopt), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDnoprfGOpt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDnoprfGOpt), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.LGDnoprfGOpt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDnoprfGOpt.pdf)
+[**`Metadata`**](./runs.md#lgdnoprfgopt), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDnoprfGOpt.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDnoprfGOpt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDnoprfGOpt.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2164 
@@ -2547,7 +2547,7 @@ search:
 	```
 ---
 #### LGDraw 
-[**`Metadata`**](./runs.md#lgdraw), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDraw.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDraw), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.LGDraw), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDraw.pdf)
+[**`Metadata`**](./runs.md#lgdraw), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDraw.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDraw), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDraw.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2362 
@@ -2560,7 +2560,7 @@ search:
 	```
 ---
 #### LDGprfStrict 
-[**`Metadata`**](./runs.md#ldgprfstrict), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LDGprfStrict.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LDGprfStrict), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.LDGprfStrict), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LDGprfStrict.pdf)
+[**`Metadata`**](./runs.md#ldgprfstrict), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LDGprfStrict.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LDGprfStrict), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LDGprfStrict.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1515 
@@ -2636,7 +2636,7 @@ search:
 	```
 ---
 #### LGDStrict 
-[**`Metadata`**](./runs.md#lgdstrict), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDStrict.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDStrict), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.LGDStrict), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDStrict.pdf)
+[**`Metadata`**](./runs.md#lgdstrict), [**`Participants`**](./participants.md#poznan_semmed), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.LGDStrict.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.LGDStrict), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/LGDStrict.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1792 
@@ -2670,7 +2670,7 @@ search:
 	```
 ---
 #### UTDHLTJQT 
-[**`Metadata`**](./runs.md#utdhltjqt), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTJQT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTJQT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UTDHLTJQT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTJQT.pdf)
+[**`Metadata`**](./runs.md#utdhltjqt), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTJQT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTJQT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTJQT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2676 
@@ -2683,7 +2683,7 @@ search:
 	```
 ---
 #### UTDHLTAFT 
-[**`Metadata`**](./runs.md#utdhltaft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTAFT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTAFT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UTDHLTAFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTAFT.pdf)
+[**`Metadata`**](./runs.md#utdhltaft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTAFT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTAFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTAFT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2533 
@@ -2696,7 +2696,7 @@ search:
 	```
 ---
 #### UTDHLTSFT 
-[**`Metadata`**](./runs.md#utdhltsft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTSFT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTSFT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UTDHLTSFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTSFT.pdf)
+[**`Metadata`**](./runs.md#utdhltsft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTSFT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTSFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTSFT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2561 
@@ -2709,7 +2709,7 @@ search:
 	```
 ---
 #### UTDHLTFFT 
-[**`Metadata`**](./runs.md#utdhltfft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTFFT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTFFT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UTDHLTFFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTFFT.pdf)
+[**`Metadata`**](./runs.md#utdhltfft), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTFFT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTFFT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTFFT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2460 
@@ -2722,7 +2722,7 @@ search:
 	```
 ---
 #### UTDHLTSQT 
-[**`Metadata`**](./runs.md#utdhltsqt), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTSQT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTSQT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UTDHLTSQT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTSQT.pdf)
+[**`Metadata`**](./runs.md#utdhltsqt), [**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UTDHLTSQT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UTDHLTSQT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UTDHLTSQT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1414 
@@ -2735,7 +2735,7 @@ search:
 	```
 ---
 #### cbnuCT1 
-[**`Metadata`**](./runs.md#cbnuct1), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cbnuCT1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT1.pdf)
+[**`Metadata`**](./runs.md#cbnuct1), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2242 
@@ -2748,7 +2748,7 @@ search:
 	```
 ---
 #### cbnuCT2 
-[**`Metadata`**](./runs.md#cbnuct2), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cbnuCT2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT2.pdf)
+[**`Metadata`**](./runs.md#cbnuct2), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1620 
@@ -2845,7 +2845,7 @@ search:
 	```
 ---
 #### cbnuCT3 
-[**`Metadata`**](./runs.md#cbnuct3), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cbnuCT3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT3.pdf)
+[**`Metadata`**](./runs.md#cbnuct3), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cbnuCT3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cbnuCT3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cbnuCT3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1912 
@@ -2858,7 +2858,7 @@ search:
 	```
 ---
 #### cRun1Bsl 
-[**`Metadata`**](./runs.md#crun1bsl), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun1Bsl.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun1Bsl), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cRun1Bsl), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun1Bsl.pdf)
+[**`Metadata`**](./runs.md#crun1bsl), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun1Bsl.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun1Bsl), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun1Bsl.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1984 
@@ -2871,7 +2871,7 @@ search:
 	```
 ---
 #### cRun2BslOth 
-[**`Metadata`**](./runs.md#crun2bsloth), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun2BslOth.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun2BslOth), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cRun2BslOth), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun2BslOth.pdf)
+[**`Metadata`**](./runs.md#crun2bsloth), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun2BslOth.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun2BslOth), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun2BslOth.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1872 
@@ -2884,7 +2884,7 @@ search:
 	```
 ---
 #### cRun3MRF 
-[**`Metadata`**](./runs.md#crun3mrf), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun3MRF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun3MRF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cRun3MRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun3MRF.pdf)
+[**`Metadata`**](./runs.md#crun3mrf), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun3MRF.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun3MRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun3MRF.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1367 
@@ -2897,7 +2897,7 @@ search:
 	```
 ---
 #### cRun4MRFrf 
-[**`Metadata`**](./runs.md#crun4mrfrf), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun4MRFrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun4MRFrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cRun4MRFrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun4MRFrf.pdf)
+[**`Metadata`**](./runs.md#crun4mrfrf), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun4MRFrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun4MRFrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun4MRFrf.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0985 
@@ -2910,7 +2910,7 @@ search:
 	```
 ---
 #### cRun5MRFBow 
-[**`Metadata`**](./runs.md#crun5mrfbow), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun5MRFBow.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun5MRFBow), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.cRun5MRFBow), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun5MRFBow.pdf)
+[**`Metadata`**](./runs.md#crun5mrfbow), [**`Participants`**](./participants.md#iris), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.cRun5MRFBow.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.cRun5MRFBow), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/cRun5MRFBow.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0568 
@@ -3091,7 +3091,7 @@ search:
 	```
 ---
 #### UDInfoPMCT3 
-[**`Metadata`**](./runs.md#udinfopmct3), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UDInfoPMCT3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT3.pdf)
+[**`Metadata`**](./runs.md#udinfopmct3), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0182 
@@ -3104,7 +3104,7 @@ search:
 	```
 ---
 #### UDInfoPMCT4 
-[**`Metadata`**](./runs.md#udinfopmct4), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UDInfoPMCT4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT4.pdf)
+[**`Metadata`**](./runs.md#udinfopmct4), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0201 
@@ -3117,7 +3117,7 @@ search:
 	```
 ---
 #### UDInfoPMCT6 
-[**`Metadata`**](./runs.md#udinfopmct6), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UDInfoPMCT6), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT6.pdf)
+[**`Metadata`**](./runs.md#udinfopmct6), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT6.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT6), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT6.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0573 
@@ -3130,7 +3130,7 @@ search:
 	```
 ---
 #### UDInfoPMCT10 
-[**`Metadata`**](./runs.md#udinfopmct10), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT10), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UDInfoPMCT10), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT10.pdf)
+[**`Metadata`**](./runs.md#udinfopmct10), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT10.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT10), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0398 
@@ -3269,7 +3269,7 @@ search:
 	```
 ---
 #### mugctboost 
-[**`Metadata`**](./runs.md#mugctboost), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctboost.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctboost), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mugctboost), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctboost.pdf)
+[**`Metadata`**](./runs.md#mugctboost), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctboost.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctboost), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctboost.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1230 
@@ -3282,7 +3282,7 @@ search:
 	```
 ---
 #### mugctmust 
-[**`Metadata`**](./runs.md#mugctmust), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctmust.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctmust), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mugctmust), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctmust.pdf)
+[**`Metadata`**](./runs.md#mugctmust), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctmust.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctmust), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctmust.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1330 
@@ -3295,7 +3295,7 @@ search:
 	```
 ---
 #### mugctdisease 
-[**`Metadata`**](./runs.md#mugctdisease), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctdisease.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctdisease), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mugctdisease), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctdisease.pdf)
+[**`Metadata`**](./runs.md#mugctdisease), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctdisease.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctdisease), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctdisease.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0341 
@@ -3308,7 +3308,7 @@ search:
 	```
 ---
 #### mugctgene 
-[**`Metadata`**](./runs.md#mugctgene), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctgene.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctgene), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.mugctgene), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctgene.pdf)
+[**`Metadata`**](./runs.md#mugctgene), [**`Participants`**](./participants.md#imi_mug), [**`Proceedings`**](./proceedings.md#trec-2017-precision-medicine-medical-university-of-graz), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.mugctgene.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.mugctgene), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/mugctgene.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1096 
@@ -3489,7 +3489,7 @@ search:
 	```
 ---
 #### UNTIIACTDW 
-[**`Metadata`**](./runs.md#untiiactdw), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTDW.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTDW), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UNTIIACTDW), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTDW.pdf)
+[**`Metadata`**](./runs.md#untiiactdw), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTDW.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTDW), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTDW.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0150 
@@ -3523,7 +3523,7 @@ search:
 	```
 ---
 #### UNTIIACTSY 
-[**`Metadata`**](./runs.md#untiiactsy), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTSY.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTSY), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UNTIIACTSY), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTSY.pdf)
+[**`Metadata`**](./runs.md#untiiactsy), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTSY.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTSY), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTSY.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0076 
@@ -3599,7 +3599,7 @@ search:
 	```
 ---
 #### UNTIIACTIS 
-[**`Metadata`**](./runs.md#untiiactis), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTIS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTIS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UNTIIACTIS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTIS.pdf)
+[**`Metadata`**](./runs.md#untiiactis), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTIS.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTIS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTIS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0048 
@@ -3612,7 +3612,7 @@ search:
 	```
 ---
 #### DUTIR004 
-[**`Metadata`**](./runs.md#dutir004), [**`Participants`**](./participants.md#dutirl), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DUTIR004.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DUTIR004), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.DUTIR004), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DUTIR004.pdf)
+[**`Metadata`**](./runs.md#dutir004), [**`Participants`**](./participants.md#dutirl), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DUTIR004.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DUTIR004), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DUTIR004.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2062 
@@ -3646,7 +3646,7 @@ search:
 	```
 ---
 #### UNTIIACTGA 
-[**`Metadata`**](./runs.md#untiiactga), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTGA.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTGA), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UNTIIACTGA), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTGA.pdf)
+[**`Metadata`**](./runs.md#untiiactga), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTGA.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTGA), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTGA.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0047 
@@ -3659,7 +3659,7 @@ search:
 	```
 ---
 #### UNTIIACTLQ 
-[**`Metadata`**](./runs.md#untiiactlq), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTLQ.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTLQ), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UNTIIACTLQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTLQ.pdf)
+[**`Metadata`**](./runs.md#untiiactlq), [**`Participants`**](./participants.md#untiia), [**`Proceedings`**](./proceedings.md#unt-precision-medicine-information-retrieval-at-trec-2017), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UNTIIACTLQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UNTIIACTLQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UNTIIACTLQ.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0140 
@@ -3693,7 +3693,7 @@ search:
 	```
 ---
 #### UDInfoPMCT8 
-[**`Metadata`**](./runs.md#udinfopmct8), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT8.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT8), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UDInfoPMCT8), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT8.pdf)
+[**`Metadata`**](./runs.md#udinfopmct8), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#combining-term-based-and-concept-based-representation-for-clinical-retrieval), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UDInfoPMCT8.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UDInfoPMCT8), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UDInfoPMCT8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1591 
@@ -3811,7 +3811,7 @@ search:
 	```
 ---
 #### Textualc 
-[**`Metadata`**](./runs.md#textualc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Textualc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Textualc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Textualc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Textualc.pdf)
+[**`Metadata`**](./runs.md#textualc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Textualc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Textualc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Textualc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1392 
@@ -3824,7 +3824,7 @@ search:
 	```
 ---
 #### Ontologicalc 
-[**`Metadata`**](./runs.md#ontologicalc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Ontologicalc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Ontologicalc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Ontologicalc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Ontologicalc.pdf)
+[**`Metadata`**](./runs.md#ontologicalc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Ontologicalc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Ontologicalc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Ontologicalc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1081 
@@ -3837,7 +3837,7 @@ search:
 	```
 ---
 #### Broadc 
-[**`Metadata`**](./runs.md#broadc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Broadc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Broadc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Broadc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Broadc.pdf)
+[**`Metadata`**](./runs.md#broadc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Broadc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Broadc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Broadc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1551 
@@ -3850,7 +3850,7 @@ search:
 	```
 ---
 #### Semanticc 
-[**`Metadata`**](./runs.md#semanticc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Semanticc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Semanticc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Semanticc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Semanticc.pdf)
+[**`Metadata`**](./runs.md#semanticc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Semanticc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Semanticc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Semanticc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0744 
@@ -3863,7 +3863,7 @@ search:
 	```
 ---
 #### Focusedc 
-[**`Metadata`**](./runs.md#focusedc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Focusedc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Focusedc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.Focusedc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Focusedc.pdf)
+[**`Metadata`**](./runs.md#focusedc), [**`Participants`**](./participants.md#nactem), [**`Proceedings`**](./proceedings.md#identifying-personalised-treatments-and-clinical-trials-for-precision-medicine-using-semantic-search-with-thalia), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.Focusedc.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.Focusedc), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/Focusedc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0469 
@@ -3981,7 +3981,7 @@ search:
 	```
 ---
 #### UD_GU_CT_1 
-[**`Metadata`**](./runs.md#ud_gu_ct_1), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UD_GU_CT_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_1.pdf)
+[**`Metadata`**](./runs.md#ud_gu_ct_1), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1949 
@@ -3994,7 +3994,7 @@ search:
 	```
 ---
 #### UD_GU_CT_2 
-[**`Metadata`**](./runs.md#ud_gu_ct_2), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UD_GU_CT_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_2.pdf)
+[**`Metadata`**](./runs.md#ud_gu_ct_2), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2117 
@@ -4007,7 +4007,7 @@ search:
 	```
 ---
 #### UD_GU_CT_3 
-[**`Metadata`**](./runs.md#ud_gu_ct_3), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UD_GU_CT_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_3.pdf)
+[**`Metadata`**](./runs.md#ud_gu_ct_3), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2206 
@@ -4020,7 +4020,7 @@ search:
 	```
 ---
 #### SDSFU_BASE 
-[**`Metadata`**](./runs.md#sdsfu_base), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_BASE.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_BASE), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SDSFU_BASE), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_BASE.pdf)
+[**`Metadata`**](./runs.md#sdsfu_base), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_BASE.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_BASE), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_BASE.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1029 
@@ -4033,7 +4033,7 @@ search:
 	```
 ---
 #### SDSFU_PF 
-[**`Metadata`**](./runs.md#sdsfu_pf), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_PF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_PF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SDSFU_PF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_PF.pdf)
+[**`Metadata`**](./runs.md#sdsfu_pf), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_PF.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_PF), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_PF.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0861 
@@ -4046,7 +4046,7 @@ search:
 	```
 ---
 #### SDSFU_UMLS 
-[**`Metadata`**](./runs.md#sdsfu_umls), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_UMLS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_UMLS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SDSFU_UMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_UMLS.pdf)
+[**`Metadata`**](./runs.md#sdsfu_umls), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_UMLS.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_UMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_UMLS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0769 
@@ -4059,7 +4059,7 @@ search:
 	```
 ---
 #### SDSFU_PFUMLS 
-[**`Metadata`**](./runs.md#sdsfu_pfumls), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_PFUMLS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_PFUMLS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.SDSFU_PFUMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_PFUMLS.pdf)
+[**`Metadata`**](./runs.md#sdsfu_pfumls), [**`Participants`**](./participants.md#sdsfu), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.SDSFU_PFUMLS.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.SDSFU_PFUMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/SDSFU_PFUMLS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0675 
@@ -4282,7 +4282,7 @@ search:
 	```
 ---
 #### UD_GU_CT_4 
-[**`Metadata`**](./runs.md#ud_gu_ct_4), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UD_GU_CT_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_4.pdf)
+[**`Metadata`**](./runs.md#ud_gu_ct_4), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1939 
@@ -4295,7 +4295,7 @@ search:
 	```
 ---
 #### UD_GU_CT_5 
-[**`Metadata`**](./runs.md#ud_gu_ct_5), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.UD_GU_CT_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_5.pdf)
+[**`Metadata`**](./runs.md#ud_gu_ct_5), [**`Participants`**](./participants.md#ud_gu_biotm), [**`Proceedings`**](./proceedings.md#ud-gu-biotm-at-trec-2017-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.UD_GU_CT_5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.UD_GU_CT_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/UD_GU_CT_5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2113 
@@ -4308,7 +4308,7 @@ search:
 	```
 ---
 #### DA_IICTrun1 
-[**`Metadata`**](./runs.md#da_iictrun1), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.DA_IICTrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun1.pdf)
+[**`Metadata`**](./runs.md#da_iictrun1), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0968 
@@ -4321,7 +4321,7 @@ search:
 	```
 ---
 #### DA_IICTrun3 
-[**`Metadata`**](./runs.md#da_iictrun3), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.DA_IICTrun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun3.pdf)
+[**`Metadata`**](./runs.md#da_iictrun3), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1196 
@@ -4334,7 +4334,7 @@ search:
 	```
 ---
 #### DA_IICTrun4 
-[**`Metadata`**](./runs.md#da_iictrun4), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.DA_IICTrun4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun4.pdf)
+[**`Metadata`**](./runs.md#da_iictrun4), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun4), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1180 
@@ -4347,7 +4347,7 @@ search:
 	```
 ---
 #### DA_IICTrun5 
-[**`Metadata`**](./runs.md#da_iictrun5), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec26/pm/summary.sample-eval.DA_IICTrun5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun5.pdf)
+[**`Metadata`**](./runs.md#da_iictrun5), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec26/pm/input.DA_IICTrun5.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/pm/summary.trec_eval.DA_IICTrun5), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/pm/DA_IICTrun5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1076 

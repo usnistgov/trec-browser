@@ -1,7 +1,7 @@
 # Runs - Interactive 1996 
 
 #### city1-okapi 
-[**`Participants`**](./participants.md#city), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/interactive/input.city1-okapi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/notebook.page.city.ps.gz) 
+[**`Participants`**](./participants.md#city), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/notebook.page.city.ps.gz) 
 
 - :material-rename: **Run ID:** city1-okapi 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -11,7 +11,7 @@
 
 ---
 #### ruint 
-[**`Participants`**](./participants.md#rutgersb), [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/interactive/input.ruint.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/notebook.page.rutgers.ps.gz) 
+[**`Participants`**](./participants.md#rutgersb), [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-5), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/notebook.page.rutgers.ps.gz) 
 
 - :material-rename: **Run ID:** ruint 
 - :fontawesome-solid-user-group: **Participant:** RutgersB 

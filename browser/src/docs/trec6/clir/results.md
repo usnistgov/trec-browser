@@ -6,7 +6,7 @@ search:
 # Results - Cross-Language 1997 
 
 #### DCU97Fv1 
-[**`Metadata`**](./runs.md#dcu97fv1), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.DCU97Fv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#dcu97fv1), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1937
@@ -18,7 +18,7 @@ search:
 	```
 ---
 #### DCU97Fv2 
-[**`Metadata`**](./runs.md#dcu97fv2), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.DCU97Fv2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#dcu97fv2), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1905
@@ -30,7 +30,7 @@ search:
 	```
 ---
 #### ETHdd1 
-[**`Metadata`**](./runs.md#ethdd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHdd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHdd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethdd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHdd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHdd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4222
@@ -42,7 +42,7 @@ search:
 	```
 ---
 #### ETHde1 
-[**`Metadata`**](./runs.md#ethde1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethde1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2190
@@ -54,7 +54,7 @@ search:
 	```
 ---
 #### ETHde2 
-[**`Metadata`**](./runs.md#ethde2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethde2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1206
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### ETHde3 
-[**`Metadata`**](./runs.md#ethde3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethde3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3492
@@ -78,7 +78,7 @@ search:
 	```
 ---
 #### ETHdf1 
-[**`Metadata`**](./runs.md#ethdf1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHdf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethdf1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1238
@@ -90,7 +90,7 @@ search:
 	```
 ---
 #### ETHdf2 
-[**`Metadata`**](./runs.md#ethdf2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHdf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethdf2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1365
@@ -102,7 +102,7 @@ search:
 	```
 ---
 #### ETHed1 
-[**`Metadata`**](./runs.md#ethed1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHed1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethed1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1905
@@ -114,7 +114,7 @@ search:
 	```
 ---
 #### ETHed2 
-[**`Metadata`**](./runs.md#ethed2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHed2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethed2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0857
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### ETHed3 
-[**`Metadata`**](./runs.md#ethed3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHed3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethed3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1048
@@ -138,7 +138,7 @@ search:
 	```
 ---
 #### ETHed4 
-[**`Metadata`**](./runs.md#ethed4), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHed4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethed4), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2476
@@ -150,7 +150,7 @@ search:
 	```
 ---
 #### ETHee1 
-[**`Metadata`**](./runs.md#ethee1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHee1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHee1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethee1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHee1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHee1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5048
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### ETHfd1 
-[**`Metadata`**](./runs.md#ethfd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHfd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethfd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1079
@@ -174,7 +174,7 @@ search:
 	```
 ---
 #### ETHfd2 
-[**`Metadata`**](./runs.md#ethfd2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHfd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethfd2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0794
@@ -186,7 +186,7 @@ search:
 	```
 ---
 #### ETHff1 
-[**`Metadata`**](./runs.md#ethff1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHff1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.ETHff1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ethff1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHff1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHff1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4127
@@ -198,7 +198,7 @@ search:
 	```
 ---
 #### TNOde1 
-[**`Metadata`**](./runs.md#tnode1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1492
@@ -210,7 +210,7 @@ search:
 	```
 ---
 #### TNOde2 
-[**`Metadata`**](./runs.md#tnode2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0603
@@ -222,7 +222,7 @@ search:
 	```
 ---
 #### TNOdeMT1 
-[**`Metadata`**](./runs.md#tnodemt1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOdeMT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOdeMT1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnodemt1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOdeMT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english(trans)/summary.TNOdeMT1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1492
@@ -234,7 +234,7 @@ search:
 	```
 ---
 #### TNOee 
-[**`Metadata`**](./runs.md#tnoee), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOee.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOee.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnoee), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOee.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOee.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3714
@@ -246,7 +246,7 @@ search:
 	```
 ---
 #### TNOfe1 
-[**`Metadata`**](./runs.md#tnofe1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0730
@@ -258,7 +258,7 @@ search:
 	```
 ---
 #### TNOfe2 
-[**`Metadata`**](./runs.md#tnofe2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0444
@@ -270,7 +270,7 @@ search:
 	```
 ---
 #### TNOnle1 
-[**`Metadata`**](./runs.md#tnonle1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0286
@@ -282,7 +282,7 @@ search:
 	```
 ---
 #### TNOnle2 
-[**`Metadata`**](./runs.md#tnonle2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0667
@@ -294,7 +294,7 @@ search:
 	```
 ---
 #### MercureFFs 
-[**`Metadata`**](./runs.md#mercureffs), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.MercureFFs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#mercureffs), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4889
@@ -306,7 +306,7 @@ search:
 	```
 ---
 #### MercureFFl 
-[**`Metadata`**](./runs.md#mercureffl), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFl.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.MercureFFl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#mercureffl), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFl.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4698
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### TNOde3 
-[**`Metadata`**](./runs.md#tnode3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2603
@@ -330,7 +330,7 @@ search:
 	```
 ---
 #### TNOde4 
-[**`Metadata`**](./runs.md#tnode4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2190
@@ -342,7 +342,7 @@ search:
 	```
 ---
 #### TNOde5 
-[**`Metadata`**](./runs.md#tnode5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0254
@@ -354,7 +354,7 @@ search:
 	```
 ---
 #### TNOde6 
-[**`Metadata`**](./runs.md#tnode6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOde6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnode6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0603
@@ -366,7 +366,7 @@ search:
 	```
 ---
 #### TNOfe3 
-[**`Metadata`**](./runs.md#tnofe3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1714
@@ -378,7 +378,7 @@ search:
 	```
 ---
 #### TNOfe4 
-[**`Metadata`**](./runs.md#tnofe4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1524
@@ -390,7 +390,7 @@ search:
 	```
 ---
 #### TNOfe5 
-[**`Metadata`**](./runs.md#tnofe5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0730
@@ -402,7 +402,7 @@ search:
 	```
 ---
 #### TNOfe6 
-[**`Metadata`**](./runs.md#tnofe6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOfe6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnofe6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0413
@@ -414,7 +414,7 @@ search:
 	```
 ---
 #### TNOnle3 
-[**`Metadata`**](./runs.md#tnonle3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2254
@@ -426,7 +426,7 @@ search:
 	```
 ---
 #### TNOnle4 
-[**`Metadata`**](./runs.md#tnonle4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2127
@@ -438,7 +438,7 @@ search:
 	```
 ---
 #### TNOnle5 
-[**`Metadata`**](./runs.md#tnonle5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0286
@@ -450,7 +450,7 @@ search:
 	```
 ---
 #### TNOnle6 
-[**`Metadata`**](./runs.md#tnonle6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.TNOnle6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#tnonle6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0698
@@ -462,7 +462,7 @@ search:
 	```
 ---
 #### INQ4xl1 
-[**`Metadata`**](./runs.md#inq4xl1), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.INQ4xl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#inq4xl1), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3143
@@ -474,7 +474,7 @@ search:
 	```
 ---
 #### INQ4xl2 
-[**`Metadata`**](./runs.md#inq4xl2), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.INQ4xl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#inq4xl2), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2063
@@ -486,7 +486,7 @@ search:
 	```
 ---
 #### CLIPS1 
-[**`Metadata`**](./runs.md#clips1), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.CLIPS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clips1), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4159
@@ -498,7 +498,7 @@ search:
 	```
 ---
 #### CLIPS2 
-[**`Metadata`**](./runs.md#clips2), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.CLIPS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clips2), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3841
@@ -510,7 +510,7 @@ search:
 	```
 ---
 #### CLIPS3 
-[**`Metadata`**](./runs.md#clips3), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.CLIPS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clips3), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4698
@@ -522,7 +522,7 @@ search:
 	```
 ---
 #### XRCECLE2EA 
-[**`Metadata`**](./runs.md#xrcecle2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLE2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrcecle2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5460
@@ -534,7 +534,7 @@ search:
 	```
 ---
 #### XRCECLE2EM 
-[**`Metadata`**](./runs.md#xrcecle2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLE2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrcecle2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5778
@@ -546,7 +546,7 @@ search:
 	```
 ---
 #### XRCECLF2FM 
-[**`Metadata`**](./runs.md#xrceclf2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLF2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrceclf2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5333
@@ -558,7 +558,7 @@ search:
 	```
 ---
 #### XRCECLF2FA 
-[**`Metadata`**](./runs.md#xrceclf2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLF2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrceclf2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5111
@@ -570,7 +570,7 @@ search:
 	```
 ---
 #### XRCECLF2EA 
-[**`Metadata`**](./runs.md#xrceclf2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLF2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrceclf2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2794
@@ -582,7 +582,7 @@ search:
 	```
 ---
 #### XRCECLF2EM 
-[**`Metadata`**](./runs.md#xrceclf2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLF2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrceclf2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3270
@@ -594,7 +594,7 @@ search:
 	```
 ---
 #### XRCECLE2FM 
-[**`Metadata`**](./runs.md#xrcecle2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLE2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrcecle2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2730
@@ -606,7 +606,7 @@ search:
 	```
 ---
 #### XRCECLE2FA 
-[**`Metadata`**](./runs.md#xrcecle2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.XRCECLE2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#xrcecle2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2667
@@ -618,7 +618,7 @@ search:
 	```
 ---
 #### BrklyG2GA 
-[**`Metadata`**](./runs.md#brklyg2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyG2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.BrklyG2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#brklyg2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyG2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyG2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4000
@@ -630,7 +630,7 @@ search:
 	```
 ---
 #### BrklyE2GA 
-[**`Metadata`**](./runs.md#brklye2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.BrklyE2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#brklye2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1651
@@ -642,7 +642,7 @@ search:
 	```
 ---
 #### BrklyE2GM 
-[**`Metadata`**](./runs.md#brklye2gm), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.BrklyE2GM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#brklye2gm), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2127
@@ -654,7 +654,7 @@ search:
 	```
 ---
 #### clcrl1 
-[**`Metadata`**](./runs.md#clcrl1), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.clcrl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clcrl1), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2571
@@ -666,7 +666,7 @@ search:
 	```
 ---
 #### clcrl2 
-[**`Metadata`**](./runs.md#clcrl2), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.clcrl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clcrl2), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2381
@@ -678,7 +678,7 @@ search:
 	```
 ---
 #### clcrl3 
-[**`Metadata`**](./runs.md#clcrl3), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.clcrl3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clcrl3), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0921
@@ -690,7 +690,7 @@ search:
 	```
 ---
 #### clcrl4 
-[**`Metadata`**](./runs.md#clcrl4), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.clcrl4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#clcrl4), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2413
@@ -702,7 +702,7 @@ search:
 	```
 ---
 #### Cor6FFsc 
-[**`Metadata`**](./runs.md#cor6ffsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6FFsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.Cor6FFsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#cor6ffsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6FFsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6FFsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5016
@@ -714,7 +714,7 @@ search:
 	```
 ---
 #### Cor6EFexp 
-[**`Metadata`**](./runs.md#cor6efexp), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFexp.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.Cor6EFexp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#cor6efexp), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFexp.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFexp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2857
@@ -726,7 +726,7 @@ search:
 	```
 ---
 #### Cor6EFent 
-[**`Metadata`**](./runs.md#cor6efent), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFent.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.Cor6EFent.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#cor6efent), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFent.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFent.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2667
@@ -738,7 +738,7 @@ search:
 	```
 ---
 #### Cor6ETGsc 
-[**`Metadata`**](./runs.md#cor6etgsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.Cor6ETGsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.Cor6ETGsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#cor6etgsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.Cor6ETGsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german(trans)/summary.Cor6ETGsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3111
@@ -750,7 +750,7 @@ search:
 	```
 ---
 #### Cor6EEsc 
-[**`Metadata`**](./runs.md#cor6eesc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.Cor6EEsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.Cor6EEsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#cor6eesc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.Cor6EEsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.Cor6EEsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5397
@@ -762,7 +762,7 @@ search:
 	```
 ---
 #### CEAef 
-[**`Metadata`**](./runs.md#ceaef), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAef.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.CEAef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ceaef), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAef.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2190
@@ -774,7 +774,7 @@ search:
 	```
 ---
 #### CEAff 
-[**`Metadata`**](./runs.md#ceaff), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAff.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.CEAff.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#ceaff), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAff.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAff.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3365
@@ -786,7 +786,7 @@ search:
 	```
 ---
 #### umcpxeg1 
-[**`Metadata`**](./runs.md#umcpxeg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxeg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxeg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2444
@@ -798,7 +798,7 @@ search:
 	```
 ---
 #### umcpxeg2 
-[**`Metadata`**](./runs.md#umcpxeg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxeg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxeg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2540
@@ -810,7 +810,7 @@ search:
 	```
 ---
 #### umcpxeg3 
-[**`Metadata`**](./runs.md#umcpxeg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxeg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxeg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2476
@@ -822,7 +822,7 @@ search:
 	```
 ---
 #### umcpxge1 
-[**`Metadata`**](./runs.md#umcpxge1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxge1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxge1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2857
@@ -834,7 +834,7 @@ search:
 	```
 ---
 #### umcpxge2 
-[**`Metadata`**](./runs.md#umcpxge2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxge2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxge2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2698
@@ -846,7 +846,7 @@ search:
 	```
 ---
 #### umcpxge3 
-[**`Metadata`**](./runs.md#umcpxge3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxge3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxge3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3429
@@ -858,7 +858,7 @@ search:
 	```
 ---
 #### umcpxgg1 
-[**`Metadata`**](./runs.md#umcpxgg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3619
@@ -870,7 +870,7 @@ search:
 	```
 ---
 #### umcpxgg2 
-[**`Metadata`**](./runs.md#umcpxgg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1651
@@ -882,7 +882,7 @@ search:
 	```
 ---
 #### umcpxgg3 
-[**`Metadata`**](./runs.md#umcpxgg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2190
@@ -894,7 +894,7 @@ search:
 	```
 ---
 #### umcpxgg4 
-[**`Metadata`**](./runs.md#umcpxgg4), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg4), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3683
@@ -906,7 +906,7 @@ search:
 	```
 ---
 #### umcpxgg5 
-[**`Metadata`**](./runs.md#umcpxgg5), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg5), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2222
@@ -918,7 +918,7 @@ search:
 	```
 ---
 #### umcpxgg6 
-[**`Metadata`**](./runs.md#umcpxgg6), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.umcpxgg6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#umcpxgg6), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3365
@@ -930,7 +930,7 @@ search:
 	```
 ---
 #### 97lsiSEE 
-[**`Metadata`**](./runs.md#97lsisee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1397
@@ -942,7 +942,7 @@ search:
 	```
 ---
 #### 97lsiSFF 
-[**`Metadata`**](./runs.md#97lsisff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2413
@@ -954,7 +954,7 @@ search:
 	```
 ---
 #### 97lsiSGG 
-[**`Metadata`**](./runs.md#97lsisgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1841
@@ -966,7 +966,7 @@ search:
 	```
 ---
 #### 97lsiLEE 
-[**`Metadata`**](./runs.md#97lsilee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1651
@@ -978,7 +978,7 @@ search:
 	```
 ---
 #### 97lsiLFF 
-[**`Metadata`**](./runs.md#97lsilff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2730
@@ -990,7 +990,7 @@ search:
 	```
 ---
 #### 97lsiLGG 
-[**`Metadata`**](./runs.md#97lsilgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1238
@@ -1002,7 +1002,7 @@ search:
 	```
 ---
 #### 97lsiSGE 
-[**`Metadata`**](./runs.md#97lsisge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1206
@@ -1014,7 +1014,7 @@ search:
 	```
 ---
 #### 97lsiSGF 
-[**`Metadata`**](./runs.md#97lsisgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2000
@@ -1026,7 +1026,7 @@ search:
 	```
 ---
 #### 97lsiLGE 
-[**`Metadata`**](./runs.md#97lsilge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1206
@@ -1038,7 +1038,7 @@ search:
 	```
 ---
 #### 97lsiLGF 
-[**`Metadata`**](./runs.md#97lsilgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1937
@@ -1050,7 +1050,7 @@ search:
 	```
 ---
 #### 97lsiSFE 
-[**`Metadata`**](./runs.md#97lsisfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2095
@@ -1062,7 +1062,7 @@ search:
 	```
 ---
 #### 97lsiSFG 
-[**`Metadata`**](./runs.md#97lsisfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1841
@@ -1074,7 +1074,7 @@ search:
 	```
 ---
 #### 97lsiLFE 
-[**`Metadata`**](./runs.md#97lsilfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2159
@@ -1086,7 +1086,7 @@ search:
 	```
 ---
 #### 97lsiLFG 
-[**`Metadata`**](./runs.md#97lsilfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2000
@@ -1098,7 +1098,7 @@ search:
 	```
 ---
 #### 97lsiSEG 
-[**`Metadata`**](./runs.md#97lsiseg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsiseg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1524
@@ -1110,7 +1110,7 @@ search:
 	```
 ---
 #### 97lsiSEF 
-[**`Metadata`**](./runs.md#97lsisef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiSEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsisef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1714
@@ -1122,7 +1122,7 @@ search:
 	```
 ---
 #### 97lsiLEG 
-[**`Metadata`**](./runs.md#97lsileg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsileg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1746
@@ -1134,7 +1134,7 @@ search:
 	```
 ---
 #### 97lsiLEF 
-[**`Metadata`**](./runs.md#97lsilef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/summary.97lsiLEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
+[**`Metadata`**](./runs.md#97lsilef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1968

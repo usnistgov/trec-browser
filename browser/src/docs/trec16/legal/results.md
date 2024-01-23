@@ -6,7 +6,7 @@ search:
 # Results - Legal 2007 
 
 #### otL07fb 
-[**`Metadata`**](./runs.md#otl07fb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fb), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fb.main.pdf)
+[**`Metadata`**](./runs.md#otl07fb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fb.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1351 
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### otL07fv 
-[**`Metadata`**](./runs.md#otl07fv), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fv.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fv), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fv.main.pdf)
+[**`Metadata`**](./runs.md#otl07fv), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fv.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fv.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1270 
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### UMass10 
-[**`Metadata`**](./runs.md#umass10), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass10.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass10), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass10.main.pdf)
+[**`Metadata`**](./runs.md#umass10), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass10.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass10.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0995 
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### UMass11 
-[**`Metadata`**](./runs.md#umass11), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass11.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass11), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass11.main.pdf)
+[**`Metadata`**](./runs.md#umass11), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass11.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass11.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0927 
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### UMass12 
-[**`Metadata`**](./runs.md#umass12), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass12.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass12), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass12.main.pdf)
+[**`Metadata`**](./runs.md#umass12), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass12.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass12.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass12.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0741 
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### UMass13 
-[**`Metadata`**](./runs.md#umass13), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass13.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass13), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass13.main.pdf)
+[**`Metadata`**](./runs.md#umass13), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass13.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass13.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass13.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1171 
@@ -84,7 +84,7 @@ search:
 	```
 ---
 #### sab07legrf1 
-[**`Metadata`**](./runs.md#sab07legrf1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf1.routing.pdf)
+[**`Metadata`**](./runs.md#sab07legrf1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf1.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1475 
@@ -97,7 +97,7 @@ search:
 	```
 ---
 #### ursinus1 
-[**`Metadata`**](./runs.md#ursinus1), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus1.main.pdf)
+[**`Metadata`**](./runs.md#ursinus1), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0837 
@@ -110,7 +110,7 @@ search:
 	```
 ---
 #### ursinus2 
-[**`Metadata`**](./runs.md#ursinus2), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus2), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus2.main.pdf)
+[**`Metadata`**](./runs.md#ursinus2), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0651 
@@ -123,7 +123,7 @@ search:
 	```
 ---
 #### ursinus3 
-[**`Metadata`**](./runs.md#ursinus3), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus3), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus3.main.pdf)
+[**`Metadata`**](./runs.md#ursinus3), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus3.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0101 
@@ -136,7 +136,7 @@ search:
 	```
 ---
 #### ursinus4 
-[**`Metadata`**](./runs.md#ursinus4), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus4), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus4.main.pdf)
+[**`Metadata`**](./runs.md#ursinus4), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus4.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0342 
@@ -149,7 +149,7 @@ search:
 	```
 ---
 #### ursinus5 
-[**`Metadata`**](./runs.md#ursinus5), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus5), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus5.main.pdf)
+[**`Metadata`**](./runs.md#ursinus5), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus5.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0097 
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### ursinus6 
-[**`Metadata`**](./runs.md#ursinus6), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus6.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus6), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus6.main.pdf)
+[**`Metadata`**](./runs.md#ursinus6), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus6.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus6.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0572 
@@ -175,7 +175,7 @@ search:
 	```
 ---
 #### ursinus7 
-[**`Metadata`**](./runs.md#ursinus7), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus7.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus7), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus7.main.pdf)
+[**`Metadata`**](./runs.md#ursinus7), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus7.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus7.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0522 
@@ -188,7 +188,7 @@ search:
 	```
 ---
 #### ursinus8 
-[**`Metadata`**](./runs.md#ursinus8), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus8.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus8), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus8.main.pdf)
+[**`Metadata`**](./runs.md#ursinus8), [**`Participants`**](./participants.md#ursinus-collegekontostathis), [**`Proceedings`**](./proceedings.md#on-retrieving-legal-files-shortening-documents-and-weeding-out-garbage), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.ursinus8.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.ursinus8.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/ursinus8.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0124 
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### otL07db 
-[**`Metadata`**](./runs.md#otl07db), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07db.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07db), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07db.main.pdf)
+[**`Metadata`**](./runs.md#otl07db), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07db.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07db.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07db.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0495 
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### otL07rvl 
-[**`Metadata`**](./runs.md#otl07rvl), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07rvl.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07rvl), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07rvl.main.pdf)
+[**`Metadata`**](./runs.md#otl07rvl), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07rvl.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07rvl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07rvl.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1323 
@@ -227,7 +227,7 @@ search:
 	```
 ---
 #### otL07fb2x 
-[**`Metadata`**](./runs.md#otl07fb2x), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fb2x.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fb2x), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fb2x.main.pdf)
+[**`Metadata`**](./runs.md#otl07fb2x), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fb2x.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fb2x.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fb2x.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1353 
@@ -240,7 +240,7 @@ search:
 	```
 ---
 #### otL07fbe 
-[**`Metadata`**](./runs.md#otl07fbe), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fbe.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fbe), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fbe.main.pdf)
+[**`Metadata`**](./runs.md#otl07fbe), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07fbe.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07fbe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07fbe.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1247 
@@ -253,7 +253,7 @@ search:
 	```
 ---
 #### otL07frw 
-[**`Metadata`**](./runs.md#otl07frw), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07frw.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07frw), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07frw.main.pdf)
+[**`Metadata`**](./runs.md#otl07frw), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07frw.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07frw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07frw.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1719 
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### UMass14 
-[**`Metadata`**](./runs.md#umass14), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass14.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass14), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass14.main.pdf)
+[**`Metadata`**](./runs.md#umass14), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass14.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass14.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass14.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1253 
@@ -279,7 +279,7 @@ search:
 	```
 ---
 #### UMass15 
-[**`Metadata`**](./runs.md#umass15), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass15.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass15), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass15.main.pdf)
+[**`Metadata`**](./runs.md#umass15), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#ciir-experiments-for-trec-legal-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMass15.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMass15.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMass15.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1252 
@@ -292,7 +292,7 @@ search:
 	```
 ---
 #### UMKC1 
-[**`Metadata`**](./runs.md#umkc1), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC1.main.pdf)
+[**`Metadata`**](./runs.md#umkc1), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0941 
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### UMKC2 
-[**`Metadata`**](./runs.md#umkc2), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC2.main.pdf)
+[**`Metadata`**](./runs.md#umkc2), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0906 
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### UMKC3 
-[**`Metadata`**](./runs.md#umkc3), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC3), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC3.main.pdf)
+[**`Metadata`**](./runs.md#umkc3), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC3.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0843 
@@ -331,7 +331,7 @@ search:
 	```
 ---
 #### UMKC4 
-[**`Metadata`**](./runs.md#umkc4), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC4), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC4.main.pdf)
+[**`Metadata`**](./runs.md#umkc4), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC4.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1030 
@@ -344,7 +344,7 @@ search:
 	```
 ---
 #### UMKC6 
-[**`Metadata`**](./runs.md#umkc6), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC6.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC6), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC6.main.pdf)
+[**`Metadata`**](./runs.md#umkc6), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC6.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC6.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1051 
@@ -357,7 +357,7 @@ search:
 	```
 ---
 #### UMKC5 
-[**`Metadata`**](./runs.md#umkc5), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC5), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC5.main.pdf)
+[**`Metadata`**](./runs.md#umkc5), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#evaluation-of-query-formulations-in-the-negotiated-query-refinement-process-of-legal-e-discovery-umkc-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UMKC5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UMKC5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UMKC5.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0988 
@@ -370,7 +370,7 @@ search:
 	```
 ---
 #### Dartmouth1 
-[**`Metadata`**](./runs.md#dartmouth1), [**`Participants`**](./participants.md#dartmouththompson), [**`Proceedings`**](./proceedings.md#dartmouth-college-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.Dartmouth1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.Dartmouth1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/Dartmouth1.main.pdf)
+[**`Metadata`**](./runs.md#dartmouth1), [**`Participants`**](./participants.md#dartmouththompson), [**`Proceedings`**](./proceedings.md#dartmouth-college-at-trec-2007-legal-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.Dartmouth1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.Dartmouth1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/Dartmouth1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0582 
@@ -383,7 +383,7 @@ search:
 	```
 ---
 #### otL07pb 
-[**`Metadata`**](./runs.md#otl07pb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07pb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07pb), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07pb.main.pdf)
+[**`Metadata`**](./runs.md#otl07pb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otL07pb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otL07pb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otL07pb.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0997 
@@ -396,7 +396,7 @@ search:
 	```
 ---
 #### fdwim7xj 
-[**`Metadata`**](./runs.md#fdwim7xj), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7xj.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7xj), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7xj.main.pdf)
+[**`Metadata`**](./runs.md#fdwim7xj), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7xj.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7xj.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7xj.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1011 
@@ -409,7 +409,7 @@ search:
 	```
 ---
 #### fdwim7ts 
-[**`Metadata`**](./runs.md#fdwim7ts), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7ts.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7ts), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7ts.main.pdf)
+[**`Metadata`**](./runs.md#fdwim7ts), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7ts.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7ts.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7ts.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0199 
@@ -422,7 +422,7 @@ search:
 	```
 ---
 #### fdwim7rs 
-[**`Metadata`**](./runs.md#fdwim7rs), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7rs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7rs), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7rs.main.pdf)
+[**`Metadata`**](./runs.md#fdwim7rs), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7rs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7rs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7rs.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0988 
@@ -435,7 +435,7 @@ search:
 	```
 ---
 #### fdwim7ss 
-[**`Metadata`**](./runs.md#fdwim7ss), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7ss.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7ss), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7ss.main.pdf)
+[**`Metadata`**](./runs.md#fdwim7ss), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7ss.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7ss.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7ss.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0830 
@@ -448,7 +448,7 @@ search:
 	```
 ---
 #### fdwim7sl 
-[**`Metadata`**](./runs.md#fdwim7sl), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7sl.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7sl), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7sl.main.pdf)
+[**`Metadata`**](./runs.md#fdwim7sl), [**`Participants`**](./participants.md#fudanuniu), [**`Proceedings`**](./proceedings.md#wim-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.fdwim7sl.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.fdwim7sl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/fdwim7sl.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0770 
@@ -461,7 +461,7 @@ search:
 	```
 ---
 #### IowaSL07Ref 
-[**`Metadata`**](./runs.md#iowasl07ref), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL07Ref.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL07Ref), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL07Ref.main.pdf)
+[**`Metadata`**](./runs.md#iowasl07ref), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL07Ref.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL07Ref.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL07Ref.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0884 
@@ -474,7 +474,7 @@ search:
 	```
 ---
 #### IowaSL0702 
-[**`Metadata`**](./runs.md#iowasl0702), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0702.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0702), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0702.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0702), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0702.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0702.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0702.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1286 
@@ -487,7 +487,7 @@ search:
 	```
 ---
 #### IowaSL0703 
-[**`Metadata`**](./runs.md#iowasl0703), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0703.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0703), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0703.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0703), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0703.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0703.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0703.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1304 
@@ -500,7 +500,7 @@ search:
 	```
 ---
 #### IowaSL0704 
-[**`Metadata`**](./runs.md#iowasl0704), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0704.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0704), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0704.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0704), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0704.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0704.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0704.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1324 
@@ -513,7 +513,7 @@ search:
 	```
 ---
 #### IowaSL0705 
-[**`Metadata`**](./runs.md#iowasl0705), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0705.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0705), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0705.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0705), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0705.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0705.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0705.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1394 
@@ -526,7 +526,7 @@ search:
 	```
 ---
 #### IowaSL0706 
-[**`Metadata`**](./runs.md#iowasl0706), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0706.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0706), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0706.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0706), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0706.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0706.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0706.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1288 
@@ -539,7 +539,7 @@ search:
 	```
 ---
 #### otRF07fv 
-[**`Metadata`**](./runs.md#otrf07fv), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otRF07fv.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otRF07fv), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otRF07fv.routing.pdf)
+[**`Metadata`**](./runs.md#otrf07fv), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otRF07fv.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otRF07fv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otRF07fv.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0422 
@@ -552,7 +552,7 @@ search:
 	```
 ---
 #### otRF07fb 
-[**`Metadata`**](./runs.md#otrf07fb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otRF07fb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otRF07fb), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otRF07fb.routing.pdf)
+[**`Metadata`**](./runs.md#otrf07fb), [**`Participants`**](./participants.md#open-texttomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2007-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.otRF07fb.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.otRF07fb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/otRF07fb.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0674 
@@ -565,7 +565,7 @@ search:
 	```
 ---
 #### CMUL07std 
-[**`Metadata`**](./runs.md#cmul07std), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07std.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07std), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07std.main.pdf)
+[**`Metadata`**](./runs.md#cmul07std), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07std.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07std.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07std.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1149 
@@ -578,7 +578,7 @@ search:
 	```
 ---
 #### CMUL07ibs 
-[**`Metadata`**](./runs.md#cmul07ibs), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibs), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibs.main.pdf)
+[**`Metadata`**](./runs.md#cmul07ibs), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibs.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1078 
@@ -591,7 +591,7 @@ search:
 	```
 ---
 #### CMUL07ibp 
-[**`Metadata`**](./runs.md#cmul07ibp), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibp.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibp), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibp.main.pdf)
+[**`Metadata`**](./runs.md#cmul07ibp), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibp.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibp.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1272 
@@ -604,7 +604,7 @@ search:
 	```
 ---
 #### CMUL07ibt 
-[**`Metadata`**](./runs.md#cmul07ibt), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibt.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibt), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibt.main.pdf)
+[**`Metadata`**](./runs.md#cmul07ibt), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07ibt.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07ibt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07ibt.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1281 
@@ -617,7 +617,7 @@ search:
 	```
 ---
 #### CMUL07irs 
-[**`Metadata`**](./runs.md#cmul07irs), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07irs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07irs), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07irs.main.pdf)
+[**`Metadata`**](./runs.md#cmul07irs), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07irs.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07irs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07irs.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0938 
@@ -630,7 +630,7 @@ search:
 	```
 ---
 #### CMUL07irt 
-[**`Metadata`**](./runs.md#cmul07irt), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07irt.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07irt), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07irt.main.pdf)
+[**`Metadata`**](./runs.md#cmul07irt), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07irt.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07irt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07irt.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1150 
@@ -643,7 +643,7 @@ search:
 	```
 ---
 #### CMUL07o1 
-[**`Metadata`**](./runs.md#cmul07o1), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07o1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07o1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07o1.main.pdf)
+[**`Metadata`**](./runs.md#cmul07o1), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07o1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07o1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07o1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1272 
@@ -656,7 +656,7 @@ search:
 	```
 ---
 #### CMUL07o3 
-[**`Metadata`**](./runs.md#cmul07o3), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07o3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07o3), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07o3.main.pdf)
+[**`Metadata`**](./runs.md#cmul07o3), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMUL07o3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMUL07o3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMUL07o3.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1416 
@@ -669,7 +669,7 @@ search:
 	```
 ---
 #### catchup0701p 
-[**`Metadata`**](./runs.md#catchup0701p), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#access-to-legal-documents-exact-match-best-match-and-combinations), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.catchup0701p.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.catchup0701p), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/catchup0701p.main.pdf)
+[**`Metadata`**](./runs.md#catchup0701p), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#access-to-legal-documents-exact-match-best-match-and-combinations), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.catchup0701p.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.catchup0701p.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/catchup0701p.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0210 
@@ -682,7 +682,7 @@ search:
 	```
 ---
 #### CMU07RFBSVME 
-[**`Metadata`**](./runs.md#cmu07rfbsvme), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RFBSVME.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RFBSVME), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RFBSVME.routing.pdf)
+[**`Metadata`**](./runs.md#cmu07rfbsvme), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RFBSVME.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RFBSVME.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RFBSVME.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1248 
@@ -695,7 +695,7 @@ search:
 	```
 ---
 #### sab07legrf2 
-[**`Metadata`**](./runs.md#sab07legrf2), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf2), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf2.routing.pdf)
+[**`Metadata`**](./runs.md#sab07legrf2), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf2.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1537 
@@ -708,7 +708,7 @@ search:
 	```
 ---
 #### sab07legrf3 
-[**`Metadata`**](./runs.md#sab07legrf3), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf3), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf3.routing.pdf)
+[**`Metadata`**](./runs.md#sab07legrf3), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.sab07legrf3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.sab07legrf3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/sab07legrf3.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1526 
@@ -721,7 +721,7 @@ search:
 	```
 ---
 #### SabL07ar1 
-[**`Metadata`**](./runs.md#sabl07ar1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ar1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ar1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ar1.main.pdf)
+[**`Metadata`**](./runs.md#sabl07ar1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ar1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ar1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ar1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0589 
@@ -734,7 +734,7 @@ search:
 	```
 ---
 #### wat1fuse 
-[**`Metadata`**](./runs.md#wat1fuse), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat1fuse.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat1fuse), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat1fuse.main.pdf)
+[**`Metadata`**](./runs.md#wat1fuse), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat1fuse.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat1fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat1fuse.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1415 
@@ -747,7 +747,7 @@ search:
 	```
 ---
 #### wat2nobool 
-[**`Metadata`**](./runs.md#wat2nobool), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat2nobool.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat2nobool), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat2nobool.main.pdf)
+[**`Metadata`**](./runs.md#wat2nobool), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat2nobool.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat2nobool.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat2nobool.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0383 
@@ -760,7 +760,7 @@ search:
 	```
 ---
 #### SabL07ar2 
-[**`Metadata`**](./runs.md#sabl07ar2), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ar2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ar2), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ar2.main.pdf)
+[**`Metadata`**](./runs.md#sabl07ar2), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ar2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ar2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ar2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0592 
@@ -773,7 +773,7 @@ search:
 	```
 ---
 #### wat3desc 
-[**`Metadata`**](./runs.md#wat3desc), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat3desc.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat3desc), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat3desc.main.pdf)
+[**`Metadata`**](./runs.md#wat3desc), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat3desc.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat3desc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat3desc.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1079 
@@ -786,7 +786,7 @@ search:
 	```
 ---
 #### wat4feed 
-[**`Metadata`**](./runs.md#wat4feed), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat4feed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat4feed), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat4feed.main.pdf)
+[**`Metadata`**](./runs.md#wat4feed), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat4feed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat4feed.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat4feed.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0364 
@@ -799,7 +799,7 @@ search:
 	```
 ---
 #### wat5nofeed 
-[**`Metadata`**](./runs.md#wat5nofeed), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat5nofeed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat5nofeed), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat5nofeed.main.pdf)
+[**`Metadata`**](./runs.md#wat5nofeed), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat5nofeed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat5nofeed.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat5nofeed.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1478 
@@ -812,7 +812,7 @@ search:
 	```
 ---
 #### wat6qap 
-[**`Metadata`**](./runs.md#wat6qap), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat6qap.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat6qap), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat6qap.main.pdf)
+[**`Metadata`**](./runs.md#wat6qap), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat6qap.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat6qap.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat6qap.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0692 
@@ -825,7 +825,7 @@ search:
 	```
 ---
 #### wat7bool 
-[**`Metadata`**](./runs.md#wat7bool), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat7bool.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat7bool), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat7bool.main.pdf)
+[**`Metadata`**](./runs.md#wat7bool), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat7bool.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat7bool.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat7bool.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0912 
@@ -838,7 +838,7 @@ search:
 	```
 ---
 #### wat8gram 
-[**`Metadata`**](./runs.md#wat8gram), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat8gram.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat8gram), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat8gram.main.pdf)
+[**`Metadata`**](./runs.md#wat8gram), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.wat8gram.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.wat8gram.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/wat8gram.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0878 
@@ -851,7 +851,7 @@ search:
 	```
 ---
 #### UIowa07LegE2 
-[**`Metadata`**](./runs.md#uiowa07lege2), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE2), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE2.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege2), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0645 
@@ -864,7 +864,7 @@ search:
 	```
 ---
 #### UIowa07LegE3 
-[**`Metadata`**](./runs.md#uiowa07lege3), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE3), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE3.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege3), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE3.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0153 
@@ -877,7 +877,7 @@ search:
 	```
 ---
 #### UIowa07LegE0 
-[**`Metadata`**](./runs.md#uiowa07lege0), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE0.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE0), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE0.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege0), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE0.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE0.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0731 
@@ -890,7 +890,7 @@ search:
 	```
 ---
 #### SabL07ab1 
-[**`Metadata`**](./runs.md#sabl07ab1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ab1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ab1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ab1.main.pdf)
+[**`Metadata`**](./runs.md#sabl07ab1), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07ab1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07ab1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07ab1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0712 
@@ -903,7 +903,7 @@ search:
 	```
 ---
 #### UIowa07LegE4 
-[**`Metadata`**](./runs.md#uiowa07lege4), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE4), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE4.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege4), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE4.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0012 
@@ -916,7 +916,7 @@ search:
 	```
 ---
 #### IowaSL0707 
-[**`Metadata`**](./runs.md#iowasl0707), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0707.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0707), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0707.main.pdf)
+[**`Metadata`**](./runs.md#iowasl0707), [**`Participants`**](./participants.md#uiowasrinivasan), [**`Proceedings`**](./proceedings.md#exploring-the-legal-discovery-and-enterprise-tracks-at-the-university-of-iowa), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.IowaSL0707.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.IowaSL0707.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/IowaSL0707.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1200 
@@ -929,7 +929,7 @@ search:
 	```
 ---
 #### SabL07arbn 
-[**`Metadata`**](./runs.md#sabl07arbn), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07arbn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07arbn), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07arbn.main.pdf)
+[**`Metadata`**](./runs.md#sabl07arbn), [**`Participants`**](./participants.md#sabirbuckley), [**`Proceedings`**](./proceedings.md#examining-overfitting-in-relevance-feedback-sabir-research-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.SabL07arbn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.SabL07arbn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/SabL07arbn.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0834 
@@ -942,7 +942,7 @@ search:
 	```
 ---
 #### UIowa07LegE1 
-[**`Metadata`**](./runs.md#uiowa07lege1), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE1), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE1.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege1), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0149 
@@ -955,7 +955,7 @@ search:
 	```
 ---
 #### UIowa07LegE5 
-[**`Metadata`**](./runs.md#uiowa07lege5), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE5), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE5.main.pdf)
+[**`Metadata`**](./runs.md#uiowa07lege5), [**`Participants`**](./participants.md#uiowaeichman), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.UIowa07LegE5.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.UIowa07LegE5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/UIowa07LegE5.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0044 
@@ -968,7 +968,7 @@ search:
 	```
 ---
 #### CMU07RBase 
-[**`Metadata`**](./runs.md#cmu07rbase), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RBase.routing.pdf)
+[**`Metadata`**](./runs.md#cmu07rbase), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RBase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RBase.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0976 
@@ -981,7 +981,7 @@ search:
 	```
 ---
 #### CMU07RSVMNP 
-[**`Metadata`**](./runs.md#cmu07rsvmnp), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RSVMNP.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RSVMNP), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RSVMNP.routing.pdf)
+[**`Metadata`**](./runs.md#cmu07rsvmnp), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#stuctured-queries-for-legal-search), [**`Input`**](https://trec.nist.gov/results/trec16/legal/input.CMU07RSVMNP.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/legal/summary.CMU07RSVMNP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/legal/CMU07RSVMNP.routing.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1386 

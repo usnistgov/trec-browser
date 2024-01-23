@@ -3,7 +3,7 @@
 #### 1 
 [**`Results`**](./results.md#1), [**`Participants`**](./participants.md#nvidia_ai_apps), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.1), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/1.pdf) 
 
-- :material-rename: **Name:** 1 
+- :material-rename: **Run ID:** 1 
 - :fontawesome-solid-user-group: **Participant:** nvidia_ai_apps 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -18,7 +18,7 @@
 #### 2 
 [**`Results`**](./results.md#2), [**`Participants`**](./participants.md#nvidia_ai_apps), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/2.pdf) 
 
-- :material-rename: **Name:** 2 
+- :material-rename: **Run ID:** 2 
 - :fontawesome-solid-user-group: **Participant:** nvidia_ai_apps 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -33,7 +33,7 @@
 #### bcai_bertb_docv 
 [**`Results`**](./results.md#bcai_bertb_docv), [**`Participants`**](./participants.md#bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bcai_bertb_docv.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bcai_bertb_docv), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bcai_bertb_docv.pdf) 
 
-- :material-rename: **Name:** bcai_bertb_docv 
+- :material-rename: **Run ID:** bcai_bertb_docv 
 - :fontawesome-solid-user-group: **Participant:** bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -48,7 +48,7 @@
 #### bcai_bertl_pass 
 [**`Results`**](./results.md#bcai_bertl_pass), [**`Participants`**](./participants.md#bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bcai_bertl_pass.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bcai_bertl_pass), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bcai_bertl_pass), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bcai_bertl_pass.pdf) 
 
-- :material-rename: **Name:** bcai_bertl_pass 
+- :material-rename: **Run ID:** bcai_bertl_pass 
 - :fontawesome-solid-user-group: **Participant:** bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -63,7 +63,7 @@
 #### bcai_class_pass 
 [**`Results`**](./results.md#bcai_class_pass), [**`Participants`**](./participants.md#bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bcai_class_pass.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bcai_class_pass), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bcai_class_pass), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bcai_class_pass.pdf) 
 
-- :material-rename: **Name:** bcai_class_pass 
+- :material-rename: **Run ID:** bcai_class_pass 
 - :fontawesome-solid-user-group: **Participant:** bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -78,7 +78,7 @@
 #### bcai_classic 
 [**`Results`**](./results.md#bcai_classic), [**`Participants`**](./participants.md#bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bcai_classic.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bcai_classic), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bcai_classic.pdf) 
 
-- :material-rename: **Name:** bcai_classic 
+- :material-rename: **Run ID:** bcai_classic 
 - :fontawesome-solid-user-group: **Participant:** bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -93,7 +93,7 @@
 #### bert_6 
 [**`Results`**](./results.md#bert_6), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#impact-of-tokenization-pretraining-task-and-transformer-depth-on-text-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bert_6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bert_6), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bert_6), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bert_6.pdf) 
 
-- :material-rename: **Name:** bert_6 
+- :material-rename: **Run ID:** bert_6 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -108,7 +108,7 @@
 #### bigIR-BERT-R 
 [**`Results`**](./results.md#bigir-bert-r), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-BERT-R.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-BERT-R), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bigIR-BERT-R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-BERT-R.pdf) 
 
-- :material-rename: **Name:** bigIR-BERT-R 
+- :material-rename: **Run ID:** bigIR-BERT-R 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -123,7 +123,7 @@
 #### bigIR-DCT-T5-F 
 [**`Results`**](./results.md#bigir-dct-t5-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DCT-T5-F.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DCT-T5-F), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bigIR-DCT-T5-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DCT-T5-F.pdf) 
 
-- :material-rename: **Name:** bigIR-DCT-T5-F 
+- :material-rename: **Run ID:** bigIR-DCT-T5-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -138,7 +138,7 @@
 #### bigIR-DH-T5-F 
 [**`Results`**](./results.md#bigir-dh-t5-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DH-T5-F.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DH-T5-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DH-T5-F.pdf) 
 
-- :material-rename: **Name:** bigIR-DH-T5-F 
+- :material-rename: **Run ID:** bigIR-DH-T5-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -153,7 +153,7 @@
 #### bigIR-DH-T5-R 
 [**`Results`**](./results.md#bigir-dh-t5-r), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DH-T5-R.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DH-T5-R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DH-T5-R.pdf) 
 
-- :material-rename: **Name:** bigIR-DH-T5-R 
+- :material-rename: **Run ID:** bigIR-DH-T5-R 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -168,7 +168,7 @@
 #### bigIR-DT-T5-F 
 [**`Results`**](./results.md#bigir-dt-t5-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DT-T5-F.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DT-T5-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DT-T5-F.pdf) 
 
-- :material-rename: **Name:** bigIR-DT-T5-F 
+- :material-rename: **Run ID:** bigIR-DT-T5-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -183,7 +183,7 @@
 #### bigIR-DT-T5-R 
 [**`Results`**](./results.md#bigir-dt-t5-r), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DT-T5-R.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DT-T5-R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DT-T5-R.pdf) 
 
-- :material-rename: **Name:** bigIR-DT-T5-R 
+- :material-rename: **Run ID:** bigIR-DT-T5-R 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -198,7 +198,7 @@
 #### bigIR-DTH-T5-F 
 [**`Results`**](./results.md#bigir-dth-t5-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DTH-T5-F.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DTH-T5-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DTH-T5-F.pdf) 
 
-- :material-rename: **Name:** bigIR-DTH-T5-F 
+- :material-rename: **Run ID:** bigIR-DTH-T5-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -213,7 +213,7 @@
 #### bigIR-DTH-T5-R 
 [**`Results`**](./results.md#bigir-dth-t5-r), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-DTH-T5-R.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-DTH-T5-R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-DTH-T5-R.pdf) 
 
-- :material-rename: **Name:** bigIR-DTH-T5-R 
+- :material-rename: **Run ID:** bigIR-DTH-T5-R 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -228,7 +228,7 @@
 #### bigIR-T5-BERT-F 
 [**`Results`**](./results.md#bigir-t5-bert-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-T5-BERT-F.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-T5-BERT-F), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bigIR-T5-BERT-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-T5-BERT-F.pdf) 
 
-- :material-rename: **Name:** bigIR-T5-BERT-F 
+- :material-rename: **Run ID:** bigIR-T5-BERT-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -243,7 +243,7 @@
 #### bigIR-T5-R 
 [**`Results`**](./results.md#bigir-t5-r), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-T5-R.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-T5-R), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bigIR-T5-R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-T5-R.pdf) 
 
-- :material-rename: **Name:** bigIR-T5-R 
+- :material-rename: **Run ID:** bigIR-T5-R 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -258,7 +258,7 @@
 #### bigIR-T5xp-T5-F 
 [**`Results`**](./results.md#bigir-t5xp-t5-f), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2020-simple-but-deep-retrieval-of-passages-and-documents), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bigIR-T5xp-T5-F.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bigIR-T5xp-T5-F), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bigIR-T5xp-T5-F), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bigIR-T5xp-T5-F.pdf) 
 
-- :material-rename: **Name:** bigIR-T5xp-T5-F 
+- :material-rename: **Run ID:** bigIR-T5xp-T5-F 
 - :fontawesome-solid-user-group: **Participant:** QU 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -273,7 +273,7 @@
 #### BIT-run1 
 [**`Results`**](./results.md#bit-run1), [**`Participants`**](./participants.md#bitua), [**`Proceedings`**](./proceedings.md#bit-ua-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.BIT-run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.BIT-run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/BIT-run1.pdf) 
 
-- :material-rename: **Name:** BIT-run1 
+- :material-rename: **Run ID:** BIT-run1 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -288,7 +288,7 @@
 #### BIT-run2 
 [**`Results`**](./results.md#bit-run2), [**`Participants`**](./participants.md#bitua), [**`Proceedings`**](./proceedings.md#bit-ua-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.BIT-run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.BIT-run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/BIT-run2.pdf) 
 
-- :material-rename: **Name:** BIT-run2 
+- :material-rename: **Run ID:** BIT-run2 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -303,7 +303,7 @@
 #### BIT-run3 
 [**`Results`**](./results.md#bit-run3), [**`Participants`**](./participants.md#bitua), [**`Proceedings`**](./proceedings.md#bit-ua-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.BIT-run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.BIT-run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/BIT-run3.pdf) 
 
-- :material-rename: **Name:** BIT-run3 
+- :material-rename: **Run ID:** BIT-run3 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -318,7 +318,7 @@
 #### bl_bcai_mdl1_vs 
 [**`Results`**](./results.md#bl_bcai_mdl1_vs), [**`Participants`**](./participants.md#bl_bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bl_bcai_mdl1_vs.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bl_bcai_mdl1_vs), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bl_bcai_mdl1_vs), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bl_bcai_mdl1_vs.pdf) 
 
-- :material-rename: **Name:** bl_bcai_mdl1_vs 
+- :material-rename: **Run ID:** bl_bcai_mdl1_vs 
 - :fontawesome-solid-user-group: **Participant:** bl_bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -333,7 +333,7 @@
 #### bl_bcai_mdl1_vt 
 [**`Results`**](./results.md#bl_bcai_mdl1_vt), [**`Participants`**](./participants.md#bl_bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bl_bcai_mdl1_vt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bl_bcai_mdl1_vt), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bl_bcai_mdl1_vt), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bl_bcai_mdl1_vt.pdf) 
 
-- :material-rename: **Name:** bl_bcai_mdl1_vt 
+- :material-rename: **Run ID:** bl_bcai_mdl1_vt 
 - :fontawesome-solid-user-group: **Participant:** bl_bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -348,7 +348,7 @@
 #### bl_bcai_model1 
 [**`Results`**](./results.md#bl_bcai_model1), [**`Participants`**](./participants.md#bl_bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bl_bcai_model1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bl_bcai_model1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bl_bcai_model1.pdf) 
 
-- :material-rename: **Name:** bl_bcai_model1 
+- :material-rename: **Run ID:** bl_bcai_model1 
 - :fontawesome-solid-user-group: **Participant:** bl_bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -363,7 +363,7 @@
 #### bl_bcai_multfld 
 [**`Results`**](./results.md#bl_bcai_multfld), [**`Participants`**](./participants.md#bl_bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bl_bcai_multfld.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bl_bcai_multfld), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bl_bcai_multfld.pdf) 
 
-- :material-rename: **Name:** bl_bcai_multfld 
+- :material-rename: **Run ID:** bl_bcai_multfld 
 - :fontawesome-solid-user-group: **Participant:** bl_bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -378,7 +378,7 @@
 #### bl_bcai_prox 
 [**`Results`**](./results.md#bl_bcai_prox), [**`Participants`**](./participants.md#bl_bcai), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bl_bcai_prox.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bl_bcai_prox), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bl_bcai_prox.pdf) 
 
-- :material-rename: **Name:** bl_bcai_prox 
+- :material-rename: **Run ID:** bl_bcai_prox 
 - :fontawesome-solid-user-group: **Participant:** bl_bcai 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -393,7 +393,7 @@
 #### bm25_bert_token 
 [**`Results`**](./results.md#bm25_bert_token), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#impact-of-tokenization-pretraining-task-and-transformer-depth-on-text-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.bm25_bert_token.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.bm25_bert_token), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.bm25_bert_token), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/bm25_bert_token.pdf) 
 
-- :material-rename: **Name:** bm25_bert_token 
+- :material-rename: **Run ID:** bm25_bert_token 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -408,7 +408,7 @@
 #### CoRT-bm25 
 [**`Results`**](./results.md#cort-bm25), [**`Participants`**](./participants.md#hsrm-lavis), [**`Proceedings`**](./proceedings.md#hsrm-lavis-at-trec-2020-deep-learning-track-neural-first-stage-ranking-complementing-term-based-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.CoRT-bm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.CoRT-bm25), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.CoRT-bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/CoRT-bm25.pdf) 
 
-- :material-rename: **Name:** CoRT-bm25 
+- :material-rename: **Run ID:** CoRT-bm25 
 - :fontawesome-solid-user-group: **Participant:** HSRM-LAVIS 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -423,7 +423,7 @@
 #### CoRT-electra 
 [**`Results`**](./results.md#cort-electra), [**`Participants`**](./participants.md#hsrm-lavis), [**`Proceedings`**](./proceedings.md#hsrm-lavis-at-trec-2020-deep-learning-track-neural-first-stage-ranking-complementing-term-based-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.CoRT-electra.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.CoRT-electra), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.CoRT-electra), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/CoRT-electra.pdf) 
 
-- :material-rename: **Name:** CoRT-electra 
+- :material-rename: **Run ID:** CoRT-electra 
 - :fontawesome-solid-user-group: **Participant:** HSRM-LAVIS 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -438,7 +438,7 @@
 #### CoRT-standalone 
 [**`Results`**](./results.md#cort-standalone), [**`Participants`**](./participants.md#hsrm-lavis), [**`Proceedings`**](./proceedings.md#hsrm-lavis-at-trec-2020-deep-learning-track-neural-first-stage-ranking-complementing-term-based-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.CoRT-standalone.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.CoRT-standalone), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.CoRT-standalone), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/CoRT-standalone.pdf) 
 
-- :material-rename: **Name:** CoRT-standalone 
+- :material-rename: **Run ID:** CoRT-standalone 
 - :fontawesome-solid-user-group: **Participant:** HSRM-LAVIS 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -453,7 +453,7 @@
 #### d_bm25 
 [**`Results`**](./results.md#d_bm25), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_bm25.pdf) 
 
-- :material-rename: **Name:** d_bm25 
+- :material-rename: **Run ID:** d_bm25 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -468,7 +468,7 @@
 #### d_bm25rm3 
 [**`Results`**](./results.md#d_bm25rm3), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_bm25rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_bm25rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_bm25rm3.pdf) 
 
-- :material-rename: **Name:** d_bm25rm3 
+- :material-rename: **Run ID:** d_bm25rm3 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -483,7 +483,7 @@
 #### d_d2q_bm25 
 [**`Results`**](./results.md#d_d2q_bm25), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_d2q_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_d2q_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_d2q_bm25.pdf) 
 
-- :material-rename: **Name:** d_d2q_bm25 
+- :material-rename: **Run ID:** d_d2q_bm25 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -498,7 +498,7 @@
 #### d_d2q_bm25rm3 
 [**`Results`**](./results.md#d_d2q_bm25rm3), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_d2q_bm25rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_d2q_bm25rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_d2q_bm25rm3.pdf) 
 
-- :material-rename: **Name:** d_d2q_bm25rm3 
+- :material-rename: **Run ID:** d_d2q_bm25rm3 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -513,7 +513,7 @@
 #### d_d2q_duo 
 [**`Results`**](./results.md#d_d2q_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_d2q_duo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_d2q_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_d2q_duo.pdf) 
 
-- :material-rename: **Name:** d_d2q_duo 
+- :material-rename: **Run ID:** d_d2q_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -528,7 +528,7 @@
 #### d_d2q_rm3_duo 
 [**`Results`**](./results.md#d_d2q_rm3_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_d2q_rm3_duo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_d2q_rm3_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_d2q_rm3_duo.pdf) 
 
-- :material-rename: **Name:** d_d2q_rm3_duo 
+- :material-rename: **Run ID:** d_d2q_rm3_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -543,7 +543,7 @@
 #### d_rm3_duo 
 [**`Results`**](./results.md#d_rm3_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.d_rm3_duo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.d_rm3_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/d_rm3_duo.pdf) 
 
-- :material-rename: **Name:** d_rm3_duo 
+- :material-rename: **Run ID:** d_rm3_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -558,7 +558,7 @@
 #### DLH_d_5_t_25 
 [**`Results`**](./results.md#dlh_d_5_t_25), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.DLH_d_5_t_25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.DLH_d_5_t_25), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.DLH_d_5_t_25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/DLH_d_5_t_25.pdf) 
 
-- :material-rename: **Name:** DLH_d_5_t_25 
+- :material-rename: **Run ID:** DLH_d_5_t_25 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -572,7 +572,7 @@
 #### DoRA_Large 
 [**`Results`**](./results.md#dora_large), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.DoRA_Large.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.DoRA_Large), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.DoRA_Large), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/DoRA_Large.pdf) 
 
-- :material-rename: **Name:** DoRA_Large 
+- :material-rename: **Run ID:** DoRA_Large 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -587,7 +587,7 @@
 #### DoRA_Large_1k 
 [**`Results`**](./results.md#dora_large_1k), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.DoRA_Large_1k.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.DoRA_Large_1k), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.DoRA_Large_1k), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/DoRA_Large_1k.pdf) 
 
-- :material-rename: **Name:** DoRA_Large_1k 
+- :material-rename: **Run ID:** DoRA_Large_1k 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -602,7 +602,7 @@
 #### DoRA_Med 
 [**`Results`**](./results.md#dora_med), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.DoRA_Med.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.DoRA_Med), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.DoRA_Med), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/DoRA_Med.pdf) 
 
-- :material-rename: **Name:** DoRA_Med 
+- :material-rename: **Run ID:** DoRA_Med 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -617,7 +617,7 @@
 #### DoRA_Small 
 [**`Results`**](./results.md#dora_small), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.DoRA_Small.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.DoRA_Small), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.DoRA_Small), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/DoRA_Small.pdf) 
 
-- :material-rename: **Name:** DoRA_Small 
+- :material-rename: **Run ID:** DoRA_Small 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -632,7 +632,7 @@
 #### fr_doc_roberta 
 [**`Results`**](./results.md#fr_doc_roberta), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.fr_doc_roberta.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.fr_doc_roberta), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/fr_doc_roberta.pdf) 
 
-- :material-rename: **Name:** fr_doc_roberta 
+- :material-rename: **Run ID:** fr_doc_roberta 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -647,7 +647,7 @@
 #### fr_pass_roberta 
 [**`Results`**](./results.md#fr_pass_roberta), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.fr_pass_roberta.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.fr_pass_roberta), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.fr_pass_roberta), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/fr_pass_roberta.pdf) 
 
-- :material-rename: **Name:** fr_pass_roberta 
+- :material-rename: **Run ID:** fr_pass_roberta 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -662,7 +662,7 @@
 #### ICIP_run1 
 [**`Results`**](./results.md#icip_run1), [**`Participants`**](./participants.md#icip), [**`Proceedings`**](./proceedings.md#icip-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ICIP_run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ICIP_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ICIP_run1.pdf) 
 
-- :material-rename: **Name:** ICIP_run1 
+- :material-rename: **Run ID:** ICIP_run1 
 - :fontawesome-solid-user-group: **Participant:** ICIP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -677,7 +677,7 @@
 #### ICIP_run2 
 [**`Results`**](./results.md#icip_run2), [**`Participants`**](./participants.md#icip), [**`Proceedings`**](./proceedings.md#icip-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ICIP_run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ICIP_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ICIP_run2.pdf) 
 
-- :material-rename: **Name:** ICIP_run2 
+- :material-rename: **Run ID:** ICIP_run2 
 - :fontawesome-solid-user-group: **Participant:** ICIP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -692,7 +692,7 @@
 #### ICIP_run3 
 [**`Results`**](./results.md#icip_run3), [**`Participants`**](./participants.md#icip), [**`Proceedings`**](./proceedings.md#icip-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ICIP_run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ICIP_run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ICIP_run3.pdf) 
 
-- :material-rename: **Name:** ICIP_run3 
+- :material-rename: **Run ID:** ICIP_run3 
 - :fontawesome-solid-user-group: **Participant:** ICIP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -707,7 +707,7 @@
 #### indri-fdm 
 [**`Results`**](./results.md#indri-fdm), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.indri-fdm.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.indri-fdm), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.indri-fdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/indri-fdm.pdf) 
 
-- :material-rename: **Name:** indri-fdm 
+- :material-rename: **Run ID:** indri-fdm 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -721,7 +721,7 @@
 #### indri-lmds 
 [**`Results`**](./results.md#indri-lmds), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.indri-lmds.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.indri-lmds), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.indri-lmds), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/indri-lmds.pdf) 
 
-- :material-rename: **Name:** indri-lmds 
+- :material-rename: **Run ID:** indri-lmds 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -735,7 +735,7 @@
 #### indri-sdm 
 [**`Results`**](./results.md#indri-sdm), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.indri-sdm.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.indri-sdm), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.indri-sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/indri-sdm.pdf) 
 
-- :material-rename: **Name:** indri-sdm 
+- :material-rename: **Run ID:** indri-sdm 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -749,7 +749,7 @@
 #### indri-sdmf 
 [**`Results`**](./results.md#indri-sdmf), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.indri-sdmf.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.indri-sdmf), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/indri-sdmf.pdf) 
 
-- :material-rename: **Name:** indri-sdmf 
+- :material-rename: **Run ID:** indri-sdmf 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -763,7 +763,7 @@
 #### longformer_1 
 [**`Results`**](./results.md#longformer_1), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#longformer-for-ms-marco-document-re-ranking-task), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.longformer_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.longformer_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/longformer_1.pdf) 
 
-- :material-rename: **Name:** longformer_1 
+- :material-rename: **Run ID:** longformer_1 
 - :fontawesome-solid-user-group: **Participant:** USI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -778,7 +778,7 @@
 #### med_1k 
 [**`Results`**](./results.md#med_1k), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.med_1k.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.med_1k), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.med_1k), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/med_1k.pdf) 
 
-- :material-rename: **Name:** med_1k 
+- :material-rename: **Run ID:** med_1k 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -793,7 +793,7 @@
 #### mpii_run1 
 [**`Results`**](./results.md#mpii_run1), [**`Participants`**](./participants.md#mpii), [**`Proceedings`**](./proceedings.md#mpii-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.mpii_run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.mpii_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/mpii_run1.pdf) 
 
-- :material-rename: **Name:** mpii_run1 
+- :material-rename: **Run ID:** mpii_run1 
 - :fontawesome-solid-user-group: **Participant:** mpii 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -808,7 +808,7 @@
 #### mpii_run2 
 [**`Results`**](./results.md#mpii_run2), [**`Participants`**](./participants.md#mpii), [**`Proceedings`**](./proceedings.md#mpii-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.mpii_run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.mpii_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/mpii_run2.pdf) 
 
-- :material-rename: **Name:** mpii_run2 
+- :material-rename: **Run ID:** mpii_run2 
 - :fontawesome-solid-user-group: **Participant:** mpii 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -823,7 +823,7 @@
 #### mpii_run3 
 [**`Results`**](./results.md#mpii_run3), [**`Participants`**](./participants.md#mpii), [**`Proceedings`**](./proceedings.md#mpii-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.mpii_run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.mpii_run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/mpii_run3.pdf) 
 
-- :material-rename: **Name:** mpii_run3 
+- :material-rename: **Run ID:** mpii_run3 
 - :fontawesome-solid-user-group: **Participant:** mpii 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -838,7 +838,7 @@
 #### ndrm1-full 
 [**`Results`**](./results.md#ndrm1-full), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm1-full.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm1-full), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm1-full.pdf) 
 
-- :material-rename: **Name:** ndrm1-full 
+- :material-rename: **Run ID:** ndrm1-full 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -853,7 +853,7 @@
 #### ndrm1-re 
 [**`Results`**](./results.md#ndrm1-re), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm1-re.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm1-re), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm1-re.pdf) 
 
-- :material-rename: **Name:** ndrm1-re 
+- :material-rename: **Run ID:** ndrm1-re 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -868,7 +868,7 @@
 #### ndrm3-full 
 [**`Results`**](./results.md#ndrm3-full), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm3-full.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm3-full), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm3-full.pdf) 
 
-- :material-rename: **Name:** ndrm3-full 
+- :material-rename: **Run ID:** ndrm3-full 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -883,7 +883,7 @@
 #### ndrm3-orc-full 
 [**`Results`**](./results.md#ndrm3-orc-full), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm3-orc-full.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm3-orc-full), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm3-orc-full.pdf) 
 
-- :material-rename: **Name:** ndrm3-orc-full 
+- :material-rename: **Run ID:** ndrm3-orc-full 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -898,7 +898,7 @@
 #### ndrm3-orc-re 
 [**`Results`**](./results.md#ndrm3-orc-re), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm3-orc-re.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm3-orc-re), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm3-orc-re.pdf) 
 
-- :material-rename: **Name:** ndrm3-orc-re 
+- :material-rename: **Run ID:** ndrm3-orc-re 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -913,7 +913,7 @@
 #### ndrm3-re 
 [**`Results`**](./results.md#ndrm3-re), [**`Participants`**](./participants.md#msai), [**`Proceedings`**](./proceedings.md#conformer-kernel-with-query-term-independence-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.ndrm3-re.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.ndrm3-re), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/ndrm3-re.pdf) 
 
-- :material-rename: **Name:** ndrm3-re 
+- :material-rename: **Run ID:** ndrm3-re 
 - :fontawesome-solid-user-group: **Participant:** MSAI 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -928,7 +928,7 @@
 #### NLE_pr1 
 [**`Results`**](./results.md#nle_pr1), [**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.NLE_pr1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.NLE_pr1), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.NLE_pr1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/NLE_pr1.pdf) 
 
-- :material-rename: **Name:** NLE_pr1 
+- :material-rename: **Run ID:** NLE_pr1 
 - :fontawesome-solid-user-group: **Participant:** NLE 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -943,7 +943,7 @@
 #### NLE_pr2 
 [**`Results`**](./results.md#nle_pr2), [**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.NLE_pr2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.NLE_pr2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.NLE_pr2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/NLE_pr2.pdf) 
 
-- :material-rename: **Name:** NLE_pr2 
+- :material-rename: **Run ID:** NLE_pr2 
 - :fontawesome-solid-user-group: **Participant:** NLE 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -958,7 +958,7 @@
 #### NLE_pr3 
 [**`Results`**](./results.md#nle_pr3), [**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.NLE_pr3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.NLE_pr3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.NLE_pr3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/NLE_pr3.pdf) 
 
-- :material-rename: **Name:** NLE_pr3 
+- :material-rename: **Run ID:** NLE_pr3 
 - :fontawesome-solid-user-group: **Participant:** NLE 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -973,7 +973,7 @@
 #### nlm-bert-rr 
 [**`Results`**](./results.md#nlm-bert-rr), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-bert-rr.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-bert-rr), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.nlm-bert-rr), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-bert-rr.pdf) 
 
-- :material-rename: **Name:** nlm-bert-rr 
+- :material-rename: **Run ID:** nlm-bert-rr 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -988,7 +988,7 @@
 #### nlm-bm25-prf-1 
 [**`Results`**](./results.md#nlm-bm25-prf-1), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-bm25-prf-1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-bm25-prf-1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-bm25-prf-1.pdf) 
 
-- :material-rename: **Name:** nlm-bm25-prf-1 
+- :material-rename: **Run ID:** nlm-bm25-prf-1 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1003,7 +1003,7 @@
 #### nlm-bm25-prf-2 
 [**`Results`**](./results.md#nlm-bm25-prf-2), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-bm25-prf-2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-bm25-prf-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-bm25-prf-2.pdf) 
 
-- :material-rename: **Name:** nlm-bm25-prf-2 
+- :material-rename: **Run ID:** nlm-bm25-prf-2 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1018,7 +1018,7 @@
 #### nlm-ens-bst-2 
 [**`Results`**](./results.md#nlm-ens-bst-2), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-ens-bst-2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-ens-bst-2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.nlm-ens-bst-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-ens-bst-2.pdf) 
 
-- :material-rename: **Name:** nlm-ens-bst-2 
+- :material-rename: **Run ID:** nlm-ens-bst-2 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1033,7 +1033,7 @@
 #### nlm-ens-bst-3 
 [**`Results`**](./results.md#nlm-ens-bst-3), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-ens-bst-3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-ens-bst-3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.nlm-ens-bst-3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-ens-bst-3.pdf) 
 
-- :material-rename: **Name:** nlm-ens-bst-3 
+- :material-rename: **Run ID:** nlm-ens-bst-3 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1048,7 +1048,7 @@
 #### nlm-prfun-bert 
 [**`Results`**](./results.md#nlm-prfun-bert), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.nlm-prfun-bert.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.nlm-prfun-bert), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.nlm-prfun-bert), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/nlm-prfun-bert.pdf) 
 
-- :material-rename: **Name:** nlm-prfun-bert 
+- :material-rename: **Run ID:** nlm-prfun-bert 
 - :fontawesome-solid-user-group: **Participant:** NLM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1063,7 +1063,7 @@
 #### p_bm25 
 [**`Results`**](./results.md#p_bm25), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_bm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_bm25), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_bm25.pdf) 
 
-- :material-rename: **Name:** p_bm25 
+- :material-rename: **Run ID:** p_bm25 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1078,7 +1078,7 @@
 #### p_bm25rm3 
 [**`Results`**](./results.md#p_bm25rm3), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_bm25rm3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_bm25rm3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_bm25rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_bm25rm3.pdf) 
 
-- :material-rename: **Name:** p_bm25rm3 
+- :material-rename: **Run ID:** p_bm25rm3 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1093,7 +1093,7 @@
 #### p_bm25rm3_duo 
 [**`Results`**](./results.md#p_bm25rm3_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_bm25rm3_duo.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_bm25rm3_duo), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_bm25rm3_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_bm25rm3_duo.pdf) 
 
-- :material-rename: **Name:** p_bm25rm3_duo 
+- :material-rename: **Run ID:** p_bm25rm3_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1108,7 +1108,7 @@
 #### p_d2q_bm25 
 [**`Results`**](./results.md#p_d2q_bm25), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_d2q_bm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_d2q_bm25), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_d2q_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_d2q_bm25.pdf) 
 
-- :material-rename: **Name:** p_d2q_bm25 
+- :material-rename: **Run ID:** p_d2q_bm25 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1123,7 +1123,7 @@
 #### p_d2q_bm25_duo 
 [**`Results`**](./results.md#p_d2q_bm25_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_d2q_bm25_duo.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_d2q_bm25_duo), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_d2q_bm25_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_d2q_bm25_duo.pdf) 
 
-- :material-rename: **Name:** p_d2q_bm25_duo 
+- :material-rename: **Run ID:** p_d2q_bm25_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1138,7 +1138,7 @@
 #### p_d2q_bm25rm3 
 [**`Results`**](./results.md#p_d2q_bm25rm3), [**`Participants`**](./participants.md#anserini), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_d2q_bm25rm3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_d2q_bm25rm3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_d2q_bm25rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_d2q_bm25rm3.pdf) 
 
-- :material-rename: **Name:** p_d2q_bm25rm3 
+- :material-rename: **Run ID:** p_d2q_bm25rm3 
 - :fontawesome-solid-user-group: **Participant:** anserini 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1153,7 +1153,7 @@
 #### p_d2q_rm3_duo 
 [**`Results`**](./results.md#p_d2q_rm3_duo), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.p_d2q_rm3_duo.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.p_d2q_rm3_duo), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.p_d2q_rm3_duo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/p_d2q_rm3_duo.pdf) 
 
-- :material-rename: **Name:** p_d2q_rm3_duo 
+- :material-rename: **Run ID:** p_d2q_rm3_duo 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1168,7 +1168,7 @@
 #### pash_f1 
 [**`Results`**](./results.md#pash_f1), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_f1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_f1), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_f1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_f1.pdf) 
 
-- :material-rename: **Name:** pash_f1 
+- :material-rename: **Run ID:** pash_f1 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1183,7 +1183,7 @@
 #### pash_f2 
 [**`Results`**](./results.md#pash_f2), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_f2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_f2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_f2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_f2.pdf) 
 
-- :material-rename: **Name:** pash_f2 
+- :material-rename: **Run ID:** pash_f2 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1198,7 +1198,7 @@
 #### pash_f3 
 [**`Results`**](./results.md#pash_f3), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_f3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_f3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_f3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_f3.pdf) 
 
-- :material-rename: **Name:** pash_f3 
+- :material-rename: **Run ID:** pash_f3 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1213,7 +1213,7 @@
 #### pash_r1 
 [**`Results`**](./results.md#pash_r1), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_r1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_r1), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_r1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_r1.pdf) 
 
-- :material-rename: **Name:** pash_r1 
+- :material-rename: **Run ID:** pash_r1 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1228,7 +1228,7 @@
 #### pash_r2 
 [**`Results`**](./results.md#pash_r2), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_r2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_r2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_r2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_r2.pdf) 
 
-- :material-rename: **Name:** pash_r2 
+- :material-rename: **Run ID:** pash_r2 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1243,7 +1243,7 @@
 #### pash_r3 
 [**`Results`**](./results.md#pash_r3), [**`Participants`**](./participants.md#pash), [**`Proceedings`**](./proceedings.md#pash-at-trec-2020-deep-learning-track-dense-matching-for-nested-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pash_r3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pash_r3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pash_r3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pash_r3.pdf) 
 
-- :material-rename: **Name:** pash_r3 
+- :material-rename: **Run ID:** pash_r3 
 - :fontawesome-solid-user-group: **Participant:** PASH 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1258,7 +1258,7 @@
 #### pinganNLP1 
 [**`Results`**](./results.md#pingannlp1), [**`Participants`**](./participants.md#pingannlp), [**`Proceedings`**](./proceedings.md#a-multiple-models-ensembling-method-in-trec-deep-learning), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pinganNLP1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pinganNLP1), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pinganNLP1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pinganNLP1.pdf) 
 
-- :material-rename: **Name:** pinganNLP1 
+- :material-rename: **Run ID:** pinganNLP1 
 - :fontawesome-solid-user-group: **Participant:** pinganNLP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1273,7 +1273,7 @@
 #### pinganNLP2 
 [**`Results`**](./results.md#pingannlp2), [**`Participants`**](./participants.md#pingannlp), [**`Proceedings`**](./proceedings.md#a-multiple-models-ensembling-method-in-trec-deep-learning), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pinganNLP2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pinganNLP2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pinganNLP2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pinganNLP2.pdf) 
 
-- :material-rename: **Name:** pinganNLP2 
+- :material-rename: **Run ID:** pinganNLP2 
 - :fontawesome-solid-user-group: **Participant:** pinganNLP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1288,7 +1288,7 @@
 #### pinganNLP3 
 [**`Results`**](./results.md#pingannlp3), [**`Participants`**](./participants.md#pingannlp), [**`Proceedings`**](./proceedings.md#a-multiple-models-ensembling-method-in-trec-deep-learning), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.pinganNLP3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.pinganNLP3), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.pinganNLP3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/pinganNLP3.pdf) 
 
-- :material-rename: **Name:** pinganNLP3 
+- :material-rename: **Run ID:** pinganNLP3 
 - :fontawesome-solid-user-group: **Participant:** pinganNLP 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1303,7 +1303,7 @@
 #### relemb_mlm_0_2 
 [**`Results`**](./results.md#relemb_mlm_0_2), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#impact-of-tokenization-pretraining-task-and-transformer-depth-on-text-ranking), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.relemb_mlm_0_2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.relemb_mlm_0_2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.relemb_mlm_0_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/relemb_mlm_0_2.pdf) 
 
-- :material-rename: **Name:** relemb_mlm_0_2 
+- :material-rename: **Run ID:** relemb_mlm_0_2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1318,7 +1318,7 @@
 #### rindri-bm25 
 [**`Results`**](./results.md#rindri-bm25), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rindri-bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rindri-bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rindri-bm25.pdf) 
 
-- :material-rename: **Name:** rindri-bm25 
+- :material-rename: **Run ID:** rindri-bm25 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1332,7 +1332,7 @@
 #### RMIT-Bart 
 [**`Results`**](./results.md#rmit-bart), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.RMIT-Bart.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.RMIT-Bart), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.RMIT-Bart), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/RMIT-Bart.pdf) 
 
-- :material-rename: **Name:** RMIT-Bart 
+- :material-rename: **Run ID:** RMIT-Bart 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1347,7 +1347,7 @@
 #### RMIT_DFRee 
 [**`Results`**](./results.md#rmit_dfree), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.RMIT_DFRee.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.RMIT_DFRee), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/RMIT_DFRee.pdf) 
 
-- :material-rename: **Name:** RMIT_DFRee 
+- :material-rename: **Run ID:** RMIT_DFRee 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1361,7 +1361,7 @@
 #### RMIT_DPH 
 [**`Results`**](./results.md#rmit_dph), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.RMIT_DPH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.RMIT_DPH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/RMIT_DPH.pdf) 
 
-- :material-rename: **Name:** RMIT_DPH 
+- :material-rename: **Run ID:** RMIT_DPH 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1375,7 +1375,7 @@
 #### rmit_indri-fdm 
 [**`Results`**](./results.md#rmit_indri-fdm), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rmit_indri-fdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rmit_indri-fdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rmit_indri-fdm.pdf) 
 
-- :material-rename: **Name:** rmit_indri-fdm 
+- :material-rename: **Run ID:** rmit_indri-fdm 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1389,7 +1389,7 @@
 #### rmit_indri-sdm 
 [**`Results`**](./results.md#rmit_indri-sdm), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rmit_indri-sdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rmit_indri-sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rmit_indri-sdm.pdf) 
 
-- :material-rename: **Name:** rmit_indri-sdm 
+- :material-rename: **Run ID:** rmit_indri-sdm 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1403,7 +1403,7 @@
 #### roberta-large 
 [**`Results`**](./results.md#roberta-large), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.roberta-large.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.roberta-large), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/roberta-large.pdf) 
 
-- :material-rename: **Name:** roberta-large 
+- :material-rename: **Run ID:** roberta-large 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1418,7 +1418,7 @@
 #### rr-pass-roberta 
 [**`Results`**](./results.md#rr-pass-roberta), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rr-pass-roberta.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rr-pass-roberta), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.rr-pass-roberta), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rr-pass-roberta.pdf) 
 
-- :material-rename: **Name:** rr-pass-roberta 
+- :material-rename: **Run ID:** rr-pass-roberta 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1433,7 +1433,7 @@
 #### rterrier-dph 
 [**`Results`**](./results.md#rterrier-dph), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rterrier-dph.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rterrier-dph), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rterrier-dph.pdf) 
 
-- :material-rename: **Name:** rterrier-dph 
+- :material-rename: **Run ID:** rterrier-dph 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1447,7 +1447,7 @@
 #### rterrier-dph_sd 
 [**`Results`**](./results.md#rterrier-dph_sd), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rterrier-dph_sd.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rterrier-dph_sd), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rterrier-dph_sd.pdf) 
 
-- :material-rename: **Name:** rterrier-dph_sd 
+- :material-rename: **Run ID:** rterrier-dph_sd 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1461,7 +1461,7 @@
 #### rterrier-expC2 
 [**`Results`**](./results.md#rterrier-expc2), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rterrier-expC2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rterrier-expC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rterrier-expC2.pdf) 
 
-- :material-rename: **Name:** rterrier-expC2 
+- :material-rename: **Run ID:** rterrier-expC2 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1475,7 +1475,7 @@
 #### rterrier-tfidf 
 [**`Results`**](./results.md#rterrier-tfidf), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rterrier-tfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rterrier-tfidf), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rterrier-tfidf.pdf) 
 
-- :material-rename: **Name:** rterrier-tfidf 
+- :material-rename: **Run ID:** rterrier-tfidf 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1489,7 +1489,7 @@
 #### rterrier-tfidf2 
 [**`Results`**](./results.md#rterrier-tfidf2), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.rterrier-tfidf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.rterrier-tfidf2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/rterrier-tfidf2.pdf) 
 
-- :material-rename: **Name:** rterrier-tfidf2 
+- :material-rename: **Run ID:** rterrier-tfidf2 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1503,7 +1503,7 @@
 #### small_1k 
 [**`Results`**](./results.md#small_1k), [**`Participants`**](./participants.md#research2vec), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.small_1k.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.small_1k), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.small_1k), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/small_1k.pdf) 
 
-- :material-rename: **Name:** small_1k 
+- :material-rename: **Run ID:** small_1k 
 - :fontawesome-solid-user-group: **Participant:** reSearch2vec 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1518,7 +1518,7 @@
 #### terrier-BM25 
 [**`Results`**](./results.md#terrier-bm25), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.terrier-BM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.terrier-BM25), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.terrier-BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/terrier-BM25.pdf) 
 
-- :material-rename: **Name:** terrier-BM25 
+- :material-rename: **Run ID:** terrier-BM25 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1532,7 +1532,7 @@
 #### terrier-DPH 
 [**`Results`**](./results.md#terrier-dph), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.terrier-DPH.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.terrier-DPH), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.terrier-DPH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/terrier-DPH.pdf) 
 
-- :material-rename: **Name:** terrier-DPH 
+- :material-rename: **Run ID:** terrier-DPH 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1546,7 +1546,7 @@
 #### terrier-InL2 
 [**`Results`**](./results.md#terrier-inl2), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.terrier-InL2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.terrier-InL2), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.terrier-InL2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/terrier-InL2.pdf) 
 
-- :material-rename: **Name:** terrier-InL2 
+- :material-rename: **Run ID:** terrier-InL2 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1560,7 +1560,7 @@
 #### terrier-jskls 
 [**`Results`**](./results.md#terrier-jskls), [**`Participants`**](./participants.md#bl_rmit), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.terrier-jskls.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.terrier-jskls), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/terrier-jskls.pdf) 
 
-- :material-rename: **Name:** terrier-jskls 
+- :material-rename: **Run ID:** terrier-jskls 
 - :fontawesome-solid-user-group: **Participant:** bl_rmit 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1574,7 +1574,7 @@
 #### TF_IDF_d_2_t_50 
 [**`Results`**](./results.md#tf_idf_d_2_t_50), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-trec-deep-learning-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.TF_IDF_d_2_t_50.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.TF_IDF_d_2_t_50), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.TF_IDF_d_2_t_50), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/TF_IDF_d_2_t_50.pdf) 
 
-- :material-rename: **Name:** TF_IDF_d_2_t_50 
+- :material-rename: **Run ID:** TF_IDF_d_2_t_50 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1588,7 +1588,7 @@
 #### TUW-TK-2Layer 
 [**`Results`**](./results.md#tuw-tk-2layer), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#evaluating-transformer-kernel-models-at-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.TUW-TK-2Layer.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.TUW-TK-2Layer), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.TUW-TK-2Layer), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/TUW-TK-2Layer.pdf) 
 
-- :material-rename: **Name:** TUW-TK-2Layer 
+- :material-rename: **Run ID:** TUW-TK-2Layer 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1603,7 +1603,7 @@
 #### TUW-TK-Sparse 
 [**`Results`**](./results.md#tuw-tk-sparse), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#evaluating-transformer-kernel-models-at-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.TUW-TK-Sparse.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.TUW-TK-Sparse), [**`Summary (passages-eval)`**](https://trec.nist.gov/results/trec29/deep/summary.passages-eval.TUW-TK-Sparse), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/TUW-TK-Sparse.pdf) 
 
-- :material-rename: **Name:** TUW-TK-Sparse 
+- :material-rename: **Run ID:** TUW-TK-Sparse 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1618,7 +1618,7 @@
 #### TUW-TKL-2k 
 [**`Results`**](./results.md#tuw-tkl-2k), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#evaluating-transformer-kernel-models-at-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.TUW-TKL-2k.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.TUW-TKL-2k), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/TUW-TKL-2k.pdf) 
 
-- :material-rename: **Name:** TUW-TKL-2k 
+- :material-rename: **Run ID:** TUW-TKL-2k 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1633,7 +1633,7 @@
 #### TUW-TKL-4k 
 [**`Results`**](./results.md#tuw-tkl-4k), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#evaluating-transformer-kernel-models-at-trec-deep-learning-2020), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.TUW-TKL-4k.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.TUW-TKL-4k), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/TUW-TKL-4k.pdf) 
 
-- :material-rename: **Name:** TUW-TKL-4k 
+- :material-rename: **Run ID:** TUW-TKL-4k 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1648,7 +1648,7 @@
 #### uob_runid1 
 [**`Results`**](./results.md#uob_runid1), [**`Participants`**](./participants.md#uob), [**`Proceedings`**](./proceedings.md#faster-bert-based-re-ranking-through-candidate-passage-extraction), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uob_runid1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uob_runid1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uob_runid1.pdf) 
 
-- :material-rename: **Name:** uob_runid1 
+- :material-rename: **Run ID:** uob_runid1 
 - :fontawesome-solid-user-group: **Participant:** UoB 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1663,7 +1663,7 @@
 #### uob_runid2 
 [**`Results`**](./results.md#uob_runid2), [**`Participants`**](./participants.md#uob), [**`Proceedings`**](./proceedings.md#faster-bert-based-re-ranking-through-candidate-passage-extraction), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uob_runid2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uob_runid2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uob_runid2.pdf) 
 
-- :material-rename: **Name:** uob_runid2 
+- :material-rename: **Run ID:** uob_runid2 
 - :fontawesome-solid-user-group: **Participant:** UoB 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1678,7 +1678,7 @@
 #### uob_runid3 
 [**`Results`**](./results.md#uob_runid3), [**`Participants`**](./participants.md#uob), [**`Proceedings`**](./proceedings.md#faster-bert-based-re-ranking-through-candidate-passage-extraction), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uob_runid3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uob_runid3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uob_runid3.pdf) 
 
-- :material-rename: **Name:** uob_runid3 
+- :material-rename: **Run ID:** uob_runid3 
 - :fontawesome-solid-user-group: **Participant:** UoB 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1693,7 +1693,7 @@
 #### uogTr31oR 
 [**`Results`**](./results.md#uogtr31or), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTr31oR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTr31oR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTr31oR.pdf) 
 
-- :material-rename: **Name:** uogTr31oR 
+- :material-rename: **Run ID:** uogTr31oR 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1708,7 +1708,7 @@
 #### uogTrBaseDPH 
 [**`Results`**](./results.md#uogtrbasedph), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseDPH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseDPH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseDPH.pdf) 
 
-- :material-rename: **Name:** uogTrBaseDPH 
+- :material-rename: **Run ID:** uogTrBaseDPH 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1723,7 +1723,7 @@
 #### uogTrBaseDPHQ 
 [**`Results`**](./results.md#uogtrbasedphq), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseDPHQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseDPHQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseDPHQ.pdf) 
 
-- :material-rename: **Name:** uogTrBaseDPHQ 
+- :material-rename: **Run ID:** uogTrBaseDPHQ 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1738,7 +1738,7 @@
 #### uogTrBaseL16 
 [**`Results`**](./results.md#uogtrbasel16), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseL16.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseL16), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseL16.pdf) 
 
-- :material-rename: **Name:** uogTrBaseL16 
+- :material-rename: **Run ID:** uogTrBaseL16 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1753,7 +1753,7 @@
 #### uogTrBaseL17o 
 [**`Results`**](./results.md#uogtrbasel17o), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseL17o.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseL17o), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseL17o.pdf) 
 
-- :material-rename: **Name:** uogTrBaseL17o 
+- :material-rename: **Run ID:** uogTrBaseL17o 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1768,7 +1768,7 @@
 #### uogTrBaseQL16 
 [**`Results`**](./results.md#uogtrbaseql16), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseQL16.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseQL16), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseQL16.pdf) 
 
-- :material-rename: **Name:** uogTrBaseQL16 
+- :material-rename: **Run ID:** uogTrBaseQL16 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1783,7 +1783,7 @@
 #### uogTrBaseQL17o 
 [**`Results`**](./results.md#uogtrbaseql17o), [**`Participants`**](./participants.md#bl_uogtr), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrBaseQL17o.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrBaseQL17o), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrBaseQL17o.pdf) 
 
-- :material-rename: **Name:** uogTrBaseQL17o 
+- :material-rename: **Run ID:** uogTrBaseQL17o 
 - :fontawesome-solid-user-group: **Participant:** bl_uogTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1798,7 +1798,7 @@
 #### uogTrQCBMP 
 [**`Results`**](./results.md#uogtrqcbmp), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrQCBMP.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrQCBMP), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrQCBMP.pdf) 
 
-- :material-rename: **Name:** uogTrQCBMP 
+- :material-rename: **Run ID:** uogTrQCBMP 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 
@@ -1813,7 +1813,7 @@
 #### uogTrT20 
 [**`Results`**](./results.md#uogtrt20), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-deep-learning-track), [**`Input`**](https://trec.nist.gov/results/trec29/deep/input.uogTrT20.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/deep/summary.treceval.uogTrT20), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/deep/uogTrT20.pdf) 
 
-- :material-rename: **Name:** uogTrT20 
+- :material-rename: **Run ID:** uogTrT20 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
 - :material-format-text: **Track:** Deep Learning 
 - :material-calendar: **Year:** 2020 

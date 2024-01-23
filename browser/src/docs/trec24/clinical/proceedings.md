@@ -497,7 +497,6 @@ _André Mourão, Flávio Martins, João Magalhães_
 
 - :fontawesome-solid-user-group: **Participant:** [NovaSearch](./participants.md#novasearch)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec24/papers/NovaSearch-CL.pdf](http://trec.nist.gov/pubs/trec24/papers/NovaSearch-CL.pdf)
-- :material-file-search: **Runs:** 
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/MouraoMM15.bib) "
 	```

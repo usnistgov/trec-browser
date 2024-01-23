@@ -6,7 +6,7 @@ search:
 # Results - Legal 2006 
 
 #### NUSCHUA1 
-[**`Metadata`**](./runs.md#nuschua1), [**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.NUSCHUA1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.NUSCHUA1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.NUSCHUA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/NUSCHUA1.main.pdf)
+[**`Metadata`**](./runs.md#nuschua1), [**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.NUSCHUA1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.NUSCHUA1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.NUSCHUA1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/NUSCHUA1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0264 
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### NUSCHUA2 
-[**`Metadata`**](./runs.md#nuschua2), [**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.NUSCHUA2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.NUSCHUA2.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.NUSCHUA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/NUSCHUA2.main.pdf)
+[**`Metadata`**](./runs.md#nuschua2), [**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.NUSCHUA2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.NUSCHUA2), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.NUSCHUA2), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/NUSCHUA2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0274 
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### UMKCQE100 
-[**`Metadata`**](./runs.md#umkcqe100), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCQE100.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCQE100.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCQE100.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCQE100.main.pdf)
+[**`Metadata`**](./runs.md#umkcqe100), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCQE100.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCQE100), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCQE100), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCQE100.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0172 
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### UMKCSN 
-[**`Metadata`**](./runs.md#umkcsn), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCSN.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCSN.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCSN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCSN.main.pdf)
+[**`Metadata`**](./runs.md#umkcsn), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCSN.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCSN), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCSN), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCSN.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0472 
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### UMKCSW 
-[**`Metadata`**](./runs.md#umkcsw), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCSW.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCSW.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCSW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCSW.main.pdf)
+[**`Metadata`**](./runs.md#umkcsw), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCSW.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCSW), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCSW), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCSW.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0449 
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### UMKCB 
-[**`Metadata`**](./runs.md#umkcb), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCB.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCB.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCB.main.pdf)
+[**`Metadata`**](./runs.md#umkcb), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCB.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCB), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCB), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCB.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0666 
@@ -84,7 +84,7 @@ search:
 	```
 ---
 #### UMKCQE25 
-[**`Metadata`**](./runs.md#umkcqe25), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCQE25.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCQE25.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCQE25.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCQE25.main.pdf)
+[**`Metadata`**](./runs.md#umkcqe25), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCQE25.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCQE25), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCQE25), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCQE25.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0381 
@@ -97,7 +97,7 @@ search:
 	```
 ---
 #### humL06tvo 
-[**`Metadata`**](./runs.md#huml06tvo), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvo.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvo.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvo.main.pdf)
+[**`Metadata`**](./runs.md#huml06tvo), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvo.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvo), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvo), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvo.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0780 
@@ -110,7 +110,7 @@ search:
 	```
 ---
 #### humL06dvo 
-[**`Metadata`**](./runs.md#huml06dvo), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06dvo.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06dvo.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06dvo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06dvo.main.pdf)
+[**`Metadata`**](./runs.md#huml06dvo), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06dvo.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06dvo), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06dvo), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06dvo.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0641 
@@ -123,7 +123,7 @@ search:
 	```
 ---
 #### humL06t0 
-[**`Metadata`**](./runs.md#huml06t0), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06t0.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06t0.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06t0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06t0.main.pdf)
+[**`Metadata`**](./runs.md#huml06t0), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06t0.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06t0), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06t0), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06t0.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0581 
@@ -136,7 +136,7 @@ search:
 	```
 ---
 #### humL06t 
-[**`Metadata`**](./runs.md#huml06t), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06t.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06t.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06t.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06t.main.pdf)
+[**`Metadata`**](./runs.md#huml06t), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06t.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06t), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06t), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06t.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1104 
@@ -149,7 +149,7 @@ search:
 	```
 ---
 #### humL06tv 
-[**`Metadata`**](./runs.md#huml06tv), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tv.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tv.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tv.main.pdf)
+[**`Metadata`**](./runs.md#huml06tv), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tv.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tv), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tv), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tv.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0791 
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### humL06tvz 
-[**`Metadata`**](./runs.md#huml06tvz), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvz.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvz.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvz.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvz.main.pdf)
+[**`Metadata`**](./runs.md#huml06tvz), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvz.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvz.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0118 
@@ -175,7 +175,7 @@ search:
 	```
 ---
 #### humL06tve 
-[**`Metadata`**](./runs.md#huml06tve), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tve.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tve.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tve.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tve.main.pdf)
+[**`Metadata`**](./runs.md#huml06tve), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tve.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tve), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tve), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tve.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0962 
@@ -188,7 +188,7 @@ search:
 	```
 ---
 #### UMKCB2 
-[**`Metadata`**](./runs.md#umkcb2), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCB2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCB2.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCB2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCB2.main.pdf)
+[**`Metadata`**](./runs.md#umkcb2), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCB2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCB2), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCB2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0684 
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### UMKCBQE10 
-[**`Metadata`**](./runs.md#umkcbqe10), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCBQE10.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCBQE10.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCBQE10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCBQE10.main.pdf)
+[**`Metadata`**](./runs.md#umkcbqe10), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCBQE10.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCBQE10), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCBQE10), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCBQE10.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0247 
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### UMKCBQE5 
-[**`Metadata`**](./runs.md#umkcbqe5), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCBQE5.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCBQE5.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCBQE5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCBQE5.main.pdf)
+[**`Metadata`**](./runs.md#umkcbqe5), [**`Participants`**](./participants.md#umkczhao), [**`Proceedings`**](./proceedings.md#experiments-with-query-expansion-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UMKCBQE5.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UMKCBQE5), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UMKCBQE5), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UMKCBQE5.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0487 
@@ -227,7 +227,7 @@ search:
 	```
 ---
 #### UmdBoolAuto 
-[**`Metadata`**](./runs.md#umdboolauto), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBoolAuto.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBoolAuto.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBoolAuto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBoolAuto.main.pdf)
+[**`Metadata`**](./runs.md#umdboolauto), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBoolAuto.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBoolAuto), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBoolAuto), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBoolAuto.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0329 
@@ -240,7 +240,7 @@ search:
 	```
 ---
 #### UmdComb 
-[**`Metadata`**](./runs.md#umdcomb), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdComb.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdComb.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdComb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdComb.main.pdf)
+[**`Metadata`**](./runs.md#umdcomb), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdComb.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdComb), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdComb), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdComb.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0603 
@@ -253,7 +253,7 @@ search:
 	```
 ---
 #### UmdBase 
-[**`Metadata`**](./runs.md#umdbase), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBase.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBase.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBase.main.pdf)
+[**`Metadata`**](./runs.md#umdbase), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBase.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBase), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBase.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0521 
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### UmdBool 
-[**`Metadata`**](./runs.md#umdbool), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBool.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBool.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBool.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBool.main.pdf)
+[**`Metadata`**](./runs.md#umdbool), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.UmdBool.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.UmdBool), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.UmdBool), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/UmdBool.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0532 
@@ -279,7 +279,7 @@ search:
 	```
 ---
 #### humL06tvc 
-[**`Metadata`**](./runs.md#huml06tvc), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvc.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvc.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvc.main.pdf)
+[**`Metadata`**](./runs.md#huml06tvc), [**`Participants`**](./participants.md#hummingbirdtomlinson), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2006-legal-discovery-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.humL06tvc.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.humL06tvc), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.humL06tvc), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/humL06tvc.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0785 
@@ -292,7 +292,7 @@ search:
 	```
 ---
 #### york06la01 
-[**`Metadata`**](./runs.md#york06la01), [**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.york06la01.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.york06la01.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.york06la01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/york06la01.main.pdf)
+[**`Metadata`**](./runs.md#york06la01), [**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.york06la01.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.york06la01), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.york06la01), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/york06la01.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1030 
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### york06la02 
-[**`Metadata`**](./runs.md#york06la02), [**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.york06la02.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.york06la02.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.york06la02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/york06la02.main.pdf)
+[**`Metadata`**](./runs.md#york06la02), [**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2006-legal-track), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.york06la02.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.york06la02), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.york06la02), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/york06la02.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0952 
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### SabLeg06ar1 
-[**`Metadata`**](./runs.md#sableg06ar1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ar1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ar1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ar1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ar1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06ar1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ar1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ar1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ar1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ar1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0846 
@@ -331,7 +331,7 @@ search:
 	```
 ---
 #### SabLeg06arn1 
-[**`Metadata`**](./runs.md#sableg06arn1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06arn1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06arn1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06arn1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06arn1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06arn1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06arn1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06arn1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06arn1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06arn1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1028 
@@ -344,7 +344,7 @@ search:
 	```
 ---
 #### SabLeg06arb1 
-[**`Metadata`**](./runs.md#sableg06arb1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06arb1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06arb1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06arb1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06arb1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06arb1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06arb1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06arb1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06arb1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06arb1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1012 
@@ -357,7 +357,7 @@ search:
 	```
 ---
 #### SabLeg06aa1 
-[**`Metadata`**](./runs.md#sableg06aa1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06aa1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06aa1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06aa1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06aa1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06aa1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06aa1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06aa1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06aa1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06aa1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1064 
@@ -370,7 +370,7 @@ search:
 	```
 ---
 #### SabLeg06ab1 
-[**`Metadata`**](./runs.md#sableg06ab1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ab1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ab1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ab1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ab1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06ab1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ab1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ab1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ab1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ab1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0915 
@@ -383,7 +383,7 @@ search:
 	```
 ---
 #### sableg06ao1 
-[**`Metadata`**](./runs.md#sableg06ao1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.sableg06ao1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.sableg06ao1.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.sableg06ao1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/sableg06ao1.main.pdf)
+[**`Metadata`**](./runs.md#sableg06ao1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.sableg06ao1.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.sableg06ao1), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.sableg06ao1), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/sableg06ao1.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1048 
@@ -396,7 +396,7 @@ search:
 	```
 ---
 #### SabLeg06ao2 
-[**`Metadata`**](./runs.md#sableg06ao2), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ao2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ao2.gz), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ao2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ao2.main.pdf)
+[**`Metadata`**](./runs.md#sableg06ao2), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec15/legal/input.SabLeg06ao2.gz), [**`Summary (trec-eval)`**](https://trec.nist.gov/results/trec15/legal/summary.trec-eval.SabLeg06ao2), [**`Summary (prec-at-B)`**](https://trec.nist.gov/results/trec15/legal/summary.prec-at-B.SabLeg06ao2), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/legal/SabLeg06ao2.main.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1039 

@@ -1,7 +1,7 @@
 # Runs - OpenSearch 2017 
 
 #### Gesis 
-[**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ir-cologne-at-trec-2017-opensearch-track-rerunning-popularity-ranking-experiments-in-a-living-lab), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/open/trec-os-2017.pdf) 
+[**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ir-cologne-at-trec-2017-opensearch-track-rerunning-popularity-ranking-experiments-in-a-living-lab), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/trec-os-2017.pdf) 
 
 - :material-rename: **Run ID:** Gesis 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -10,7 +10,7 @@
 
 ---
 #### ICTNET 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec2017-opensearch-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/open/trec-os-2017.pdf) 
+[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec2017-opensearch-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/trec-os-2017.pdf) 
 
 - :material-rename: **Run ID:** ICTNET 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -19,7 +19,7 @@
 
 ---
 #### Webis 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/open/trec-os-2017.pdf) 
+[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/trec-os-2017.pdf) 
 
 - :material-rename: **Run ID:** Webis 
 - :fontawesome-solid-user-group: **Participant:** Webis 

@@ -1,7 +1,7 @@
 # Runs - Entity 2010 
 
 #### B64 
-[**`Results`**](./results.md#b64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.B64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.B64) 
+[**`Results`**](./results.md#b64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.B64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.B64.gz) 
 
 - :material-rename: **Run ID:** B64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
@@ -15,7 +15,7 @@
 
 ---
 #### bitDSHPRun 
-[**`Results`**](./results.md#bitdshprun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSHPRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSHPRun) 
+[**`Results`**](./results.md#bitdshprun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSHPRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSHPRun.gz) 
 
 - :material-rename: **Run ID:** bitDSHPRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -29,7 +29,7 @@
 
 ---
 #### bitDSRRun 
-[**`Results`**](./results.md#bitdsrrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSRRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSRRun) 
+[**`Results`**](./results.md#bitdsrrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitDSRRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitDSRRun.gz) 
 
 - :material-rename: **Run ID:** bitDSRRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -43,7 +43,7 @@
 
 ---
 #### bitRFRun 
-[**`Results`**](./results.md#bitrfrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitRFRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitRFRun) 
+[**`Results`**](./results.md#bitrfrun), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#reconstruct-logical-hierarchical-sitemap-for-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.bitRFRun.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.bitRFRun.gz) 
 
 - :material-rename: **Run ID:** bitRFRun 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -57,7 +57,7 @@
 
 ---
 #### CARDENSMBLE 
-[**`Results`**](./results.md#cardensmble), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDENSMBLE.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDENSMBLE) 
+[**`Results`**](./results.md#cardensmble), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDENSMBLE.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDENSMBLE.gz) 
 
 - :material-rename: **Run ID:** CARDENSMBLE 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
@@ -71,7 +71,7 @@
 
 ---
 #### CARDFPR 
-[**`Results`**](./results.md#cardfpr), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDFPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDFPR) 
+[**`Results`**](./results.md#cardfpr), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDFPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDFPR.gz) 
 
 - :material-rename: **Run ID:** CARDFPR 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
@@ -85,7 +85,7 @@
 
 ---
 #### CARDHITS 
-[**`Results`**](./results.md#cardhits), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDHITS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDHITS) 
+[**`Results`**](./results.md#cardhits), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDHITS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDHITS.gz) 
 
 - :material-rename: **Run ID:** CARDHITS 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
@@ -99,7 +99,7 @@
 
 ---
 #### CARDSGFCS 
-[**`Results`**](./results.md#cardsgfcs), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDSGFCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDSGFCS) 
+[**`Results`**](./results.md#cardsgfcs), [**`Participants`**](./participants.md#card_ualr), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.CARDSGFCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.CARDSGFCS.gz) 
 
 - :material-rename: **Run ID:** CARDSGFCS 
 - :fontawesome-solid-user-group: **Participant:** CARD_UALR 
@@ -113,7 +113,7 @@
 
 ---
 #### Comp 
-[**`Results`**](./results.md#comp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Comp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Comp) 
+[**`Results`**](./results.md#comp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Comp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Comp.gz) 
 
 - :material-rename: **Run ID:** Comp 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
@@ -127,7 +127,7 @@
 
 ---
 #### Div 
-[**`Results`**](./results.md#div), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Div.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Div) 
+[**`Results`**](./results.md#div), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Div.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Div.gz) 
 
 - :material-rename: **Run ID:** Div 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
@@ -141,7 +141,7 @@
 
 ---
 #### EntityHP 
-[**`Results`**](./results.md#entityhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP) 
+[**`Results`**](./results.md#entityhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP.gz) 
 
 - :material-rename: **Run ID:** EntityHP 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
@@ -155,7 +155,7 @@
 
 ---
 #### EntityHP1 
-[**`Results`**](./results.md#entityhp1), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP1) 
+[**`Results`**](./results.md#entityhp1), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.EntityHP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.EntityHP1.gz) 
 
 - :material-rename: **Run ID:** EntityHP1 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
@@ -169,7 +169,7 @@
 
 ---
 #### FduWimET1 
-[**`Results`**](./results.md#fduwimet1), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET1) 
+[**`Results`**](./results.md#fduwimet1), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET1.gz) 
 
 - :material-rename: **Run ID:** FduWimET1 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
@@ -183,7 +183,7 @@
 
 ---
 #### FduWimET2 
-[**`Results`**](./results.md#fduwimet2), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET2) 
+[**`Results`**](./results.md#fduwimet2), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET2.gz) 
 
 - :material-rename: **Run ID:** FduWimET2 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
@@ -197,7 +197,7 @@
 
 ---
 #### FduWimET3 
-[**`Results`**](./results.md#fduwimet3), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET3) 
+[**`Results`**](./results.md#fduwimet3), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET3.gz) 
 
 - :material-rename: **Run ID:** FduWimET3 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
@@ -211,7 +211,7 @@
 
 ---
 #### FduWimET4 
-[**`Results`**](./results.md#fduwimet4), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET4) 
+[**`Results`**](./results.md#fduwimet4), [**`Participants`**](./participants.md#fdwim2010), [**`Proceedings`**](./proceedings.md#a-multiple-stage-framework-for-related-entity-finding-fdwim-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.FduWimET4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.FduWimET4.gz) 
 
 - :material-rename: **Run ID:** FduWimET4 
 - :fontawesome-solid-user-group: **Participant:** FDWIM2010 
@@ -225,7 +225,7 @@
 
 ---
 #### G16 
-[**`Results`**](./results.md#g16), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G16.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G16) 
+[**`Results`**](./results.md#g16), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G16.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G16.gz) 
 
 - :material-rename: **Run ID:** G16 
 - :fontawesome-solid-user-group: **Participant:** HPI 
@@ -239,7 +239,7 @@
 
 ---
 #### G64 
-[**`Results`**](./results.md#g64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G64) 
+[**`Results`**](./results.md#g64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.G64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.G64.gz) 
 
 - :material-rename: **Run ID:** G64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
@@ -253,7 +253,7 @@
 
 ---
 #### ICTNETRun1 
-[**`Results`**](./results.md#ictnetrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-entity-track-trec-2010), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ICTNETRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ICTNETRun1) 
+[**`Results`**](./results.md#ictnetrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-entity-track-trec-2010), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ICTNETRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ICTNETRun1.gz) 
 
 - :material-rename: **Run ID:** ICTNETRun1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -267,7 +267,7 @@
 
 ---
 #### ilpsA500 
-[**`Results`**](./results.md#ilpsa500), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsA500.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsA500) 
+[**`Results`**](./results.md#ilpsa500), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsA500.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsA500.gz) 
 
 - :material-rename: **Run ID:** ilpsA500 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -281,7 +281,7 @@
 
 ---
 #### ilpsM50 
-[**`Results`**](./results.md#ilpsm50), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50) 
+[**`Results`**](./results.md#ilpsm50), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50.gz) 
 
 - :material-rename: **Run ID:** ilpsM50 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -295,7 +295,7 @@
 
 ---
 #### ilpsM50agfil 
-[**`Results`**](./results.md#ilpsm50agfil), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50agfil.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50agfil) 
+[**`Results`**](./results.md#ilpsm50agfil), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50agfil.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50agfil.gz) 
 
 - :material-rename: **Run ID:** ilpsM50agfil 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -309,7 +309,7 @@
 
 ---
 #### ilpsM50var 
-[**`Results`**](./results.md#ilpsm50var), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50var.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50var) 
+[**`Results`**](./results.md#ilpsm50var), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsM50var.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsM50var.gz) 
 
 - :material-rename: **Run ID:** ilpsM50var 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -323,7 +323,7 @@
 
 ---
 #### ilpsSetOL 
-[**`Results`**](./results.md#ilpssetol), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOL.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOL) 
+[**`Results`**](./results.md#ilpssetol), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOL.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOL.gz) 
 
 - :material-rename: **Run ID:** ilpsSetOL 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -337,7 +337,7 @@
 
 ---
 #### ilpsSetOLnar 
-[**`Results`**](./results.md#ilpssetolnar), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOLnar.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOLnar) 
+[**`Results`**](./results.md#ilpssetolnar), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ilpsSetOLnar.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ilpsSetOLnar.gz) 
 
 - :material-rename: **Run ID:** ilpsSetOLnar 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -351,7 +351,7 @@
 
 ---
 #### KMR1PU 
-[**`Results`**](./results.md#kmr1pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR1PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR1PU) 
+[**`Results`**](./results.md#kmr1pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR1PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR1PU.gz) 
 
 - :material-rename: **Run ID:** KMR1PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
@@ -365,7 +365,7 @@
 
 ---
 #### KMR3PU 
-[**`Results`**](./results.md#kmr3pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR3PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR3PU) 
+[**`Results`**](./results.md#kmr3pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR3PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR3PU.gz) 
 
 - :material-rename: **Run ID:** KMR3PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
@@ -379,7 +379,7 @@
 
 ---
 #### KMR5PU 
-[**`Results`**](./results.md#kmr5pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR5PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR5PU) 
+[**`Results`**](./results.md#kmr5pu), [**`Participants`**](./participants.md#purdue_ir), [**`Proceedings`**](./proceedings.md#purdue-at-trec-2010-entity-track-a-probabilistic-framework-for-matching-types-between-candidate-and-target-entities), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.KMR5PU.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.KMR5PU.gz) 
 
 - :material-rename: **Run ID:** KMR5PU 
 - :fontawesome-solid-user-group: **Participant:** Purdue_IR 
@@ -393,7 +393,7 @@
 
 ---
 #### LearnDPI 
-[**`Results`**](./results.md#learndpi), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LearnDPI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LearnDPI) 
+[**`Results`**](./results.md#learndpi), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LearnDPI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LearnDPI.gz) 
 
 - :material-rename: **Run ID:** LearnDPI 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
@@ -407,7 +407,7 @@
 
 ---
 #### LiraSealClwb 
-[**`Results`**](./results.md#lirasealclwb), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealClwb.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealClwb) 
+[**`Results`**](./results.md#lirasealclwb), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealClwb.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealClwb.gz) 
 
 - :material-rename: **Run ID:** LiraSealClwb 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -421,7 +421,7 @@
 
 ---
 #### LiraSealgoog 
-[**`Results`**](./results.md#lirasealgoog), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealgoog.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealgoog) 
+[**`Results`**](./results.md#lirasealgoog), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#entity-list-completion-using-set-expansion-techniques), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.LiraSealgoog.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.LiraSealgoog.gz) 
 
 - :material-rename: **Run ID:** LiraSealgoog 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -435,7 +435,7 @@
 
 ---
 #### PRIS1 
-[**`Results`**](./results.md#pris1), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS1) 
+[**`Results`**](./results.md#pris1), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS1.gz) 
 
 - :material-rename: **Run ID:** PRIS1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -449,7 +449,7 @@
 
 ---
 #### PRIS2 
-[**`Results`**](./results.md#pris2), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS2) 
+[**`Results`**](./results.md#pris2), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS2.gz) 
 
 - :material-rename: **Run ID:** PRIS2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -463,7 +463,7 @@
 
 ---
 #### PRIS3 
-[**`Results`**](./results.md#pris3), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS3) 
+[**`Results`**](./results.md#pris3), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS3.gz) 
 
 - :material-rename: **Run ID:** PRIS3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -477,7 +477,7 @@
 
 ---
 #### PRIS4 
-[**`Results`**](./results.md#pris4), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS4) 
+[**`Results`**](./results.md#pris4), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2010-related-entity-finding-task-of-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.PRIS4.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.PRIS4.gz) 
 
 - :material-rename: **Run ID:** PRIS4 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -491,7 +491,7 @@
 
 ---
 #### RanksDivComp 
-[**`Results`**](./results.md#ranksdivcomp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.RanksDivComp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.RanksDivComp) 
+[**`Results`**](./results.md#ranksdivcomp), [**`Participants`**](./participants.md#lia_uapv), [**`Proceedings`**](./proceedings.md#lia-ismart-at-trec-2010-an-unsupervised-web-based-approach-for-filtering-answers), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.RanksDivComp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.RanksDivComp.gz) 
 
 - :material-rename: **Run ID:** RanksDivComp 
 - :fontawesome-solid-user-group: **Participant:** LIA_UAPV 
@@ -505,7 +505,7 @@
 
 ---
 #### SIEL10RUN1 
-[**`Results`**](./results.md#siel10run1), [**`Participants`**](./participants.md#siel10), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIEL10RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIEL10RUN1) 
+[**`Results`**](./results.md#siel10run1), [**`Participants`**](./participants.md#siel10), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIEL10RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIEL10RUN1.gz) 
 
 - :material-rename: **Run ID:** SIEL10RUN1 
 - :fontawesome-solid-user-group: **Participant:** siel10 
@@ -519,7 +519,7 @@
 
 ---
 #### SIELRUN1 
-[**`Results`**](./results.md#sielrun1), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN1) 
+[**`Results`**](./results.md#sielrun1), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN1.gz) 
 
 - :material-rename: **Run ID:** SIELRUN1 
 - :fontawesome-solid-user-group: **Participant:** SIEL_IIITH 
@@ -533,7 +533,7 @@
 
 ---
 #### SIELRUN2 
-[**`Results`**](./results.md#sielrun2), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN2) 
+[**`Results`**](./results.md#sielrun2), [**`Participants`**](./participants.md#siel_iiith), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SIELRUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SIELRUN2.gz) 
 
 - :material-rename: **Run ID:** SIELRUN2 
 - :fontawesome-solid-user-group: **Participant:** SIEL_IIITH 
@@ -547,7 +547,7 @@
 
 ---
 #### Supp 
-[**`Results`**](./results.md#supp), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Supp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Supp) 
+[**`Results`**](./results.md#supp), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Supp.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Supp.gz) 
 
 - :material-rename: **Run ID:** Supp 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
@@ -561,7 +561,7 @@
 
 ---
 #### SuppHome 
-[**`Results`**](./results.md#supphome), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHome.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHome) 
+[**`Results`**](./results.md#supphome), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHome.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHome.gz) 
 
 - :material-rename: **Run ID:** SuppHome 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
@@ -575,7 +575,7 @@
 
 ---
 #### SuppHomeIsA 
-[**`Results`**](./results.md#supphomeisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHomeIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHomeIsA) 
+[**`Results`**](./results.md#supphomeisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppHomeIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppHomeIsA.gz) 
 
 - :material-rename: **Run ID:** SuppHomeIsA 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
@@ -589,7 +589,7 @@
 
 ---
 #### SuppIsA 
-[**`Results`**](./results.md#suppisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppIsA) 
+[**`Results`**](./results.md#suppisa), [**`Participants`**](./participants.md#nict), [**`Proceedings`**](./proceedings.md#nict-at-trec-2010-related-entity-finding), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.SuppIsA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.SuppIsA.gz) 
 
 - :material-rename: **Run ID:** SuppIsA 
 - :fontawesome-solid-user-group: **Participant:** NiCT 
@@ -603,7 +603,7 @@
 
 ---
 #### UAbaseanchB 
-[**`Results`**](./results.md#uabaseanchb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaseanchB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaseanchB) 
+[**`Results`**](./results.md#uabaseanchb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaseanchB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaseanchB.gz) 
 
 - :material-rename: **Run ID:** UAbaseanchB 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -617,7 +617,7 @@
 
 ---
 #### UAbaselinkA 
-[**`Results`**](./results.md#uabaselinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaselinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaselinkA) 
+[**`Results`**](./results.md#uabaselinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAbaselinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAbaselinkA.gz) 
 
 - :material-rename: **Run ID:** UAbaselinkA 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -631,7 +631,7 @@
 
 ---
 #### UAcatscombB 
-[**`Results`**](./results.md#uacatscombb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatscombB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatscombB) 
+[**`Results`**](./results.md#uacatscombb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatscombB.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatscombB.gz) 
 
 - :material-rename: **Run ID:** UAcatscombB 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -645,7 +645,7 @@
 
 ---
 #### UAcatslinkA 
-[**`Results`**](./results.md#uacatslinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatslinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatslinkA) 
+[**`Results`**](./results.md#uacatslinka), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UAcatslinkA.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UAcatslinkA.gz) 
 
 - :material-rename: **Run ID:** UAcatslinkA 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -659,7 +659,7 @@
 
 ---
 #### UWAT1 
-[**`Results`**](./results.md#uwat1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT1) 
+[**`Results`**](./results.md#uwat1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT1.gz) 
 
 - :material-rename: **Run ID:** UWAT1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -673,7 +673,7 @@
 
 ---
 #### UWAT2 
-[**`Results`**](./results.md#uwat2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT2) 
+[**`Results`**](./results.md#uwat2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWAT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWAT2.gz) 
 
 - :material-rename: **Run ID:** UWAT2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -687,7 +687,7 @@
 
 ---
 #### UWEntTI 
-[**`Results`**](./results.md#uwentti), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWEntTI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWEntTI) 
+[**`Results`**](./results.md#uwentti), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#related-entity-finding-university-of-waterloo-at-trec-2010-entity-track), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.UWEntTI.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.UWEntTI.gz) 
 
 - :material-rename: **Run ID:** UWEntTI 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -701,7 +701,7 @@
 
 ---
 #### ValueDoc 
-[**`Results`**](./results.md#valuedoc), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ValueDoc.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ValueDoc) 
+[**`Results`**](./results.md#valuedoc), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.ValueDoc.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.ValueDoc.gz) 
 
 - :material-rename: **Run ID:** ValueDoc 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 
@@ -715,7 +715,7 @@
 
 ---
 #### Y64 
-[**`Results`**](./results.md#y64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Y64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Y64) 
+[**`Results`**](./results.md#y64), [**`Participants`**](./participants.md#hpi), [**`Proceedings`**](./proceedings.md#ecir-a-lightweight-approach-for-entity-centric-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.Y64.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.Y64.gz) 
 
 - :material-rename: **Run ID:** Y64 
 - :fontawesome-solid-user-group: **Participant:** HPI 
@@ -729,7 +729,7 @@
 
 ---
 #### YahooEnHP 
-[**`Results`**](./results.md#yahooenhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.YahooEnHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.YahooEnHP) 
+[**`Results`**](./results.md#yahooenhp), [**`Participants`**](./participants.md#pittsis), [**`Proceedings`**](./proceedings.md#searching-for-entities-when-retrieval-meets-extraction), [**`Input`**](https://trec.nist.gov/results/trec19/entity/input.YahooEnHP.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/entity/summary.YahooEnHP.gz) 
 
 - :material-rename: **Run ID:** YahooEnHP 
 - :fontawesome-solid-user-group: **Participant:** PITTSIS 

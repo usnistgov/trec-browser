@@ -1,7 +1,7 @@
 # Runs - Legal 2008 
 
 #### adhocpool08 
-[**`Results`**](./results.md#adhocpool08), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary`**](https://trec.nist.gov/results/trec17/legal/summary.adhocpool08), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#adhocpool08), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** adhocpool08 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -14,7 +14,7 @@
 
 ---
 #### Clearwell08 
-[**`Results`**](./results.md#clearwell08), [**`Participants`**](./participants.md#clearwell), [**`Summary`**](https://trec.nist.gov/results/trec17/legal/summary.Clearwell08), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#clearwell08), [**`Participants`**](./participants.md#clearwell), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** Clearwell08 
 - :fontawesome-solid-user-group: **Participant:** Clearwell 
@@ -139,7 +139,7 @@
 
 ---
 #### H52008 
-[**`Results`**](./results.md#h52008), [**`Participants`**](./participants.md#h5_2008), [**`Proceedings`**](./proceedings.md#h5-at-trec-2008-legal-interactive-user-modeling-assessment-measurement), [**`Summary`**](https://trec.nist.gov/results/trec17/legal/summary.H52008), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#h52008), [**`Participants`**](./participants.md#h5_2008), [**`Proceedings`**](./proceedings.md#h5-at-trec-2008-legal-interactive-user-modeling-assessment-measurement), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** H52008 
 - :fontawesome-solid-user-group: **Participant:** H5_2008 
@@ -600,7 +600,7 @@
 
 ---
 #### PittSIST1 
-[**`Results`**](./results.md#pittsist1), [**`Participants`**](./participants.md#pitt_ir_team), [**`Proceedings`**](./proceedings.md#pitt-trec08-an-initial-study-of-collaborative-information-behavior-in-e-discovery), [**`Summary`**](https://trec.nist.gov/results/trec17/legal/summary.PittSIST1), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#pittsist1), [**`Participants`**](./participants.md#pitt_ir_team), [**`Proceedings`**](./proceedings.md#pitt-trec08-an-initial-study-of-collaborative-information-behavior-in-e-discovery), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** PittSIST1 
 - :fontawesome-solid-user-group: **Participant:** Pitt_IR_Team 
@@ -767,7 +767,7 @@
 
 ---
 #### ublegal08 
-[**`Results`**](./results.md#ublegal08), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Summary`**](https://trec.nist.gov/results/trec17/legal/summary.ublegal08), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#ublegal08), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** ublegal08 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 

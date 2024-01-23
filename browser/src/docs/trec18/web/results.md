@@ -6,7 +6,7 @@ search:
 # Results - Web 2009 
 
 #### pkuSewmTp 
-[**`Metadata`**](./runs.md#pkusewmtp), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuSewmTp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pkuSewmTp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuSewmTp.pdf)
+[**`Metadata`**](./runs.md#pkusewmtp), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuSewmTp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuSewmTp.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0592 
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### watwp 
-[**`Metadata`**](./runs.md#watwp), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watwp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.watwp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watwp.pdf)
+[**`Metadata`**](./runs.md#watwp), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watwp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watwp.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0511 
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### watrrfw 
-[**`Metadata`**](./runs.md#watrrfw), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watrrfw.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.watrrfw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watrrfw.pdf)
+[**`Metadata`**](./runs.md#watrrfw), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watrrfw.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watrrfw.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0895 
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### UMHOObm25GS 
-[**`Metadata`**](./runs.md#umhoobm25gs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25GS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMHOObm25GS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25GS.pdf)
+[**`Metadata`**](./runs.md#umhoobm25gs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25GS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25GS.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0694 
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### UMHOObm25IF 
-[**`Metadata`**](./runs.md#umhoobm25if), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25IF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMHOObm25IF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25IF.pdf)
+[**`Metadata`**](./runs.md#umhoobm25if), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25IF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25IF.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0404 
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### UMHOOqlGS 
-[**`Metadata`**](./runs.md#umhooqlgs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlGS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMHOOqlGS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlGS.pdf)
+[**`Metadata`**](./runs.md#umhooqlgs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlGS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlGS.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0601 
@@ -84,7 +84,7 @@ search:
 	```
 ---
 #### UMHOOqlIF 
-[**`Metadata`**](./runs.md#umhooqlif), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlIF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMHOOqlIF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlIF.pdf)
+[**`Metadata`**](./runs.md#umhooqlif), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlIF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlIF.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0564 
@@ -97,7 +97,7 @@ search:
 	```
 ---
 #### yhooumd09BGM 
-[**`Metadata`**](./runs.md#yhooumd09bgm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yhooumd09BGM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGM.pdf)
+[**`Metadata`**](./runs.md#yhooumd09bgm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGM.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0650 
@@ -110,7 +110,7 @@ search:
 	```
 ---
 #### pkuStruct 
-[**`Metadata`**](./runs.md#pkustruct), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pkuStruct.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuStruct.pdf)
+[**`Metadata`**](./runs.md#pkustruct), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuStruct.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0618 
@@ -123,7 +123,7 @@ search:
 	```
 ---
 #### yhooumd09BGC 
-[**`Metadata`**](./runs.md#yhooumd09bgc), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yhooumd09BGC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGC.pdf)
+[**`Metadata`**](./runs.md#yhooumd09bgc), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGC.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0736 
@@ -136,7 +136,7 @@ search:
 	```
 ---
 #### yhooumd09BFM 
-[**`Metadata`**](./runs.md#yhooumd09bfm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BFM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yhooumd09BFM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BFM.pdf)
+[**`Metadata`**](./runs.md#yhooumd09bfm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BFM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BFM.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0383 
@@ -149,7 +149,7 @@ search:
 	```
 ---
 #### pkuLink 
-[**`Metadata`**](./runs.md#pkulink), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuLink.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pkuLink.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuLink.pdf)
+[**`Metadata`**](./runs.md#pkulink), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuLink.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuLink.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0449 
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### THUIR09An 
-[**`Metadata`**](./runs.md#thuir09an), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09An.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR09An.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09An.pdf)
+[**`Metadata`**](./runs.md#thuir09an), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09An.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09An.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0502 
@@ -175,7 +175,7 @@ search:
 	```
 ---
 #### THUIR09TxAn 
-[**`Metadata`**](./runs.md#thuir09txan), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09TxAn.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR09TxAn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09TxAn.pdf)
+[**`Metadata`**](./runs.md#thuir09txan), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09TxAn.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09TxAn.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0715 
@@ -188,7 +188,7 @@ search:
 	```
 ---
 #### Sab9wtBase 
-[**`Metadata`**](./runs.md#sab9wtbase), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Sab9wtBase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBase.pdf)
+[**`Metadata`**](./runs.md#sab9wtbase), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBase.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0372 
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### Sab9wtBf1 
-[**`Metadata`**](./runs.md#sab9wtbf1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Sab9wtBf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf1.pdf)
+[**`Metadata`**](./runs.md#sab9wtbf1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf1.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0523 
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### Sab9wtBf2 
-[**`Metadata`**](./runs.md#sab9wtbf2), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Sab9wtBf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf2.pdf)
+[**`Metadata`**](./runs.md#sab9wtbf2), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf2.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0443 
@@ -227,7 +227,7 @@ search:
 	```
 ---
 #### uvaee 
-[**`Metadata`**](./runs.md#uvaee), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaee.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uvaee.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvaee.pdf)
+[**`Metadata`**](./runs.md#uvaee), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaee.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvaee.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0682 
@@ -240,7 +240,7 @@ search:
 	```
 ---
 #### uvamrf 
-[**`Metadata`**](./runs.md#uvamrf), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uvamrf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrf.pdf)
+[**`Metadata`**](./runs.md#uvamrf), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrf.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0626 
@@ -253,7 +253,7 @@ search:
 	```
 ---
 #### uvamrftop 
-[**`Metadata`**](./runs.md#uvamrftop), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrftop.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uvamrftop.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrftop.pdf)
+[**`Metadata`**](./runs.md#uvamrftop), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrftop.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrftop.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1092 
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### twCSrs9N 
-[**`Metadata`**](./runs.md#twcsrs9n), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrs9N.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.twCSrs9N.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrs9N.pdf)
+[**`Metadata`**](./runs.md#twcsrs9n), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrs9N.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrs9N.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0297 
@@ -279,7 +279,7 @@ search:
 	```
 ---
 #### twCSrsR 
-[**`Metadata`**](./runs.md#twcsrsr), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrsR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.twCSrsR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrsR.pdf)
+[**`Metadata`**](./runs.md#twcsrsr), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrsR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrsR.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0403 
@@ -292,7 +292,7 @@ search:
 	```
 ---
 #### twJ48rsU 
-[**`Metadata`**](./runs.md#twj48rsu), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twJ48rsU.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.twJ48rsU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twJ48rsU.pdf)
+[**`Metadata`**](./runs.md#twj48rsu), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twJ48rsU.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twJ48rsU.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0284 
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### WatSdmrm3 
-[**`Metadata`**](./runs.md#watsdmrm3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.WatSdmrm3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3.pdf)
+[**`Metadata`**](./runs.md#watsdmrm3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0625 
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### WatSql 
-[**`Metadata`**](./runs.md#watsql), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSql.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.WatSql.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSql.pdf)
+[**`Metadata`**](./runs.md#watsql), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSql.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSql.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0564 
@@ -331,7 +331,7 @@ search:
 	```
 ---
 #### WatSdmrm3we 
-[**`Metadata`**](./runs.md#watsdmrm3we), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3we.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.WatSdmrm3we.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3we.pdf)
+[**`Metadata`**](./runs.md#watsdmrm3we), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3we.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3we.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0976 
@@ -344,7 +344,7 @@ search:
 	```
 ---
 #### THUIR09LuTA 
-[**`Metadata`**](./runs.md#thuir09luta), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09LuTA.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR09LuTA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09LuTA.pdf)
+[**`Metadata`**](./runs.md#thuir09luta), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09LuTA.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09LuTA.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0522 
@@ -357,7 +357,7 @@ search:
 	```
 ---
 #### MS1 
-[**`Metadata`**](./runs.md#ms1), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS1.pdf)
+[**`Metadata`**](./runs.md#ms1), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS1.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0651 
@@ -370,7 +370,7 @@ search:
 	```
 ---
 #### uogTrdphP 
-[**`Metadata`**](./runs.md#uogtrdphp), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTrdphP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uogTrdphP.pdf)
+[**`Metadata`**](./runs.md#uogtrdphp), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uogTrdphP.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0671 
@@ -383,7 +383,7 @@ search:
 	```
 ---
 #### muadibm5 
-[**`Metadata`**](./runs.md#muadibm5), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadibm5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.muadibm5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadibm5.pdf)
+[**`Metadata`**](./runs.md#muadibm5), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadibm5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadibm5.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0441 
@@ -396,7 +396,7 @@ search:
 	```
 ---
 #### muadimp 
-[**`Metadata`**](./runs.md#muadimp), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadimp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.muadimp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadimp.pdf)
+[**`Metadata`**](./runs.md#muadimp), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadimp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadimp.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0442 
@@ -409,7 +409,7 @@ search:
 	```
 ---
 #### MS2 
-[**`Metadata`**](./runs.md#ms2), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS2.pdf)
+[**`Metadata`**](./runs.md#ms2), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS2.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0866 
@@ -422,7 +422,7 @@ search:
 	```
 ---
 #### muadanchor 
-[**`Metadata`**](./runs.md#muadanchor), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadanchor.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.muadanchor.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadanchor.pdf)
+[**`Metadata`**](./runs.md#muadanchor), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadanchor.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadanchor.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0255 
@@ -435,7 +435,7 @@ search:
 	```
 ---
 #### MSRANORM 
-[**`Metadata`**](./runs.md#msranorm), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRANORM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRANORM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRANORM.pdf)
+[**`Metadata`**](./runs.md#msranorm), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRANORM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRANORM.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0832 
@@ -448,7 +448,7 @@ search:
 	```
 ---
 #### MSRAAF 
-[**`Metadata`**](./runs.md#msraaf), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAAF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAAF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAAF.pdf)
+[**`Metadata`**](./runs.md#msraaf), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAAF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAAF.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0829 
@@ -461,7 +461,7 @@ search:
 	```
 ---
 #### MSRAC 
-[**`Metadata`**](./runs.md#msrac), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAC.pdf)
+[**`Metadata`**](./runs.md#msrac), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAC.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0867 
@@ -474,7 +474,7 @@ search:
 	```
 ---
 #### watprf 
-[**`Metadata`**](./runs.md#watprf), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watprf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.watprf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watprf.pdf)
+[**`Metadata`**](./runs.md#watprf), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watprf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watprf.adhoc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0669 

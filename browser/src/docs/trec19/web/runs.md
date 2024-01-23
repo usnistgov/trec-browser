@@ -1,7 +1,7 @@
 # Runs - Web 2010 
 
 #### 1 
-[**`Results`**](./results.md#1), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/1-all.pdf) 
+[**`Results`**](./results.md#1), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/1.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
 
 - :material-rename: **Run ID:** 1 
 - :fontawesome-solid-user-group: **Participant:** budapest_acad 
@@ -13,7 +13,7 @@
 
 ---
 #### 2 
-[**`Results`**](./results.md#2), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.2.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/2-all.pdf) 
+[**`Results`**](./results.md#2), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/2.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
 
 - :material-rename: **Run ID:** 2 
 - :fontawesome-solid-user-group: **Participant:** budapest_acad 
@@ -220,7 +220,7 @@
 
 ---
 #### ICTNETSP10R1 
-[**`Results`**](./results.md#ictnetsp10r1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETSP10R1.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.ICTNETSP10R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/ICTNETSP10R1-all.pdf) 
+[**`Results`**](./results.md#ictnetsp10r1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/ICTNETSP10R1.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.ICTNETSP10R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/ICTNETSP10R1-all.pdf) 
 
 - :material-rename: **Run ID:** ICTNETSP10R1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -271,7 +271,7 @@
 
 ---
 #### IVORY.70.30 
-[**`Results`**](./results.md#ivory7030), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IVORY.70.30.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.70.30.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.70.30-all.pdf) 
+[**`Results`**](./results.md#ivory7030), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.70.30.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.70.30.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.70.30-all.pdf) 
 
 - :material-rename: **Run ID:** IVORY.70.30 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -284,7 +284,7 @@
 
 ---
 #### IVORY.90.10 
-[**`Results`**](./results.md#ivory9010), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IVORY.90.10.gz), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.90.10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.90.10-all.pdf) 
+[**`Results`**](./results.md#ivory9010), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.90.10.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.90.10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.90.10-all.pdf) 
 
 - :material-rename: **Run ID:** IVORY.90.10 
 - :fontawesome-solid-user-group: **Participant:** UMD 

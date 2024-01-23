@@ -6,7 +6,7 @@ search:
 # Results - Conversational Assistance 2019 
 
 #### mpi_bert 
-[**`Metadata`**](./runs.md#mpi_bert), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi_bert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi_bert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi_bert.pdf)
+[**`Metadata`**](./runs.md#mpi_bert), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi_bert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi_bert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi_bert.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1670 
@@ -26,7 +26,7 @@ search:
 	```
 ---
 #### mpi_base 
-[**`Metadata`**](./runs.md#mpi_base), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi_base.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi_base), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi_base.pdf)
+[**`Metadata`**](./runs.md#mpi_base), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi_base.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi_base), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi_base.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1740 
@@ -46,7 +46,7 @@ search:
 	```
 ---
 #### BM25_BERT_FC 
-[**`Metadata`**](./runs.md#bm25_bert_fc), [**`Participants`**](./participants.md#ruir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.BM25_BERT_FC.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.BM25_BERT_FC), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/BM25_BERT_FC.pdf)
+[**`Metadata`**](./runs.md#bm25_bert_fc), [**`Participants`**](./participants.md#ruir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.BM25_BERT_FC.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.BM25_BERT_FC), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/BM25_BERT_FC.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1592 
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### BM25_BERT_RANKF 
-[**`Metadata`**](./runs.md#bm25_bert_rankf), [**`Participants`**](./participants.md#ruir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.BM25_BERT_RANKF.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.BM25_BERT_RANKF), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/BM25_BERT_RANKF.pdf)
+[**`Metadata`**](./runs.md#bm25_bert_rankf), [**`Participants`**](./participants.md#ruir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.BM25_BERT_RANKF.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.BM25_BERT_RANKF), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/BM25_BERT_RANKF.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1590 
@@ -86,7 +86,7 @@ search:
 	```
 ---
 #### galago_rel_q 
-[**`Metadata`**](./runs.md#galago_rel_q), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.galago_rel_q.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.galago_rel_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/galago_rel_q.pdf)
+[**`Metadata`**](./runs.md#galago_rel_q), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.galago_rel_q.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.galago_rel_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/galago_rel_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1051 
@@ -106,7 +106,7 @@ search:
 	```
 ---
 #### bertrr_rel_q 
-[**`Metadata`**](./runs.md#bertrr_rel_q), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.bertrr_rel_q.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.bertrr_rel_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/bertrr_rel_q.pdf)
+[**`Metadata`**](./runs.md#bertrr_rel_q), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.bertrr_rel_q.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.bertrr_rel_q), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/bertrr_rel_q.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1417 
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### galago_rel_1st 
-[**`Metadata`**](./runs.md#galago_rel_1st), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.galago_rel_1st.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.galago_rel_1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/galago_rel_1st.pdf)
+[**`Metadata`**](./runs.md#galago_rel_1st), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.galago_rel_1st.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.galago_rel_1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/galago_rel_1st.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1124 
@@ -146,7 +146,7 @@ search:
 	```
 ---
 #### bertrr_rel_1st 
-[**`Metadata`**](./runs.md#bertrr_rel_1st), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.bertrr_rel_1st.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.bertrr_rel_1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/bertrr_rel_1st.pdf)
+[**`Metadata`**](./runs.md#bertrr_rel_1st), [**`Participants`**](./participants.md#usi), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.bertrr_rel_1st.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.bertrr_rel_1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/bertrr_rel_1st.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1463 
@@ -166,7 +166,7 @@ search:
 	```
 ---
 #### clacBase 
-[**`Metadata`**](./runs.md#clacbase), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.clacBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacBase.pdf)
+[**`Metadata`**](./runs.md#clacbase), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.clacBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacBase.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2479 
@@ -186,7 +186,7 @@ search:
 	```
 ---
 #### clacBaseRerank 
-[**`Metadata`**](./runs.md#clacbasererank), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacBaseRerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.clacBaseRerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacBaseRerank.pdf)
+[**`Metadata`**](./runs.md#clacbasererank), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacBaseRerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.clacBaseRerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacBaseRerank.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2456 
@@ -206,7 +206,7 @@ search:
 	```
 ---
 #### clacMagic 
-[**`Metadata`**](./runs.md#clacmagic), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacMagic.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.clacMagic), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacMagic.pdf)
+[**`Metadata`**](./runs.md#clacmagic), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacMagic.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.clacMagic), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacMagic.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3037 
@@ -226,7 +226,7 @@ search:
 	```
 ---
 #### clacMagicRerank 
-[**`Metadata`**](./runs.md#clacmagicrerank), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacMagicRerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.clacMagicRerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacMagicRerank.pdf)
+[**`Metadata`**](./runs.md#clacmagicrerank), [**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.clacMagicRerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.clacMagicRerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/clacMagicRerank.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3028 
@@ -246,7 +246,7 @@ search:
 	```
 ---
 #### MPmlp 
-[**`Metadata`**](./runs.md#mpmlp), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.MPmlp.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.MPmlp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/MPmlp.pdf)
+[**`Metadata`**](./runs.md#mpmlp), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.MPmlp.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.MPmlp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/MPmlp.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0540 
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### MPgate 
-[**`Metadata`**](./runs.md#mpgate), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.MPgate.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.MPgate), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/MPgate.pdf)
+[**`Metadata`**](./runs.md#mpgate), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.MPgate.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.MPgate), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/MPgate.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0536 
@@ -286,7 +286,7 @@ search:
 	```
 ---
 #### SMNmlp 
-[**`Metadata`**](./runs.md#smnmlp), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.SMNmlp.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.SMNmlp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/SMNmlp.pdf)
+[**`Metadata`**](./runs.md#smnmlp), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.SMNmlp.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.SMNmlp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/SMNmlp.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0605 
@@ -306,7 +306,7 @@ search:
 	```
 ---
 #### UDInfoC_BL 
-[**`Metadata`**](./runs.md#udinfoc_bl), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_BL.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UDInfoC_BL), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_BL.pdf)
+[**`Metadata`**](./runs.md#udinfoc_bl), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_BL.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UDInfoC_BL), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_BL.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0753 
@@ -326,7 +326,7 @@ search:
 	```
 ---
 #### ilps-lm-rm3-dt 
-[**`Metadata`**](./runs.md#ilps-lm-rm3-dt), [**`Participants`**](./participants.md#uvailps), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-lm-rm3-dt.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ilps-lm-rm3-dt), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-lm-rm3-dt.pdf)
+[**`Metadata`**](./runs.md#ilps-lm-rm3-dt), [**`Participants`**](./participants.md#uvailps), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-lm-rm3-dt.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ilps-lm-rm3-dt), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-lm-rm3-dt.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2307 
@@ -346,7 +346,7 @@ search:
 	```
 ---
 #### ilps-bert-feat1 
-[**`Metadata`**](./runs.md#ilps-bert-feat1), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-feat1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ilps-bert-feat1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-feat1.pdf)
+[**`Metadata`**](./runs.md#ilps-bert-feat1), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-feat1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ilps-bert-feat1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-feat1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2614 
@@ -366,7 +366,7 @@ search:
 	```
 ---
 #### ilps-bert-feat2 
-[**`Metadata`**](./runs.md#ilps-bert-feat2), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-feat2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ilps-bert-feat2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-feat2.pdf)
+[**`Metadata`**](./runs.md#ilps-bert-feat2), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-feat2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ilps-bert-feat2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-feat2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2576 
@@ -386,7 +386,7 @@ search:
 	```
 ---
 #### SMNgate 
-[**`Metadata`**](./runs.md#smngate), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.SMNgate.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.SMNgate), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/SMNgate.pdf)
+[**`Metadata`**](./runs.md#smngate), [**`Participants`**](./participants.md#rali), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.SMNgate.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.SMNgate), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/SMNgate.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0296 
@@ -406,7 +406,7 @@ search:
 	```
 ---
 #### UDInfoC_TS 
-[**`Metadata`**](./runs.md#udinfoc_ts), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_TS.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UDInfoC_TS), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_TS.pdf)
+[**`Metadata`**](./runs.md#udinfoc_ts), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_TS.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UDInfoC_TS), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_TS.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0670 
@@ -426,7 +426,7 @@ search:
 	```
 ---
 #### RUCIR-run3 
-[**`Metadata`**](./runs.md#rucir-run3), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.RUCIR-run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run3.pdf)
+[**`Metadata`**](./runs.md#rucir-run3), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.RUCIR-run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0930 
@@ -446,7 +446,7 @@ search:
 	```
 ---
 #### RUCIR-run1 
-[**`Metadata`**](./runs.md#rucir-run1), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.RUCIR-run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run1.pdf)
+[**`Metadata`**](./runs.md#rucir-run1), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.RUCIR-run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1635 
@@ -466,7 +466,7 @@ search:
 	```
 ---
 #### RUCIR-run2 
-[**`Metadata`**](./runs.md#rucir-run2), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.RUCIR-run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run2.pdf)
+[**`Metadata`**](./runs.md#rucir-run2), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.RUCIR-run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0924 
@@ -486,7 +486,7 @@ search:
 	```
 ---
 #### coref_shift_qe 
-[**`Metadata`**](./runs.md#coref_shift_qe), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.coref_shift_qe.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.coref_shift_qe), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/coref_shift_qe.pdf)
+[**`Metadata`**](./runs.md#coref_shift_qe), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.coref_shift_qe.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.coref_shift_qe), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/coref_shift_qe.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2247 
@@ -506,7 +506,7 @@ search:
 	```
 ---
 #### RUCIR-run4 
-[**`Metadata`**](./runs.md#rucir-run4), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.RUCIR-run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run4.pdf)
+[**`Metadata`**](./runs.md#rucir-run4), [**`Participants`**](./participants.md#rucir), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.RUCIR-run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.RUCIR-run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/RUCIR-run4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1058 
@@ -526,7 +526,7 @@ search:
 	```
 ---
 #### ensemble 
-[**`Metadata`**](./runs.md#ensemble), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ensemble.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ensemble), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ensemble.pdf)
+[**`Metadata`**](./runs.md#ensemble), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ensemble.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ensemble), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ensemble.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2589 
@@ -546,7 +546,7 @@ search:
 	```
 ---
 #### coref_cshift 
-[**`Metadata`**](./runs.md#coref_cshift), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.coref_cshift.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.coref_cshift), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/coref_cshift.pdf)
+[**`Metadata`**](./runs.md#coref_cshift), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.coref_cshift.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.coref_cshift), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/coref_cshift.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2138 
@@ -566,7 +566,7 @@ search:
 	```
 ---
 #### manual_indri 
-[**`Metadata`**](./runs.md#manual_indri), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.manual_indri.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.manual_indri), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/manual_indri.pdf)
+[**`Metadata`**](./runs.md#manual_indri), [**`Participants`**](./participants.md#cmu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.manual_indri.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.manual_indri), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/manual_indri.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3107 
@@ -586,7 +586,7 @@ search:
 	```
 ---
 #### ECNUICA_BERT 
-[**`Metadata`**](./runs.md#ecnuica_bert), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_BERT.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ECNUICA_BERT), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_BERT.pdf)
+[**`Metadata`**](./runs.md#ecnuica_bert), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_BERT.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ECNUICA_BERT), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_BERT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0078 
@@ -606,7 +606,7 @@ search:
 	```
 ---
 #### ECNUICA_ORI 
-[**`Metadata`**](./runs.md#ecnuica_ori), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_ORI.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ECNUICA_ORI), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_ORI.pdf)
+[**`Metadata`**](./runs.md#ecnuica_ori), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_ORI.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ECNUICA_ORI), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_ORI.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1907 
@@ -626,7 +626,7 @@ search:
 	```
 ---
 #### ECNUICA_MIX 
-[**`Metadata`**](./runs.md#ecnuica_mix), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_MIX.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ECNUICA_MIX), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_MIX.pdf)
+[**`Metadata`**](./runs.md#ecnuica_mix), [**`Participants`**](./participants.md#ecnu-ica), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ECNUICA_MIX.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ECNUICA_MIX), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ECNUICA_MIX.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1718 
@@ -646,7 +646,7 @@ search:
 	```
 ---
 #### CFDA_CLIP_RUN1 
-[**`Metadata`**](./runs.md#cfda_clip_run1), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.CFDA_CLIP_RUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN1.pdf)
+[**`Metadata`**](./runs.md#cfda_clip_run1), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.CFDA_CLIP_RUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2255 
@@ -666,7 +666,7 @@ search:
 	```
 ---
 #### CFDA_CLIP_RUN8 
-[**`Metadata`**](./runs.md#cfda_clip_run8), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN8.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.CFDA_CLIP_RUN8), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN8.pdf)
+[**`Metadata`**](./runs.md#cfda_clip_run8), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN8.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.CFDA_CLIP_RUN8), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3630 
@@ -686,7 +686,7 @@ search:
 	```
 ---
 #### CFDA_CLIP_RUN6 
-[**`Metadata`**](./runs.md#cfda_clip_run6), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN6.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.CFDA_CLIP_RUN6), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN6.pdf)
+[**`Metadata`**](./runs.md#cfda_clip_run6), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN6.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.CFDA_CLIP_RUN6), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN6.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3946 
@@ -706,7 +706,7 @@ search:
 	```
 ---
 #### CFDA_CLIP_RUN7 
-[**`Metadata`**](./runs.md#cfda_clip_run7), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN7.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.CFDA_CLIP_RUN7), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN7.pdf)
+[**`Metadata`**](./runs.md#cfda_clip_run7), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.CFDA_CLIP_RUN7.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.CFDA_CLIP_RUN7), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/CFDA_CLIP_RUN7.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2686 
@@ -726,7 +726,7 @@ search:
 	```
 ---
 #### h2oloo_RUN2 
-[**`Metadata`**](./runs.md#h2oloo_run2), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.h2oloo_RUN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN2.pdf)
+[**`Metadata`**](./runs.md#h2oloo_run2), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.h2oloo_RUN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2742 
@@ -746,7 +746,7 @@ search:
 	```
 ---
 #### h2oloo_RUN3 
-[**`Metadata`**](./runs.md#h2oloo_run3), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN3.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.h2oloo_RUN3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN3.pdf)
+[**`Metadata`**](./runs.md#h2oloo_run3), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN3.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.h2oloo_RUN3), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3239 
@@ -766,7 +766,7 @@ search:
 	```
 ---
 #### h2oloo_RUN4 
-[**`Metadata`**](./runs.md#h2oloo_run4), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN4.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.h2oloo_RUN4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN4.pdf)
+[**`Metadata`**](./runs.md#h2oloo_run4), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN4.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.h2oloo_RUN4), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3207 
@@ -786,7 +786,7 @@ search:
 	```
 ---
 #### h2oloo_RUN5 
-[**`Metadata`**](./runs.md#h2oloo_run5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN5.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.h2oloo_RUN5), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN5.pdf)
+[**`Metadata`**](./runs.md#h2oloo_run5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.h2oloo_RUN5.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.h2oloo_RUN5), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/h2oloo_RUN5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3536 
@@ -806,7 +806,7 @@ search:
 	```
 ---
 #### ilps-bert-featq 
-[**`Metadata`**](./runs.md#ilps-bert-featq), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-featq.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ilps-bert-featq), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-featq.pdf)
+[**`Metadata`**](./runs.md#ilps-bert-featq), [**`Participants`**](./participants.md#uamsterdam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ilps-bert-featq.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ilps-bert-featq), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ilps-bert-featq.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2636 
@@ -826,7 +826,7 @@ search:
 	```
 ---
 #### VESBERT 
-[**`Metadata`**](./runs.md#vesbert), [**`Participants`**](./participants.md#ves), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.VESBERT.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.VESBERT), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/VESBERT.pdf)
+[**`Metadata`**](./runs.md#vesbert), [**`Participants`**](./participants.md#ves), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.VESBERT.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.VESBERT), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/VESBERT.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1251 
@@ -846,7 +846,7 @@ search:
 	```
 ---
 #### ict_wrfml 
-[**`Metadata`**](./runs.md#ict_wrfml), [**`Participants`**](./participants.md#ictnet), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ict_wrfml.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ict_wrfml), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ict_wrfml.pdf)
+[**`Metadata`**](./runs.md#ict_wrfml), [**`Participants`**](./participants.md#ictnet), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ict_wrfml.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ict_wrfml), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ict_wrfml.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1058 
@@ -866,7 +866,7 @@ search:
 	```
 ---
 #### VESBERT1000 
-[**`Metadata`**](./runs.md#vesbert1000), [**`Participants`**](./participants.md#ves), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.VESBERT1000.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.VESBERT1000), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/VESBERT1000.pdf)
+[**`Metadata`**](./runs.md#vesbert1000), [**`Participants`**](./participants.md#ves), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.VESBERT1000.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.VESBERT1000), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/VESBERT1000.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2055 
@@ -886,7 +886,7 @@ search:
 	```
 ---
 #### ug_1stprev3_sdm 
-[**`Metadata`**](./runs.md#ug_1stprev3_sdm), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_1stprev3_sdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ug_1stprev3_sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_1stprev3_sdm.pdf)
+[**`Metadata`**](./runs.md#ug_1stprev3_sdm), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_1stprev3_sdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ug_1stprev3_sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_1stprev3_sdm.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2541 
@@ -906,7 +906,7 @@ search:
 	```
 ---
 #### ug_cont_lin 
-[**`Metadata`**](./runs.md#ug_cont_lin), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cont_lin.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ug_cont_lin), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cont_lin.pdf)
+[**`Metadata`**](./runs.md#ug_cont_lin), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cont_lin.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ug_cont_lin), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cont_lin.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2768 
@@ -926,7 +926,7 @@ search:
 	```
 ---
 #### ug_cur_sdm 
-[**`Metadata`**](./runs.md#ug_cur_sdm), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cur_sdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ug_cur_sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cur_sdm.pdf)
+[**`Metadata`**](./runs.md#ug_cur_sdm), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cur_sdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ug_cur_sdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cur_sdm.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.3355 
@@ -946,7 +946,7 @@ search:
 	```
 ---
 #### UNH-trema-ecn 
-[**`Metadata`**](./runs.md#unh-trema-ecn), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UNH-trema-ecn.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UNH-trema-ecn), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UNH-trema-ecn.pdf)
+[**`Metadata`**](./runs.md#unh-trema-ecn), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UNH-trema-ecn.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UNH-trema-ecn), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UNH-trema-ecn.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0738 
@@ -966,7 +966,7 @@ search:
 	```
 ---
 #### UNH-trema-ent 
-[**`Metadata`**](./runs.md#unh-trema-ent), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UNH-trema-ent.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UNH-trema-ent), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UNH-trema-ent.pdf)
+[**`Metadata`**](./runs.md#unh-trema-ent), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UNH-trema-ent.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UNH-trema-ent), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UNH-trema-ent.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0763 
@@ -986,7 +986,7 @@ search:
 	```
 ---
 #### mpi-d5_igraph 
-[**`Metadata`**](./runs.md#mpi-d5_igraph), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_igraph.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi-d5_igraph), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_igraph.pdf)
+[**`Metadata`**](./runs.md#mpi-d5_igraph), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_igraph.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi-d5_igraph), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_igraph.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1882 
@@ -1006,7 +1006,7 @@ search:
 	```
 ---
 #### mpi-d5_intu 
-[**`Metadata`**](./runs.md#mpi-d5_intu), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_intu.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi-d5_intu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_intu.pdf)
+[**`Metadata`**](./runs.md#mpi-d5_intu), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_intu.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi-d5_intu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_intu.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2417 
@@ -1026,7 +1026,7 @@ search:
 	```
 ---
 #### unh-trema-relco 
-[**`Metadata`**](./runs.md#unh-trema-relco), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.unh-trema-relco.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.unh-trema-relco), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/unh-trema-relco.pdf)
+[**`Metadata`**](./runs.md#unh-trema-relco), [**`Participants`**](./participants.md#trema-unh), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.unh-trema-relco.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.unh-trema-relco), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/unh-trema-relco.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0776 
@@ -1046,7 +1046,7 @@ search:
 	```
 ---
 #### mpi-d5_union 
-[**`Metadata`**](./runs.md#mpi-d5_union), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_union.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi-d5_union), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_union.pdf)
+[**`Metadata`**](./runs.md#mpi-d5_union), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_union.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi-d5_union), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_union.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0981 
@@ -1066,7 +1066,7 @@ search:
 	```
 ---
 #### mpi-d5_cqw 
-[**`Metadata`**](./runs.md#mpi-d5_cqw), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_cqw.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.mpi-d5_cqw), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_cqw.pdf)
+[**`Metadata`**](./runs.md#mpi-d5_cqw), [**`Participants`**](./participants.md#mpi-inf-d5), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.mpi-d5_cqw.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.mpi-d5_cqw), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/mpi-d5_cqw.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1858 
@@ -1086,7 +1086,7 @@ search:
 	```
 ---
 #### combination 
-[**`Metadata`**](./runs.md#combination), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.combination.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.combination), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/combination.pdf)
+[**`Metadata`**](./runs.md#combination), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.combination.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.combination), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/combination.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1306 
@@ -1106,7 +1106,7 @@ search:
 	```
 ---
 #### UDInfoC_TS_2 
-[**`Metadata`**](./runs.md#udinfoc_ts_2), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_TS_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UDInfoC_TS_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_TS_2.pdf)
+[**`Metadata`**](./runs.md#udinfoc_ts_2), [**`Participants`**](./participants.md#udel_fang), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UDInfoC_TS_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UDInfoC_TS_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UDInfoC_TS_2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0616 
@@ -1126,7 +1126,7 @@ search:
 	```
 ---
 #### UMASS_DMN_V1 
-[**`Metadata`**](./runs.md#umass_dmn_v1), [**`Participants`**](./participants.md#umass), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UMASS_DMN_V1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UMASS_DMN_V1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UMASS_DMN_V1.pdf)
+[**`Metadata`**](./runs.md#umass_dmn_v1), [**`Participants`**](./participants.md#umass), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UMASS_DMN_V1.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UMASS_DMN_V1), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UMASS_DMN_V1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0773 
@@ -1146,7 +1146,7 @@ search:
 	```
 ---
 #### UMASS_DMN_V2 
-[**`Metadata`**](./runs.md#umass_dmn_v2), [**`Participants`**](./participants.md#umass), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UMASS_DMN_V2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.UMASS_DMN_V2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UMASS_DMN_V2.pdf)
+[**`Metadata`**](./runs.md#umass_dmn_v2), [**`Participants`**](./participants.md#umass), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.UMASS_DMN_V2.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.UMASS_DMN_V2), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/UMASS_DMN_V2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.0828 
@@ -1166,7 +1166,7 @@ search:
 	```
 ---
 #### humanbert 
-[**`Metadata`**](./runs.md#humanbert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.humanbert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.humanbert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/humanbert.pdf)
+[**`Metadata`**](./runs.md#humanbert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.humanbert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.humanbert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/humanbert.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.4074 
@@ -1186,7 +1186,7 @@ search:
 	```
 ---
 #### pgbert 
-[**`Metadata`**](./runs.md#pgbert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.pgbert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.pgbert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/pgbert.pdf)
+[**`Metadata`**](./runs.md#pgbert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.pgbert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.pgbert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/pgbert.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2705 
@@ -1206,7 +1206,7 @@ search:
 	```
 ---
 #### pg2bert 
-[**`Metadata`**](./runs.md#pg2bert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.pg2bert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.pg2bert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/pg2bert.pdf)
+[**`Metadata`**](./runs.md#pg2bert), [**`Participants`**](./participants.md#ateam), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.pg2bert.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.pg2bert), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/pg2bert.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2598 
@@ -1226,7 +1226,7 @@ search:
 	```
 ---
 #### rerankingorder 
-[**`Metadata`**](./runs.md#rerankingorder), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.rerankingorder.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.rerankingorder), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/rerankingorder.pdf)
+[**`Metadata`**](./runs.md#rerankingorder), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.rerankingorder.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.rerankingorder), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/rerankingorder.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1379 
@@ -1246,7 +1246,7 @@ search:
 	```
 ---
 #### datasetreorder 
-[**`Metadata`**](./runs.md#datasetreorder), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.datasetreorder.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.datasetreorder), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/datasetreorder.pdf)
+[**`Metadata`**](./runs.md#datasetreorder), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.datasetreorder.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.datasetreorder), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/datasetreorder.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1356 
@@ -1266,7 +1266,7 @@ search:
 	```
 ---
 #### ug_cedr_rerank 
-[**`Metadata`**](./runs.md#ug_cedr_rerank), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cedr_rerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.ug_cedr_rerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cedr_rerank.pdf)
+[**`Metadata`**](./runs.md#ug_cedr_rerank), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.ug_cedr_rerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.ug_cedr_rerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/ug_cedr_rerank.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.2176 
@@ -1286,7 +1286,7 @@ search:
 	```
 ---
 #### topicturnsort 
-[**`Metadata`**](./runs.md#topicturnsort), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.topicturnsort.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.topicturnsort), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/topicturnsort.pdf)
+[**`Metadata`**](./runs.md#topicturnsort), [**`Participants`**](./participants.md#adapt-dcu), [**`Input`**](https://trec.nist.gov/results/trec28/cast/input.topicturnsort.gz), [**`Summary`**](https://trec.nist.gov/results/trec28/cast/summary.treceval.topicturnsort), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/cast/topicturnsort.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map 			 all 0.1367 

@@ -6,7 +6,7 @@ search:
 # Results - Blog 2007 
 
 #### UniNEblog1 
-[**`Metadata`**](./runs.md#unineblog1), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog1.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog1), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2770 
@@ -29,7 +29,7 @@ search:
 	```
 ---
 #### UniNEblog2 
-[**`Metadata`**](./runs.md#unineblog2), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog2.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog2), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2898 
@@ -52,7 +52,7 @@ search:
 	```
 ---
 #### UniNEblog3 
-[**`Metadata`**](./runs.md#unineblog3), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog3.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog3), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3049 
@@ -75,7 +75,7 @@ search:
 	```
 ---
 #### UniNEblog4 
-[**`Metadata`**](./runs.md#unineblog4), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog4.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog4), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2659 
@@ -98,7 +98,7 @@ search:
 	```
 ---
 #### UniNEblog5 
-[**`Metadata`**](./runs.md#unineblog5), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog5.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog5), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog5.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2972 
@@ -121,7 +121,7 @@ search:
 	```
 ---
 #### UniNEblog6 
-[**`Metadata`**](./runs.md#unineblog6), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UniNEblog6.opinion.pdf)
+[**`Metadata`**](./runs.md#unineblog6), [**`Participants`**](./participants.md#uneuchatelsavoy), [**`Proceedings`**](./proceedings.md#ir-specific-searches-at-trec-2007-genomics-blog-experiments), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UniNEblog6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UniNEblog6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UniNEblog6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UniNEblog6.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3016 
@@ -144,7 +144,7 @@ search:
 	```
 ---
 #### FDUNoOpTisd 
-[**`Metadata`**](./runs.md#fdunooptisd), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNoOpTisd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNoOpTisd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNoOpTisd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUNoOpTisd.opinion.pdf)
+[**`Metadata`**](./runs.md#fdunooptisd), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNoOpTisd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNoOpTisd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNoOpTisd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUNoOpTisd.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2992 
@@ -167,7 +167,7 @@ search:
 	```
 ---
 #### FDUNOpRSVMT 
-[**`Metadata`**](./runs.md#fdunoprsvmt), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNOpRSVMT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNOpRSVMT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNOpRSVMT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUNOpRSVMT.opinion.pdf)
+[**`Metadata`**](./runs.md#fdunoprsvmt), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNOpRSVMT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNOpRSVMT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNOpRSVMT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUNOpRSVMT.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3178 
@@ -190,7 +190,7 @@ search:
 	```
 ---
 #### FDUTisdOpSVM 
-[**`Metadata`**](./runs.md#fdutisdopsvm), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTisdOpSVM.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTisdOpSVM.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTisdOpSVM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUTisdOpSVM.opinion.pdf)
+[**`Metadata`**](./runs.md#fdutisdopsvm), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTisdOpSVM.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTisdOpSVM.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTisdOpSVM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUTisdOpSVM.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3179 
@@ -213,7 +213,7 @@ search:
 	```
 ---
 #### NLPRPT 
-[**`Metadata`**](./runs.md#nlprpt), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRPT.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprpt), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRPT.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2476 
@@ -236,7 +236,7 @@ search:
 	```
 ---
 #### NLPRPTD1 
-[**`Metadata`**](./runs.md#nlprptd1), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTD1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTD1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTD1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRPTD1.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprptd1), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTD1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTD1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTD1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRPTD1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2532 
@@ -259,7 +259,7 @@ search:
 	```
 ---
 #### NLPRPTD2 
-[**`Metadata`**](./runs.md#nlprptd2), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTD2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTD2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTD2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRPTD2.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprptd2), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTD2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTD2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTD2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRPTD2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2587 
@@ -282,7 +282,7 @@ search:
 	```
 ---
 #### NLPRPST 
-[**`Metadata`**](./runs.md#nlprpst), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPST.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPST.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPST.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRPST.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprpst), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPST.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPST.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPST.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRPST.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2542 
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### NLPRTD 
-[**`Metadata`**](./runs.md#nlprtd), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRTD.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprtd), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRTD.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2462 
@@ -328,7 +328,7 @@ search:
 	```
 ---
 #### NLPRPTONLY 
-[**`Metadata`**](./runs.md#nlprptonly), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTONLY.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTONLY.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTONLY.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NLPRPTONLY.opinion.pdf)
+[**`Metadata`**](./runs.md#nlprptonly), [**`Participants`**](./participants.md#cas-liu-nlpr-iacas), [**`Proceedings`**](./proceedings.md#nlpr-in-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NLPRPTONLY.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NLPRPTONLY.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NLPRPTONLY.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NLPRPTONLY.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2506 
@@ -351,7 +351,7 @@ search:
 	```
 ---
 #### NTUAuto 
-[**`Metadata`**](./runs.md#ntuauto), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUAuto.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUAuto.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUAuto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NTUAuto.opinion.pdf)
+[**`Metadata`**](./runs.md#ntuauto), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUAuto.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUAuto.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUAuto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NTUAuto.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2254 
@@ -374,7 +374,7 @@ search:
 	```
 ---
 #### NTUAutoOp 
-[**`Metadata`**](./runs.md#ntuautoop), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUAutoOp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUAutoOp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUAutoOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NTUAutoOp.opinion.pdf)
+[**`Metadata`**](./runs.md#ntuautoop), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUAutoOp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUAutoOp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUAutoOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NTUAutoOp.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2282 
@@ -397,7 +397,7 @@ search:
 	```
 ---
 #### NTUManual 
-[**`Metadata`**](./runs.md#ntumanual), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUManual.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUManual.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUManual.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NTUManual.opinion.pdf)
+[**`Metadata`**](./runs.md#ntumanual), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUManual.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUManual.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUManual.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NTUManual.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2384 
@@ -420,7 +420,7 @@ search:
 	```
 ---
 #### NTUManualOp 
-[**`Metadata`**](./runs.md#ntumanualop), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUManualOp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUManualOp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUManualOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NTUManualOp.opinion.pdf)
+[**`Metadata`**](./runs.md#ntumanualop), [**`Participants`**](./participants.md#ntuchen), [**`Proceedings`**](./proceedings.md#ntu-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NTUManualOp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NTUManualOp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NTUManualOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NTUManualOp.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2393 
@@ -443,7 +443,7 @@ search:
 	```
 ---
 #### FDUNoOpTSem 
-[**`Metadata`**](./runs.md#fdunooptsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNoOpTSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNoOpTSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNoOpTSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUNoOpTSem.opinion.pdf)
+[**`Metadata`**](./runs.md#fdunooptsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUNoOpTSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUNoOpTSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUNoOpTSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUNoOpTSem.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3019 
@@ -466,7 +466,7 @@ search:
 	```
 ---
 #### FDUTOSVMSem 
-[**`Metadata`**](./runs.md#fdutosvmsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTOSVMSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTOSVMSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTOSVMSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUTOSVMSem.opinion.pdf)
+[**`Metadata`**](./runs.md#fdutosvmsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTOSVMSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTOSVMSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTOSVMSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUTOSVMSem.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3143 
@@ -489,7 +489,7 @@ search:
 	```
 ---
 #### FDUTNRSVMSem 
-[**`Metadata`**](./runs.md#fdutnrsvmsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTNRSVMSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTNRSVMSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTNRSVMSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FDUTNRSVMSem.opinion.pdf)
+[**`Metadata`**](./runs.md#fdutnrsvmsem), [**`Participants`**](./participants.md#fudanuwu), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2007-opinion-retrieval-of-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FDUTNRSVMSem.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FDUTNRSVMSem.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FDUTNRSVMSem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FDUTNRSVMSem.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3141 
@@ -512,7 +512,7 @@ search:
 	```
 ---
 #### Relevant 
-[**`Metadata`**](./runs.md#relevant), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.Relevant.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.Relevant.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.Relevant.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/Relevant.opinion.pdf)
+[**`Metadata`**](./runs.md#relevant), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.Relevant.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.Relevant.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.Relevant.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/Relevant.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3041 
@@ -535,7 +535,7 @@ search:
 	```
 ---
 #### DrapCom 
-[**`Metadata`**](./runs.md#drapcom), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapCom.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapCom.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapCom.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DrapCom.opinion.pdf)
+[**`Metadata`**](./runs.md#drapcom), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapCom.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapCom.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapCom.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DrapCom.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1564 
@@ -558,7 +558,7 @@ search:
 	```
 ---
 #### DrapOpi 
-[**`Metadata`**](./runs.md#drapopi), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapOpi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapOpi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapOpi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DrapOpi.opinion.pdf)
+[**`Metadata`**](./runs.md#drapopi), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapOpi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapOpi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapOpi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DrapOpi.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1659 
@@ -581,7 +581,7 @@ search:
 	```
 ---
 #### DrapStm 
-[**`Metadata`**](./runs.md#drapstm), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapStm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapStm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapStm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DrapStm.opinion.pdf)
+[**`Metadata`**](./runs.md#drapstm), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DrapStm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DrapStm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DrapStm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DrapStm.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1537 
@@ -604,7 +604,7 @@ search:
 	```
 ---
 #### BaseSmp 
-[**`Metadata`**](./runs.md#basesmp), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.BaseSmp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.BaseSmp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.BaseSmp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/BaseSmp.opinion.pdf)
+[**`Metadata`**](./runs.md#basesmp), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.BaseSmp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.BaseSmp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.BaseSmp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/BaseSmp.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1433 
@@ -627,7 +627,7 @@ search:
 	```
 ---
 #### SmpStm 
-[**`Metadata`**](./runs.md#smpstm), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.SmpStm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.SmpStm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.SmpStm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/SmpStm.opinion.pdf)
+[**`Metadata`**](./runs.md#smpstm), [**`Participants`**](./participants.md#cas-liu), [**`Proceedings`**](./proceedings.md#experiments-in-trec-2007-blog-opinion-task-at-cas-ict), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.SmpStm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.SmpStm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.SmpStm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/SmpStm.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1409 
@@ -650,7 +650,7 @@ search:
 	```
 ---
 #### UALR07Base 
-[**`Metadata`**](./runs.md#ualr07base), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07Base.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07Base.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07Base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07Base.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07base), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07Base.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07Base.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07Base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07Base.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2554 
@@ -673,7 +673,7 @@ search:
 	```
 ---
 #### UALR07BlogIU 
-[**`Metadata`**](./runs.md#ualr07blogiu), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07BlogIU.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07BlogIU.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07BlogIU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07BlogIU.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07blogiu), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07BlogIU.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07BlogIU.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07BlogIU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07BlogIU.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2911 
@@ -696,7 +696,7 @@ search:
 	```
 ---
 #### UALR07TDN 
-[**`Metadata`**](./runs.md#ualr07tdn), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07TDN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07TDN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07TDN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07TDN.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07tdn), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07TDN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07TDN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07TDN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07TDN.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2102 
@@ -719,7 +719,7 @@ search:
 	```
 ---
 #### UALR07IU2 
-[**`Metadata`**](./runs.md#ualr07iu2), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07IU2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07IU2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07IU2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07IU2.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07iu2), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07IU2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07IU2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07IU2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07IU2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2650 
@@ -742,7 +742,7 @@ search:
 	```
 ---
 #### DUTRun1 
-[**`Metadata`**](./runs.md#dutrun1), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun1.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun1), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2890 
@@ -765,7 +765,7 @@ search:
 	```
 ---
 #### UWbaseTerms 
-[**`Metadata`**](./runs.md#uwbaseterms), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWbaseTerms.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWbaseTerms.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWbaseTerms.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWbaseTerms.opinion.pdf)
+[**`Metadata`**](./runs.md#uwbaseterms), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWbaseTerms.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWbaseTerms.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWbaseTerms.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWbaseTerms.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2426 
@@ -788,7 +788,7 @@ search:
 	```
 ---
 #### oqlr2f2opt 
-[**`Metadata`**](./runs.md#oqlr2f2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2f2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2f2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2f2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqlr2f2opt.opinion.pdf)
+[**`Metadata`**](./runs.md#oqlr2f2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2f2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2f2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2f2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqlr2f2opt.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3341 
@@ -811,7 +811,7 @@ search:
 	```
 ---
 #### oqlr2fopt 
-[**`Metadata`**](./runs.md#oqlr2fopt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2fopt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2fopt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2fopt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqlr2fopt.opinion.pdf)
+[**`Metadata`**](./runs.md#oqlr2fopt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2fopt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2fopt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2fopt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqlr2fopt.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3350 
@@ -834,7 +834,7 @@ search:
 	```
 ---
 #### UWbasePhrase 
-[**`Metadata`**](./runs.md#uwbasephrase), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWbasePhrase.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWbasePhrase.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWbasePhrase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWbasePhrase.opinion.pdf)
+[**`Metadata`**](./runs.md#uwbasephrase), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWbasePhrase.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWbasePhrase.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWbasePhrase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWbasePhrase.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2486 
@@ -857,7 +857,7 @@ search:
 	```
 ---
 #### oqlr2f2 
-[**`Metadata`**](./runs.md#oqlr2f2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2f2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2f2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2f2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqlr2f2.opinion.pdf)
+[**`Metadata`**](./runs.md#oqlr2f2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlr2f2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlr2f2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlr2f2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqlr2f2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3091 
@@ -880,7 +880,7 @@ search:
 	```
 ---
 #### UWopinion1 
-[**`Metadata`**](./runs.md#uwopinion1), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWopinion1.opinion.pdf)
+[**`Metadata`**](./runs.md#uwopinion1), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWopinion1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2385 
@@ -903,7 +903,7 @@ search:
 	```
 ---
 #### oqlnr2opt 
-[**`Metadata`**](./runs.md#oqlnr2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlnr2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlnr2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlnr2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqlnr2opt.opinion.pdf)
+[**`Metadata`**](./runs.md#oqlnr2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqlnr2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqlnr2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqlnr2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqlnr2opt.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3303 
@@ -926,7 +926,7 @@ search:
 	```
 ---
 #### oqsnr2opt 
-[**`Metadata`**](./runs.md#oqsnr2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqsnr2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqsnr2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqsnr2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqsnr2opt.opinion.pdf)
+[**`Metadata`**](./runs.md#oqsnr2opt), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqsnr2opt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqsnr2opt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqsnr2opt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqsnr2opt.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2894 
@@ -949,7 +949,7 @@ search:
 	```
 ---
 #### UWopinion2 
-[**`Metadata`**](./runs.md#uwopinion2), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWopinion2.opinion.pdf)
+[**`Metadata`**](./runs.md#uwopinion2), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWopinion2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2452 
@@ -972,7 +972,7 @@ search:
 	```
 ---
 #### oqsnr1Base 
-[**`Metadata`**](./runs.md#oqsnr1base), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqsnr1Base.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqsnr1Base.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqsnr1Base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/oqsnr1Base.opinion.pdf)
+[**`Metadata`**](./runs.md#oqsnr1base), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2007-blog-track-combining-lexicon-based-methods-to-detect-opinionated-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.oqsnr1Base.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.oqsnr1Base.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.oqsnr1Base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/oqsnr1Base.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2537 
@@ -995,7 +995,7 @@ search:
 	```
 ---
 #### UWopinion3 
-[**`Metadata`**](./runs.md#uwopinion3), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWopinion3.opinion.pdf)
+[**`Metadata`**](./runs.md#uwopinion3), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWopinion3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2631 
@@ -1018,7 +1018,7 @@ search:
 	```
 ---
 #### uic1c 
-[**`Metadata`**](./runs.md#uic1c), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic1c.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic1c.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic1c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uic1c.opinion.pdf)
+[**`Metadata`**](./runs.md#uic1c), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic1c.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic1c.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic1c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uic1c.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.4341 
@@ -1041,7 +1041,7 @@ search:
 	```
 ---
 #### uic1s 
-[**`Metadata`**](./runs.md#uic1s), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic1s.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic1s.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic1s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uic1s.opinion.pdf)
+[**`Metadata`**](./runs.md#uic1s), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic1s.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic1s.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic1s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uic1s.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.4255 
@@ -1064,7 +1064,7 @@ search:
 	```
 ---
 #### uic75c 
-[**`Metadata`**](./runs.md#uic75c), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic75c.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic75c.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic75c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uic75c.opinion.pdf)
+[**`Metadata`**](./runs.md#uic75c), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic75c.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic75c.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic75c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uic75c.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.4341 
@@ -1087,7 +1087,7 @@ search:
 	```
 ---
 #### uic75s 
-[**`Metadata`**](./runs.md#uic75s), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic75s.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic75s.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic75s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uic75s.opinion.pdf)
+[**`Metadata`**](./runs.md#uic75s), [**`Participants`**](./participants.md#uiuc-zhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uic75s.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uic75s.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uic75s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uic75s.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.4241 
@@ -1110,7 +1110,7 @@ search:
 	```
 ---
 #### UWopinion4 
-[**`Metadata`**](./runs.md#uwopinion4), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UWopinion4.opinion.pdf)
+[**`Metadata`**](./runs.md#uwopinion4), [**`Participants`**](./participants.md#uwaterloo-olga), [**`Proceedings`**](./proceedings.md#using-subjective-adjectives-in-opinion-retrieval-from-blogs), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UWopinion4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UWopinion4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UWopinion4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UWopinion4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2511 
@@ -1133,7 +1133,7 @@ search:
 	```
 ---
 #### DUTRun4 
-[**`Metadata`**](./runs.md#dutrun4), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun4.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun4), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2843 
@@ -1156,7 +1156,7 @@ search:
 	```
 ---
 #### UALR07CML 
-[**`Metadata`**](./runs.md#ualr07cml), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07CML.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07CML.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07CML.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07CML.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07cml), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07CML.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07CML.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07CML.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07CML.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2521 
@@ -1179,7 +1179,7 @@ search:
 	```
 ---
 #### DUTRun5 
-[**`Metadata`**](./runs.md#dutrun5), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun5.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun5), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun5.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2279 
@@ -1202,7 +1202,7 @@ search:
 	```
 ---
 #### DUTRun2 
-[**`Metadata`**](./runs.md#dutrun2), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun2.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun2), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3190 
@@ -1225,7 +1225,7 @@ search:
 	```
 ---
 #### EAGLE1 
-[**`Metadata`**](./runs.md#eagle1), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/EAGLE1.opinion.pdf)
+[**`Metadata`**](./runs.md#eagle1), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/EAGLE1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2561 
@@ -1248,7 +1248,7 @@ search:
 	```
 ---
 #### EAGLE2 
-[**`Metadata`**](./runs.md#eagle2), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/EAGLE2.opinion.pdf)
+[**`Metadata`**](./runs.md#eagle2), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/EAGLE2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2493 
@@ -1271,7 +1271,7 @@ search:
 	```
 ---
 #### EAGLE3 
-[**`Metadata`**](./runs.md#eagle3), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/EAGLE3.opinion.pdf)
+[**`Metadata`**](./runs.md#eagle3), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/EAGLE3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2493 
@@ -1294,7 +1294,7 @@ search:
 	```
 ---
 #### EAGLE4 
-[**`Metadata`**](./runs.md#eagle4), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/EAGLE4.opinion.pdf)
+[**`Metadata`**](./runs.md#eagle4), [**`Participants`**](./participants.md#zhejianguqiu), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.EAGLE4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.EAGLE4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.EAGLE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/EAGLE4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2493 
@@ -1317,7 +1317,7 @@ search:
 	```
 ---
 #### DUTRun3 
-[**`Metadata`**](./runs.md#dutrun3), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun3.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun3), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3094 
@@ -1340,7 +1340,7 @@ search:
 	```
 ---
 #### DUTRun6 
-[**`Metadata`**](./runs.md#dutrun6), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTRun6.opinion.pdf)
+[**`Metadata`**](./runs.md#dutrun6), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTRun6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.DUTRun6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.DUTRun6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/DUTRun6.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2959 
@@ -1363,7 +1363,7 @@ search:
 	```
 ---
 #### KobePrMIR01 
-[**`Metadata`**](./runs.md#kobeprmir01), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR01.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR01.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR01.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir01), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR01.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR01.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR01.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2460 
@@ -1386,7 +1386,7 @@ search:
 	```
 ---
 #### KobePrMIR02 
-[**`Metadata`**](./runs.md#kobeprmir02), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR02.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR02.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR02.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir02), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR02.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR02.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR02.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2301 
@@ -1409,7 +1409,7 @@ search:
 	```
 ---
 #### KobePrMIR03 
-[**`Metadata`**](./runs.md#kobeprmir03), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR03.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR03.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR03.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir03), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR03.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR03.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR03.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2286 
@@ -1432,7 +1432,7 @@ search:
 	```
 ---
 #### KobePrMIR04 
-[**`Metadata`**](./runs.md#kobeprmir04), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR04.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR04.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR04.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir04), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR04.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR04.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR04.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0910 
@@ -1455,7 +1455,7 @@ search:
 	```
 ---
 #### NOOPWHU1 
-[**`Metadata`**](./runs.md#noopwhu1), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NOOPWHU1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NOOPWHU1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NOOPWHU1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NOOPWHU1.opinion.pdf)
+[**`Metadata`**](./runs.md#noopwhu1), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.NOOPWHU1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.NOOPWHU1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.NOOPWHU1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/NOOPWHU1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0011 
@@ -1478,7 +1478,7 @@ search:
 	```
 ---
 #### OTWHU101 
-[**`Metadata`**](./runs.md#otwhu101), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.OTWHU101.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.OTWHU101.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.OTWHU101.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/OTWHU101.opinion.pdf)
+[**`Metadata`**](./runs.md#otwhu101), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.OTWHU101.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.OTWHU101.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.OTWHU101.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/OTWHU101.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0011 
@@ -1501,7 +1501,7 @@ search:
 	```
 ---
 #### OTWHU102 
-[**`Metadata`**](./runs.md#otwhu102), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.OTWHU102.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.OTWHU102.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.OTWHU102.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/OTWHU102.opinion.pdf)
+[**`Metadata`**](./runs.md#otwhu102), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.OTWHU102.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.OTWHU102.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.OTWHU102.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/OTWHU102.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0011 
@@ -1524,7 +1524,7 @@ search:
 	```
 ---
 #### UALR07Text 
-[**`Metadata`**](./runs.md#ualr07text), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07Text.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07Text.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07Text.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR07Text.opinion.pdf)
+[**`Metadata`**](./runs.md#ualr07text), [**`Participants`**](./participants.md#uarkansas-littlerockbayrak), [**`Proceedings`**](./proceedings.md#topic-categorization-for-relevancy-and-opinion-detection), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UALR07Text.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UALR07Text.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UALR07Text.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UALR07Text.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2183 
@@ -1547,7 +1547,7 @@ search:
 	```
 ---
 #### FIUbPL2 
-[**`Metadata`**](./runs.md#fiubpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUbPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUbPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUbPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUbPL2.opinion.pdf)
+[**`Metadata`**](./runs.md#fiubpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUbPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUbPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUbPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUbPL2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2728 
@@ -1570,7 +1570,7 @@ search:
 	```
 ---
 #### uogBOPF 
-[**`Metadata`**](./runs.md#uogbopf), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPF.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPF.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPF.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopf), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPF.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPF.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPF.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2596 
@@ -1593,7 +1593,7 @@ search:
 	```
 ---
 #### FIUdPL2 
-[**`Metadata`**](./runs.md#fiudpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUdPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUdPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUdPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUdPL2.opinion.pdf)
+[**`Metadata`**](./runs.md#fiudpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUdPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUdPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUdPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUdPL2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2728 
@@ -1616,7 +1616,7 @@ search:
 	```
 ---
 #### FIUlPL2 
-[**`Metadata`**](./runs.md#fiulpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUlPL2.opinion.pdf)
+[**`Metadata`**](./runs.md#fiulpl2), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlPL2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlPL2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlPL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUlPL2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2728 
@@ -1639,7 +1639,7 @@ search:
 	```
 ---
 #### uogBOPFTDW 
-[**`Metadata`**](./runs.md#uogbopftdw), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTDW.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTDW.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTDW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPFTDW.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopftdw), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTDW.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTDW.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTDW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPFTDW.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3182 
@@ -1662,7 +1662,7 @@ search:
 	```
 ---
 #### uogBOPFProxW 
-[**`Metadata`**](./runs.md#uogbopfproxw), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFProxW.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFProxW.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFProxW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPFProxW.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopfproxw), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFProxW.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFProxW.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFProxW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPFProxW.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3264 
@@ -1685,7 +1685,7 @@ search:
 	```
 ---
 #### uogBOPFTD 
-[**`Metadata`**](./runs.md#uogbopftd), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPFTD.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopftd), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPFTD.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2971 
@@ -1708,7 +1708,7 @@ search:
 	```
 ---
 #### uogBOPFProx 
-[**`Metadata`**](./runs.md#uogbopfprox), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFProx.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFProx.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFProx.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPFProx.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopfprox), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFProx.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFProx.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFProx.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPFProx.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2817 
@@ -1731,7 +1731,7 @@ search:
 	```
 ---
 #### prisOpnBasic 
-[**`Metadata`**](./runs.md#prisopnbasic), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnBasic.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnBasic.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnBasic.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/prisOpnBasic.opinion.pdf)
+[**`Metadata`**](./runs.md#prisopnbasic), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnBasic.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnBasic.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnBasic.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/prisOpnBasic.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2466 
@@ -1754,7 +1754,7 @@ search:
 	```
 ---
 #### prisOpnC2 
-[**`Metadata`**](./runs.md#prisopnc2), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnC2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnC2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnC2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/prisOpnC2.opinion.pdf)
+[**`Metadata`**](./runs.md#prisopnc2), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnC2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnC2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnC2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/prisOpnC2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0821 
@@ -1777,7 +1777,7 @@ search:
 	```
 ---
 #### prisOpnC4 
-[**`Metadata`**](./runs.md#prisopnc4), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnC4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnC4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnC4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/prisOpnC4.opinion.pdf)
+[**`Metadata`**](./runs.md#prisopnc4), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnC4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnC4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnC4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/prisOpnC4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0503 
@@ -1800,7 +1800,7 @@ search:
 	```
 ---
 #### prisOpnCm 
-[**`Metadata`**](./runs.md#prisopncm), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnCm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnCm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnCm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/prisOpnCm.opinion.pdf)
+[**`Metadata`**](./runs.md#prisopncm), [**`Participants`**](./participants.md#beijingu-posts-teleweiran), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.prisOpnCm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.prisOpnCm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.prisOpnCm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/prisOpnCm.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0716 
@@ -1823,7 +1823,7 @@ search:
 	```
 ---
 #### uogBOPFTDOF 
-[**`Metadata`**](./runs.md#uogbopftdof), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTDOF.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTDOF.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTDOF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBOPFTDOF.opinion.pdf)
+[**`Metadata`**](./runs.md#uogbopftdof), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBOPFTDOF.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uogBOPFTDOF.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uogBOPFTDOF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uogBOPFTDOF.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2995 
@@ -1846,7 +1846,7 @@ search:
 	```
 ---
 #### UB1 
-[**`Metadata`**](./runs.md#ub1), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UB1.opinion.pdf)
+[**`Metadata`**](./runs.md#ub1), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UB1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1501 
@@ -1869,7 +1869,7 @@ search:
 	```
 ---
 #### UB2 
-[**`Metadata`**](./runs.md#ub2), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UB2.opinion.pdf)
+[**`Metadata`**](./runs.md#ub2), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UB2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1013 
@@ -1892,7 +1892,7 @@ search:
 	```
 ---
 #### FIUlP22 
-[**`Metadata`**](./runs.md#fiulp22), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlP22.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlP22.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlP22.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUlP22.opinion.pdf)
+[**`Metadata`**](./runs.md#fiulp22), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlP22.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlP22.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlP22.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUlP22.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2728 
@@ -1915,7 +1915,7 @@ search:
 	```
 ---
 #### UB3 
-[**`Metadata`**](./runs.md#ub3), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UB3.opinion.pdf)
+[**`Metadata`**](./runs.md#ub3), [**`Participants`**](./participants.md#ubuffaloruiz), [**`Proceedings`**](./proceedings.md#exploring-traits-of-adjectives-to-predict-polarity-opinion-in-blogs-and-semantic-filters-in-genomics), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UB3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.UB3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.UB3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/UB3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1501 
@@ -1938,7 +1938,7 @@ search:
 	```
 ---
 #### FIUlDPH 
-[**`Metadata`**](./runs.md#fiuldph), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlDPH.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlDPH.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlDPH.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUlDPH.opinion.pdf)
+[**`Metadata`**](./runs.md#fiuldph), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUlDPH.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUlDPH.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUlDPH.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUlDPH.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2704 
@@ -1961,7 +1961,7 @@ search:
 	```
 ---
 #### FIUDDPH 
-[**`Metadata`**](./runs.md#fiuddph), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUDDPH.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUDDPH.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUDDPH.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/FIUDDPH.opinion.pdf)
+[**`Metadata`**](./runs.md#fiuddph), [**`Participants`**](./participants.md#fondazione-ug-bordoni-netlab-team), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.FIUDDPH.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.FIUDDPH.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.FIUDDPH.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/FIUDDPH.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3053 
@@ -1984,7 +1984,7 @@ search:
 	```
 ---
 #### Ku 
-[**`Metadata`**](./runs.md#ku), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.Ku.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.Ku.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.Ku.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/Ku.opinion.pdf)
+[**`Metadata`**](./runs.md#ku), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.Ku.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.Ku.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.Ku.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/Ku.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1689 
@@ -2007,7 +2007,7 @@ search:
 	```
 ---
 #### KuKnn 
-[**`Metadata`**](./runs.md#kuknn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuKnn.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuKnn.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuKnn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KuKnn.opinion.pdf)
+[**`Metadata`**](./runs.md#kuknn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuKnn.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuKnn.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuKnn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KuKnn.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1657 
@@ -2030,7 +2030,7 @@ search:
 	```
 ---
 #### KuS 
-[**`Metadata`**](./runs.md#kus), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KuS.opinion.pdf)
+[**`Metadata`**](./runs.md#kus), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KuS.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1580 
@@ -2053,7 +2053,7 @@ search:
 	```
 ---
 #### KuSvm 
-[**`Metadata`**](./runs.md#kusvm), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuSvm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuSvm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuSvm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KuSvm.opinion.pdf)
+[**`Metadata`**](./runs.md#kusvm), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuSvm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuSvm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuSvm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KuSvm.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1644 
@@ -2076,7 +2076,7 @@ search:
 	```
 ---
 #### KuSvmS 
-[**`Metadata`**](./runs.md#kusvms), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuSvmS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuSvmS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuSvmS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KuSvmS.opinion.pdf)
+[**`Metadata`**](./runs.md#kusvms), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KuSvmS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KuSvmS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KuSvmS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KuSvmS.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1555 
@@ -2099,7 +2099,7 @@ search:
 	```
 ---
 #### uams07indbl 
-[**`Metadata`**](./runs.md#uams07indbl), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07indbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07indbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07indbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07indbl.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07indbl), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07indbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07indbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07indbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07indbl.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3281 
@@ -2122,7 +2122,7 @@ search:
 	```
 ---
 #### uams07topic 
-[**`Metadata`**](./runs.md#uams07topic), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07topic.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07topic.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07topic.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07topic.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07topic), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07topic.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07topic.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07topic.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07topic.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.3453 
@@ -2145,7 +2145,7 @@ search:
 	```
 ---
 #### uams07mmbl 
-[**`Metadata`**](./runs.md#uams07mmbl), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07mmbl.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07mmbl), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07mmbl.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2123 
@@ -2168,7 +2168,7 @@ search:
 	```
 ---
 #### uams07mmq 
-[**`Metadata`**](./runs.md#uams07mmq), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmq.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmq.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07mmq.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07mmq), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmq.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmq.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07mmq.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1273 
@@ -2191,7 +2191,7 @@ search:
 	```
 ---
 #### uams07mmqop 
-[**`Metadata`**](./runs.md#uams07mmqop), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmqop.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmqop.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmqop.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07mmqop.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07mmqop), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmqop.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmqop.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmqop.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07mmqop.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1459 
@@ -2214,7 +2214,7 @@ search:
 	```
 ---
 #### uams07mmqcom 
-[**`Metadata`**](./runs.md#uams07mmqcom), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmqcom.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmqcom.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmqcom.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07mmqcom.opinion.pdf)
+[**`Metadata`**](./runs.md#uams07mmqcom), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07mmqcom.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.uams07mmqcom.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.uams07mmqcom.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/uams07mmqcom.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1302 
@@ -2237,7 +2237,7 @@ search:
 	```
 ---
 #### KobePrMIR05 
-[**`Metadata`**](./runs.md#kobeprmir05), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR05.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR05.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR05.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir05), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR05.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR05.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR05.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2409 
@@ -2260,7 +2260,7 @@ search:
 	```
 ---
 #### KobePrMIR06 
-[**`Metadata`**](./runs.md#kobeprmir06), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR06.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR06.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/KobePrMIR06.opinion.pdf)
+[**`Metadata`**](./runs.md#kobeprmir06), [**`Participants`**](./participants.md#kobeueguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.KobePrMIR06.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.KobePrMIR06.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.KobePrMIR06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/KobePrMIR06.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.2412 
@@ -2283,7 +2283,7 @@ search:
 	```
 ---
 #### rgu0 
-[**`Metadata`**](./runs.md#rgu0), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu0.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu0.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rgu0.opinion.pdf)
+[**`Metadata`**](./runs.md#rgu0), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu0.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu0.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/rgu0.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.1686 
@@ -2306,7 +2306,7 @@ search:
 	```
 ---
 #### rgu1 
-[**`Metadata`**](./runs.md#rgu1), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rgu1.opinion.pdf)
+[**`Metadata`**](./runs.md#rgu1), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/rgu1.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0863 
@@ -2329,7 +2329,7 @@ search:
 	```
 ---
 #### rgu2 
-[**`Metadata`**](./runs.md#rgu2), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rgu2.opinion.pdf)
+[**`Metadata`**](./runs.md#rgu2), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/rgu2.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0892 
@@ -2352,7 +2352,7 @@ search:
 	```
 ---
 #### rgu3 
-[**`Metadata`**](./runs.md#rgu3), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rgu3.opinion.pdf)
+[**`Metadata`**](./runs.md#rgu3), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/rgu3.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0755 
@@ -2375,7 +2375,7 @@ search:
 	```
 ---
 #### rgu4 
-[**`Metadata`**](./runs.md#rgu4), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rgu4.opinion.pdf)
+[**`Metadata`**](./runs.md#rgu4), [**`Participants`**](./participants.md#robert-gordonumukras), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-at-the-opinion-retrieval-task-of-the-2007-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.rgu4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec16/blog/summary.topicrel.rgu4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec16/blog/summary.opinion.rgu4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/blog/rgu4.opinion.pdf)
 ??? example "summary (opinion)"
 	```
 	map 			 all 0.0688 
@@ -2398,7 +2398,7 @@ search:
 	```
 ---
 #### UMaTiGR 
-[**`Metadata`**](./runs.md#umatigr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiGR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UMaTiGR.feed.pdf)
+[**`Metadata`**](./runs.md#umatigr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiGR.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2381 
@@ -2411,7 +2411,7 @@ search:
 	```
 ---
 #### UMaTiPCS 
-[**`Metadata`**](./runs.md#umatipcs), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiPCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiPCS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UMaTiPCS.feed.pdf)
+[**`Metadata`**](./runs.md#umatipcs), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiPCS.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiPCS.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2169 
@@ -2424,7 +2424,7 @@ search:
 	```
 ---
 #### UMaTiPCSwGR 
-[**`Metadata`**](./runs.md#umatipcswgr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiPCSwGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiPCSwGR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UMaTiPCSwGR.feed.pdf)
+[**`Metadata`**](./runs.md#umatipcswgr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTiPCSwGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTiPCSwGR.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2529 
@@ -2437,7 +2437,7 @@ search:
 	```
 ---
 #### UMaTDPCSwGR 
-[**`Metadata`**](./runs.md#umatdpcswgr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTDPCSwGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTDPCSwGR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UMaTDPCSwGR.feed.pdf)
+[**`Metadata`**](./runs.md#umatdpcswgr), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-2007-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.UMaTDPCSwGR.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.UMaTDPCSwGR.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2741 
@@ -2450,7 +2450,7 @@ search:
 	```
 ---
 #### utlc 
-[**`Metadata`**](./runs.md#utlc), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utlc.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utlc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/utlc.feed.pdf)
+[**`Metadata`**](./runs.md#utlc), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utlc.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utlc.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2124 
@@ -2463,7 +2463,7 @@ search:
 	```
 ---
 #### utplmu100 
-[**`Metadata`**](./runs.md#utplmu100), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utplmu100.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utplmu100.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/utplmu100.feed.pdf)
+[**`Metadata`**](./runs.md#utplmu100), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utplmu100.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utplmu100.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2124 
@@ -2476,7 +2476,7 @@ search:
 	```
 ---
 #### utblnrr 
-[**`Metadata`**](./runs.md#utblnrr), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utblnrr.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utblnrr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/utblnrr.feed.pdf)
+[**`Metadata`**](./runs.md#utblnrr), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utblnrr.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utblnrr.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2197 
@@ -2489,7 +2489,7 @@ search:
 	```
 ---
 #### utblrr 
-[**`Metadata`**](./runs.md#utblrr), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utblrr.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utblrr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/utblrr.feed.pdf)
+[**`Metadata`**](./runs.md#utblrr), [**`Participants`**](./participants.md#utexas-austinefron), [**`Proceedings`**](./proceedings.md#university-of-texas-school-of-information-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.utblrr.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.utblrr.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.1788 
@@ -2502,7 +2502,7 @@ search:
 	```
 ---
 #### DUTDRun1 
-[**`Metadata`**](./runs.md#dutdrun1), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTDRun1.feed.pdf)
+[**`Metadata`**](./runs.md#dutdrun1), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun1.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2285 
@@ -2515,7 +2515,7 @@ search:
 	```
 ---
 #### DUTDRun2 
-[**`Metadata`**](./runs.md#dutdrun2), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTDRun2.feed.pdf)
+[**`Metadata`**](./runs.md#dutdrun2), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun2.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2133 
@@ -2528,7 +2528,7 @@ search:
 	```
 ---
 #### DUTDRun3 
-[**`Metadata`**](./runs.md#dutdrun3), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTDRun3.feed.pdf)
+[**`Metadata`**](./runs.md#dutdrun3), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun3.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2226 
@@ -2541,7 +2541,7 @@ search:
 	```
 ---
 #### DUTDRun4 
-[**`Metadata`**](./runs.md#dutdrun4), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/DUTDRun4.feed.pdf)
+[**`Metadata`**](./runs.md#dutdrun4), [**`Participants`**](./participants.md#dalianuyang), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2007-blog-track), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.DUTDRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.DUTDRun4.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2399 
@@ -2554,7 +2554,7 @@ search:
 	```
 ---
 #### kud 
-[**`Metadata`**](./runs.md#kud), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kud.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kud.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/kud.feed.pdf)
+[**`Metadata`**](./runs.md#kud), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kud.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kud.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2292 
@@ -2567,7 +2567,7 @@ search:
 	```
 ---
 #### kudn 
-[**`Metadata`**](./runs.md#kudn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kudn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kudn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/kudn.feed.pdf)
+[**`Metadata`**](./runs.md#kudn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kudn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kudn.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2376 
@@ -2580,7 +2580,7 @@ search:
 	```
 ---
 #### kudsn 
-[**`Metadata`**](./runs.md#kudsn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kudsn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kudsn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/kudsn.feed.pdf)
+[**`Metadata`**](./runs.md#kudsn), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kudsn.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kudsn.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2420 
@@ -2593,7 +2593,7 @@ search:
 	```
 ---
 #### kuds 
-[**`Metadata`**](./runs.md#kuds), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kuds.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kuds.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/kuds.feed.pdf)
+[**`Metadata`**](./runs.md#kuds), [**`Participants`**](./participants.md#kobeuseki), [**`Proceedings`**](./proceedings.md#trec-2007-blog-track-experiments-at-kobe-university), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.kuds.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.kuds.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2325 
@@ -2606,7 +2606,7 @@ search:
 	```
 ---
 #### uams07bdtop 
-[**`Metadata`**](./runs.md#uams07bdtop), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdtop.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdtop.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07bdtop.feed.pdf)
+[**`Metadata`**](./runs.md#uams07bdtop), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdtop.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdtop.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.1589 
@@ -2619,7 +2619,7 @@ search:
 	```
 ---
 #### uams07bdfreq 
-[**`Metadata`**](./runs.md#uams07bdfreq), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdfreq.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdfreq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07bdfreq.feed.pdf)
+[**`Metadata`**](./runs.md#uams07bdfreq), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdfreq.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdfreq.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.1248 
@@ -2632,7 +2632,7 @@ search:
 	```
 ---
 #### uams07bdtblm 
-[**`Metadata`**](./runs.md#uams07bdtblm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdtblm.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdtblm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uams07bdtblm.feed.pdf)
+[**`Metadata`**](./runs.md#uams07bdtblm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#language-modeling-approaches-to-blog-postand-feed-finding), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uams07bdtblm.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uams07bdtblm.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.1605 
@@ -2645,7 +2645,7 @@ search:
 	```
 ---
 #### TDWHU100 
-[**`Metadata`**](./runs.md#tdwhu100), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU100.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU100.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/TDWHU100.feed.pdf)
+[**`Metadata`**](./runs.md#tdwhu100), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU100.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU100.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.0117 
@@ -2658,7 +2658,7 @@ search:
 	```
 ---
 #### TDWHU101 
-[**`Metadata`**](./runs.md#tdwhu101), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU101.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU101.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/TDWHU101.feed.pdf)
+[**`Metadata`**](./runs.md#tdwhu101), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU101.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU101.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.0071 
@@ -2671,7 +2671,7 @@ search:
 	```
 ---
 #### CMUfeed 
-[**`Metadata`**](./runs.md#cmufeed), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUfeed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUfeed.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/CMUfeed.feed.pdf)
+[**`Metadata`**](./runs.md#cmufeed), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUfeed.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUfeed.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.3385 
@@ -2684,7 +2684,7 @@ search:
 	```
 ---
 #### CMUfeedW 
-[**`Metadata`**](./runs.md#cmufeedw), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUfeedW.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUfeedW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/CMUfeedW.feed.pdf)
+[**`Metadata`**](./runs.md#cmufeedw), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUfeedW.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUfeedW.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.3695 
@@ -2697,7 +2697,7 @@ search:
 	```
 ---
 #### CMUentry 
-[**`Metadata`**](./runs.md#cmuentry), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUentry.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUentry.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/CMUentry.feed.pdf)
+[**`Metadata`**](./runs.md#cmuentry), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUentry.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUentry.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2453 
@@ -2710,7 +2710,7 @@ search:
 	```
 ---
 #### CMUentryW 
-[**`Metadata`**](./runs.md#cmuentryw), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUentryW.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUentryW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/CMUentryW.feed.pdf)
+[**`Metadata`**](./runs.md#cmuentryw), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#retrieval-and-feedback-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.CMUentryW.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.CMUentryW.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2552 
@@ -2723,7 +2723,7 @@ search:
 	```
 ---
 #### uogBDFeMNZ 
-[**`Metadata`**](./runs.md#uogbdfemnz), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZ.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZ.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBDFeMNZ.feed.pdf)
+[**`Metadata`**](./runs.md#uogbdfemnz), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZ.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZ.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2909 
@@ -2736,7 +2736,7 @@ search:
 	```
 ---
 #### uogBDFeMNZP 
-[**`Metadata`**](./runs.md#uogbdfemnzp), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZP.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBDFeMNZP.feed.pdf)
+[**`Metadata`**](./runs.md#uogbdfemnzp), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZP.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZP.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2923 
@@ -2749,7 +2749,7 @@ search:
 	```
 ---
 #### uogBDFeMNZpC 
-[**`Metadata`**](./runs.md#uogbdfemnzpc), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZpC.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZpC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBDFeMNZpC.feed.pdf)
+[**`Metadata`**](./runs.md#uogbdfemnzpc), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZpC.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZpC.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2685 
@@ -2762,7 +2762,7 @@ search:
 	```
 ---
 #### uogBDFeMNZhA 
-[**`Metadata`**](./runs.md#uogbdfemnzha), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZhA.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZhA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uogBDFeMNZhA.feed.pdf)
+[**`Metadata`**](./runs.md#uogbdfemnzha), [**`Participants`**](./participants.md#glasgowounis), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2007-experiments-in-blog-and-enterprise-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.uogBDFeMNZhA.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.uogBDFeMNZhA.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.2340 
@@ -2775,7 +2775,7 @@ search:
 	```
 ---
 #### TDWHU201 
-[**`Metadata`**](./runs.md#tdwhu201), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU201.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU201.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/TDWHU201.feed.pdf)
+[**`Metadata`**](./runs.md#tdwhu201), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU201.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU201.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.0080 
@@ -2788,7 +2788,7 @@ search:
 	```
 ---
 #### TDWHU200 
-[**`Metadata`**](./runs.md#tdwhu200), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU200.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU200.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/TDWHU200.feed.pdf)
+[**`Metadata`**](./runs.md#tdwhu200), [**`Participants`**](./participants.md#wuhanulu), [**`Proceedings`**](./proceedings.md#whu-at-blog-track-2007), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.TDWHU200.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.TDWHU200.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.0135 
@@ -2801,7 +2801,7 @@ search:
 	```
 ---
 #### ADABoostM1 
-[**`Metadata`**](./runs.md#adaboostm1), [**`Participants`**](./participants.md#uberlinneubauer), [**`Proceedings`**](./proceedings.md#feed-distillation-using-adaboost-and-topic-maps), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.ADABoostM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.ADABoostM1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ADABoostM1.feed.pdf)
+[**`Metadata`**](./runs.md#adaboostm1), [**`Participants`**](./participants.md#uberlinneubauer), [**`Proceedings`**](./proceedings.md#feed-distillation-using-adaboost-and-topic-maps), [**`Input`**](https://trec.nist.gov/results/trec16/blog/input.ADABoostM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec16/blog/summary.feed.ADABoostM1.gz)
 ??? example "summary (feed)"
 	```
 	map 			 all 0.0176 

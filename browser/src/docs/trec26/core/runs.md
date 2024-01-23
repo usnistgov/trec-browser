@@ -3,7 +3,7 @@
 #### ICT17ZCJL01 
 [**`Results`**](./results.md#ict17zcjl01), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL01.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL01), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL01.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL01 
+- :material-rename: **Run ID:** ICT17ZCJL01 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -17,7 +17,7 @@
 #### ICT17ZCJL02 
 [**`Results`**](./results.md#ict17zcjl02), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL02.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL02), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL02.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL02 
+- :material-rename: **Run ID:** ICT17ZCJL02 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -31,7 +31,7 @@
 #### ICT17ZCJL03 
 [**`Results`**](./results.md#ict17zcjl03), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL03.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL03), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL03.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL03 
+- :material-rename: **Run ID:** ICT17ZCJL03 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -45,7 +45,7 @@
 #### ICT17ZCJL05 
 [**`Results`**](./results.md#ict17zcjl05), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL05.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL05), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL05.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL05 
+- :material-rename: **Run ID:** ICT17ZCJL05 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -59,7 +59,7 @@
 #### ICT17ZCJL06 
 [**`Results`**](./results.md#ict17zcjl06), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL06.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL06), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL06.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL06 
+- :material-rename: **Run ID:** ICT17ZCJL06 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -74,7 +74,7 @@
 #### ICT17ZCJL07 
 [**`Results`**](./results.md#ict17zcjl07), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ICT17ZCJL07.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ICT17ZCJL07), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ICT17ZCJL07.pdf) 
 
-- :material-rename: **Name:** ICT17ZCJL07 
+- :material-rename: **Run ID:** ICT17ZCJL07 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -89,7 +89,7 @@
 #### IlpsUvABoir 
 [**`Results`**](./results.md#ilpsuvaboir), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#ilps-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.IlpsUvABoir.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.IlpsUvABoir), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/IlpsUvABoir.pdf) 
 
-- :material-rename: **Name:** IlpsUvABoir 
+- :material-rename: **Run ID:** IlpsUvABoir 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -103,7 +103,7 @@
 #### IlpsUvANvsm 
 [**`Results`**](./results.md#ilpsuvanvsm), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#ilps-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.IlpsUvANvsm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.IlpsUvANvsm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/IlpsUvANvsm.pdf) 
 
-- :material-rename: **Name:** IlpsUvANvsm 
+- :material-rename: **Run ID:** IlpsUvANvsm 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -118,7 +118,7 @@
 #### IlpsUvAQlmNvsm 
 [**`Results`**](./results.md#ilpsuvaqlmnvsm), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#ilps-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.IlpsUvAQlmNvsm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.IlpsUvAQlmNvsm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/IlpsUvAQlmNvsm.pdf) 
 
-- :material-rename: **Name:** IlpsUvAQlmNvsm 
+- :material-rename: **Run ID:** IlpsUvAQlmNvsm 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -133,7 +133,7 @@
 #### ims_bm25_td 
 [**`Results`**](./results.md#ims_bm25_td), [**`Participants`**](./participants.md#baseline), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_bm25_td.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_bm25_td), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_bm25_td.pdf) 
 
-- :material-rename: **Name:** ims_bm25_td 
+- :material-rename: **Run ID:** ims_bm25_td 
 - :fontawesome-solid-user-group: **Participant:** BASELINE 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -148,7 +148,7 @@
 #### ims_cmbsum 
 [**`Results`**](./results.md#ims_cmbsum), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_cmbsum.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_cmbsum), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_cmbsum.pdf) 
 
-- :material-rename: **Name:** ims_cmbsum 
+- :material-rename: **Run ID:** ims_cmbsum 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -163,7 +163,7 @@
 #### ims_dfrinl2_td 
 [**`Results`**](./results.md#ims_dfrinl2_td), [**`Participants`**](./participants.md#baseline), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_dfrinl2_td.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_dfrinl2_td), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_dfrinl2_td.pdf) 
 
-- :material-rename: **Name:** ims_dfrinl2_td 
+- :material-rename: **Run ID:** ims_dfrinl2_td 
 - :fontawesome-solid-user-group: **Participant:** BASELINE 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -178,7 +178,7 @@
 #### ims_wcmbsum_ap 
 [**`Results`**](./results.md#ims_wcmbsum_ap), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcmbsum_ap.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcmbsum_ap), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcmbsum_ap.pdf) 
 
-- :material-rename: **Name:** ims_wcmbsum_ap 
+- :material-rename: **Run ID:** ims_wcmbsum_ap 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -193,7 +193,7 @@
 #### ims_wcs_ap_uf 
 [**`Results`**](./results.md#ims_wcs_ap_uf), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_ap_uf.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_ap_uf), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_ap_uf.pdf) 
 
-- :material-rename: **Name:** ims_wcs_ap_uf 
+- :material-rename: **Run ID:** ims_wcs_ap_uf 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -208,7 +208,7 @@
 #### ims_wcs_err 
 [**`Results`**](./results.md#ims_wcs_err), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_err.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_err), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_err.pdf) 
 
-- :material-rename: **Name:** ims_wcs_err 
+- :material-rename: **Run ID:** ims_wcs_err 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -223,7 +223,7 @@
 #### ims_wcs_ndcg 
 [**`Results`**](./results.md#ims_wcs_ndcg), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_ndcg.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_ndcg), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_ndcg.pdf) 
 
-- :material-rename: **Name:** ims_wcs_ndcg 
+- :material-rename: **Run ID:** ims_wcs_ndcg 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -238,7 +238,7 @@
 #### ims_wcs_p10 
 [**`Results`**](./results.md#ims_wcs_p10), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_p10.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_p10), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_p10.pdf) 
 
-- :material-rename: **Name:** ims_wcs_p10 
+- :material-rename: **Run ID:** ims_wcs_p10 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -253,7 +253,7 @@
 #### ims_wcs_rbp 
 [**`Results`**](./results.md#ims_wcs_rbp), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_rbp.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_rbp), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_rbp.pdf) 
 
-- :material-rename: **Name:** ims_wcs_rbp 
+- :material-rename: **Run ID:** ims_wcs_rbp 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -268,7 +268,7 @@
 #### ims_wcs_recall 
 [**`Results`**](./results.md#ims_wcs_recall), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_recall.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_recall), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_recall.pdf) 
 
-- :material-rename: **Name:** ims_wcs_recall 
+- :material-rename: **Run ID:** ims_wcs_recall 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -283,7 +283,7 @@
 #### ims_wcs_rprec 
 [**`Results`**](./results.md#ims_wcs_rprec), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_rprec.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_rprec), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_rprec.pdf) 
 
-- :material-rename: **Name:** ims_wcs_rprec 
+- :material-rename: **Run ID:** ims_wcs_rprec 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -298,7 +298,7 @@
 #### ims_wcs_twist 
 [**`Results`**](./results.md#ims_wcs_twist), [**`Participants`**](./participants.md#ims-core), [**`Proceedings`**](./proceedings.md#ims-trec-2017-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.ims_wcs_twist.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.ims_wcs_twist), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/ims_wcs_twist.pdf) 
 
-- :material-rename: **Name:** ims_wcs_twist 
+- :material-rename: **Run ID:** ims_wcs_twist 
 - :fontawesome-solid-user-group: **Participant:** ims-core 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -313,7 +313,7 @@
 #### mpiik10e105akDT 
 [**`Results`**](./results.md#mpiik10e105akdt), [**`Participants`**](./participants.md#mpiid5), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.mpiik10e105akDT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.mpiik10e105akDT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/mpiik10e105akDT.pdf) 
 
-- :material-rename: **Name:** mpiik10e105akDT 
+- :material-rename: **Run ID:** mpiik10e105akDT 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -328,7 +328,7 @@
 #### mpiik10e111akDT 
 [**`Results`**](./results.md#mpiik10e111akdt), [**`Participants`**](./participants.md#mpiid5), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.mpiik10e111akDT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.mpiik10e111akDT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/mpiik10e111akDT.pdf) 
 
-- :material-rename: **Name:** mpiik10e111akDT 
+- :material-rename: **Run ID:** mpiik10e111akDT 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -343,7 +343,7 @@
 #### mpiik15e74akDT 
 [**`Results`**](./results.md#mpiik15e74akdt), [**`Participants`**](./participants.md#mpiid5), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.mpiik15e74akDT.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.mpiik15e74akDT), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/mpiik15e74akDT.pdf) 
 
-- :material-rename: **Name:** mpiik15e74akDT 
+- :material-rename: **Run ID:** mpiik15e74akDT 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -358,7 +358,7 @@
 #### MRGrandrel 
 [**`Results`**](./results.md#mrgrandrel), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.MRGrandrel.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.MRGrandrel), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/MRGrandrel.pdf) 
 
-- :material-rename: **Name:** MRGrandrel 
+- :material-rename: **Run ID:** MRGrandrel 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -372,7 +372,7 @@
 #### MRGrankall 
 [**`Results`**](./results.md#mrgrankall), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.MRGrankall.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.MRGrankall), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/MRGrankall.pdf) 
 
-- :material-rename: **Name:** MRGrankall 
+- :material-rename: **Run ID:** MRGrankall 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -386,7 +386,7 @@
 #### MRGrankrel 
 [**`Results`**](./results.md#mrgrankrel), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.MRGrankrel.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.MRGrankrel), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/MRGrankrel.pdf) 
 
-- :material-rename: **Name:** MRGrankrel 
+- :material-rename: **Run ID:** MRGrankrel 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -400,7 +400,7 @@
 #### RMITFDMQEA1 
 [**`Results`**](./results.md#rmitfdmqea1), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-the-2017-trec-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.RMITFDMQEA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.RMITFDMQEA1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/RMITFDMQEA1.pdf) 
 
-- :material-rename: **Name:** RMITFDMQEA1 
+- :material-rename: **Run ID:** RMITFDMQEA1 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -414,7 +414,7 @@
 #### RMITRBCUQVT5M1 
 [**`Results`**](./results.md#rmitrbcuqvt5m1), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-the-2017-trec-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.RMITRBCUQVT5M1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.RMITRBCUQVT5M1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/RMITRBCUQVT5M1.pdf) 
 
-- :material-rename: **Name:** RMITRBCUQVT5M1 
+- :material-rename: **Run ID:** RMITRBCUQVT5M1 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -428,7 +428,7 @@
 #### RMITUQVBestM2 
 [**`Results`**](./results.md#rmituqvbestm2), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-at-the-2017-trec-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.RMITUQVBestM2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.RMITUQVBestM2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/RMITUQVBestM2.pdf) 
 
-- :material-rename: **Name:** RMITUQVBestM2 
+- :material-rename: **Run ID:** RMITUQVBestM2 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -442,7 +442,7 @@
 #### sab17coreA 
 [**`Results`**](./results.md#sab17corea), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sab17coreA.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sab17coreA), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sab17coreA.pdf) 
 
-- :material-rename: **Name:** sab17coreA 
+- :material-rename: **Run ID:** sab17coreA 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -456,7 +456,7 @@
 #### sab17coreE1 
 [**`Results`**](./results.md#sab17coree1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sab17coreE1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sab17coreE1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sab17coreE1.pdf) 
 
-- :material-rename: **Name:** sab17coreE1 
+- :material-rename: **Run ID:** sab17coreE1 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -470,7 +470,7 @@
 #### sab17coreO1 
 [**`Results`**](./results.md#sab17coreo1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sab17coreO1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sab17coreO1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sab17coreO1.pdf) 
 
-- :material-rename: **Name:** sab17coreO1 
+- :material-rename: **Run ID:** sab17coreO1 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -484,7 +484,7 @@
 #### sabchmergeav45 
 [**`Results`**](./results.md#sabchmergeav45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabchmergeav45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabchmergeav45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabchmergeav45.pdf) 
 
-- :material-rename: **Name:** sabchmergeav45 
+- :material-rename: **Run ID:** sabchmergeav45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -498,7 +498,7 @@
 #### sabchoiceaqv45 
 [**`Results`**](./results.md#sabchoiceaqv45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabchoiceaqv45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabchoiceaqv45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabchoiceaqv45.pdf) 
 
-- :material-rename: **Name:** sabchoiceaqv45 
+- :material-rename: **Run ID:** sabchoiceaqv45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -512,7 +512,7 @@
 #### sabchoicev45 
 [**`Results`**](./results.md#sabchoicev45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabchoicev45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabchoicev45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabchoicev45.pdf) 
 
-- :material-rename: **Name:** sabchoicev45 
+- :material-rename: **Run ID:** sabchoicev45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -526,7 +526,7 @@
 #### sabmerge50aqv45 
 [**`Results`**](./results.md#sabmerge50aqv45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabmerge50aqv45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabmerge50aqv45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabmerge50aqv45.pdf) 
 
-- :material-rename: **Name:** sabmerge50aqv45 
+- :material-rename: **Run ID:** sabmerge50aqv45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -540,7 +540,7 @@
 #### sabopt50av45 
 [**`Results`**](./results.md#sabopt50av45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabopt50av45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabopt50av45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabopt50av45.pdf) 
 
-- :material-rename: **Name:** sabopt50av45 
+- :material-rename: **Run ID:** sabopt50av45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -554,7 +554,7 @@
 #### sabopt50v45 
 [**`Results`**](./results.md#sabopt50v45), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.sabopt50v45.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.sabopt50v45), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/sabopt50v45.pdf) 
 
-- :material-rename: **Name:** sabopt50v45 
+- :material-rename: **Run ID:** sabopt50v45 
 - :fontawesome-solid-user-group: **Participant:** Sabir 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -568,7 +568,7 @@
 #### tgncorpBASE 
 [**`Results`**](./results.md#tgncorpbase), [**`Participants`**](./participants.md#tgncorp), [**`Proceedings`**](./proceedings.md#tarragon-consulting-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.tgncorpBASE.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.tgncorpBASE), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/tgncorpBASE.pdf) 
 
-- :material-rename: **Name:** tgncorpBASE 
+- :material-rename: **Run ID:** tgncorpBASE 
 - :fontawesome-solid-user-group: **Participant:** tgncorp 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -582,7 +582,7 @@
 #### tgncorpBOOST 
 [**`Results`**](./results.md#tgncorpboost), [**`Participants`**](./participants.md#tgncorp), [**`Proceedings`**](./proceedings.md#tarragon-consulting-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.tgncorpBOOST.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.tgncorpBOOST), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/tgncorpBOOST.pdf) 
 
-- :material-rename: **Name:** tgncorpBOOST 
+- :material-rename: **Run ID:** tgncorpBOOST 
 - :fontawesome-solid-user-group: **Participant:** tgncorp 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -596,7 +596,7 @@
 #### udelIndri 
 [**`Results`**](./results.md#udelindri), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.udelIndri.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.udelIndri), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/udelIndri.pdf) 
 
-- :material-rename: **Name:** udelIndri 
+- :material-rename: **Run ID:** udelIndri 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -610,7 +610,7 @@
 #### udelIndriB 
 [**`Results`**](./results.md#udelindrib), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.udelIndriB.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.udelIndriB), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/udelIndriB.pdf) 
 
-- :material-rename: **Name:** udelIndriB 
+- :material-rename: **Run ID:** udelIndriB 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -624,7 +624,7 @@
 #### UDelInfoEXPint 
 [**`Results`**](./results.md#udelinfoexpint), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#evaluating-axiomatic-retrieval-models-in-the-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UDelInfoEXPint.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UDelInfoEXPint), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UDelInfoEXPint.pdf) 
 
-- :material-rename: **Name:** UDelInfoEXPint 
+- :material-rename: **Run ID:** UDelInfoEXPint 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -638,7 +638,7 @@
 #### UDelInfoLOGext 
 [**`Results`**](./results.md#udelinfologext), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#evaluating-axiomatic-retrieval-models-in-the-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UDelInfoLOGext.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UDelInfoLOGext), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UDelInfoLOGext.pdf) 
 
-- :material-rename: **Name:** UDelInfoLOGext 
+- :material-rename: **Run ID:** UDelInfoLOGext 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -652,7 +652,7 @@
 #### UDelInfoLOGint 
 [**`Results`**](./results.md#udelinfologint), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#evaluating-axiomatic-retrieval-models-in-the-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UDelInfoLOGint.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UDelInfoLOGint), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UDelInfoLOGint.pdf) 
 
-- :material-rename: **Name:** UDelInfoLOGint 
+- :material-rename: **Run ID:** UDelInfoLOGint 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -666,7 +666,7 @@
 #### umass_baselnrm 
 [**`Results`**](./results.md#umass_baselnrm), [**`Participants`**](./participants.md#baseline), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_baselnrm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_baselnrm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_baselnrm.pdf) 
 
-- :material-rename: **Name:** umass_baselnrm 
+- :material-rename: **Run ID:** umass_baselnrm 
 - :fontawesome-solid-user-group: **Participant:** BASELINE 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -680,7 +680,7 @@
 #### umass_baselnsdm 
 [**`Results`**](./results.md#umass_baselnsdm), [**`Participants`**](./participants.md#baseline), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_baselnsdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_baselnsdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_baselnsdm.pdf) 
 
-- :material-rename: **Name:** umass_baselnsdm 
+- :material-rename: **Run ID:** umass_baselnsdm 
 - :fontawesome-solid-user-group: **Participant:** BASELINE 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -694,7 +694,7 @@
 #### umass_direlm 
 [**`Results`**](./results.md#umass_direlm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_direlm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_direlm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_direlm.pdf) 
 
-- :material-rename: **Name:** umass_direlm 
+- :material-rename: **Run ID:** umass_direlm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -708,7 +708,7 @@
 #### umass_direlmnvs 
 [**`Results`**](./results.md#umass_direlmnvs), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_direlmnvs.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_direlmnvs), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_direlmnvs.pdf) 
 
-- :material-rename: **Name:** umass_direlmnvs 
+- :material-rename: **Run ID:** umass_direlmnvs 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -722,7 +722,7 @@
 #### umass_diremart 
 [**`Results`**](./results.md#umass_diremart), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_diremart.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_diremart), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_diremart.pdf) 
 
-- :material-rename: **Name:** umass_diremart 
+- :material-rename: **Run ID:** umass_diremart 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -736,7 +736,7 @@
 #### umass_emb1 
 [**`Results`**](./results.md#umass_emb1), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_emb1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_emb1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_emb1.pdf) 
 
-- :material-rename: **Name:** umass_emb1 
+- :material-rename: **Run ID:** umass_emb1 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -750,7 +750,7 @@
 #### umass_erm 
 [**`Results`**](./results.md#umass_erm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_erm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_erm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_erm.pdf) 
 
-- :material-rename: **Name:** umass_erm 
+- :material-rename: **Run ID:** umass_erm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -764,7 +764,7 @@
 #### umass_letor_lm 
 [**`Results`**](./results.md#umass_letor_lm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_letor_lm.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_letor_lm), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_letor_lm.pdf) 
 
-- :material-rename: **Name:** umass_letor_lm 
+- :material-rename: **Run ID:** umass_letor_lm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -778,7 +778,7 @@
 #### umass_letor_lmn 
 [**`Results`**](./results.md#umass_letor_lmn), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_letor_lmn.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_letor_lmn), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_letor_lmn.pdf) 
 
-- :material-rename: **Name:** umass_letor_lmn 
+- :material-rename: **Run ID:** umass_letor_lmn 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -792,7 +792,7 @@
 #### umass_letor_m 
 [**`Results`**](./results.md#umass_letor_m), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_letor_m.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_letor_m), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_letor_m.pdf) 
 
-- :material-rename: **Name:** umass_letor_m 
+- :material-rename: **Run ID:** umass_letor_m 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -806,7 +806,7 @@
 #### umass_maxpas150 
 [**`Results`**](./results.md#umass_maxpas150), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_maxpas150.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_maxpas150), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_maxpas150.pdf) 
 
-- :material-rename: **Name:** umass_maxpas150 
+- :material-rename: **Run ID:** umass_maxpas150 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -820,7 +820,7 @@
 #### umass_maxpas50 
 [**`Results`**](./results.md#umass_maxpas50), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.umass_maxpas50.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.umass_maxpas50), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/umass_maxpas50.pdf) 
 
-- :material-rename: **Name:** umass_maxpas50 
+- :material-rename: **Run ID:** umass_maxpas50 
 - :fontawesome-solid-user-group: **Participant:** UMass 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -834,7 +834,7 @@
 #### UWatMDS_AFuse 
 [**`Results`**](./results.md#uwatmds_afuse), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_AFuse.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_AFuse), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_AFuse.pdf) 
 
-- :material-rename: **Name:** UWatMDS_AFuse 
+- :material-rename: **Run ID:** UWatMDS_AFuse 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -848,7 +848,7 @@
 #### UWatMDS_AUnion 
 [**`Results`**](./results.md#uwatmds_aunion), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_AUnion.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_AUnion), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_AUnion.pdf) 
 
-- :material-rename: **Name:** UWatMDS_AUnion 
+- :material-rename: **Run ID:** UWatMDS_AUnion 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -862,7 +862,7 @@
 #### UWatMDS_AWgtd 
 [**`Results`**](./results.md#uwatmds_awgtd), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_AWgtd.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_AWgtd), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_AWgtd.pdf) 
 
-- :material-rename: **Name:** UWatMDS_AWgtd 
+- :material-rename: **Run ID:** UWatMDS_AWgtd 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -876,7 +876,7 @@
 #### UWatMDS_BFuse 
 [**`Results`**](./results.md#uwatmds_bfuse), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_BFuse.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_BFuse), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_BFuse.pdf) 
 
-- :material-rename: **Name:** UWatMDS_BFuse 
+- :material-rename: **Run ID:** UWatMDS_BFuse 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -890,7 +890,7 @@
 #### UWatMDS_BUnion 
 [**`Results`**](./results.md#uwatmds_bunion), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_BUnion.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_BUnion), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_BUnion.pdf) 
 
-- :material-rename: **Name:** UWatMDS_BUnion 
+- :material-rename: **Run ID:** UWatMDS_BUnion 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -904,7 +904,7 @@
 #### UWatMDS_BWgtd 
 [**`Results`**](./results.md#uwatmds_bwgtd), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_BWgtd.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_BWgtd), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_BWgtd.pdf) 
 
-- :material-rename: **Name:** UWatMDS_BWgtd 
+- :material-rename: **Run ID:** UWatMDS_BWgtd 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -918,7 +918,7 @@
 #### UWatMDS_HT10 
 [**`Results`**](./results.md#uwatmds_ht10), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_HT10.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_HT10), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_HT10.pdf) 
 
-- :material-rename: **Name:** UWatMDS_HT10 
+- :material-rename: **Run ID:** UWatMDS_HT10 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -932,7 +932,7 @@
 #### UWatMDS_TARSv1 
 [**`Results`**](./results.md#uwatmds_tarsv1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_TARSv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_TARSv1), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_TARSv1.pdf) 
 
-- :material-rename: **Name:** UWatMDS_TARSv1 
+- :material-rename: **Run ID:** UWatMDS_TARSv1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -946,7 +946,7 @@
 #### UWatMDS_TARSv2 
 [**`Results`**](./results.md#uwatmds_tarsv2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_TARSv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_TARSv2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_TARSv2.pdf) 
 
-- :material-rename: **Name:** UWatMDS_TARSv2 
+- :material-rename: **Run ID:** UWatMDS_TARSv2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -960,7 +960,7 @@
 #### UWatMDS_ustudy 
 [**`Results`**](./results.md#uwatmds_ustudy), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.UWatMDS_ustudy.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.UWatMDS_ustudy), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/UWatMDS_ustudy.pdf) 
 
-- :material-rename: **Name:** UWatMDS_ustudy 
+- :material-rename: **Run ID:** UWatMDS_ustudy 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -974,7 +974,7 @@
 #### WCrobust04 
 [**`Results`**](./results.md#wcrobust04), [**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.WCrobust04.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.WCrobust04), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/WCrobust04.pdf) 
 
-- :material-rename: **Name:** WCrobust04 
+- :material-rename: **Run ID:** WCrobust04 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -988,7 +988,7 @@
 #### WCrobust0405 
 [**`Results`**](./results.md#wcrobust0405), [**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.WCrobust0405.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.WCrobust0405), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/WCrobust0405.pdf) 
 
-- :material-rename: **Name:** WCrobust0405 
+- :material-rename: **Run ID:** WCrobust0405 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -1002,7 +1002,7 @@
 #### WCrobust04W 
 [**`Results`**](./results.md#wcrobust04w), [**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-and-waterloocormack-participation-in-the-trec-2017-common-core-track), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.WCrobust04W.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.WCrobust04W), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/WCrobust04W.pdf) 
 
-- :material-rename: **Name:** WCrobust04W 
+- :material-rename: **Run ID:** WCrobust04W 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -1016,7 +1016,7 @@
 #### webis_baseline 
 [**`Results`**](./results.md#webis_baseline), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.webis_baseline.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.webis_baseline), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/webis_baseline.pdf) 
 
-- :material-rename: **Name:** webis_baseline 
+- :material-rename: **Run ID:** webis_baseline 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -1030,7 +1030,7 @@
 #### webis_baseline2 
 [**`Results`**](./results.md#webis_baseline2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.webis_baseline2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.webis_baseline2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/webis_baseline2.pdf) 
 
-- :material-rename: **Name:** webis_baseline2 
+- :material-rename: **Run ID:** webis_baseline2 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -1044,7 +1044,7 @@
 #### webis_reranked 
 [**`Results`**](./results.md#webis_reranked), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.webis_reranked.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.webis_reranked), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/webis_reranked.pdf) 
 
-- :material-rename: **Name:** webis_reranked 
+- :material-rename: **Run ID:** webis_reranked 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 
@@ -1058,7 +1058,7 @@
 #### webis_reranked2 
 [**`Results`**](./results.md#webis_reranked2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2017-open-search-and-core-tracks), [**`Input`**](https://trec.nist.gov/results/trec26/core/input.webis_reranked2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/core/summary.trec_eval.webis_reranked2), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/core/webis_reranked2.pdf) 
 
-- :material-rename: **Name:** webis_reranked2 
+- :material-rename: **Run ID:** webis_reranked2 
 - :fontawesome-solid-user-group: **Participant:** Webis 
 - :material-format-text: **Track:** Common Core 
 - :material-calendar: **Year:** 2017 

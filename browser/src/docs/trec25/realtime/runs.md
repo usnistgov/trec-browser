@@ -1,7 +1,7 @@
 # Runs - Real-time Summarization 2016 
 
 #### AmILPWSEBM 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/AmILPWSEBM.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.AmILPWSEBM), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/AmILPWSEBM.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/AmILPWSEBM.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-AmILPWSEBM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/AmILPWSEBM.pdf) 
 
 - :material-rename: **Run ID:** AmILPWSEBM 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -16,7 +16,7 @@
 
 ---
 #### bjutdt 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutdt.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.bjutdt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/bjutdt.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutdt.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-bjutdt.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/bjutdt.pdf) 
 
 - :material-rename: **Run ID:** bjutdt 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -30,7 +30,7 @@
 
 ---
 #### bjutgbdt 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutgbdt.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.bjutgbdt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/bjutgbdt.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutgbdt.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-bjutgbdt.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/bjutgbdt.pdf) 
 
 - :material-rename: **Run ID:** bjutgbdt 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -44,7 +44,7 @@
 
 ---
 #### BJUTmydt-04 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmydt-04.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.BJUTmydt-04), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/BJUTmydt-04.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmydt-04.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-BJUTmydt-04.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-BJUTmydt-04.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/BJUTmydt-04.pdf) 
 
 - :material-rename: **Run ID:** BJUTmydt-04 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -56,7 +56,7 @@
 
 ---
 #### BJUTmydt-05 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmydt-05.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.BJUTmydt-05), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/BJUTmydt-05.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmydt-05.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-BJUTmydt-05.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-BJUTmydt-05.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/BJUTmydt-05.pdf) 
 
 - :material-rename: **Run ID:** BJUTmydt-05 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -68,7 +68,7 @@
 
 ---
 #### BJUTmyrf-03 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmyrf-03.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.BJUTmyrf-03), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/BJUTmyrf-03.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/BJUTmyrf-03.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-BJUTmyrf-03.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-BJUTmyrf-03.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/BJUTmyrf-03.pdf) 
 
 - :material-rename: **Run ID:** BJUTmyrf-03 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -80,7 +80,7 @@
 
 ---
 #### bjutrf 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.bjutrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/bjutrf.pdf) 
+[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/bjutrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-bjutrf.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/bjutrf.pdf) 
 
 - :material-rename: **Run ID:** bjutrf 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -94,7 +94,7 @@
 
 ---
 #### CCNUNLPrun1 
-[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CCNUNLPrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CCNUNLPrun1.pdf) 
+[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-CCNUNLPrun1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CCNUNLPrun1.pdf) 
 
 - :material-rename: **Run ID:** CCNUNLPrun1 
 - :fontawesome-solid-user-group: **Participant:** CCNU2016NLP 
@@ -109,7 +109,7 @@
 
 ---
 #### CCNUNLPrun1-06 
-[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun1-06.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CCNUNLPrun1-06), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CCNUNLPrun1-06.pdf) 
+[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun1-06.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-CCNUNLPrun1-06.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-CCNUNLPrun1-06.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CCNUNLPrun1-06.pdf) 
 
 - :material-rename: **Run ID:** CCNUNLPrun1-06 
 - :fontawesome-solid-user-group: **Participant:** CCNU2016NLP 
@@ -121,7 +121,7 @@
 
 ---
 #### CCNUNLPrun2 
-[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CCNUNLPrun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CCNUNLPrun2.pdf) 
+[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-CCNUNLPrun2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CCNUNLPrun2.pdf) 
 
 - :material-rename: **Run ID:** CCNUNLPrun2 
 - :fontawesome-solid-user-group: **Participant:** CCNU2016NLP 
@@ -136,7 +136,7 @@
 
 ---
 #### CCNUNLPrun2-07 
-[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun2-07.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CCNUNLPrun2-07), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CCNUNLPrun2-07.pdf) 
+[**`Participants`**](./participants.md#ccnu2016nlp), [**`Proceedings`**](./proceedings.md#ccnu-at-trec-2016-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CCNUNLPrun2-07.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-CCNUNLPrun2-07.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-CCNUNLPrun2-07.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CCNUNLPrun2-07.pdf) 
 
 - :material-rename: **Run ID:** CCNUNLPrun2-07 
 - :fontawesome-solid-user-group: **Participant:** CCNU2016NLP 
@@ -148,7 +148,7 @@
 
 ---
 #### CLIP-A-1-08 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-1-08.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-A-1-08), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-A-1-08.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-1-08.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-CLIP-A-1-08.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-CLIP-A-1-08.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-A-1-08.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-1-08 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -160,7 +160,7 @@
 
 ---
 #### CLIP-A-2-09 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-2-09.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-A-2-09), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-A-2-09.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-2-09.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-CLIP-A-2-09.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-CLIP-A-2-09.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-A-2-09.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-2-09 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -172,7 +172,7 @@
 
 ---
 #### CLIP-A-3-10 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-3-10.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-A-3-10), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-A-3-10.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-A-3-10.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-CLIP-A-3-10.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-CLIP-A-3-10.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-A-3-10.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-3-10 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -184,7 +184,7 @@
 
 ---
 #### CLIP-B-2015 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-2015.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-B-2015), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-B-2015.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-2015.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-CLIP-B-2015.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-B-2015.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-2015 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -198,7 +198,7 @@
 
 ---
 #### CLIP-B-MAX 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-MAX.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-B-MAX), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-B-MAX.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-MAX.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-CLIP-B-MAX.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-B-MAX.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-MAX 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -212,7 +212,7 @@
 
 ---
 #### CLIP-B-MIN 
-[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-MIN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.CLIP-B-MIN), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/CLIP-B-MIN.pdf) 
+[**`Participants`**](./participants.md#clip), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/CLIP-B-MIN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-CLIP-B-MIN.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/CLIP-B-MIN.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-MIN 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -226,7 +226,7 @@
 
 ---
 #### Hamid-20 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/Hamid-20.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.Hamid-20), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/Hamid-20.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/Hamid-20.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-Hamid-20.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-Hamid-20.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/Hamid-20.pdf) 
 
 - :material-rename: **Run ID:** Hamid-20 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -238,7 +238,7 @@
 
 ---
 #### HLJIT_LM 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.HLJIT_LM), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/HLJIT_LM.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-HLJIT_LM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/HLJIT_LM.pdf) 
 
 - :material-rename: **Run ID:** HLJIT_LM 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -252,7 +252,7 @@
 
 ---
 #### HLJIT_LM-19 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM-19.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.HLJIT_LM-19), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/HLJIT_LM-19.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM-19.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-HLJIT_LM-19.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-HLJIT_LM-19.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/HLJIT_LM-19.pdf) 
 
 - :material-rename: **Run ID:** HLJIT_LM-19 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -264,7 +264,7 @@
 
 ---
 #### HLJIT_LM_TIME 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM_TIME.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.HLJIT_LM_TIME), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/HLJIT_LM_TIME.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM_TIME.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-HLJIT_LM_TIME.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/HLJIT_LM_TIME.pdf) 
 
 - :material-rename: **Run ID:** HLJIT_LM_TIME 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -278,7 +278,7 @@
 
 ---
 #### HLJIT_LM_URL 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM_URL.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.HLJIT_LM_URL), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/HLJIT_LM_URL.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/HLJIT_LM_URL.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-HLJIT_LM_URL.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/HLJIT_LM_URL.pdf) 
 
 - :material-rename: **Run ID:** HLJIT_LM_URL 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -292,7 +292,7 @@
 
 ---
 #### iitbhu-15 
-[**`Participants`**](./participants.md#dplab_iitbhu), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/iitbhu-15.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.iitbhu-15), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/iitbhu-15.pdf) 
+[**`Participants`**](./participants.md#dplab_iitbhu), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/iitbhu-15.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-iitbhu-15.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-iitbhu-15.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/iitbhu-15.pdf) 
 
 - :material-rename: **Run ID:** iitbhu-15 
 - :fontawesome-solid-user-group: **Participant:** DPLAB_IITBHU 
@@ -304,7 +304,7 @@
 
 ---
 #### IritIrisSDA-22 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IritIrisSDA-22.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.IritIrisSDA-22), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/IritIrisSDA-22.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IritIrisSDA-22.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-IritIrisSDA-22.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-IritIrisSDA-22.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/IritIrisSDA-22.pdf) 
 
 - :material-rename: **Run ID:** IritIrisSDA-22 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -316,7 +316,7 @@
 
 ---
 #### IritIrisSDB 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IritIrisSDB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.IritIrisSDB), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/IritIrisSDB.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IritIrisSDB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-IritIrisSDB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/IritIrisSDB.pdf) 
 
 - :material-rename: **Run ID:** IritIrisSDB 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -330,7 +330,7 @@
 
 ---
 #### iritRunBiAm-21 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/iritRunBiAm-21.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.iritRunBiAm-21), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/iritRunBiAm-21.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/iritRunBiAm-21.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-iritRunBiAm-21.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-iritRunBiAm-21.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/iritRunBiAm-21.pdf) 
 
 - :material-rename: **Run ID:** iritRunBiAm-21 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -342,7 +342,7 @@
 
 ---
 #### IRLAB 
-[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IRLAB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.IRLAB), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/IRLAB.pdf) 
+[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IRLAB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-IRLAB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/IRLAB.pdf) 
 
 - :material-rename: **Run ID:** IRLAB 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DA-IICT 
@@ -356,7 +356,7 @@
 
 ---
 #### IRLAB2 
-[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IRLAB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.IRLAB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/IRLAB2.pdf) 
+[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/IRLAB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-IRLAB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/IRLAB2.pdf) 
 
 - :material-rename: **Run ID:** IRLAB2 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DA-IICT 
@@ -370,7 +370,7 @@
 
 ---
 #### isikol_tag 
-[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/isikol_tag.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.isikol_tag), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/isikol_tag.pdf) 
+[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/isikol_tag.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-isikol_tag.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/isikol_tag.pdf) 
 
 - :material-rename: **Run ID:** isikol_tag 
 - :fontawesome-solid-user-group: **Participant:** ISIKol 
@@ -384,7 +384,7 @@
 
 ---
 #### isikol_ti 
-[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/isikol_ti.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.isikol_ti), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/isikol_ti.pdf) 
+[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/isikol_ti.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-isikol_ti.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/isikol_ti.pdf) 
 
 - :material-rename: **Run ID:** isikol_ti 
 - :fontawesome-solid-user-group: **Participant:** ISIKol 
@@ -398,7 +398,7 @@
 
 ---
 #### MyBaseline-17 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-17.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.MyBaseline-17), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/MyBaseline-17.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-17.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-MyBaseline-17.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-MyBaseline-17.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/MyBaseline-17.pdf) 
 
 - :material-rename: **Run ID:** MyBaseline-17 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -410,7 +410,7 @@
 
 ---
 #### MyBaseline-18 
-[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-18.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.MyBaseline-18), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/MyBaseline-18.pdf) 
+[**`Participants`**](./participants.md#hljit), [**`Proceedings`**](./proceedings.md#hljit-at-trec-2016-the-approaches-based-on-document-language-model-for-real-time-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-18.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-MyBaseline-18.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-MyBaseline-18.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/MyBaseline-18.pdf) 
 
 - :material-rename: **Run ID:** MyBaseline-18 
 - :fontawesome-solid-user-group: **Participant:** HLJIT 
@@ -422,7 +422,7 @@
 
 ---
 #### MyBaseline-24 
-[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-24.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.MyBaseline-24), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/MyBaseline-24.pdf) 
+[**`Participants`**](./participants.md#isikol), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/MyBaseline-24.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-MyBaseline-24.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-MyBaseline-24.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/MyBaseline-24.pdf) 
 
 - :material-rename: **Run ID:** MyBaseline-24 
 - :fontawesome-solid-user-group: **Participant:** ISIKol 
@@ -434,7 +434,7 @@
 
 ---
 #### nudt_biront 
-[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_biront.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.nudt_biront), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/nudt_biront.pdf) 
+[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_biront.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-nudt_biront.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/nudt_biront.pdf) 
 
 - :material-rename: **Run ID:** nudt_biront 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -448,7 +448,7 @@
 
 ---
 #### nudt_sna 
-[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.nudt_sna), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/nudt_sna.pdf) 
+[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-nudt_sna.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/nudt_sna.pdf) 
 
 - :material-rename: **Run ID:** nudt_sna 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -462,7 +462,7 @@
 
 ---
 #### nudt_sna-28 
-[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-28.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.nudt_sna-28), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/nudt_sna-28.pdf) 
+[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-28.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-nudt_sna-28.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-nudt_sna-28.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/nudt_sna-28.pdf) 
 
 - :material-rename: **Run ID:** nudt_sna-28 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -474,7 +474,7 @@
 
 ---
 #### nudt_sna-29 
-[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-29.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.nudt_sna-29), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/nudt_sna-29.pdf) 
+[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-29.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-nudt_sna-29.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-nudt_sna-29.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/nudt_sna-29.pdf) 
 
 - :material-rename: **Run ID:** nudt_sna-29 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -486,7 +486,7 @@
 
 ---
 #### nudt_sna-30 
-[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-30.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.nudt_sna-30), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/nudt_sna-30.pdf) 
+[**`Participants`**](./participants.md#nudtsna), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/nudt_sna-30.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-nudt_sna-30.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-nudt_sna-30.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/nudt_sna-30.pdf) 
 
 - :material-rename: **Run ID:** nudt_sna-30 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -498,7 +498,7 @@
 
 ---
 #### PKUICSTRunB1 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PKUICSTRunB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PKUICSTRunB1.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PKUICSTRunB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PKUICSTRunB1.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB1 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -513,7 +513,7 @@
 
 ---
 #### PKUICSTRunB2 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PKUICSTRunB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PKUICSTRunB2.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PKUICSTRunB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PKUICSTRunB2.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB2 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -528,7 +528,7 @@
 
 ---
 #### PKUICSTRunB3 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PKUICSTRunB3), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PKUICSTRunB3.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PKUICSTRunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PKUICSTRunB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PKUICSTRunB3.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB3 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -543,7 +543,7 @@
 
 ---
 #### PolyURunB1 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PolyURunB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PolyURunB1.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PolyURunB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PolyURunB1.pdf) 
 
 - :material-rename: **Run ID:** PolyURunB1 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -557,7 +557,7 @@
 
 ---
 #### PolyURunB2 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PolyURunB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PolyURunB2.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PolyURunB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PolyURunB2.pdf) 
 
 - :material-rename: **Run ID:** PolyURunB2 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -571,7 +571,7 @@
 
 ---
 #### PolyURunB3 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PolyURunB3), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PolyURunB3.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PolyURunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PolyURunB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PolyURunB3.pdf) 
 
 - :material-rename: **Run ID:** PolyURunB3 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -585,7 +585,7 @@
 
 ---
 #### PRNABaseline-34 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNABaseline-34.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNABaseline-34), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNABaseline-34.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNABaseline-34.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-PRNABaseline-34.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-PRNABaseline-34.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNABaseline-34.pdf) 
 
 - :material-rename: **Run ID:** PRNABaseline-34 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -597,7 +597,7 @@
 
 ---
 #### PRNATaskA2-35 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskA2-35.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNATaskA2-35), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNATaskA2-35.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskA2-35.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-PRNATaskA2-35.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-PRNATaskA2-35.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNATaskA2-35.pdf) 
 
 - :material-rename: **Run ID:** PRNATaskA2-35 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -609,7 +609,7 @@
 
 ---
 #### PRNATaskA3-36 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskA3-36.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNATaskA3-36), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNATaskA3-36.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskA3-36.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-PRNATaskA3-36.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-PRNATaskA3-36.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNATaskA3-36.pdf) 
 
 - :material-rename: **Run ID:** PRNATaskA3-36 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -621,7 +621,7 @@
 
 ---
 #### PRNATaskB1 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNATaskB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNATaskB1.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PRNATaskB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNATaskB1.pdf) 
 
 - :material-rename: **Run ID:** PRNATaskB1 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -635,7 +635,7 @@
 
 ---
 #### PRNATaskB2 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNATaskB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNATaskB2.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PRNATaskB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNATaskB2.pdf) 
 
 - :material-rename: **Run ID:** PRNATaskB2 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -649,7 +649,7 @@
 
 ---
 #### PRNATaskB3 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.PRNATaskB3), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/PRNATaskB3.pdf) 
+[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#assorted-textual-features-and-dynamic-push-strategies-for-real-time-tweet-notification), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/PRNATaskB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-PRNATaskB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/PRNATaskB3.pdf) 
 
 - :material-rename: **Run ID:** PRNATaskB3 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -663,7 +663,7 @@
 
 ---
 #### QUBaseline-37 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUBaseline-37.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUBaseline-37), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUBaseline-37.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUBaseline-37.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-QUBaseline-37.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-QUBaseline-37.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUBaseline-37.pdf) 
 
 - :material-rename: **Run ID:** QUBaseline-37 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -675,7 +675,7 @@
 
 ---
 #### QUDR8 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUDR8.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUDR8), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUDR8.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUDR8.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-QUDR8.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUDR8.pdf) 
 
 - :material-rename: **Run ID:** QUDR8 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -689,7 +689,7 @@
 
 ---
 #### QUExpP-38 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUExpP-38.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUExpP-38), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUExpP-38.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUExpP-38.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-QUExpP-38.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-QUExpP-38.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUExpP-38.pdf) 
 
 - :material-rename: **Run ID:** QUExpP-38 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -701,7 +701,7 @@
 
 ---
 #### QUExpT-39 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUExpT-39.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUExpT-39), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUExpT-39.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUExpT-39.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-QUExpT-39.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-QUExpT-39.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUExpT-39.pdf) 
 
 - :material-rename: **Run ID:** QUExpT-39 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -713,7 +713,7 @@
 
 ---
 #### QUJM16 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUJM16.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUJM16), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUJM16.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUJM16.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-QUJM16.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUJM16.pdf) 
 
 - :material-rename: **Run ID:** QUJM16 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -727,7 +727,7 @@
 
 ---
 #### QUJMDR24 
-[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUJMDR24.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUJMDR24), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUJMDR24.pdf) 
+[**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#light-weight-conservative-yet-effective-scalable-real-time-tweet-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUJMDR24.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-QUJMDR24.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUJMDR24.pdf) 
 
 - :material-rename: **Run ID:** QUJMDR24 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -741,7 +741,7 @@
 
 ---
 #### QUT_RTS-40 
-[**`Participants`**](./participants.md#qut_rts), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUT_RTS-40.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.QUT_RTS-40), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/QUT_RTS-40.pdf) 
+[**`Participants`**](./participants.md#qut_rts), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/QUT_RTS-40.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-QUT_RTS-40.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-QUT_RTS-40.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/QUT_RTS-40.pdf) 
 
 - :material-rename: **Run ID:** QUT_RTS-40 
 - :fontawesome-solid-user-group: **Participant:** QUT_RTS 
@@ -753,7 +753,7 @@
 
 ---
 #### ru32-33 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/ru32-33.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.ru32-33), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/ru32-33.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/ru32-33.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-ru32-33.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-ru32-33.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/ru32-33.pdf) 
 
 - :material-rename: **Run ID:** ru32-33 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -765,7 +765,7 @@
 
 ---
 #### run1-11 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run1-11.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.run1-11), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/run1-11.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run1-11.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-run1-11.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-run1-11.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/run1-11.pdf) 
 
 - :material-rename: **Run ID:** run1-11 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -777,7 +777,7 @@
 
 ---
 #### run1-31 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run1-31.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.run1-31), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/run1-31.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run1-31.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-run1-31.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-run1-31.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/run1-31.pdf) 
 
 - :material-rename: **Run ID:** run1-31 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -789,7 +789,7 @@
 
 ---
 #### run2-12 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run2-12.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.run2-12), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/run2-12.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run2-12.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-run2-12.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-run2-12.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/run2-12.pdf) 
 
 - :material-rename: **Run ID:** run2-12 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -801,7 +801,7 @@
 
 ---
 #### run2-32 
-[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run2-32.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.run2-32), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/run2-32.pdf) 
+[**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2016-real-time-summarization-track-push-notifications-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run2-32.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-run2-32.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-run2-32.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/run2-32.pdf) 
 
 - :material-rename: **Run ID:** run2-32 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -813,7 +813,7 @@
 
 ---
 #### run3-13 
-[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run3-13.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.run3-13), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/run3-13.pdf) 
+[**`Participants`**](./participants.md#comp2016), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2016-real-time-summarization), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/run3-13.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-run3-13.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-run3-13.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/run3-13.pdf) 
 
 - :material-rename: **Run ID:** run3-13 
 - :fontawesome-solid-user-group: **Participant:** COMP2016 
@@ -825,7 +825,7 @@
 
 ---
 #### runA_daiict_irlab-23 
-[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/runA_daiict_irlab-23.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.runA_daiict_irlab-23), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/runA_daiict_irlab-23.pdf) 
+[**`Participants`**](./participants.md#irlab_da-iict), [**`Proceedings`**](./proceedings.md#daiict-at-trec-rts-2016-live-push-notification-and-email-digest), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/runA_daiict_irlab-23.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-runA_daiict_irlab-23.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-runA_daiict_irlab-23.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/runA_daiict_irlab-23.pdf) 
 
 - :material-rename: **Run ID:** runA_daiict_irlab-23 
 - :fontawesome-solid-user-group: **Participant:** IRLAB_DA-IICT 
@@ -837,7 +837,7 @@
 
 ---
 #### RunBIch 
-[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/RunBIch.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.RunBIch), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/RunBIch.pdf) 
+[**`Participants`**](./participants.md#irit), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/RunBIch.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-RunBIch.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/RunBIch.pdf) 
 
 - :material-rename: **Run ID:** RunBIch 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -851,7 +851,7 @@
 
 ---
 #### udelRunBM25-43 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunBM25-43.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunBM25-43), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunBM25-43.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunBM25-43.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-udelRunBM25-43.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-udelRunBM25-43.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunBM25-43.pdf) 
 
 - :material-rename: **Run ID:** udelRunBM25-43 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -863,7 +863,7 @@
 
 ---
 #### udelRunBM25B 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunBM25B.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunBM25B), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunBM25B.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunBM25B.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-udelRunBM25B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunBM25B.pdf) 
 
 - :material-rename: **Run ID:** udelRunBM25B 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -877,7 +877,7 @@
 
 ---
 #### udelRunTFIDF-44 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDF-44.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunTFIDF-44), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunTFIDF-44.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDF-44.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-udelRunTFIDF-44.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-udelRunTFIDF-44.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunTFIDF-44.pdf) 
 
 - :material-rename: **Run ID:** udelRunTFIDF-44 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -889,7 +889,7 @@
 
 ---
 #### udelRunTFIDFB 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunTFIDFB), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunTFIDFB.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-udelRunTFIDFB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunTFIDFB.pdf) 
 
 - :material-rename: **Run ID:** udelRunTFIDFB 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -903,7 +903,7 @@
 
 ---
 #### udelRunTFIDFQ-45 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFQ-45.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunTFIDFQ-45), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunTFIDFQ-45.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFQ-45.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-udelRunTFIDFQ-45.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-udelRunTFIDFQ-45.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunTFIDFQ-45.pdf) 
 
 - :material-rename: **Run ID:** udelRunTFIDFQ-45 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -915,7 +915,7 @@
 
 ---
 #### udelRunTFIDFQB 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFQB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.udelRunTFIDFQB), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/udelRunTFIDFQB.pdf) 
+[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/udelRunTFIDFQB.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-udelRunTFIDFQB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/udelRunTFIDFQB.pdf) 
 
 - :material-rename: **Run ID:** udelRunTFIDFQB 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -929,7 +929,7 @@
 
 ---
 #### UDInfo_TlmN 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TlmN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfo_TlmN), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfo_TlmN.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TlmN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-UDInfo_TlmN.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfo_TlmN.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_TlmN 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -943,7 +943,7 @@
 
 ---
 #### UDInfo_TlmNlm 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TlmNlm.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfo_TlmNlm), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfo_TlmNlm.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TlmNlm.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-UDInfo_TlmNlm.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfo_TlmNlm.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_TlmNlm 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -957,7 +957,7 @@
 
 ---
 #### UDInfo_TN 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfo_TN), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfo_TN.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfo_TN.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-UDInfo_TN.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfo_TN.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_TN 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -971,7 +971,7 @@
 
 ---
 #### UDInfoDFP-47 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoDFP-47.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfoDFP-47), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfoDFP-47.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoDFP-47.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-UDInfoDFP-47.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-UDInfoDFP-47.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfoDFP-47.pdf) 
 
 - :material-rename: **Run ID:** UDInfoDFP-47 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -983,7 +983,7 @@
 
 ---
 #### UDInfoSFP-46 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoSFP-46.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfoSFP-46), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfoSFP-46.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoSFP-46.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-UDInfoSFP-46.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-UDInfoSFP-46.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfoSFP-46.pdf) 
 
 - :material-rename: **Run ID:** UDInfoSFP-46 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -995,7 +995,7 @@
 
 ---
 #### UDInfoSPP-48 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoSPP-48.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UDInfoSPP-48), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UDInfoSPP-48.pdf) 
+[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#query-performance-prediction-and-topic-shift-in-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UDInfoSPP-48.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-UDInfoSPP-48.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-UDInfoSPP-48.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UDInfoSPP-48.pdf) 
 
 - :material-rename: **Run ID:** UDInfoSPP-48 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1007,7 +1007,7 @@
 
 ---
 #### UmdHcilBaseline-49 
-[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UmdHcilBaseline-49.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.UmdHcilBaseline-49), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/UmdHcilBaseline-49.pdf) 
+[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/UmdHcilBaseline-49.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-UmdHcilBaseline-49.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-UmdHcilBaseline-49.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/UmdHcilBaseline-49.pdf) 
 
 - :material-rename: **Run ID:** UmdHcilBaseline-49 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -1019,7 +1019,7 @@
 
 ---
 #### WaterlooBaseline-50 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/WaterlooBaseline-50.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.WaterlooBaseline-50), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/WaterlooBaseline-50.pdf) 
+[**`Participants`**](./participants.md#waterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/WaterlooBaseline-50.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-WaterlooBaseline-50.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-WaterlooBaseline-50.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/WaterlooBaseline-50.pdf) 
 
 - :material-rename: **Run ID:** WaterlooBaseline-50 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1031,7 +1031,7 @@
 
 ---
 #### WaterlooBaseline-51 
-[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/WaterlooBaseline-51.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.WaterlooBaseline-51), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/WaterlooBaseline-51.pdf) 
+[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/WaterlooBaseline-51.gz), [**`Summary (Batch)`**](https://trec.nist.gov/results/trec25/realtime/summary-batchA-WaterlooBaseline-51.txt), [**`Summary (Mobile)`**](https://trec.nist.gov/results/trec25/realtime/summary-mobileA-WaterlooBaseline-51.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/WaterlooBaseline-51.pdf) 
 
 - :material-rename: **Run ID:** WaterlooBaseline-51 
 - :fontawesome-solid-user-group: **Participant:** WaterlooLin 
@@ -1043,7 +1043,7 @@
 
 ---
 #### YoGoslingBSL 
-[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/YoGoslingBSL.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.YoGoslingBSL), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/YoGoslingBSL.pdf) 
+[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/YoGoslingBSL.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-YoGoslingBSL.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/YoGoslingBSL.pdf) 
 
 - :material-rename: **Run ID:** YoGoslingBSL 
 - :fontawesome-solid-user-group: **Participant:** WaterlooLin 
@@ -1058,7 +1058,7 @@
 
 ---
 #### YoGoslingLMGTFY 
-[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/YoGoslingLMGTFY.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary.YoGoslingLMGTFY), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/rts/YoGoslingLMGTFY.pdf) 
+[**`Participants`**](./participants.md#waterloolin), [**`Input`**](https://trec.nist.gov/results/trec25/realtime/YoGoslingLMGTFY.gz), [**`Summary`**](https://trec.nist.gov/results/trec25/realtime/summary-batchB-YoGoslingLMGTFY.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/realtime/YoGoslingLMGTFY.pdf) 
 
 - :material-rename: **Run ID:** YoGoslingLMGTFY 
 - :fontawesome-solid-user-group: **Participant:** WaterlooLin 

@@ -1328,8 +1328,6 @@ nav:
     - Proceedings: trec6/sdr/proceedings.md
   - Very Large Corpus:
     - Overview: trec6/vlc/overview.md
-    - Participants: trec6/vlc/participants.md
-    - Runs: trec6/vlc/runs.md
     - Proceedings: trec6/vlc/proceedings.md
 - TREC-5 (1996):
   - Overview: trec5/overview.md

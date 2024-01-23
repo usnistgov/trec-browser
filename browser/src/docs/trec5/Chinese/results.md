@@ -6,7 +6,7 @@ search:
 # Results - Chinese 1996 
 
 #### pircsCw 
-[**`Metadata`**](./runs.md#pircscw), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCw.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.pircsCw), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#pircscw), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCw.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5190
@@ -18,7 +18,7 @@ search:
 	```
 ---
 #### pircsCwc 
-[**`Metadata`**](./runs.md#pircscwc), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCwc.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.pircsCwc), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#pircscwc), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCwc.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCwc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5405
@@ -30,7 +30,7 @@ search:
 	```
 ---
 #### iticn1 
-[**`Metadata`**](./runs.md#iticn1), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.iticn1), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#iticn1), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.3357
@@ -42,7 +42,7 @@ search:
 	```
 ---
 #### iticn2 
-[**`Metadata`**](./runs.md#iticn2), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.iticn2), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#iticn2), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5714
@@ -54,7 +54,7 @@ search:
 	```
 ---
 #### mds004 
-[**`Metadata`**](./runs.md#mds004), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds004.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.mds004), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#mds004), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds004.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds004.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1071
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### mds005 
-[**`Metadata`**](./runs.md#mds005), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds005.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.mds005), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#mds005), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds005.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds005.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1286
@@ -78,7 +78,7 @@ search:
 	```
 ---
 #### HIN300 
-[**`Metadata`**](./runs.md#hin300), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN300.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.HIN300), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#hin300), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN300.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4095
@@ -90,7 +90,7 @@ search:
 	```
 ---
 #### HIN301 
-[**`Metadata`**](./runs.md#hin301), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN301.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.HIN301), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#hin301), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN301.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN301.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4119
@@ -102,7 +102,7 @@ search:
 	```
 ---
 #### Cor5C1vt 
-[**`Metadata`**](./runs.md#cor5c1vt), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C1vt.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.Cor5C1vt), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#cor5c1vt), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C1vt.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C1vt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5262
@@ -114,7 +114,7 @@ search:
 	```
 ---
 #### Cor5C2ex 
-[**`Metadata`**](./runs.md#cor5c2ex), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C2ex.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.Cor5C2ex), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#cor5c2ex), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C2ex.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C2ex.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5452
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### gmu96ca1 
-[**`Metadata`**](./runs.md#gmu96ca1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.gmu96ca1), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#gmu96ca1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4762
@@ -138,7 +138,7 @@ search:
 	```
 ---
 #### gmu96ca2 
-[**`Metadata`**](./runs.md#gmu96ca2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.gmu96ca2), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#gmu96ca2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4976
@@ -150,7 +150,7 @@ search:
 	```
 ---
 #### gmu96cm1 
-[**`Metadata`**](./runs.md#gmu96cm1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.gmu96cm1), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#gmu96cm1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4976
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### gmu96cm2 
-[**`Metadata`**](./runs.md#gmu96cm2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.gmu96cm2), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#gmu96cm2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4857
@@ -174,7 +174,7 @@ search:
 	```
 ---
 #### BrklyCH1 
-[**`Metadata`**](./runs.md#brklych1), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.BrklyCH1), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#brklych1), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4786
@@ -186,7 +186,7 @@ search:
 	```
 ---
 #### BrklyCH2 
-[**`Metadata`**](./runs.md#brklych2), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.BrklyCH2), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#brklych2), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.6238
@@ -198,7 +198,7 @@ search:
 	```
 ---
 #### CLCHNA 
-[**`Metadata`**](./runs.md#clchna), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNA.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.CLCHNA), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#clchna), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNA.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4119
@@ -210,7 +210,7 @@ search:
 	```
 ---
 #### CLCHNM 
-[**`Metadata`**](./runs.md#clchnm), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNM.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.CLCHNM), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#clchnm), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNM.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.5619
@@ -222,7 +222,7 @@ search:
 	```
 ---
 #### city96c1 
-[**`Metadata`**](./runs.md#city96c1), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.city96c1), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#city96c1), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4738
@@ -234,7 +234,7 @@ search:
 	```
 ---
 #### city96c2 
-[**`Metadata`**](./runs.md#city96c2), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/Chinese/summary.city96c2), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
+[**`Metadata`**](./runs.md#city96c2), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.4429

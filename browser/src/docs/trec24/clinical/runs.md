@@ -3,7 +3,7 @@
 #### artificial 
 [**`Results`**](./results.md#artificial), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.artificial.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.artificial), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.artificial), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/artificial.pdf) 
 
-- :material-rename: **Name:** artificial 
+- :material-rename: **Run ID:** artificial 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -18,7 +18,7 @@
 #### artificialB 
 [**`Results`**](./results.md#artificialb), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.artificialB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.artificialB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.artificialB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/artificialB.pdf) 
 
-- :material-rename: **Name:** artificialB 
+- :material-rename: **Run ID:** artificialB 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -33,7 +33,7 @@
 #### AUEBrun1B 
 [**`Results`**](./results.md#auebrun1b), [**`Participants`**](./participants.md#dbnet_aueb), [**`Proceedings`**](./proceedings.md#aueb-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.AUEBrun1B.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.AUEBrun1B), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.AUEBrun1B), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/AUEBrun1B.pdf) 
 
-- :material-rename: **Name:** AUEBrun1B 
+- :material-rename: **Run ID:** AUEBrun1B 
 - :fontawesome-solid-user-group: **Participant:** DBNET_AUEB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -47,7 +47,7 @@
 #### AUEBrun2B 
 [**`Results`**](./results.md#auebrun2b), [**`Participants`**](./participants.md#dbnet_aueb), [**`Proceedings`**](./proceedings.md#aueb-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.AUEBrun2B.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.AUEBrun2B), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.AUEBrun2B), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/AUEBrun2B.pdf) 
 
-- :material-rename: **Name:** AUEBrun2B 
+- :material-rename: **Run ID:** AUEBrun2B 
 - :fontawesome-solid-user-group: **Participant:** DBNET_AUEB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -61,7 +61,7 @@
 #### auto 
 [**`Results`**](./results.md#auto), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.auto.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.auto), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.auto), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/auto.pdf) 
 
-- :material-rename: **Name:** auto 
+- :material-rename: **Run ID:** auto 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -75,7 +75,7 @@
 #### autob 
 [**`Results`**](./results.md#autob), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.autob.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.autob), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.autob), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/autob.pdf) 
 
-- :material-rename: **Name:** autob 
+- :material-rename: **Run ID:** autob 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -89,7 +89,7 @@
 #### BtBase1 
 [**`Results`**](./results.md#btbase1), [**`Participants`**](./participants.md#sibtex2), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.BtBase1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.BtBase1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.BtBase1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/BtBase1.pdf) 
 
-- :material-rename: **Name:** BtBase1 
+- :material-rename: **Run ID:** BtBase1 
 - :fontawesome-solid-user-group: **Participant:** SIBtex2 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -103,7 +103,7 @@
 #### BtBase3 
 [**`Results`**](./results.md#btbase3), [**`Participants`**](./participants.md#sibtex2), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.BtBase3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.BtBase3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.BtBase3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/BtBase3.pdf) 
 
-- :material-rename: **Name:** BtBase3 
+- :material-rename: **Run ID:** BtBase3 
 - :fontawesome-solid-user-group: **Participant:** SIBtex2 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -117,7 +117,7 @@
 #### BtCleanAll4 
 [**`Results`**](./results.md#btcleanall4), [**`Participants`**](./participants.md#sibtex2), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.BtCleanAll4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.BtCleanAll4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.BtCleanAll4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/BtCleanAll4.pdf) 
 
-- :material-rename: **Name:** BtCleanAll4 
+- :material-rename: **Run ID:** BtCleanAll4 
 - :fontawesome-solid-user-group: **Participant:** SIBtex2 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -131,7 +131,7 @@
 #### CAMspud1 
 [**`Results`**](./results.md#camspud1), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud1.pdf) 
 
-- :material-rename: **Name:** CAMspud1 
+- :material-rename: **Run ID:** CAMspud1 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -145,7 +145,7 @@
 #### CAMspud3 
 [**`Results`**](./results.md#camspud3), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud3.pdf) 
 
-- :material-rename: **Name:** CAMspud3 
+- :material-rename: **Run ID:** CAMspud3 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -159,7 +159,7 @@
 #### CAMspud5 
 [**`Results`**](./results.md#camspud5), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud5), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud5.pdf) 
 
-- :material-rename: **Name:** CAMspud5 
+- :material-rename: **Run ID:** CAMspud5 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -173,7 +173,7 @@
 #### CAMspud6 
 [**`Results`**](./results.md#camspud6), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud6), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud6.pdf) 
 
-- :material-rename: **Name:** CAMspud6 
+- :material-rename: **Run ID:** CAMspud6 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -187,7 +187,7 @@
 #### CAMspud7 
 [**`Results`**](./results.md#camspud7), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud7.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud7), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud7), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud7.pdf) 
 
-- :material-rename: **Name:** CAMspud7 
+- :material-rename: **Run ID:** CAMspud7 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -201,7 +201,7 @@
 #### CAMspud8 
 [**`Results`**](./results.md#camspud8), [**`Participants`**](./participants.md#cl_camb), [**`Proceedings`**](./proceedings.md#clinical-decision-support-with-the-spud-language-model), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.CAMspud8.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.CAMspud8), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.CAMspud8), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/CAMspud8.pdf) 
 
-- :material-rename: **Name:** CAMspud8 
+- :material-rename: **Run ID:** CAMspud8 
 - :fontawesome-solid-user-group: **Participant:** CL_CAMB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -215,7 +215,7 @@
 #### cbnu0 
 [**`Results`**](./results.md#cbnu0), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu0), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu0.pdf) 
 
-- :material-rename: **Name:** cbnu0 
+- :material-rename: **Run ID:** cbnu0 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -229,7 +229,7 @@
 #### cbnu1 
 [**`Results`**](./results.md#cbnu1), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu1.pdf) 
 
-- :material-rename: **Name:** cbnu1 
+- :material-rename: **Run ID:** cbnu1 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -243,7 +243,7 @@
 #### cbnu2 
 [**`Results`**](./results.md#cbnu2), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu2.pdf) 
 
-- :material-rename: **Name:** cbnu2 
+- :material-rename: **Run ID:** cbnu2 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -257,7 +257,7 @@
 #### cbnu3 
 [**`Results`**](./results.md#cbnu3), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu3.pdf) 
 
-- :material-rename: **Name:** cbnu3 
+- :material-rename: **Run ID:** cbnu3 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -271,7 +271,7 @@
 #### cbnu4 
 [**`Results`**](./results.md#cbnu4), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu4.pdf) 
 
-- :material-rename: **Name:** cbnu4 
+- :material-rename: **Run ID:** cbnu4 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -285,7 +285,7 @@
 #### cbnu5 
 [**`Results`**](./results.md#cbnu5), [**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.cbnu5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.cbnu5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.cbnu5), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/cbnu5.pdf) 
 
-- :material-rename: **Name:** cbnu5 
+- :material-rename: **Run ID:** cbnu5 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -299,7 +299,7 @@
 #### DAIICTrun1 
 [**`Results`**](./results.md#daiictrun1), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DAIICTrun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DAIICTrun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DAIICTrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DAIICTrun1.pdf) 
 
-- :material-rename: **Name:** DAIICTrun1 
+- :material-rename: **Run ID:** DAIICTrun1 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -313,7 +313,7 @@
 #### DAIICTrun2 
 [**`Results`**](./results.md#daiictrun2), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DAIICTrun2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DAIICTrun2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DAIICTrun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DAIICTrun2.pdf) 
 
-- :material-rename: **Name:** DAIICTrun2 
+- :material-rename: **Run ID:** DAIICTrun2 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -327,7 +327,7 @@
 #### DuthBaseF 
 [**`Results`**](./results.md#duthbasef), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthBaseF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthBaseF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthBaseF), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthBaseF.pdf) 
 
-- :material-rename: **Name:** DuthBaseF 
+- :material-rename: **Run ID:** DuthBaseF 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -341,7 +341,7 @@
 #### DuthBaseS 
 [**`Results`**](./results.md#duthbases), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthBaseS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthBaseS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthBaseS), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthBaseS.pdf) 
 
-- :material-rename: **Name:** DuthBaseS 
+- :material-rename: **Run ID:** DuthBaseS 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -355,7 +355,7 @@
 #### DuthMmMt16f 
 [**`Results`**](./results.md#duthmmmt16f), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthMmMt16f.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthMmMt16f), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthMmMt16f), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthMmMt16f.pdf) 
 
-- :material-rename: **Name:** DuthMmMt16f 
+- :material-rename: **Run ID:** DuthMmMt16f 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -369,7 +369,7 @@
 #### DuthMmMt16s 
 [**`Results`**](./results.md#duthmmmt16s), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthMmMt16s.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthMmMt16s), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthMmMt16s), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthMmMt16s.pdf) 
 
-- :material-rename: **Name:** DuthMmMt16s 
+- :material-rename: **Run ID:** DuthMmMt16s 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -383,7 +383,7 @@
 #### DuthMmMtB16f 
 [**`Results`**](./results.md#duthmmmtb16f), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthMmMtB16f.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthMmMtB16f), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthMmMtB16f), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthMmMtB16f.pdf) 
 
-- :material-rename: **Name:** DuthMmMtB16f 
+- :material-rename: **Run ID:** DuthMmMtB16f 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -397,7 +397,7 @@
 #### DuthStef 
 [**`Results`**](./results.md#duthstef), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.DuthStef.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.DuthStef), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.DuthStef), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/DuthStef.pdf) 
 
-- :material-rename: **Name:** DuthStef 
+- :material-rename: **Run ID:** DuthStef 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -411,7 +411,7 @@
 #### ecnu1 
 [**`Results`**](./results.md#ecnu1), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ecnu1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ecnu1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ecnu1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ecnu1.pdf) 
 
-- :material-rename: **Name:** ecnu1 
+- :material-rename: **Run ID:** ecnu1 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -426,7 +426,7 @@
 #### ecnu2 
 [**`Results`**](./results.md#ecnu2), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ecnu2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ecnu2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ecnu2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ecnu2.pdf) 
 
-- :material-rename: **Name:** ecnu2 
+- :material-rename: **Run ID:** ecnu2 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -441,7 +441,7 @@
 #### ecnu3 
 [**`Results`**](./results.md#ecnu3), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ecnu3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ecnu3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ecnu3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ecnu3.pdf) 
 
-- :material-rename: **Name:** ecnu3 
+- :material-rename: **Run ID:** ecnu3 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -456,7 +456,7 @@
 #### ecnu4 
 [**`Results`**](./results.md#ecnu4), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ecnu4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ecnu4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ecnu4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ecnu4.pdf) 
 
-- :material-rename: **Name:** ecnu4 
+- :material-rename: **Run ID:** ecnu4 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -471,7 +471,7 @@
 #### ECNUBP 
 [**`Results`**](./results.md#ecnubp), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ECNUBP.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ECNUBP), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ECNUBP), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ECNUBP.pdf) 
 
-- :material-rename: **Name:** ECNUBP 
+- :material-rename: **Run ID:** ECNUBP 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -486,7 +486,7 @@
 #### ECNUPB 
 [**`Results`**](./results.md#ecnupb), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-2015-cds-track-two-re-ranking-methods-in-medical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.ECNUPB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.ECNUPB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.ECNUPB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/ECNUPB.pdf) 
 
-- :material-rename: **Name:** ECNUPB 
+- :material-rename: **Run ID:** ECNUPB 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -501,7 +501,7 @@
 #### EMSEasmer 
 [**`Results`**](./results.md#emseasmer), [**`Participants`**](./participants.md#emse), [**`Proceedings`**](./proceedings.md#emse-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EMSEasmer.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EMSEasmer), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EMSEasmer), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EMSEasmer.pdf) 
 
-- :material-rename: **Name:** EMSEasmer 
+- :material-rename: **Run ID:** EMSEasmer 
 - :fontawesome-solid-user-group: **Participant:** EMSE 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -515,7 +515,7 @@
 #### EMSElsi 
 [**`Results`**](./results.md#emselsi), [**`Participants`**](./participants.md#emse), [**`Proceedings`**](./proceedings.md#emse-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EMSElsi.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EMSElsi), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EMSElsi), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EMSElsi.pdf) 
 
-- :material-rename: **Name:** EMSElsi 
+- :material-rename: **Run ID:** EMSElsi 
 - :fontawesome-solid-user-group: **Participant:** EMSE 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -529,7 +529,7 @@
 #### EMSErm3 
 [**`Results`**](./results.md#emserm3), [**`Participants`**](./participants.md#emse), [**`Proceedings`**](./proceedings.md#emse-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EMSErm3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EMSErm3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EMSErm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EMSErm3.pdf) 
 
-- :material-rename: **Name:** EMSErm3 
+- :material-rename: **Run ID:** EMSErm3 
 - :fontawesome-solid-user-group: **Participant:** EMSE 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -543,7 +543,7 @@
 #### EPBRNBM25R2 
 [**`Results`**](./results.md#epbrnbm25r2), [**`Participants`**](./participants.md#epbrn), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EPBRNBM25R2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EPBRNBM25R2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EPBRNBM25R2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EPBRNBM25R2.pdf) 
 
-- :material-rename: **Name:** EPBRNBM25R2 
+- :material-rename: **Run ID:** EPBRNBM25R2 
 - :fontawesome-solid-user-group: **Participant:** EPBRN 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -557,7 +557,7 @@
 #### EPBRNRSVMR3 
 [**`Results`**](./results.md#epbrnrsvmr3), [**`Participants`**](./participants.md#epbrn), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EPBRNRSVMR3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EPBRNRSVMR3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EPBRNRSVMR3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EPBRNRSVMR3.pdf) 
 
-- :material-rename: **Name:** EPBRNRSVMR3 
+- :material-rename: **Run ID:** EPBRNRSVMR3 
 - :fontawesome-solid-user-group: **Participant:** EPBRN 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -571,7 +571,7 @@
 #### EPBRNTFIDFR1 
 [**`Results`**](./results.md#epbrntfidfr1), [**`Participants`**](./participants.md#epbrn), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.EPBRNTFIDFR1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.EPBRNTFIDFR1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.EPBRNTFIDFR1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/EPBRNTFIDFR1.pdf) 
 
-- :material-rename: **Name:** EPBRNTFIDFR1 
+- :material-rename: **Run ID:** EPBRNTFIDFR1 
 - :fontawesome-solid-user-group: **Participant:** EPBRN 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -585,7 +585,7 @@
 #### FDUAuto 
 [**`Results`**](./results.md#fduauto), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUAuto.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUAuto), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUAuto), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUAuto.pdf) 
 
-- :material-rename: **Name:** FDUAuto 
+- :material-rename: **Run ID:** FDUAuto 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -599,7 +599,7 @@
 #### FDUAuto1 
 [**`Results`**](./results.md#fduauto1), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUAuto1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUAuto1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUAuto1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUAuto1.pdf) 
 
-- :material-rename: **Name:** FDUAuto1 
+- :material-rename: **Run ID:** FDUAuto1 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -613,7 +613,7 @@
 #### FDUAuto2 
 [**`Results`**](./results.md#fduauto2), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUAuto2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUAuto2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUAuto2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUAuto2.pdf) 
 
-- :material-rename: **Name:** FDUAuto2 
+- :material-rename: **Run ID:** FDUAuto2 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -627,7 +627,7 @@
 #### FDUManual 
 [**`Results`**](./results.md#fdumanual), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUManual.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUManual), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUManual), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUManual.pdf) 
 
-- :material-rename: **Name:** FDUManual 
+- :material-rename: **Run ID:** FDUManual 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -641,7 +641,7 @@
 #### FDUManual1 
 [**`Results`**](./results.md#fdumanual1), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUManual1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUManual1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUManual1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUManual1.pdf) 
 
-- :material-rename: **Name:** FDUManual1 
+- :material-rename: **Run ID:** FDUManual1 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -655,7 +655,7 @@
 #### FDUManual2 
 [**`Results`**](./results.md#fdumanual2), [**`Participants`**](./participants.md#fdudmiip), [**`Proceedings`**](./proceedings.md#fdumedsearch-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FDUManual2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FDUManual2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FDUManual2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FDUManual2.pdf) 
 
-- :material-rename: **Name:** FDUManual2 
+- :material-rename: **Run ID:** FDUManual2 
 - :fontawesome-solid-user-group: **Participant:** FDUDMIIP 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -669,7 +669,7 @@
 #### FORTHICSd0 
 [**`Results`**](./results.md#forthicsd0), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSd0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSd0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSd0), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSd0.pdf) 
 
-- :material-rename: **Name:** FORTHICSd0 
+- :material-rename: **Run ID:** FORTHICSd0 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -683,7 +683,7 @@
 #### FORTHICSd0e7 
 [**`Results`**](./results.md#forthicsd0e7), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSd0e7.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSd0e7), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSd0e7), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSd0e7.pdf) 
 
-- :material-rename: **Name:** FORTHICSd0e7 
+- :material-rename: **Run ID:** FORTHICSd0e7 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -697,7 +697,7 @@
 #### FORTHICSd2 
 [**`Results`**](./results.md#forthicsd2), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSd2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSd2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSd2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSd2.pdf) 
 
-- :material-rename: **Name:** FORTHICSd2 
+- :material-rename: **Run ID:** FORTHICSd2 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -711,7 +711,7 @@
 #### FORTHICSdQE 
 [**`Results`**](./results.md#forthicsdqe), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSdQE.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSdQE), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSdQE), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSdQE.pdf) 
 
-- :material-rename: **Name:** FORTHICSdQE 
+- :material-rename: **Run ID:** FORTHICSdQE 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -725,7 +725,7 @@
 #### FORTHICSdQER 
 [**`Results`**](./results.md#forthicsdqer), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSdQER.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSdQER), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSdQER), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSdQER.pdf) 
 
-- :material-rename: **Name:** FORTHICSdQER 
+- :material-rename: **Run ID:** FORTHICSdQER 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -739,7 +739,7 @@
 #### FORTHICSs0 
 [**`Results`**](./results.md#forthicss0), [**`Participants`**](./participants.md#forth_ics_isl), [**`Proceedings`**](./proceedings.md#entity-based-stochastic-analysis-of-search-results-for-query-expansion-and-results-re-ranking), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FORTHICSs0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FORTHICSs0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FORTHICSs0), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FORTHICSs0.pdf) 
 
-- :material-rename: **Name:** FORTHICSs0 
+- :material-rename: **Run ID:** FORTHICSs0 
 - :fontawesome-solid-user-group: **Participant:** FORTH_ICS_ISL 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -753,7 +753,7 @@
 #### FrameAFinal 
 [**`Results`**](./results.md#frameafinal), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#siena-s-clinical-decision-assistant), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FrameAFinal.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FrameAFinal), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FrameAFinal), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FrameAFinal.pdf) 
 
-- :material-rename: **Name:** FrameAFinal 
+- :material-rename: **Run ID:** FrameAFinal 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -767,7 +767,7 @@
 #### FusionAdv 
 [**`Results`**](./results.md#fusionadv), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionAdv.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionAdv), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionAdv), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionAdv.pdf) 
 
-- :material-rename: **Name:** FusionAdv 
+- :material-rename: **Run ID:** FusionAdv 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -781,7 +781,7 @@
 #### FusionAuto 
 [**`Results`**](./results.md#fusionauto), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionAuto.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionAuto), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionAuto), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionAuto.pdf) 
 
-- :material-rename: **Name:** FusionAuto 
+- :material-rename: **Run ID:** FusionAuto 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -795,7 +795,7 @@
 #### FusionAutoB 
 [**`Results`**](./results.md#fusionautob), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionAutoB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionAutoB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionAutoB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionAutoB.pdf) 
 
-- :material-rename: **Name:** FusionAutoB 
+- :material-rename: **Run ID:** FusionAutoB 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -809,7 +809,7 @@
 #### FusionMAll 
 [**`Results`**](./results.md#fusionmall), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionMAll.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionMAll), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionMAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionMAll.pdf) 
 
-- :material-rename: **Name:** FusionMAll 
+- :material-rename: **Run ID:** FusionMAll 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -823,7 +823,7 @@
 #### FusionManB 
 [**`Results`**](./results.md#fusionmanb), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionManB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionManB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionManB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionManB.pdf) 
 
-- :material-rename: **Name:** FusionManB 
+- :material-rename: **Run ID:** FusionManB 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -837,7 +837,7 @@
 #### FusionManual 
 [**`Results`**](./results.md#fusionmanual), [**`Participants`**](./participants.md#foreseer), [**`Proceedings`**](./proceedings.md#learning-from-medical-summaries-the-university-of-michigan-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.FusionManual.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.FusionManual), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.FusionManual), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/FusionManual.pdf) 
 
-- :material-rename: **Name:** FusionManual 
+- :material-rename: **Run ID:** FusionManual 
 - :fontawesome-solid-user-group: **Participant:** Foreseer 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -851,7 +851,7 @@
 #### GRIUMenRun1 
 [**`Results`**](./results.md#griumenrun1), [**`Participants`**](./participants.md#grium), [**`Proceedings`**](./proceedings.md#investigation-of-concept-based-proximity-matching-grium-clinical-decision-support-track-2015-task-1a), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.GRIUMenRun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.GRIUMenRun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.GRIUMenRun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/GRIUMenRun1.pdf) 
 
-- :material-rename: **Name:** GRIUMenRun1 
+- :material-rename: **Run ID:** GRIUMenRun1 
 - :fontawesome-solid-user-group: **Participant:** GRIUM 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -866,7 +866,7 @@
 #### GRIUMenRun2 
 [**`Results`**](./results.md#griumenrun2), [**`Participants`**](./participants.md#grium), [**`Proceedings`**](./proceedings.md#investigation-of-concept-based-proximity-matching-grium-clinical-decision-support-track-2015-task-1a), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.GRIUMenRun2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.GRIUMenRun2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.GRIUMenRun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/GRIUMenRun2.pdf) 
 
-- :material-rename: **Name:** GRIUMenRun2 
+- :material-rename: **Run ID:** GRIUMenRun2 
 - :fontawesome-solid-user-group: **Participant:** GRIUM 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -881,7 +881,7 @@
 #### HipocratAr1 
 [**`Results`**](./results.md#hipocratar1), [**`Participants`**](./participants.md#hipocrates15), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.HipocratAr1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.HipocratAr1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.HipocratAr1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/HipocratAr1.pdf) 
 
-- :material-rename: **Name:** HipocratAr1 
+- :material-rename: **Run ID:** HipocratAr1 
 - :fontawesome-solid-user-group: **Participant:** Hipocrates15 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -895,7 +895,7 @@
 #### HipocratAr2 
 [**`Results`**](./results.md#hipocratar2), [**`Participants`**](./participants.md#hipocrates15), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.HipocratAr2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.HipocratAr2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.HipocratAr2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/HipocratAr2.pdf) 
 
-- :material-rename: **Name:** HipocratAr2 
+- :material-rename: **Run ID:** HipocratAr2 
 - :fontawesome-solid-user-group: **Participant:** Hipocrates15 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -909,7 +909,7 @@
 #### HipocratAr3 
 [**`Results`**](./results.md#hipocratar3), [**`Participants`**](./participants.md#hipocrates15), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.HipocratAr3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.HipocratAr3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.HipocratAr3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/HipocratAr3.pdf) 
 
-- :material-rename: **Name:** HipocratAr3 
+- :material-rename: **Run ID:** HipocratAr3 
 - :fontawesome-solid-user-group: **Participant:** Hipocrates15 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -923,7 +923,7 @@
 #### hltcoe4sdrf 
 [**`Results`**](./results.md#hltcoe4sdrf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoe4sdrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoe4sdrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoe4sdrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoe4sdrf.pdf) 
 
-- :material-rename: **Name:** hltcoe4sdrf 
+- :material-rename: **Run ID:** hltcoe4sdrf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -937,7 +937,7 @@
 #### hltcoe4srf 
 [**`Results`**](./results.md#hltcoe4srf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoe4srf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoe4srf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoe4srf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoe4srf.pdf) 
 
-- :material-rename: **Name:** hltcoe4srf 
+- :material-rename: **Run ID:** hltcoe4srf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -951,7 +951,7 @@
 #### hltcoe5sdrf 
 [**`Results`**](./results.md#hltcoe5sdrf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoe5sdrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoe5sdrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoe5sdrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoe5sdrf.pdf) 
 
-- :material-rename: **Name:** hltcoe5sdrf 
+- :material-rename: **Run ID:** hltcoe5sdrf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -965,7 +965,7 @@
 #### hltcoe5srf 
 [**`Results`**](./results.md#hltcoe5srf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoe5srf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoe5srf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoe5srf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoe5srf.pdf) 
 
-- :material-rename: **Name:** hltcoe5srf 
+- :material-rename: **Run ID:** hltcoe5srf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -979,7 +979,7 @@
 #### hltcoewsdrf 
 [**`Results`**](./results.md#hltcoewsdrf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoewsdrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoewsdrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoewsdrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoewsdrf.pdf) 
 
-- :material-rename: **Name:** hltcoewsdrf 
+- :material-rename: **Run ID:** hltcoewsdrf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -993,7 +993,7 @@
 #### hltcoewsrf 
 [**`Results`**](./results.md#hltcoewsrf), [**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#a-domain-independent-approach-to-clinical-decision-support), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hltcoewsrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hltcoewsrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hltcoewsrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hltcoewsrf.pdf) 
 
-- :material-rename: **Name:** hltcoewsrf 
+- :material-rename: **Run ID:** hltcoewsrf 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1007,7 +1007,7 @@
 #### hybrid 
 [**`Results`**](./results.md#hybrid), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hybrid.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hybrid), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hybrid), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hybrid.pdf) 
 
-- :material-rename: **Name:** hybrid 
+- :material-rename: **Run ID:** hybrid 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1021,7 +1021,7 @@
 #### hybridb 
 [**`Results`**](./results.md#hybridb), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.hybridb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.hybridb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.hybridb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/hybridb.pdf) 
 
-- :material-rename: **Name:** hybridb 
+- :material-rename: **Run ID:** hybridb 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1035,7 +1035,7 @@
 #### KISTI001 
 [**`Results`**](./results.md#kisti001), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI001.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI001), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI001), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI001.pdf) 
 
-- :material-rename: **Name:** KISTI001 
+- :material-rename: **Run ID:** KISTI001 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1049,7 +1049,7 @@
 #### KISTI001B 
 [**`Results`**](./results.md#kisti001b), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI001B.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI001B), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI001B), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI001B.pdf) 
 
-- :material-rename: **Name:** KISTI001B 
+- :material-rename: **Run ID:** KISTI001B 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1063,7 +1063,7 @@
 #### KISTI002 
 [**`Results`**](./results.md#kisti002), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI002.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI002), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI002), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI002.pdf) 
 
-- :material-rename: **Name:** KISTI002 
+- :material-rename: **Run ID:** KISTI002 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1077,7 +1077,7 @@
 #### KISTI002B 
 [**`Results`**](./results.md#kisti002b), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI002B.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI002B), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI002B), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI002B.pdf) 
 
-- :material-rename: **Name:** KISTI002B 
+- :material-rename: **Run ID:** KISTI002B 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1091,7 +1091,7 @@
 #### KISTI003 
 [**`Results`**](./results.md#kisti003), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI003.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI003), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI003), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI003.pdf) 
 
-- :material-rename: **Name:** KISTI003 
+- :material-rename: **Run ID:** KISTI003 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1105,7 +1105,7 @@
 #### KISTI003B 
 [**`Results`**](./results.md#kisti003b), [**`Participants`**](./participants.md#kisti), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.KISTI003B.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.KISTI003B), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.KISTI003B), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/KISTI003B.pdf) 
 
-- :material-rename: **Name:** KISTI003B 
+- :material-rename: **Run ID:** KISTI003B 
 - :fontawesome-solid-user-group: **Participant:** KISTI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1119,7 +1119,7 @@
 #### lamdarun01 
 [**`Results`**](./results.md#lamdarun01), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun01.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun01), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun01), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun01.pdf) 
 
-- :material-rename: **Name:** lamdarun01 
+- :material-rename: **Run ID:** lamdarun01 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1134,7 +1134,7 @@
 #### lamdarun02 
 [**`Results`**](./results.md#lamdarun02), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun02.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun02), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun02), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun02.pdf) 
 
-- :material-rename: **Name:** lamdarun02 
+- :material-rename: **Run ID:** lamdarun02 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1149,7 +1149,7 @@
 #### lamdarun03 
 [**`Results`**](./results.md#lamdarun03), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun03.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun03), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun03), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun03.pdf) 
 
-- :material-rename: **Name:** lamdarun03 
+- :material-rename: **Run ID:** lamdarun03 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1164,7 +1164,7 @@
 #### lamdarun04 
 [**`Results`**](./results.md#lamdarun04), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun04.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun04), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun04), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun04.pdf) 
 
-- :material-rename: **Name:** lamdarun04 
+- :material-rename: **Run ID:** lamdarun04 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1179,7 +1179,7 @@
 #### lamdarun05 
 [**`Results`**](./results.md#lamdarun05), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun05.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun05), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun05), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun05.pdf) 
 
-- :material-rename: **Name:** lamdarun05 
+- :material-rename: **Run ID:** lamdarun05 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1194,7 +1194,7 @@
 #### lamdarun06 
 [**`Results`**](./results.md#lamdarun06), [**`Participants`**](./participants.md#lamda), [**`Proceedings`**](./proceedings.md#lamda-at-trec-cds-track-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.lamdarun06.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.lamdarun06), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.lamdarun06), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/lamdarun06.pdf) 
 
-- :material-rename: **Name:** lamdarun06 
+- :material-rename: **Run ID:** lamdarun06 
 - :fontawesome-solid-user-group: **Participant:** LAMDA 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1209,7 +1209,7 @@
 #### LIMSIrun1BoW 
 [**`Results`**](./results.md#limsirun1bow), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun1BoW.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun1BoW), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun1BoW), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun1BoW.pdf) 
 
-- :material-rename: **Name:** LIMSIrun1BoW 
+- :material-rename: **Run ID:** LIMSIrun1BoW 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1223,7 +1223,7 @@
 #### LIMSIrun2MSH 
 [**`Results`**](./results.md#limsirun2msh), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun2MSH.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun2MSH), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun2MSH), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun2MSH.pdf) 
 
-- :material-rename: **Name:** LIMSIrun2MSH 
+- :material-rename: **Run ID:** LIMSIrun2MSH 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1237,7 +1237,7 @@
 #### LIMSIrun3SmF 
 [**`Results`**](./results.md#limsirun3smf), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun3SmF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun3SmF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun3SmF), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun3SmF.pdf) 
 
-- :material-rename: **Name:** LIMSIrun3SmF 
+- :material-rename: **Run ID:** LIMSIrun3SmF 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1251,7 +1251,7 @@
 #### LIMSIrun4Syn 
 [**`Results`**](./results.md#limsirun4syn), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun4Syn.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun4Syn), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun4Syn), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun4Syn.pdf) 
 
-- :material-rename: **Name:** LIMSIrun4Syn 
+- :material-rename: **Run ID:** LIMSIrun4Syn 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1265,7 +1265,7 @@
 #### LIMSIrun5MPF 
 [**`Results`**](./results.md#limsirun5mpf), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun5MPF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun5MPF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun5MPF), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun5MPF.pdf) 
 
-- :material-rename: **Name:** LIMSIrun5MPF 
+- :material-rename: **Run ID:** LIMSIrun5MPF 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1279,7 +1279,7 @@
 #### LIMSIrun6Wik 
 [**`Results`**](./results.md#limsirun6wik), [**`Participants`**](./participants.md#limsi), [**`Proceedings`**](./proceedings.md#limsi-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.LIMSIrun6Wik.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.LIMSIrun6Wik), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.LIMSIrun6Wik), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/LIMSIrun6Wik.pdf) 
 
-- :material-rename: **Name:** LIMSIrun6Wik 
+- :material-rename: **Run ID:** LIMSIrun6Wik 
 - :fontawesome-solid-user-group: **Participant:** LIMSI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1293,7 +1293,7 @@
 #### manual 
 [**`Results`**](./results.md#manual), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.manual.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.manual), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.manual), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/manual.pdf) 
 
-- :material-rename: **Name:** manual 
+- :material-rename: **Run ID:** manual 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1307,7 +1307,7 @@
 #### manualb 
 [**`Results`**](./results.md#manualb), [**`Participants`**](./participants.md#ohsu), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.manualb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.manualb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.manualb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/manualb.pdf) 
 
-- :material-rename: **Name:** manualb 
+- :material-rename: **Run ID:** manualb 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1321,7 +1321,7 @@
 #### NOVASEARCH1 
 [**`Results`**](./results.md#novasearch1), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH1.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH1 
+- :material-rename: **Run ID:** NOVASEARCH1 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1335,7 +1335,7 @@
 #### NOVASEARCH2 
 [**`Results`**](./results.md#novasearch2), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH2.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH2 
+- :material-rename: **Run ID:** NOVASEARCH2 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1349,7 +1349,7 @@
 #### NOVASEARCH3 
 [**`Results`**](./results.md#novasearch3), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH3.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH3 
+- :material-rename: **Run ID:** NOVASEARCH3 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1363,7 +1363,7 @@
 #### NOVASEARCH4 
 [**`Results`**](./results.md#novasearch4), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH4.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH4 
+- :material-rename: **Run ID:** NOVASEARCH4 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1377,7 +1377,7 @@
 #### NOVASEARCH5 
 [**`Results`**](./results.md#novasearch5), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH5), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH5.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH5 
+- :material-rename: **Run ID:** NOVASEARCH5 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1391,7 +1391,7 @@
 #### NOVASEARCH6 
 [**`Results`**](./results.md#novasearch6), [**`Participants`**](./participants.md#novasearch), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.NOVASEARCH6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.NOVASEARCH6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.NOVASEARCH6), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/NOVASEARCH6.pdf) 
 
-- :material-rename: **Name:** NOVASEARCH6 
+- :material-rename: **Run ID:** NOVASEARCH6 
 - :fontawesome-solid-user-group: **Participant:** NOVASEARCH 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1405,7 +1405,7 @@
 #### nuuuuncDFML 
 [**`Results`**](./results.md#nuuuuncdfml), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncDFML.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncDFML), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncDFML), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncDFML.pdf) 
 
-- :material-rename: **Name:** nuuuuncDFML 
+- :material-rename: **Run ID:** nuuuuncDFML 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1419,7 +1419,7 @@
 #### nuuuuncDFMLB 
 [**`Results`**](./results.md#nuuuuncdfmlb), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncDFMLB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncDFMLB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncDFMLB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncDFMLB.pdf) 
 
-- :material-rename: **Name:** nuuuuncDFMLB 
+- :material-rename: **Run ID:** nuuuuncDFMLB 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1433,7 +1433,7 @@
 #### nuuuuncHAKT 
 [**`Results`**](./results.md#nuuuunchakt), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncHAKT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncHAKT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncHAKT), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncHAKT.pdf) 
 
-- :material-rename: **Name:** nuuuuncHAKT 
+- :material-rename: **Run ID:** nuuuuncHAKT 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1447,7 +1447,7 @@
 #### nuuuuncHMKTB 
 [**`Results`**](./results.md#nuuuunchmktb), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncHMKTB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncHMKTB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncHMKTB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncHMKTB.pdf) 
 
-- :material-rename: **Name:** nuuuuncHMKTB 
+- :material-rename: **Run ID:** nuuuuncHMKTB 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1461,7 +1461,7 @@
 #### nuuuuncMDRUB 
 [**`Results`**](./results.md#nuuuuncmdrub), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncMDRUB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncMDRUB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncMDRUB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncMDRUB.pdf) 
 
-- :material-rename: **Name:** nuuuuncMDRUB 
+- :material-rename: **Run ID:** nuuuuncMDRUB 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1475,7 +1475,7 @@
 #### nuuuuncMDRUN 
 [**`Results`**](./results.md#nuuuuncmdrun), [**`Participants`**](./participants.md#nu_uu_unc), [**`Proceedings`**](./proceedings.md#concept-based-information-retrieval-for-clinical-case-summaries), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.nuuuuncMDRUN.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.nuuuuncMDRUN), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.nuuuuncMDRUN), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/nuuuuncMDRUN.pdf) 
 
-- :material-rename: **Name:** nuuuuncMDRUN 
+- :material-rename: **Run ID:** nuuuuncMDRUN 
 - :fontawesome-solid-user-group: **Participant:** NU_UU_UNC 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1489,7 +1489,7 @@
 #### PL2c10 
 [**`Results`**](./results.md#pl2c10), [**`Participants`**](./participants.md#pkuicst), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.PL2c10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.PL2c10), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.PL2c10), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/PL2c10.pdf) 
 
-- :material-rename: **Name:** PL2c10 
+- :material-rename: **Run ID:** PL2c10 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1504,7 +1504,7 @@
 #### PL2c28 
 [**`Results`**](./results.md#pl2c28), [**`Participants`**](./participants.md#pkuicst), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.PL2c28.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.PL2c28), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.PL2c28), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/PL2c28.pdf) 
 
-- :material-rename: **Name:** PL2c28 
+- :material-rename: **Run ID:** PL2c28 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1519,7 +1519,7 @@
 #### PL2c6 
 [**`Results`**](./results.md#pl2c6), [**`Participants`**](./participants.md#pkuicst), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.PL2c6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.PL2c6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.PL2c6), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/PL2c6.pdf) 
 
-- :material-rename: **Name:** PL2c6 
+- :material-rename: **Run ID:** PL2c6 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1534,7 +1534,7 @@
 #### PPR 
 [**`Results`**](./results.md#ppr), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.PPR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.PPR), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.PPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/PPR.pdf) 
 
-- :material-rename: **Name:** PPR 
+- :material-rename: **Run ID:** PPR 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1548,7 +1548,7 @@
 #### PPRdiag 
 [**`Results`**](./results.md#pprdiag), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.PPRdiag.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.PPRdiag), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.PPRdiag), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/PPRdiag.pdf) 
 
-- :material-rename: **Name:** PPRdiag 
+- :material-rename: **Run ID:** PPRdiag 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1562,7 +1562,7 @@
 #### prna1 
 [**`Results`**](./results.md#prna1), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prna1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prna1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prna1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prna1.pdf) 
 
-- :material-rename: **Name:** prna1 
+- :material-rename: **Run ID:** prna1 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1576,7 +1576,7 @@
 #### prna2 
 [**`Results`**](./results.md#prna2), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prna2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prna2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prna2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prna2.pdf) 
 
-- :material-rename: **Name:** prna2 
+- :material-rename: **Run ID:** prna2 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1590,7 +1590,7 @@
 #### prna3 
 [**`Results`**](./results.md#prna3), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prna3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prna3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prna3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prna3.pdf) 
 
-- :material-rename: **Name:** prna3 
+- :material-rename: **Run ID:** prna3 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1604,7 +1604,7 @@
 #### prnaB1 
 [**`Results`**](./results.md#prnab1), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prnaB1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prnaB1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prnaB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prnaB1.pdf) 
 
-- :material-rename: **Name:** prnaB1 
+- :material-rename: **Run ID:** prnaB1 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1618,7 +1618,7 @@
 #### prnaB2 
 [**`Results`**](./results.md#prnab2), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prnaB2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prnaB2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prnaB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prnaB2.pdf) 
 
-- :material-rename: **Name:** prnaB2 
+- :material-rename: **Run ID:** prnaB2 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1632,7 +1632,7 @@
 #### prnaB3 
 [**`Results`**](./results.md#prnab3), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#using-neural-embeddings-for-diagnostic-inferencing-in-clinical-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.prnaB3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.prnaB3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.prnaB3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/prnaB3.pdf) 
 
-- :material-rename: **Name:** prnaB3 
+- :material-rename: **Run ID:** prnaB3 
 - :fontawesome-solid-user-group: **Participant:** prna 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1646,7 +1646,7 @@
 #### QFB 
 [**`Results`**](./results.md#qfb), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.QFB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.QFB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.QFB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/QFB.pdf) 
 
-- :material-rename: **Name:** QFB 
+- :material-rename: **Run ID:** QFB 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1660,7 +1660,7 @@
 #### QFBdiag 
 [**`Results`**](./results.md#qfbdiag), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.QFBdiag.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.QFBdiag), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.QFBdiag), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/QFBdiag.pdf) 
 
-- :material-rename: **Name:** QFBdiag 
+- :material-rename: **Run ID:** QFBdiag 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1674,7 +1674,7 @@
 #### RRFfused 
 [**`Results`**](./results.md#rrffused), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#siena-s-clinical-decision-assistant), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.RRFfused.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.RRFfused), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.RRFfused), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/RRFfused.pdf) 
 
-- :material-rename: **Name:** RRFfused 
+- :material-rename: **Run ID:** RRFfused 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1688,7 +1688,7 @@
 #### RRFFused 
 [**`Results`**](./results.md#rrffused), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#siena-s-clinical-decision-assistant), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.RRFFused.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.RRFFused), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.RRFFused), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/RRFFused.pdf) 
 
-- :material-rename: **Name:** RRFFused 
+- :material-rename: **Run ID:** RRFFused 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1702,7 +1702,7 @@
 #### run1 
 [**`Results`**](./results.md#run1), [**`Participants`**](./participants.md#dbnet_aueb), [**`Proceedings`**](./proceedings.md#aueb-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.run1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.run1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/run1.pdf) 
 
-- :material-rename: **Name:** run1 
+- :material-rename: **Run ID:** run1 
 - :fontawesome-solid-user-group: **Participant:** DBNET_AUEB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1716,7 +1716,7 @@
 #### Run1DBpSimp 
 [**`Results`**](./results.md#run1dbpsimp), [**`Participants`**](./participants.md#list_lux), [**`Proceedings`**](./proceedings.md#list-at-trec-2015-clinical-decision-support-track-question-analysis-and-unsupervised-result-fusion), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.Run1DBpSimp.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.Run1DBpSimp), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.Run1DBpSimp), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/Run1DBpSimp.pdf) 
 
-- :material-rename: **Name:** Run1DBpSimp 
+- :material-rename: **Run ID:** Run1DBpSimp 
 - :fontawesome-solid-user-group: **Participant:** LIST_LUX 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1730,7 +1730,7 @@
 #### run2 
 [**`Results`**](./results.md#run2), [**`Participants`**](./participants.md#dbnet_aueb), [**`Proceedings`**](./proceedings.md#aueb-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.run2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.run2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/run2.pdf) 
 
-- :material-rename: **Name:** run2 
+- :material-rename: **Run ID:** run2 
 - :fontawesome-solid-user-group: **Participant:** DBNET_AUEB 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1744,7 +1744,7 @@
 #### Run2DBpComb 
 [**`Results`**](./results.md#run2dbpcomb), [**`Participants`**](./participants.md#list_lux), [**`Proceedings`**](./proceedings.md#list-at-trec-2015-clinical-decision-support-track-question-analysis-and-unsupervised-result-fusion), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.Run2DBpComb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.Run2DBpComb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.Run2DBpComb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/Run2DBpComb.pdf) 
 
-- :material-rename: **Name:** Run2DBpComb 
+- :material-rename: **Run ID:** Run2DBpComb 
 - :fontawesome-solid-user-group: **Participant:** LIST_LUX 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1758,7 +1758,7 @@
 #### Run4HLM 
 [**`Results`**](./results.md#run4hlm), [**`Participants`**](./participants.md#list_lux), [**`Proceedings`**](./proceedings.md#list-at-trec-2015-clinical-decision-support-track-question-analysis-and-unsupervised-result-fusion), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.Run4HLM.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.Run4HLM), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.Run4HLM), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/Run4HLM.pdf) 
 
-- :material-rename: **Name:** Run4HLM 
+- :material-rename: **Run ID:** Run4HLM 
 - :fontawesome-solid-user-group: **Participant:** LIST_LUX 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1772,7 +1772,7 @@
 #### Run5DBpAbs 
 [**`Results`**](./results.md#run5dbpabs), [**`Participants`**](./participants.md#list_lux), [**`Proceedings`**](./proceedings.md#list-at-trec-2015-clinical-decision-support-track-question-analysis-and-unsupervised-result-fusion), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.Run5DBpAbs.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.Run5DBpAbs), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.Run5DBpAbs), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/Run5DBpAbs.pdf) 
 
-- :material-rename: **Name:** Run5DBpAbs 
+- :material-rename: **Run ID:** Run5DBpAbs 
 - :fontawesome-solid-user-group: **Participant:** LIST_LUX 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1786,7 +1786,7 @@
 #### runindri 
 [**`Results`**](./results.md#runindri), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.runindri.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.runindri), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.runindri), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/runindri.pdf) 
 
-- :material-rename: **Name:** runindri 
+- :material-rename: **Run ID:** runindri 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1801,7 +1801,7 @@
 #### runindriB 
 [**`Results`**](./results.md#runindrib), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.runindriB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.runindriB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.runindriB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/runindriB.pdf) 
 
-- :material-rename: **Name:** runindriB 
+- :material-rename: **Run ID:** runindriB 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1816,7 +1816,7 @@
 #### runindriML 
 [**`Results`**](./results.md#runindriml), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.runindriML.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.runindriML), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.runindriML), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/runindriML.pdf) 
 
-- :material-rename: **Name:** runindriML 
+- :material-rename: **Run ID:** runindriML 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1831,7 +1831,7 @@
 #### runnetwork 
 [**`Results`**](./results.md#runnetwork), [**`Participants`**](./participants.md#hitsj), [**`Proceedings`**](./proceedings.md#hit-wi-at-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.runnetwork.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.runnetwork), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.runnetwork), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/runnetwork.pdf) 
 
-- :material-rename: **Name:** runnetwork 
+- :material-rename: **Run ID:** runnetwork 
 - :fontawesome-solid-user-group: **Participant:** HITSJ 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1846,7 +1846,7 @@
 #### SCIAILuceneA 
 [**`Results`**](./results.md#sciailucenea), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#siena-s-clinical-decision-assistant), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SCIAILuceneA.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SCIAILuceneA), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SCIAILuceneA), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SCIAILuceneA.pdf) 
 
-- :material-rename: **Name:** SCIAILuceneA 
+- :material-rename: **Run ID:** SCIAILuceneA 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1860,7 +1860,7 @@
 #### SCIAILuceneB 
 [**`Results`**](./results.md#sciailuceneb), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#siena-s-clinical-decision-assistant), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SCIAILuceneB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SCIAILuceneB), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SCIAILuceneB), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SCIAILuceneB.pdf) 
 
-- :material-rename: **Name:** SCIAILuceneB 
+- :material-rename: **Run ID:** SCIAILuceneB 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1874,7 +1874,7 @@
 #### SH1 
 [**`Results`**](./results.md#sh1), [**`Participants`**](./participants.md#sortinghat), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SH1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SH1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SH1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SH1.pdf) 
 
-- :material-rename: **Name:** SH1 
+- :material-rename: **Run ID:** SH1 
 - :fontawesome-solid-user-group: **Participant:** Sortinghat 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1889,7 +1889,7 @@
 #### SHB1 
 [**`Results`**](./results.md#shb1), [**`Participants`**](./participants.md#sortinghat), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SHB1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SHB1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SHB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SHB1.pdf) 
 
-- :material-rename: **Name:** SHB1 
+- :material-rename: **Run ID:** SHB1 
 - :fontawesome-solid-user-group: **Participant:** Sortinghat 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1904,7 +1904,7 @@
 #### SIBTEX2CITIN 
 [**`Results`**](./results.md#sibtex2citin), [**`Participants`**](./participants.md#sibtex), [**`Proceedings`**](./proceedings.md#exploiting-incoming-and-outgoing-citations-for-improving-information-retrieval-in-the-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SIBTEX2CITIN.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SIBTEX2CITIN), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SIBTEX2CITIN), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SIBTEX2CITIN.pdf) 
 
-- :material-rename: **Name:** SIBTEX2CITIN 
+- :material-rename: **Run ID:** SIBTEX2CITIN 
 - :fontawesome-solid-user-group: **Participant:** SIBtex 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1918,7 +1918,7 @@
 #### SIBTEX3CTOUT 
 [**`Results`**](./results.md#sibtex3ctout), [**`Participants`**](./participants.md#sibtex), [**`Proceedings`**](./proceedings.md#exploiting-incoming-and-outgoing-citations-for-improving-information-retrieval-in-the-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SIBTEX3CTOUT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SIBTEX3CTOUT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SIBTEX3CTOUT), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SIBTEX3CTOUT.pdf) 
 
-- :material-rename: **Name:** SIBTEX3CTOUT 
+- :material-rename: **Run ID:** SIBTEX3CTOUT 
 - :fontawesome-solid-user-group: **Participant:** SIBtex 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1932,7 +1932,7 @@
 #### SIBTEX5COMBO 
 [**`Results`**](./results.md#sibtex5combo), [**`Participants`**](./participants.md#sibtex), [**`Proceedings`**](./proceedings.md#exploiting-incoming-and-outgoing-citations-for-improving-information-retrieval-in-the-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SIBTEX5COMBO.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SIBTEX5COMBO), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SIBTEX5COMBO), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SIBTEX5COMBO.pdf) 
 
-- :material-rename: **Name:** SIBTEX5COMBO 
+- :material-rename: **Run ID:** SIBTEX5COMBO 
 - :fontawesome-solid-user-group: **Participant:** SIBtex 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1946,7 +1946,7 @@
 #### SNUMedinfo1 
 [**`Results`**](./results.md#snumedinfo1), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo1.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo1 
+- :material-rename: **Run ID:** SNUMedinfo1 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1960,7 +1960,7 @@
 #### SNUMedinfo11 
 [**`Results`**](./results.md#snumedinfo11), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo11.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo11), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo11), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo11.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo11 
+- :material-rename: **Run ID:** SNUMedinfo11 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1974,7 +1974,7 @@
 #### SNUMedinfo12 
 [**`Results`**](./results.md#snumedinfo12), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo12.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo12), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo12), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo12.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo12 
+- :material-rename: **Run ID:** SNUMedinfo12 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -1988,7 +1988,7 @@
 #### SNUMedinfo13 
 [**`Results`**](./results.md#snumedinfo13), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo13.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo13), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo13), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo13.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo13 
+- :material-rename: **Run ID:** SNUMedinfo13 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2002,7 +2002,7 @@
 #### SNUMedinfo2 
 [**`Results`**](./results.md#snumedinfo2), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo2.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo2 
+- :material-rename: **Run ID:** SNUMedinfo2 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2016,7 +2016,7 @@
 #### SNUMedinfo3 
 [**`Results`**](./results.md#snumedinfo3), [**`Participants`**](./participants.md#snumedinfo), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.SNUMedinfo3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.SNUMedinfo3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.SNUMedinfo3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/SNUMedinfo3.pdf) 
 
-- :material-rename: **Name:** SNUMedinfo3 
+- :material-rename: **Run ID:** SNUMedinfo3 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2030,7 +2030,7 @@
 #### TUW1 
 [**`Results`**](./results.md#tuw1), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW1.pdf) 
 
-- :material-rename: **Name:** TUW1 
+- :material-rename: **Run ID:** TUW1 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2044,7 +2044,7 @@
 #### TUW2 
 [**`Results`**](./results.md#tuw2), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW2.pdf) 
 
-- :material-rename: **Name:** TUW2 
+- :material-rename: **Run ID:** TUW2 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2058,7 +2058,7 @@
 #### TUW3 
 [**`Results`**](./results.md#tuw3), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW3.pdf) 
 
-- :material-rename: **Name:** TUW3 
+- :material-rename: **Run ID:** TUW3 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2072,7 +2072,7 @@
 #### TUW4 
 [**`Results`**](./results.md#tuw4), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW4.pdf) 
 
-- :material-rename: **Name:** TUW4 
+- :material-rename: **Run ID:** TUW4 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2087,7 +2087,7 @@
 #### TUW5 
 [**`Results`**](./results.md#tuw5), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW5), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW5.pdf) 
 
-- :material-rename: **Name:** TUW5 
+- :material-rename: **Run ID:** TUW5 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2102,7 +2102,7 @@
 #### TUW6 
 [**`Results`**](./results.md#tuw6), [**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-trec-clinical-decision-support-track-2015), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.TUW6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.TUW6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.TUW6), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/TUW6.pdf) 
 
-- :material-rename: **Name:** TUW6 
+- :material-rename: **Run ID:** TUW6 
 - :fontawesome-solid-user-group: **Participant:** TUW 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2117,7 +2117,7 @@
 #### udelArun1 
 [**`Results`**](./results.md#udelarun1), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelArun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelArun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelArun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelArun1.pdf) 
 
-- :material-rename: **Name:** udelArun1 
+- :material-rename: **Run ID:** udelArun1 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2131,7 +2131,7 @@
 #### udelArun2 
 [**`Results`**](./results.md#udelarun2), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelArun2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelArun2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelArun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelArun2.pdf) 
 
-- :material-rename: **Name:** udelArun2 
+- :material-rename: **Run ID:** udelArun2 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2145,7 +2145,7 @@
 #### udelArun3 
 [**`Results`**](./results.md#udelarun3), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelArun3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelArun3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelArun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelArun3.pdf) 
 
-- :material-rename: **Name:** udelArun3 
+- :material-rename: **Run ID:** udelArun3 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2159,7 +2159,7 @@
 #### udelBrun1 
 [**`Results`**](./results.md#udelbrun1), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelBrun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelBrun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelBrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelBrun1.pdf) 
 
-- :material-rename: **Name:** udelBrun1 
+- :material-rename: **Run ID:** udelBrun1 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2173,7 +2173,7 @@
 #### udelBrun2 
 [**`Results`**](./results.md#udelbrun2), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelBrun2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelBrun2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelBrun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelBrun2.pdf) 
 
-- :material-rename: **Name:** udelBrun2 
+- :material-rename: **Run ID:** udelBrun2 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2187,7 +2187,7 @@
 #### udelBrun3 
 [**`Results`**](./results.md#udelbrun3), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.udelBrun3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.udelBrun3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.udelBrun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/udelBrun3.pdf) 
 
-- :material-rename: **Name:** udelBrun3 
+- :material-rename: **Run ID:** udelBrun3 
 - :fontawesome-solid-user-group: **Participant:** udel 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2201,7 +2201,7 @@
 #### UMLS 
 [**`Results`**](./results.md#umls), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UMLS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UMLS), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UMLS), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UMLS.pdf) 
 
-- :material-rename: **Name:** UMLS 
+- :material-rename: **Run ID:** UMLS 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2215,7 +2215,7 @@
 #### UMLSdiag 
 [**`Results`**](./results.md#umlsdiag), [**`Participants`**](./participants.md#cbia_vt), [**`Proceedings`**](./proceedings.md#cbia-vt-at-trec-2015-clinical-decision-support-track-exploring-relevance-feedback-and-query-expansion-in-biomedical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UMLSdiag.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UMLSdiag), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UMLSdiag), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UMLSdiag.pdf) 
 
-- :material-rename: **Name:** UMLSdiag 
+- :material-rename: **Run ID:** UMLSdiag 
 - :fontawesome-solid-user-group: **Participant:** CBIA_VT 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2229,7 +2229,7 @@
 #### utdhltrikcv 
 [**`Results`**](./results.md#utdhltrikcv), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltrikcv.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltrikcv), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltrikcv), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltrikcv.pdf) 
 
-- :material-rename: **Name:** utdhltrikcv 
+- :material-rename: **Run ID:** utdhltrikcv 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2243,7 +2243,7 @@
 #### utdhltrikcvb 
 [**`Results`**](./results.md#utdhltrikcvb), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltrikcvb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltrikcvb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltrikcvb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltrikcvb.pdf) 
 
-- :material-rename: **Name:** utdhltrikcvb 
+- :material-rename: **Run ID:** utdhltrikcvb 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2257,7 +2257,7 @@
 #### utdhltril2r 
 [**`Results`**](./results.md#utdhltril2r), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltril2r.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltril2r), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltril2r), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltril2r.pdf) 
 
-- :material-rename: **Name:** utdhltril2r 
+- :material-rename: **Run ID:** utdhltril2r 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2271,7 +2271,7 @@
 #### utdhltripar 
 [**`Results`**](./results.md#utdhltripar), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltripar.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltripar), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltripar), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltripar.pdf) 
 
-- :material-rename: **Name:** utdhltripar 
+- :material-rename: **Run ID:** utdhltripar 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2285,7 +2285,7 @@
 #### utdhltriprfb 
 [**`Results`**](./results.md#utdhltriprfb), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltriprfb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltriprfb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltriprfb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltriprfb.pdf) 
 
-- :material-rename: **Name:** utdhltriprfb 
+- :material-rename: **Run ID:** utdhltriprfb 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2299,7 +2299,7 @@
 #### utdhltrisprf 
 [**`Results`**](./results.md#utdhltrisprf), [**`Participants`**](./participants.md#utdhltri), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.utdhltrisprf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.utdhltrisprf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.utdhltrisprf), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/utdhltrisprf.pdf) 
 
-- :material-rename: **Name:** utdhltrisprf 
+- :material-rename: **Run ID:** utdhltrisprf 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2313,7 +2313,7 @@
 #### UWCPL2 
 [**`Results`**](./results.md#uwcpl2), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWCPL2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWCPL2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWCPL2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWCPL2.pdf) 
 
-- :material-rename: **Name:** UWCPL2 
+- :material-rename: **Run ID:** UWCPL2 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2327,7 +2327,7 @@
 #### UWCSolrBM25 
 [**`Results`**](./results.md#uwcsolrbm25), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWCSolrBM25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWCSolrBM25), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWCSolrBM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWCSolrBM25.pdf) 
 
-- :material-rename: **Name:** UWCSolrBM25 
+- :material-rename: **Run ID:** UWCSolrBM25 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2341,7 +2341,7 @@
 #### UWCSolrTerr 
 [**`Results`**](./results.md#uwcsolrterr), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-clinical-decision-support-track), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWCSolrTerr.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWCSolrTerr), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWCSolrTerr), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWCSolrTerr.pdf) 
 
-- :material-rename: **Name:** UWCSolrTerr 
+- :material-rename: **Run ID:** UWCSolrTerr 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2355,7 +2355,7 @@
 #### UWMUO1 
 [**`Results`**](./results.md#uwmuo1), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO1), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO1.pdf) 
 
-- :material-rename: **Name:** UWMUO1 
+- :material-rename: **Run ID:** UWMUO1 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2369,7 +2369,7 @@
 #### UWMUO2 
 [**`Results`**](./results.md#uwmuo2), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO2), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO2.pdf) 
 
-- :material-rename: **Name:** UWMUO2 
+- :material-rename: **Run ID:** UWMUO2 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2383,7 +2383,7 @@
 #### UWMUO3 
 [**`Results`**](./results.md#uwmuo3), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO3), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO3.pdf) 
 
-- :material-rename: **Name:** UWMUO3 
+- :material-rename: **Run ID:** UWMUO3 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2397,7 +2397,7 @@
 #### UWMUO4 
 [**`Results`**](./results.md#uwmuo4), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO4), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO4.pdf) 
 
-- :material-rename: **Name:** UWMUO4 
+- :material-rename: **Run ID:** UWMUO4 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2411,7 +2411,7 @@
 #### UWMUO5 
 [**`Results`**](./results.md#uwmuo5), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO5), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO5.pdf) 
 
-- :material-rename: **Name:** UWMUO5 
+- :material-rename: **Run ID:** UWMUO5 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2425,7 +2425,7 @@
 #### UWMUO6 
 [**`Results`**](./results.md#uwmuo6), [**`Participants`**](./participants.md#uwm_uo), [**`Proceedings`**](./proceedings.md#trec-2015-paper-submission-uwm-uo-2015-clinical-decision-support-track-qe-by-weighted-keywords-using-prf), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.UWMUO6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.UWMUO6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.UWMUO6), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/UWMUO6.pdf) 
 
-- :material-rename: **Name:** UWMUO6 
+- :material-rename: **Run ID:** UWMUO6 
 - :fontawesome-solid-user-group: **Participant:** UWM_UO 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2439,7 +2439,7 @@
 #### wsuirdaa 
 [**`Results`**](./results.md#wsuirdaa), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirdaa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirdaa), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirdaa), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirdaa.pdf) 
 
-- :material-rename: **Name:** wsuirdaa 
+- :material-rename: **Run ID:** wsuirdaa 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2454,7 +2454,7 @@
 #### wsuirdma 
 [**`Results`**](./results.md#wsuirdma), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirdma.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirdma), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirdma), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirdma.pdf) 
 
-- :material-rename: **Name:** wsuirdma 
+- :material-rename: **Run ID:** wsuirdma 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2469,7 +2469,7 @@
 #### wsuirdmb 
 [**`Results`**](./results.md#wsuirdmb), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirdmb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirdmb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirdmb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirdmb.pdf) 
 
-- :material-rename: **Name:** wsuirdmb 
+- :material-rename: **Run ID:** wsuirdmb 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2484,7 +2484,7 @@
 #### wsuirsaa 
 [**`Results`**](./results.md#wsuirsaa), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirsaa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirsaa), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirsaa), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirsaa.pdf) 
 
-- :material-rename: **Name:** wsuirsaa 
+- :material-rename: **Run ID:** wsuirsaa 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2499,7 +2499,7 @@
 #### wsuirsab 
 [**`Results`**](./results.md#wsuirsab), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirsab.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirsab), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirsab), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirsab.pdf) 
 
-- :material-rename: **Name:** wsuirsab 
+- :material-rename: **Run ID:** wsuirsab 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 
@@ -2514,7 +2514,7 @@
 #### wsuirsmb 
 [**`Results`**](./results.md#wsuirsmb), [**`Participants`**](./participants.md#wsu_ir), [**`Proceedings`**](./proceedings.md#wsu-ir-at-trec-2015-clinical-decision-support-track-joint-weighting-of-explicit-and-latent-medical-query-concepts-from-diverse-sources), [**`Input`**](https://trec.nist.gov/results/trec24/clinical/input.wsuirsmb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.trec_eval.wsuirsmb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec24/clinical/summary.sample-eval.wsuirsmb), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/clinical/wsuirsmb.pdf) 
 
-- :material-rename: **Name:** wsuirsmb 
+- :material-rename: **Run ID:** wsuirsmb 
 - :fontawesome-solid-user-group: **Participant:** wsu_ir 
 - :material-format-text: **Track:** Clinical Decision Support 
 - :material-calendar: **Year:** 2015 

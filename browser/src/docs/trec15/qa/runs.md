@@ -1,7 +1,7 @@
 # Runs - Question Answering 2006 
 
 #### asked06a 
-[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06a.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06a.pdf) 
+[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06a.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06a.table.pdf) 
 
 - :material-rename: **Run ID:** asked06a 
 - :fontawesome-solid-user-group: **Participant:** tokyo-it.whittaker 
@@ -12,7 +12,7 @@
 
 ---
 #### asked06b 
-[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06b.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06b.pdf) 
+[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06b.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06b.table.pdf) 
 
 - :material-rename: **Run ID:** asked06b 
 - :fontawesome-solid-user-group: **Participant:** tokyo-it.whittaker 
@@ -23,7 +23,7 @@
 
 ---
 #### asked06c 
-[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06c.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06c.pdf) 
+[**`Participants`**](./participants.md#tokyo-itwhittaker), [**`Proceedings`**](./proceedings.md#trec-2006-question-answering-experiments-at-tokyo-institute-of-technology), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.asked06c.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.asked06c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/asked06c.table.pdf) 
 
 - :material-rename: **Run ID:** asked06c 
 - :fontawesome-solid-user-group: **Participant:** tokyo-it.whittaker 
@@ -34,7 +34,7 @@
 
 ---
 #### clr06ci1 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci1.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci1.table.pdf) 
 
 - :material-rename: **Run ID:** clr06ci1 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -47,7 +47,7 @@
 
 ---
 #### clr06ci1r 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci1r.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci1r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci1r.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci1r.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci1r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci1r.table.pdf) 
 
 - :material-rename: **Run ID:** clr06ci1r 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -60,7 +60,7 @@
 
 ---
 #### clr06ci2 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci2.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci2.table.pdf) 
 
 - :material-rename: **Run ID:** clr06ci2 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -73,7 +73,7 @@
 
 ---
 #### clr06ci2r 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci2r.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci2r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci2r.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06ci2r.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06ci2r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06ci2r.table.pdf) 
 
 - :material-rename: **Run ID:** clr06ci2r 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -86,7 +86,7 @@
 
 ---
 #### clr06m 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06m.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06m.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06m.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.clr06m.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.clr06m.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/clr06m.table.pdf) 
 
 - :material-rename: **Run ID:** clr06m 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -97,7 +97,7 @@
 
 ---
 #### CLR1 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.CLR1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.CLR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/CLR1.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.CLR1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.CLR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/CLR1.table.pdf) 
 
 - :material-rename: **Run ID:** CLR1 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -109,7 +109,7 @@
 
 ---
 #### CLR2 
-[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.CLR2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.CLR2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/CLR2.pdf) 
+[**`Participants`**](./participants.md#clresearch), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.CLR2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.CLR2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/CLR2.table.pdf) 
 
 - :material-rename: **Run ID:** CLR2 
 - :fontawesome-solid-user-group: **Participant:** clresearch 
@@ -121,7 +121,7 @@
 
 ---
 #### csail01 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail01.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail01.table.pdf) 
 
 - :material-rename: **Run ID:** csail01 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -132,7 +132,7 @@
 
 ---
 #### csail02 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail02.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail02.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail02.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail02.table.pdf) 
 
 - :material-rename: **Run ID:** csail02 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -143,7 +143,7 @@
 
 ---
 #### csail03 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail03.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail03.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail03.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail03.table.pdf) 
 
 - :material-rename: **Run ID:** csail03 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -154,7 +154,7 @@
 
 ---
 #### csail1 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail1.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csail1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csail1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csail1.table.pdf) 
 
 - :material-rename: **Run ID:** csail1 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -167,7 +167,7 @@
 
 ---
 #### csaili1 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csaili1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csaili1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csaili1.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csaili1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csaili1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csaili1.table.pdf) 
 
 - :material-rename: **Run ID:** csaili1 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -179,7 +179,7 @@
 
 ---
 #### csaili2 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csaili2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csaili2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csaili2.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csaili2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csaili2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csaili2.table.pdf) 
 
 - :material-rename: **Run ID:** csaili2 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -191,7 +191,7 @@
 
 ---
 #### csailif1 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csailif1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csailif1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csailif1.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csailif1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csailif1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csailif1.table.pdf) 
 
 - :material-rename: **Run ID:** csailif1 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -204,7 +204,7 @@
 
 ---
 #### csailif2 
-[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csailif2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csailif2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csailif2.pdf) 
+[**`Participants`**](./participants.md#mitkatz), [**`Proceedings`**](./proceedings.md#question-answering-experiments-and-resources), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.csailif2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.csailif2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/csailif2.table.pdf) 
 
 - :material-rename: **Run ID:** csailif2 
 - :fontawesome-solid-user-group: **Participant:** mit.katz 
@@ -217,7 +217,7 @@
 
 ---
 #### cuhkqaepisto 
-[**`Participants`**](./participants.md#chineseu-hongkongkan), [**`Proceedings`**](./proceedings.md#using-semantic-relations-with-world-knowledge-for-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.cuhkqaepisto.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.cuhkqaepisto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/cuhkqaepisto.pdf) 
+[**`Participants`**](./participants.md#chineseu-hongkongkan), [**`Proceedings`**](./proceedings.md#using-semantic-relations-with-world-knowledge-for-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.cuhkqaepisto.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.cuhkqaepisto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/cuhkqaepisto.table.pdf) 
 
 - :material-rename: **Run ID:** cuhkqaepisto 
 - :fontawesome-solid-user-group: **Participant:** chineseu-hongkong.kan 
@@ -228,7 +228,7 @@
 
 ---
 #### Dal06e 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06e.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06e.pdf) 
+[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06e.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06e.table.pdf) 
 
 - :material-rename: **Run ID:** Dal06e 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -239,7 +239,7 @@
 
 ---
 #### Dal06m 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06m.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06m.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06m.pdf) 
+[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06m.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06m.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06m.table.pdf) 
 
 - :material-rename: **Run ID:** Dal06m 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -250,7 +250,7 @@
 
 ---
 #### Dal06p 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06p.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06p.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06p.pdf) 
+[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2006-qa-system-jellyfish-regular-expressions-mark-and-match-approach-to-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Dal06p.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Dal06p.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Dal06p.table.pdf) 
 
 - :material-rename: **Run ID:** Dal06p 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -261,7 +261,7 @@
 
 ---
 #### DLT06QA01 
-[**`Participants`**](./participants.md#ulimericksutcliffe), [**`Proceedings`**](./proceedings.md#question-answering-using-the-dlt-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.DLT06QA01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.DLT06QA01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/DLT06QA01.pdf) 
+[**`Participants`**](./participants.md#ulimericksutcliffe), [**`Proceedings`**](./proceedings.md#question-answering-using-the-dlt-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.DLT06QA01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.DLT06QA01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/DLT06QA01.table.pdf) 
 
 - :material-rename: **Run ID:** DLT06QA01 
 - :fontawesome-solid-user-group: **Participant:** ulimerick.sutcliffe 
@@ -272,7 +272,7 @@
 
 ---
 #### DLT06QA02 
-[**`Participants`**](./participants.md#ulimericksutcliffe), [**`Proceedings`**](./proceedings.md#question-answering-using-the-dlt-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.DLT06QA02.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.DLT06QA02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/DLT06QA02.pdf) 
+[**`Participants`**](./participants.md#ulimericksutcliffe), [**`Proceedings`**](./proceedings.md#question-answering-using-the-dlt-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.DLT06QA02.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.DLT06QA02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/DLT06QA02.table.pdf) 
 
 - :material-rename: **Run ID:** DLT06QA02 
 - :fontawesome-solid-user-group: **Participant:** ulimerick.sutcliffe 
@@ -283,7 +283,7 @@
 
 ---
 #### ed06qar1 
-[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar1.pdf) 
+[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar1.table.pdf) 
 
 - :material-rename: **Run ID:** ed06qar1 
 - :fontawesome-solid-user-group: **Participant:** uedinburgh.webber 
@@ -294,7 +294,7 @@
 
 ---
 #### ed06qar2 
-[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar2.pdf) 
+[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar2.table.pdf) 
 
 - :material-rename: **Run ID:** ed06qar2 
 - :fontawesome-solid-user-group: **Participant:** uedinburgh.webber 
@@ -305,7 +305,7 @@
 
 ---
 #### ed06qar3 
-[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar3.pdf) 
+[**`Participants`**](./participants.md#uedinburghwebber), [**`Proceedings`**](./proceedings.md#experiments-at-the-university-of-edinburgh-for-the-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ed06qar3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ed06qar3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ed06qar3.table.pdf) 
 
 - :material-rename: **Run ID:** ed06qar3 
 - :fontawesome-solid-user-group: **Participant:** uedinburgh.webber 
@@ -316,7 +316,7 @@
 
 ---
 #### FDUQAT15A 
-[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15A.pdf) 
+[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15A.table.pdf) 
 
 - :material-rename: **Run ID:** FDUQAT15A 
 - :fontawesome-solid-user-group: **Participant:** fudan.wu 
@@ -327,7 +327,7 @@
 
 ---
 #### FDUQAT15B 
-[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15B.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15B.pdf) 
+[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15B.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15B.table.pdf) 
 
 - :material-rename: **Run ID:** FDUQAT15B 
 - :fontawesome-solid-user-group: **Participant:** fudan.wu 
@@ -338,7 +338,7 @@
 
 ---
 #### FDUQAT15C 
-[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15C.pdf) 
+[**`Participants`**](./participants.md#fudanwu), [**`Proceedings`**](./proceedings.md#fduqa-on-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.FDUQAT15C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.FDUQAT15C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/FDUQAT15C.table.pdf) 
 
 - :material-rename: **Run ID:** FDUQAT15C 
 - :fontawesome-solid-user-group: **Participant:** fudan.wu 
@@ -349,7 +349,7 @@
 
 ---
 #### ILQUA1 
-[**`Participants`**](./participants.md#ualbanymin), [**`Proceedings`**](./proceedings.md#ilqua-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ILQUA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ILQUA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ILQUA1.pdf) 
+[**`Participants`**](./participants.md#ualbanymin), [**`Proceedings`**](./proceedings.md#ilqua-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ILQUA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ILQUA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ILQUA1.table.pdf) 
 
 - :material-rename: **Run ID:** ILQUA1 
 - :fontawesome-solid-user-group: **Participant:** ualbany.min 
@@ -360,7 +360,7 @@
 
 ---
 #### InsunQA06 
-[**`Participants`**](./participants.md#harbinzhao), [**`Proceedings`**](./proceedings.md#insunqa06-on-qa-track-of-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.InsunQA06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.InsunQA06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/InsunQA06.pdf) 
+[**`Participants`**](./participants.md#harbinzhao), [**`Proceedings`**](./proceedings.md#insunqa06-on-qa-track-of-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.InsunQA06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.InsunQA06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/InsunQA06.table.pdf) 
 
 - :material-rename: **Run ID:** InsunQA06 
 - :fontawesome-solid-user-group: **Participant:** harbin.zhao 
@@ -371,7 +371,7 @@
 
 ---
 #### irstqa06 
-[**`Participants`**](./participants.md#itc-irstnegri), [**`Proceedings`**](./proceedings.md#reconstructing-diogene-itc-irst-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.irstqa06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.irstqa06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/irstqa06.pdf) 
+[**`Participants`**](./participants.md#itc-irstnegri), [**`Proceedings`**](./proceedings.md#reconstructing-diogene-itc-irst-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.irstqa06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.irstqa06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/irstqa06.table.pdf) 
 
 - :material-rename: **Run ID:** irstqa06 
 - :fontawesome-solid-user-group: **Participant:** itc-irst.negri 
@@ -382,7 +382,7 @@
 
 ---
 #### ISL1 
-[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL1.pdf) 
+[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL1.table.pdf) 
 
 - :material-rename: **Run ID:** ISL1 
 - :fontawesome-solid-user-group: **Participant:** ukarlsruhe-cmu.schlaefer 
@@ -393,7 +393,7 @@
 
 ---
 #### ISL2 
-[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL2.pdf) 
+[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL2.table.pdf) 
 
 - :material-rename: **Run ID:** ISL2 
 - :fontawesome-solid-user-group: **Participant:** ukarlsruhe-cmu.schlaefer 
@@ -404,7 +404,7 @@
 
 ---
 #### ISL3 
-[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL3.pdf) 
+[**`Participants`**](./participants.md#ukarlsruhe-cmuschlaefer), [**`Proceedings`**](./proceedings.md#the-ephyra-qa-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.ISL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.ISL3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/ISL3.table.pdf) 
 
 - :material-rename: **Run ID:** ISL3 
 - :fontawesome-solid-user-group: **Participant:** ukarlsruhe-cmu.schlaefer 
@@ -415,7 +415,7 @@
 
 ---
 #### LCCFerret 
-[**`Participants`**](./participants.md#lccharabagiu), [**`Proceedings`**](./proceedings.md#question-answering-with-lcc-s-chaucer-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.LCCFerret.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.LCCFerret.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/LCCFerret.pdf) 
+[**`Participants`**](./participants.md#lccharabagiu), [**`Proceedings`**](./proceedings.md#question-answering-with-lcc-s-chaucer-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.LCCFerret.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.LCCFerret.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/LCCFerret.table.pdf) 
 
 - :material-rename: **Run ID:** LCCFerret 
 - :fontawesome-solid-user-group: **Participant:** lcc.harabagiu 
@@ -426,7 +426,7 @@
 
 ---
 #### lccPA06 
-[**`Participants`**](./participants.md#lccmoldovan), [**`Proceedings`**](./proceedings.md#a-temporally-enhanced-poweranswer-in-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lccPA06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lccPA06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lccPA06.pdf) 
+[**`Participants`**](./participants.md#lccmoldovan), [**`Proceedings`**](./proceedings.md#a-temporally-enhanced-poweranswer-in-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lccPA06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lccPA06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lccPA06.table.pdf) 
 
 - :material-rename: **Run ID:** lccPA06 
 - :fontawesome-solid-user-group: **Participant:** lcc.moldovan 
@@ -437,7 +437,7 @@
 
 ---
 #### lexiclone06 
-[**`Participants`**](./participants.md#lexiclonegeller), [**`Proceedings`**](./proceedings.md#lexiclone-lexical-cloning-systems), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lexiclone06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lexiclone06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lexiclone06.pdf) 
+[**`Participants`**](./participants.md#lexiclonegeller), [**`Proceedings`**](./proceedings.md#lexiclone-lexical-cloning-systems), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lexiclone06.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lexiclone06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lexiclone06.table.pdf) 
 
 - :material-rename: **Run ID:** lexiclone06 
 - :fontawesome-solid-user-group: **Participant:** lexiclone.geller 
@@ -448,7 +448,7 @@
 
 ---
 #### lf10w10g5 
-[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w10g5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w10g5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w10g5.pdf) 
+[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w10g5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w10g5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w10g5.table.pdf) 
 
 - :material-rename: **Run ID:** lf10w10g5 
 - :fontawesome-solid-user-group: **Participant:** macquarieu.molla 
@@ -459,7 +459,7 @@
 
 ---
 #### lf10w10g5l5 
-[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w10g5l5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w10g5l5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w10g5l5.pdf) 
+[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w10g5l5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w10g5l5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w10g5l5.table.pdf) 
 
 - :material-rename: **Run ID:** lf10w10g5l5 
 - :fontawesome-solid-user-group: **Participant:** macquarieu.molla 
@@ -470,7 +470,7 @@
 
 ---
 #### lf10w20g5l5 
-[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w20g5l5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w20g5l5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w20g5l5.pdf) 
+[**`Participants`**](./participants.md#macquarieumolla), [**`Proceedings`**](./proceedings.md#answerfinder-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lf10w20g5l5.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lf10w20g5l5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lf10w20g5l5.table.pdf) 
 
 - :material-rename: **Run ID:** lf10w20g5l5 
 - :fontawesome-solid-user-group: **Participant:** macquarieu.molla 
@@ -481,7 +481,7 @@
 
 ---
 #### lsv2006a 
-[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006a.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006a.pdf) 
+[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006a.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006a.table.pdf) 
 
 - :material-rename: **Run ID:** lsv2006a 
 - :fontawesome-solid-user-group: **Participant:** saarlandu.leidner 
@@ -492,7 +492,7 @@
 
 ---
 #### lsv2006b 
-[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006b.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006b.pdf) 
+[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006b.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006b.table.pdf) 
 
 - :material-rename: **Run ID:** lsv2006b 
 - :fontawesome-solid-user-group: **Participant:** saarlandu.leidner 
@@ -503,7 +503,7 @@
 
 ---
 #### lsv2006c 
-[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006c.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006c.pdf) 
+[**`Participants`**](./participants.md#saarlanduleidner), [**`Proceedings`**](./proceedings.md#the-alyssa-system-at-trec-2006-a-statistically-inspired-question-answering-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.lsv2006c.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.lsv2006c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/lsv2006c.table.pdf) 
 
 - :material-rename: **Run ID:** lsv2006c 
 - :fontawesome-solid-user-group: **Participant:** saarlandu.leidner 
@@ -514,7 +514,7 @@
 
 ---
 #### MITRE2006A 
-[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006A.pdf) 
+[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006A.table.pdf) 
 
 - :material-rename: **Run ID:** MITRE2006A 
 - :fontawesome-solid-user-group: **Participant:** mitre-corp.burger 
@@ -525,7 +525,7 @@
 
 ---
 #### MITRE2006C 
-[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006C.pdf) 
+[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006C.table.pdf) 
 
 - :material-rename: **Run ID:** MITRE2006C 
 - :fontawesome-solid-user-group: **Participant:** mitre-corp.burger 
@@ -536,7 +536,7 @@
 
 ---
 #### MITRE2006D 
-[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006D.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006D.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006D.pdf) 
+[**`Participants`**](./participants.md#mitre-corpburger), [**`Proceedings`**](./proceedings.md#mitre-s-qanda-at-trec-15), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.MITRE2006D.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.MITRE2006D.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/MITRE2006D.table.pdf) 
 
 - :material-rename: **Run ID:** MITRE2006D 
 - :fontawesome-solid-user-group: **Participant:** mitre-corp.burger 
@@ -547,7 +547,7 @@
 
 ---
 #### NUSCHUAQA1 
-[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA1.pdf) 
+[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA1.table.pdf) 
 
 - :material-rename: **Run ID:** NUSCHUAQA1 
 - :fontawesome-solid-user-group: **Participant:** nus.kor 
@@ -558,7 +558,7 @@
 
 ---
 #### NUSCHUAQA2 
-[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA2.pdf) 
+[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA2.table.pdf) 
 
 - :material-rename: **Run ID:** NUSCHUAQA2 
 - :fontawesome-solid-user-group: **Participant:** nus.kor 
@@ -569,7 +569,7 @@
 
 ---
 #### NUSCHUAQA3 
-[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA3.pdf) 
+[**`Participants`**](./participants.md#nuskor), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.NUSCHUAQA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.NUSCHUAQA3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/NUSCHUAQA3.table.pdf) 
 
 - :material-rename: **Run ID:** NUSCHUAQA3 
 - :fontawesome-solid-user-group: **Participant:** nus.kor 
@@ -580,7 +580,7 @@
 
 ---
 #### QACTIS06A 
-[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06A.pdf) 
+[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06A.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06A.table.pdf) 
 
 - :material-rename: **Run ID:** QACTIS06A 
 - :fontawesome-solid-user-group: **Participant:** nsa.schone 
@@ -591,7 +591,7 @@
 
 ---
 #### QACTIS06B 
-[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06B.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06B.pdf) 
+[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06B.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06B.table.pdf) 
 
 - :material-rename: **Run ID:** QACTIS06B 
 - :fontawesome-solid-user-group: **Participant:** nsa.schone 
@@ -602,7 +602,7 @@
 
 ---
 #### QACTIS06C 
-[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06C.pdf) 
+[**`Participants`**](./participants.md#nsaschone), [**`Proceedings`**](./proceedings.md#qactis-enhancements-in-trec-qa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QACTIS06C.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QACTIS06C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QACTIS06C.table.pdf) 
 
 - :material-rename: **Run ID:** QACTIS06C 
 - :fontawesome-solid-user-group: **Participant:** nsa.schone 
@@ -613,7 +613,7 @@
 
 ---
 #### QASCU1 
-[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU1.pdf) 
+[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU1.table.pdf) 
 
 - :material-rename: **Run ID:** QASCU1 
 - :fontawesome-solid-user-group: **Participant:** concordiau.kosseim 
@@ -624,7 +624,7 @@
 
 ---
 #### QASCU2 
-[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU2.pdf) 
+[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU2.table.pdf) 
 
 - :material-rename: **Run ID:** QASCU2 
 - :fontawesome-solid-user-group: **Participant:** concordiau.kosseim 
@@ -635,7 +635,7 @@
 
 ---
 #### QASCU3 
-[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU3.pdf) 
+[**`Participants`**](./participants.md#concordiaukosseim), [**`Proceedings`**](./proceedings.md#concordia-university-at-the-trec-15-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.QASCU3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.QASCU3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/QASCU3.table.pdf) 
 
 - :material-rename: **Run ID:** QASCU3 
 - :fontawesome-solid-user-group: **Participant:** concordiau.kosseim 
@@ -646,7 +646,7 @@
 
 ---
 #### Roma2006run1 
-[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run1.pdf) 
+[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run1.table.pdf) 
 
 - :material-rename: **Run ID:** Roma2006run1 
 - :fontawesome-solid-user-group: **Participant:** uroma.bos 
@@ -657,7 +657,7 @@
 
 ---
 #### Roma2006run2 
-[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run2.pdf) 
+[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run2.table.pdf) 
 
 - :material-rename: **Run ID:** Roma2006run2 
 - :fontawesome-solid-user-group: **Participant:** uroma.bos 
@@ -668,7 +668,7 @@
 
 ---
 #### Roma2006run3 
-[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run3.pdf) 
+[**`Participants`**](./participants.md#uromabos), [**`Proceedings`**](./proceedings.md#the-la-sapienza-question-answering-system-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.Roma2006run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.Roma2006run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/Roma2006run3.table.pdf) 
 
 - :material-rename: **Run ID:** Roma2006run3 
 - :fontawesome-solid-user-group: **Participant:** uroma.bos 
@@ -679,7 +679,7 @@
 
 ---
 #### shef06qal 
-[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06qal.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06qal.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06qal.pdf) 
+[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06qal.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06qal.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06qal.table.pdf) 
 
 - :material-rename: **Run ID:** shef06qal 
 - :fontawesome-solid-user-group: **Participant:** usheffield.greenwood 
@@ -690,7 +690,7 @@
 
 ---
 #### shef06sem 
-[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06sem.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06sem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06sem.pdf) 
+[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06sem.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06sem.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06sem.table.pdf) 
 
 - :material-rename: **Run ID:** shef06sem 
 - :fontawesome-solid-user-group: **Participant:** usheffield.greenwood 
@@ -701,7 +701,7 @@
 
 ---
 #### shef06ss 
-[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06ss.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06ss.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06ss.pdf) 
+[**`Participants`**](./participants.md#usheffieldgreenwood), [**`Proceedings`**](./proceedings.md#the-university-of-sheffield-s-trec-2006-q-a-experiments), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.shef06ss.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.shef06ss.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/shef06ss.table.pdf) 
 
 - :material-rename: **Run ID:** shef06ss 
 - :fontawesome-solid-user-group: **Participant:** usheffield.greenwood 
@@ -712,7 +712,7 @@
 
 ---
 #### strath1 
-[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath1.pdf) 
+[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath1.table.pdf) 
 
 - :material-rename: **Run ID:** strath1 
 - :fontawesome-solid-user-group: **Participant:** ustrathclyde.baillie 
@@ -725,7 +725,7 @@
 
 ---
 #### strath2 
-[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath2.pdf) 
+[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath2.table.pdf) 
 
 - :material-rename: **Run ID:** strath2 
 - :fontawesome-solid-user-group: **Participant:** ustrathclyde.baillie 
@@ -737,7 +737,7 @@
 
 ---
 #### strath3 
-[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath3.pdf) 
+[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath3.table.pdf) 
 
 - :material-rename: **Run ID:** strath3 
 - :fontawesome-solid-user-group: **Participant:** ustrathclyde.baillie 
@@ -749,7 +749,7 @@
 
 ---
 #### strath4 
-[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath4.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath4.pdf) 
+[**`Participants`**](./participants.md#ustrathclydebaillie), [**`Proceedings`**](./proceedings.md#contextual-information-and-assessor-characteristics-in-complex-question-answering), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.strath4.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.strath4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/strath4.table.pdf) 
 
 - :material-rename: **Run ID:** strath4 
 - :fontawesome-solid-user-group: **Participant:** ustrathclyde.baillie 
@@ -762,7 +762,7 @@
 
 ---
 #### TIQA200601 
-[**`Participants`**](./participants.md#trulyintelligentsatish), [**`Proceedings`**](./proceedings.md#trec-2006-q-a-factoid-ti-experience), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TIQA200601.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TIQA200601.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TIQA200601.pdf) 
+[**`Participants`**](./participants.md#trulyintelligentsatish), [**`Proceedings`**](./proceedings.md#trec-2006-q-a-factoid-ti-experience), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TIQA200601.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TIQA200601.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TIQA200601.table.pdf) 
 
 - :material-rename: **Run ID:** TIQA200601 
 - :fontawesome-solid-user-group: **Participant:** trulyintelligent.satish 
@@ -773,7 +773,7 @@
 
 ---
 #### TREC06ST01 
-[**`Participants`**](./participants.md#tomlinsonstan), [**`Proceedings`**](./proceedings.md#question-answering-by-diggery-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TREC06ST01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TREC06ST01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TREC06ST01.pdf) 
+[**`Participants`**](./participants.md#tomlinsonstan), [**`Proceedings`**](./proceedings.md#question-answering-by-diggery-at-trec-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TREC06ST01.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TREC06ST01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TREC06ST01.table.pdf) 
 
 - :material-rename: **Run ID:** TREC06ST01 
 - :fontawesome-solid-user-group: **Participant:** tomlinson.stan 
@@ -784,7 +784,7 @@
 
 ---
 #### TWQA0601 
-[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0601.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0601.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0601.pdf) 
+[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0601.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0601.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0601.table.pdf) 
 
 - :material-rename: **Run ID:** TWQA0601 
 - :fontawesome-solid-user-group: **Participant:** pekingu.yan 
@@ -795,7 +795,7 @@
 
 ---
 #### TWQA0602 
-[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0602.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0602.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0602.pdf) 
+[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0602.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0602.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0602.table.pdf) 
 
 - :material-rename: **Run ID:** TWQA0602 
 - :fontawesome-solid-user-group: **Participant:** pekingu.yan 
@@ -806,7 +806,7 @@
 
 ---
 #### TWQA0603 
-[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0603.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0603.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0603.pdf) 
+[**`Participants`**](./participants.md#pekinguyan), [**`Proceedings`**](./proceedings.md#tianwang-at-trec-2006-qa-track), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.TWQA0603.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.TWQA0603.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/TWQA0603.table.pdf) 
 
 - :material-rename: **Run ID:** TWQA0603 
 - :fontawesome-solid-user-group: **Participant:** pekingu.yan 
@@ -817,7 +817,7 @@
 
 ---
 #### UMAS1 
-[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMAS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMAS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMAS1.pdf) 
+[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMAS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMAS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMAS1.table.pdf) 
 
 - :material-rename: **Run ID:** UMAS1 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -829,7 +829,7 @@
 
 ---
 #### UMASSauto1 
-[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSauto1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSauto1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSauto1.pdf) 
+[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSauto1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSauto1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSauto1.table.pdf) 
 
 - :material-rename: **Run ID:** UMASSauto1 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -842,7 +842,7 @@
 
 ---
 #### UMASSauto2 
-[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSauto2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSauto2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSauto2.pdf) 
+[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSauto2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSauto2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSauto2.table.pdf) 
 
 - :material-rename: **Run ID:** UMASSauto2 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -855,7 +855,7 @@
 
 ---
 #### UMASSi1 
-[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSi1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSi1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSi1.pdf) 
+[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSi1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSi1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSi1.table.pdf) 
 
 - :material-rename: **Run ID:** UMASSi1 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -868,7 +868,7 @@
 
 ---
 #### UMASSi2 
-[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSi2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSi2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSi2.pdf) 
+[**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#umass-at-trec-ciqa-2006), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMASSi2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMASSi2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMASSi2.table.pdf) 
 
 - :material-rename: **Run ID:** UMASSi2 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -881,7 +881,7 @@
 
 ---
 #### UMDA1 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1.table.pdf) 
 
 - :material-rename: **Run ID:** UMDA1 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -893,7 +893,7 @@
 
 ---
 #### UMDA1post 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1post.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1post.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1post.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1post.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1post.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1post.table.pdf) 
 
 - :material-rename: **Run ID:** UMDA1post 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -906,7 +906,7 @@
 
 ---
 #### UMDA1pre 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1pre.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1pre.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1pre.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDA1pre.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDA1pre.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDA1pre.table.pdf) 
 
 - :material-rename: **Run ID:** UMDA1pre 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -919,7 +919,7 @@
 
 ---
 #### UMDM1 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1.table.pdf) 
 
 - :material-rename: **Run ID:** UMDM1 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -931,7 +931,7 @@
 
 ---
 #### UMDM1post 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1post.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1post.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1post.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1post.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1post.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1post.table.pdf) 
 
 - :material-rename: **Run ID:** UMDM1post 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -944,7 +944,7 @@
 
 ---
 #### UMDM1pre 
-[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1pre.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1pre.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1pre.pdf) 
+[**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UMDM1pre.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UMDM1pre.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UMDM1pre.table.pdf) 
 
 - :material-rename: **Run ID:** UMDM1pre 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -957,7 +957,7 @@
 
 ---
 #### uw574 
-[**`Participants`**](./participants.md#uwashlewis), [**`Proceedings`**](./proceedings.md#the-university-of-washington-s-uwclmaqa-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.uw574.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.uw574.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/uw574.pdf) 
+[**`Participants`**](./participants.md#uwashlewis), [**`Proceedings`**](./proceedings.md#the-university-of-washington-s-uwclmaqa-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.uw574.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.uw574.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/uw574.table.pdf) 
 
 - :material-rename: **Run ID:** uw574 
 - :fontawesome-solid-user-group: **Participant:** uwash.lewis 
@@ -968,7 +968,7 @@
 
 ---
 #### UWAT1 
-[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWAT1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWAT1.pdf) 
+[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWAT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWAT1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWAT1.table.pdf) 
 
 - :material-rename: **Run ID:** UWAT1 
 - :fontawesome-solid-user-group: **Participant:** uwaterloo-clarke 
@@ -980,7 +980,7 @@
 
 ---
 #### UWATCIQA1 
-[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA1.pdf) 
+[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA1.table.pdf) 
 
 - :material-rename: **Run ID:** UWATCIQA1 
 - :fontawesome-solid-user-group: **Participant:** uwaterloo-clarke 
@@ -993,7 +993,7 @@
 
 ---
 #### UWATCIQA2 
-[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA2.pdf) 
+[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA2.table.pdf) 
 
 - :material-rename: **Run ID:** UWATCIQA2 
 - :fontawesome-solid-user-group: **Participant:** uwaterloo-clarke 
@@ -1006,7 +1006,7 @@
 
 ---
 #### UWATCIQA3 
-[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA3.pdf) 
+[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA3.table.pdf) 
 
 - :material-rename: **Run ID:** UWATCIQA3 
 - :fontawesome-solid-user-group: **Participant:** uwaterloo-clarke 
@@ -1019,7 +1019,7 @@
 
 ---
 #### UWATCIQA4 
-[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA4.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA4.pdf) 
+[**`Participants`**](./participants.md#uwaterloo-clarke), [**`Proceedings`**](./proceedings.md#identifying-relationships-between-entities-in-text-for-complex-interactive-question-answering-task), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.UWATCIQA4.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.UWATCIQA4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/UWATCIQA4.table.pdf) 
 
 - :material-rename: **Run ID:** UWATCIQA4 
 - :fontawesome-solid-user-group: **Participant:** uwaterloo-clarke 
@@ -1032,7 +1032,7 @@
 
 ---
 #### uwclma 
-[**`Participants`**](./participants.md#uwashlewis), [**`Proceedings`**](./proceedings.md#the-university-of-washington-s-uwclmaqa-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.uwclma.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.uwclma.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/uwclma.pdf) 
+[**`Participants`**](./participants.md#uwashlewis), [**`Proceedings`**](./proceedings.md#the-university-of-washington-s-uwclmaqa-system), [**`Input`**](https://trec.nist.gov/results/trec15/qa/input.uwclma.gz), [**`Summary`**](https://trec.nist.gov/results/trec15/qa/summary.uwclma.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/qa/uwclma.table.pdf) 
 
 - :material-rename: **Run ID:** uwclma 
 - :fontawesome-solid-user-group: **Participant:** uwash.lewis 

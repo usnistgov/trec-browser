@@ -1,7 +1,7 @@
 # Runs - Blog 2006 
 
 #### Abstract 
-[**`Results`**](./results.md#abstract), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university) 
+[**`Results`**](./results.md#abstract), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/Abstract.pdf) 
 
 - :material-rename: **Run ID:** Abstract 
 - :fontawesome-solid-user-group: **Participant:** robert-gordonu.harper 
@@ -90,7 +90,7 @@
 
 ---
 #### csirabstract 
-[**`Results`**](./results.md#csirabstract), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self) 
+[**`Results`**](./results.md#csirabstract), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirabstract.pdf) 
 
 - :material-rename: **Run ID:** csirabstract 
 - :fontawesome-solid-user-group: **Participant:** csiro-ict.mcarthur 
@@ -101,7 +101,7 @@
 
 ---
 #### csirofull 
-[**`Results`**](./results.md#csirofull), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self) 
+[**`Results`**](./results.md#csirofull), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirofull.pdf) 
 
 - :material-rename: **Run ID:** csirofull 
 - :fontawesome-solid-user-group: **Participant:** csiro-ict.mcarthur 
@@ -164,7 +164,7 @@
 
 ---
 #### necabstract 
-[**`Results`**](./results.md#necabstract), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties) 
+[**`Results`**](./results.md#necabstract), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necabstract.pdf) 
 
 - :material-rename: **Run ID:** necabstract 
 - :fontawesome-solid-user-group: **Participant:** nec-labs.tseng 
@@ -175,7 +175,7 @@
 
 ---
 #### necnistfinal 
-[**`Results`**](./results.md#necnistfinal), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties) 
+[**`Results`**](./results.md#necnistfinal), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necnistfinal.pdf) 
 
 - :material-rename: **Run ID:** necnistfinal 
 - :fontawesome-solid-user-group: **Participant:** nec-labs.tseng 
@@ -251,7 +251,7 @@
 
 ---
 #### NIIabstract 
-[**`Results`**](./results.md#niiabstract), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) 
+[**`Results`**](./results.md#niiabstract), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIabstract.pdf) 
 
 - :material-rename: **Run ID:** NIIabstract 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -262,7 +262,7 @@
 
 ---
 #### NIIfinal 
-[**`Results`**](./results.md#niifinal), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) 
+[**`Results`**](./results.md#niifinal), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIfinal.pdf) 
 
 - :material-rename: **Run ID:** NIIfinal 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -689,7 +689,7 @@
 
 ---
 #### uaplabstract 
-[**`Results`**](./results.md#uaplabstract), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) 
+[**`Results`**](./results.md#uaplabstract), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplabstract.pdf) 
 
 - :material-rename: **Run ID:** uaplabstract 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -700,7 +700,7 @@
 
 ---
 #### uaplfinal 
-[**`Results`**](./results.md#uaplfinal), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) 
+[**`Results`**](./results.md#uaplfinal), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplfinal.pdf) 
 
 - :material-rename: **Run ID:** uaplfinal 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 

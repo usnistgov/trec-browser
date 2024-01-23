@@ -1,7 +1,7 @@
 # Runs - Legal 2009 
 
 #### ADI2009Topic204 
-[**`Results`**](./results.md#adi2009topic204), [**`Participants`**](./participants.md#adi2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.ADI2009Topic204.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.ADI2009Topic204.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.ADI2009Topic204.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#adi2009topic204), [**`Participants`**](./participants.md#adi2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.ADI2009Topic204.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** ADI2009Topic204 
 - :fontawesome-solid-user-group: **Participant:** ADI2009 
@@ -14,7 +14,7 @@
 
 ---
 #### buffalo 
-[**`Results`**](./results.md#buffalo), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2009-at-the-university-of-buffalo-interactive-legal-e-discovery-with-enron-emails), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.buffalo.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.buffalo.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.buffalo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#buffalo), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2009-at-the-university-of-buffalo-interactive-legal-e-discovery-with-enron-emails), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.buffalo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** buffalo 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -27,7 +27,7 @@
 
 ---
 #### CGSHBCK 
-[**`Results`**](./results.md#cgshbck), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.CGSHBCK.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.CGSHBCK.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#cgshbck), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** CGSHBCK 
 - :fontawesome-solid-user-group: **Participant:** Cleary_Backstop 
@@ -40,7 +40,7 @@
 
 ---
 #### CGSHBCK1 
-[**`Results`**](./results.md#cgshbck1), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK1.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.CGSHBCK1.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.CGSHBCK1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#cgshbck1), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** CGSHBCK1 
 - :fontawesome-solid-user-group: **Participant:** Cleary_Backstop 
@@ -53,7 +53,7 @@
 
 ---
 #### CGSHBCK2 
-[**`Results`**](./results.md#cgshbck2), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK2.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.CGSHBCK2.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.CGSHBCK2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#cgshbck2), [**`Participants`**](./participants.md#cleary_backstop), [**`Proceedings`**](./proceedings.md#backstop-llp-and-cleary-gottlied-steen-hamilton-llp-at-trec-legal-track-2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CGSHBCK2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** CGSHBCK2 
 - :fontawesome-solid-user-group: **Participant:** Cleary_Backstop 
@@ -66,7 +66,7 @@
 
 ---
 #### clearwell01 
-[**`Results`**](./results.md#clearwell01), [**`Participants`**](./participants.md#clearwell09), [**`Proceedings`**](./proceedings.md#clearwell-systems-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.clearwell01.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.clearwell01.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.clearwell01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#clearwell01), [**`Participants`**](./participants.md#clearwell09), [**`Proceedings`**](./proceedings.md#clearwell-systems-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.clearwell01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** clearwell01 
 - :fontawesome-solid-user-group: **Participant:** Clearwell09 
@@ -79,7 +79,7 @@
 
 ---
 #### Clearwell09i 
-[**`Results`**](./results.md#clearwell09i), [**`Participants`**](./participants.md#clearwell09), [**`Proceedings`**](./proceedings.md#clearwell-systems-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Clearwell09i.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.Clearwell09i.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.Clearwell09i.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#clearwell09i), [**`Participants`**](./participants.md#clearwell09), [**`Proceedings`**](./proceedings.md#clearwell-systems-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Clearwell09i.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** Clearwell09i 
 - :fontawesome-solid-user-group: **Participant:** Clearwell09 
@@ -92,7 +92,7 @@
 
 ---
 #### CompCustIT09 
-[**`Results`**](./results.md#compcustit09), [**`Participants`**](./participants.md#zltech), [**`Proceedings`**](./proceedings.md#zl-technologies-at-trec-2009-legal-interactive-comparing-exclusionary-and-investigative-approaches-for-electronic-discovery-using-the-trec-enron-corpus), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CompCustIT09.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.CompCustIT09.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.CompCustIT09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#compcustit09), [**`Participants`**](./participants.md#zltech), [**`Proceedings`**](./proceedings.md#zl-technologies-at-trec-2009-legal-interactive-comparing-exclusionary-and-investigative-approaches-for-electronic-discovery-using-the-trec-enron-corpus), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CompCustIT09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** CompCustIT09 
 - :fontawesome-solid-user-group: **Participant:** ZLTech 
@@ -105,7 +105,7 @@
 
 ---
 #### CompEntrIT09 
-[**`Results`**](./results.md#compentrit09), [**`Participants`**](./participants.md#zltech), [**`Proceedings`**](./proceedings.md#zl-technologies-at-trec-2009-legal-interactive-comparing-exclusionary-and-investigative-approaches-for-electronic-discovery-using-the-trec-enron-corpus), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CompEntrIT09.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.CompEntrIT09.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.CompEntrIT09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#compentrit09), [**`Participants`**](./participants.md#zltech), [**`Proceedings`**](./proceedings.md#zl-technologies-at-trec-2009-legal-interactive-comparing-exclusionary-and-investigative-approaches-for-electronic-discovery-using-the-trec-enron-corpus), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.CompEntrIT09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** CompEntrIT09 
 - :fontawesome-solid-user-group: **Participant:** ZLTech 
@@ -132,7 +132,7 @@
 
 ---
 #### Equivio205R1 
-[**`Results`**](./results.md#equivio205r1), [**`Participants`**](./participants.md#equivio), [**`Proceedings`**](./proceedings.md#equivio-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Equivio205R1.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.Equivio205R1.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.Equivio205R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#equivio205r1), [**`Participants`**](./participants.md#equivio), [**`Proceedings`**](./proceedings.md#equivio-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Equivio205R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** Equivio205R1 
 - :fontawesome-solid-user-group: **Participant:** Equivio 
@@ -145,7 +145,7 @@
 
 ---
 #### Equivio207R1 
-[**`Results`**](./results.md#equivio207r1), [**`Participants`**](./participants.md#equivio), [**`Proceedings`**](./proceedings.md#equivio-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Equivio207R1.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.Equivio207R1.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.Equivio207R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#equivio207r1), [**`Participants`**](./participants.md#equivio), [**`Proceedings`**](./proceedings.md#equivio-at-trec-2009-legal-interactive), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.Equivio207R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** Equivio207R1 
 - :fontawesome-solid-user-group: **Participant:** Equivio 
@@ -158,7 +158,7 @@
 
 ---
 #### H52009 
-[**`Results`**](./results.md#h52009), [**`Participants`**](./participants.md#h5_2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.H52009.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.H52009.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.H52009.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#h52009), [**`Participants`**](./participants.md#h5_2009), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.H52009.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** H52009 
 - :fontawesome-solid-user-group: **Participant:** H5_2009 
@@ -171,7 +171,7 @@
 
 ---
 #### IntegreonB 
-[**`Results`**](./results.md#integreonb), [**`Participants`**](./participants.md#ids_trec), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.IntegreonB.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.IntegreonB.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.IntegreonB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#integreonb), [**`Participants`**](./participants.md#ids_trec), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.IntegreonB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** IntegreonB 
 - :fontawesome-solid-user-group: **Participant:** IDS_TREC 
@@ -184,7 +184,7 @@
 
 ---
 #### LogikIT09t 
-[**`Results`**](./results.md#logikit09t), [**`Participants`**](./participants.md#logik), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.LogikIT09t.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.LogikIT09t.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.LogikIT09t.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#logikit09t), [**`Participants`**](./participants.md#logik), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.LogikIT09t.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** LogikIT09t 
 - :fontawesome-solid-user-group: **Participant:** Logik 
@@ -239,7 +239,7 @@
 
 ---
 #### pittsis09 
-[**`Results`**](./results.md#pittsis09), [**`Participants`**](./participants.md#pitt_sis), [**`Proceedings`**](./proceedings.md#a-model-for-understanding-collaborative-information-behavior-in-e-discovery), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.pittsis09.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.pittsis09.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.pittsis09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#pittsis09), [**`Participants`**](./participants.md#pitt_sis), [**`Proceedings`**](./proceedings.md#a-model-for-understanding-collaborative-information-behavior-in-e-discovery), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.pittsis09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** pittsis09 
 - :fontawesome-solid-user-group: **Participant:** pitt_sis 
@@ -294,7 +294,7 @@
 
 ---
 #### watlint 
-[**`Results`**](./results.md#watlint), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.watlint.gz), [**`Summary (eval)`**](https://trec.nist.gov/results/trec18/legal/summary.eval.watlint.gz), [**`Summary (evalH)`**](https://trec.nist.gov/results/trec18/legal/summary.evalH.watlint.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
+[**`Results`**](./results.md#watlint), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/legal/input.watlint.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/legal/app09scores.pdf) 
 
 - :material-rename: **Run ID:** watlint 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 

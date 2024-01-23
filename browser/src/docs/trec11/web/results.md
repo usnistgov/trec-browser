@@ -6,7 +6,7 @@ search:
 # Results - Web 2002 
 
 #### MercureLynx 
-[**`Metadata`**](./runs.md#mercurelynx), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MercureLynx.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MercureLynx), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MercureLynx.table.pdf)
+[**`Metadata`**](./runs.md#mercurelynx), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MercureLynx.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MercureLynx.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MercureLynx.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0898
@@ -18,7 +18,7 @@ search:
 	```
 ---
 #### Mercah 
-[**`Metadata`**](./runs.md#mercah), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.Mercah.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.Mercah), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/Mercah.table.pdf)
+[**`Metadata`**](./runs.md#mercah), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.Mercah.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.Mercah.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/Mercah.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2041
@@ -30,7 +30,7 @@ search:
 	```
 ---
 #### Mercure 
-[**`Metadata`**](./runs.md#mercure), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.Mercure.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.Mercure), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/Mercure.table.pdf)
+[**`Metadata`**](./runs.md#mercure), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.Mercure.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.Mercure.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/Mercure.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0966
@@ -42,7 +42,7 @@ search:
 	```
 ---
 #### UniNEnp1 
-[**`Metadata`**](./runs.md#uninenp1), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp1.table.pdf)
+[**`Metadata`**](./runs.md#uninenp1), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.636
@@ -50,7 +50,7 @@ search:
 	```
 ---
 #### UniNEnp2 
-[**`Metadata`**](./runs.md#uninenp2), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp2.table.pdf)
+[**`Metadata`**](./runs.md#uninenp2), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.616
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### UniNEnp4 
-[**`Metadata`**](./runs.md#uninenp4), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp4.table.pdf)
+[**`Metadata`**](./runs.md#uninenp4), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.504
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### UniNEnp3 
-[**`Metadata`**](./runs.md#uninenp3), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp3.table.pdf)
+[**`Metadata`**](./runs.md#uninenp3), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEnp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEnp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEnp3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.625
@@ -74,7 +74,7 @@ search:
 	```
 ---
 #### hum02upd 
-[**`Metadata`**](./runs.md#hum02upd), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02upd.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02upd), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02upd.table.pdf)
+[**`Metadata`**](./runs.md#hum02upd), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02upd.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02upd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02upd.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.538
@@ -82,7 +82,7 @@ search:
 	```
 ---
 #### hum02pd 
-[**`Metadata`**](./runs.md#hum02pd), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02pd.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02pd), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02pd.table.pdf)
+[**`Metadata`**](./runs.md#hum02pd), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02pd.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02pd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02pd.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.626
@@ -90,7 +90,7 @@ search:
 	```
 ---
 #### hum02ud 
-[**`Metadata`**](./runs.md#hum02ud), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02ud.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02ud), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02ud.table.pdf)
+[**`Metadata`**](./runs.md#hum02ud), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02ud.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02ud.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02ud.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.456
@@ -98,7 +98,7 @@ search:
 	```
 ---
 #### hum02up 
-[**`Metadata`**](./runs.md#hum02up), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02up.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02up), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02up.table.pdf)
+[**`Metadata`**](./runs.md#hum02up), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02up.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02up.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02up.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.527
@@ -106,7 +106,7 @@ search:
 	```
 ---
 #### hum02uhp 
-[**`Metadata`**](./runs.md#hum02uhp), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02uhp.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02uhp), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02uhp.table.pdf)
+[**`Metadata`**](./runs.md#hum02uhp), [**`Participants`**](./participants.md#hummingbird), [**`Proceedings`**](./proceedings.md#experiments-in-named-page-finding-and-arabic-retrieval-with-hummingbird-searchservertm-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.hum02uhp.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.hum02uhp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/hum02uhp.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.337
@@ -114,7 +114,7 @@ search:
 	```
 ---
 #### uog01ctaialh 
-[**`Metadata`**](./runs.md#uog01ctaialh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog01ctaialh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog01ctaialh), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog01ctaialh.table.pdf)
+[**`Metadata`**](./runs.md#uog01ctaialh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog01ctaialh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog01ctaialh.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog01ctaialh.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1252
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### uog02ctadh 
-[**`Metadata`**](./runs.md#uog02ctadh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog02ctadh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog02ctadh), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog02ctadh.table.pdf)
+[**`Metadata`**](./runs.md#uog02ctadh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog02ctadh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog02ctadh.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog02ctadh.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1116
@@ -138,7 +138,7 @@ search:
 	```
 ---
 #### uog03ctadqh 
-[**`Metadata`**](./runs.md#uog03ctadqh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog03ctadqh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog03ctadqh), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog03ctadqh.table.pdf)
+[**`Metadata`**](./runs.md#uog03ctadqh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog03ctadqh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog03ctadqh.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog03ctadqh.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1782
@@ -150,7 +150,7 @@ search:
 	```
 ---
 #### uog04cta2dqh 
-[**`Metadata`**](./runs.md#uog04cta2dqh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog04cta2dqh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog04cta2dqh), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog04cta2dqh.table.pdf)
+[**`Metadata`**](./runs.md#uog04cta2dqh), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog04cta2dqh.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog04cta2dqh.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog04cta2dqh.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1891
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### uog05tad 
-[**`Metadata`**](./runs.md#uog05tad), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog05tad.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog05tad), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog05tad.table.pdf)
+[**`Metadata`**](./runs.md#uog05tad), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog05tad.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog05tad.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog05tad.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2014
@@ -174,7 +174,7 @@ search:
 	```
 ---
 #### uog06c 
-[**`Metadata`**](./runs.md#uog06c), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog06c.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog06c), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog06c.table.pdf)
+[**`Metadata`**](./runs.md#uog06c), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog06c.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog06c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog06c.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.552
@@ -182,7 +182,7 @@ search:
 	```
 ---
 #### uog07cta 
-[**`Metadata`**](./runs.md#uog07cta), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog07cta.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog07cta), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog07cta.table.pdf)
+[**`Metadata`**](./runs.md#uog07cta), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog07cta.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog07cta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog07cta.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.654
@@ -190,7 +190,7 @@ search:
 	```
 ---
 #### uog08ctap 
-[**`Metadata`**](./runs.md#uog08ctap), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog08ctap.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog08ctap), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog08ctap.table.pdf)
+[**`Metadata`**](./runs.md#uog08ctap), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog08ctap.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog08ctap.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog08ctap.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.516
@@ -198,7 +198,7 @@ search:
 	```
 ---
 #### uog09cta2 
-[**`Metadata`**](./runs.md#uog09cta2), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog09cta2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog09cta2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog09cta2.table.pdf)
+[**`Metadata`**](./runs.md#uog09cta2), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog09cta2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog09cta2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog09cta2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.643
@@ -206,7 +206,7 @@ search:
 	```
 ---
 #### uog10ctad 
-[**`Metadata`**](./runs.md#uog10ctad), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog10ctad.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog10ctad), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog10ctad.table.pdf)
+[**`Metadata`**](./runs.md#uog10ctad), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#using-hierarchical-clustering-and-summarisation-approaches-for-web-retrieval-glasgow-at-the-trec-2002-interactive-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uog10ctad.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uog10ctad.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uog10ctad.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.651
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### pltr02wt1 
-[**`Metadata`**](./runs.md#pltr02wt1), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt1.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt1), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1728
@@ -226,7 +226,7 @@ search:
 	```
 ---
 #### pltr02wt2 
-[**`Metadata`**](./runs.md#pltr02wt2), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt2.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt2), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2068
@@ -238,7 +238,7 @@ search:
 	```
 ---
 #### pltr02wt3 
-[**`Metadata`**](./runs.md#pltr02wt3), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt3.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt3), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1442
@@ -250,7 +250,7 @@ search:
 	```
 ---
 #### pltr02wt4 
-[**`Metadata`**](./runs.md#pltr02wt4), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt4.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt4), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1701
@@ -262,7 +262,7 @@ search:
 	```
 ---
 #### pltr02wt5 
-[**`Metadata`**](./runs.md#pltr02wt5), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt5.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt5), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt5.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0816
@@ -274,7 +274,7 @@ search:
 	```
 ---
 #### pltr02wt6 
-[**`Metadata`**](./runs.md#pltr02wt6), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt6.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt6), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt6.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt6), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt6.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt6.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.334
@@ -282,7 +282,7 @@ search:
 	```
 ---
 #### pltr02wt7 
-[**`Metadata`**](./runs.md#pltr02wt7), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt7.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt7), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt7.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt7), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt7.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt7.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.414
@@ -290,7 +290,7 @@ search:
 	```
 ---
 #### pltr02wt8 
-[**`Metadata`**](./runs.md#pltr02wt8), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt8.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt8), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt8.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt8), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt8.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt8.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt8.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.416
@@ -298,7 +298,7 @@ search:
 	```
 ---
 #### pltr02wt9 
-[**`Metadata`**](./runs.md#pltr02wt9), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt9.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt9), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt9.table.pdf)
+[**`Metadata`**](./runs.md#pltr02wt9), [**`Participants`**](./participants.md#city-pliers), [**`Proceedings`**](./proceedings.md#pliers-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pltr02wt9.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pltr02wt9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pltr02wt9.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.418
@@ -306,7 +306,7 @@ search:
 	```
 ---
 #### ajouai0206 
-[**`Metadata`**](./runs.md#ajouai0206), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0206.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0206), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0206.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0206), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0206.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0206.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0206.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0490
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### ajouai0207 
-[**`Metadata`**](./runs.md#ajouai0207), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0207.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0207), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0207.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0207), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0207.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0207.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0207.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0381
@@ -330,7 +330,7 @@ search:
 	```
 ---
 #### ajouai0208 
-[**`Metadata`**](./runs.md#ajouai0208), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0208.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0208), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0208.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0208), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0208.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0208.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0208.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0272
@@ -342,7 +342,7 @@ search:
 	```
 ---
 #### ajouai0210 
-[**`Metadata`**](./runs.md#ajouai0210), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0210.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0210), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0210.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0210), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0210.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0210.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0210.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0490
@@ -354,7 +354,7 @@ search:
 	```
 ---
 #### UniNEdi5 
-[**`Metadata`**](./runs.md#uninedi5), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi5), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi5.table.pdf)
+[**`Metadata`**](./runs.md#uninedi5), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi5.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1864
@@ -366,7 +366,7 @@ search:
 	```
 ---
 #### UniNEdi1 
-[**`Metadata`**](./runs.md#uninedi1), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi1.table.pdf)
+[**`Metadata`**](./runs.md#uninedi1), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0667
@@ -378,7 +378,7 @@ search:
 	```
 ---
 #### UniNEdi4 
-[**`Metadata`**](./runs.md#uninedi4), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi4.table.pdf)
+[**`Metadata`**](./runs.md#uninedi4), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1429
@@ -390,7 +390,7 @@ search:
 	```
 ---
 #### LmrAllEq 
-[**`Metadata`**](./runs.md#lmralleq), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrAllEq.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrAllEq), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrAllEq.table.pdf)
+[**`Metadata`**](./runs.md#lmralleq), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrAllEq.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrAllEq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrAllEq.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.676
@@ -398,7 +398,7 @@ search:
 	```
 ---
 #### LmrAllEst 
-[**`Metadata`**](./runs.md#lmrallest), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrAllEst.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrAllEst), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrAllEst.table.pdf)
+[**`Metadata`**](./runs.md#lmrallest), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrAllEst.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrAllEst.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrAllEst.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.667
@@ -406,7 +406,7 @@ search:
 	```
 ---
 #### LmrNoStruct 
-[**`Metadata`**](./runs.md#lmrnostruct), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrNoStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrNoStruct), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrNoStruct.table.pdf)
+[**`Metadata`**](./runs.md#lmrnostruct), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrNoStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrNoStruct.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrNoStruct.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.611
@@ -414,7 +414,7 @@ search:
 	```
 ---
 #### LmrDocStruct 
-[**`Metadata`**](./runs.md#lmrdocstruct), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrDocStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrDocStruct), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrDocStruct.table.pdf)
+[**`Metadata`**](./runs.md#lmrdocstruct), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrDocStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrDocStruct.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrDocStruct.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.568
@@ -422,7 +422,7 @@ search:
 	```
 ---
 #### LmrSmall 
-[**`Metadata`**](./runs.md#lmrsmall), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrSmall.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrSmall), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrSmall.table.pdf)
+[**`Metadata`**](./runs.md#lmrsmall), [**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.LmrSmall.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.LmrSmall.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/LmrSmall.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.589
@@ -430,7 +430,7 @@ search:
 	```
 ---
 #### UniNEdi2 
-[**`Metadata`**](./runs.md#uninedi2), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi2.table.pdf)
+[**`Metadata`**](./runs.md#uninedi2), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0286
@@ -442,7 +442,7 @@ search:
 	```
 ---
 #### fduwt11o1 
-[**`Metadata`**](./runs.md#fduwt11o1), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11o1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11o1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11o1.table.pdf)
+[**`Metadata`**](./runs.md#fduwt11o1), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11o1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11o1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11o1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1633
@@ -454,7 +454,7 @@ search:
 	```
 ---
 #### fduwt11o2 
-[**`Metadata`**](./runs.md#fduwt11o2), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11o2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11o2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11o2.table.pdf)
+[**`Metadata`**](./runs.md#fduwt11o2), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11o2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11o2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11o2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1510
@@ -466,7 +466,7 @@ search:
 	```
 ---
 #### fduwt11t2 
-[**`Metadata`**](./runs.md#fduwt11t2), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11t2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11t2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11t2.table.pdf)
+[**`Metadata`**](./runs.md#fduwt11t2), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11t2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11t2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11t2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1605
@@ -478,7 +478,7 @@ search:
 	```
 ---
 #### fduwt11t1 
-[**`Metadata`**](./runs.md#fduwt11t1), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11t1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11t1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11t1.table.pdf)
+[**`Metadata`**](./runs.md#fduwt11t1), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11t1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11t1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11t1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1646
@@ -490,7 +490,7 @@ search:
 	```
 ---
 #### fduwt11b0 
-[**`Metadata`**](./runs.md#fduwt11b0), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11b0.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11b0), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11b0.table.pdf)
+[**`Metadata`**](./runs.md#fduwt11b0), [**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.fduwt11b0.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.fduwt11b0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/fduwt11b0.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1401
@@ -502,7 +502,7 @@ search:
 	```
 ---
 #### ajouai0209 
-[**`Metadata`**](./runs.md#ajouai0209), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0209.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0209), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0209.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0209), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0209.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0209.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0209.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0190
@@ -514,7 +514,7 @@ search:
 	```
 ---
 #### ictnp4 
-[**`Metadata`**](./runs.md#ictnp4), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp4.table.pdf)
+[**`Metadata`**](./runs.md#ictnp4), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.555
@@ -522,7 +522,7 @@ search:
 	```
 ---
 #### ictnp3 
-[**`Metadata`**](./runs.md#ictnp3), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp3.table.pdf)
+[**`Metadata`**](./runs.md#ictnp3), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.557
@@ -530,7 +530,7 @@ search:
 	```
 ---
 #### ictnp2 
-[**`Metadata`**](./runs.md#ictnp2), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp2.table.pdf)
+[**`Metadata`**](./runs.md#ictnp2), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.559
@@ -538,7 +538,7 @@ search:
 	```
 ---
 #### icttd2 
-[**`Metadata`**](./runs.md#icttd2), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd2.table.pdf)
+[**`Metadata`**](./runs.md#icttd2), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1497
@@ -550,7 +550,7 @@ search:
 	```
 ---
 #### icttd1 
-[**`Metadata`**](./runs.md#icttd1), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd1.table.pdf)
+[**`Metadata`**](./runs.md#icttd1), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1959
@@ -562,7 +562,7 @@ search:
 	```
 ---
 #### icttd3 
-[**`Metadata`**](./runs.md#icttd3), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd3.table.pdf)
+[**`Metadata`**](./runs.md#icttd3), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.icttd3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.icttd3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/icttd3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1442
@@ -574,7 +574,7 @@ search:
 	```
 ---
 #### ajouai0201 
-[**`Metadata`**](./runs.md#ajouai0201), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0201.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0201), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0201.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0201), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0201.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0201.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0201.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.108
@@ -582,7 +582,7 @@ search:
 	```
 ---
 #### ajouai0202 
-[**`Metadata`**](./runs.md#ajouai0202), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0202.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0202), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0202.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0202), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0202.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0202.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0202.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.072
@@ -590,7 +590,7 @@ search:
 	```
 ---
 #### ajouai0203 
-[**`Metadata`**](./runs.md#ajouai0203), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0203.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0203), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0203.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0203), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0203.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0203.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0203.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.071
@@ -598,7 +598,7 @@ search:
 	```
 ---
 #### ajouai0204 
-[**`Metadata`**](./runs.md#ajouai0204), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0204.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0204), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0204.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0204), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0204.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0204.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0204.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.132
@@ -606,7 +606,7 @@ search:
 	```
 ---
 #### ajouai0205 
-[**`Metadata`**](./runs.md#ajouai0205), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0205.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0205), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0205.table.pdf)
+[**`Metadata`**](./runs.md#ajouai0205), [**`Participants`**](./participants.md#ajou), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ajouai0205.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ajouai0205.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ajouai0205.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.010
@@ -614,7 +614,7 @@ search:
 	```
 ---
 #### UniNEdi3 
-[**`Metadata`**](./runs.md#uninedi3), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi3.table.pdf)
+[**`Metadata`**](./runs.md#uninedi3), [**`Participants`**](./participants.md#neuchatel), [**`Proceedings`**](./proceedings.md#report-on-the-trec-11-experiment-arabic-named-page-and-topic-distillation-searches), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UniNEdi3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UniNEdi3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UniNEdi3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0680
@@ -626,7 +626,7 @@ search:
 	```
 ---
 #### TDtfidf 
-[**`Metadata`**](./runs.md#tdtfidf), [**`Participants`**](./participants.md#dgic_stokoe), [**`Proceedings`**](./proceedings.md#trec-2002-web-track-automated-word-sense-disambiguation-for-internet-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.TDtfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.TDtfidf), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/TDtfidf.table.pdf)
+[**`Metadata`**](./runs.md#tdtfidf), [**`Participants`**](./participants.md#dgic_stokoe), [**`Proceedings`**](./proceedings.md#trec-2002-web-track-automated-word-sense-disambiguation-for-internet-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.TDtfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.TDtfidf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/TDtfidf.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0680
@@ -638,7 +638,7 @@ search:
 	```
 ---
 #### TDwsdtfidf 
-[**`Metadata`**](./runs.md#tdwsdtfidf), [**`Participants`**](./participants.md#dgic_stokoe), [**`Proceedings`**](./proceedings.md#trec-2002-web-track-automated-word-sense-disambiguation-for-internet-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.TDwsdtfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.TDwsdtfidf), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/TDwsdtfidf.table.pdf)
+[**`Metadata`**](./runs.md#tdwsdtfidf), [**`Participants`**](./participants.md#dgic_stokoe), [**`Proceedings`**](./proceedings.md#trec-2002-web-track-automated-word-sense-disambiguation-for-internet-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.TDwsdtfidf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.TDwsdtfidf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/TDwsdtfidf.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0680
@@ -650,7 +650,7 @@ search:
 	```
 ---
 #### CARROT2A 
-[**`Metadata`**](./runs.md#carrot2a), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2A.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2A), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2A.table.pdf)
+[**`Metadata`**](./runs.md#carrot2a), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2A.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2A.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1007
@@ -662,7 +662,7 @@ search:
 	```
 ---
 #### CARROT2B 
-[**`Metadata`**](./runs.md#carrot2b), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2B.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2B), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2B.table.pdf)
+[**`Metadata`**](./runs.md#carrot2b), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2B.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2B.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0517
@@ -674,7 +674,7 @@ search:
 	```
 ---
 #### ictnp7 
-[**`Metadata`**](./runs.md#ictnp7), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp7.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp7), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp7.table.pdf)
+[**`Metadata`**](./runs.md#ictnp7), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp7.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp7.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.613
@@ -682,7 +682,7 @@ search:
 	```
 ---
 #### ictnp6 
-[**`Metadata`**](./runs.md#ictnp6), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp6.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp6), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp6.table.pdf)
+[**`Metadata`**](./runs.md#ictnp6), [**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ictnp6.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ictnp6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ictnp6.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.613
@@ -690,7 +690,7 @@ search:
 	```
 ---
 #### thunp1 
-[**`Metadata`**](./runs.md#thunp1), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp1.table.pdf)
+[**`Metadata`**](./runs.md#thunp1), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.690
@@ -698,7 +698,7 @@ search:
 	```
 ---
 #### thunp2 
-[**`Metadata`**](./runs.md#thunp2), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp2.table.pdf)
+[**`Metadata`**](./runs.md#thunp2), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.530
@@ -706,7 +706,7 @@ search:
 	```
 ---
 #### thunp3 
-[**`Metadata`**](./runs.md#thunp3), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp3.table.pdf)
+[**`Metadata`**](./runs.md#thunp3), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.719
@@ -714,7 +714,7 @@ search:
 	```
 ---
 #### thunp4 
-[**`Metadata`**](./runs.md#thunp4), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp4.table.pdf)
+[**`Metadata`**](./runs.md#thunp4), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.687
@@ -722,7 +722,7 @@ search:
 	```
 ---
 #### thunp5 
-[**`Metadata`**](./runs.md#thunp5), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp5), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp5.table.pdf)
+[**`Metadata`**](./runs.md#thunp5), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thunp5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thunp5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thunp5.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.717
@@ -730,7 +730,7 @@ search:
 	```
 ---
 #### thutd1 
-[**`Metadata`**](./runs.md#thutd1), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd1.table.pdf)
+[**`Metadata`**](./runs.md#thutd1), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1741
@@ -742,7 +742,7 @@ search:
 	```
 ---
 #### thutd2 
-[**`Metadata`**](./runs.md#thutd2), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd2.table.pdf)
+[**`Metadata`**](./runs.md#thutd2), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1946
@@ -754,7 +754,7 @@ search:
 	```
 ---
 #### thutd3 
-[**`Metadata`**](./runs.md#thutd3), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd3.table.pdf)
+[**`Metadata`**](./runs.md#thutd3), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1932
@@ -766,7 +766,7 @@ search:
 	```
 ---
 #### thutd4 
-[**`Metadata`**](./runs.md#thutd4), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd4.table.pdf)
+[**`Metadata`**](./runs.md#thutd4), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1959
@@ -778,7 +778,7 @@ search:
 	```
 ---
 #### thutd5 
-[**`Metadata`**](./runs.md#thutd5), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd5), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd5.table.pdf)
+[**`Metadata`**](./runs.md#thutd5), [**`Participants`**](./participants.md#tsinghua), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.thutd5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.thutd5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/thutd5.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.2218
@@ -790,7 +790,7 @@ search:
 	```
 ---
 #### csiro02np01 
-[**`Metadata`**](./runs.md#csiro02np01), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np01), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np01.table.pdf)
+[**`Metadata`**](./runs.md#csiro02np01), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np01.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.573
@@ -798,7 +798,7 @@ search:
 	```
 ---
 #### csiro02np02 
-[**`Metadata`**](./runs.md#csiro02np02), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np02.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np02), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np02.table.pdf)
+[**`Metadata`**](./runs.md#csiro02np02), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np02.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np02.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.241
@@ -806,7 +806,7 @@ search:
 	```
 ---
 #### csiro02np03 
-[**`Metadata`**](./runs.md#csiro02np03), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np03.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np03), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np03.table.pdf)
+[**`Metadata`**](./runs.md#csiro02np03), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np03.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np03.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.416
@@ -814,7 +814,7 @@ search:
 	```
 ---
 #### csiro02np04 
-[**`Metadata`**](./runs.md#csiro02np04), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np04.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np04), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np04.table.pdf)
+[**`Metadata`**](./runs.md#csiro02np04), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np04.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np04.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.318
@@ -822,7 +822,7 @@ search:
 	```
 ---
 #### csiro02td1 
-[**`Metadata`**](./runs.md#csiro02td1), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td1.table.pdf)
+[**`Metadata`**](./runs.md#csiro02td1), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0816
@@ -834,7 +834,7 @@ search:
 	```
 ---
 #### csiro02td2 
-[**`Metadata`**](./runs.md#csiro02td2), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td2.table.pdf)
+[**`Metadata`**](./runs.md#csiro02td2), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0612
@@ -846,7 +846,7 @@ search:
 	```
 ---
 #### csiro02td3 
-[**`Metadata`**](./runs.md#csiro02td3), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td3.table.pdf)
+[**`Metadata`**](./runs.md#csiro02td3), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0136
@@ -858,7 +858,7 @@ search:
 	```
 ---
 #### csiro02td4 
-[**`Metadata`**](./runs.md#csiro02td4), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td4.table.pdf)
+[**`Metadata`**](./runs.md#csiro02td4), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0218
@@ -870,7 +870,7 @@ search:
 	```
 ---
 #### csiro02td5 
-[**`Metadata`**](./runs.md#csiro02td5), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td5), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td5.table.pdf)
+[**`Metadata`**](./runs.md#csiro02td5), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02td5.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02td5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02td5.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0884
@@ -882,7 +882,7 @@ search:
 	```
 ---
 #### csiro02np16 
-[**`Metadata`**](./runs.md#csiro02np16), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np16.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np16), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np16.table.pdf)
+[**`Metadata`**](./runs.md#csiro02np16), [**`Participants`**](./participants.md#csiro), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.csiro02np16.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.csiro02np16.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/csiro02np16.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.307
@@ -890,7 +890,7 @@ search:
 	```
 ---
 #### yenp01 
-[**`Metadata`**](./runs.md#yenp01), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yenp01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yenp01), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yenp01.table.pdf)
+[**`Metadata`**](./runs.md#yenp01), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yenp01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yenp01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yenp01.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.671
@@ -898,7 +898,7 @@ search:
 	```
 ---
 #### UAmsT02WnA 
-[**`Metadata`**](./runs.md#uamst02wna), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnA), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnA.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wna), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnA.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.328
@@ -906,7 +906,7 @@ search:
 	```
 ---
 #### UAmsT02WnTl 
-[**`Metadata`**](./runs.md#uamst02wntl), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTl.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTl), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTl.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wntl), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTl.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTl.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.425
@@ -914,7 +914,7 @@ search:
 	```
 ---
 #### yedi01 
-[**`Metadata`**](./runs.md#yedi01), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yedi01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yedi01), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yedi01.table.pdf)
+[**`Metadata`**](./runs.md#yedi01), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yedi01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yedi01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yedi01.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1361
@@ -926,7 +926,7 @@ search:
 	```
 ---
 #### yedi01no 
-[**`Metadata`**](./runs.md#yedi01no), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yedi01no.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yedi01no), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yedi01no.table.pdf)
+[**`Metadata`**](./runs.md#yedi01no), [**`Participants`**](./participants.md#yonsei), [**`Proceedings`**](./proceedings.md#web-document-retrieval-using-sentence-query-similarity), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.yedi01no.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.yedi01no.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/yedi01no.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1224
@@ -938,7 +938,7 @@ search:
 	```
 ---
 #### UAmsT02WnTlA 
-[**`Metadata`**](./runs.md#uamst02wntla), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTlA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTlA), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTlA.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wntla), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTlA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTlA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTlA.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.432
@@ -946,7 +946,7 @@ search:
 	```
 ---
 #### UAmsT02WnTm 
-[**`Metadata`**](./runs.md#uamst02wntm), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTm.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTm), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTm.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wntm), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTm.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTm.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.260
@@ -954,7 +954,7 @@ search:
 	```
 ---
 #### UAmsT02WnTmA 
-[**`Metadata`**](./runs.md#uamst02wntma), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTmA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTmA), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTmA.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wntma), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WnTmA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WnTmA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WnTmA.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.367
@@ -962,7 +962,7 @@ search:
 	```
 ---
 #### UAmsT02WtA 
-[**`Metadata`**](./runs.md#uamst02wta), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtA), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtA.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wta), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtA.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtA.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0803
@@ -974,7 +974,7 @@ search:
 	```
 ---
 #### UAmsT02WtAcs 
-[**`Metadata`**](./runs.md#uamst02wtacs), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtAcs.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtAcs), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtAcs.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wtacs), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtAcs.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtAcs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtAcs.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0748
@@ -986,7 +986,7 @@ search:
 	```
 ---
 #### UAmsT02WtAri 
-[**`Metadata`**](./runs.md#uamst02wtari), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtAri.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtAri), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtAri.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wtari), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtAri.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtAri.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtAri.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0503
@@ -998,7 +998,7 @@ search:
 	```
 ---
 #### UAmsT02WtT 
-[**`Metadata`**](./runs.md#uamst02wtt), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtT.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtT), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtT.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wtt), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtT.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtT.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1415
@@ -1010,7 +1010,7 @@ search:
 	```
 ---
 #### UAmsT02WtTri 
-[**`Metadata`**](./runs.md#uamst02wttri), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtTri.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtTri), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtTri.table.pdf)
+[**`Metadata`**](./runs.md#uamst02wttri), [**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2002), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.UAmsT02WtTri.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.UAmsT02WtTri.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/UAmsT02WtTri.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0667
@@ -1022,7 +1022,7 @@ search:
 	```
 ---
 #### ibmHaifaBase 
-[**`Metadata`**](./runs.md#ibmhaifabase), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaBase.table.pdf)
+[**`Metadata`**](./runs.md#ibmhaifabase), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaBase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaBase.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1714
@@ -1034,7 +1034,7 @@ search:
 	```
 ---
 #### ibmHaifaAP 
-[**`Metadata`**](./runs.md#ibmhaifaap), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaAP.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaAP), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaAP.table.pdf)
+[**`Metadata`**](./runs.md#ibmhaifaap), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaAP.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaAP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaAP.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1633
@@ -1046,7 +1046,7 @@ search:
 	```
 ---
 #### ibmHaifaT10 
-[**`Metadata`**](./runs.md#ibmhaifat10), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaT10.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaT10), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaT10.table.pdf)
+[**`Metadata`**](./runs.md#ibmhaifat10), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaT10.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaT10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaT10.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1864
@@ -1058,7 +1058,7 @@ search:
 	```
 ---
 #### ibmHaifaPR 
-[**`Metadata`**](./runs.md#ibmhaifapr), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaPR.table.pdf)
+[**`Metadata`**](./runs.md#ibmhaifapr), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaPR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaPR.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1973
@@ -1070,7 +1070,7 @@ search:
 	```
 ---
 #### ibmHaifaT10D 
-[**`Metadata`**](./runs.md#ibmhaifat10d), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaT10D.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaT10D), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaT10D.table.pdf)
+[**`Metadata`**](./runs.md#ibmhaifat10d), [**`Participants`**](./participants.md#ibm-haifa), [**`Proceedings`**](./proceedings.md#topic-distillation-with-knowledge-agents), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.ibmHaifaT10D.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.ibmHaifaT10D.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/ibmHaifaT10D.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1823
@@ -1082,7 +1082,7 @@ search:
 	```
 ---
 #### litlink 
-[**`Metadata`**](./runs.md#litlink), [**`Participants`**](./participants.md#lit), [**`Proceedings`**](./proceedings.md#lit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.litlink.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.litlink), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/litlink.table.pdf)
+[**`Metadata`**](./runs.md#litlink), [**`Participants`**](./participants.md#lit), [**`Proceedings`**](./proceedings.md#lit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.litlink.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.litlink.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/litlink.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.578
@@ -1090,7 +1090,7 @@ search:
 	```
 ---
 #### littext 
-[**`Metadata`**](./runs.md#littext), [**`Participants`**](./participants.md#lit), [**`Proceedings`**](./proceedings.md#lit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.littext.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.littext), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/littext.table.pdf)
+[**`Metadata`**](./runs.md#littext), [**`Participants`**](./participants.md#lit), [**`Proceedings`**](./proceedings.md#lit-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.littext.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.littext.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/littext.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.427
@@ -1098,7 +1098,7 @@ search:
 	```
 ---
 #### uwmtBW0 
-[**`Metadata`**](./runs.md#uwmtbw0), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW0.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW0), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW0.table.pdf)
+[**`Metadata`**](./runs.md#uwmtbw0), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW0.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW0.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.509
@@ -1106,7 +1106,7 @@ search:
 	```
 ---
 #### uwmtBW1 
-[**`Metadata`**](./runs.md#uwmtbw1), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW1.table.pdf)
+[**`Metadata`**](./runs.md#uwmtbw1), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.150
@@ -1114,7 +1114,7 @@ search:
 	```
 ---
 #### uic0101 
-[**`Metadata`**](./runs.md#uic0101), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0101.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0101), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0101.table.pdf)
+[**`Metadata`**](./runs.md#uic0101), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0101.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0101.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0101.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0680
@@ -1126,7 +1126,7 @@ search:
 	```
 ---
 #### uic0102 
-[**`Metadata`**](./runs.md#uic0102), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0102.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0102), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0102.table.pdf)
+[**`Metadata`**](./runs.md#uic0102), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0102.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0102.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0102.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0531
@@ -1138,7 +1138,7 @@ search:
 	```
 ---
 #### uic0103 
-[**`Metadata`**](./runs.md#uic0103), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0103.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0103), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0103.table.pdf)
+[**`Metadata`**](./runs.md#uic0103), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0103.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0103.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0103.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0612
@@ -1150,7 +1150,7 @@ search:
 	```
 ---
 #### uicnp01 
-[**`Metadata`**](./runs.md#uicnp01), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp01), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp01.table.pdf)
+[**`Metadata`**](./runs.md#uicnp01), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp01.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp01.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.495
@@ -1158,7 +1158,7 @@ search:
 	```
 ---
 #### uicnp02 
-[**`Metadata`**](./runs.md#uicnp02), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp02.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp02), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp02.table.pdf)
+[**`Metadata`**](./runs.md#uicnp02), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp02.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp02.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.550
@@ -1166,7 +1166,7 @@ search:
 	```
 ---
 #### pirc2Wd1 
-[**`Metadata`**](./runs.md#pirc2wd1), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wd1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wd1.table.pdf)
+[**`Metadata`**](./runs.md#pirc2wd1), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wd1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0857
@@ -1178,7 +1178,7 @@ search:
 	```
 ---
 #### uicnp03 
-[**`Metadata`**](./runs.md#uicnp03), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp03.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp03), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp03.table.pdf)
+[**`Metadata`**](./runs.md#uicnp03), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uicnp03.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uicnp03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uicnp03.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.564
@@ -1186,7 +1186,7 @@ search:
 	```
 ---
 #### pirc2Wd2 
-[**`Metadata`**](./runs.md#pirc2wd2), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wd2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wd2.table.pdf)
+[**`Metadata`**](./runs.md#pirc2wd2), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wd2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1020
@@ -1198,7 +1198,7 @@ search:
 	```
 ---
 #### CARROT2D 
-[**`Metadata`**](./runs.md#carrot2d), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2D.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2D), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2D.table.pdf)
+[**`Metadata`**](./runs.md#carrot2d), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2D.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2D.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2D.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0490
@@ -1210,7 +1210,7 @@ search:
 	```
 ---
 #### CARROT2C 
-[**`Metadata`**](./runs.md#carrot2c), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2C.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2C), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2C.table.pdf)
+[**`Metadata`**](./runs.md#carrot2c), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2C.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2C.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0531
@@ -1222,7 +1222,7 @@ search:
 	```
 ---
 #### CARROT2E 
-[**`Metadata`**](./runs.md#carrot2e), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2E.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2E), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2E.table.pdf)
+[**`Metadata`**](./runs.md#carrot2e), [**`Participants`**](./participants.md#umbc-cost), [**`Proceedings`**](./proceedings.md#carrott-11-and-the-trec-11-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.CARROT2E.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.CARROT2E.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/CARROT2E.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0190
@@ -1234,7 +1234,7 @@ search:
 	```
 ---
 #### MU106 
-[**`Metadata`**](./runs.md#mu106), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU106.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU106), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU106.table.pdf)
+[**`Metadata`**](./runs.md#mu106), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU106.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU106.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU106.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.576
@@ -1242,7 +1242,7 @@ search:
 	```
 ---
 #### MU307 
-[**`Metadata`**](./runs.md#mu307), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU307.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU307), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU307.table.pdf)
+[**`Metadata`**](./runs.md#mu307), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU307.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU307.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU307.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.207
@@ -1250,7 +1250,7 @@ search:
 	```
 ---
 #### MU208 
-[**`Metadata`**](./runs.md#mu208), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU208.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU208), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU208.table.pdf)
+[**`Metadata`**](./runs.md#mu208), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU208.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU208.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU208.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.524
@@ -1258,7 +1258,7 @@ search:
 	```
 ---
 #### MU609 
-[**`Metadata`**](./runs.md#mu609), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU609.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU609), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU609.table.pdf)
+[**`Metadata`**](./runs.md#mu609), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU609.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU609.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU609.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.524
@@ -1266,7 +1266,7 @@ search:
 	```
 ---
 #### MU80A 
-[**`Metadata`**](./runs.md#mu80a), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU80A.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU80A), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU80A.table.pdf)
+[**`Metadata`**](./runs.md#mu80a), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU80A.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU80A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU80A.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.402
@@ -1274,7 +1274,7 @@ search:
 	```
 ---
 #### MU111 
-[**`Metadata`**](./runs.md#mu111), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU111.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU111), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU111.table.pdf)
+[**`Metadata`**](./runs.md#mu111), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU111.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU111.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU111.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1646
@@ -1286,7 +1286,7 @@ search:
 	```
 ---
 #### MU212 
-[**`Metadata`**](./runs.md#mu212), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU212.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU212), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU212.table.pdf)
+[**`Metadata`**](./runs.md#mu212), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU212.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU212.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU212.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0980
@@ -1298,7 +1298,7 @@ search:
 	```
 ---
 #### MU313 
-[**`Metadata`**](./runs.md#mu313), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU313.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU313), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU313.table.pdf)
+[**`Metadata`**](./runs.md#mu313), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU313.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU313.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU313.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0980
@@ -1310,7 +1310,7 @@ search:
 	```
 ---
 #### MU525 
-[**`Metadata`**](./runs.md#mu525), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU525.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU525), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU525.table.pdf)
+[**`Metadata`**](./runs.md#mu525), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU525.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU525.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU525.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1741
@@ -1322,7 +1322,7 @@ search:
 	```
 ---
 #### MU624 
-[**`Metadata`**](./runs.md#mu624), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU624.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU624), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU624.table.pdf)
+[**`Metadata`**](./runs.md#mu624), [**`Participants`**](./participants.md#umelbourne), [**`Proceedings`**](./proceedings.md#homepage-finding-and-topic-distillation-using-a-common-retrieval-strategy), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.MU624.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.MU624.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/MU624.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.1497
@@ -1334,7 +1334,7 @@ search:
 	```
 ---
 #### uic0104 
-[**`Metadata`**](./runs.md#uic0104), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0104.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0104), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0104.table.pdf)
+[**`Metadata`**](./runs.md#uic0104), [**`Participants`**](./participants.md#illinois_chicago), [**`Proceedings`**](./proceedings.md#uic-at-trec-2002-web-track), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uic0104.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uic0104.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uic0104.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	P_10		all 0.0707
@@ -1346,7 +1346,7 @@ search:
 	```
 ---
 #### pirc2Wnp1 
-[**`Metadata`**](./runs.md#pirc2wnp1), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wnp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wnp1), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wnp1.table.pdf)
+[**`Metadata`**](./runs.md#pirc2wnp1), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wnp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wnp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wnp1.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.263
@@ -1354,7 +1354,7 @@ search:
 	```
 ---
 #### pirc2Wnp2 
-[**`Metadata`**](./runs.md#pirc2wnp2), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wnp2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wnp2.table.pdf)
+[**`Metadata`**](./runs.md#pirc2wnp2), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.pirc2Wnp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.pirc2Wnp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/pirc2Wnp2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.076
@@ -1362,7 +1362,7 @@ search:
 	```
 ---
 #### uwmtBW2 
-[**`Metadata`**](./runs.md#uwmtbw2), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW2), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW2.table.pdf)
+[**`Metadata`**](./runs.md#uwmtbw2), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW2.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW2.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.535
@@ -1370,7 +1370,7 @@ search:
 	```
 ---
 #### uwmtBW3 
-[**`Metadata`**](./runs.md#uwmtbw3), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW3), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW3.table.pdf)
+[**`Metadata`**](./runs.md#uwmtbw3), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW3.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW3.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.103
@@ -1378,7 +1378,7 @@ search:
 	```
 ---
 #### uwmtBW4 
-[**`Metadata`**](./runs.md#uwmtbw4), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW4), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW4.table.pdf)
+[**`Metadata`**](./runs.md#uwmtbw4), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.uwmtBW4.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.uwmtBW4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/uwmtBW4.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.106
@@ -1386,7 +1386,7 @@ search:
 	```
 ---
 #### iit02b 
-[**`Metadata`**](./runs.md#iit02b), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02b.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02b), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02b.table.pdf)
+[**`Metadata`**](./runs.md#iit02b), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02b.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02b.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.587
@@ -1394,7 +1394,7 @@ search:
 	```
 ---
 #### iit02tf 
-[**`Metadata`**](./runs.md#iit02tf), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02tf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02tf), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02tf.table.pdf)
+[**`Metadata`**](./runs.md#iit02tf), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02tf.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02tf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02tf.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.576
@@ -1402,7 +1402,7 @@ search:
 	```
 ---
 #### iit02tfa 
-[**`Metadata`**](./runs.md#iit02tfa), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02tfa.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02tfa), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02tfa.table.pdf)
+[**`Metadata`**](./runs.md#iit02tfa), [**`Participants`**](./participants.md#iit), [**`Proceedings`**](./proceedings.md#iit-at-trec-2002-linear-combinations-based-on-document-structure-and-varied-stemming-for-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.iit02tfa.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.iit02tfa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/iit02tfa.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.580
@@ -1410,7 +1410,7 @@ search:
 	```
 ---
 #### KUHPF0201 
-[**`Metadata`**](./runs.md#kuhpf0201), [**`Participants`**](./participants.md#kasetsart), [**`Proceedings`**](./proceedings.md#finding-named-pages-via-frequent-anchor-descriptions), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.KUHPF0201.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.KUHPF0201), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/KUHPF0201.table.pdf)
+[**`Metadata`**](./runs.md#kuhpf0201), [**`Participants`**](./participants.md#kasetsart), [**`Proceedings`**](./proceedings.md#finding-named-pages-via-frequent-anchor-descriptions), [**`Input`**](https://trec.nist.gov/results/trec11/web/inputs/input.KUHPF0201.gz), [**`Summary`**](https://trec.nist.gov/results/trec11/web/summaries/summary.KUHPF0201.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/web/KUHPF0201.table.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mrr			all 0.010
