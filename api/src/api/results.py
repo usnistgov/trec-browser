@@ -4,9 +4,9 @@ from main import app
 from models import Run, Result
 
 
+# get all results of a track
 @api.route('/<string:trec>/<string:track>/results')
 def get_track_results(trec, track):
-    # get all results of a track
     
     with app.app_context():
 
@@ -67,9 +67,9 @@ def get_track_results(trec, track):
     return jsonify([])
 
 
+# get all results of a trec conference
 @api.route('/<string:trec>/<string:track>/<string:pid>/results')
 def get_participant_results(trec, track, pid):
-    # get all results of a trec conference
 
     with app.app_context():    
         results_json = {}

@@ -4,9 +4,9 @@ from main import app
 from models import Publication, Run
 
 
+# get all publications of a track
 @api.route('/<string:trec>/<string:track>/publications')
 def get_track_publications(trec, track):
-    # get all publications of a track
     
     with app.app_context():
 
@@ -36,9 +36,9 @@ def get_track_publications(trec, track):
     return jsonify([])
 
 
+# get all publications of a trec conference
 @api.route('/<string:trec>/publications')
 def get_trec_publications(trec):
-    # get all publications of a trec conference
     
     with app.app_context():
 

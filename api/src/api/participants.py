@@ -4,9 +4,9 @@ from main import app
 from models import Participant, Run
 
 
+# get all participants of a track
 @api.route('/<string:trec>/<string:track>/participants')
 def get_track_participants(trec, track):
-    # get all participants of a track
     
     with app.app_context():
 
@@ -32,10 +32,9 @@ def get_track_participants(trec, track):
     return jsonify([])
 
 
-
+# get all participants of a trec conference
 @api.route('/<string:trec>/participants')
 def get_trec_participants(trec):
-    # get all participants of a trec conference
     
     with app.app_context():
 
@@ -59,7 +58,6 @@ def get_trec_participants(trec):
                     Run.pid==p.get('pid'),
                     Run.trec==trec, 
                     ).with_entities(Run.track).distinct()
-                # _distinct_tracks_runs = filter(lambda x: x.track not in no_tracks, _distinct_tracks_runs)
                 p['tracks'] = [run.track for run in _distinct_tracks_runs]
 
             participants = filter(lambda x: len(x.get('tracks')) > 0, participants)

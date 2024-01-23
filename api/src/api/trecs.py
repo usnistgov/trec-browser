@@ -3,9 +3,10 @@ from . import api
 from main import app
 from models import Run
 
+
+# get all trec conferences
 @api.route('/trecs')
 def get_trecs():
-    '''get all trec conferences'''
 
     with app.app_context():
 

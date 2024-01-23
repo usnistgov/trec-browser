@@ -4,9 +4,9 @@ from main import app
 from models import Track, Run
 
 
+# get all tracks of a TREC conference
 @api.route('/<string:trec>/tracks')
 def get_tracks(trec):
-    # get all tracks of a TREC conference
 
     with app.app_context():
         _tracks = Track.query.filter(Track.trec==trec).all()
@@ -19,9 +19,9 @@ def get_tracks(trec):
         return jsonify([])
 
 
+# get all tracks in which the participant participated in a specified conference
 @api.route('/<string:trec>/<string:pid>/tracks')
 def get_participant_tracks(trec, pid):
-    # get all tracks in which the participant participated in a specified conference
 
     with app.app_context():
 

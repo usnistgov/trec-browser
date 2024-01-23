@@ -11,15 +11,14 @@ def is_json(json_data):
 
 
 class Run(db.Model):
-    '''
-    '''
+
     __tablename__ = 'runs'
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
     runid = db.Column(db.String(64))
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
-    pid = db.Column(db.String(64), db.ForeignKey('participants.pid'))
+    pid = db.Column(db.String(64))
     year = db.Column(db.String(64))
     date = db.Column(db.String(64))
     type = db.Column(db.String(64))
@@ -32,6 +31,11 @@ class Run(db.Model):
     summary_url = db.Column(db.String(64))
     input_url = db.Column(db.String(64))
     appendix_url = db.Column(db.String(64))
+
+
+    def __repr__(self):
+        return f"Run('{self.runid}', '{self.trec}', '{self.track}')" 
+    
 
     def to_json(self):
 
@@ -159,8 +163,7 @@ class Run(db.Model):
     
 
 class Participant(db.Model):
-    '''
-    '''
+
     __tablename__ = 'participants'
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
@@ -172,7 +175,7 @@ class Participant(db.Model):
 
 
     def __repr__(self):
-        return 
+        return f"Participant('{self.pid}', '{self.name}', '{self.trec}')" 
 
 
     def to_json(self):
@@ -188,8 +191,7 @@ class Participant(db.Model):
 
 
 class Dataset(db.Model):
-    '''
-    '''
+
     __tablename__ = 'datasets'
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
@@ -201,9 +203,11 @@ class Dataset(db.Model):
     ir_datasets = db.Column(db.String(64))
     other = db.Column(db.String(64))
 
+
     def __repr__(self):
-        return 
-        
+        return f"Dataset('{self.trec}', '{self.track}')" 
+
+
     def to_json(self):
 
         if hasattr(self, 'ir_datasets'):
@@ -233,8 +237,7 @@ class Dataset(db.Model):
 
 
 class Publication(db.Model):
-    '''
-    '''
+
     __tablename__ = 'publications'
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
@@ -248,9 +251,11 @@ class Publication(db.Model):
     author = db.Column(db.String(64))
     bibtex = db.Column(db.String(64))
 
+
     def __repr__(self):
-        return 
+        return f"Publication('{self.key}', '{self.pid}', '{self.trec}', '{self.track}')"  
     
+
     def to_json(self):
         json_publication = {
             'trec': self.trec,
@@ -268,9 +273,9 @@ class Publication(db.Model):
 
 
 class Result(db.Model):
-    '''
-    '''
+
     __tablename__ = 'results'
+
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
@@ -281,9 +286,11 @@ class Result(db.Model):
     topic = db.Column(db.String(64))
     score = db.Column(db.String(64))
 
+
     def __repr__(self):
-        return 
+        return f"Result('{self.trec}', '{self.track}', '{self.runid}', '{self.measure}')"   
     
+
     def to_json(self):
         json_publication = {
             'trec': self.trec,
@@ -299,8 +306,7 @@ class Result(db.Model):
 
 
 class Track(db.Model):
-    '''
-    '''
+
     __tablename__ = 'tracks'
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
@@ -310,7 +316,7 @@ class Track(db.Model):
 
 
     def __repr__(self):
-        return 
+        return f"Track('{self.trec}', '{self.track}', '{self.fullname}')"   
 
 
     def to_json(self):

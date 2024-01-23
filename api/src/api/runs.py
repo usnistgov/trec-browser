@@ -4,9 +4,9 @@ from main import app
 from models import Run
 
 
+# get all run (names) of a specified track of a specified trec conference
 @api.route('/<string:trec>/<string:track>/runs')
 def get_track_runs(trec, track):
-    # get all run (names) of a specified track of a specified trec conference
     
     with app.app_context():
 
@@ -23,9 +23,9 @@ def get_track_runs(trec, track):
     return jsonify([])
 
 
+# get all runs from a specified participant at a specified track
 @api.route('/<string:trec>/<string:track>/<string:pid>/runs')
 def get_participant_runs(trec, track, pid):
-    # get all runs from a specified participant at a specified track
 
     with app.app_context():
 
@@ -43,9 +43,9 @@ def get_participant_runs(trec, track, pid):
     return jsonify([])
 
 
+# get the run with specified runid
 @api.route('/<string:trec>/<string:track>/<string:pid>/<string:runid>')
 def get_run(trec, track, pid, runid):
-    # get the run with specified runid
 
     with app.app_context():
 
@@ -62,9 +62,10 @@ def get_run(trec, track, pid, runid):
     
     return jsonify([])
 
+
+# get all the runs with the specified runid (includes multiple tracks)
 @api.route('/runs/<string:runid>')
 def get_runs(runid):
-    # get all the runs with the specified runid (includes multiple tracks)
     
     with app.app_context():
 
@@ -78,9 +79,9 @@ def get_runs(runid):
     return jsonify([])
 
 
+# get all runs from a specified participant 
 @api.route('/<string:pid>/runs/')
 def get_all_participant_runs(pid):
-    # get all runs from a specified participant 
 
     with app.app_context():
 
