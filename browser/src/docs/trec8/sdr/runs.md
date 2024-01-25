@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-cr-cmus1 
@@ -19,7 +18,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/27/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-cr-cuhtks1 
@@ -30,7 +28,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/27/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-cr-cuhtks1p1 
@@ -41,7 +38,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/27/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-cr-limsis1 
@@ -52,7 +48,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/27/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-cr-shefs1 
@@ -63,7 +58,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/27/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-r1 
@@ -74,7 +68,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-s1 
@@ -85,7 +78,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### att-s2 
@@ -96,7 +88,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cedar-b1 
@@ -107,7 +98,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cedar-r1 
@@ -118,7 +108,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cmu-b1 
@@ -129,7 +118,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cmu-r1 
@@ -140,7 +128,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cmu-s1 
@@ -151,7 +138,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cmu-s2 
@@ -162,7 +148,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/31/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cuhtk-b1 
@@ -173,7 +158,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-b1u 
@@ -184,7 +168,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cr-att-s1 
@@ -195,7 +178,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/21/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cr-b2 
@@ -206,7 +188,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/21/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cr-cmu-s1 
@@ -217,7 +198,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/21/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cr-limsi-s1 
@@ -228,7 +208,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/21/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cr-shef-s1 
@@ -239,7 +218,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/21/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cru-limsi-s1 
@@ -250,7 +228,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/16/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-cru-nist-b2 
@@ -261,7 +238,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/16/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### cuhtk-cru-shef-s1 
@@ -272,7 +248,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/16/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-r1 
@@ -283,7 +258,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-s1 
@@ -294,7 +268,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-s1p1 
@@ -305,7 +278,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/28/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-s1p1u 
@@ -316,7 +288,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### cuhtk-s1u 
@@ -327,7 +298,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### ibms-b1 
@@ -338,7 +308,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### ibms-r1 
@@ -349,7 +318,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-b1 
@@ -360,7 +328,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-b2 
@@ -371,7 +338,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/28/1999 
-- :material-text-search: **Task:** rolling 
 
 ---
 #### limsi-cr-att1 
@@ -382,7 +348,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/28/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-cr-cmu1 
@@ -393,7 +358,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/28/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-cr-cuhtk1 
@@ -404,7 +368,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/28/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-cr-shef1 
@@ -415,7 +378,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/28/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-r1 
@@ -426,7 +388,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### limsi-s1 
@@ -437,7 +398,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### mds08-b1 
@@ -448,7 +408,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### mds08-r1 
@@ -459,7 +418,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-b1 
@@ -470,7 +428,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-b1u 
@@ -481,7 +438,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-att-s1 
@@ -492,7 +448,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-cmu-s1 
@@ -503,7 +458,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-cuhtk-s1 
@@ -514,7 +468,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-cuhtk-s1p1 
@@ -525,7 +478,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-limsi-s1 
@@ -536,7 +488,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cr-nist-b2 
@@ -547,7 +498,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cru-cuhtk-s1p1u 
@@ -558,7 +508,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cru-cuhtk-s1u 
@@ -569,7 +518,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cru-limsi-s1u 
@@ -580,7 +528,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/29/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-cru-nist-b2u 
@@ -591,7 +538,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 9/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-r1 
@@ -602,7 +548,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-s1 
@@ -613,7 +558,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### shef-s1u 
@@ -624,7 +568,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/27/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### tno8b-b1-limsi 
@@ -635,7 +578,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### tno8b-b1u-limsi 
@@ -646,7 +588,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### tno8b-r1-limsi 
@@ -657,7 +598,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### tno8b-s1-limsi 
@@ -668,7 +608,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### tno8b-s1u-limsi 
@@ -679,7 +618,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/30/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### umass-b1 
@@ -690,7 +628,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/26/1999 
-- :material-text-search: **Task:** fixed 
 
 ---
 #### umass-r1 
@@ -701,6 +638,5 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/26/1999 
-- :material-text-search: **Task:** fixed 
 
 ---

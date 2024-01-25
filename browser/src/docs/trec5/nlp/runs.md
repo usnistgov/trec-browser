@@ -167,7 +167,6 @@
 - :material-format-text: **Track:** NLP 
 - :material-calendar: **Year:** 1996 
 - :material-upload: **Submission:** 8/26/96 
-- :fontawesome-solid-user-gear: **Type:** mwe 
 
 ---
 #### xerox-nlp4 
@@ -178,7 +177,6 @@
 - :material-format-text: **Track:** NLP 
 - :material-calendar: **Year:** 1996 
 - :material-upload: **Submission:** 8/15/96 
-- :fontawesome-solid-user-gear: **Type:** join 
 
 ---
 #### xerox-nlp5 
@@ -189,7 +187,6 @@
 - :material-format-text: **Track:** NLP 
 - :material-calendar: **Year:** 1996 
 - :material-upload: **Submission:** 8/15/96 
-- :fontawesome-solid-user-gear: **Type:** cmwe 
 
 ---
 #### xerox-nlp6 
@@ -200,6 +197,5 @@
 - :material-format-text: **Track:** NLP 
 - :material-calendar: **Year:** 1996 
 - :material-upload: **Submission:** 8/15/96 
-- :fontawesome-solid-user-gear: **Type:** cjoin 
 
 ---

@@ -177,7 +177,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** required2 
 - :material-fingerprint: **MD5:** `4f4500b63796a4c88b04269aa9061e02` 
 - :material-text: **Run description:** Rocchio algorithm is also a run on top of the base run result, with again N=15000. These documents were re-ranked used the relevance feedback document provided by Trec. The knowledge was discovered from relevance documents and query using Rocchio algorithm. Using pseudo-relevance feedback the top k was selected to use as positive feedback and the bottom k selected as negative feedback (k = 10). A text mining techique (the Rocchio model) was proformed to discover knowledge from those selected pseudo-relevance feedback documents. The 15000 documents were finally reranked based on the discovered knowledge, and the top 2500 documents were submitted as the final result. 
 
@@ -203,7 +202,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** required2 
 - :material-fingerprint: **MD5:** `7c3445c8baf7ceeadad4dcfafd3e6037` 
 - :material-text: **Run description:** Rocchio algorithm is also a run on top of the base run result, with again N=15000. These documents were re-ranked used the relevance feedback document provided by Trec. The knowledge was discovered from relevance documents and query using Rocchio algorithm. Using pseudo-relevance feedback the top k was selected to use as positive feedback and the bottom k selected as negative feedback (k = 10). A text mining techique (the Rocchio model) was proformed to discover knowledge from those selected pseudo-relevance feedback documents. The 15000 documents were finally reranked based on the discovered knowledge, and the top 2500 documents were submitted as the final result. 
 
@@ -229,7 +227,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** required2 
 - :material-fingerprint: **MD5:** `c39da575b5a386b55791f5989e3c70e6` 
 - :material-text: **Run description:** Rocchio algorithm is also a run on top of the base run result, with again N=15000. These documents were re-ranked used the relevance feedback document provided by Trec. The knowledge was discovered from relevance documents and query using Rocchio algorithm. Using pseudo-relevance feedback the top k was selected to use as positive feedback and the bottom k selected as negative feedback (k = 10). A text mining techique (the Rocchio model) was proformed to discover knowledge from those selected pseudo-relevance feedback documents. The 15000 documents were finally reranked based on the discovered knowledge, and the top 2500 documents were submitted as the final result. 
 
@@ -255,7 +252,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** required2 
 - :material-fingerprint: **MD5:** `6f54cdac5175bc5545491be9bdf41d37` 
 - :material-text: **Run description:** Rocchio algorithm is also a run on top of the base run result, with again N=15000. These documents were re-ranked used the relevance feedback document provided by Trec. The knowledge was discovered from relevance documents and query using Rocchio algorithm. Using pseudo-relevance feedback the top k was selected to use as positive feedback and the bottom k selected as negative feedback (k = 10). A text mining techique (the Rocchio model) was proformed to discover knowledge from those selected pseudo-relevance feedback documents. The 15000 documents were finally reranked based on the discovered knowledge, and the top 2500 documents were submitted as the final result. 
 
@@ -281,7 +277,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** required2 
 - :material-fingerprint: **MD5:** `43e70036c1170dacd85effbf8be96a72` 
 - :material-text: **Run description:** Rocchio algorithm is also a run on top of the base run result, with again N=15000. These documents were re-ranked used the relevance feedback document provided by Trec. The knowledge was discovered from relevance documents and query using Rocchio algorithm. Using pseudo-relevance feedback the top k was selected to use as positive feedback and the bottom k selected as negative feedback (k = 10). A text mining techique (the Rocchio model) was proformed to discover knowledge from those selected pseudo-relevance feedback documents. The 15000 documents were finally reranked based on the discovered knowledge, and the top 2500 documents were submitted as the final result. 
 
@@ -320,7 +315,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/22/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `2f350b4a64cdc1f69c15530915ef1745` 
 - :material-text: **Run description:** Basic Rocchio feedback of 1994 era. 25 terms added, which must occur 100 times in collection. Rocchio weights of 16,16,32  (the 32 is not used), thus equal weights for terms from topic and from single doc. 
 
@@ -385,7 +379,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/22/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `426df94212609ec8cbd7ec636ad1ec19` 
 - :material-text: **Run description:** Basic Rocchio feedback of 1994 era. 25 terms added, which must occur 100 times in collection. Rocchio weights of 16,16,32  (the 32 is not used), thus equal weights for terms from topic and from single doc. 
 
@@ -398,7 +391,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/22/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `c8120a2ae8b08acfa4c98a5b698bac92` 
 - :material-text: **Run description:** Basic Rocchio feedback of 1994 era. 25 terms added, which must occur 100 times in collection. Rocchio weights of 16,16,32  (the 32 is not used), thus equal weights for terms from topic and from single doc. 
 
@@ -411,7 +403,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/22/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `aa47c91e0bf726bb75d5380c0d3cdaff` 
 - :material-text: **Run description:** Basic Rocchio feedback of 1994 era. 25 terms added, which must occur 100 times in collection. Rocchio weights of 16,16,32  (the 32 is not used), thus equal weights for terms from topic and from single doc. 
 
@@ -424,7 +415,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/22/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `c500f64845f534108900cbfc3c996b1a` 
 - :material-text: **Run description:** Basic Rocchio feedback of 1994 era. 25 terms added, which must occur 100 times in collection. Rocchio weights of 16,16,32  (the 32 is not used), thus equal weights for terms from topic and from single doc. 
 
@@ -554,7 +544,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `bc0e9c73d76d1fead09fcfb3da7ac731` 
 - :material-text: **Run description:** randomly reorder top 40 of baseline results using relevant doc as random seed 
 
@@ -619,7 +608,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `fd286206230f1de264cc4e4efaca9172` 
 - :material-text: **Run description:** randomly reorder top 40 of baseline results using relevant doc as random seed 
 
@@ -632,7 +620,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `1055b4948e7b934aa019f2b35e2d08b3` 
 - :material-text: **Run description:** randomly reorder top 40 of baseline results using relevant doc as random seed 
 
@@ -645,7 +632,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `e2b288bdd76ae87e66764e9513d59080` 
 - :material-text: **Run description:** randomly reorder top 40 of baseline results using relevant doc as random seed 
 
@@ -658,7 +644,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `471059368abb2a7cc8d88f8a3571fb03` 
 - :material-text: **Run description:** randomly reorder top 40 of baseline results using relevant doc as random seed 
 
@@ -697,7 +682,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `7fd25a701f97c53cd17bebe22d5824f6` 
 - :material-text: **Run description:** In this run the 10 keywords with highest IDF in the feedback document are used to expand the query. Then a co-occurrence matrix of the expanded query terms is computed by using contiguous text windows of size 7. The co-occurrence matrix is decomposed by SVD and the principal eigenvector is used to re-rank the documents. In particular the documents are re-ranked according to the distance from the subspace spanned by the selected eigenvector. Each document is represented as a vector of BM25 weights.  The top 2500 documents retrieved by the baseline, i.e. BM25, are re-ranked. 
 
@@ -762,7 +746,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `a4aa4ede7598bb57fe2c68d89efaf809` 
 - :material-text: **Run description:** In this run the 10 keywords with highest IDF in the feedback document are used to expand the query. Then a cooccurrence matrix of the expanded query terms is computed by using contiguous text windows of size 7. The coocurrence matrix is decomposed by SVD and the principal eigenvector is used to re-rank the documents. In particular the documents are re-ranked according to the distance from the subspace spanned by the selected eigenvector. Each document is represented as a vector of BM25 weights.  The top 2500 documents retrieved by the baseline, i.e. BM25, are re-ranked. 
 
@@ -775,7 +758,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `b162301934e8f015f546e9978316af09` 
 - :material-text: **Run description:** In this run the 10 keywords with highest IDF in the feedback document are used to expand the query. Then a cooccurrence matrix of the expanded query terms is computed by using contiguous text windows of size 7. The coocurrence matrix is decomposed by SVD and the principal eigenvector is used to re-rank the documents. In particular the documents are re-ranked according to the distance from the subspace spanned by the selected eigenvector. Each document is represented as a vector of BM25 weights.  The top 2500 documents retrieved by the baseline, i.e. BM25, are re-ranked. 
 
@@ -788,7 +770,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `bf0d210833be04df9b0a8eb0c7364ae9` 
 - :material-text: **Run description:** In this run the 10 keywords with highest IDF in the feedback document are used to expand the query. Then a cooccurrence matrix of the expanded query terms is computed by using contiguous text windows of size 7. The coocurrence matrix is decomposed by SVD and the principal eigenvector is used to re-rank the documents. In particular the documents are re-ranked according to the distance from the subspace spanned by the selected eigenvector. Each document is represented as a vector of BM25 weights.  The top 2500 documents retrieved by the baseline, i.e. BM25, are re-ranked. 
 
@@ -801,7 +782,6 @@
 - :material-format-text: **Track:** Relevance Feedback 
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/24/2010 
-- :material-text-search: **Task:** opt 
 - :material-fingerprint: **MD5:** `e98589e9c29b3902859806c5c21c587b` 
 - :material-text: **Run description:** In this run the 10 keywords with highest IDF in the feedback document are used to expand the query. Then a co-occurrence matrix of the expanded query terms is computed by using contiguous text windows of size 7. The co-occurrence matrix is decomposed by SVD and the principal eigenvector is used to re-rank the documents. In particular the documents are re-ranked according to the distance from the subspace spanned by the selected eigenvector. Each document is represented as a vector of BM25 weights.  The top 2500 documents retrieved by the baseline, i.e. BM25, are re-ranked. 
 

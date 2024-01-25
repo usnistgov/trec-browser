@@ -164,8 +164,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** REPLACED
- 
 
 ---
 #### ceat7e1n 
@@ -192,8 +190,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** REPLACED
- 
 
 ---
 #### ceat7e2n 
@@ -486,8 +482,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC
- 
 
 ---
 #### TW1E2EF 

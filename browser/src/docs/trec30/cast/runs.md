@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `eed19f2283705f7fbda2934cd98bde1a` 
 - :material-text: **Run description:** We use a token-level dense passage retrieval method, which is pretrained on a non-conversational retrieval task. 
@@ -22,7 +21,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `f0dcd94c540300704e83c32a15c7c799` 
 - :material-text: **Run description:** perform sparse retrieval using automatic rewritten utterances. using BM25 to retrieve top1000 results for each query. 
@@ -36,7 +34,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `4a7cd0b2e3c192f765c412d797974662` 
 - :material-text: **Run description:** automatic rewritten expansion, doc2query, BM25, t5 reranking 
@@ -50,7 +47,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ca151eb030fffc362f6319f5eeac4bc1` 
 - :material-text: **Run description:** automatic rewritten expansion, doc2query, BM25, t5 reranking 
@@ -92,7 +88,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `55ed5366201b16b7876521506aa6c4eb` 
 - :material-text: **Run description:** Our system consists of a T5-based query rewriter trained on the QReCC dataset and a passage retrieve&rerank pipeline. In the query reformulation stage, instead of using the CAsT Y3 provided automatic canonical results, we used the top passages retrieved by our system as the conversational context to reformulate next queries. In the retrieve&rerank stage, we used two different first-stage retrieval methods: 1) a tuned BM25 with queries expanded using the top-k retrieved passages from the C4 dataset, 2) the BERT-based dense retriever ANCE. We merged the retrieved passages into a single pool, then reranked this pool using a two-stage reranking pipeline with monoT5 and duoT5. 
@@ -106,7 +101,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `1bf71c8d242c72eb7c4c4e52c8ae6d49` 
 - :material-text: **Run description:** Our system consists of a T5-based query rewriter trained on the QReCC dataset and a passage retrieve&rerank pipeline. We used two different first-stage retrieval methods: 1) a tuned BM25 with queries expanded using the top-k retrieved passages from the C4 dataset, 2) the BERT-based dense retriever ANCE. We merged the retrieved passages into a single pool, then reranked this pool using a two-stage reranking pipeline with monoT5 and duoT5. 
@@ -134,7 +128,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `56ec471b8ad5c753c5b2fa5343a69d31` 
 - :material-text: **Run description:** This run uses raw utterances only. The approach automatically rewrites the utterance by adding the topics extracted from the first and previous utterances. The topics are extracted from utterances using Spacy noun chunks (objects or subjects). For indexing and querying, we used Anserini BM25 with RM3 query expansion. In particular, for the first-stage retrieval, we used BM25 with parameters b = 0.9 and k1 = 2.0, chosen after a fine-tuning on MSMARCO-docs collection for the retrieval task with 5,192 queries from the DEV set. The query expansion is done with 10 keywords taken from the top-10 results with the original query weight set to 0.5. For the passage re-ranking, we used the BERT-base model pre-trained on the MS-MARCO passage dataset.   
@@ -148,7 +141,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `a2d525b4ae76716d709cc1a3411e0c34` 
 - :material-text: **Run description:** This run uses raw utterances and canonical responses. For this run, we used labels representing the dependencies between the current utterance and the previous utterances as well as their canonical responses. For each utterance, the approach enriches it with the topics extracted from the corresponding utterance and response of the previous turns. Such topics are extracted from utterances using Spacy noun chunks (objects or subjects). In case, the utterance has also a dependency on a previous response, the approach also adds the named entities extracted by TagMe (with threshold = 0.1) from the candidate response. For indexing and querying, we used Anserini BM25 with RM3 query expansion. In particular, for the first-stage retrieval, we used BM25 with parameters b = 0.9 and k1 = 2.0, chosen after a fine-tuning on MSMARCO-docs collection for the retrieval task with 5,192 queries from the DEV set. The query expansion is done with 10 keywords taken from the top-10 results with the original query weight set to 0.5. For the passage re-ranking, we used the BERT-base model pre-trained on the MS-MARCO passage dataset.   
@@ -162,7 +154,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `00f831900ce1709e6b993a2848e84576` 
 - :material-text: **Run description:** This run uses raw utterances only. The approach automatically rewrites the utterance by adding the topics extracted from the previous automatically rewritten utterance. The topics are extracted from utterances using Spacy noun chunks (objects or subjects). For indexing and querying, we used Anserini BM25 with RM3 query expansion. In particular, for the first-stage retrieval, we used BM25 with parameters b = 0.9 and k1 = 2.0, chosen after a fine-tuning on MSMARCO-docs collection for the retrieval task with 5,192 queries from the DEV set. The query expansion is done with 10 keywords taken from the top-10 results with the original query weight set to 0.5. For the passage re-ranking, we used the BERT base model pre-trained on the MS-MARCO passage dataset.  
@@ -176,7 +167,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c162f2de4254b1639fa230652a5d7421` 
 - :material-text: **Run description:** This run uses raw utterances and canonical responses. For this run, we used labels representing the dependencies between the current utterance and the previous utterances as well as their canonical responses. For each utterance, the approach enriches it with the topics extracted from the corresponding utterance and response of the previous turns. Such topics are extracted from previous automatically rewritten utterances using Spacy noun chunks (objects or subjects). In case, the utterance has a dependency on a previous response, named entities, extracted using TagMe with threshold = 0.1, are added to the utterance. For indexing and querying, we used Anserini BM25 with RM3 query expansion. In particular, for the first-stage retrieval, we used BM25 with parameters b = 0.9 and k1 = 2.0, chosen after a fine-tuning on MSMARCO-docs collection for the retrieval task with 5,192 queries from the DEV set. The query expansion is done with 10 keywords taken from the top-10 results with the original query weight set to 0.5. For the passage re-ranking, we used the BERT base model pre-trained on the MS-MARCO passage dataset. 
@@ -190,7 +180,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `b66d1d8ba18d5f836de50fcf5ebfad95` 
 - :material-text: **Run description:** This is a conversational dense retrieval systems, CQE, which combines TCT-ColBERT and UniCOIL. We use historical queries and the last two filtered (by heuristic) responses as context. The input query for the fourth utterance, for example, is Q1 | Q2 | R2 | Q3 | R3 | Q4. 
@@ -204,7 +193,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `e3e1c667d78780c032c86d294de0756d` 
 - :material-text: **Run description:** This is the fusion of two dense retrieval systems. The first one, CQE, is a conversational dense retriever, which combines TCT-ColBERT and UniCOIL. We use historical queries and the last two filtered (by heuristic) responses as context. The input query for the fourth utterance, for example, is Q1 | Q2 | R2 | Q3 | R3 | Q4. The second one, T5, is a query rewriter and then search on a single query dense retriever, which combines TCT-ColBERT and UniCOIL. For T5 rewriting, we use the same input as our conversational dense retriever for comparison. 
@@ -232,7 +220,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `e964406956cfec7ce84877423b96aa8e` 
 - :material-text: **Run description:** We found the soft cos similarity between every two queries (current query and the previous ones) if their similarity is more than 0.36 we put them similar and the query would be the current query plus the previous ones and the previous passage. (0.36 is coming from a few experiments as the stop words are removed and stemmed) 
@@ -260,7 +247,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `437d569a5ebab44e8b8f6b2acffdc77e` 
 - :material-text: **Run description:** Conversation turns are reformulated using T5 trained on CANARD. Historical turns are used as conversation context in the reformulation step. The returned passages are re-ranked using MonoT5 for top 1000 passages followed by duoT5 for top 100 passages. 
@@ -274,7 +260,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ecca4e10aafcd6a44fa0f1857b7edfd1` 
 - :material-text: **Run description:** Conversation turns are reformulated using T5. Both historical turns and passages are used as conversation context. previous historical passages are excluded if after sentiment analysis, at least one sentence expresses negative sentiment in the current turn. One sentence is selected from the passage using BERT for next sentence prediction. This sentence is included in the conversation context. The returned passages are re-ranked using MonoT5 for top 1000 passages followed by duoT5 for top 100 passages. 
@@ -288,7 +273,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ced06d3816a90fbe8ccb3788e7c40a81` 
 - :material-text: **Run description:** This run combines retrieval using three versions of the same turn. The first is T5 reformulated turn with only historical turns as context, the second is T5 reformulated turn using both historical turns and passages, and the other is reformulated using a BERT term classification model trained on the OR-Conv-QA dataset. 1000 passages are retrieved for every version of turn, combined, and then passages are re-ranked using monoT5 to get top 1000 passages. After that duoT5 is used to re-rank top 100 passages. 
@@ -302,7 +286,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `b3a15bdf3b1191fdb064d740725551b5` 
 - :material-text: **Run description:** Conversation turns are reformulated using T5 in two ways. The first reformulation uses historical turns as context only, and the other uses both historical turns and passages. Since explicit feedback is given by user, sentiment analysis is performed first before including passages in reformulation. For every sentence in the turn, if at least one sentence is negative, the historical passage is replaced by another passage retrieved with turns reformulated with historical turns only. One sentence from the passage is included as context for T5 reformulation. Sentence is selected using BERT for next sentence prediction. After this step, we have two versions of every turn; one reformulated with passages and the other without. To choose between these two versions during retrieval. The BM25 score of the top retrieved passage is compared as a clarity score for the two turn reformulation versions. The highest scoring turn is selected for retrieval. Then MonoT5 is used to re-rank top 1000 passages followed by duoT5 for top 100 passages. 
@@ -316,7 +299,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `a187cb88f56a849bcffad665cc679b05` 
 - :material-text: **Run description:** We use a token-level dense passage retrieval method, which is pretrained on a non-conversational retrieval task. This run does not use canonical responses, only the raw utterances. Due to time implications, this does not include the KILT collection 
@@ -330,7 +312,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `b0dd386eaadbadf21febcda5bd75df57` 
 - :material-text: **Run description:** We use a token-level dense passage retrieval method, which is pretrained on a non-conversational retrieval task. This run uses only the previous history and ignores the canonical responses. This run includes all collections (KILT, WAPO, MARCO) 
@@ -358,7 +339,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c8c01e3880b83f8c6c83086fb47f1217` 
 - :material-text: **Run description:** It is a two-stage process. In the first stage the document extraction work on the query expansion using HQE and PQE ( Words from the previous terms based on the IDF values ) parallelly we are using query rewriting using T5. After the retrieval and extracted queries, we are ranking the passages with the reformulated queries using T5 reranker. Extraction is dependent upon the value of K1 and b of BM25. 
@@ -372,7 +352,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `768d594f2aaa9281a9f4862807377aba` 
 - :material-text: **Run description:** It is a two-stage process. In the first stage the document extraction work on the query expansion using HQE and PQE ( Words from the previous terms based on the IDF values ) parallelly we are using query rewriting using T5. After the retrieval and extracted queries, we are ranking the passages with the reformulated queries using T5 reranker. Extraction is dependent upon the value of K1 and b of BM25. 
@@ -400,7 +379,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `792a3fb67d2d2e49af5ce9d28d1f92ed` 
 - :material-text: **Run description:** This run uses a T5 rewriter model to rewrite at most 5 different queries given previous conversational queries and each of the top 5 passages retrieved  by the automatic baseline for the previous query. We then concatenate all unique generated queries together. We run a t5-base reranker to rerank the top 1000 documents. 
@@ -414,7 +392,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c0a40c1a15d7ec23e347f59da0a81d7c` 
 - :material-text: **Run description:** This run uses a T5 rewriter model to rewrite the queries and a T5 term-classification model to expand the queries. We use all previous rewritten queries and the last 3 canonical passages as our context for both T5 rewriting and T5 term-classification models. We run t5-base reranker, finetuned on MSMarco to rerank the top 1000 documents. An entity graph is generated over the queries and top 20 documents to rerank the top 20 documents using entity centrality. 
@@ -428,7 +405,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c4d9c8812341c8a2c54302d2ecd04428` 
 - :material-text: **Run description:** This run uses a T5 rewriter model to rewrite the queries and a T5 term-classification model to expand the rewritten queries. We use all previous rewritten queries and the last 3 canonical passages as our context for both T5 rewriter and T5 term-classification models. We run t5-base reranker to rerank the top 1000 documents. 
@@ -442,7 +418,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `2b52496f53de1f990ebea5bc5811fd33` 
 - :material-text: **Run description:** This run is to rerank our best dense retrieval system (cqe-t5) with mono-duo T5 3B to see the effectiveness of reranking. 
@@ -456,7 +431,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `857caacb3ac6222b559fff74667a5226` 
 - :material-text: **Run description:** this run usses T5 model with previous  rewritten queries previous passages followed by a two stage retrieval with BM25 and monoT5 
@@ -526,7 +500,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `480387b21a1222e936e5b0b326605734` 
 - :material-text: **Run description:** We use, T5, as our query rewriter and then search on a single-query dense retriever, which combines TCT-ColBERT and UniCOIL. For T5 rewriting, we use historical queries and the last two filtered (by heuristic) responses as context. The input query for the fourth utterance, for example, is Q1 | Q2 | R2 | Q3 | R3 | Q4. 
@@ -540,7 +513,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `3fa3a4221afa1e2be3a49de5f5fa2f0b` 
 - :material-text: **Run description:** this run usses T5 model with previous queries and doc2query of previous passages followed by a two stage retrieval with BM25 and monoT5 
@@ -554,7 +526,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `8c76efd5bf84b42c70119ca886b86b33` 
 - :material-text: **Run description:** this run usses T5 model with previous queries and previous passages followed by a two stage retrieval with BM25 and monoT5 
@@ -568,7 +539,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `cea5beb4f76096d45c63a8d347aea4af` 
 - :material-text: **Run description:** it's an end-to-end model that merges t5 for rewriting and colebrt for reranking 
@@ -596,7 +566,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/17/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `40e421fb4e1d87986fb957bdc0db895d` 
 - :material-text: **Run description:** T5 query rewriter with concatenation of all queries, and at most last three canonical passage context. First-stage BM25 search with passage index, and Passage ranking with model monoBERT (https://huggingface.co/castorini/monobert-large-msmarco-finetune-only) 
@@ -610,7 +579,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `a9c790ad275b3b225590120f81f6aab2` 
 - :material-text: **Run description:** T5 query rewriter with the concatenation of all queries, and at most last three canonical passage context. First-stage BM25 search with on augmented doc index (i.e., with url, title), and passage ranking with the model monoBERT. 
@@ -624,7 +592,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/18/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ef1132c7c4e1da3829f8a37a8b5c6042` 
 - :material-text: **Run description:** Reciprocal rank fusion with k = 60 over three intermediate runs: (1) our run 1; (2) run 2; (3) official baseline results `y3_automatic_results_1000.v1.0.run`.  
@@ -638,7 +605,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `12e9e2bc830487e0aef250b749d45ce3` 
 - :material-text: **Run description:** Full corpus sparse retrieval combined with 200-shard dense retrieval (768-d, encoder `castorini/tct_colbert-v2-hnp-msmarco`, on the segmented passage index with maxP for doc score). This obtains a first-stage doc ranking of depth 50 per shard. Passage reranking used the `castorini/monobert-large-msmarco-finetune-only` model to get a final ranking of depth 50 per shard. CombMax combination of the 200 shard results with run2 (full-corpus doc bm25 + passage reranking run) gives a final ranking. 
@@ -652,7 +618,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `be1de46ca141cf7d96344e18ae4318f4` 
 - :material-text: **Run description:** This method uses the provided automatically rewritten utterances, DPH QE (BO1), reranking by monoT5 
@@ -680,7 +645,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `16ff51c3d7a75904421539fbbf2ddb63` 
 - :material-text: **Run description:** generative query rewriting by T5, ConvDR, reranking by mono T5 
@@ -694,7 +658,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2021 
 - :material-upload: **Submission:** 8/19/2021 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `11fe7776d0f5e8c18a36956e6689308b` 
 - :material-text: **Run description:** This method uses generative query rewriting by T5, DPH QE (BO1), reranking by monoT5. To rewrite the query, this method summarises the text from the previous automatic canonical result for the topic and uses it as conversational context.  

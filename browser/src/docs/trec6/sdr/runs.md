@@ -104,7 +104,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** base 
 
 ---
@@ -116,7 +115,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** base 
 
 ---
@@ -128,7 +126,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** human 
 
 ---
@@ -140,7 +137,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** own-recognizer 
 
 ---
@@ -152,7 +148,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** own-recognizer 
 
 ---
@@ -416,7 +411,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** human 
 
 ---
@@ -428,7 +422,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** base 
 
 ---
@@ -440,7 +433,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
 - :material-text-search: **Task:** own-recognizer 
 
 ---
@@ -452,8 +444,6 @@
 - :material-format-text: **Track:** Spoken Document Retrieval 
 - :material-calendar: **Year:** 1997 
 - :material-upload: **Submission:** 9/2/97 
-- :fontawesome-solid-user-gear: **Type:** ?? 
-- :material-text-search: **Task:** human? 
 
 ---
 #### nsasglt1 

@@ -9,7 +9,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** The results were generated automatically using the Exegy TextMiner engine. The dataset is not indexed, the engine performs search on the data as it streams through. The engine looks for the queries exactly as they appear in the query file. Documents are ranked according to the number of occurrences  of a particular query in a document. 
 
 ---
@@ -22,7 +21,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/17/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** I used the TREC TB track qrels to choose a subset of GOV2 to search.  This is a distributed/grid IR simulation.  
 
 ---
@@ -35,7 +33,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** This is a large-scale distributed/grid IR simulation.  I used the qrels from the previous TREC Terabyte tracks to pick a subset of GOV2 to search.  
 
 ---
@@ -48,7 +45,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** We used several standard Lemur built in systems (tfidf_bm25, tfidf_log, kl_abs,kl_dir,inquery,cos, okapi) and combined their output (metasearch) using the hedge algorithm.    
 
 ---
@@ -61,7 +57,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** We are a new group in IR society from Heilongjiang Institute of Technology, China. This is our first time to participate TREC evaluation. LEMUR is used in our run.  
 
 ---
@@ -74,7 +69,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** we use don's dependency model and terms in topic title to generate queries, and run by using indri 
 
 ---
@@ -87,7 +81,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** use all the terms in the topic title and don's denpendence model, but we do spell checking by using the typical aspell(or ispell) tool in unix system, and then use wsyn operator of indri to put the spell checking results into the queries 
 
 ---
@@ -100,7 +93,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** use all the terms in the topic title, and directly use combination operator of indri 
 
 ---
@@ -113,7 +105,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** use all the terms in the topic title but we do spell checking by using the typical aspell(or ispell) tool in unix system, and then use weight and combination operator of indri to run the query 
 
 ---
@@ -126,7 +117,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Basic Juru run. Docs are scored according to their textual similarity to the query and their number of in-links. Queries are expanded by a short list of sysnoyms related to the gov domain 
 
 ---
@@ -139,7 +129,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Lucene, doc text + anchor text, text queries with phrase and proximity elements, stopwords, query expansion by synonyms and spell correction (index based), modified doc length normalization, modified tf() 
 
 ---
@@ -152,7 +141,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Lucene, doc text + anchor text, text queries with phrase and proximity elements, stopwords, synonyms query expansion, modified doc length normalization, modified tf(). 
 
 ---
@@ -165,7 +153,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Lucene, doc text + anchor text, text queries with phrase and proximity elements, stopwords, synonyms query expansion (expansions will have greater impact in this run, comparing to LucSyn0) , modified doc length normalization, modified tf(). 
 
 ---
@@ -178,7 +165,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Zettair Dirichlet smoothed language model run. 
 
 ---
@@ -191,7 +177,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Standard smart ltu.Lnu run 
 
 ---
@@ -204,7 +189,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/25/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Straight simple Lnu-ltu weighted vector run 
 
 ---
@@ -217,7 +201,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/23/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 01 
 - :material-text: **Run description:** Anchor-texts index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9  
 
 ---
@@ -230,7 +213,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/23/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 01 
 - :material-text: **Run description:** Anchor-texts index, using the Snowball stemming algorithm, standard Lucene vector-space model  
 
 ---
@@ -243,7 +225,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/23/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Full-text index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9 
 
 ---
@@ -256,7 +237,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/23/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Full-text index, using the Snowball stemming algorithm, standard Lucene vector-space model 
 
 ---
@@ -269,7 +249,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 5/23/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Title fields index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9 
 
 ---
@@ -282,7 +261,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 01 
 - :material-text: **Run description:** Anchor-texts index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9  
 
 ---
@@ -295,7 +273,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 7/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Weighted CombSUM of language model runs (lambda = .9) on the full-text  index (relative weight 0.8), anchor-text index (relative weight 0.1),  and titles index (relative weight 0.1), all using the Snowball stemming  algorithm. 
 
 ---
@@ -308,7 +285,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Weighted CombSUM of vector-space model runs on the full-text index  (relative weight 0.6), anchor-text index (relative weight 0.2), and  titles index (relative weight 0.2), all using the Snowball stemming  algorithm.  
 
 ---
@@ -321,7 +297,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 11 
 - :material-text: **Run description:** Weighted CombSUM of vector-space model runs on the full-text index  (relative weight 0.8), anchor-text index (relative weight 0.1), and  titles index (relative weight 0.1), all using the Snowball stemming  algorithm.  
 
 ---
@@ -334,7 +309,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 7/16/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Full-text index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9 
 
 ---
@@ -347,7 +321,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Full-text index, using the Snowball stemming algorithm, standard Lucene vector-space model. 
 
 ---
@@ -360,7 +333,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Title fields index, using the Snowball stemming algorithm, standard multinomial language model with Jelinek-Mercer smoothing, lambda = .9 
 
 ---
@@ -373,7 +345,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 7/6/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** baseline run, using axiomatic approach, 
 
 ---
@@ -386,7 +357,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 7/9/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** using axiomatic approach + semantic query expansion.  We used the top 100 snippets returned by Yahoo as resources to select expanded query terms.  
 
 ---
@@ -399,7 +369,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 7/9/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** using axiomatic approach + semantic query expansion.  We used the top 100 snippets returned by Yahoo as resources to select expanded query terms.  
 
 ---
@@ -412,7 +381,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** Submit query to public web search engine, retrieve snippet information for top 5 documents, add unique terms from snippets to query, run expanded query using same similarity metric as umelbstd 
 
 ---
@@ -425,7 +393,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** standard impact-based ranking 
 
 ---
@@ -438,7 +405,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/19/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** merging of the language modelling and the impact runs 
 
 ---
@@ -451,7 +417,6 @@
 - :material-calendar: **Year:** 2007 
 - :material-upload: **Submission:** 6/18/2007 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** 10 
 - :material-text: **Run description:** topic-only run using a similarity metric based on a language model with Dirichlet smoothing as describe by Zhai and Lafferty (2004) 
 
 ---

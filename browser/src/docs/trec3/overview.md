@@ -1,14 +1,40 @@
-# Text REtrieval Conference (TREC) 1994
+# Text REtrieval Conference (TREC) 1994 
+
+## Adhoc
+
+[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
 
 {==
 
-**Donna Harman, Overview of the Third Text REtrieval Conference (TREC-3):**
-
-The TREC-3 results reflect some of that more complex experimentation. For some groups that meant more extensive experiments based on their basic system techniques. For other groups it involved trying techniques from other groups and exploring more hybrid approaches. Some groups tried approaches that were radically different from their original approaches. As should be expected, those groups new to TREC had the same scaling problems as seen in TREC-1.
+The ad hoc task investigates the performance of systems that search a static set of documents using new topics. This task is similar to how a researcher might use a library — the collection is known but the questions likely to be asked are not known.
 
 ==}
 
-Please refer to these pages for any additional information, resources, or metadata: 
+:fontawesome-solid-user-group: **Track coordinators:**
 
-- :fontawesome-solid-book: **Proceedings:** [https://trec.nist.gov/pubs/trec3/t3_proceedings.html](https://trec.nist.gov/pubs/trec3/t3_proceedings.html)
-- :material-database: **Inputs, queries, and summaries:** [https://trec.nist.gov/results/trec3/index.html](https://trec.nist.gov/results/trec3/index.html)
+- Donna Harman, National Institute of Standards and Technology (NIST) 
+
+
+
+
+---
+
+## Routing
+
+[`Overview`](./routing/overview.md), [`Proceedings`](./routing/proceedings.md), [`Data`](./routing/data.md), [`Results`](./routing/results.md), [`Runs`](./routing/runs.md), [`Participants`](./routing/participants.md)
+
+{==
+
+In TREC the routing task is represented by using known topics and known relevant documents for those topics, but new data for testing. The participants are given a set of known (or training) topics, along with a set of documents, including known relevant documents for those topics. The topics consist of natural language text describing a user's information need. The topics are used to create a set of queries (the actual input to the retrieval system) which are then used against the training documents.
+
+==}
+
+:fontawesome-solid-user-group: **Track coordinators:**
+
+- Donna Harman, National Institute of Standards and Technology (NIST) 
+
+
+
+
+---
+

@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `bbfbb6ae59ac12f900b2a614e8020dc1` 
 - :material-text: **Run description:** Our reranking model, based on T5, is trained with MS MARCO dataset. 
@@ -22,7 +21,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `83ad133ce9caab9c45453798f3808a09` 
 - :material-text: **Run description:** Our reranking model, based on T5, is trained with MS MARCO dataset. We use Doc2Query and BM25 to expand the raw utterances, re-retrieve the passages and rerank them by the T5-based reranking method. 
@@ -50,7 +48,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ae393ff447b50158e074b8e180e823cf` 
 - :material-text: **Run description:** Our reranking model, based on T5, is trained with MS MARCO dataset. We use RM3 to expand the raw utterances, re-retrieve the passages and rerank them by the T5-based reranking method. 
@@ -64,7 +61,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `5a909880b123209f5ad18d632335cffb` 
 - :material-text: **Run description:** To maintain the conversational context across turns we used the automatically rewritten queries from CAsT Y2. Initial retrieval is done with the rewritten query using a QL model with LMD smoothing. After this we perform reranking using a BERT model finetuned on the MS MARCO dataset for the passage reranking task. 
@@ -78,7 +74,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `1c4edb482d4d9e20fb14bd39084007d1` 
 - :material-text: **Run description:** To maintain the conversational context across turns we use two query rewriting methods. The first one is a T5 model finetuned on the conversational query rewriting task using the CANARD dataset. The input to the T5 model is the concatenation of the current query and all of the previous queries, and the output of the model is the query rewritten for that turn. Our second method uses the automatically rewritten queries from CAsT Y2. Initial retrieval is done with both rewritten queries using a QL model with LMD smoothing. After this we perform reranking using a BERT model finetuned on the MS MARCO dataset for the passage reranking task. To obtain the final ranking we use RRF to fuse the BERT reranked results from both queries. 
@@ -92,7 +87,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `b8533fb775842868c9926b2732c6bda3` 
 - :material-text: **Run description:** PR: BM25 Anserini + BERT for passage ranking combined with the score from Roberta fine-tuned on MRQA formulated as a binary classification task (paragraph contains answer or doesn't) 
@@ -106,7 +100,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `bc3171b367ac69ee318338db5f26d3f1` 
 - :material-text: **Run description:** First, we perform query expansion by concatenating relevant raw utterances from history with the current raw one, based on an output of a model trained on CAsTUR dataset (Aliannejadi et al., 2020). We perform initial retrieval with Anserini Query Likelihood with Dirichlet smoothing (default parameters). Then we re-rank the passages with Albert, which is pretrained on MS MARCO passage retrieval task.  
@@ -120,7 +113,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c3f4edc2c1c8b3d9e3b591bda511e04a` 
 - :material-text: **Run description:** First, we run a linguistic analysis of the given turn (query) and perform coreference resolution (AllenNLP) from previous queries, POS tagging (SpaCy), and named entity recognition. Then we rewrite the queries and perform retrieval (indri) by using weights. Nouns, verbs, adjectives, and adverbs from the current query weight 1.0 and nouns, adjectives, and adverbs from the previous 2 turns (queries) weight 0.5 and 0.25 respectively. No reranking is performed. 
@@ -134,7 +126,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `78ca7ce3c379c5cb969e4cbec53a240a` 
 - :material-text: **Run description:** We used the automatically rewritten utterances (queries) from CAsT Y2. First, we run a linguistic analysis of the given turn (query) and perform coreference resolution (AllenNLP) from previous queries, POS tagging (SpaCy), and named entity recognition. Then we rewrite the queries and perform retrieval (indri) by using weights. Nouns, verbs, adjectives, and adverbs from the current query weight 1.0 and nouns, adjectives, and adverbs from the previous 2 turns (queries) weight 0.5 and 0.25 respectively. No reranking is performed. 
@@ -190,7 +181,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `0323ac5e0056f2f0c23cb1e84f3f3789` 
 - :material-text: **Run description:** This run uses the automatic rewrites as well as provided canonical results. Additional rewriting is performed using a BART rewriter trained on Y1. BM25 turned for the first pass. The resulting first pass retrieval is reranked with Mono + Duo BERT trained on MS MARCO.  
@@ -204,7 +194,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `2f4513dfacdb7865a9c62d85689db63f` 
 - :material-text: **Run description:** This run uses the automatic rewrites as well as provided canonical results. Additional rewriting is performed using a BART rewriter trained on Y1 and a simple fusion (combination of both rewrites is used). Base retrieval is performed using the sequential dependence model on the current turn combined with a weighted QL model (using first turn and previous turn (with rewrites)) as well as feedback from the canonical result provided for the previous turn. The resulting first pass retrieval is reranked with Mono + Duo BERT trained on MS MARCO.  
@@ -218,7 +207,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c5cd69f8a3692640b02bbf81bf108027` 
 - :material-text: **Run description:** For each turn, we use word matching rule-base to extract the sentence from its previous manual canonical response (passage). We then concat the extracted sentence and current query to conduct query reformulation. At next turn, we use the historical reformulated query as context combined with the extracted sentence from the last manual canonical response to conduct query reformulation. In this run, we also fuse the result between retrieval and rerank stage. 
@@ -232,7 +220,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c69a9576b4dcf76ffff4f1bbb694fb12` 
 - :material-text: **Run description:** For each turn, we use word matching rule-base to extract the sentence from its previous manual canonical response (passage). We then concat the extracted sentence and current query to conduct query reformulation. At next turn, we use the historical reformulated query as context combined with the extracted sentence from the last manual canonical response to conduct query reformulation. As for retrieval, we combine BERT embedding search and BM25 as first-stage retrieval and use T5 3B for the second stage reranker. 
@@ -246,7 +233,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `8e1aa44e0df21a3f1961c53af9a94071` 
 - :material-text: **Run description:** This run uses CANARD dataset to facilitate two tasks regarding conversational query reformulation. Specifically, for the first task, we use concated raw historical queries as context to infer human resolved queries. For the second task, we concated human resolved historical queries in each dialogue. After that, we facilitate Masked Language Model on these dialogue context. We finetune the T5 model one these two task jointly and conduct conversational query reformulation as the first task with CAsT's raw queries with historical context. As for retrieval, we combine BERT embedding search and BM25 as first-stage retrieval and use T5 3B for the second stage reranker.   
@@ -260,7 +246,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `f123fca5fb65b3560e63a83ee5aee3c0` 
 - :material-text: **Run description:** This is our automatic baseline method for which we train T5-base to conduct query reformulation by concatenating historical raw queries on CANARD dataset. As for retrieval, we combine BERT embedding search and BM25 as first-stage retrieval and use T5 3B for the second stage reranker. 
@@ -274,7 +259,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `7a305d6c9e2a798026ea88e7c7404f14` 
 - :material-text: **Run description:** The methods used for this submission aims to resolve context in two phases. The first phase is to incorporate historical query context by extracting keywords from previous queries in a method based on last year's winning team's algorithm. The second phase incorporates context from top-k retrieved passages through extracting top-k keywords from these passages using TF-IDF. After that, a pre-trained BERT passage re-ranker was used. This run adds context from both historical queries and top-3 keywords from top-3 retrieved passages of the current query. After that, the list was re-ranked using a pre-trained BERT re-ranker trained on MS Marco dataset.  Both historical query and passage context was used in the re-ranking phase. 
@@ -302,7 +286,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `81b135a0340dd5c97bded66b6ed2f756` 
 - :material-text: **Run description:** The methods used for this submission aims to resolve context in two phases. The first phase is to incorporate historical query context by extracting keywords from previous queries in a method based on last year's winning team's algorithm. The second phase incorporates context from top-k retrieved passages through extracting top-k keywords from these passages using TF-IDF. After that, a pre-trained BERT passage re-ranker was used. This run adds context from both historical queries and top-3 keywords from top-3 retrieved passages of the current query. After that, the list was re-ranked using a pre-trained BERT re-ranker trained on MS Marco dataset.  Only historical query context was used in the re-ranking phase. 
@@ -330,7 +313,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `a0fa22f2157b4210188a73caa6cda5cf` 
 - :material-text: **Run description:** The methods used for this submission aims to resolve context in two phases. The first phase is to incorporate historical query context by extracting keywords from previous queries in a method based on last year's winning team's algorithm. The second phase incorporates context from top-k retrieved passages through extracting top-k keywords from these passages using TF-IDF. After that, a pre-trained BERT passage re-ranker was used. This run first categorizes queries into two categories: explicit and implicit. Explicit queries are ones that contain no pronouns while implicit queries contain at least one pronoun. Explicit queries are assumed to contain sufficient information and so only historical query context is used to expand the query. Implicit queries contain at least one pronoun and are assumed to need more clarification, so both historical queries and passage context is added. After that, the list was re-ranked using a pre-trained BERT re-ranker trained on MS Marco dataset. Both historical query and passage context was used in the re-ranking phase. 
@@ -358,7 +340,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `b9cd235bf4248a7d79eefc24fa3cdcc1` 
 - :material-text: **Run description:** The methods used for this submission aims to resolve context in two phases. The first phase is to incorporate historical query context by extracting keywords from previous queries in a method based on last year's winning team's algorithm. The second phase incorporates context from top-k retrieved passages through extracting top-k keywords from these passages using TF-IDF. After that, a pre-trained BERT passage re-ranker was used. This run first categorizes queries into two categories: explicit and implicit. Explicit queries are ones that contain no pronouns while implicit queries contain at least one pronoun. Explicit queries are assumed to contain sufficient information and so only historical query context is used to expand the query. Implicit queries contain at least one pronoun and are assumed to need more clarification, so both historical queries and passage context is added. After that, the list was re-ranked using a pre-trained BERT re-ranker trained on MS Marco dataset. only historical query context was used in the re-ranking phase.  
@@ -386,7 +367,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ed112a2cdd88361ca88ee36308d0c812` 
 - :material-text: **Run description:** Conversational query understanding is done by expanding the current query with previous relevant queries, which are predicted by a model trained on CAsTUR dataset. Initial ranking is done by Anserini's QL (default params), followed by a re-ranking model that encodes the queries and passages with Albert, pretrained on MS MARCO passage ranking task. The encodings of the current utterance are combined with previous relevant ones with self-attentive sum component. The summed representation is then forwarded through a classifier to predict passage relevance. 
@@ -400,7 +380,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `4031b9094e0ccfc0316dd09f504b3663` 
 - :material-text: **Run description:** Conversational query understanding is done by expanding the current query with previous relevant queries, which are predicted by a model trained on CAsTUR dataset. Initial ranking is done by Anserini's QL (default params), followed by a re-ranking model that encodes the queries and passages with Albert, pretrained on MS MARCO passage ranking task. The encodings of the current utterance are concatenated with the most relevant query and the corresponding automatic canonical response from history. The representation is then forwarded through a classifier to predict passage relevance. 
@@ -414,7 +393,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `42a865f51addf95cdf38db73aaac924a` 
 - :material-text: **Run description:** For this run, we manually labeled the utterances as SE, FT, PT, PR (labels are described in the external resources).  If the utterance label is SE, no rewriting is applied. If the utterance label is FT, the automatic approach rewrites the utterance by using the topic extracted from the first utterance of the conversation. When the label is PT, the rewriting is performed using the topic extracted from the previous utterance in the conversation.    The topics are extracted from utterances using the noun chunks (objects or subjects). When the utterance label is PR the keywords of the automatic canonical response (after stopwords removal) of the previous utterance are added.  Every utterance is rewritten using the automatically-rewritten utterance of the previous turn so that the context is propagated through the conversation. INDRI is used for indexing and querying the CAST-2020 dataset. In particular, we index the two datasets (MS-MARCO and TREC CAR) by removing stopwords and using the Krovetz stemmer. As a querying method, we use the INDRI language model based on Dirichlet smoothing with parameter \mu = 2500. We also apply pseudo-relevance feedback (PRF) based on the RM3 algorithm. The query enrichment is done with 20 keywords taken from the top-20 results with mixing parameter \gamma = 0.5. Lastly, the passage re-ranking is performed using a model that fine-tunes the BERT base pre-trained model for re-ranking on the MS-MARCO passage retrieval dataset. INDRI retrieves 1000 results and all of them are used for the re-ranking step.  
@@ -428,7 +406,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `36c6c79fc2e25e566e22f86dfb31c5d1` 
 - :material-text: **Run description:** This run uses raw utterances. The approach automatically rewrites the utterance by using the topics extracted from all previous utterances of the conversation. The topics are extracted from utterances using the noun chunks (objects or subjects). We use a list of cue phrases to detect a topic shift, when a topic shift occurs the list of topics to propagate is updated. INDRI is used for indexing and querying the CAST-2020 dataset. In particular, we index the two datasets (MS-MARCO and TREC CAR) by removing stopwords and using the Krovetz stemmer. As a querying method, we use the INDRI language model based on Dirichlet smoothing with parameter \mu = 2500. We also apply pseudo-relevance feedback (PRF) based on the RM3 algorithm. The query enrichment is done with 20 keywords taken from the top-20 results with mixing parameter \gamma = 0.5. Lastly, the passage re-ranking is performed using a model that fine-tunes the BERT base pre-trained model for re-ranking on the MS-MARCO passage retrieval dataset. INDRI retrieves 1000 results and all of them are used for the re-ranking step. 
@@ -442,7 +419,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `e2d305d05c0eb4254bea125a274d5cc8` 
 - :material-text: **Run description:** This run uses the raw utterances and the candidate responses for the automatic utterances provided by CAST. It leverages utterance manual labels (i.e., SE, FT, PT, PR) which are described in the external resources. No rewriting is applied if the label is SE. When the label is FT, the utterance rewriting is preformed with the topic extracted from the first utterance, while when it is PT the topic from the previous utterance is used. For utterances labeled as PR, the topic extracted from the automatic canonical response of the previous utterance is added, too. The topics are extracted from utterances using the noun chunks (objects or subjects in the utterances) that are recognized as named entities by TagMe (with threshold = 0.1). The same approach is applied to extract the topic from the automatic canonical responses. Every utterance is rewritten using the automatically-rewritten utterance of the previous turn so that the context is propagated through the conversation. INDRI is used for indexing and querying the CAST-2020 dataset. In particular, we index the two datasets (MS-MARCO and TREC CAR) by removing stopwords and using the Krovetz stemmer. As a querying method, we use the INDRI language model based on Dirichlet smoothing with parameter \mu = 2500. We also apply pseudo-relevance feedback (PRF) based on the RM3 algorithm. The query enrichment is done with 20 keywords taken from the top-20 results with mixing parameter \gamma = 0.5. Lastly, the passage re-ranking is performed using a model that fine-tunes the BERT base pre-trained model for re-ranking on the MS-MARCO passage retrieval dataset. INDRI retrieves 1000 results and all of them are used for the re-ranking step. 
@@ -456,7 +432,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `8e347219320cebcb93c1563f6a60fd37` 
 - :material-text: **Run description:** This run uses raw utterances. The approach automatically rewrites the utterance by using the current and previous topics. The topics are extracted from utterances using the noun chunks (objects or subjects) and full verbs. We use a list of cue phrases to detect a topic shift. At the beginning of the conversation, the current topic is the topic extracted from the first utterance, when a topic shift is detected the current topic is updated.  INDRI is used for indexing and querying the CAST-2020 dataset. In particular, we index the two datasets (MS-MARCO and TREC CAR) by removing stopwords and using the Krovetz stemmer. As a querying method, we use the INDRI language model based on Dirichlet smoothing with parameter \mu = 2500. We also apply pseudo-relevance feedback (PRF) based on the RM3 algorithm. The query enrichment is done with 20 keywords taken from the top-20 results with mixing parameter \gamma = 0.5. Lastly, the passage re-ranking is performed using a model that fine-tunes the BERT base pre-trained model for re-ranking on the MS-MARCO passage retrieval dataset. INDRI retrieves 1000 results and all of them are used for the re-ranking step. 
@@ -484,7 +459,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `4bdd2477f76ae881f9b90b70b0e8f9a0` 
 - :material-text: **Run description:** BERT based re-ranking of BM25+RM3 baseline. Top k=10 documents only are re-ranked using BERT. For each topic, for utterances beyond the first, the first query is appended. 
@@ -498,7 +472,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `df4cb673c3b367b24ba8d3f60135193e` 
 - :material-text: **Run description:** BERT based re-ranking of BM25+RM3 baseline. Top k=10 documents only are re-ranked using BERT. When re-ranking, the query and the first p=3 passages are embedded using BERT to create the embedding for the query. For each topic, for utterances beyond the first, the first query is appended. 
@@ -512,7 +485,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `bc22231e86fe09d17bf2943ba6a2ba04` 
 - :material-text: **Run description:** BM25+RM3 baseline. For each topic, for utterances beyond the first, the first query is appended. 
@@ -526,7 +498,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `5eea924c92da0a84c094fb10c337e9cd` 
 - :material-text: **Run description:** Generative QLM based on T5 from initial baseline retrieval using BM25+RM3.  For each topic, for utterances beyond the first, the first query is appended. 
@@ -554,7 +525,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `487e2867c09bb661c4211d89fb7c93dd` 
 - :material-text: **Run description:** For a given query, a term selection classifier first selects important terms from the conversation history relevant to the given query. The query along with the selected terms is used to retrieve 30 passages. From these passages, 3 phrases are selected (using off-the-shelf coreference resolution) as additional contextual terms. The terms selected by the classifier and the 3 phrases and the initial query itself is used for first-round of passage retrieval which is done using Indri. Finally, BERT (fine-tuned on MS-MARCO) is used for reranking the top 500 initially retrieved passages. The input to BERT are the passages, the original query, and terms selected by the classifier and the top 3 phrases selected from passages. 
@@ -568,7 +538,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ff05cfe310a3663c3e5fbc83b2e8c8bf` 
 - :material-text: **Run description:** For a given query, a POS tagger first selects important terms (adjectives, nouns, verbs) from the conversation history relevant to the given query. The query along with the selected terms is used to retrieve 30 passages. From these passages, 3 phrases are selected (using off-the-shelf coreference resolution) as additional contextual terms. The terms selected by the classifier and the 3 phrases and the initial query itself is used for first-round of passage retrieval which is done using Indri. Finally, BERT (fine-tuned on MS-MARCO) is used for reranking. The input to BERT are the passages, the original query, and terms selected using the POS tagger and the top 3 phrases selected from passages. 
@@ -582,7 +551,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `236c8581f077a2e04736b5431af628d5` 
 - :material-text: **Run description:** Two different initial retrievals are done for a given query. First, a term selection classifier is used for selecting important terms for the conversation history. The selected terms along with the input query is used for retrieving a set of passages. In the next step, the query is used to retrieve 30 passages. From these passages, 3 phrases are selected (using off-the-shelf coreference resolution) as additional contextual terms. Both the two initial retrievals are reranked using BERT (fine-tuned on MS-MARCO). The two reranked lists are then merged into one. 
@@ -596,7 +564,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c2f9b6b2dc1b62f7321a9c71c59c0e8c` 
 - :material-text: **Run description:** PR: BM25 Anserini QR input: current turn query, the answer from the previous turn only taken from the automatic canonical answer and the previous queries 
@@ -610,7 +577,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** canonical 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `c3414182c1f9a79cbeb57a3eae0aec3e` 
 - :material-text: **Run description:** PR: BM25 Anserini + BERT for passage ranking combined with the score from Roberta fine-tuned on MRQA formulated as a binary classification task (paragraph contains answer or doesn't) QR input: current turn query, the answer from the previous turn only taken from the automatic canonical answer and the previous queries 
@@ -624,7 +590,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `ea9d5f36fb2f6a8512677bea10f345d1` 
 - :material-text: **Run description:** query rewriting + BM25 +Bert rerank 
@@ -638,7 +603,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `0de3ed7093ff261f9aa0aeebe8b2dacd` 
 - :material-text: **Run description:** Initial retrieval is performed with Anserini QL with Dirichlet smoothing with automatically rewritten queries provided by TREC organizers. Re-ranking step utilizes Albert, which is pretrained on MS MARCO passage re-ranking task. 
@@ -652,7 +616,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `d32f02aada2a30c797e0906c7643d295` 
 - :material-text: **Run description:** To maintain the conversational context across turns we finetuned a T5 model on the conversational query rewriting task using the CANARD dataset. The input to the T5 model is the concatenation of the current query and all of the previous queries, and the output of the model is the query rewritten for that turn. Initial retrieval is done with the rewritten query using a QL model with LMD smoothing. After this we perform reranking using a BERT model finetuned on the MS MARCO dataset for the passage reranking task. 
@@ -666,7 +629,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `45392c98b8d4cf0f6711156cabe22932` 
 - :material-text: **Run description:** In this run, we expand the current turn of each topic using the expansion terms that are extrated from the feedback documnets of 4 previous turns. We use the automatic runs as the feedback documents.  
@@ -694,7 +656,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `50c1a4e0bf57288ad51470a4afce4fd7` 
 - :material-text: **Run description:** Utterance augmented with the initial utterance of the conversation, with coreference resolution.  
@@ -708,7 +669,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `d6d96811d78e59a6a128f776c2225913` 
 - :material-text: **Run description:** Utterance augmented with the initial utterance of the conversation, with coreference resolution. Reranked with Bert Passage reranking.   
@@ -722,7 +682,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `1771f61b6b94c8611e2ca7f6485ce1b4` 
 - :material-text: **Run description:** automatically rewritten utterances, reranked with Bert Passage reranker 
@@ -736,7 +695,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/20/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `04399d0045e30b66502daa9e4482c8b6` 
 - :material-text: **Run description:** Reranking the retrieved documents by the following runs: WatACBase, WatACBaseRe and WatACGPT2Re 
@@ -764,7 +722,6 @@
 - :material-format-text: **Track:** Conversational Assistance 
 - :material-calendar: **Year:** 2020 
 - :material-upload: **Submission:** 8/19/2020 
-- :fontawesome-solid-user-gear: **Type:** raw 
 - :material-text-search: **Task:** primary 
 - :material-fingerprint: **MD5:** `fdbc364cb5f1545b810ad4b700b80a62` 
 - :material-text: **Run description:** This run was generated by encoding the queries and documents using a pre-trained BERT 768 model. This data was used by our deep learning model (trained on CAST & MARCO data) to rerank documents 

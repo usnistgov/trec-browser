@@ -134,7 +134,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `32a58faa6e7b980f60862a38e7aa7ebb` 
 - :material-text: **Run description:** This code reads the crawled tweets from json files in ./data/tweets and index them separately for each day. Then, loads the manually assigned weights from ./data/ManuallyLabeledKeyterms2.txt. These weights indicate the importance of manually extracted keyterms in each topic/profile. Using these weights, we create boosted queries and set Lucene similarity to "LMDirichletSimilarity". The ranked tweets returned by Lucene are tested to see whether the sum of the weights of the keyterms occurred in each tweet passes a predefined threshold or not. If yes, then the tweet is returned as relevant. Otherwise, it is ignored. 
@@ -179,7 +178,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 - :material-fingerprint: **MD5:** `d6f542d8edf0e79bec00b9a6da0831e7` 
 - :material-text: **Run description:** 1. Dexter Wikipedia linking concepts. 2. GTM semantic similarity score 3. Manual labelling key terms  
@@ -194,7 +192,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 - :material-fingerprint: **MD5:** `9b330da0c6d3833155477ffc09b71502` 
 - :material-text: **Run description:** 1. Dexter Wikipedia linking concepts. 2. GTM semantic similarity score 3. Manual labelling key terms  
@@ -314,7 +311,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/31/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 - :material-fingerprint: **MD5:** `5f923e2a1c0b37043f1b2ded87f21424` 
 - :material-text: **Run description:** The algorithm takes into account RT count and favorite count, combining that values in the tweet with BM25 score. 
@@ -328,7 +324,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `972bcf02a64199df509fa145cd88972d` 
 - :material-text: **Run description:** The run combine evidence from retweet count and favorite count of tweets, combining that values with bm25 scores. 
@@ -342,7 +337,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 - :material-fingerprint: **MD5:** `1fc4981858bdb8ae14b19cb4ef566dbc` 
 - :material-text: **Run description:** no external ressources were used for this run.  
@@ -384,7 +378,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `fe2f13255cb4462ad73f21c756b6a4bb` 
 - :material-text: **Run description:** no external ressources were used for this run.  
@@ -531,7 +524,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** a 
 - :material-fingerprint: **MD5:** `0bd96aaefa08b03f5fceb7b239230f78` 
 - :material-text: **Run description:** We utilized google web search to realize query expansion before the evaluation period, and we adopted an adaptive relevance threshold according to manual relevance threshold in ScenarioB of previous day. Besides, we utilized a uniform novel threshold N = 0.67. 
@@ -576,7 +568,6 @@
 - :material-format-text: **Track:** Microblog 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 7/30/2015 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `d908773fbd1d07e20942e2810451fd8b` 
 - :material-text: **Run description:** We utilized google web search to realize query expansion before the evaluation period, and we realized a language model with pseudo-relevance-feedback to obtain relevant tweets. In addition, we adopted an adaptive relevance threshold according to manual relevance threshold in ScenarioB of previous day. and utilized a uniform novel threshold N = 0.67. 

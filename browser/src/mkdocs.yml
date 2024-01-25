@@ -657,7 +657,7 @@ nav:
     - Runs: trec20/session/runs.md
     - Results: trec20/session/results.md
     - Proceedings: trec20/session/proceedings.md
-  - Crowd:
+  - Crowdsourcing:
     - Overview: trec20/crowd/overview.md
     - Participants: trec20/crowd/participants.md
     - Runs: trec20/crowd/runs.md
@@ -957,26 +957,6 @@ nav:
     - Participants: trec13/HARD/participants.md
     - Runs: trec13/HARD/runs.md
     - Proceedings: trec13/HARD/proceedings.md
-  - Robust:
-    - Overview: trec13/robust/overview.md
-    - Data: trec13/robust/data.md
-    - Participants: trec13/robust/participants.md
-    - Runs: trec13/robust/runs.md
-    - Results: trec13/robust/results.md
-    - Proceedings: trec13/robust/proceedings.md
-  - Question Answering:
-    - Overview: trec13/qa/overview.md
-    - Data: trec13/qa/data.md
-    - Participants: trec13/qa/participants.md
-    - Runs: trec13/qa/runs.md
-    - Proceedings: trec13/qa/proceedings.md
-  - Web:
-    - Overview: trec13/web/overview.md
-    - Data: trec13/web/data.md
-    - Participants: trec13/web/participants.md
-    - Runs: trec13/web/runs.md
-    - Results: trec13/web/results.md
-    - Proceedings: trec13/web/proceedings.md
   - Novelty:
     - Overview: trec13/novelty/overview.md
     - Data: trec13/novelty/data.md
@@ -984,6 +964,19 @@ nav:
     - Runs: trec13/novelty/runs.md
     - Results: trec13/novelty/results.md
     - Proceedings: trec13/novelty/proceedings.md
+  - Question Answering:
+    - Overview: trec13/qa/overview.md
+    - Data: trec13/qa/data.md
+    - Participants: trec13/qa/participants.md
+    - Runs: trec13/qa/runs.md
+    - Proceedings: trec13/qa/proceedings.md
+  - Robust:
+    - Overview: trec13/robust/overview.md
+    - Data: trec13/robust/data.md
+    - Participants: trec13/robust/participants.md
+    - Runs: trec13/robust/runs.md
+    - Results: trec13/robust/results.md
+    - Proceedings: trec13/robust/proceedings.md
   - Terabyte:
     - Overview: trec13/terabyte/overview.md
     - Data: trec13/terabyte/data.md
@@ -991,6 +984,13 @@ nav:
     - Runs: trec13/terabyte/runs.md
     - Results: trec13/terabyte/results.md
     - Proceedings: trec13/terabyte/proceedings.md
+  - Web:
+    - Overview: trec13/web/overview.md
+    - Data: trec13/web/data.md
+    - Participants: trec13/web/participants.md
+    - Runs: trec13/web/runs.md
+    - Results: trec13/web/results.md
+    - Proceedings: trec13/web/proceedings.md
 - TREC-12 (2003):
   - Overview: trec12/overview.md
   - Genomics:
@@ -1195,7 +1195,7 @@ nav:
     - Participants: trec8/qa/participants.md
     - Runs: trec8/qa/runs.md
     - Proceedings: trec8/qa/proceedings.md
-  - Spoken Data Recognition:
+  - Spoken Document Retrieval:
     - Overview: trec8/sdr/overview.md
     - Data: trec8/sdr/data.md
     - Participants: trec8/sdr/participants.md
@@ -1240,7 +1240,7 @@ nav:
     - Participants: trec7/filtering/participants.md
     - Runs: trec7/filtering/runs.md
     - Proceedings: trec7/filtering/proceedings.md
-  - Spoken Data Recognition:
+  - Spoken Document Retrieval:
     - Overview: trec7/sdr/overview.md
     - Data: trec7/sdr/data.md
     - Participants: trec7/sdr/participants.md
@@ -1289,7 +1289,7 @@ nav:
     - Runs: trec6/chinese/runs.md
     - Results: trec6/chinese/results.md
     - Proceedings: trec6/chinese/proceedings.md
-  - Cross Language:
+  - Cross-Language:
     - Overview: trec6/clir/overview.md
     - Data: trec6/clir/data.md
     - Participants: trec6/clir/participants.md
@@ -1390,8 +1390,67 @@ nav:
     - Proceedings: trec5/interactive/proceedings.md
 - TREC-4 (1995):
   - Overview: trec4/overview.md
+  - Adhoc:
+    - Overview: trec4/adhoc/overview.md
+    - Data: trec4/adhoc/data.md
+    - Participants: trec4/adhoc/participants.md
+    - Runs: trec4/adhoc/runs.md
+    - Results: trec4/adhoc/results.md
+    - Proceedings: trec4/adhoc/proceedings.md
+  - Database Merging:
+    - Overview: trec4/dbmerge/overview.md
+    - Data: trec4/dbmerge/data.md
+    - Participants: trec4/dbmerge/participants.md
+    - Runs: trec4/dbmerge/runs.md
+    - Results: trec4/dbmerge/results.md
+    - Proceedings: trec4/dbmerge/proceedings.md
+  - Routing:
+    - Overview: trec4/routing/overview.md
+    - Data: trec4/routing/data.md
+    - Participants: trec4/routing/participants.md
+    - Runs: trec4/routing/runs.md
+    - Results: trec4/routing/results.md
+    - Proceedings: trec4/routing/proceedings.md
+  - Spanish:
+    - Overview: trec4/spanish/overview.md
+    - Data: trec4/spanish/data.md
+    - Participants: trec4/spanish/participants.md
+    - Runs: trec4/spanish/runs.md
+    - Results: trec4/spanish/results.md
+    - Proceedings: trec4/spanish/proceedings.md
+  - Filtering:
+    - Overview: trec4/filtering/overview.md
+    - Data: trec4/filtering/data.md
+  - Confusion:
+    - Overview: trec4/confusion/overview.md
+    - Data: trec4/confusion/data.md
+    - Participants: trec4/confusion/participants.md
+    - Runs: trec4/confusion/runs.md
+    - Results: trec4/confusion/results.md
+    - Proceedings: trec4/confusion/proceedings.md
+  - Interactive:
+    - Overview: trec4/interactive/overview.md
+    - Data: trec4/interactive/data.md
+    - Participants: trec4/interactive/participants.md
+    - Runs: trec4/interactive/runs.md
+    - Results: trec4/interactive/results.md
+    - Proceedings: trec4/interactive/proceedings.md
 - TREC-3 (1994):
   - Overview: trec3/overview.md
+  - Adhoc:
+    - Overview: trec3/adhoc/overview.md
+    - Data: trec3/adhoc/data.md
+    - Participants: trec3/adhoc/participants.md
+    - Runs: trec3/adhoc/runs.md
+    - Results: trec3/adhoc/results.md
+    - Proceedings: trec3/adhoc/proceedings.md
+  - Routing:
+    - Overview: trec3/routing/overview.md
+    - Data: trec3/routing/data.md
+    - Participants: trec3/routing/participants.md
+    - Runs: trec3/routing/runs.md
+    - Results: trec3/routing/results.md
+    - Proceedings: trec3/routing/proceedings.md
 - TREC-2 (1993):
   - Overview: trec2/overview.md
 - TREC-1 (1992):

@@ -526,7 +526,6 @@
 - :material-format-text: **Track:** Knowledge Base Acceleration 
 - :material-calendar: **Year:** 2012 
 - :material-upload: **Submission:** 9/17/2012 
-- :fontawesome-solid-user-gear: **Type:** other 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3d9986d84ad22e2ed4891d94db393956` 
 - :material-text: **Run description:** This run performs retrieval over the entire collection without wrt to time using entity name and simple variants.  Galago sequential dependence based retrieval over entire document stream; dirichlet smoothing, mu=2000, seq. dep. params  uniw=0.29, odw=0.21, uww=0.50. Statistics from complete collection. Retrieved 6000 documents per topic across all hours. Combines original topic name with name variants from Wiki redirects and wiki anchor text. Indri Query  combine( seqdep(topic_name) combine(seqdep(name_variant_1) ... seqdep(name_variant_n)) 

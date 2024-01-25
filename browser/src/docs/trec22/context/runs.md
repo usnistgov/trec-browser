@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `8d342203b458085c2eece535d3e7b744` 
 - :material-text: **Run description:** calculate the similarities with Tf-idf ,reduce the dimension using LSI model  
@@ -22,7 +21,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b276d5d3ce677c59fff5c2531e73aaa7` 
 - :material-text: **Run description:** using LSI model with another Coefficient (80) 
@@ -36,7 +34,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b8969757523f47d9b53661b7f6828a17` 
 - :material-text: **Run description:** Results from Google Places API pointing to the Open Web filtered by whether the attraction has a corresponding URL. 
@@ -92,7 +89,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b59588dad68109760dbed93a8ed76a77` 
 - :material-text: **Run description:** Our runs are based on an item-item based similarity metric that is normally used in collaborative filtering. However, unlike traditional collaborative filtering approaches we make use of Wikipedia category graph and Wikipedia article graph to compute similarity between places fetched from Google Places and WikiTravel. The descriptions of example suggestions given as part of user profiles are decomposed into n-grams and from within these n-grams we filter those which have a corresponding Wikipedia entry (i.e., a Wikipedia article); finally we determine an intersection between these n-grams and the Wikipedia article titles extracted from n-grams of returned places' descriptions (using Google Places API and Bing API). The computed intersections (precisely, Wikipedia articles) are then used to further extract Wikipedia categories until depth 2 and these categories are used in a score computation framework that indicates a measure of similarity between example suggestions and returned places. 
@@ -106,7 +102,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `69f41ee949d198c48341b265234eedc7` 
 - :material-text: **Run description:** Our runs are based on an item-item based similarity metric that is normally used in collaborative filtering. However, unlike traditional collaborative filtering approaches we make use of Wikipedia category graph and Wikipedia article graph to compute similarity between places fetched from Google Places and WikiTravel. The descriptions of example suggestions given as part of user profiles are decomposed into n-grams and from within these n-grams we filter those which have a corresponding Wikipedia entry (i.e., a Wikipedia article); finally we determine an intersection between these n-grams and the Wikipedia article titles extracted from n-grams of returned places' descriptions (using Google Places API and Bing API). The computed intersections (precisely, Wikipedia articles) are then used to further extract Wikipedia categories until depth 2 and these categories are used in a score computation framework that indicates a measure of similarity between example suggestions and returned places. This particular run assigns a high priority score to locations fetched from Wikitravel. 
@@ -120,7 +115,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `84e59f37095598b8daab7b49c25eead2` 
 - :material-text: **Run description:** Main source is Google Place. Descriptions are fetched from Open Web and Yandex RCA. We used Naive bayes classifier (Weka package) with complex score to train ranking function. Complex score means that we divide one class from another by calculating score which considers place types. More precisely, description and website weights depend on a place type. 
@@ -134,7 +128,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b0abf9bf91595698cd30289cac8b2788` 
 - :material-text: **Run description:** this run search to yelp and foursquare for user's preferred category, then perform re-rank based on descriptiveness(url, description, etc.) and attractiveness(rating, review count, etc.) of the place itself.. 
@@ -148,7 +141,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `84519f626be08e78989ed22bd9d55d69` 
 - :material-text: **Run description:** This run search on Yelp and Foursquare data for places based on user's preferred category & context, then perform re-rank based on descriptiveness(url, description, etc.) and attractiveness(rating, review count, etc.) of the place itself, merge in round robin fashion to ensure diversity among top results.  
@@ -162,7 +154,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3e705fffa8909d3bff51305799e065c4` 
 - :material-text: **Run description:** Suggestion model based on k-nearest neighbor algorithm (k-NN) weighted with tf-idf. 
@@ -176,7 +167,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b478de336376436ee0a410b6f0e3470d` 
 - :material-text: **Run description:** Suggestion model based on Rocchio algorithm. 
@@ -218,7 +208,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/19/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `d106a58f3392139a2350b5e8cf2d616b` 
 - :material-text: **Run description:** Profiles were computed for the 562 users according to their votes. Users were assigned one or more "categories" from WordNet and Google Places. Places were retrieved for the 50 contexts with Google Places (+ snippets from Bing). Each place was tagged with "categories" from WordNet and Google Places. For a given context, suggestions match the user's preferences by mapping the "categories" from the user and the places available around this context (distance computed between the two GPS coordinates).  The description of a suggestion states the type(s) of place, the address, distance and travel time (foot/car), the Points of Interest (POIs) around and a snippet of the suggested website. 
@@ -232,7 +221,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `346f0a582de8faf32ec6796097d7151d` 
 - :material-text: **Run description:** Google Places are used for fetching the context. Google search is used for the description. 
@@ -246,7 +234,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `d0cf2d99db3454dc921791459951dd0e` 
 - :material-text: **Run description:** Based on the approaches of last year, our method includes three parts: 1) candidate datasets preparation; 2) feature extraction; and 3) ranking. We search for the candidate data from Yelp and Google search engine. The vector space model is used to compute the similarity between each candidate data and example according to their descriptions. Apart from the similarity, other four features, which are lv2_category (category from Yelp), lv1_category (classify the category from Yelp manually), rating (general popularity) and distance (the distance between the suggestion and the location of users), are extracted. In the third part, we construct linear regression model on the judged data of last year, getting the weighting parameter of each feature, and compute the score of each candidate suggestion for ranking.  
@@ -260,7 +247,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `16a3f5a375023888604271d2a7c59352` 
 - :material-text: **Run description:** Based on the approaches of last year, our method includes three parts: 1) candidate datasets preparation; 2) feature extraction; and 3) ranking. We search for the candidate data from Yelp and Google search engine. The vector space model is used to compute the similarity between each candidate data and example according to their descriptions. Apart from the similarity, other four features, which are lv2_category (category from Yelp), lv1_category (classify the category from Yelp manually), rating (general popularity) and distance (the distance between the suggestion and the location of users), are extracted. In the third part, we construct linear regression model on the judged data of last year, getting the weighting parameter of each feature, and compute the score of each candidate suggestion for ranking.  
@@ -316,7 +302,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `616df0152c08fd5b68af8d61c7b315ea` 
 - :material-text: **Run description:** Main source is Google Place. Descriptions are fetched from Open Web and Yandex RCA. We used Naive bayes classifier with simple score to train ranking function. Simple score means that we divide one class from another by calculating simple score. 
@@ -330,7 +315,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `4541ad7ee715ab9d77ad6e01dfcf80a7` 
 - :material-text: **Run description:** Suggestions from Wikitravel pages of all US cities are ranked based on description of the provided examples. For a particular profile, the rankings of positive (score 3 or 4) examples are merged to a single ranked list of suggestions per user. The suggestions are then filtered on location. 
@@ -344,7 +328,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `5aa7376cc5410c3ef5905223c31c83be` 
 - :material-text: **Run description:** Yelp API was used for training purposes. Each example suggestion was categorized using Yelp API. Based upon each users preferences, keywords were appended to each profile. For each keyword and context combination, Results were retrieved using Google Place API. Round Robin approach was used to maintain diversity while selecting the top 50 suggestions for each user. 
@@ -358,7 +341,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `111b1c0ed51c573903d02684cdbf0f7b` 
 - :material-text: **Run description:** Yelp API was used for training purposes. Each example suggestion was categorized using Yelp API. Based upon each users preferences, keywords were appended to each profile. For each keyword and context combination, Results were retrieved using Google Place API. Each list was sorted on the basis of Google Places rating. Round Robin approach was used to maintain diversity while selecting the top 50 suggestions for each user. 
@@ -372,7 +354,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `eb32aecb0165133a239c992eb52e07dd` 
 - :material-text: **Run description:** Candidates are crawled from Yelp. User profiles are constructed based on the summary reviews in order to generalize what a user likes or dislikes, and the candidate suggestions are then ranked based on their similarity to the user profiles. Descriptions are generated based on the category, meta-description and the content of the website, reviews, and examples that the user liked. 
@@ -386,7 +367,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/22/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `ede3249449a7235706aa155ec85656f7` 
 - :material-text: **Run description:** Candidates are crawled from Yelp. User profiles are constructed based on the unique terms from the reviews. Candidates are ranked based on their similarity to the user profiles. Descriptions are generated based on the category, meta-description of the website, reviews and examples. 
@@ -400,7 +380,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `cc7d6f38046f41cb07cd06acece6ed41` 
 - :material-text: **Run description:** Each candidate recommendation was scored using the weighted-average rating given to documents in the user's profile.  The weights given to documents in the profile were computed using the cosine similarity between the candidate recommendation and the profile document.  The cosine similarity was computed using tf.idf term-weights.  
@@ -414,7 +393,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `34ec8630b8cd679989da74e661f55c9d` 
 - :material-text: **Run description:** Each candidate recommendation was scored using the weighted-average rating given to documents in the user's profile.  The weights given to documents in the profile were computed using the cosine similarity between the candidate recommendation and the profile document.  The cosine similarity was computed using tf.idf term-weights.  The score was boosted using the rating given to the profile document that was the most similar to the candidate recommendation.  
@@ -428,7 +406,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `9a875b74c05c78b1d2f97aa0f7fee921` 
 - :material-text: **Run description:** Ranking venues using similarity measures between user profile and the venue description and the popularity of the venue. 
@@ -442,7 +419,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/24/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `4946a01a939eeb52f5ff133bb8390087` 
 - :material-text: **Run description:** This run uses a diversification approach to re-rank the venues for a given user such that they cover the categories of the user's interest 
@@ -456,7 +432,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `39634453a67873d6622ce9184f68c07b` 
 - :material-text: **Run description:** This run is based on Google places API where only the user context is considered for returning the top 50 attractions. 
@@ -470,7 +445,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2013 
 - :material-upload: **Submission:** 7/23/2013 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `e3edfc0eda68883fdf45480253a59428` 
 - :material-text: **Run description:** This run is based on exploiting a semantic user profile for personalized recommendation. The user profile is composed of a set of categories issued from the Open Directory Project (ODP) ontology. Each category in the user profile is represented with terms based on positive and negative attractions previously  rated by the user. For each context-profile pair, we rerank the top 50 suggestions returned by Google places API using the user profile. Each suggestion is scored according to how well it matches each of the categories in the user profile. 

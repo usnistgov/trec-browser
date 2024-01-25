@@ -45,7 +45,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/17/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### att-s2 
@@ -57,7 +56,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/17/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### cmu1-b1.ret 
@@ -105,7 +103,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/31/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### cmu1-s2.ret 
@@ -117,7 +114,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 9/1/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### cmu2-b1.ret 
@@ -189,7 +185,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### cuhtk-cr-derasru2.ret 
@@ -223,7 +218,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### cuhtk-r1.ret 
@@ -247,7 +241,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### derasru-cr-cuhtk 
@@ -328,7 +321,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### derasru1-s21.ret 
@@ -340,7 +332,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### derasru2-b1.ret 
@@ -352,7 +343,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru2-b2.ret 
@@ -364,7 +354,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru2-r1.ret 
@@ -376,7 +365,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru2-s1.ret 
@@ -388,7 +376,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru2-s21.ret 
@@ -400,7 +387,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru3-b1.ret 
@@ -412,7 +398,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru3-b2.ret 
@@ -424,7 +409,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru3-r1.ret 
@@ -436,7 +420,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru3-s1.ret 
@@ -448,7 +431,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### derasru3-s21.ret 
@@ -460,7 +442,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### mds-b1.ret 
@@ -508,7 +489,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 9/1/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### mds-s2.ret 
@@ -520,7 +500,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 9/1/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### nsa-b1.ret 
@@ -614,7 +593,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/27/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### shef-cr-sru.ret 
@@ -626,7 +604,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/27/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### shef-r1.ret 
@@ -650,7 +627,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/27/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### tno-b1.ret 
@@ -698,7 +674,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/26/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### umass-b1.ret 
@@ -734,7 +709,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-cr1-b2.ret 
@@ -746,7 +720,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-cr1-dragon.ret 
@@ -758,7 +731,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-cr2-b1.ret 
@@ -770,7 +742,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-cr2-b2.ret 
@@ -782,7 +753,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-cr2-dragon.ret 
@@ -794,7 +764,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umass-r1.ret 
@@ -818,7 +787,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### umass-s2-dragon.ret 
@@ -830,7 +798,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/28/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** reco 
 
 ---
 #### umd-b1.ret 
@@ -878,7 +845,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/31/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umdf-b2.ret 
@@ -890,7 +856,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/30/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---
 #### umdf-r1.ret 
@@ -902,6 +867,5 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/30/1998 
 - :fontawesome-solid-user-gear: **Type:** automatic 
-- :material-text-search: **Task:** NOTSPEC 
 
 ---

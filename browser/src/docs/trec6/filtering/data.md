@@ -1,6 +1,6 @@
 # Data - Filtering 1997 
 
-:fontawesome-solid-globe: **TREC Web Page**: [``]()
+
 
 ---
 

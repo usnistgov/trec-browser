@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### attqa250p 
@@ -19,7 +18,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### attqa50e 
@@ -30,7 +28,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### attqa50p 
@@ -41,7 +38,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### clr99s 
@@ -52,7 +48,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/16/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### CRDBASE050 
@@ -63,7 +58,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### CRDBASE250 
@@ -74,7 +68,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### CRL250 
@@ -85,7 +78,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/17/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### CRL50 
@@ -96,7 +88,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/17/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### GePenn 
@@ -107,7 +98,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### IBMDR992 
@@ -118,7 +108,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### IBMDR995 
@@ -129,7 +118,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### IBMVS992 
@@ -140,7 +128,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### IBMVS995 
@@ -151,7 +138,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### INQ634 
@@ -162,7 +148,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### INQ635 
@@ -173,7 +158,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### INQ638 
@@ -184,7 +168,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### INQ639 
@@ -195,7 +178,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### LimsiLC 
@@ -206,7 +188,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### mds08q1 
@@ -217,7 +198,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### MTR99050 
@@ -228,7 +208,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### MTR99250 
@@ -239,7 +218,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/13/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### nttd8ql1 
@@ -250,7 +228,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### nttd8ql4 
@@ -261,7 +238,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### nttd8qs1 
@@ -272,7 +248,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### nttd8qs2 
@@ -283,7 +258,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### NTU99 
@@ -294,7 +268,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/16/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### Scai8QnA 
@@ -305,7 +278,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shefatt250 
@@ -316,7 +288,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shefatt50 
@@ -327,7 +298,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### shefinq250 
@@ -338,7 +308,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shefinq50 
@@ -349,7 +318,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### SMUNLP1 
@@ -360,7 +328,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### SMUNLP2 
@@ -371,7 +338,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/14/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### textract9908 
@@ -382,7 +348,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UIowaQA1 
@@ -393,7 +358,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UIowaQA2 
@@ -404,7 +368,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UIowaQA3 
@@ -415,7 +378,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UIowaQA4 
@@ -426,7 +388,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### umdqa 
@@ -437,7 +398,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/24/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UOandNRC 
@@ -448,7 +408,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/16/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UOandNRC50 
@@ -459,7 +418,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/16/1999 
-- :material-text-search: **Task:** 50 
 
 ---
 #### uwmt8qa1 
@@ -470,7 +428,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/15/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### xeroxQA8lC 
@@ -481,7 +438,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/20/1999 
-- :material-text-search: **Task:** 250 
 
 ---
 #### xeroxQA8sC 
@@ -492,6 +448,5 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 1999 
 - :material-upload: **Submission:** 8/20/1999 
-- :material-text-search: **Task:** 50 
 
 ---

@@ -101,7 +101,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/11/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `ca7b8afdc0ea20208e5a4a396f260b7a` 
 - :material-text: **Run description:** 1. Use Bing search api to extend the query. 2. Use JS-Divergence to calculate the relevance of the summaries and coming tweet. 3.Use TFIDF to calculate the novelty  4.resort summaries in Scenario B at the end of a day by BM25 
@@ -116,7 +115,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -128,7 +126,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/11/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `c0fb0e503a57efc8126be1d3e49ed77e` 
 - :material-text: **Run description:** 1.Use Bing search api to extend the query 1.Use JS-Divergence to calculate the relevance of the queries and tweets, summaries and coming tweet. 2.Use TFIDF to calculate the novelty  3.resort summaries in Scenario B at the end of a day by BM25 
@@ -143,7 +140,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -349,7 +345,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `7c3bc5cc567a062bc7dc3f99c0ffd946` 
 - :material-text: **Run description:** Query Expansion has been done using word2vec model which is trained using tweets of past few months. Relevance score has been obtained using Okapi BM25. Novelty detection done using cosine similarity. 
@@ -363,7 +358,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `be8356a8175294c8a1cd8a8072c5713c` 
 - :material-text: **Run description:** Query expansion has been done using word2vec model which is trained using tweets of past few months. Relevance score has been obtained using Okapi BM25. Novelty detection done using Jaccard similarity. 
@@ -550,7 +544,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/11/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `82d32944a35db5e2d18532cd28496f8c` 
 - :material-text: **Run description:** most salient features: add a word2vec information redundancy feature to train the SVM model external resources:  use GoogleNews Corpus and Reuters Corpus to train the model. They are not timely with respect to the queries.  
@@ -564,7 +557,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/11/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `ee5d3686bb9cd1c1d43193f75ea94736` 
 - :material-text: **Run description:** the most salient features: use features to train SVM model (without word2vec information redundancy feature) external resources: Reuters Corpus  
@@ -578,7 +570,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/11/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `2a2d60ac6df5f42680c71672ff5ffaca` 
 - :material-text: **Run description:** the most salient features: no ML model, just a very naive method external resources: Reuters Corpus 
@@ -772,7 +763,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -796,7 +786,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -820,7 +809,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -832,7 +820,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -858,7 +845,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -870,7 +856,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/12/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `a40b8b3960f6ff831822eb4960bfbc1a` 
 - :material-text: **Run description:** Trains classifier using top Google documents, tweets from Twitter and uses BM25 similarity.  
@@ -910,7 +895,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/13/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** a 
 
 ---
@@ -922,7 +906,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 8/12/2016 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `463ad70f7cdb00d0f3213bbdefeaa7ec` 
 - :material-text: **Run description:** Trains classifier using top Google documents, tweets from Twitter and relevant tweets from microblog 2015 qrels file. 

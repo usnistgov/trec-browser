@@ -53,7 +53,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 3563 
 - :material-text-search: **Task:** a 
 
 ---
@@ -65,7 +64,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 3297 
 - :material-text-search: **Task:** a 
 
 ---
@@ -77,7 +75,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 3671 
 - :material-text-search: **Task:** a 
 
 ---
@@ -131,7 +128,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 4444 
 - :material-text-search: **Task:** a 
 
 ---
@@ -143,7 +139,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1852 
 - :material-text-search: **Task:** a 
 
 ---
@@ -155,7 +150,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 2246 
 - :material-text-search: **Task:** a 
 
 ---
@@ -167,7 +161,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/8/2017 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `03ac6796dccbb6f0749ed6698e15424a` 
 - :material-text: **Run description:** We calculate the relevance between the topic and the tweet by learning to rank technique, the similarities between the expanded topic and the tweet are used as the features to train the learning to rank model. The query is expanded by using Relevance-based Language Model from the top 50 retrieval results returned by Google. The similarity of the query and the twitter is calculated measured by the expanded topic and the url.  
@@ -181,7 +174,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/8/2017 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `3babfdd596556b176993148090f0e16f` 
 - :material-text: **Run description:** Using the algorithm of learning to rank to learn the model for each query. Feedback is exploited. 
@@ -210,7 +202,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1743 
 - :material-text-search: **Task:** a 
 
 ---
@@ -237,7 +228,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 3679 
 - :material-text-search: **Task:** a 
 
 ---
@@ -264,7 +254,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 2542 
 - :material-text-search: **Task:** a 
 
 ---
@@ -276,7 +265,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 677 
 - :material-text-search: **Task:** a 
 
 ---
@@ -288,7 +276,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 607 
 - :material-text-search: **Task:** a 
 
 ---
@@ -300,7 +287,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 878 
 - :material-text-search: **Task:** a 
 
 ---
@@ -312,7 +298,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `1192d3fc16d99b31d7947412762d8fbc` 
 - :material-text: **Run description:** In this run we first apply a simple filter that discards any tweets that fulfil one of the following conditions: text length less than five terms, contain more than one URL or three hashtags and the number of word overlap with the title and the description of the query is less than a minimum of either 3 words or the size of the title and the description of the query. Then tweets that pass a binary classifier are selected for a daily summary. The binary classifier was trained using TREC RTF 2015 data set. In this run, we use the live assessment feedback to retrain the binary classifier periodically (active learning)    Tweets that pass the filtering stage are clustered and the summary generation was formulated as an optimization problem to select a subset of tweets that maximizes the global summary relevance and fulfills constraints related to non-redundancy, coverage, temporal diversity and summary length. Branch and bound algorithm is used to resolve the optimization problem.  
@@ -342,7 +327,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `306e61d4e39d09f4e42073a5cc54260e` 
 - :material-text: **Run description:** In this run we first apply a simple filter that discards any tweets that fulfil one of the following conditions: text length less than five terms, contain more than one URL or three hashtags and the number of word overlap with the title and the description of the query is less than a minimum of either 3 words or the size of the title and the description of the query. Then tweets that pass a binary classifier are selected for a daily summary. The binary classifier was trained using TREC RTF 2015 data set. In this run, we use the live assessment feedback to retrain the binary classifier periodically (active learning)    To generate a daily summary, the top-10 weighted tweets are iteratively selected with the exclusion of those having a similarity above a predefined threshold (0.75) with the current summary (tweets already selected). To evaluate the similarity between two tweets we use word embedding based similarity function.  
@@ -385,7 +369,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 900 
 - :material-text-search: **Task:** a 
 
 ---
@@ -425,7 +408,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1798 
 - :material-text-search: **Task:** a 
 
 ---
@@ -493,7 +475,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 617 
 - :material-text-search: **Task:** a 
 
 ---
@@ -505,7 +486,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 2864 
 - :material-text-search: **Task:** a 
 
 ---
@@ -517,7 +497,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 437 
 - :material-text-search: **Task:** a 
 
 ---
@@ -529,7 +508,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 397 
 - :material-text-search: **Task:** a 
 
 ---
@@ -583,7 +561,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 844 
 - :material-text-search: **Task:** a 
 
 ---
@@ -595,7 +572,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1161 
 - :material-text-search: **Task:** a 
 
 ---
@@ -607,7 +583,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1733 
 - :material-text-search: **Task:** a 
 
 ---
@@ -675,7 +650,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1411 
 - :material-text-search: **Task:** a 
 
 ---
@@ -687,7 +661,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1014 
 - :material-text-search: **Task:** a 
 
 ---
@@ -699,7 +672,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 2388 
 - :material-text-search: **Task:** a 
 
 ---
@@ -711,7 +683,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 89 
 - :material-text-search: **Task:** a 
 
 ---
@@ -723,7 +694,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `fd413a51aaf3f283340de11b447f427e` 
 - :material-text: **Run description:** This is run1,the clientid is Voat1N7Fd0Wc . 
@@ -737,7 +707,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 687 
 - :material-text-search: **Task:** a 
 
 ---
@@ -749,7 +718,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `b412e88197e52155074caf9ea87a757e` 
 - :material-text: **Run description:** This is run2,the clientid is A9ImWPyrAzxo . 
@@ -763,7 +731,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 423 
 - :material-text-search: **Task:** a 
 
 ---
@@ -775,7 +742,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `31cf7d40c30d3a23ae9d4ac8b831d724` 
 - :material-text: **Run description:** This is run3,the clientid is 9bFTfkK7pZa4 . 
@@ -789,7 +755,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 657 
 - :material-text-search: **Task:** a 
 
 ---
@@ -801,7 +766,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 8453 
 - :material-text-search: **Task:** a 
 
 ---
@@ -813,7 +777,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1484 
 - :material-text-search: **Task:** a 
 
 ---
@@ -825,7 +788,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1697 
 - :material-text-search: **Task:** a 
 
 ---
@@ -837,7 +799,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 1711 
 - :material-text-search: **Task:** a 
 
 ---
@@ -849,7 +810,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 3528 
 - :material-text-search: **Task:** a 
 
 ---
@@ -861,7 +821,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `e3efdc0dfcb0f2fff675fa42ff64bfc5` 
 - :material-text: **Run description:** A language modeling approach was used to filter tweets. Language models for this run were generated using the given information for every topic and top tweets associated (extracted using Twitter API) with those topics. These language models and their score thresholds were updated in real-time using the feedback from mobile assessors. Selected tweets were then clustered using cosine similarity for controlling redundancy.  
@@ -875,7 +834,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 874 
 - :material-text-search: **Task:** a 
 
 ---
@@ -887,7 +845,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `a877967383c52e73479a4ec26d1aa8bc` 
 - :material-text: **Run description:** A language modeling approach was used to filter tweets. Language models for this run were generated using topic titles and top hashtags (extracted using Twitter API). Selected tweets were then clustered using cosine similarity for controlling redundancy. And mobile assessments were used to dynamically update score thresholds. 
@@ -901,7 +858,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 661 
 - :material-text-search: **Task:** a 
 
 ---
@@ -913,7 +869,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/6/2017 
-- :fontawesome-solid-user-gear: **Type:** maninter 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `c3df9484b4e83fc6a8d3dc47c3b4173d` 
 - :material-text: **Run description:** A language modeling approach was used to filter tweets. Language models for this run were generated using topic titles and top hashtags (extracted using Twitter API). These language models and their score thresholds were updated in real-time using the feedback from mobile assessors. Selected tweets were then clustered using cosine similarity for controlling redundancy.  
@@ -927,7 +882,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 954 
 - :material-text-search: **Task:** a 
 
 ---
@@ -939,7 +893,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 9250 
 - :material-text-search: **Task:** a 
 
 ---
@@ -965,7 +918,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 640 
 - :material-text-search: **Task:** a 
 
 ---
@@ -1035,7 +987,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 377 
 - :material-text-search: **Task:** a 
 
 ---
@@ -1047,7 +998,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 2377 
 - :material-text-search: **Task:** a 
 
 ---
@@ -1059,7 +1009,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2017 
 - :material-upload: **Submission:** 8/7/2017 
-- :fontawesome-solid-user-gear: **Type:** 629 
 - :material-text-search: **Task:** a 
 
 ---

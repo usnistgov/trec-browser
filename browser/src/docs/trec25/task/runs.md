@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `2153d2f44a4aedd19611805e253ffcf4` 
 - :material-text: **Run description:** Run1 extracts key phrases using unordered phrase match feature of Indri from ClueWeb12. These key phrases are then ranked and clustered based on documents they retrieve. 
@@ -22,7 +21,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `3015d13a7f1ff7b0006748e85bc167b6` 
 - :material-text: **Run description:** Run1C is compiled using the phrases extracted for task understanding run -- Run1. 
@@ -36,7 +34,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `f698cb2db7e5645d8a9e645a41b253e1` 
 - :material-text: **Run description:** Run2 uses jtopia tool to extract phrases from the top 5 documents for each query. Then, those phrases are filtered out and ranked using Normalized Google Distance (NGD). 
@@ -50,7 +47,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `4acfa51bd1e9f01320848465c556658d` 
 - :material-text: **Run description:** Run2C is compiled using the phrases extracted for task understanding run -- Run2. 
@@ -64,7 +60,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `a2c2067b2a18b1db93e34a28b7a0534b` 
 - :material-text: **Run description:** Run3 extracts key phrases using 1) unordered phrase match feature of Indri from ClueWeb12 and 2) using jtopia tool to extract phrases from the top 5 documents for each query. Final ranks are computed by merging both the lists using ISR.  
@@ -78,7 +73,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `5206a7db75c05b8aedfd415736e03b35` 
 - :material-text: **Run description:** Run3C is compiled using the phrases extracted for task understanding run -- Run3. 
@@ -92,7 +86,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `1fc95f63a2223574fcd506c80374cd62` 
 - :material-text: **Run description:** Run4 extracts key phrases using unordered phrase match feature of Indri from ClueWeb12. Ranks and clusters these phrases using complete-linkage clustering based on documents they retrieve. 
@@ -106,7 +99,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `c00481329bbfcf8b914f7bc7527552fb` 
 - :material-text: **Run description:** Run4C is compiled using the phrases extracted for task understanding run -- Run4. 
@@ -120,7 +112,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `a3a894f55ab3fb751e00a86cd1ad1e68` 
 - :material-text: **Run description:** Run5 extracts key phrases using unordered phrase match feature of Indri from ClueWeb12. Ranks and clusters these phrases using Normalized Google Distance (NGD). 
@@ -134,7 +125,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `111e24b21d4a16ea29a4b6e149308242` 
 - :material-text: **Run description:** Run5C is compiled using the phrases extracted for task understanding run -- Run5. 
@@ -148,7 +138,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `3ab141d0e9e88b3ebb5a9bb5ef345645` 
 - :material-text: **Run description:** Run6 extracts key phrases using 1) unordered phrase match feature of Indri from ClueWeb12 and 2) using jtopia tool to extract phrases from the top 5 documents for each query. Final ranks are computed by merging both the lists and ranking them using NGD. 
@@ -162,7 +151,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `7cffc8aa5c958ca7e215f763d31d4687` 
 - :material-text: **Run description:** Run6C is compiled using the phrases extracted for task understanding run (Run6). 
@@ -176,7 +164,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/2/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `0bc4fa0103a120c96b65de13de3cbbc9` 
 - :material-text: **Run description:** Keyphrase extraction and ranking. External resources: search suggestions and results from web search engines. 
@@ -190,7 +177,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/5/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `b2a16a803e371dc93e091f823ae02743` 
 - :material-text: **Run description:** Keyphrase extraction and ranking. External resources: search suggestions and results from web search engines. 
@@ -204,7 +190,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/5/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `a7e9878e975eb18e1bb2d4b9ed628981` 
 - :material-text: **Run description:** Keyphrase extraction, clustering, and ranking. External resources: search results from web search engines. 
@@ -218,7 +203,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `29a65ee330ab098a5a6f4fa2b58a6e75` 
 - :material-text: **Run description:** seperate run files 
@@ -232,7 +216,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `5ee7df31792e6477c85b2fd570fbca6d` 
 - :material-text: **Run description:** seperate run files 
@@ -246,7 +229,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `45fe3ee0ba9f827dc086c1003fdac384` 
 - :material-text: **Run description:** seperate run files 
@@ -260,7 +242,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** adhoc 
 - :material-fingerprint: **MD5:** `c33204ecb9cfca0891205dee02544447` 
 - :material-text: **Run description:** seperate run files 
@@ -274,7 +255,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** adhoc 
 - :material-fingerprint: **MD5:** `152539054b4f02e1feec824fbbf38571` 
 - :material-text: **Run description:** seperate run files 
@@ -288,7 +268,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** adhoc 
 - :material-fingerprint: **MD5:** `e85f195e40845d9b2134791a79649454` 
 - :material-text: **Run description:** seperate run files 
@@ -302,7 +281,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `454c704c2ce8621461e674c0c8738727` 
 - :material-text: **Run description:** seperate run files 
@@ -316,7 +294,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `f55eb429128ed37590a01fc19915cbd1` 
 - :material-text: **Run description:** seperate run files 
@@ -330,7 +307,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2016 
 - :material-upload: **Submission:** 9/4/2016 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `fedf4c22b338b2625d50eda7f19807b3` 
 - :material-text: **Run description:** seperate run files 

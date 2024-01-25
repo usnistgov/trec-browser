@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### ALI9A50 
@@ -19,7 +18,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### ALI9C250 
@@ -30,7 +28,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### ALI9C50 
@@ -41,7 +38,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### clr00b1 
@@ -52,7 +48,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### clr00b2 
@@ -63,7 +58,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### clr00s1 
@@ -74,7 +68,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### clr00s2 
@@ -85,7 +78,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### cnxrole2 
@@ -96,7 +88,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### FDUT9QL1 
@@ -107,7 +98,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### FDUT9QL2 
@@ -118,7 +108,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### FDUT9QS1 
@@ -129,7 +118,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### FDUT9QS2 
@@ -140,7 +128,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### ibmhlt00250 
@@ -151,7 +138,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### ibmhlt0050 
@@ -162,7 +148,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### IBMKA250 
@@ -173,7 +158,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### IBMKA50 
@@ -184,7 +168,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### IBMKR250 
@@ -195,7 +178,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### IBMKR50 
@@ -206,7 +188,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### ICrjc99a 
@@ -217,7 +198,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### ICrjc99b 
@@ -228,7 +208,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### INQ9AND 
@@ -239,7 +218,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### INQ9WSUM 
@@ -250,7 +228,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### ISI0A50 
@@ -261,7 +238,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### KAIST9qa1 
@@ -272,7 +248,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### KAIST9qa2 
@@ -283,7 +258,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### KUQA250a 
@@ -294,7 +268,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/20/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### KUQA250b 
@@ -305,7 +278,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 9/17/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### KUQA50a 
@@ -316,7 +288,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 9/17/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### KUQA50b 
@@ -327,7 +298,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 9/17/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### lcat050 
@@ -338,7 +308,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### lcat250 
@@ -349,7 +318,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### LCCSMU1 
@@ -360,7 +328,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### LCCSMU2 
@@ -371,7 +338,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### lcix250 
@@ -382,7 +348,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### msq9L250 
@@ -393,7 +358,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### msq9L50 
@@ -404,7 +368,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### MTR00L1 
@@ -415,7 +378,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/14/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### MTR00S1 
@@ -426,7 +388,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/14/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### MTR00X1 
@@ -437,7 +398,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### MTR00Y1 
@@ -448,7 +408,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### NTTD9QAa1L 
@@ -459,7 +418,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### NTTD9QAa1S 
@@ -470,7 +428,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### NTTD9QAa2S 
@@ -481,7 +438,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### NTTD9QAb1L 
@@ -492,7 +448,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### pir0qal1 
@@ -503,7 +458,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/19/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### pir0qal2 
@@ -514,7 +468,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/19/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### pir0qas1 
@@ -525,7 +478,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/19/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### pir0qas2 
@@ -536,7 +488,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/19/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### PISA0 
@@ -547,7 +498,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### PISAB 
@@ -558,7 +508,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### PISAS 
@@ -569,7 +518,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### qntua01 
@@ -580,7 +528,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### qntua02 
@@ -591,7 +538,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### qntua03 
@@ -602,7 +548,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### Scai9QnA2 
@@ -613,7 +558,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### Scai9QnA3 
@@ -624,7 +568,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shef250 
@@ -635,7 +578,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shef250p 
@@ -646,7 +588,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### shef50 
@@ -657,7 +598,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### shef50ea 
@@ -668,7 +608,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/18/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### SunOne 
@@ -679,7 +618,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### SunToo 
@@ -690,7 +628,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### SUT9bn3c050 
@@ -701,7 +638,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### SUT9bn3c250 
@@ -712,7 +648,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### SUT9p2c3c050 
@@ -723,7 +658,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### SUT9p2c3c250 
@@ -734,7 +668,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### ualberta 
@@ -745,7 +678,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UdeMexct 
@@ -756,7 +688,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UdeMlng1 
@@ -767,7 +698,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UdeMlng2 
@@ -778,7 +708,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UdeMshrt 
@@ -789,7 +718,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### UIQA001 
@@ -800,7 +728,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### UIQA002 
@@ -811,7 +738,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### uwmt9qal0 
@@ -822,7 +748,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### uwmt9qal1 
@@ -833,7 +758,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### uwmt9qas0 
@@ -844,7 +768,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### uwmt9qas1 
@@ -855,7 +778,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/22/2000 
-- :material-text-search: **Task:** 50 
 
 ---
 #### xeroxQA9l 
@@ -866,7 +788,6 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 250 
 
 ---
 #### xeroxQA9s 
@@ -877,6 +798,5 @@
 - :material-format-text: **Track:** Question Answering 
 - :material-calendar: **Year:** 2000 
 - :material-upload: **Submission:** 8/21/2000 
-- :material-text-search: **Task:** 50 
 
 ---

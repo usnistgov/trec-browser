@@ -515,7 +515,6 @@
 - :material-calendar: **Year:** 1998 
 - :material-upload: **Submission:** 8/2/1998 
 - :fontawesome-solid-user-gear: **Type:** manual 
-- :material-text-search: **Task:** N/A 
 
 ---
 #### INQ501 

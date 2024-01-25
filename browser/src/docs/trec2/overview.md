@@ -2,9 +2,7 @@
 
 {==
 
-**Donna Harman, Overview of the Second Text REtrieval Conference (TREC-2):**
-
-The second TREC conference occurred in August of 1993, less than 10 months after the first conference. In addition to 22 of the TREC-l groups, nine new groups took part. bringing the total number of participating groups to 31. Many of the original TREC-1 groups were able to "complete" their system rebuilding and tuning, and in general the TREC-2 results show significant improvements over the TREC-1 results.
+TREC is designed to encourage research in information retrieval using large data collections. Two types of retrieval are being examined -- retrieval using an adhoc query such as a researcher might use in a library environment, and retrieval using a 'routing' query such as a profile to filter some incoming document stream.
 
 ==}
 

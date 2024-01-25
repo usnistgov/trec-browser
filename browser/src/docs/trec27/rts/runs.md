@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 1180 
 - :material-text-search: **Task:** a 
 
 ---
@@ -20,7 +19,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 1017 
 - :material-text-search: **Task:** a 
 
 ---
@@ -32,7 +30,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 619 
 - :material-text-search: **Task:** a 
 
 ---
@@ -128,7 +125,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 3763 
 - :material-text-search: **Task:** a 
 
 ---
@@ -140,7 +136,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 4721 
 - :material-text-search: **Task:** a 
 
 ---
@@ -152,7 +147,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 3009 
 - :material-text-search: **Task:** a 
 
 ---
@@ -206,7 +200,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/5/2018 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `f4061361957c6385bfdb2175a5baa21d` 
 - :material-text: **Run description:** weighted language model with different smoothing 
@@ -220,7 +213,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/5/2018 
-- :fontawesome-solid-user-gear: **Type:** manprep 
 - :material-text-search: **Task:** b 
 - :material-fingerprint: **MD5:** `f2997b555ff62c19f7d6dd85862415da` 
 - :material-text: **Run description:** LM WITH DIRICHLET SMOOTHING 
@@ -234,7 +226,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 110 
 - :material-text-search: **Task:** a 
 
 ---
@@ -246,7 +237,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 159 
 - :material-text-search: **Task:** a 
 
 ---
@@ -258,7 +248,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 320 
 - :material-text-search: **Task:** a 
 
 ---
@@ -270,7 +259,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 19 
 - :material-text-search: **Task:** a 
 
 ---
@@ -282,7 +270,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 3556 
 - :material-text-search: **Task:** a 
 
 ---
@@ -294,7 +281,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 2176 
 - :material-text-search: **Task:** a 
 
 ---
@@ -306,7 +292,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 2347 
 - :material-text-search: **Task:** a 
 
 ---
@@ -318,7 +303,6 @@
 - :material-format-text: **Track:** Real-time Summarization 
 - :material-calendar: **Year:** 2018 
 - :material-upload: **Submission:** 8/4/2018 
-- :fontawesome-solid-user-gear: **Type:** 25 
 - :material-text-search: **Task:** a 
 
 ---

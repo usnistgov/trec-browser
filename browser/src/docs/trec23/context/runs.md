@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/26/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `56c05086337f07f1d14ea563753b83f3` 
 - :material-text: **Run description:** Here, we submitte two results of recommendations, they are taken by using a dataset which was crawled from the website-http://www.tripadvisor.com, but using different algorithms to recommend. Our dataset are crawled from the openweb and the codes are written in python. In order to get as much information as possible about the scenic,we also crawl and retain the classification and ranking on tripadvise .All these additional informations can help us make our results better. We use the basic statistical methods to calculate the probability of each user's preferences to the scenics in example file,and get the interest model of each user. BJUTa is based on each user's interest in the proportion of each category as well as the rank of scenic in tripadvise. 50 candidates in the sort of attractions, only the rank and attractions in the position considered as objects of interest does not contain text information provided by the website.When we sort the 50 scenics ,location and rank of the scenic will be considered as the only two factor,here we don't use any information from scenic website. 
@@ -22,7 +21,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/26/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `e49be78e745d7b4f438e6981f8489b00` 
 - :material-text: **Run description:** Here, we submitte two results of recommendations, they are taken by using a dataset which was crawled from the website-http://www.tripadvisor.com, but using different algorithms to recommend. Our dataset are crawled from the openweb and the codes are written in python. In order to get as much information as possible about the scenic,we also crawl and retain the classification and ranking on tripadvise .All these additional informations can help us make our results better. We use the basic statistical methods to calculate the probability of each user's preferences to the scenics in example file,and get the interest model of each user. ResultA is based on each user's interest in the proportion of each category as well as the rank of scenic in tripadvise. 50 candidates in the sort of attractions, only the rank and attractions in the position considered as objects of interest does not contain text information provided by the website.When we sort the 50 scenics ,location and rank of the scenic will be considered as the only two factor,here we don't use any information from scenic website. The ResultB is based on the ResultA.In this method,we chose the user comments in tripadvise and the text in scenic website as the description information of the scenic.Then we choose SVM to train a two-class classifier,and use the train model to classify the scenic into two class,like and dislike.The ResultB will be the combination of  rank,classification, and user interest model. 
@@ -36,7 +34,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/29/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b9d896dcfe28101785e839af8467ea3d` 
 - :material-text: **Run description:** DBN & LSI 
@@ -50,7 +47,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/29/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `5bbc925f970f0cb7ebe7660b045f6348` 
 - :material-text: **Run description:** DBN & LSI 
@@ -64,7 +60,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/27/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `56d77b9e28555e7614a51735a584cd1d` 
 - :material-text: **Run description:** use google type information to recommend 
@@ -78,7 +73,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `920f5dbdb5a094d247df578cd2bfd8ba` 
 - :material-text: **Run description:** The core of the approach is based on the Choquet Integral. We computed an aggregated document relevance score considering the user's importance rating of each relevance criterion and based on the geolocalisation relevance criterion.  The places are extracted using the Google Place API. 
@@ -120,7 +114,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `743b39767f37f432a521f95153924db0` 
 - :material-text: **Run description:** This work is a sole effort of myself (Di Xu from LTI-Carnegie Mellon). The system involves bots that crawls data from open web, and SVR scorer that ranks POI based on a set of features. This work focuses on using Machine Learning techniques to do ranking instead of traditional IR based methods, and intelligent regression models that selects reasonably well descriptions for each POI. 
@@ -134,7 +127,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `8f432231890f729e70cf774ea319233b` 
 - :material-text: **Run description:** Content based recommendation using Vector Space Model with TF.IDF weighting. 
@@ -148,7 +140,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/27/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `157a8d3ffe6bb8574bb0017ccb9c4d5c` 
 - :material-text: **Run description:** Using LDA to identify the topics of every user, and the same to every place descriptions. Than calculate the similarity between examples and candidates, use rating to weight the candidate. 
@@ -190,7 +181,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `4ca2abe956d683c7db6bd3d59ec1441b` 
 - :material-text: **Run description:** Interest elements (intels, e.g. content words and interest categories) and their associated ratings are extracted from user profile and examples. RAMA (Reinforcement and Aging Modeling algorithm) builds user interest models by adjusting the relevance weights of intels. Specific and general interest models are built for each user with RAMA. Candidate attractions are retrieved using Yelp API 2.0 with query generated from the general interest model. Three component scores are computed for each candidate attraction, i.e. content, category, and context scores.  Candidate attraction scoring and ranking are based on a weighted linear combination of the three component scores. The weighting scheme affects the performance of the suggestion. The run tagged RAMARUN2 has category-priority weighting, i.e.  content = 0.09, category=0.9, context=0.01  
@@ -204,7 +194,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/24/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `2a66dcbf5c79910682596227c00a02b3` 
 - :material-text: **Run description:** Interest elements (intels: content words and interest categories) and their associated ratings are extracted from user profile and examples. RAMA (Reinforcement and Aging Modeling algorithm) builds user interest models by adjusting the relevance weights of intels. Specific and general interest models are built for each user with RAMA. Candidate attractions are retrieved using Yelp API 2.0 with query generated from the general interest model. Three component scores computed for each candidate attraction: content, category, and context scores. Candidate attraction scoring and ranking are based on a weighted linear combination of the three component scores. The weighting scheme affects the performance of the suggestion. The run tagged RUN1 has content-priority weighting:  content = 0.9, category=0.09, context=0.01.  
@@ -218,7 +207,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `ecb43ad17b6ced527f278eebf79801a5` 
 - :material-text: **Run description:** Our system deals with the main aspect of a contextual suggestion system to provide user-relevant and geographically-appropriate suggestions. We start by analyzing user profiles and generating bags of keywords depicting the user interests. Then, given a context, we query Google Places API with each bag, retrieving lists containing places in that context which fit in the specified genre. The API results are used for generating descriptions for each suggestion and top 50 suggestions for every profile-context pair are then used for creating our final run. 
@@ -232,7 +220,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `7af5f90cf771e0b767a786863540461d` 
 - :material-text: **Run description:** Our system deals with the main aspect of a contextual suggestion system to provide user-relevant and geographically-appropriate suggestions. We start by analyzing user profiles and generating bags of keywords depicting the user interests. These bags of keywords are then rearranged to prioritize important keywords within each bag. Then, given a context, we query Google Places API with each bag, retrieving lists containing places in that context which fit in the specified genre. The API results are used for generating descriptions for each suggestion and top 50 suggestions for every profile-context pair are then used for creating our final run. 
@@ -274,7 +261,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `ce7255fe6d4dfe72cb6323f253a9f144` 
 - :material-text: **Run description:** previous year approach published in "A Personalised Recommendation System for Context-Aware Suggestions" paper. 
@@ -288,7 +274,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `49ee313e6ce14c34c7593c5a74723729` 
 - :material-text: **Run description:** incorporated an information about place rating and distance from the center of city. 
@@ -302,7 +287,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 8/5/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `89f3c5c00b69452a219ea47f83922af7` 
 - :material-text: **Run description:** We build a ranker model using RankNet. We consider a pair <profile, preferences> as in traditional IR <query, document>. 
@@ -316,7 +300,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 8/5/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `1aa8a1d014015bb34f414f510f2e46b9` 
 - :material-text: **Run description:** We build a ranker model using Random Forest. We consider a pair <profile, preferences> as in traditional IR <query, document>. 
@@ -330,7 +313,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/17/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `9f5716344541e3447b3b78f597f102dd` 
 - :material-text: **Run description:** UDInfoCS2014_1 uses learning to ranking method to rank the candidate suggestions. The features are category similarities, various review similarities and etc. The ranker used is LamdaMART. 
@@ -344,7 +326,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/17/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b6ff81abdd3e142717d221abc8d20d75` 
 - :material-text: **Run description:** UDInfoCS2014_2 uses review similarity score to rank the candidate suggestions. It also applies a structured pattern to generate the short description for each suggestion. 
@@ -358,7 +339,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `55f11edefe1260a9042854a032e3b7f9` 
 - :material-text: **Run description:** We gathered a large collection of Foursquare venues for all the available contexts. We then generated the lists of suggestions using a novel method that generates coherent bundles of popular venues. Finally, we experimented with a summarisation method for generating the descriptions. 
@@ -372,7 +352,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `64f976640b8fbcde4a5d1d18c14b9644` 
 - :material-text: **Run description:** We gathered a large collection of Foursquare venues for all the available contexts, and computed various features for all of them as well as for the user profiles. We trained a ranking model using the 2013 data and applied learning to rank techniques to re-rank the suggestions. 
@@ -386,7 +365,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/29/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `bdf7b52b2badf5175bf0f5e060aee50f` 
 - :material-text: **Run description:** This run uses clustering to group suggestions with example attractions and makes recommendations based upon users preferred clusters incorperating only positive judgements. 
@@ -400,7 +378,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/29/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3186e2066767dc084e67c6e641f777f6` 
 - :material-text: **Run description:** This run uses clustering to group suggestions with example attractions and makes recommendations based upon users preferred clusters incorperating both positive and negative judgements. 
@@ -414,7 +391,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `befcbe054a96ea8ffb3f3a8052515f34` 
 - :material-text: **Run description:** We crawled Google Places near the context coordinates (radius 2.5 km) and sorted them by ranking. The description is generated by Yandex Rich Content API by using the Google Places Websites. The description is reduced to max. 330 characters. 
@@ -428,7 +404,6 @@
 - :material-format-text: **Track:** Contextual Suggestion 
 - :material-calendar: **Year:** 2014 
 - :material-upload: **Submission:** 7/28/2014 
-- :fontawesome-solid-user-gear: **Type:** openWeb 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3d1ef61cfb30e5031e18d198da9337e5` 
 - :material-text: **Run description:** We crawled Google Places near the context coordinates (radius 2.5 km) and sorted them by ranking. The description is generated by Yandex Rich Content API by using the Google Places Websites. The description is reduced to max. 330 characters. We added a average user rating of other users and types the user liked in examples. 

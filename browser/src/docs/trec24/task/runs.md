@@ -8,7 +8,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `5054a5ad297faa66365e2f9d1c0b5834` 
 - :material-text: **Run description:** Used the pretrained model (described in Zi Yang and Eric Nyberg: Leveraging Procedural Knowledge for Task-oriented Search), sorted by labeling sequence scores first. 
@@ -23,7 +22,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `545ffc8580f3b4ce14f1f3d1a62e4eb4` 
 - :material-text: **Run description:** Used the pretrained model (described in Zi Yang and Eric Nyberg: Leveraging Procedural Knowledge for Task-oriented Search), sorted by sequence labeling scores first. Stub articles from wikiHow included also. 
@@ -38,7 +36,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/2/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `19317aa6f8ab6692d2ffb0666d3d57d7` 
 - :material-text: **Run description:** Use basic 'session' count co-occurrence from the anchor text graph of ClueWeb12.  Here a session constitutes the destination URL (only links pointing at docs in ClueWeb were maintained). Queries are matched to seed queries including exact match, exact match to original query where function words are removed from original query only, and queries that are a superset of the original query after function words have been removed. Any query co-occurring in a session is considered a candidate.  Globally frequent queries are removed as are queries whose cosine similarity with the original query (after function words removed) is zero or whose length is more than 4x the length of the original query (after function words removed). Final ranking is by cosine similarity to original query with function words removed weighted by number of sessions containing query. 
@@ -52,7 +49,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 8/28/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** web 
 - :material-fingerprint: **MD5:** `280a557a7004acdf177e5cf4786ff971` 
 - :material-text: **Run description:** first run of ad hoc task 
@@ -67,7 +63,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 8/28/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `84f5d0e10a6980dcf5b5fc123fa7a00e` 
 - :material-text: **Run description:** the first run of task understanding. 
@@ -82,7 +77,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `f53a8099a9dc93eb1326af070a8a75ea` 
 - :material-text: **Run description:** Used the pretrained model (described in Zi Yang and Eric Nyberg: Leveraging Procedural Knowledge for Task-oriented Search), sorted by task retrieval scores first. 
@@ -97,7 +91,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `bacdcb912df88c303cd3943bb95e8e80` 
 - :material-text: **Run description:** the second run of task understanding 
@@ -112,7 +105,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/2/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `2ac98ea557df20a50ab159f377435b39` 
 - :material-text: **Run description:** the second try of task completion 
@@ -127,7 +119,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `95eea92d21c15a2d629e2a0825e8b8bf` 
 - :material-text: **Run description:** the THIRD run of task understanding 
@@ -142,7 +133,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/2/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `03b0a07807261f8ea83135122a37dc11` 
 - :material-text: **Run description:** the second try of task completion 
@@ -157,7 +147,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `dedb066526e1282f68cb4802cb2b3b82` 
 - :material-text: **Run description:** Extracts phrases from ClueWeb12 collection and ranks these phrases on their information retrieval potential. 
@@ -171,7 +160,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `b7b6d9b84a91a13b96a661657cd551b5` 
 - :material-text: **Run description:** Trims the original queries if necessary to retrieve better phrases from the ClueWeb12 collection and ranks these phrases on their information retrieval potential. 
@@ -185,7 +173,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `0c7a843e7419fd22cc871eec1d40f3af` 
 - :material-text: **Run description:** Uses the Task Understanding run(udelRun2) to retrieve top 100 documents for every key-phrase. These documents are pooled together and ranked on the basis of the number of time these documents were retrieved. It is based on the assumption that if a document is retrieved by multiple key-phrases, it is more relevant to the topic.  
@@ -199,7 +186,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/2/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `bf28baa44561839502c1e3205d4ca5fe` 
 - :material-text: **Run description:** We used AOL queries. They were splitted to sessions by a simple time based method. 
@@ -213,7 +199,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** understanding 
 - :material-fingerprint: **MD5:** `850edbfc7d9903da33d617a2dc419724` 
 - :material-text: **Run description:** extract related queries using:     * googleSuggest     * bing     * aol     * interestgraph     * wiki     * google     * freebase     * wikidata     * netspeak     * chatnoir 
@@ -227,7 +212,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** web 
 - :material-fingerprint: **MD5:** `1ea60d8a03b7da218934d73e0b6ce1ae` 
 - :material-text: **Run description:** axiomatic approach of chatnoir2 baseline 
@@ -241,7 +225,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** web 
 - :material-fingerprint: **MD5:** `308099f85a291af1dfde2354f298c638` 
 - :material-text: **Run description:** chatnoir2 baseline without top 20 of run 1 
@@ -255,7 +238,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** NOTUSED 
 - :material-text-search: **Task:** web 
 - :material-fingerprint: **MD5:** `c716bc7b05192f2cbcab69ddae905125` 
 - :material-text: **Run description:** tfidf baseline without top 20 of run 1 & 2 
@@ -269,7 +251,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `c25cfde2eaf407ad98b524950f3b8c5b` 
 - :material-text: **Run description:** interleaved combination of results 
@@ -283,7 +264,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `c92368563964c6fd0565e62dae22c22e` 
 - :material-text: **Run description:** combination based in top10 of each query without top 20 from run 1 
@@ -297,7 +277,6 @@
 - :material-format-text: **Track:** Tasks 
 - :material-calendar: **Year:** 2015 
 - :material-upload: **Submission:** 9/1/2015 
-- :fontawesome-solid-user-gear: **Type:** USED 
 - :material-text-search: **Task:** completion 
 - :material-fingerprint: **MD5:** `5825ca72195a2f85821644a7417d44ac` 
 - :material-text: **Run description:** interleaved without top 20 of run 1 and run 2 
