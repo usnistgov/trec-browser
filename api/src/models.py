@@ -3,11 +3,14 @@ import json
 
 
 def is_json(json_data):
-    try:
-        json.loads(json_data)
-    except ValueError as err:
+    if json_data:
+        try:
+            json.loads(json_data)
+        except ValueError as err:
+            return False
+        return True
+    else:
         return False
-    return True
 
 
 class Run(db.Model):
@@ -119,10 +122,10 @@ class Run(db.Model):
                 {
                     'data':{
                         'ir_datasets': ir_datasets,
-                        'corpus': corpus if corpus else '',
-                        'topics': topics if topics else '',
-                        'qrels': qrels if qrels else '',
-                        'other': other if other else '',
+                        'corpus': corpus,
+                        'topics': topics,
+                        'qrels': qrels,
+                        'other': other,
                     }
                 }
             )
@@ -229,10 +232,10 @@ class Dataset(db.Model):
 
         return {
             'ir_datasets': ir_datasets,
-            'corpus': corpus if corpus else '',
-            'topics': topics if topics else '',
-            'qrels': qrels if qrels else '',
-            'other': other if other else '',
+            'corpus': corpus,
+            'topics': topics,
+            'qrels': qrels,
+            'other': other,
         }
 
 
@@ -275,7 +278,6 @@ class Publication(db.Model):
 class Result(db.Model):
 
     __tablename__ = 'results'
-
 
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
