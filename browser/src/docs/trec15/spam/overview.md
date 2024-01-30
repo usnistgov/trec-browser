@@ -8,7 +8,7 @@ The 2006 track will reprise the 2005 experiments with new filters and data, and 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 

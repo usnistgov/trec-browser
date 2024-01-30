@@ -10,7 +10,7 @@ To make biomedical information more accessible and to meet the requirements for 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Matthew S. Simpson - U.S. National Library of Medicine 
 - Ellen M. Voorhees - National Institute of Standards and Technology 
@@ -31,7 +31,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adriel Dean-Hall - University of Waterloo 
 - Charles L. A. Clarke - University of Waterloo 
@@ -54,7 +54,7 @@ This year represents the fourth iteration of the TREC Microblog track, which has
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin - University of Maryland 
 - Yulu Wang - University of Maryland 
@@ -76,7 +76,7 @@ The goal of the TREC Web track over the past few years has been to explore and e
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kevyn Collins-Thompson - University of Michigan 
 - Craig Macdonald - University of Glasgow 
@@ -99,7 +99,7 @@ The TREC Federated Web Search track facilitates research on federated web search
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Thomas Demeester - Ghent University 
 - Dolf Trieschnigg - University of Twente 
@@ -122,7 +122,7 @@ The Knowledge Base Acceleration (KBA) track ran in TREC 2012, 2013, and 2014 as 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank - Diffeo 
 - Max Kleiman-Weiner - Diffeo 
@@ -145,7 +145,7 @@ News events such as protests, accidents or natural disasters represent a unique 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam - Northeastern University 
 - Matthew Ekstrand-Abueg - Northeastern University 
@@ -169,7 +169,7 @@ The TREC Session track ran for the fourth time in 2014. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ben Carterette - University of Delaware 
 - Evangelos Kanoulas - Google 

@@ -8,7 +8,7 @@ The OpenSearch track provides researchers the opportunity to have their retrieva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Rolf Jagerman, University of Amsterdam 
 - Martin de Rijke, University of Amsterdam 

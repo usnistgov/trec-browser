@@ -8,7 +8,7 @@ The enterprise track began in TREC 2005 as the successor to the web track, and t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Soboroff, NIST 
 - A.P. de Vries, CWI 

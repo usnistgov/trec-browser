@@ -10,7 +10,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 
@@ -31,7 +31,7 @@ The Million Query (1MQ) track ran for the second time in TREC 2008. The track is
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts 
 - J. A. Aslam, Northeastern University 
@@ -54,7 +54,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - K. Balog, University of Amsterdam 
 - I. Soboroff, NIST 
@@ -78,7 +78,7 @@ TREC 2008 was the third year of the Legal Track, which focuses on evaluation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. W. Oard, University of Maryland, College Park 
 - B. Hedin, H5 
@@ -100,7 +100,7 @@ There were 3 main goals for this track: 1. Target evaluating and comparing just 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley, Sabir Research 
 - S. Robertson, Microsoft 

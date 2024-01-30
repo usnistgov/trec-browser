@@ -8,7 +8,7 @@ The vision of TREC Complex Answer Retrieval is to create complex long-form answe
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz, University of New Hampshire 
 - John Foley, Smith College 

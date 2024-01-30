@@ -8,7 +8,7 @@ The TREC-5 filtering track, an evaluation of binary text classification systems,
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. D. Lewis, AT&T Labs-Research 
 

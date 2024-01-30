@@ -8,7 +8,7 @@ Cross-Language Information Retrieval (CLIR) was a new task in the TREC-6 evaluat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Schauble (Swiss Federal Institute of Technology (ETH)) 
 - P. Sheridan (Swiss Federal Institute of Technology (ETH)) 

@@ -8,7 +8,7 @@ The interactive track focusses the adhoc task on the process of doing searches i
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 

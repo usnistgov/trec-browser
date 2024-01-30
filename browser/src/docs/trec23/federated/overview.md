@@ -8,7 +8,7 @@ The TREC Federated Web Search track facilitates research on federated web search
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Thomas Demeester - Ghent University 
 - Dolf Trieschnigg - University of Twente 

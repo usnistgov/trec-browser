@@ -10,7 +10,7 @@ The Incident Streams track is designed to bring together academia and industry t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 
@@ -31,7 +31,7 @@ The News track features modern search tasks in the news domain. In partnership w
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, NIST 
 - Shudong Huang, NIST 
@@ -52,7 +52,7 @@ The Fair Ranking track focuses on building two-sided systems that offer fair exp
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Michael Ekstrand, Boise State University 
 - Isaac Johnson, Wikimedia 
@@ -74,7 +74,7 @@ The Deep Learning track focuses on IR tasks where a large training set is availa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Daniel Campos, University of Illinois 
 - Nick Craswell, Microsoft 
@@ -97,7 +97,7 @@ The goal of the new Clinical Trials track is to focus research on the clinical t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
 - William Hersh, Oregon Health and Science University 
@@ -119,7 +119,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jamie Callan, Carnegie Mellon University 
 - Jeff Dalton, University of Glasgow 
@@ -140,7 +140,7 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charlie Clarke, University of Waterloo 
 - Maria Maistro, University of Copenhagen 
@@ -161,7 +161,7 @@ The aim of the Podcasts track is to develop methods for information retrieval an
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ann Clifton, Spotify 
 - Ben Carterette, Spotify 

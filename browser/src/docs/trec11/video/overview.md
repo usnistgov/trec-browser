@@ -8,7 +8,7 @@ TREC-2002 saw the second running of the Video Track, the goal of which was to pr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City University 
 - P. Over, National Institute of Standards and Technology 

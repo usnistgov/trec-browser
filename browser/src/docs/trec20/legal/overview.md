@@ -8,7 +8,7 @@ The TREC 2011 Legal Track consisted of a single task: the learning task, which c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 
 - Gordon V. Cormack, University of Waterloo 

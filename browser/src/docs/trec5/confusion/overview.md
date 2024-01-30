@@ -8,7 +8,7 @@
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Kantor (Rutgers University) 
 - E. Voorhees (National Institute of Standards and Technology) 

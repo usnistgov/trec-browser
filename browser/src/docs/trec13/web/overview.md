@@ -8,7 +8,7 @@ This year's main experiment involved processing a mixed query stream, with an ev
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, MSR Cambridge 
 - D. Hawking, CSIRO 

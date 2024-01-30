@@ -8,7 +8,7 @@ This year represents the fourth iteration of the TREC Microblog track, which has
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin - University of Maryland 
 - Yulu Wang - University of Maryland 

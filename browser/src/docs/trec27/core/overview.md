@@ -8,7 +8,7 @@ The primary goals of the proposed core track are three-fold: (a) to bring togeth
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Amsterdam 
 - James Allan, University of Massachusetts 

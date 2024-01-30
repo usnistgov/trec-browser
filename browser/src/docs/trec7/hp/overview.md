@@ -8,7 +8,7 @@ TREC 7 is the second year the High-Precision (HP) track has been run. It is an a
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley (SabIR Research, Inc.) 
 

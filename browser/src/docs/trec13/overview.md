@@ -10,7 +10,7 @@ The TREC 2004 Genomics Track consisted of two tasks. The first task was a standa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W.R. Hersh, Oregon Health & Science University 
 - R.T. Bhuptiraju, Oregon Health & Science University 
@@ -34,7 +34,7 @@ The HARD track of TREC 2004 aims to improve the accuracy of information retrieva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J.Allan, University of Massachusetts Amherst 
 
@@ -53,7 +53,7 @@ The Novelty Track is designed to investigate systems' abilities to locate releva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Soboroff, NIST 
 
@@ -72,7 +72,7 @@ The TREC 2004 Question Answering track contained a single task in which question
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 
@@ -91,7 +91,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 
@@ -110,7 +110,7 @@ The goal of the Terabyte Track is to develop an evaluation methodology for terab
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Clarke, University of Waterloo 
 - N. Craswell, Microsoft Research 
@@ -131,7 +131,7 @@ This year's main experiment involved processing a mixed query stream, with an ev
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, MSR Cambridge 
 - D. Hawking, CSIRO 

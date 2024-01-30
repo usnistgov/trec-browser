@@ -8,7 +8,7 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adriel Dean-Hall - University of Waterloo 
 - Charles L. A. Clarke - University of Waterloo 

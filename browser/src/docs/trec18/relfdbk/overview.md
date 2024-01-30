@@ -8,10 +8,6 @@ In the second year, the concentration shifted to finding good sets of docs to ba
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
-
--  
-
 :material-text-search: **Tasks:**
 
 - `phase1`: Phase 1 

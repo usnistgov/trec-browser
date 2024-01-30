@@ -8,7 +8,7 @@ The TREC Interactive Track has the goal of investigating interactive information
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health Sciences University 
 - Paul Over, National Institute of Standards and Technology 

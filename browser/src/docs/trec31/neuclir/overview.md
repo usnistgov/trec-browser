@@ -8,7 +8,7 @@ Cross-language Information Retrieval (CLIR) has been studied at TREC and subsequ
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Dawn Lawrie, Johns Hopkins University 
 - Sean MacAvaney, University of Glasgow 

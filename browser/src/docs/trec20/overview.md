@@ -10,7 +10,7 @@ The TREC Entity track aimed to build test collections to evaluate entity-oriente
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, NTNU 
 - Pavel Serdyukov, Yandex 
@@ -31,7 +31,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Iadh Ounis, University of Glasgow 
 - Craig Macdonald, University of Glasgow 
@@ -53,7 +53,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charles L. A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
@@ -75,7 +75,7 @@ The TREC 2011 Legal Track consisted of a single task: the learning task, which c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 
 - Gordon V. Cormack, University of Waterloo 
@@ -97,7 +97,7 @@ The third year of the Chemical IR evaluation track benefitted from the support o
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mihai Lupu, Vienna University of Technology 
 - Zhao Jiashu, York University 
@@ -123,9 +123,8 @@ The search task within the TREC 2011 Medical Records track  was an ad hoc search
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
--  
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.trec-cds.org/`](https://www.trec-cds.org/) 
@@ -142,7 +141,7 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Sheffield 
 - Mark Hall, University of Sheffield 
@@ -165,9 +164,8 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
--  
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/crowd.html`](https://trec.nist.gov/data/crowd.html) 

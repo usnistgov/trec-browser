@@ -8,7 +8,7 @@ The TREC Entity track aimed to build test collections to evaluate entity-oriente
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, NTNU 
 - Pavel Serdyukov, Yandex 

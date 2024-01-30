@@ -8,7 +8,7 @@ The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Martin Braschler (Eurospider Information Tech. AG) 
 - Carol Peters (Istituto Elaborazione Informazione) 

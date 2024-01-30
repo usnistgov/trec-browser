@@ -8,7 +8,7 @@ TREC's Spam Track uses a standard testing framework that presents a set of chron
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 

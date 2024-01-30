@@ -8,7 +8,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - T. Strzalkowski (GE Corporate Research and Development) 
 - K. Sparck Jones (University of Cambridge) 

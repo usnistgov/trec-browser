@@ -8,7 +8,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jamie Callan, Carnegie Mellon University 
 - Jeff Dalton, University of Glasgow 

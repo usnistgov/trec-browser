@@ -8,7 +8,7 @@ In making clinical decisions, physicians often seek out information about how to
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, U.S. National Library of Medicine (NIH) 
 - Matthew S. Simpson, U.S. National Library of Medicine (NIH) 

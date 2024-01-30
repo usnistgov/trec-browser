@@ -8,7 +8,7 @@ This is the third year of the TREC relevance feedback track. The first year conc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Chris Buckley 
 - Mark Smucker 

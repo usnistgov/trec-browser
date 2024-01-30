@@ -10,7 +10,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, National Institute of Standards and Technology (NIST) 
 - Iadh Ounis, Craig Macdonald, University of Glasgow 
@@ -31,7 +31,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charles L. A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
@@ -52,7 +52,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adriel Dean-Hall, University of Waterloo 
 - Charles L. A. Clarke, University of Waterloo 
@@ -75,7 +75,7 @@ The TREC Medical Records track fosters research that allows electronic health re
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 - William Hersh, Oregon Health & Science University 
@@ -95,7 +95,7 @@ The TREC Session track ran for the third time in 2012. The track has the primary
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, Google 
 - Ben Carterette, University of Delaware 
@@ -118,7 +118,7 @@ In 2012, the Crowdsourcing track had two separate tasks: a text relevance assess
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mark D. Smucker, University of Waterloo 
 - Gabriella Kazai, Microsoft Research 
@@ -139,7 +139,7 @@ The Knowledge Base Acceleration track in TREC 2012 focused on a single task: fil
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank, Massachusetts Institute of Technology 
 - Max Kleiman-Weiner, Massachusetts Institute of Technology 

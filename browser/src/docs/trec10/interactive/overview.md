@@ -8,7 +8,7 @@ In the TREC 2001 Interactive Track six research teams carried out observational 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health Sciences Univ. 
 - P. Over, NIST 

@@ -8,7 +8,7 @@ The TREC Chemical IR Track is a domain-specific evaluation campaign working with
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mihai Lupu, York University 
 - John Tait, York University 

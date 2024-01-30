@@ -8,7 +8,7 @@ An automatic spam filter classifies a chronological sequence of email messages a
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 - T. Lynam, University of Waterloo 

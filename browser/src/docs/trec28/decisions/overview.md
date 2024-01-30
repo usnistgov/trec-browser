@@ -8,7 +8,7 @@ Search engine results underpin many consequential decision making tasks. Example
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mustafa Abualsaud, University of Waterloo 
 - Mark D. Smucker, University of Waterloo 

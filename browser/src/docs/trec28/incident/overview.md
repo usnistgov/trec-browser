@@ -8,7 +8,7 @@ The ubiquity of mobile internet-enabled devices combined with wide-spread social
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Richard McCreadie, University of Glasgow 
 - Cody Buntain, InfEco Lab, New Jersey Institute of Technology (NJIT) 

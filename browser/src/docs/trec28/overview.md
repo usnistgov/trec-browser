@@ -10,7 +10,7 @@ The vision of TREC Complex Answer Retrieval is to create complex long-form answe
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz, University of New Hampshire 
 - John Foley, Smith College 
@@ -30,7 +30,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Nick Craswell,  Microsoft AI and Research 
 - Bhaskar Mitra, Microsoft AI and Research 
@@ -53,7 +53,7 @@ Precision medicine is a medical paradigm in which treatments are customized enti
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
@@ -79,7 +79,7 @@ The importance of conversation and conversational models for complex information
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jeffrey Dalton, University of Glasgow 
 - Chenyan Xiong, Microsoft Research 
@@ -100,7 +100,7 @@ The News track focuses on information retrieval in the service of helping people
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, NIST 
 - Shudong Huang, NIST 
@@ -121,7 +121,7 @@ Search engine results underpin many consequential decision making tasks. Example
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mustafa Abualsaud, University of Waterloo 
 - Mark D. Smucker, University of Waterloo 
@@ -144,7 +144,7 @@ The goal of the TREC Fair Ranking track was to develop a benchmark for evaluatin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asia J. Biega, Microsoft Research Montréal 
 - Fernando Diaz, Microsoft Research Montréal 
@@ -166,7 +166,7 @@ The ubiquity of mobile internet-enabled devices combined with wide-spread social
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Richard McCreadie, University of Glasgow 
 - Cody Buntain, InfEco Lab, New Jersey Institute of Technology (NJIT) 

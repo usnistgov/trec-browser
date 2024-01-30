@@ -8,7 +8,7 @@ Unexpected news events such as earthquakes or natural disasters represent a uniq
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam, Northeastern University 
 - Matthew Ekstrand-Abueg, Northeastern University 

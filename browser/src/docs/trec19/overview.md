@@ -10,7 +10,7 @@ The Blog track aims to investigate the information seeking behaviour in the blog
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Iadh Ounis, University of Glasgow 
 - Ian Soboroff, National Institute of Standards and Technology (NIST) 
@@ -30,7 +30,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charles L.A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
@@ -52,7 +52,7 @@ The TREC Chemical IR Track is a domain-specific evaluation campaign working with
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mihai Lupu, York University 
 - John Tait, York University 
@@ -74,7 +74,7 @@ This is the third year of the TREC relevance feedback track. The first year conc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Chris Buckley 
 - Mark Smucker 
@@ -95,7 +95,7 @@ TREC 2010 was the fifth year of the Legal Track, which focuses on evaluation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Gordon V. Cormack, University of Waterloo 
 - Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 
@@ -117,7 +117,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Sheffield 
 - Paul Clough, University of Sheffield 
@@ -139,7 +139,7 @@ The overall goal of the track is to perform entity-oriented search tasks on the 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, Norwegian University of Science and Technology (NTNU) 
 - Pavel Serdyukov, Yandex, Russia 

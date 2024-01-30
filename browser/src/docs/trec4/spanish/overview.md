@@ -8,7 +8,7 @@ The multilingual track represents an extension of the adhoc task to a second lan
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 

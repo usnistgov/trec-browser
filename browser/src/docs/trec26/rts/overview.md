@@ -8,7 +8,7 @@ The TREC 2017 Real-Time Summarization (RTS) Track is the second iteration of a c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Waterloo 
 - Salman Mohammed, University of Waterloo 

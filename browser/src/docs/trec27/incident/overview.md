@@ -8,7 +8,7 @@ The Text Retrieval Conference (TREC) Incident Streams track is a new initiative 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Richard McCreadie, University of Glasgow 
 - Cody Buntain, New York University 

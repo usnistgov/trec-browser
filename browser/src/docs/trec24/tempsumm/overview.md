@@ -8,7 +8,7 @@ There are many summarization scenarios that require updates to be issued to user
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam 
 - Fernando Diaz 

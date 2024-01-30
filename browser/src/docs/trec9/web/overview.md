@@ -8,7 +8,7 @@ TREC-9 marked a broadening of the range of of search task types represented in t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking, CSIRO Mathematical and Information Sciences 
 

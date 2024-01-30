@@ -8,7 +8,7 @@ The goal of the Blog track is to explore the information seeking behaviour in th
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Macdonald, University of Glasgow 
 - I. Ounis, University of Glasgow 

@@ -10,7 +10,7 @@ TREC-9 marked a broadening of the range of of search task types represented in t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking, CSIRO Mathematical and Information Sciences 
 
@@ -29,7 +29,7 @@ The SDR track fosters research on retrieval methodologies for spoken documents (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Garofolo, NIST 
 - J. Lard, NIST 
@@ -50,7 +50,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees, NIST 
 
@@ -69,7 +69,7 @@ For TREC-9 the cross-language information retrieval task was to utilize English 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - F. Gey, A. Chen, University of California, Berkeley 
 
@@ -88,7 +88,7 @@ The TREC-9 filtering track measures the ability of systems to build persistent u
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
 - D.A. Hull, WhizzBang Labs 
@@ -108,7 +108,7 @@ The Query Track in TREC-9 is unlike the other tracks in TREC. The other tracks a
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Chris Buckley, Sabir Research, Inc. 
 
@@ -127,7 +127,7 @@ The TREC Interactive Track has the goal of investigating interactive information
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health Sciences University 
 - Paul Over, National Institute of Standards and Technology 

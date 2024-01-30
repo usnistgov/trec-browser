@@ -8,7 +8,7 @@ New in TREC-2001 was the Video Trak, the goal of whih was to promote progress in
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City Univ. 
 - P. Over, NIST 

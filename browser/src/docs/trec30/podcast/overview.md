@@ -8,7 +8,7 @@ The aim of the Podcasts track is to develop methods for information retrieval an
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ann Clifton, Spotify 
 - Ben Carterette, Spotify 

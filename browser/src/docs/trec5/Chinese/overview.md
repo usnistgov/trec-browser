@@ -8,7 +8,7 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A. Smeaton (Dublin City University) 
 - R. Wilkinson (Royal Melbourne Institute of Technology) 

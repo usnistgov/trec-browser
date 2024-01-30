@@ -8,7 +8,7 @@ The TREC Web Track explores and evaluates Web retrieval technologies. Currently,
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
 - N. Craswell, Microsoft 

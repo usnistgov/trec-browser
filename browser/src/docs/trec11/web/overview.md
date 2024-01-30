@@ -8,7 +8,7 @@ The TREC-2002 Web Track moved away from non-Web relevance ranking and towards We
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, CSIRO 
 - and D. Hawking, CSIRO 

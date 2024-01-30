@@ -8,7 +8,7 @@ The Blog track began this year, with the aim to explore the information seeking 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 

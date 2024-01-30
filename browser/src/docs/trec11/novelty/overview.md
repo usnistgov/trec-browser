@@ -8,7 +8,7 @@ The TREC 2002 novelty track is designed to investigate systems' abilities to loc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Harman, National Institute of Standards and Technology 
 

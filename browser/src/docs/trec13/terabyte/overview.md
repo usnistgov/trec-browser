@@ -8,7 +8,7 @@ The goal of the Terabyte Track is to develop an evaluation methodology for terab
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Clarke, University of Waterloo 
 - N. Craswell, Microsoft Research 

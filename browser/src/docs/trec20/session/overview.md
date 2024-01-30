@@ -8,7 +8,7 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Sheffield 
 - Mark Hall, University of Sheffield 

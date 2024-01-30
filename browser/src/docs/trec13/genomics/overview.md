@@ -8,7 +8,7 @@ The TREC 2004 Genomics Track consisted of two tasks. The first task was a standa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W.R. Hersh, Oregon Health & Science University 
 - R.T. Bhuptiraju, Oregon Health & Science University 

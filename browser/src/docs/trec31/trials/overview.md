@@ -8,7 +8,7 @@ The goal of the Clinical Trials track is to focus research on the clinical trial
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
 - William Hersh, Oregon Health and Science University 

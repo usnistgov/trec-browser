@@ -10,7 +10,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -30,7 +30,7 @@ There are many times when users want to search separate text collections as if t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 
@@ -49,7 +49,7 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -69,7 +69,7 @@ The TREC-5 filtering track, an evaluation of binary text classification systems,
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. D. Lewis, AT&T Labs-Research 
 
@@ -88,7 +88,7 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A. Smeaton (Dublin City University) 
 - R. Wilkinson (Royal Melbourne Institute of Technology) 
@@ -108,7 +108,7 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A. Smeaton (Dublin City University) 
 - R. Wilkinson (Royal Melbourne Institute of Technology) 
@@ -128,7 +128,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - T. Strzalkowski (GE Corporate Research and Development) 
 - K. Sparck Jones (University of Cambridge) 
@@ -148,7 +148,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Kantor (Rutgers University) 
 - E. Voorhees (National Institute of Standards and Technology) 
@@ -168,7 +168,7 @@ The high-level goal of the Interactive Track in TREC-5 was the investigation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Over (National Institute of Standards and Technology) 
 

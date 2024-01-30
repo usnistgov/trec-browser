@@ -8,7 +8,7 @@ News events such as protests, accidents or natural disasters represent a unique 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam - Northeastern University 
 - Matthew Ekstrand-Abueg - Northeastern University 

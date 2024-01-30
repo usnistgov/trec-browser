@@ -10,7 +10,7 @@ The Knowledge Base Acceleration (KBA) track in TREC 2013 expanded the entity-cen
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank, Massachusetts Institute of Technology 
 - Steven J. Bauer, Massachusetts Institute of Technology 
@@ -36,7 +36,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adriel Dean-Hall, University of Waterloo 
 - Charles L.A. Clarke, University of Waterloo 
@@ -60,7 +60,7 @@ The goal of the TREC Web track is to explore and evaluate retrieval approaches o
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kevyn Collins-Thompson, University of Michigan 
 - Paul Bennett, Fernando Diaz, Microsoft Research 
@@ -82,7 +82,7 @@ The TREC Federated Web Search track is intended to promote research related to f
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Thomas Demeester, Ghent Univesity 
 - Dolf Trieschnigg, University of Twente 
@@ -104,7 +104,7 @@ This year represents the third iteration of the TREC Microblog track, which bega
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Maryland 
 - Miles Efron, University of Illinois 
@@ -124,7 +124,7 @@ Unexpected news events such as earthquakes or natural disasters represent a uniq
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam, Northeastern University 
 - Matthew Ekstrand-Abueg, Northeastern University 
@@ -147,7 +147,7 @@ The TREC Session track ran for the fourth time in 2013. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ben Carterette, University of Delaware 
 - Ashraf Bah, University of Delaware 
@@ -170,7 +170,7 @@ In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a sin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mark D. Smucker, University of Waterloo 
 - Gabriella Kazai, Microsoft Research 

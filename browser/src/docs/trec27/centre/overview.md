@@ -8,7 +8,7 @@ The CLEF-NTCIR-TREC Reproducibility track (CENTRE) is a research replication and
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, National Institute of Standards and Technology 
 - Nicola Ferro, University of Padua 

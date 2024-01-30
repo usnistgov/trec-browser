@@ -8,7 +8,7 @@ The primary goal of the TREC Common Core track is three-fold: (a) bring the info
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Amsterdam 
 - James Allan, University of Massachusetts 

@@ -8,7 +8,7 @@ The News track focuses on information retrieval in the service of helping people
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, NIST 
 - Shudong Huang, NIST 

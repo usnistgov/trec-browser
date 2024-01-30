@@ -8,7 +8,7 @@ The SDR track fosters research on retrieval methodologies for spoken documents (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Garofolo, NIST 
 - J. Lard, NIST 

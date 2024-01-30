@@ -8,7 +8,7 @@ For 2020, we again adopted an academic search task, where we have a corpus of ac
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asia J. Biega, Microsoft Research Montreal 
 - Fernando Diaz, Montreal Institute for Learning Algorithms 

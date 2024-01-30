@@ -8,7 +8,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, Microsoft Research Cambridge 
 - A.P. de Vries, CWI 

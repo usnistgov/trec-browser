@@ -8,7 +8,7 @@ The emergence of real world applications for text collections orders of magnitud
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking (Australian National University) 
 - P. Thistlewaite (Australian National University) 

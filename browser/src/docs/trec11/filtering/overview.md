@@ -8,7 +8,7 @@ Given a topic description and some example relevant documents, build a filtering
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
 - I. Soboroff, National Institute of Standards and Technology 

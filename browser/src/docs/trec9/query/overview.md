@@ -8,7 +8,7 @@ The Query Track in TREC-9 is unlike the other tracks in TREC. The other tracks a
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Chris Buckley, Sabir Research, Inc. 
 

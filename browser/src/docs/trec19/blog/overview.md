@@ -8,7 +8,7 @@ The Blog track aims to investigate the information seeking behaviour in the blog
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Iadh Ounis, University of Glasgow 
 - Ian Soboroff, National Institute of Standards and Technology (NIST) 

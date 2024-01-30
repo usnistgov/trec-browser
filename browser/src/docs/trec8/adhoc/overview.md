@@ -8,7 +8,7 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 

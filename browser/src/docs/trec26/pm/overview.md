@@ -8,7 +8,7 @@ For many complex diseases, there is no “one size fits all” solutions for pat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 

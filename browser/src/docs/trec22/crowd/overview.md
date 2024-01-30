@@ -8,7 +8,7 @@ In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a sin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mark D. Smucker, University of Waterloo 
 - Gabriella Kazai, Microsoft Research 

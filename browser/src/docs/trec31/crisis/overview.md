@@ -8,7 +8,7 @@ The CrisisFACTS track focuses on temporal summarization for first responders in 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Cody Buntain, University of Maryland 
 - Richard McCreadie, University of Glasgow 

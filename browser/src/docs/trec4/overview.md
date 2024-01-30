@@ -10,7 +10,7 @@ The adhoc task is represented by new topics for known documents. 50 new test top
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 
@@ -29,7 +29,7 @@ The database merging task also represents a focussing of the adhoc task. In this
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 
@@ -48,7 +48,7 @@ In TREC the routing task is represented by using known topics and known relevant
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 
@@ -67,7 +67,7 @@ The multilingual track represents an extension of the adhoc task to a second lan
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 
@@ -86,7 +86,7 @@ The filtering track represents a variation of the routing task, and was designed
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Lewis (AT&T Research) 
 
@@ -105,7 +105,7 @@ The confusion track represents an extension of the current tasks to deal with co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 
@@ -124,7 +124,7 @@ The interactive track focusses the adhoc task on the process of doing searches i
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 

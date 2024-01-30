@@ -8,7 +8,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 - H.T. Dang, NIST 

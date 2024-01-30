@@ -8,7 +8,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 

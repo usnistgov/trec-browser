@@ -8,7 +8,7 @@ The database merging task also represents a focussing of the adhoc task. In this
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 

@@ -8,7 +8,7 @@ For TREC-9 the cross-language information retrieval task was to utilize English 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - F. Gey, A. Chen, University of California, Berkeley 
 

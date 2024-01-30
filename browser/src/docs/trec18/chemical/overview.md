@@ -8,7 +8,7 @@ TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluati
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Lupu, Information Retrieval Facility (IRF) 
 - F. Piroi, Information Retrieval Facility (IRF) 

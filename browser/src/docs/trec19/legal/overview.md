@@ -8,7 +8,7 @@ TREC 2010 was the fifth year of the Legal Track, which focuses on evaluation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Gordon V. Cormack, University of Waterloo 
 - Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 

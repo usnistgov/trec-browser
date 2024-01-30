@@ -8,7 +8,7 @@ The News track features modern search tasks in the news domain. In partnership w
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, NIST 
 - Shudong Huang, NIST 

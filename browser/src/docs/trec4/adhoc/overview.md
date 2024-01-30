@@ -8,7 +8,7 @@ The adhoc task is represented by new topics for known documents. 50 new test top
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Donna Harman, National Institute of Standards and Technology (NIST) 
 

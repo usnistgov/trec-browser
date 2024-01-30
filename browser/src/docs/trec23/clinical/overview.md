@@ -8,7 +8,7 @@ To make biomedical information more accessible and to meet the requirements for 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Matthew S. Simpson - U.S. National Library of Medicine 
 - Ellen M. Voorhees - National Institute of Standards and Technology 

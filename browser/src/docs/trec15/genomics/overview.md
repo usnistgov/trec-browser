@@ -8,7 +8,7 @@ The TREC Genomics Track implemented a new task in 2006 that focused on passage r
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A.M. Cohen, Oregon Health & Science University 

@@ -8,7 +8,7 @@ The Deep Learning track focuses on IR tasks where a large training set is availa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Daniel Campos, University of Illinois 
 - Nick Craswell, Microsoft 

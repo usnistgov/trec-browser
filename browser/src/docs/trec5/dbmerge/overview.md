@@ -8,7 +8,7 @@ There are many times when users want to search separate text collections as if t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 

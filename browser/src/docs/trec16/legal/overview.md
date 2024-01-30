@@ -8,7 +8,7 @@ TREC 2007 was the second year of the Legal Track, which focuses on evaluation of
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Tomlinson, Open Text Corporation 
 - D. W. Oard, University of Maryland, College Park 

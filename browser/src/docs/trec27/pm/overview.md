@@ -8,7 +8,7 @@ The fundamental philosophy behind precision medicine is that for many complex di
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 

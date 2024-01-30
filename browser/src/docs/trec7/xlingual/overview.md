@@ -8,7 +8,7 @@ This year, the TREC cross-language retrieval track took place for the second tim
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Braschler (Eurospider Information Technology) 
 - J. Krause (Informationszentrum Sozialwissenschaften) 

@@ -10,7 +10,7 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -30,7 +30,7 @@ The TREC-8 filtering track measures the ability of systems to build persistent u
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hull (Xerox Research Centre Europe) 
 - S. Robertson (Microsoft Research) 
@@ -50,7 +50,7 @@ The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Martin Braschler (Eurospider Information Tech. AG) 
 - Carol Peters (Istituto Elaborazione Informazione) 
@@ -71,7 +71,7 @@ The Query Track in TREC-8 is a bit different from all the other tracks. It is a 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley (SabIr Research, Inc.) 
 - J. Walz (SabIr Research, Inc.) 
@@ -91,7 +91,7 @@ The TREC-8 Question Answering track was the first large scale evaluation of doma
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Tice (National Institute of Standards and Technology) 
@@ -111,7 +111,7 @@ SDR involves the search and retrieval of excerpts from spoken audio recordings u
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Garofolo (National Institute of Standards and Technology) 
 - C. Auzanne (National Institute of Standards and Technology) 
@@ -132,7 +132,7 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Braschler (Eurospider Information Technology AG) 
 -  P. Schäuble (Eurospider Information Technology AG) 
@@ -153,7 +153,7 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Braschler (Eurospider Information Technology AG) 
 -  P. Schäuble (Eurospider Information Technology AG) 
@@ -174,7 +174,7 @@ For TREC-8 the high-level goal of the Interactive Track remained the investigati
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh (Oregon Health Sciences University) 
 - P. Over (National Institute of Standards and Technology) 

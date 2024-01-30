@@ -8,7 +8,7 @@ The Knowledge Base Acceleration (KBA) track in TREC 2013 expanded the entity-cen
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank, Massachusetts Institute of Technology 
 - Steven J. Bauer, Massachusetts Institute of Technology 

@@ -8,7 +8,7 @@ The goal of this track is to bring the user out of hiding, making him or her an 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts Amherst 
 

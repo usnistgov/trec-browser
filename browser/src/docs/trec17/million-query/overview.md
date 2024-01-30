@@ -8,7 +8,7 @@ The Million Query (1MQ) track ran for the second time in TREC 2008. The track is
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts 
 - J. A. Aslam, Northeastern University 

@@ -8,7 +8,7 @@ The TREC 2016 Real-Time Summarization (RTS) Track aims to explore techniques and
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Waterloo 
 - Adam Roegiest, University of Waterloo 

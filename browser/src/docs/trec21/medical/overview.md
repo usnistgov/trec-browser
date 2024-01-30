@@ -8,7 +8,7 @@ The TREC Medical Records track fosters research that allows electronic health re
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 - William Hersh, Oregon Health & Science University 

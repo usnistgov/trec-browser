@@ -8,7 +8,7 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charlie Clarke, University of Waterloo 
 - Maria Maistro, University of Copenhagen 

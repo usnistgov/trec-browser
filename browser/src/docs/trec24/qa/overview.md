@@ -8,7 +8,7 @@ The automated question answering (QA) track, one of the most popular tracks in T
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Eugene Agichtein - Emory University 
 - David Carmel, Dan Pelleg - Yahoo Labs 

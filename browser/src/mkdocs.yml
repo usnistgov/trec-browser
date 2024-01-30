@@ -1453,5 +1453,19 @@ nav:
     - Proceedings: trec3/routing/proceedings.md
 - TREC-2 (1993):
   - Overview: trec2/overview.md
+  - Adhoc:
+    - Overview: trec2/adhoc/overview.md
+    - Data: trec2/adhoc/data.md
+    - Participants: trec2/adhoc/participants.md
+    - Runs: trec2/adhoc/runs.md
+    - Results: trec2/adhoc/results.md
+    - Proceedings: trec2/adhoc/proceedings.md
+  - Routing:
+    - Overview: trec2/routing/overview.md
+    - Data: trec2/routing/data.md
+    - Participants: trec2/routing/participants.md
+    - Runs: trec2/routing/runs.md
+    - Results: trec2/routing/results.md
+    - Proceedings: trec2/routing/proceedings.md
 - TREC-1 (1992):
   - Overview: trec1/overview.md

@@ -8,7 +8,7 @@ The TREC-8 filtering track measures the ability of systems to build persistent u
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hull (Xerox Research Centre Europe) 
 - S. Robertson (Microsoft Research) 

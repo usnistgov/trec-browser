@@ -8,10 +8,6 @@ The search task within the TREC 2011 Medical Records track  was an ad hoc search
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
-
--  
-
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.trec-cds.org/`](https://www.trec-cds.org/) 
 
 ---

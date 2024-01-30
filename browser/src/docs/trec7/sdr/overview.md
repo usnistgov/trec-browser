@@ -8,7 +8,7 @@ Spoken Document Retrieval (SDR) involves the search and retrieval of excerpts fr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Garofolo (National Institute of Standards and Technology) 
 - E. Voorhees (National Institute of Standards and Technology) 

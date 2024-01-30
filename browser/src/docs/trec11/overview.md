@@ -10,7 +10,7 @@ Nine teams participated in the TREC-2002 cross-language information retrieval tr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D.W. Oard, University of Maryland, College Park 
 - F.C. Gey, University of California, Berkeley 
@@ -30,7 +30,7 @@ The TREC-2002 Web Track moved away from non-Web relevance ranking and towards We
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, CSIRO 
 - and D. Hawking, CSIRO 
@@ -50,7 +50,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, National Institute of Standards and Technology 
 
@@ -69,7 +69,7 @@ Given a topic description and some example relevant documents, build a filtering
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
 - I. Soboroff, National Institute of Standards and Technology 
@@ -89,7 +89,7 @@ The TREC 2002 novelty track is designed to investigate systems' abilities to loc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Harman, National Institute of Standards and Technology 
 
@@ -108,7 +108,7 @@ TREC is organized along several tracks, each of which addresses a particular ret
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health and Science University 
 
@@ -127,7 +127,7 @@ TREC-2002 saw the second running of the Video Track, the goal of which was to pr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City University 
 - P. Over, National Institute of Standards and Technology 

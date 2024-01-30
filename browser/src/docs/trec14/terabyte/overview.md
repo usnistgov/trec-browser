@@ -8,7 +8,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
 - F. Scholer, RMIT 

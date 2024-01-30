@@ -8,7 +8,7 @@ The goal of the TREC Fair Ranking track was to develop a benchmark for evaluatin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asia J. Biega, Microsoft Research Montréal 
 - Fernando Diaz, Microsoft Research Montréal 

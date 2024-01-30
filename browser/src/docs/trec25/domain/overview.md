@@ -8,7 +8,7 @@ The main goal of TREC dynamic domain track is to explore and evaluate systems fo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Grace Hui Yang, Georgetown University 
 - Ian Soboroff, National Institute of Standards and Technology (NIST) 

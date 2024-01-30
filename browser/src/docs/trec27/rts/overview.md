@@ -8,7 +8,7 @@ The TREC 2018 Real-Time Summarization (RTS) Track is the third iteration of a co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Royal Sequiera, University of Waterloo 
 - Luchen Tan, University of Waterloo 

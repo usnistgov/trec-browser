@@ -8,7 +8,7 @@ The high-level goal of the TREC-6 Interactive Track was the investigation of sea
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Over (National Institute of Standards and Technology) 
 

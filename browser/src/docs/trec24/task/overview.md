@@ -8,7 +8,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Emine Yilmaz - University College London 
 - Manisha Verma - University College London 

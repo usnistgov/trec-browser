@@ -8,7 +8,7 @@ The Query Track in TREC-8 is a bit different from all the other tracks. It is a 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley (SabIr Research, Inc.) 
 - J. Walz (SabIr Research, Inc.) 

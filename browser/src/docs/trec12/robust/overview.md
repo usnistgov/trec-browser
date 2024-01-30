@@ -8,7 +8,7 @@ The robust retrieval track is a new track in TREC 2003. The goal of the track is
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 

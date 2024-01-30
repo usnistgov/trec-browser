@@ -8,7 +8,7 @@ The goal of the entity track is to perform entity-oriented search tasks on the W
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - K. Balog, University of Amsterdam 
 - A. de Vries, CWI 

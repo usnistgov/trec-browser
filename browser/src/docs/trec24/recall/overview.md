@@ -8,7 +8,7 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adam Roegiest - University of Waterloo 
 - Gordon V. Cormack - University of Waterloo 

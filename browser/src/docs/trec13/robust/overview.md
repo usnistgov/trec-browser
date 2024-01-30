@@ -8,7 +8,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 

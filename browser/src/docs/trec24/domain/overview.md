@@ -8,7 +8,7 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Hui Yang - Georgetown University 
 - John Frank - Diffeo and MIT 

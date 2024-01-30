@@ -10,7 +10,7 @@ TREC-2001 saw the falling into abeyance of the Large Web Task but a strengthenin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking, CSIRO 
 - N. Craswell, CSIRO 
@@ -30,7 +30,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees, NIST 
 
@@ -49,7 +49,7 @@ Ten groups participated in the TREC-2001 cross-language information retrieval tr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - F.C. Gey, University of California, Berkeley 
 - D.W. Oard, University of Maryland, College Park 
@@ -69,7 +69,7 @@ Given a topic description, build a filtering profile which will select the most 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
 - I. Soboroff, NIST 
@@ -89,7 +89,7 @@ New in TREC-2001 was the Video Trak, the goal of whih was to promote progress in
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City Univ. 
 - P. Over, NIST 
@@ -110,7 +110,7 @@ In the TREC 2001 Interactive Track six research teams carried out observational 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health Sciences Univ. 
 - P. Over, NIST 

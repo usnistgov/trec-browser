@@ -8,7 +8,7 @@ TREC 2005 saw the third year of the High Accuracy Retrieval from Documents (HARD
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts Amherst 
 

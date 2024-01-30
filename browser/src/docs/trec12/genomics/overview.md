@@ -8,7 +8,7 @@ The first year of TREC Genomics Track featured two tasks: ad hoc retrieval and i
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh Oregon Health and Science University 
 - R.T. Bhupatiraju, Oregon Health and Science University 

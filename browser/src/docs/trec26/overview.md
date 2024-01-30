@@ -10,7 +10,7 @@ The primary goal of the TREC Common Core track is three-fold: (a) bring the info
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Amsterdam 
 - James Allan, University of Massachusetts 
@@ -31,7 +31,7 @@ For many complex diseases, there is no “one size fits all” solutions for pat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
@@ -56,7 +56,7 @@ We present an overview of the medical question answering task organized at the T
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asma Ben Abacha, U.S. National Library of Medicine 
 - Eugene Agichtein, Emory University 
@@ -78,7 +78,7 @@ The TREC 2017 Real-Time Summarization (RTS) Track is the second iteration of a c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Waterloo 
 - Salman Mohammed, University of Waterloo 
@@ -105,7 +105,7 @@ The SWIRL 2012 workshop on frontiers, challenges, and opportunities for informat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz, University of New Hampshire 
 - Manisha Verma, University College London 
@@ -127,7 +127,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Amsterdam 
 - Emine Yilmaz, University College London 
@@ -150,7 +150,7 @@ The goal of dynamic domain track is promoting the research of dynamic, explorato
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Grace Hui Yang, Georgetown University 
 - Zhiwen Tang, Georgetown University 
@@ -171,7 +171,7 @@ The OpenSearch track provides researchers the opportunity to have their retrieva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Rolf Jagerman, University of Amsterdam 
 - Martin de Rijke, University of Amsterdam 

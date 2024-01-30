@@ -8,7 +8,7 @@ This is the second year of the TREC Deep Learning Track, with the goal of studyi
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Nick Craswell, Microsoft AI & Research 
 - Bhaskar Mitra, Microsoft AI & Research 

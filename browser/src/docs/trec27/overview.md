@@ -10,7 +10,7 @@ The fundamental philosophy behind precision medicine is that for many complex di
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
@@ -34,7 +34,7 @@ The primary goals of the proposed core track are three-fold: (a) to bring togeth
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, University of Amsterdam 
 - James Allan, University of Massachusetts 
@@ -55,7 +55,7 @@ The TREC 2018 Real-Time Summarization (RTS) Track is the third iteration of a co
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Royal Sequiera, University of Waterloo 
 - Luchen Tan, University of Waterloo 
@@ -76,7 +76,7 @@ Current retrieval systems provide good solutions towards phrase-level retrieval 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz 
 - Ben Gamari 
@@ -98,7 +98,7 @@ The News track is a new track for TREC 2019, focused on information retrieval in
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, National Institute of Standards and Technology 
 - Shudong Huang, National Institute of Standards and Technology 
@@ -119,7 +119,7 @@ The Text Retrieval Conference (TREC) Incident Streams track is a new initiative 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Richard McCreadie, University of Glasgow 
 - Cody Buntain, New York University 
@@ -140,7 +140,7 @@ The CLEF-NTCIR-TREC Reproducibility track (CENTRE) is a research replication and
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, National Institute of Standards and Technology 
 - Nicola Ferro, University of Padua 

@@ -10,7 +10,7 @@ Cross-language Information Retrieval (CLIR) has been studied at TREC and subsequ
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Dawn Lawrie, Johns Hopkins University 
 - Sean MacAvaney, University of Glasgow 
@@ -35,7 +35,7 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charlie Clarke, University of Waterloo 
 - Maria Maistro, University of Copenhagen 
@@ -56,7 +56,7 @@ The Deep Learning track focuses on IR tasks where a large training set is availa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Daniel Campos, University of Illinois at Urbana-Champaign 
 - Nick Craswell, Microsoft 
@@ -79,7 +79,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Leif Azzopardi, University of Strathclyde 
 - Jeff Dalton, University of Glasgow 
@@ -103,7 +103,7 @@ The goal of the Clinical Trials track is to focus research on the clinical trial
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
 - William Hersh, Oregon Health and Science University 
@@ -124,7 +124,7 @@ The Fair Ranking track focuses on building two-sided systems that offer fair exp
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Michael Ekstrand, Boise State University 
 - Isaac Johnson, Wikimedia Foundation 
@@ -146,7 +146,7 @@ The CrisisFACTS track focuses on temporal summarization for first responders in 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Cody Buntain, University of Maryland 
 - Richard McCreadie, University of Glasgow 

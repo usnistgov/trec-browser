@@ -8,7 +8,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Nick Craswell,  Microsoft AI and Research 
 - Bhaskar Mitra, Microsoft AI and Research 

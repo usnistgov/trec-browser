@@ -8,7 +8,7 @@ There were 3 main goals for this track: 1. Target evaluating and comparing just 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley, Sabir Research 
 - S. Robertson, Microsoft 

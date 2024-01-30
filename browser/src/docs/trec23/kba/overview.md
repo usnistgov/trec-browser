@@ -8,7 +8,7 @@ The Knowledge Base Acceleration (KBA) track ran in TREC 2012, 2013, and 2014 as 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank - Diffeo 
 - Max Kleiman-Weiner - Diffeo 

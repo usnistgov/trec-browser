@@ -8,7 +8,7 @@ The TREC Contextual Suggestion Track offers a personalized point of interest (PO
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Seyyed Hadi Hashemi,University of Amsterdam 
 - Jaap KampsUniversity of Amsterdam 

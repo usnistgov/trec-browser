@@ -8,7 +8,7 @@ We present an overview of the medical question answering task organized at the T
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asma Ben Abacha, U.S. National Library of Medicine 
 - Eugene Agichtein, Emory University 

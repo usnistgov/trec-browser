@@ -8,7 +8,7 @@ The TREC 2003 question answering track contained two tasks, the passages task an
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 

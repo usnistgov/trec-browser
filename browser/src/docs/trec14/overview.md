@@ -10,7 +10,7 @@ An automatic spam filter classifies a chronological sequence of email messages a
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 - T. Lynam, University of Waterloo 
@@ -30,7 +30,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
 - F. Scholer, RMIT 
@@ -51,7 +51,7 @@ The TREC 2005 Genomics Track featured two tasks, an ad hoc retrieval task and fo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A. Cohen, Oregon Health & Science University 
@@ -75,7 +75,7 @@ TREC 2005 saw the third year of the High Accuracy Retrieval from Documents (HARD
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts Amherst 
 
@@ -94,7 +94,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 - H.T. Dang, NIST 
@@ -114,7 +114,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, Microsoft Research Cambridge 
 - A.P. de Vries, CWI 
@@ -135,7 +135,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 

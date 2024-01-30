@@ -8,7 +8,7 @@ Standard evaluation mechanisms focus on evaluating the quality of a retrieval sy
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Manisha Verma, University College London 
 - Emine Yilmaz, University College London 

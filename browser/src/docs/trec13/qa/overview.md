@@ -8,7 +8,7 @@ The TREC 2004 Question Answering track contained a single task in which question
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, NIST 
 

@@ -10,7 +10,7 @@ In making clinical decisions, physicians often seek out information about how to
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, U.S. National Library of Medicine (NIH) 
 - Matthew S. Simpson, U.S. National Library of Medicine (NIH) 
@@ -32,7 +32,7 @@ The TREC 2015 Microblog track introduced a single realtime filtering task broken
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin - University of Waterloo 
 - Miles Efron - University of Illinois 
@@ -56,7 +56,7 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adriel Dean-Hall - University of Waterloo 
 - Charles L. A. Clarke - University of Waterloo 
@@ -79,7 +79,7 @@ There are many summarization scenarios that require updates to be issued to user
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Javed Aslam 
 - Fernando Diaz 
@@ -103,7 +103,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Emine Yilmaz - University College London 
 - Manisha Verma - University College London 
@@ -127,7 +127,7 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Adam Roegiest - University of Waterloo 
 - Gordon V. Cormack - University of Waterloo 
@@ -149,7 +149,7 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Hui Yang - Georgetown University 
 - John Frank - Diffeo and MIT 
@@ -170,7 +170,7 @@ The automated question answering (QA) track, one of the most popular tracks in T
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Eugene Agichtein - Emory University 
 - David Carmel, Dan Pelleg - Yahoo Labs 

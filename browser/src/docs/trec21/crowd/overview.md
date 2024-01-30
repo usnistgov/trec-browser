@@ -8,7 +8,7 @@ In 2012, the Crowdsourcing track had two separate tasks: a text relevance assess
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mark D. Smucker, University of Waterloo 
 - Gabriella Kazai, Microsoft Research 

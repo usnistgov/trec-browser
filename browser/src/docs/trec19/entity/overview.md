@@ -8,7 +8,7 @@ The overall goal of the track is to perform entity-oriented search tasks on the 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, Norwegian University of Science and Technology (NTNU) 
 - Pavel Serdyukov, Yandex, Russia 

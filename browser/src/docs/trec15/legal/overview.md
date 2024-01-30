@@ -8,7 +8,7 @@ The goal of the Legal Track at the Text Retrieval Conference (TREC) is to assess
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J.R. Baron, National Archives and Records Administration 
 - D.D. Lewis, David D. Lewis Consulting 

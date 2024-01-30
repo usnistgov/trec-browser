@@ -10,9 +10,8 @@ In the second year, the concentration shifted to finding good sets of docs to ba
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
--  
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://groups.google.com/g/trec-relfeed`](https://groups.google.com/g/trec-relfeed) 
@@ -29,7 +28,7 @@ TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluati
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Lupu, Information Retrieval Facility (IRF) 
 - F. Piroi, Information Retrieval Facility (IRF) 
@@ -52,7 +51,7 @@ TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - B. Hedin, H5 
 - S. Tomlinson, Open Text Corporation 
@@ -74,7 +73,7 @@ The TREC Web Track explores and evaluates Web retrieval technologies. Currently,
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
 - N. Craswell, Microsoft 
@@ -95,7 +94,7 @@ The Million Query Track ran for the third time in 2009. The track is designed to
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - B. Carterette, University of Delaware 
 - H. Fang, University of Delaware 
@@ -117,7 +116,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Macdonald, University of Glasgow 
 - I. Ounis, University of Glasgow 
@@ -138,7 +137,7 @@ The goal of the entity track is to perform entity-oriented search tasks on the W
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - K. Balog, University of Amsterdam 
 - A. de Vries, CWI 

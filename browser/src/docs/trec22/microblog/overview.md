@@ -8,7 +8,7 @@ This year represents the third iteration of the TREC Microblog track, which bega
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Maryland 
 - Miles Efron, University of Illinois 

@@ -8,7 +8,7 @@ CAsT 2020 is the second year of the Conversational Assistance Track and builds o
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jeffrey Dalton, University of Glasgow 
 - Chenyan Xiong, Microsoft Research 

@@ -8,7 +8,7 @@ Ten groups participated in the TREC-2001 cross-language information retrieval tr
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - F.C. Gey, University of California, Berkeley 
 - D.W. Oard, University of Maryland, College Park 

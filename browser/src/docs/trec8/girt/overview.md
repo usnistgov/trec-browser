@@ -8,7 +8,7 @@
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - M. Braschler (Eurospider Information Technology AG) 
 -  P. Schäuble (Eurospider Information Technology AG) 

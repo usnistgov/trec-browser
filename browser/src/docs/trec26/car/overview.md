@@ -8,7 +8,7 @@ The SWIRL 2012 workshop on frontiers, challenges, and opportunities for informat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz, University of New Hampshire 
 - Manisha Verma, University College London 

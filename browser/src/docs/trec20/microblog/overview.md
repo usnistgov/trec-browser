@@ -8,7 +8,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Iadh Ounis, University of Glasgow 
 - Craig Macdonald, University of Glasgow 

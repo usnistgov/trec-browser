@@ -8,7 +8,7 @@ The high-level goal of the Interactive Track in TREC-5 was the investigation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Over (National Institute of Standards and Technology) 
 

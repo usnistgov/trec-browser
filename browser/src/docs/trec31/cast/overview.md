@@ -8,7 +8,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Leif Azzopardi, University of Strathclyde 
 - Jeff Dalton, University of Glasgow 

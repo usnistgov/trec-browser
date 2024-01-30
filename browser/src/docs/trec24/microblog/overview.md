@@ -8,7 +8,7 @@ The TREC 2015 Microblog track introduced a single realtime filtering task broken
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin - University of Waterloo 
 - Miles Efron - University of Illinois 

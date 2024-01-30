@@ -8,10 +8,6 @@
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
-
--  
-
 :material-text-search: **Tasks:**
 
 - `task1`: Task 1 

@@ -8,7 +8,7 @@ TREC is organized along several tracks, each of which addresses a particular ret
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health and Science University 
 

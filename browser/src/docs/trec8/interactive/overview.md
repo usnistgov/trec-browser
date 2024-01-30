@@ -8,7 +8,7 @@ For TREC-8 the high-level goal of the Interactive Track remained the investigati
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh (Oregon Health Sciences University) 
 - P. Over (National Institute of Standards and Technology) 

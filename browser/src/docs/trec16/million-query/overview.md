@@ -8,7 +8,7 @@ The goal of this track is to run a retrieval task similar to standard ad-hoc ret
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts, Amherst 
 - B. Carterette, University of Massachusetts, Amherst 

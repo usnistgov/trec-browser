@@ -8,7 +8,7 @@ We present the TREC Open Search track, which represents a new evaluation paradig
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, University of Stavanger 
 - Anne Schuth, Blendle 

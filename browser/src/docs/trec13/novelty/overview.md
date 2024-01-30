@@ -8,7 +8,7 @@ The Novelty Track is designed to investigate systems' abilities to locate releva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Soboroff, NIST 
 

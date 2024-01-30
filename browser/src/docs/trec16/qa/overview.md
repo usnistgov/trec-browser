@@ -8,7 +8,7 @@ The TREC 2007 question answering (QA) track contained two tasks: the main task c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - H.T. Dang, NIST 
 - D. Kelly, University of North Carolina 

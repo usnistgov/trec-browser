@@ -8,7 +8,7 @@ TREC-2001 saw the falling into abeyance of the Large Web Task but a strengthenin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking, CSIRO 
 - N. Craswell, CSIRO 

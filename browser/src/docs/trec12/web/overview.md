@@ -8,7 +8,7 @@ The TREC 2003 web track consisted of both a non-interactive stream and an intera
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, CSIRO ICT Centre 
 - D. Hawking, CSIRO ICT Centre 

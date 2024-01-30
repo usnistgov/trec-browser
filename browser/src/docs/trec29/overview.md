@@ -10,7 +10,7 @@ The News track focuses on information retrieval in the service of helping people
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ian Soboroff, National Institute of Standards and Technology 
 - Shudong Huang, National Institute of Standards and Technology 
@@ -31,7 +31,7 @@ This is the second year of the TREC Deep Learning Track, with the goal of studyi
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Nick Craswell, Microsoft AI & Research 
 - Bhaskar Mitra, Microsoft AI & Research 
@@ -54,7 +54,7 @@ Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 
@@ -75,7 +75,7 @@ TREC 2020 was the second year for the Health Misinformation track, which was nam
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charles L. A. Clarke, University of Waterloo 
 - Saira Rizvi, University of Waterloo 
@@ -98,7 +98,7 @@ CAsT 2020 is the second year of the Conversational Assistance Track and builds o
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jeffrey Dalton, University of Glasgow 
 - Chenyan Xiong, Microsoft Research 
@@ -119,7 +119,7 @@ The precision medicine paradigm focuses on identifying treatments that are best 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
@@ -141,7 +141,7 @@ The Podcast Track is new at the Text Retrieval Conference (TREC) in 2020. The po
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Rosie Jones, Spotify Research 
 - Ben Carterette, Spotify Research 
@@ -168,7 +168,7 @@ For 2020, we again adopted an academic search task, where we have a corpus of ac
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Asia J. Biega, Microsoft Research Montreal 
 - Fernando Diaz, Montreal Institute for Learning Algorithms 

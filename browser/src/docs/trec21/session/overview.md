@@ -8,7 +8,7 @@ The TREC Session track ran for the third time in 2012. The track has the primary
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Evangelos Kanoulas, Google 
 - Ben Carterette, University of Delaware 

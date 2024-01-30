@@ -8,7 +8,7 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 

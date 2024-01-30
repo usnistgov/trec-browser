@@ -8,7 +8,7 @@ The TREC Session track ran for the fourth time in 2014. The track has the primar
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ben Carterette - University of Delaware 
 - Evangelos Kanoulas - Google 

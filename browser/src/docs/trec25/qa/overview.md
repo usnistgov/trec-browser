@@ -8,7 +8,7 @@ The LiveQA track, now in its second year, is focused on real-time question answe
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Eugene Agichtein, Emory University 
 - David Carmel, Yahoo Research 

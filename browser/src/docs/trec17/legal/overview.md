@@ -8,7 +8,7 @@ TREC 2008 was the third year of the Legal Track, which focuses on evaluation of 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. W. Oard, University of Maryland, College Park 
 - B. Hedin, H5 

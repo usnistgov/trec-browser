@@ -10,7 +10,7 @@ In handling challenging cases, clinicians often seek out information to make bet
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
@@ -32,7 +32,7 @@ The LiveQA track, now in its second year, is focused on real-time question answe
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Eugene Agichtein, Emory University 
 - David Carmel, Yahoo Research 
@@ -55,7 +55,7 @@ The TREC Contextual Suggestion Track offers a personalized point of interest (PO
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Seyyed Hadi Hashemi,University of Amsterdam 
 - Jaap KampsUniversity of Amsterdam 
@@ -78,7 +78,7 @@ The TREC 2016 Real-Time Summarization (RTS) Track aims to explore techniques and
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jimmy Lin, University of Waterloo 
 - Adam Roegiest, University of Waterloo 
@@ -102,7 +102,7 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Maura R. Grossman, University of Waterloo 
 - Gordon V. Cormack, University of Waterloo 
@@ -123,7 +123,7 @@ Standard evaluation mechanisms focus on evaluating the quality of a retrieval sy
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Manisha Verma, University College London 
 - Emine Yilmaz, University College London 
@@ -148,7 +148,7 @@ The main goal of TREC dynamic domain track is to explore and evaluate systems fo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Grace Hui Yang, Georgetown University 
 - Ian Soboroff, National Institute of Standards and Technology (NIST) 
@@ -168,7 +168,7 @@ We present the TREC Open Search track, which represents a new evaluation paradig
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Krisztian Balog, University of Stavanger 
 - Anne Schuth, Blendle 

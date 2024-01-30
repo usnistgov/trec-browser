@@ -10,7 +10,7 @@ The first year of TREC Genomics Track featured two tasks: ad hoc retrieval and i
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh Oregon Health and Science University 
 - R.T. Bhupatiraju, Oregon Health and Science University 
@@ -30,7 +30,7 @@ The TREC 2003 web track consisted of both a non-interactive stream and an intera
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - N. Craswell, CSIRO ICT Centre 
 - D. Hawking, CSIRO ICT Centre 
@@ -50,7 +50,7 @@ The goal of this track is to bring the user out of hiding, making him or her an 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts Amherst 
 
@@ -69,7 +69,7 @@ The robust retrieval track is a new track in TREC 2003. The goal of the track is
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
@@ -88,7 +88,7 @@ The TREC 2003 question answering track contained two tasks, the passages task an
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
@@ -107,7 +107,7 @@ The Novelty Track is designed to investigate systems' abilities to locate releva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Soboroff, NIST 
 - D. Harman, NIST 

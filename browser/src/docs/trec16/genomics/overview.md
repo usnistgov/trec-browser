@@ -8,7 +8,7 @@ The TREC 2007 Genomics Track employed an entity-based question-answering task. R
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A. Cohen, Oregon Health & Science University 

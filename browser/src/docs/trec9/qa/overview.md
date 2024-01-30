@@ -8,7 +8,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees, NIST 
 

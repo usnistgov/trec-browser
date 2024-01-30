@@ -8,7 +8,7 @@ The TREC-9 filtering track measures the ability of systems to build persistent u
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
 - D.A. Hull, WhizzBang Labs 

@@ -10,7 +10,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Buttcher, University of Waterloo 
 - C.L.A. Clarke, University of Waterloo 
@@ -31,7 +31,7 @@ The 2006 track will reprise the 2005 experiments with new filters and data, and 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 
@@ -50,7 +50,7 @@ The TREC Genomics Track implemented a new task in 2006 that focused on passage r
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A.M. Cohen, Oregon Health & Science University 
@@ -72,7 +72,7 @@ The enterprise track began in TREC 2005 as the successor to the web track, and t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Soboroff, NIST 
 - A.P. de Vries, CWI 
@@ -93,7 +93,7 @@ The Blog track began this year, with the aim to explore the information seeking 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 
@@ -116,7 +116,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - H.T. Dang, NIST 
 - J. Lin, University of Maryland, College Park 
@@ -137,7 +137,7 @@ The goal of the Legal Track at the Text Retrieval Conference (TREC) is to assess
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J.R. Baron, National Archives and Records Administration 
 - D.D. Lewis, David D. Lewis Consulting 

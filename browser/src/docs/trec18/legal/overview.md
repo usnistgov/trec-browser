@@ -8,7 +8,7 @@ TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - B. Hedin, H5 
 - S. Tomlinson, Open Text Corporation 

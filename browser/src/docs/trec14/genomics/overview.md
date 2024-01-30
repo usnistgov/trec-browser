@@ -8,7 +8,7 @@ The TREC 2005 Genomics Track featured two tasks, an ad hoc retrieval task and fo
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A. Cohen, Oregon Health & Science University 

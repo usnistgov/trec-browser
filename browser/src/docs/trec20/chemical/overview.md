@@ -8,7 +8,7 @@ The third year of the Chemical IR evaluation track benefitted from the support o
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Mihai Lupu, Vienna University of Technology 
 - Zhao Jiashu, York University 

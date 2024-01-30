@@ -10,7 +10,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ellen Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -30,7 +30,7 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - E. Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -50,7 +50,7 @@ The TREC-6 conference was the fourth year in which document retrieval in a langu
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - R. Wilkinson (CSIRO) 
 
@@ -69,7 +69,7 @@ Cross-Language Information Retrieval (CLIR) was a new task in the TREC-6 evaluat
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Schauble (Swiss Federal Institute of Technology (ETH)) 
 - P. Sheridan (Swiss Federal Institute of Technology (ETH)) 
@@ -89,7 +89,7 @@ Given a topic description and a large collection of documents, a sample of which
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D.A. Hull (Xerox Research Centre Europe) 
 
@@ -108,7 +108,7 @@ The High-Precision Track is a new track for TREC. It has a very simple short des
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Buckley (SabIR Research Inc.) 
 
@@ -127,7 +127,7 @@ The high-level goal of the TREC-6 Interactive Track was the investigation of sea
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Over (National Institute of Standards and Technology) 
 
@@ -146,7 +146,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Ellen Voorhees (National Institute of Standards and Technology) 
 - D. Harman (National Institute of Standards and Technology) 
@@ -166,7 +166,7 @@ Spoken Document Retrieval (SDR) involves the retrieval of excerpts from recordin
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Garofolo (National Institute of Standards and Technology) 
 - E. Voorhees (National Institute of Standards and Technology) 
@@ -188,7 +188,7 @@ The emergence of real world applications for text collections orders of magnitud
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - D. Hawking (Australian National University) 
 - P. Thistlewaite (Australian National University) 

@@ -8,7 +8,7 @@ The Knowledge Base Acceleration track in TREC 2012 focused on a single task: fil
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - John R. Frank, Massachusetts Institute of Technology 
 - Max Kleiman-Weiner, Massachusetts Institute of Technology 

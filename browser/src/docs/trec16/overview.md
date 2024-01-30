@@ -10,7 +10,7 @@ The goal of this track is to run a retrieval task similar to standard ad-hoc ret
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J. Allan, University of Massachusetts, Amherst 
 - B. Carterette, University of Massachusetts, Amherst 
@@ -34,7 +34,7 @@ The TREC 2007 Genomics Track employed an entity-based question-answering task. R
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - W. Hersh, Oregon Health & Science University 
 - A. Cohen, Oregon Health & Science University 
@@ -56,7 +56,7 @@ TREC's Spam Track uses a standard testing framework that presents a set of chron
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - G. Cormack, University of Waterloo 
 
@@ -75,7 +75,7 @@ TREC 2007 was the second year of the Legal Track, which focuses on evaluation of
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Tomlinson, Open Text Corporation 
 - D. W. Oard, University of Maryland, College Park 
@@ -97,7 +97,7 @@ The TREC 2007 question answering (QA) track contained two tasks: the main task c
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - H.T. Dang, NIST 
 - D. Kelly, University of North Carolina 
@@ -118,7 +118,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - P. Bailey, Microsoft, USA 
 - A. P. de Vries, CWI, The Netherlands 
@@ -140,7 +140,7 @@ The goal of the Blog track is to explore the information seeking behaviour in th
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C. Macdonald, University of Glasgow 
 - I. Ounis, University of Glasgow 

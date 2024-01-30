@@ -8,7 +8,7 @@ The goal of the TREC Web track over the past few years has been to explore and e
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Kevyn Collins-Thompson - University of Michigan 
 - Craig Macdonald - University of Glasgow 

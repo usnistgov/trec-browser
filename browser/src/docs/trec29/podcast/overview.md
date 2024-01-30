@@ -8,7 +8,7 @@ The Podcast Track is new at the Text Retrieval Conference (TREC) in 2020. The po
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Rosie Jones, Spotify Research 
 - Ben Carterette, Spotify Research 

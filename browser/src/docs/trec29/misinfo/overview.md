@@ -8,7 +8,7 @@ TREC 2020 was the second year for the Health Misinformation track, which was nam
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Charles L. A. Clarke, University of Waterloo 
 - Saira Rizvi, University of Waterloo 

@@ -8,7 +8,7 @@ The Million Query Track ran for the third time in 2009. The track is designed to
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - B. Carterette, University of Delaware 
 - H. Fang, University of Delaware 

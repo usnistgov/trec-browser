@@ -8,7 +8,7 @@ Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standa
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 

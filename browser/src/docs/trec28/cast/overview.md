@@ -8,7 +8,7 @@ The importance of conversation and conversational models for complex information
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Jeffrey Dalton, University of Glasgow 
 - Chenyan Xiong, Microsoft Research 

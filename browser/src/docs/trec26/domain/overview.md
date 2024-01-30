@@ -8,7 +8,7 @@ The goal of dynamic domain track is promoting the research of dynamic, explorato
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Grace Hui Yang, Georgetown University 
 - Zhiwen Tang, Georgetown University 

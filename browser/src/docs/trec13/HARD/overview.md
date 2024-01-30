@@ -8,7 +8,7 @@ The HARD track of TREC 2004 aims to improve the accuracy of information retrieva
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - J.Allan, University of Massachusetts Amherst 
 

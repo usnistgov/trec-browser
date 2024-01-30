@@ -8,7 +8,7 @@ The TREC-6 conference was the fourth year in which document retrieval in a langu
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - R. Wilkinson (CSIRO) 
 

@@ -8,7 +8,7 @@ The Fair Ranking track focuses on building two-sided systems that offer fair exp
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Michael Ekstrand, Boise State University 
 - Isaac Johnson, Wikimedia Foundation 

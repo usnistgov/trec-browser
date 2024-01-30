@@ -8,7 +8,7 @@ Current retrieval systems provide good solutions towards phrase-level retrieval 
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinators:**
+:fontawesome-solid-user-group: **Track coordinator(s):**
 
 - Laura Dietz 
 - Ben Gamari 
