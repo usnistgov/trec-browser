@@ -7,7 +7,7 @@
 ![](./assets/tracks.png)
 
 #### Adhoc
-[`TREC-1 (1992)`](./trec1/overview.md), [`TREC-2 (1993)`](./trec2/overview.md), [`TREC-3 (1994)`](./trec3/adhoc/overview.md), [`TREC-4 (1995)`](./trec4/adhoc/overview.md), [`TREC-5 (1996)`](./trec5/adhoc/overview.md), [`TREC-6 (1997)`](./trec6/adhoc/overview.md), [`TREC-7 (1998)`](./trec7/adhoc/overview.md), [`TREC-8 (1999)`](./trec8/adhoc/overview.md)
+[`TREC-1 (1992)`](./trec1/overview.md), [`TREC-2 (1993)`](./trec2/adhoc/overview.md), [`TREC-3 (1994)`](./trec3/adhoc/overview.md), [`TREC-4 (1995)`](./trec4/adhoc/overview.md), [`TREC-5 (1996)`](./trec5/adhoc/overview.md), [`TREC-6 (1997)`](./trec6/adhoc/overview.md), [`TREC-7 (1998)`](./trec7/adhoc/overview.md), [`TREC-8 (1999)`](./trec8/adhoc/overview.md)
 #### Blog
 [`TREC-15 (2006)`](./trec15/blog/overview.md), [`TREC-16 (2007)`](./trec16/blog/overview.md), [`TREC-17 (2008)`](./trec17/blog/overview.md), [`TREC-18 (2009)`](./trec18/blog/overview.md), [`TREC-19 (2010)`](./trec19/blog/overview.md)
 #### CENTRE
@@ -107,7 +107,7 @@
 #### Robust
 [`TREC-12 (2003)`](./trec12/robust/overview.md), [`TREC-13 (2004)`](./trec13/robust/overview.md), [`TREC-14 (2005)`](./trec14/robust/overview.md)
 #### Routing
-[`TREC-1 (1992)`](./trec1/overview.md), [`TREC-2 (1993)`](./trec2/overview.md), [`TREC-3 (1994)`](./trec3/routing/overview.md), [`TREC-4 (1995)`](./trec4/routing/overview.md), [`TREC-5 (1996)`](./trec5/routing/overview.md), [`TREC-6 (1997)`](./trec6/routing/overview.md)
+[`TREC-1 (1992)`](./trec1/overview.md), [`TREC-2 (1993)`](./trec2/routing/overview.md), [`TREC-3 (1994)`](./trec3/routing/overview.md), [`TREC-4 (1995)`](./trec4/routing/overview.md), [`TREC-5 (1996)`](./trec5/routing/overview.md), [`TREC-6 (1997)`](./trec6/routing/overview.md)
 #### Session
 [`TREC-19 (2010)`](./trec19/session/overview.md), [`TREC-20 (2011)`](./trec20/session/overview.md), [`TREC-21 (2012)`](./trec21/session/overview.md), [`TREC-22 (2013)`](./trec22/session/overview.md), [`TREC-23 (2014)`](./trec23/session/overview.md)
 #### Spam
