@@ -36,7 +36,7 @@ search:
 	```
 ---
 #### uwmt6h0 
-[**`Metadata`**](./runs.md#uwmt6h0), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
+[**`Metadata`**](./runs.md#uwmt6h0), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	Precision@10			0.5720
@@ -46,7 +46,7 @@ search:
 	```
 ---
 #### uwmt6h1 
-[**`Metadata`**](./runs.md#uwmt6h1), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
+[**`Metadata`**](./runs.md#uwmt6h1), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	Precision@10			0.5680
@@ -56,7 +56,7 @@ search:
 	```
 ---
 #### uwmt6h2 
-[**`Metadata`**](./runs.md#uwmt6h2), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
+[**`Metadata`**](./runs.md#uwmt6h2), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	Precision@10			0.5640
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### DCU97HP 
-[**`Metadata`**](./runs.md#dcu97hp), [**`Participants`**](./participants.md#dublin), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.DCU97HP.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.DCU97HP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
+[**`Metadata`**](./runs.md#dcu97hp), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.DCU97HP.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.DCU97HP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz)
 ??? example "summary (trec_eval)"
 	```
 	Precision@10			0.3820

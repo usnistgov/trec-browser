@@ -31,7 +31,7 @@
 
 ---
 #### DCU97HP 
-[**`Results`**](./results.md#dcu97hp), [**`Participants`**](./participants.md#dublin), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.DCU97HP.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.DCU97HP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
+[**`Results`**](./results.md#dcu97hp), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.DCU97HP.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.DCU97HP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
 
 - :material-rename: **Run ID:** DCU97HP 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -107,7 +107,7 @@
 
 ---
 #### uwmt6h0 
-[**`Results`**](./results.md#uwmt6h0), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
+[**`Results`**](./results.md#uwmt6h0), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
 
 - :material-rename: **Run ID:** uwmt6h0 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -117,7 +117,7 @@
 
 ---
 #### uwmt6h1 
-[**`Results`**](./results.md#uwmt6h1), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
+[**`Results`**](./results.md#uwmt6h1), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
 
 - :material-rename: **Run ID:** uwmt6h1 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -127,7 +127,7 @@
 
 ---
 #### uwmt6h2 
-[**`Results`**](./results.md#uwmt6h2), [**`Participants`**](./participants.md#waterloo), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
+[**`Results`**](./results.md#uwmt6h2), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/high_prec/input.uwmt6h2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/high_prec/summary.uwmt6h2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/high-prec.runs.ps.gz) 
 
 - :material-rename: **Run ID:** uwmt6h2 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
