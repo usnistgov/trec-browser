@@ -11,4 +11,3 @@
 
 ---
 
-**Other:** [`TREC 2003 Topic Types`](https://trec.nist.gov/data/topics_eng/2003.named-page.topic-types.txt)

@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`Original XML session data`](https://trec.nist.gov/data/session/12/sessiontrack2012.txt), [`Session-topic mapping file`](https://trec.nist.gov/data/session/12/sessiontopicmap.txt), [`Main evaluation script`](https://trec.nist.gov/data/session/12/session_eval_main.py), [`Component code for the evaluation script`](https://trec.nist.gov/data/session/12/session_eval.py)

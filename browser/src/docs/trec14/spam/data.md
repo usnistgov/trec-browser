@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`TREC 2004 Novelty Topic Text`](https://trec.nist.gov/data/t13_novelty/novelty04.topics.txt), [`TREC 2004 DOCNOs`](https://trec.nist.gov/data/t13_novelty/04.docnos.novelty), [`TREC 2004 evaluation script`](https://trec.nist.gov/data/t13_novelty/04.eval_novelty_run.pl)

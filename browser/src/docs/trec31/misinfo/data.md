@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Machine Translation`](https://ir.nist.gov/neuclir/neuCLIR-translations.tar.gz), [`HC4 Training Corpus`](https://ir.nist.gov/neuclir/hc4-docs.tar.gz), [`Farsi Baseline`](https://trec.nist.gov/data/neuclir/fas-base-run-results.txt), [`Russian Baseline`](https://trec.nist.gov/data/neuclir/rus-base-run-results.txt), [`Chinese Baseline`](https://trec.nist.gov/data/neuclir/zho-base-run-results.txt)

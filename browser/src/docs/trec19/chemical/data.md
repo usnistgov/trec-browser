@@ -11,4 +11,3 @@
 
 ---
 
-**Other:** [`Web Track Guidelines`](http://plg.uwaterloo.ca/~trecweb/2010.html), [`ndeval.c program for diversity evaluation`](), [`gdeval.pl program for adhoc evaluation (nDCG, ERR)`]()

@@ -10,4 +10,3 @@
 
 ---
 
-**Other:** [`README file for eval tar file`](https://trec.nist.gov/data/tempsumm/2015/README.txt), [`Evaluation tar file`](https://trec.nist.gov/data/tempsumm/2015/ts15eval.tgz)

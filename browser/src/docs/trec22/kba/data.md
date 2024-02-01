@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`profiles`](https://trec.nist.gov/data/context/2013/profiles2013.csv.txt), [`contexts`](https://trec.nist.gov/data/context/2013/contexts.csv.txt), [`examples`](https://trec.nist.gov/data/context/2013/examples.csv.txt), [`README for eval script and judgments`](https://trec.nist.gov/data/context/2013/README.txt), [`evaluation script`](https://trec.nist.gov/data/context/2013/eval.py)

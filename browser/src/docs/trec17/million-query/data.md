@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Tar archive containing 5 baseline runs for opinion and polarity tasks`](https://trec.nist.gov/data/blog/08/baselines.tar), [`Evaluation outputs for baselines`](https://trec.nist.gov/data/blog/08/baseline-eval.tar.gz)

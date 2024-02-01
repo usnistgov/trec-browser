@@ -8,4 +8,3 @@
 
 ---
 
-**Other:** [`Script for evaluating polarity subtask runs`](https://trec.nist.gov/data/blog/07/eval-polarity.pl)

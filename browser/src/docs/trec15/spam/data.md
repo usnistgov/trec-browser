@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`Description of inferred AP measure`](https://trec.nist.gov/data/terabyte/06/inferredAP.pdf)

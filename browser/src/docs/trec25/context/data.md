@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`Resources associated with given responses`](https://trec.nist.gov/data/qa/2016_LiveQA/resources.xml)

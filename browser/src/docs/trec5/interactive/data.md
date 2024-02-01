@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`confusion.known_items.gz`](https://trec.nist.gov/data/qrels_eng/confusion.known_items.gz)

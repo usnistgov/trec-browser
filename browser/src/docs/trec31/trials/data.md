@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Paper`](https://arxiv.org/abs/1611.09268), [`Additional resources`](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2022#additional-resources)

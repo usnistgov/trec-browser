@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Paper`](https://arxiv.org/abs/1611.09268), [`NIST judgments for the Document Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.docs.final.txt), [`NIST judgments for the Passage Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.pass.final.txt), [`Modified NIST judgments for the Passage Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.pass.final-no1.txt), [`Expanded judgments for the Document Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.docs.expanded.txt), [`Expanded judgments for the Passage Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.pass.expanded.txt), [`Modified expanded judgments for the Passage Ranking task`](https://trec.nist.gov/data/deep/2021.qrels.pass.expanded-no1.txt)

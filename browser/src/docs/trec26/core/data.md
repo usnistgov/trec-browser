@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Truth Data`](https://trec.nist.gov/data/domain/2016/dynamic-domain-2016-truth-data.xml.gz), [`Cube Test qrels file`](https://trec.nist.gov/data/domain/2016/cubetest-qrels-2016.gz)

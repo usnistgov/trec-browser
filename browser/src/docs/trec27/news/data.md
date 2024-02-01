@@ -12,4 +12,3 @@
 
 ---
 
-**Other:** [`Evaluation script for computing inferred measures`](https://trec.nist.gov/data/clinical/sample_eval.pl)

@@ -11,4 +11,3 @@
 
 ---
 
-**Other:** [`Test set evaluation sequences`](https://trec.nist.gov/data/fair/2020-eval-seq.csv), [`Document annotations`](https://trec.nist.gov/data/fair/2020-doc-annotations.csv), [`Full meta-data per document`](https://trec.nist.gov/data/fair/2020-merged-annotations.json)

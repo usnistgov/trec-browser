@@ -10,4 +10,3 @@
 
 ---
 
-**Other:** [`Duplicate document classes (for result merging task evaluation)`](https://trec.nist.gov/data/federated/2013/duplicates.txt)

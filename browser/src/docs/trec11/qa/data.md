@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`List of document id's in date/id order`](https://trec.nist.gov/data/filtering/T10-f-document-order.tar.gz)

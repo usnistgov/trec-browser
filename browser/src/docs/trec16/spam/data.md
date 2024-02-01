@@ -9,4 +9,3 @@
 
 ---
 
-**Other:** [`2007 evaluation script`](https://trec.nist.gov/data/genomics/07/trecgen2007_score.py)
