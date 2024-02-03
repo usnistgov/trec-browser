@@ -123,10 +123,6 @@ The search task within the TREC 2011 Medical Records track  was an ad hoc search
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinator(s):**
-
-
-
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.trec-cds.org/`](https://www.trec-cds.org/) 
 
 ---
@@ -163,10 +159,6 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 
 
 ==}
-
-:fontawesome-solid-user-group: **Track coordinator(s):**
-
-
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/crowd.html`](https://trec.nist.gov/data/crowd.html) 
 

@@ -10,10 +10,6 @@ In the second year, the concentration shifted to finding good sets of docs to ba
 
 ==}
 
-:fontawesome-solid-user-group: **Track coordinator(s):**
-
-
-
 :fontawesome-solid-globe: **Track Web Page:** [`https://groups.google.com/g/trec-relfeed`](https://groups.google.com/g/trec-relfeed) 
 
 ---
