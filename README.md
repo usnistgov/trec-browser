@@ -37,6 +37,11 @@ git clone https://github.com/usnistgov/trec-browser.git
 
 3. Run the noteboook `browser/build.ipynb`. It will install the required Python packages, generate the browser files and place them in the `browser/src/` directory.
 
+4. Make sure to have the required Python packages installed when building the browser in a local Python environment (see also [this requirements.txt file](./browser/src/requirements.txt)). Then, build the HTML files with the following command:
+```
+cd trec-browser/browser/src && mkdocs build
+```
+
 ## Running the browser
 
 **Note:** The most recent version of the TREC browser is available at [https://pages.nist.gov/trec-browser](https://pages.nist.gov/trec-browser). If you want to run it locally, e.g., for development purposes, please follow the instructions outlined below.
