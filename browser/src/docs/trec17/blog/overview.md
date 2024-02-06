@@ -4,7 +4,7 @@
 
 {==
 
-The Blog track explores the information seeking behaviour in the blogosphere. The track was introduced in 2006 [1], with a main pilot search task, namely the opinion-finding task. In TREC 2007, the track investigated two main tasks inspired by the analysis of a commercial blog-search query log: the opinion-finding task (i.e. “What do people think about X?”) and the blog distillation task (i.e. “Find me a blog with a principal, recurring interest in X.”).
+The Blog track explores the information seeking behaviour in the blogosphere. The track was introduced in 2006, with a main pilot search task, namely the opinion-finding task. In TREC 2007, the track investigated two main tasks inspired by the analysis of a commercial blog-search query log: the opinion-finding task (i.e. “What do people think about X?”) and the blog distillation task (i.e. “Find me a blog with a principal, recurring interest in X.”).
 
 ==}
 

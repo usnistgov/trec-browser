@@ -5,30 +5,84 @@ search:
 
 # Results - Session 2014 
 
-#### ECxSRMxOS 
-[**`Metadata`**](./runs.md#ecxsrmxosrl1), [**`Participants`**](./participants.md#endicott), [**`Proceedings`**](./proceedings.md#endicott-college-at-2014-trec-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ECxSRMxOS.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ECxSRMxOS.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ECxSRMxOS.pdf)
+#### GUS14Run2 
+[**`Metadata`**](./runs.md#gus14run2rl1), [**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#modeling-rich-interactions-in-session-search-georgetown-university-at-trec-2014-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-GUS14Run2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-GUS14Run2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/GUS14Run2.pdf)
 ??? example "summary (RL1)"
 	```
-	map			all 0.0733
-	err			all 0.1145
-	ndcg		all 0.1576
-	P_k			all 0.3970
+	map			all 0.0561
+	err			all 0.1439
+	ndcg		all 0.1614
+	P_k			all 0.3780
 
 	```
 ??? example "summary (RL2)"
 	```
-	map			all 0.0677
-	err			all 0.1149
-	ndcg		all 0.1562
-	P_k			all 0.3950
+	map			all 0.0676
+	err			all 0.1745
+	ndcg		all 0.1801
+	P_k			all 0.4270
 
 	```
 ??? example "summary (RL3)"
 	```
-	map			all 0.0684
-	err			all 0.1225
-	ndcg		all 0.1618
-	P_k			all 0.3940
+	map			all 0.0675
+	err			all 0.1779
+	ndcg		all 0.1803
+	P_k			all 0.4240
+
+	```
+---
+#### ecnusession3 
+[**`Metadata`**](./runs.md#ecnusession3rl1), [**`Participants`**](./participants.md#ecnu), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ecnusession3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ecnusession3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ecnusession3.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0470
+	err			all 0.0431
+	ndcg		all 0.1360
+	P_k			all 0.2110
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.1057
+	err			all 0.1212
+	ndcg		all 0.2813
+	P_k			all 0.3990
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.1461
+	err			all 0.1368
+	ndcg		all 0.3413
+	P_k			all 0.4600
+
+	```
+---
+#### webis2014db 
+[**`Metadata`**](./runs.md#webis2014dbrl1), [**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-webis2014db.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-webis2014db.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/webis2014db.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.1304
+	err			all 0.1106
+	ndcg		all 0.3283
+	P_k			all 0.3750
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0768
+	err			all 0.1087
+	ndcg		all 0.1580
+	P_k			all 0.3750
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0798
+	err			all 0.1248
+	ndcg		all 0.1635
+	P_k			all 0.3950
 
 	```
 ---
@@ -56,6 +110,33 @@ search:
 	err			all 0.1314
 	ndcg		all 0.3342
 	P_k			all 0.3970
+
+	```
+---
+#### UMASS2 
+[**`Metadata`**](./runs.md#umass2rl1), [**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-web-2014-entity-query-feature-expansion-using-knowledge-base-links), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-UMASS2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-UMASS2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/UMASS2.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0777
+	err			all 0.1121
+	ndcg		all 0.2072
+	P_k			all 0.3470
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0786
+	err			all 0.0997
+	ndcg		all 0.2026
+	P_k			all 0.3580
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0748
+	err			all 0.0950
+	ndcg		all 0.2014
+	P_k			all 0.3210
 
 	```
 ---
@@ -113,222 +194,6 @@ search:
 
 	```
 ---
-#### RAMA 
-[**`Metadata`**](./runs.md#ramarl1), [**`Participants`**](./participants.md#rama), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-RAMA.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-RAMA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/RAMA.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0345
-	err			all 0.0764
-	ndcg		all 0.1087
-	P_k			all 0.2540
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0338
-	err			all 0.0749
-	ndcg		all 0.1036
-	P_k			all 0.2470
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0250
-	err			all 0.0609
-	ndcg		all 0.0929
-	P_k			all 0.1670
-
-	```
----
-#### WLZNTJU 
-[**`Metadata`**](./runs.md#wlzntjurl1), [**`Participants`**](./participants.md#wlzn_tju_cn), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-WLZNTJU.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-WLZNTJU.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/WLZNTJU.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0450
-	err			all 0.0901
-	ndcg		all 0.1254
-	P_k			all 0.3020
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0385
-	err			all 0.0961
-	ndcg		all 0.0906
-	P_k			all 0.3280
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0364
-	err			all 0.0946
-	ndcg		all 0.0895
-	P_k			all 0.3140
-
-	```
----
-#### GUS14Run1 
-[**`Metadata`**](./runs.md#gus14run1rl1), [**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#modeling-rich-interactions-in-session-search-georgetown-university-at-trec-2014-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-GUS14Run1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-GUS14Run1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/GUS14Run1.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0561
-	err			all 0.1439
-	ndcg		all 0.1614
-	P_k			all 0.3780
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0675
-	err			all 0.1735
-	ndcg		all 0.1795
-	P_k			all 0.4260
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0674
-	err			all 0.1756
-	ndcg		all 0.1797
-	P_k			all 0.4230
-
-	```
----
-#### ECxSRMxPRF 
-[**`Metadata`**](./runs.md#ecxsrmxprfrl1), [**`Participants`**](./participants.md#endicott), [**`Proceedings`**](./proceedings.md#endicott-college-at-2014-trec-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ECxSRMxPRF.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ECxSRMxPRF.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ECxSRMxPRF.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0614
-	err			all 0.1058
-	ndcg		all 0.1447
-	P_k			all 0.3680
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0622
-	err			all 0.1126
-	ndcg		all 0.1487
-	P_k			all 0.3770
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0636
-	err			all 0.1264
-	ndcg		all 0.1565
-	P_k			all 0.3760
-
-	```
----
-#### GUS14Run2 
-[**`Metadata`**](./runs.md#gus14run2rl1), [**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#modeling-rich-interactions-in-session-search-georgetown-university-at-trec-2014-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-GUS14Run2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-GUS14Run2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/GUS14Run2.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0561
-	err			all 0.1439
-	ndcg		all 0.1614
-	P_k			all 0.3780
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0676
-	err			all 0.1745
-	ndcg		all 0.1801
-	P_k			all 0.4270
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0675
-	err			all 0.1779
-	ndcg		all 0.1803
-	P_k			all 0.4240
-
-	```
----
-#### UMASS1 
-[**`Metadata`**](./runs.md#umass1rl1), [**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-web-2014-entity-query-feature-expansion-using-knowledge-base-links), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-UMASS1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-UMASS1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/UMASS1.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0777
-	err			all 0.1121
-	ndcg		all 0.2072
-	P_k			all 0.3470
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0703
-	err			all 0.1211
-	ndcg		all 0.2067
-	P_k			all 0.3650
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0792
-	err			all 0.1134
-	ndcg		all 0.2189
-	P_k			all 0.3820
-
-	```
----
-#### ecnusession2 
-[**`Metadata`**](./runs.md#ecnusession2rl1), [**`Participants`**](./participants.md#ecnu), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ecnusession2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ecnusession2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ecnusession2.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.1160
-	err			all 0.0805
-	ndcg		all 0.2845
-	P_k			all 0.2920
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.1472
-	err			all 0.1251
-	ndcg		all 0.3364
-	P_k			all 0.4060
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.1515
-	err			all 0.1289
-	ndcg		all 0.3379
-	P_k			all 0.4120
-
-	```
----
-#### ICTNET14SER3 
-[**`Metadata`**](./runs.md#ictnet14ser3rl1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ICTNET14SER3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ICTNET14SER3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ICTNET14SER3.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.1304
-	err			all 0.1106
-	ndcg		all 0.3283
-	P_k			all 0.3750
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.1259
-	err			all 0.1423
-	ndcg		all 0.3347
-	P_k			all 0.4290
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.1258
-	err			all 0.1425
-	ndcg		all 0.3350
-	P_k			all 0.4380
-
-	```
----
 #### ICTNET14SER2 
 [**`Metadata`**](./runs.md#ictnet14ser2rl1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ICTNET14SER2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ICTNET14SER2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ICTNET14SER2.pdf)
 ??? example "summary (RL1)"
@@ -380,6 +245,87 @@ search:
 	err			all 0.1241
 	ndcg		all 0.1645
 	P_k			all 0.4020
+
+	```
+---
+#### ecnusession2 
+[**`Metadata`**](./runs.md#ecnusession2rl1), [**`Participants`**](./participants.md#ecnu), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ecnusession2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ecnusession2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ecnusession2.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.1160
+	err			all 0.0805
+	ndcg		all 0.2845
+	P_k			all 0.2920
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.1472
+	err			all 0.1251
+	ndcg		all 0.3364
+	P_k			all 0.4060
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.1515
+	err			all 0.1289
+	ndcg		all 0.3379
+	P_k			all 0.4120
+
+	```
+---
+#### UMASS1 
+[**`Metadata`**](./runs.md#umass1rl1), [**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-web-2014-entity-query-feature-expansion-using-knowledge-base-links), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-UMASS1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-UMASS1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/UMASS1.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0777
+	err			all 0.1121
+	ndcg		all 0.2072
+	P_k			all 0.3470
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0703
+	err			all 0.1211
+	ndcg		all 0.2067
+	P_k			all 0.3650
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0792
+	err			all 0.1134
+	ndcg		all 0.2189
+	P_k			all 0.3820
+
+	```
+---
+#### ECxSRMxPRF 
+[**`Metadata`**](./runs.md#ecxsrmxprfrl1), [**`Participants`**](./participants.md#endicott), [**`Proceedings`**](./proceedings.md#endicott-college-at-2014-trec-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ECxSRMxPRF.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ECxSRMxPRF.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ECxSRMxPRF.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0614
+	err			all 0.1058
+	ndcg		all 0.1447
+	P_k			all 0.3680
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0622
+	err			all 0.1126
+	ndcg		all 0.1487
+	P_k			all 0.3770
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0636
+	err			all 0.1264
+	ndcg		all 0.1565
+	P_k			all 0.3760
 
 	```
 ---
@@ -464,35 +410,8 @@ search:
 
 	```
 ---
-#### UMASS2 
-[**`Metadata`**](./runs.md#umass2rl1), [**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-web-2014-entity-query-feature-expansion-using-knowledge-base-links), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-UMASS2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-UMASS2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/UMASS2.pdf)
-??? example "summary (RL1)"
-	```
-	map			all 0.0777
-	err			all 0.1121
-	ndcg		all 0.2072
-	P_k			all 0.3470
-
-	```
-??? example "summary (RL2)"
-	```
-	map			all 0.0786
-	err			all 0.0997
-	ndcg		all 0.2026
-	P_k			all 0.3580
-
-	```
-??? example "summary (RL3)"
-	```
-	map			all 0.0748
-	err			all 0.0950
-	ndcg		all 0.2014
-	P_k			all 0.3210
-
-	```
----
-#### webis2014db 
-[**`Metadata`**](./runs.md#webis2014dbrl1), [**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-webis2014db.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-webis2014db.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/webis2014db.pdf)
+#### ICTNET14SER3 
+[**`Metadata`**](./runs.md#ictnet14ser3rl1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ICTNET14SER3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ICTNET14SER3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ICTNET14SER3.pdf)
 ??? example "summary (RL1)"
 	```
 	map			all 0.1304
@@ -503,45 +422,99 @@ search:
 	```
 ??? example "summary (RL2)"
 	```
-	map			all 0.0768
-	err			all 0.1087
-	ndcg		all 0.1580
-	P_k			all 0.3750
+	map			all 0.1259
+	err			all 0.1423
+	ndcg		all 0.3347
+	P_k			all 0.4290
 
 	```
 ??? example "summary (RL3)"
 	```
-	map			all 0.0798
-	err			all 0.1248
-	ndcg		all 0.1635
-	P_k			all 0.3950
+	map			all 0.1258
+	err			all 0.1425
+	ndcg		all 0.3350
+	P_k			all 0.4380
 
 	```
 ---
-#### ecnusession3 
-[**`Metadata`**](./runs.md#ecnusession3rl1), [**`Participants`**](./participants.md#ecnu), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ecnusession3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ecnusession3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ecnusession3.pdf)
+#### RAMA 
+[**`Metadata`**](./runs.md#ramarl1), [**`Participants`**](./participants.md#rama), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-RAMA.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-RAMA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/RAMA.pdf)
 ??? example "summary (RL1)"
 	```
-	map			all 0.0470
-	err			all 0.0431
-	ndcg		all 0.1360
-	P_k			all 0.2110
+	map			all 0.0345
+	err			all 0.0764
+	ndcg		all 0.1087
+	P_k			all 0.2540
 
 	```
 ??? example "summary (RL2)"
 	```
-	map			all 0.1057
-	err			all 0.1212
-	ndcg		all 0.2813
-	P_k			all 0.3990
+	map			all 0.0338
+	err			all 0.0749
+	ndcg		all 0.1036
+	P_k			all 0.2470
 
 	```
 ??? example "summary (RL3)"
 	```
-	map			all 0.1461
-	err			all 0.1368
-	ndcg		all 0.3413
-	P_k			all 0.4600
+	map			all 0.0250
+	err			all 0.0609
+	ndcg		all 0.0929
+	P_k			all 0.1670
+
+	```
+---
+#### ECxSRMxOS 
+[**`Metadata`**](./runs.md#ecxsrmxosrl1), [**`Participants`**](./participants.md#endicott), [**`Proceedings`**](./proceedings.md#endicott-college-at-2014-trec-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-ECxSRMxOS.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-ECxSRMxOS.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/ECxSRMxOS.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0733
+	err			all 0.1145
+	ndcg		all 0.1576
+	P_k			all 0.3970
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0677
+	err			all 0.1149
+	ndcg		all 0.1562
+	P_k			all 0.3950
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0684
+	err			all 0.1225
+	ndcg		all 0.1618
+	P_k			all 0.3940
+
+	```
+---
+#### WLZNTJU 
+[**`Metadata`**](./runs.md#wlzntjurl1), [**`Participants`**](./participants.md#wlzn_tju_cn), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-WLZNTJU.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-WLZNTJU.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/WLZNTJU.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0450
+	err			all 0.0901
+	ndcg		all 0.1254
+	P_k			all 0.3020
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0385
+	err			all 0.0961
+	ndcg		all 0.0906
+	P_k			all 0.3280
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0364
+	err			all 0.0946
+	ndcg		all 0.0895
+	P_k			all 0.3140
 
 	```
 ---
@@ -569,6 +542,33 @@ search:
 	err			all 0.1828
 	ndcg		all 0.1897
 	P_k			all 0.4290
+
+	```
+---
+#### GUS14Run1 
+[**`Metadata`**](./runs.md#gus14run1rl1), [**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#modeling-rich-interactions-in-session-search-georgetown-university-at-trec-2014-session-track), [**`Input`**](https://trec.nist.gov/results/trec23/session/input-GUS14Run1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec23/session/summary-GUS14Run1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/session/GUS14Run1.pdf)
+??? example "summary (RL1)"
+	```
+	map			all 0.0561
+	err			all 0.1439
+	ndcg		all 0.1614
+	P_k			all 0.3780
+
+	```
+??? example "summary (RL2)"
+	```
+	map			all 0.0675
+	err			all 0.1735
+	ndcg		all 0.1795
+	P_k			all 0.4260
+
+	```
+??? example "summary (RL3)"
+	```
+	map			all 0.0674
+	err			all 0.1756
+	ndcg		all 0.1797
+	P_k			all 0.4230
 
 	```
 ---
