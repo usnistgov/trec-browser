@@ -17,7 +17,7 @@ The database is available for research and non-commercial purposes. It can be ob
 
 ## Running the demo of the REST API
 
-Before running the [demo notebook](./api/demo.ipynb), please make sure to follow the setup [instructions outlined below](#running-the-rest-api-locally). Afterward, you can retrieve outputs from the REST API. Use the notebook for three possible use cases, including (1) a general introduction to the API invocations and retrieving metadata, (2) fetching resources of earlier TREC submissions, and (3) reproducing system comparisons of earlier tracks.
+Before running the [demo notebook](./api/demo.ipynb), please make sure to follow the setup [instructions outlined below](#running-the-rest-api). Afterward, you can retrieve outputs from the REST API. Use the notebook for three possible use cases, including (1) a general introduction to the API invocations and retrieving metadata, (2) fetching resources of earlier TREC submissions, and (3) reproducing system comparisons of earlier tracks.
 
 ## Setup
 
