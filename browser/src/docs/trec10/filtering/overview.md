@@ -11,7 +11,7 @@ Given a topic description, build a filtering profile which will select the most 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

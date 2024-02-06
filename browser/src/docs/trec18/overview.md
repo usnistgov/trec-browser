@@ -20,7 +20,7 @@ In the second year, the concentration shifted to finding good sets of docs to ba
 
 {==
 
-TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluation of search techniques for discovery of digitally stored information on chemical patents and academic journal articles. The track included two tasks: Prior Art (PA) and Technical Survey (TS) tasks. This paper describes how we designed the two tasks and presents the official results of eight participating groups.
+TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluation of search techniques for discovery of digitally stored information on chemical patents and academic journal articles. The track included two tasks: Prior Art (PA) and Technical Survey (TS) tasks.
 
 ==}
 
@@ -43,7 +43,7 @@ TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluati
 
 {==
 
-TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of search technology for “discovery” (i.e., responsive review) of electronically stored information in litigation and regulatory settings. The track included two tasks: an Interactive task (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback) and a Batch task (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass). This paper describes the design of the two tasks and presents the results.
+TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of search technology for “discovery” (i.e., responsive review) of electronically stored information in litigation and regulatory settings. The track included two tasks: an Interactive task (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback) and a Batch task (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass).
 
 ==}
 
@@ -65,7 +65,7 @@ TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of
 
 {==
 
-The TREC Web Track explores and evaluates Web retrieval technologies. Currently, the Web Track conducts experiments using the new billion-page ClueWeb09 collection. The TREC 2009 track is the successor to the Terabyte Retrieval Track, which ran from 2004 to 2006, and to the older Web Track, which ran from 1999 to 2003. The TREC 2009 Web Track includes both a traditional adhoc retrieval task and a new diversity task. 
+The TREC Web Track explores and evaluates Web retrieval technologies. Currently, the Web Track conducts experiments using the new billion-page ClueWeb09 collection. The TREC 2009 track is the successor to the Terabyte Retrieval Track, which ran from 2004 to 2006, and to the older Web Track, which ran from 1999 to 2003. The TREC 2009 Web Track includes both a traditional adhoc retrieval task and a new diversity task.
 
 ==}
 
@@ -73,7 +73,7 @@ The TREC Web Track explores and evaluates Web retrieval technologies. Currently,
 
 - C.L.A. Clarke, University of Waterloo 
 - N. Craswell, Microsoft 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://plg.uwaterloo.ca/~trecweb/2009.html`](https://plg.uwaterloo.ca/~trecweb/2009.html) 

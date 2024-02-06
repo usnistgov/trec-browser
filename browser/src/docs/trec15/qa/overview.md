@@ -10,7 +10,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- H.T. Dang, NIST 
+- H.T. Dang, National Institute of Standards and Technology (NIST) 
 - J. Lin, University of Maryland, College Park 
 - D. Kelly, University of North Carolina, Chapel Hill 
 

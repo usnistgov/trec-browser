@@ -12,7 +12,7 @@ The goal of the Blog track is to explore the information seeking behaviour in th
 
 - C. Macdonald, University of Glasgow 
 - I. Ounis, University of Glasgow 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

@@ -36,7 +36,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 - Bhaskar Mitra, Microsoft AI and Research 
 - Daniel Campos,  Microsoft AI and Research 
 - Emine Yilmaz, University College London 
-- Ellen M. Voorhees, NIST 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://microsoft.github.io/msmarco/TREC-Deep-Learning`](https://microsoft.github.io/msmarco/TREC-Deep-Learning) 
@@ -49,7 +49,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 
 {==
 
-Precision medicine is a medical paradigm in which treatments are customized entirely to the individual patient. The underlying issue that drives precision medicine is that for many complex diseases, there are no “one size fits all” solutions for patients with a particular diagnosis. The proper treatment for a patient depends upon genetic, environmental, and lifestyle choices. The ability to personalize treatment in a scientifically rigorous manner based on these factors is thus the hallmark of the emerging precision medicine paradigm. Nowhere is the potential impact of precision medicine more closely focused at the moment than in cancer, where lifesaving treatments for particular patients could prove ineffective or even deadly for other patients based entirely upon the particular genetic mutations in the patient’s tumor(s). Significant effort, therefore, has been devoted to deepening the scientific research surrounding precision medicine. This includes the Precision Medicine Initiative (Collins and Varmus, 2015) launched by President Barack Obama in 2015, now known as the All of Us Research Program.
+Precision medicine is a medical paradigm in which treatments are customized entirely to the individual patient. The underlying issue that drives precision medicine is that for many complex diseases, there are no “one size fits all” solutions for patients with a particular diagnosis. The proper treatment for a patient depends upon genetic, environmental, and lifestyle choices. The ability to personalize treatment in a scientifically rigorous manner based on these factors is thus the hallmark of the emerging precision medicine paradigm. Nowhere is the potential impact of precision medicine more closely focused at the moment than in cancer, where lifesaving treatments for particular patients could prove ineffective or even deadly for other patients based entirely upon the particular genetic mutations in the patient’s tumor(s). Significant effort, therefore, has been devoted to deepening the scientific research surrounding precision medicine. This includes the Precision Medicine Initiative launched by President Barack Obama in 2015, now known as the All of Us Research Program.
 
 ==}
 
@@ -57,7 +57,7 @@ Precision medicine is a medical paradigm in which treatments are customized enti
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
-- Ellen M. Voorhees, National Institute of Standards and Technology 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 - William R. Hersh, Oregon Health & Science University 
 - Steven Bedrick, Oregon Health & Science University 
 - Alexander J. Lazar, The University of Texas MD Anderson Cancer Center 
@@ -75,7 +75,7 @@ Precision medicine is a medical paradigm in which treatments are customized enti
 
 {==
 
-The importance of conversation and conversational models for complex information seeking tasks is well-established within information retrieval, initially to understand user behavior during interactive search [4, 8] and later to improve search accuracy during search sessions [1]. The rapid adoption of a new generation of conversational assistants such as Alexa, Siri, Cortana, Bixby, and Google Assistant increase the scope and importance of conversational approaches to information seeking and also introduce a broad range of new research problems [2]. The TREC Conversational Assistance Track (CAsT) is a new initiative to facilitate Conversational Information Seeking (CIS) research and to create a large-scale reusable test collection for conversational search systems. We define it as a task in which effective response selection requires understanding a question’s context (the dialogue history). It focuses attention on user modeling, analysis of prior retrieval results, transformation of questions into effective queries, and other topics that have been difficult to study with previous datasets. To make this tractable and reusable for the first year of CAsT, we begin with pre-determined conversation trajectories and passage responses. Our target conversations include several rounds of utterances that are coherent in topic and explore relevant information. The primary initial focus is on system understanding of information needs in a conversational format and finding relevant passages leveraging conversational context. The long-term vision of CAsT is to allow natural conversions with mixed-initiative, where the system performs a variety of information actions [7], e.g., providing information (INFORM), asking clarifying questions (CLARIFY), leading conversations with more interactions (SUGGEST), and others. For the first year we focus on context understanding and use simple INFORM actions, where systems return text passages to the user. In the future, we plan to explore richer sets of information actions, richer response formats, and more interactions between users and conversational agents.
+The importance of conversation and conversational models for complex information seeking tasks is well-established within information retrieval, initially to understand user behavior during interactive search and later to improve search accuracy during search sessions. The rapid adoption of a new generation of conversational assistants such as Alexa, Siri, Cortana, Bixby, and Google Assistant increase the scope and importance of conversational approaches to information seeking and also introduce a broad range of new research problems. The TREC Conversational Assistance Track (CAsT) is a new initiative to facilitate Conversational Information Seeking (CIS) research and to create a large-scale reusable test collection for conversational search systems. We define it as a task in which effective response selection requires understanding a question’s context (the dialogue history). It focuses attention on user modeling, analysis of prior retrieval results, transformation of questions into effective queries, and other topics that have been difficult to study with previous datasets. To make this tractable and reusable for the first year of CAsT, we begin with pre-determined conversation trajectories and passage responses. Our target conversations include several rounds of utterances that are coherent in topic and explore relevant information. The primary initial focus is on system understanding of information needs in a conversational format and finding relevant passages leveraging conversational context. The long-term vision of CAsT is to allow natural conversions with mixed-initiative, where the system performs a variety of information actions, e.g., providing information (INFORM), asking clarifying questions (CLARIFY), leading conversations with more interactions (SUGGEST), and others. For the first year we focus on context understanding and use simple INFORM actions, where systems return text passages to the user. In the future, we plan to explore richer sets of information actions, richer response formats, and more interactions between users and conversational agents.
 
 ==}
 
@@ -96,15 +96,15 @@ The importance of conversation and conversational models for complex information
 
 {==
 
-The News track focuses on information retrieval in the service of helping people read the news. In 2018, in cooperation with the Washington Post1 , we released a new collection of nearly 600,000 news articles, and crafted two tasks related to how news is presented on the web: background linking and entity ranking. This second iteration of the track continues these two tasks with minor updates.
+The News track focuses on information retrieval in the service of helping people read the news. In 2018, in cooperation with the Washington Post, we released a new collection of nearly 600,000 news articles, and crafted two tasks related to how news is presented on the web: background linking and entity ranking. This second iteration of the track continues these two tasks with minor updates.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ian Soboroff, NIST 
-- Shudong Huang, NIST 
-- Donna Harman, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://trec-news.org/`](http://trec-news.org/) 
@@ -117,7 +117,7 @@ The News track focuses on information retrieval in the service of helping people
 
 {==
 
-Search engine results underpin many consequential decision making tasks. Examples include people using search technologies to seek health advice online [10, 18], or time-pressured clinicians relying on search results to decide upon the best treatment/diagnosis/test for a patient [22, 20]. A key problem when using search engines in order to complete such decision making tasks, is whether users are able to discern authoritative from unreliable information and correct from incorrect information. This problem is further exacerbated when the search occurs within uncontrolled data collections, such as the web, where information can be unreliable, generally misleading, too technical, and can lead to unfounded escalations [24]. Information from search engine results can significantly influence decisions, and research shows that increasing the amount of incorrect information about a topic presented in a Search Engine Result Page (SERP) can impel users to take incorrect decisions [16]. As noted in the SWIRL III report [7], decision making with search engines is poorly understood, and likewise, evaluation measures for these search tasks need to be developed and improved. In this context, the TREC 2019 Decision track aims to (1) foster research on retrieval methods that promote better decision making with search engines, and (2) develop new online and offline evaluation methods to predict the decision making quality induced by search results. This overview paper is organized as follows: Section 2 describes the track setup, the collection and the official evaluation measures, Section 3 reports and discusses the evaluation results for the submitted runs, and finally Section 4 outlines future directions for the next edition of the track.
+Search engine results underpin many consequential decision making tasks. Examples include people using search technologies to seek health advice online, or time-pressured clinicians relying on search results to decide upon the best treatment/diagnosis/test for a patient. A key problem when using search engines in order to complete such decision making tasks, is whether users are able to discern authoritative from unreliable information and correct from incorrect information. This problem is further exacerbated when the search occurs within uncontrolled data collections, such as the web, where information can be unreliable, generally misleading, too technical, and can lead to unfounded escalations. Information from search engine results can significantly influence decisions, and research shows that increasing the amount of incorrect information about a topic presented in a Search Engine Result Page (SERP) can impel users to take incorrect decisions. As noted in the SWIRL III report, decision making with search engines is poorly understood, and likewise, evaluation measures for these search tasks need to be developed and improved. In this context, the TREC 2019 Decision track aims to (1) foster research on retrieval methods that promote better decision making with search engines, and (2) develop new online and offline evaluation methods to predict the decision making quality induced by search results.
 
 ==}
 
@@ -140,7 +140,7 @@ Search engine results underpin many consequential decision making tasks. Example
 
 {==
 
-The goal of the TREC Fair Ranking track was to develop a benchmark for evaluating retrieval systems in terms of fairness to different content providers in addition to classic notions of relevance. As part of the benchmark, we defined standardized fairness metrics with evaluation protocols and released a dataset for the fair ranking problem. The 2019 task focused on reranking academic paper abstracts given a query. The objective was to fairly represent relevant authors from several groups that were unknown at the system submission time. Thus, the track emphasized the development of systems which have robust performance across a variety of group definitions. Participants were provided with querylog data (queries, documents, and relevance) from Semantic Scholar. This paper presents an overview of the track, including the task definition, descriptions of the data and the annotation process, as well as a comparison of the performance of submitted systems.
+The goal of the TREC Fair Ranking track was to develop a benchmark for evaluating retrieval systems in terms of fairness to different content providers in addition to classic notions of relevance. As part of the benchmark, we defined standardized fairness metrics with evaluation protocols and released a dataset for the fair ranking problem. The 2019 task focused on reranking academic paper abstracts given a query. The objective was to fairly represent relevant authors from several groups that were unknown at the system submission time. Thus, the track emphasized the development of systems which have robust performance across a variety of group definitions. Participants were provided with querylog data (queries, documents, and relevance) from Semantic Scholar.
 
 ==}
 
@@ -162,7 +162,7 @@ The goal of the TREC Fair Ranking track was to develop a benchmark for evaluatin
 
 {==
 
-The ubiquity of mobile internet-enabled devices combined with wide-spread social media use during emergencies is posing new challenges for response personnel. In particular, service operators are now expected to monitor these online channels to extract actionable insights and answer questions from the public. A lack of adequate tools makes this monitoring impractical at the scale of many emergencies. The TREC Incident Streams (TREC-IS) track drives research into solving this technology gap by bringing together academia and industry to develop techniques for extracting actionable insights from social media streams during emergencies. This paper covers the second year of TREC-IS, hosted in 2019 with two editions, 2019-A and 2019-B, contributing 12 new events and approximately 20,000 new tweets across 25 information categories, with 15 research groups participating across the world. This paper provides an overview of these new editions, actionable insights from data labelling, and the automated techniques employed by participant systems that appear most effective.
+The ubiquity of mobile internet-enabled devices combined with wide-spread social media use during emergencies is posing new challenges for response personnel. In particular, service operators are now expected to monitor these online channels to extract actionable insights and answer questions from the public. A lack of adequate tools makes this monitoring impractical at the scale of many emergencies. The TREC Incident Streams (TREC-IS) track drives research into solving this technology gap by bringing together academia and industry to develop techniques for extracting actionable insights from social media streams during emergencies.
 
 ==}
 

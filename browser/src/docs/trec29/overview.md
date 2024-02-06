@@ -12,9 +12,9 @@ The News track focuses on information retrieval in the service of helping people
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ian Soboroff, National Institute of Standards and Technology 
-- Shudong Huang, National Institute of Standards and Technology 
-- Donna Harman, National Institute of Standards and Technology 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://trec-news.org/`](http://trec-news.org/) 
@@ -50,7 +50,7 @@ This is the second year of the TREC Deep Learning Track, with the goal of studyi
 
 {==
 
-Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standard approaches for classifying the types and criticality of information shared in online social spaces during crises, but the introduction of SARS-CoV-2 has shifted the landscape of online crises substantially. While prior editions of TREC-IS have lacked data on large-scale public-health emergencies as these events are exceedingly rare, COVID-19 has introduced an over-abundance of potential data, and significant open questions remain about how existing approaches to crisis informatics and datasets built on other emergencies adapt to this new context. This paper describes how the 2020 edition of TREC-IS has addressed these dual issues by introducing a new COVID-19-specific task for evaluating generalization of existing COVID-19 annotation and system performance to this new context, applied to 11 regions across the globe. TREC-IS has also continued expanding its set of target crises, adding 29 new events and expanding the collection of event types to include explosions, fires, and general storms, making for a total of 9 event types in addition to the new COVID-19 events. Across these events, TREC-IS has made available 478,110 COVID-related messages and 282,444 crisis-related messages for participant systems to analyze, of which 14,835 COVID-related and 19,784 crisis-related messages have been manually annotated. Analyses of these new datasets and participant systems demonstrate first that both the distributions of information type and priority of information vary between general crises and COVID-19-related discussion. Secondly, despite these differences, results suggest leveraging general crisis data in the COVID-19 context improves performance over baselines. Using these results, we provide guidance on which information types appear most consistent between general crises and COVID-19.
+Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standard approaches for classifying the types and criticality of information shared in online social spaces during crises, but the introduction of SARS-CoV-2 has shifted the landscape of online crises substantially. While prior editions of TREC-IS have lacked data on large-scale public-health emergencies as these events are exceedingly rare, COVID-19 has introduced an over-abundance of potential data, and significant open questions remain about how existing approaches to crisis informatics and datasets built on other emergencies adapt to this new context.
 
 ==}
 
@@ -58,7 +58,7 @@ Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standa
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 
--  Ian Soboroff, National Institute of Standards and Technology 
+-  Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/~richardm/TREC_IS/`](https://www.dcs.gla.ac.uk/~richardm/TREC_IS/) 
@@ -71,7 +71,7 @@ Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standa
 
 {==
 
-TREC 2020 was the second year for the Health Misinformation track, which was named the Decision Track in 2019. Information retrieval using document collections that contain misinformation are problematic. When a search engine returns documents that contain misinformation, users may have difficulty discerning correct from incorrect information and the incorrect information can lead to incorrect decisions. Decisions regarding health-related topics can be consequential, and as such we want search engines that enable users to make correct decisions. The track is designed to address the problem of health misinformation in three areas: 1) adhoc retrieval, 2) the total recall of misinformation in the collection, and 3) the evaluation of retrieval in the presence of misinformation. The 2020 Health Misinformation track had both a recall task and an adhoc task for participants. With the onset of the coronavirus pandemic (COVID-19), the track organizers selected a document collection of news from the Common Crawl that covered the first four months of 2020. The track’s topics were all related to COVID-19 and posed as questions such as “Can gargling salt water prevent COVID-19?” For both tasks, NIST assessors judged documents’ usefulness for answering a topic’s question, and if judged to be useful, assessors then recorded if the document contained a specific answer to the question and then judged the credibility of the document. We evaluated recall runs on their ability to find all documents containing incorrect information (misinformation). For adhoc runs, we measured their ability to return useful, correct, and credible information.
+TREC 2020 was the second year for the Health Misinformation track, which was named the Decision Track in 2019. Information retrieval using document collections that contain misinformation are problematic. When a search engine returns documents that contain misinformation, users may have difficulty discerning correct from incorrect information and the incorrect information can lead to incorrect decisions. Decisions regarding health-related topics can be consequential, and as such we want search engines that enable users to make correct decisions. The track is designed to address the problem of health misinformation in three areas: 1) adhoc retrieval, 2) the total recall of misinformation in the collection, and 3) the evaluation of retrieval in the presence of misinformation. The 2020 Health Misinformation track had both a recall task and an adhoc task for participants.
 
 ==}
 
@@ -115,7 +115,7 @@ CAsT 2020 is the second year of the Conversational Assistance Track and builds o
 
 {==
 
-The precision medicine paradigm focuses on identifying treatments that are best suited to an individual patient’s unique attributes. The reasoning behind this paradigm is that diseases do not uniformly manifest in people and thus “one size fits all” treatments are often not appropriate. For many diseases, such as cancer, proper selection of a treatment strategy can drastically improve results compared to the standard, frontline treatment. Generally speaking, the issues that are taken into consideration for precision medicine are the genomic, environmental, and lifestyle contexts of the patient. While precision medicine as a paradigm can be seen to broadly apply to medicine as a whole, the area where it has seen the most attention is cancer. Many cancer treatments may be lifesaving in one patient but deadly in another, primarily based on the genetic mutations of the patient’s tumor. Different treatments for the same type of cancer often target the genetic pathways applicable to the specific tumor’s genes. As a result, there has been a significant amount of effort devoted to identifying these genetic pathways, identifying potential drugs that could target different aspects of these pathways, and assessing the clinical efficacy of these drugs in human studies. This includes the Precision Medicine Initiative (Collins and Varmus, 2015) launched by President Barack Obama in 2015, now known as the All of Us Research Program.
+The precision medicine paradigm focuses on identifying treatments that are best suited to an individual patient’s unique attributes. The reasoning behind this paradigm is that diseases do not uniformly manifest in people and thus “one size fits all” treatments are often not appropriate. For many diseases, such as cancer, proper selection of a treatment strategy can drastically improve results compared to the standard, frontline treatment. Generally speaking, the issues that are taken into consideration for precision medicine are the genomic, environmental, and lifestyle contexts of the patient.
 
 ==}
 
@@ -123,7 +123,7 @@ The precision medicine paradigm focuses on identifying treatments that are best 
 
 - Kirk Roberts, The University of Texas Health Science Center 
 - Dina Demner-Fushman, U.S. National Library of Medicine 
-- Ellen M. Voorhees, National Institute of Standards and Technology 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 - Steven Bedrick and William R. Hersh, Oregon Health & Science University 
 
 
@@ -137,7 +137,7 @@ The precision medicine paradigm focuses on identifying treatments that are best 
 
 {==
 
-The Podcast Track is new at the Text Retrieval Conference (TREC) in 2020. The podcast track was designed to encourage research into podcasts in the information retrieval and NLP research communities. The track consisted of two shared tasks: segment retrieval and summarization, both based on a dataset of over 100,000 podcast episodes (metadata, audio, and automatic transcripts) which was released concurrently with the track. The track generated considerable interest, aracted hundreds of new registrations to TREC and fieen teams, mostly disjoint between search and summarization, made final submissions for assessment. Deep learning was the dominant experimental approach for both search experiments and summarization. This paper gives an overview of the tasks and the results of the participants’ experiments. The track will return to TREC 2021 with the same two tasks, incorporating slight modifications in response to participant feedback.
+The Podcast Track is new at the Text Retrieval Conference (TREC) in 2020. The podcast track was designed to encourage research into podcasts in the information retrieval and NLP research communities. The track consisted of two shared tasks: segment retrieval and summarization, both based on a dataset of over 100,000 podcast episodes (metadata, audio, and automatic transcripts) which was released concurrently with the track. The track generated considerable interest, aracted hundreds of new registrations to TREC and fifteen teams, mostly disjoint between search and summarization, made final submissions for assessment. Deep learning was the dominant experimental approach for both search experiments and summarization.
 
 ==}
 

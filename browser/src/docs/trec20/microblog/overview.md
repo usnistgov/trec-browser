@@ -12,8 +12,8 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 - Iadh Ounis, University of Glasgow 
 - Craig Macdonald, University of Glasgow 
-- Jimmy Lin Twitter and University of Maryland, College Park 
-- Ian Soboroff, NIST 
+- Jimmy Lin, Twitter and University of Maryland, College Park 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20120604072950/http://sites.google.com/site/microblogtrack/`](https://web.archive.org/web/20120604072950/http://sites.google.com/site/microblogtrack/) 
 

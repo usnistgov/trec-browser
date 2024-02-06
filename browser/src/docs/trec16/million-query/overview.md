@@ -10,9 +10,9 @@ The goal of this track is to run a retrieval task similar to standard ad-hoc ret
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- J. Allan, University of Massachusetts, Amherst 
-- B. Carterette, University of Massachusetts, Amherst 
-- B. Dachev, University of Massachusetts, Amherst 
+- J. Allan, University of Massachusetts Amherst 
+- B. Carterette, University of Massachusetts Amherst 
+- B. Dachev, University of Massachusetts Amherst 
 - J. A. Aslam, Northeastern University 
 - V. Pavlu, Northeastern University 
 - E. Kanoulas, Northeastern University 

@@ -14,7 +14,7 @@ The LiveQA track, now in its second year, is focused on real-time question answe
 - David Carmel, Yahoo Research 
 - Dan Pelleg, Yahoo Research 
 - Yuval Pinter, Yahoo Research 
-- Donna Harman - National Institute of Standards and Technology (NIST) 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20160220151945/https://sites.google.com/site/trecliveqa2016/`](https://web.archive.org/web/20160220151945/https://sites.google.com/site/trecliveqa2016/) 
 

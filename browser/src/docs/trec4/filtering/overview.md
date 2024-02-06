@@ -10,7 +10,7 @@ The filtering track represents a variation of the routing task, and was designed
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D. Lewis (AT&T Research) 
+- D. Lewis, AT&T Research 
 
 
 

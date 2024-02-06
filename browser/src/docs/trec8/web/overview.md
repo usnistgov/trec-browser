@@ -4,15 +4,15 @@
 
 {==
 
-The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 collection (Large Web Task) and a selected 2 gigabyte subset known as WT2g (Small Web Task). Here, the guidelines and resources for both tasks are described and results presented and analysed.
+The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 collection (Large Web Task) and a selected 2 gigabyte subset known as WT2g (Small Web Task).
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Martin Braschler (Eurospider Information Tech. AG) 
-- Carol Peters (Istituto Elaborazione Informazione) 
-- Peter Schäuble (Eurospider Information Tech. AG) 
+- Martin Braschler, Eurospider Information Tech. AG 
+- Carol Peters, Istituto Elaborazione Informazione 
+- Peter Schäuble, Eurospider Information Tech. AG 
 
 :material-text-search: **Tasks:**
 

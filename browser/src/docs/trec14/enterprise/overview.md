@@ -12,7 +12,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 - N. Craswell, Microsoft Research Cambridge 
 - A.P. de Vries, CWI 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

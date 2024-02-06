@@ -12,7 +12,7 @@ The Incident Streams track is designed to bring together academia and industry t
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 
-- Ian Soboroff, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/~richardm/TREC_IS/`](https://www.dcs.gla.ac.uk/~richardm/TREC_IS/) 
 

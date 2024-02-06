@@ -10,8 +10,8 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/test_coll.html`](https://trec.nist.gov/data/test_coll.html) 
 

@@ -12,7 +12,7 @@ The goal of the Terabyte Track is to develop an evaluation methodology for terab
 
 - C. Clarke, University of Waterloo 
 - N. Craswell, Microsoft Research 
-- I. Soboroff, National Institute of Standards and Technology 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/terabyte/04/04.guidelines.html`](https://trec.nist.gov/data/terabyte/04/04.guidelines.html) 
 

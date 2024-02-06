@@ -12,7 +12,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 - S. Buttcher, University of Waterloo 
 - C.L.A. Clarke, University of Waterloo 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

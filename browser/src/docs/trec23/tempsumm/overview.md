@@ -10,12 +10,12 @@ News events such as protests, accidents or natural disasters represent a unique 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Javed Aslam - Northeastern University 
-- Matthew Ekstrand-Abueg - Northeastern University 
-- Virgil Pavlu - Northeastern University 
-- Fernando Diaz - Microsoft Research 
-- Richard McCreadie - University of Glasgow 
-- Tetsuya Sakai - Waseda University 
+- Javed Aslam, Northeastern University 
+- Matthew Ekstrand-Abueg, Northeastern University 
+- Virgil Pavlu, Northeastern University 
+- Fernando Diaz, Microsoft Research 
+- Richard McCreadie, University of Glasgow 
+- Tetsuya Sakai, Waseda University 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20170618023232/http://www.trec-ts.org/`](https://web.archive.org/web/20170618023232/http://www.trec-ts.org/) 
 

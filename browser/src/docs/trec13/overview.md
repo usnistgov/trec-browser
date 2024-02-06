@@ -30,7 +30,7 @@ The TREC 2004 Genomics Track consisted of two tasks. The first task was a standa
 
 {==
 
-The HARD track of TREC 2004 aims to improve the accuracy of information retrieval through the use of three techniques: (1) query metadata that better describes the information need, (2) focused and time-limited interaction with the searcher through “clarification forms”, and (3) incorporation of passage-level relevance judgments and retrieval. Participation in all three aspects of the track was excellent this year with about 10 groups trying something in each area. No group was able to achieve huge gains in effectiveness using these techniques, but some improvements were found and enthusiasm for the clarification forms (in particular) remains high. The track will run again in TREC 2005.
+The HARD track of TREC 2004 aims to improve the accuracy of information retrieval through the use of three techniques: (1) query metadata that better describes the information need, (2) focused and time-limited interaction with the searcher through “clarification forms”, and (3) incorporation of passage-level relevance judgments and retrieval. Participation in all three aspects of the track was excellent this year with about 10 groups trying something in each area. No group was able to achieve huge gains in effectiveness using these techniques, but some improvements were found and enthusiasm for the clarification forms (in particular) remains high.
 
 ==}
 
@@ -55,7 +55,7 @@ The Novelty Track is designed to investigate systems' abilities to locate releva
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t13_novelty/novelty04.guidelines.html`](https://trec.nist.gov/data/t13_novelty/novelty04.guidelines.html) 
@@ -74,7 +74,7 @@ The TREC 2004 Question Answering track contained a single task in which question
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qamain.html`](https://trec.nist.gov/data/qamain.html) 
@@ -93,7 +93,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/robust/04.guidelines.html`](https://trec.nist.gov/data/robust/04.guidelines.html) 
@@ -114,7 +114,7 @@ The goal of the Terabyte Track is to develop an evaluation methodology for terab
 
 - C. Clarke, University of Waterloo 
 - N. Craswell, Microsoft Research 
-- I. Soboroff, National Institute of Standards and Technology 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/terabyte/04/04.guidelines.html`](https://trec.nist.gov/data/terabyte/04/04.guidelines.html) 

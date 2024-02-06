@@ -4,7 +4,7 @@
 
 {==
 
-We present an overview of the medical question answering task organized at the TREC 2017 LiveQA track. The task addresses the automatic answering of consumer health questions received by the U.S. National Library of Medicine. We provided both training question-answer pairs, and test questions with reference answers. All questions were manually annotated with the main entities (foci) and question types. The medical task received eight runs from five participating teams. Different approaches have been applied, including classical answer retrieval based on question analysis and similar question retrieval. In particular, several deep learning approaches were tested, including attentional encoder-decoder networks, long short-term memory networks and convolutional neural networks. The training datasets were both from the open domain and the medical domain. We discuss the obtained results and give some insights for future research in medical question answering
+The task addresses the automatic answering of consumer health questions received by the U.S. National Library of Medicine. We provided both training question-answer pairs, and test questions with reference answers. All questions were manually annotated with the main entities (foci) and question types. The medical task received eight runs from five participating teams. Different approaches have been applied, including classical answer retrieval based on question analysis and similar question retrieval. In particular, several deep learning approaches were tested, including attentional encoder-decoder networks, long short-term memory networks and convolutional neural networks. The training datasets were both from the open domain and the medical domain.
 
 ==}
 

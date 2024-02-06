@@ -14,7 +14,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 - Bhaskar Mitra, Microsoft AI and Research 
 - Daniel Campos,  Microsoft AI and Research 
 - Emine Yilmaz, University College London 
-- Ellen M. Voorhees, NIST 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

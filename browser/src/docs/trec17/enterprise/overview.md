@@ -4,14 +4,14 @@
 
 {==
 
-The goal of the enterprise track is to conduct experiments with enterprise data that reflect the experiences of users in real organizations. This year, we continued with the CERC collection introduced in TREC 2007 (Bailey et al., 2007). Topics were developed in conjunction with CSIRO Enquiries, who field email and telephone questions about CSIRO research from the public.
+The goal of the enterprise track is to conduct experiments with enterprise data that reflect the experiences of users in real organizations. This year, we continued with the CERC collection introduced in TREC 2007. Topics were developed in conjunction with CSIRO Enquiries, who field email and telephone questions about CSIRO research from the public.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - K. Balog, University of Amsterdam 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 - P. Thomas, CSIRO 
 - P. Bailey, Microsoft 
 - N. Craswell, Microsoft 

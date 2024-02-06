@@ -12,8 +12,8 @@ The ad hoc task investigates the performance of systems that search a static set
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/test_coll.html`](https://trec.nist.gov/data/test_coll.html) 
@@ -32,7 +32,7 @@ TREC 7 is the second year the High-Precision (HP) track has been run. It is an a
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- C. Buckley (SabIR Research, Inc.) 
+- C. Buckley, SabIR Research, Inc. 
 
 
 
@@ -51,7 +51,7 @@ Given a topic description, build a filtering profile which will select the most 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D.A. Hull (Xerox Research Centre Europe) 
+- D.A. Hull, Xerox Research Centre Europe 
 
 
 
@@ -70,11 +70,11 @@ Spoken Document Retrieval (SDR) involves the search and retrieval of excerpts fr
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- J. Garofolo (National Institute of Standards and Technology) 
-- E. Voorhees (National Institute of Standards and Technology) 
--  C. Auzanne (National Institute of Standards and Technology) 
-- V. Stanford (National Institute of Standards and Technology) 
-- B. Lund (National Institute of Standards and Technology) 
+- J. Garofolo, National Institute of Standards and Technology (NIST) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+-  C. Auzanne, National Institute of Standards and Technology (NIST) 
+- V. Stanford, National Institute of Standards and Technology (NIST) 
+- B. Lund, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/sdr.html`](https://trec.nist.gov/data/sdr.html) 
@@ -93,10 +93,10 @@ This year, the TREC cross-language retrieval track took place for the second tim
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- M. Braschler (Eurospider Information Technology) 
-- J. Krause (Informationszentrum Sozialwissenschaften) 
-- C. Peters (Istituto di Elaborazione della Informazione (IEI-CNR)) 
-- P. Schäuble (Swiss Federal Institute of Technology (ETH)) 
+- M. Braschler, Eurospider Information Technology 
+- J. Krause, Informationszentrum Sozialwissenschaften 
+- C. Peters, Istituto di Elaborazione della Informazione (IEI-CNR) 
+- P. Schäuble, Swiss Federal Institute of Technology (ETH) 
 
 
 
@@ -115,7 +115,7 @@ General IR research is being held up because we don't have enough queries of var
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- C. Buckley (SabIR Research, Inc.) 
+- C. Buckley, SabIR Research, Inc. 
 
 
 
@@ -134,7 +134,7 @@ For TREC-7 the high-level goal of the Interactive Track remained the investigati
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- P. Over (National Institute of Standards and Technology) 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t7i/t7i.html`](https://trec.nist.gov/data/t7i/t7i.html) 

@@ -10,12 +10,11 @@ The TREC 2015 Microblog track introduced a single realtime filtering task broken
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Jimmy Lin - University of Waterloo 
-- Miles Efron - University of Illinois 
-- Garrick Sherman - University of Illinois 
-- Yulu Wang - University of Marland 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
--  
+- Jimmy Lin, University of Waterloo 
+- Miles Efron, University of Illinois 
+- Garrick Sherman, University of Illinois 
+- Yulu Wang, University of Marland 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

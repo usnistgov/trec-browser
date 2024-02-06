@@ -10,7 +10,7 @@ The TREC 2007 question answering (QA) track contained two tasks: the main task c
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- H.T. Dang, NIST 
+- H.T. Dang, National Institute of Standards and Technology (NIST) 
 - D. Kelly, University of North Carolina 
 - J. Lin, University of Maryland, College Park 
 

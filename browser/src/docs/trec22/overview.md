@@ -19,7 +19,7 @@ The Knowledge Base Acceleration (KBA) track in TREC 2013 expanded the entity-cen
 - Nilesh Tripuraneni, Massachusetts Institute of Technology 
 - Ce Zhang, Stanford University 
 - Christopher Re, University of Wisconsin 
-- Ellen Voorhees, Ian Soboroff, NIST 
+- Ellen Voorhees, Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec-kba.org/`](https://trec-kba.org/) 
@@ -43,7 +43,7 @@ The contextual suggestion track investigates search techniques for complex infor
 - Nicole Simone, University of Waterloo 
 - Jaap Kamps, University of Amsterdam 
 - Paul Thomas, CSIRO 
-- Ellen Voorhees, NIST 
+- Ellen Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://sites.google.com/site/treccontext/`](https://sites.google.com/site/treccontext/) 
@@ -56,7 +56,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 {==
 
-The goal of the TREC Web track is to explore and evaluate retrieval approaches over large-scale subsets of the Web – currently on the order of one billion pages. For TREC 2013, the fifth year of the Web track, we implemented the following significant updates compared to 2012.
+The goal of the TREC Web track is to explore and evaluate retrieval approaches over large-scale subsets of the Web – currently on the order of one billion pages.
 
 ==}
 
@@ -65,7 +65,7 @@ The goal of the TREC Web track is to explore and evaluate retrieval approaches o
 - Kevyn Collins-Thompson, University of Michigan 
 - Paul Bennett, Fernando Diaz, Microsoft Research 
 - Charlie Clarke, University of Waterloo 
-- Ellen M. Voorhees, NIST 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.microsoft.com/en-us/research/project/trec-web-track-2013/`](https://www.microsoft.com/en-us/research/project/trec-web-track-2013/) 
@@ -78,7 +78,7 @@ The goal of the TREC Web track is to explore and evaluate retrieval approaches o
 
 {==
 
-The TREC Federated Web Search track is intended to promote research related to federated search in a realistic web setting, and hereto provides a large data collection gathered from a series of online search engines. This overview paper discusses the results of the first edition of the track, FedWeb 2013. The focus was on basic challenges in federated search: (1) resource selection, and (2) results merging. After an overview of the provided data collection and the relevance judgments for the test topics, the participants’ individual approaches and results on both tasks are discussed. Promising research directions and an outlook on the 2014 edition of the track are provided as well.
+The TREC Federated Web Search track is intended to promote research related to federated search in a realistic web setting, and hereto provides a large data collection gathered from a series of online search engines. This overview paper discusses the results of the first edition of the track, FedWeb 2013. The focus was on basic challenges in federated search: (1) resource selection, and (2) results merging.
 
 ==}
 
@@ -166,7 +166,7 @@ The TREC Session track ran for the fourth time in 2013. The track has the primar
 
 {==
 
-In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a single task to crowdsource relevance judgments for a set of Web pages and search topics shared by the Web Track. This track overview describes the track and provides analysis of the track’s results.
+In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a single task to crowdsource relevance judgments for a set of Web pages and search topics shared by the Web Track.
 
 ==}
 

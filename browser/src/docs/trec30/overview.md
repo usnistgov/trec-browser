@@ -14,7 +14,7 @@ The Incident Streams track is designed to bring together academia and industry t
 
 - Cody Buntain, New Jersey Institute of Technology 
 - Richard McCreadie, University of Glasgow 
-- Ian Soboroff, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/~richardm/TREC_IS/`](https://www.dcs.gla.ac.uk/~richardm/TREC_IS/) 
@@ -33,9 +33,9 @@ The News track features modern search tasks in the news domain. In partnership w
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Donna Harman, NIST 
-- Shudong Huang, NIST 
-- Ian Soboroff, NIST 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://trec-news.org/`](http://trec-news.org/) 
@@ -102,7 +102,7 @@ The goal of the new Clinical Trials track is to focus research on the clinical t
 - Dina Demner-Fushman, U.S. National Library of Medicine 
 - William Hersh, Oregon Health and Science University 
 - Kirk Roberts, University of Texas Health Science Center 
-- Ellen Voorhees, NIST 
+- Ellen Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://www.trec-cds.org/`](http://www.trec-cds.org/) 

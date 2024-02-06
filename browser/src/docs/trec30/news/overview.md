@@ -10,9 +10,9 @@ The News track features modern search tasks in the news domain. In partnership w
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Donna Harman, NIST 
-- Shudong Huang, NIST 
-- Ian Soboroff, NIST 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

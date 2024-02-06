@@ -14,7 +14,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 - S. Buttcher, University of Waterloo 
 - C.L.A. Clarke, University of Waterloo 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://plg.uwaterloo.ca/~claclark/TB06.html`](https://plg.uwaterloo.ca/~claclark/TB06.html) 
@@ -74,7 +74,7 @@ The enterprise track began in TREC 2005 as the successor to the web track, and t
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 - A.P. de Vries, CWI 
 - N. Craswell, Microsoft Cambridge 
 
@@ -99,7 +99,7 @@ The Blog track began this year, with the aim to explore the information seeking 
 - C. Macdonald, University of Glasgow 
 - M. de Rijke, University of Amsterdam 
 - G. Mishne, University of Amsterdam 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/wiki/TREC-BLOG`](https://www.dcs.gla.ac.uk/wiki/TREC-BLOG) 
@@ -118,7 +118,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- H.T. Dang, NIST 
+- H.T. Dang, National Institute of Standards and Technology (NIST) 
 - J. Lin, University of Maryland, College Park 
 - D. Kelly, University of North Carolina, Chapel Hill 
 

@@ -12,7 +12,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

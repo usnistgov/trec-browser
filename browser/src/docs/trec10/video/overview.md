@@ -4,15 +4,15 @@
 
 {==
 
-New in TREC-2001 was the Video Trak, the goal of whih was to promote progress in ontent-based retrieval from digital video via open, metris-based evaluation. The trak built on publily available video provided by the Open Video Pro jet of the University of North Carolina at Chapel Hill under Gary Marhionini (Marhionini, 2001), the NIST Digital Video Library (Over, 2001), and stok shot video provided for TREC-2001 by the British Broadasting Corporation (Rihard Wright et al). The trak used very nie work on shot boundary evaluation done as part of the ISIS Coordinated Researh Pro jet (AIM, 2001).
+New in TREC-2001 was the Video Track, the goal of which was to promote progress in content-based retrieval from digital video via open, metric-based evaluation. The trak built on publily available video provided by the Open Video Project of the University of North Carolina at Chapel Hill under Gary Marchionini, the NIST Digital Video Library, and stock shot video provided for TREC-2001 by the British Broadcasting Corporation. The track used very nice work on shot boundary evaluation done as part of the ISIS Coordinated Researh Project (AIM, 2001).
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City Univ. 
-- P. Over, NIST 
-- R. Taban, NIST 
+- P. Over, National Institute of Standards and Technology (NIST) 
+- R. Taban, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

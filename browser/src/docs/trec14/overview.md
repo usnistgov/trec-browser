@@ -33,8 +33,8 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
-- F. Scholer, RMIT 
-- I. Soboroff, NIST 
+- F. Scholer, Royal Melbourne Institute of Technology (RMIT University) 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://plg.uwaterloo.ca/~claclark/TB05.html`](https://plg.uwaterloo.ca/~claclark/TB05.html) 
@@ -96,8 +96,8 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
-- H.T. Dang, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
+- H.T. Dang, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qa/t2005_qadata.html`](https://trec.nist.gov/data/qa/t2005_qadata.html) 
@@ -118,7 +118,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 - N. Craswell, Microsoft Research Cambridge 
 - A.P. de Vries, CWI 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/enterprise.html`](https://trec.nist.gov/data/enterprise.html) 
@@ -137,7 +137,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/robust/05/05.guidelines.html`](https://trec.nist.gov/data/robust/05/05.guidelines.html) 

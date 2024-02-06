@@ -4,7 +4,7 @@
 
 {==
 
-Research in Information Retrieval has traditionally focused on serving the best results for a single query. In practice however users often enter queries in sessions of reformulations. The Sessions Track at TREC 2010 implements an initial experiment to evaluate the effectiveness of retrieval systems over single query reformulations
+Research in Information Retrieval has traditionally focused on serving the best results for a single query. In practice however users often enter queries in sessions of reformulations. The Sessions Track at TREC 2010 implements an initial experiment to evaluate the effectiveness of retrieval systems over single query reformulations.
 
 ==}
 
@@ -13,7 +13,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 - Evangelos Kanoulas, University of Sheffield 
 - Paul Clough, University of Sheffield 
 - Ben Carterette, University of Delaware 
-- Mark Sanderson, RMIT University 
+- Mark Sanderson, Royal Melbourne Institute of Technology (RMIT University) 
 
 :material-text-search: **Tasks:**
 

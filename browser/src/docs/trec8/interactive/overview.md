@@ -10,8 +10,8 @@ For TREC-8 the high-level goal of the Interactive Track remained the investigati
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- W. Hersh (Oregon Health Sciences University) 
-- P. Over (National Institute of Standards and Technology) 
+- W. Hersh, Oregon Health Sciences University 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t8i/t8i.html`](https://trec.nist.gov/data/t8i/t8i.html) 
 

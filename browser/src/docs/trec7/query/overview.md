@@ -10,7 +10,7 @@ General IR research is being held up because we don't have enough queries of var
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- C. Buckley (SabIR Research, Inc.) 
+- C. Buckley, SabIR Research, Inc. 
 
 
 

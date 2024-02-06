@@ -4,7 +4,7 @@
 
 {==
 
-In 2012, the Crowdsourcing track had two separate tasks: a text relevance assessing task (TRAT) and an image relevance assessing task (IRAT). This track overview describes the track and provides analysis of the track’s results.
+In 2012, the Crowdsourcing track had two separate tasks: a text relevance assessing task (TRAT) and an image relevance assessing task (IRAT).
 
 ==}
 

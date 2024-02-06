@@ -10,12 +10,12 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Emine Yilmaz - University College London 
-- Manisha Verma - University College London 
-- Rishabh Mehrotra - University College London 
-- Evangelos Kanoulas - University of Amsterdam 
-- Ben Carterette - University of Delaware 
-- Nick Craswell - Microsoft 
+- Emine Yilmaz, University College London 
+- Manisha Verma, University College London 
+- Rishabh Mehrotra, University College London 
+- Evangelos Kanoulas, University of Amsterdam 
+- Ben Carterette, University of Delaware 
+- Nick Craswell, Microsoft 
 
 :material-text-search: **Tasks:**
 

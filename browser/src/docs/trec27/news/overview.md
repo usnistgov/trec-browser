@@ -10,9 +10,9 @@ The News track is a new track for TREC 2019, focused on information retrieval in
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ian Soboroff, National Institute of Standards and Technology 
-- Shudong Huang, National Institute of Standards and Technology 
-- Donna Harman, National Institute of Standards and Technology 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

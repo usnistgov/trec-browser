@@ -12,9 +12,9 @@ To make biomedical information more accessible and to meet the requirements for 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Matthew S. Simpson - U.S. National Library of Medicine 
-- Ellen M. Voorhees - National Institute of Standards and Technology 
-- William Hersh - Oregon Health and Science University 
+- Matthew S. Simpson, U.S. National Library of Medicine 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
+- William Hersh, Oregon Health and Science University 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://www.trec-cds.org/`](http://www.trec-cds.org/) 
@@ -33,11 +33,11 @@ The contextual suggestion track investigates search techniques for complex infor
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Adriel Dean-Hall - University of Waterloo 
-- Charles L. A. Clarke - University of Waterloo 
-- Jaap Kamps - University of Amsterdam 
-- Paul Thomas - CSIRO 
-- Ellen M. Voorhees - National Institute of Standards and Technology 
+- Adriel Dean-Hall, University of Waterloo 
+- Charles L. A. Clarke, University of Waterloo 
+- Jaap Kamps, University of Amsterdam 
+- Paul Thomas, CSIRO 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://sites.google.com/site/treccontext/`](https://sites.google.com/site/treccontext/) 
@@ -56,10 +56,10 @@ This year represents the fourth iteration of the TREC Microblog track, which has
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Jimmy Lin - University of Maryland 
-- Yulu Wang - University of Maryland 
+- Jimmy Lin, University of Maryland 
+- Yulu Wang, University of Maryland 
 - Miles Efron- University of Illinois 
-- Garrick Sherman - University of Illinois 
+- Garrick Sherman, University of Illinois 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://github.com/lintool/twitter-tools/wiki`](https://github.com/lintool/twitter-tools/wiki) 
@@ -78,11 +78,11 @@ The goal of the TREC Web track over the past few years has been to explore and e
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Kevyn Collins-Thompson - University of Michigan 
-- Craig Macdonald - University of Glasgow 
-- Paul Bennett - Microsoft Research 
-- Fernando Diaz - Microsoft Research 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
+- Kevyn Collins-Thompson, University of Michigan 
+- Craig Macdonald, University of Glasgow 
+- Paul Bennett, Microsoft Research 
+- Fernando Diaz, Microsoft Research 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www-personal.umich.edu/~kevynct/trec-web-2014/`](https://www-personal.umich.edu/~kevynct/trec-web-2014/) 
@@ -101,11 +101,11 @@ The TREC Federated Web Search track facilitates research on federated web search
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Thomas Demeester - Ghent University 
-- Dolf Trieschnigg - University of Twente 
-- Dong Nguyen - University of Twente 
-- Djoerd Hiemstra - University of Twente 
-- Ke Zhou - Yahoo Labs London 
+- Thomas Demeester, Ghent University 
+- Dolf Trieschnigg, University of Twente 
+- Dong Nguyen, University of Twente 
+- Djoerd Hiemstra, University of Twente 
+- Ke Zhou, Yahoo Labs London 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://sites.google.com/site/trecfedweb`](http://sites.google.com/site/trecfedweb) 
@@ -124,11 +124,11 @@ The Knowledge Base Acceleration (KBA) track ran in TREC 2012, 2013, and 2014 as 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- John R. Frank - Diffeo 
-- Max Kleiman-Weiner - Diffeo 
-- Daniel A. Roberts - Diffeo 
-- Ellen M. Voorhees - National Institute of Standards and Technology 
-- Ian Soboroff - National Institute of Standards and Technology 
+- John R. Frank, Diffeo 
+- Max Kleiman-Weiner, Diffeo 
+- Daniel A. Roberts, Diffeo 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec-kba.org/`](https://trec-kba.org/) 
@@ -147,12 +147,12 @@ News events such as protests, accidents or natural disasters represent a unique 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Javed Aslam - Northeastern University 
-- Matthew Ekstrand-Abueg - Northeastern University 
-- Virgil Pavlu - Northeastern University 
-- Fernando Diaz - Microsoft Research 
-- Richard McCreadie - University of Glasgow 
-- Tetsuya Sakai - Waseda University 
+- Javed Aslam, Northeastern University 
+- Matthew Ekstrand-Abueg, Northeastern University 
+- Virgil Pavlu, Northeastern University 
+- Fernando Diaz, Microsoft Research 
+- Richard McCreadie, University of Glasgow 
+- Tetsuya Sakai, Waseda University 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20170618023232/http://www.trec-ts.org/`](https://web.archive.org/web/20170618023232/http://www.trec-ts.org/) 
@@ -171,10 +171,10 @@ The TREC Session track ran for the fourth time in 2014. The track has the primar
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ben Carterette - University of Delaware 
-- Evangelos Kanoulas - Google 
-- Mark Hall - Edge Hill University 
-- Paul Clough - University of Sheffield 
+- Ben Carterette, University of Delaware 
+- Evangelos Kanoulas, Google 
+- Mark Hall, Edge Hill University 
+- Paul Clough, University of Sheffield 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://ir.cis.udel.edu/sessions`](http://ir.cis.udel.edu/sessions) 

@@ -4,7 +4,7 @@
 
 {==
 
-TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluation of search techniques for discovery of digitally stored information on chemical patents and academic journal articles. The track included two tasks: Prior Art (PA) and Technical Survey (TS) tasks. This paper describes how we designed the two tasks and presents the official results of eight participating groups.
+TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluation of search techniques for discovery of digitally stored information on chemical patents and academic journal articles. The track included two tasks: Prior Art (PA) and Technical Survey (TS) tasks.
 
 ==}
 

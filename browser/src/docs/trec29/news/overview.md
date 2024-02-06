@@ -10,9 +10,9 @@ The News track focuses on information retrieval in the service of helping people
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ian Soboroff, National Institute of Standards and Technology 
-- Shudong Huang, National Institute of Standards and Technology 
-- Donna Harman, National Institute of Standards and Technology 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
+- Shudong Huang, National Institute of Standards and Technology (NIST) 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

@@ -35,8 +35,8 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 - Iadh Ounis, University of Glasgow 
 - Craig Macdonald, University of Glasgow 
-- Jimmy Lin Twitter and University of Maryland, College Park 
-- Ian Soboroff, NIST 
+- Jimmy Lin, Twitter and University of Maryland, College Park 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20120604072950/http://sites.google.com/site/microblogtrack/`](https://web.archive.org/web/20120604072950/http://sites.google.com/site/microblogtrack/) 
@@ -49,7 +49,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 {==
 
-The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active since TREC 2009, where it included both a traditional adhoc retrieval task and a new diversity task. The goal of this diversity task is to return a ranked list of pages that together provide complete coverage for a query, while avoiding excessive redundancy in the result list. For TREC 2010 the track introduced a new Web spam task and Web-style, six-level relevance assessment for the adhoc task. For TREC 2011, as recommended by participants at the track planning session held during TREC 2010, we dropped the spam task but continued the other tasks essentially unchanged. As we did for TREC 2009 and TREC 2010, we based our TREC 2011 experiments on the billion-page ClueWeb091 collection created by the Language Technologies Institute at Carnegie Mellon University
+The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active since TREC 2009, where it included both a traditional adhoc retrieval task and a new diversity task. The goal of this diversity task is to return a ranked list of pages that together provide complete coverage for a query, while avoiding excessive redundancy in the result list. For TREC 2010 the track introduced a new Web spam task and Web-style, six-level relevance assessment for the adhoc task. For TREC 2011, as recommended by participants at the track planning session held during TREC 2010, we dropped the spam task but continued the other tasks essentially unchanged. As we did for TREC 2009 and TREC 2010, we based our TREC 2011 experiments on the billion-page ClueWeb09 collection created by the Language Technologies Institute at Carnegie Mellon University
 
 ==}
 
@@ -57,8 +57,8 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 - Charles L. A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
-- Ian Soboroff, NIST 
-- Ellen M. Voorhees, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://plg.uwaterloo.ca/~trecweb/2011.html`](https://plg.uwaterloo.ca/~trecweb/2011.html) 
@@ -71,7 +71,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 {==
 
-The TREC 2011 Legal Track consisted of a single task: the learning task, which captured elements of both the TREC 2010 learning and interactive tasks. Participants were required to rank the entire corpus of 685,592 documents by their estimate of the probability of responsiveness to each of three topics, and also to provide a quantitative estimate of that probability. Participants were permitted to request up to 1,000 responsiveness determinations from a Topic Authority for each topic. Participants elected either to use only these responsiveness determinations in preparing automatic submissions, or to augment these determinations with their own manual review in preparing technologyassisted submissions. We provide an overview of the task and a summary of the results. More detailed results are available in the Appendix to the TREC 2011 Proceedings.
+The TREC 2011 Legal Track consisted of a single task: the learning task, which captured elements of both the TREC 2010 learning and interactive tasks. Participants were required to rank the entire corpus of 685,592 documents by their estimate of the probability of responsiveness to each of three topics, and also to provide a quantitative estimate of that probability. Participants were permitted to request up to 1,000 responsiveness determinations from a Topic Authority for each topic. Participants elected either to use only these responsiveness determinations in preparing automatic submissions, or to augment these determinations with their own manual review in preparing technologyassisted submissions.
 
 ==}
 
@@ -119,7 +119,7 @@ The third year of the Chemical IR evaluation track benefitted from the support o
 
 {==
 
-The search task within the TREC 2011 Medical Records track  was an ad hoc search task that modeled the clinical task of finding cohorts for comparative effectiveness research. The document set used in the track was based on a set of de-identified clinical reports made available by the University of Pittsburgh's BLULab NLP Repository.  This document set is not available to non-participants.   There is a many-to-one mapping between reports and ''visits'', where a visit is an individual patient's single stay at a hospital.  The visit was used as the unit of retrieval in the track (so a document for the purposes of the track was the union of the content in all records mapped to that visit).
+The search task within the TREC 2011 Medical Records track was an ad hoc search task that modeled the clinical task of finding cohorts for comparative effectiveness research. The document set used in the track was based on a set of de-identified clinical reports made available by the University of Pittsburgh's BLULab NLP Repository.  This document set is not available to non-participants. There is a many-to-one mapping between reports and ''visits'', where a visit is an individual patient's single stay at a hospital. The visit was used as the unit of retrieval in the track (so a document for the purposes of the track was the union of the content in all records mapped to that visit).
 
 ==}
 
@@ -143,7 +143,7 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 - Mark Hall, University of Sheffield 
 - Paul Clough, University of Sheffield 
 - Ben Carterette, University of Delaware 
-- Mark Sanderson, RMIT University 
+- Mark Sanderson, Royal Melbourne Institute of Technology (RMIT University) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://ir.cis.udel.edu/sessions`](http://ir.cis.udel.edu/sessions) 

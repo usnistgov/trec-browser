@@ -4,7 +4,7 @@
 
 {==
 
-The goal of the TREC Web track is to explore and evaluate retrieval approaches over large-scale subsets of the Web – currently on the order of one billion pages. For TREC 2013, the fifth year of the Web track, we implemented the following significant updates compared to 2012.
+The goal of the TREC Web track is to explore and evaluate retrieval approaches over large-scale subsets of the Web – currently on the order of one billion pages.
 
 ==}
 
@@ -13,7 +13,7 @@ The goal of the TREC Web track is to explore and evaluate retrieval approaches o
 - Kevyn Collins-Thompson, University of Michigan 
 - Paul Bennett, Fernando Diaz, Microsoft Research 
 - Charlie Clarke, University of Waterloo 
-- Ellen M. Voorhees, NIST 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

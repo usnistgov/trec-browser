@@ -15,7 +15,7 @@ The contextual suggestion track investigates search techniques for complex infor
 - Nicole Simone, University of Waterloo 
 - Jaap Kamps, University of Amsterdam 
 - Paul Thomas, CSIRO 
-- Ellen Voorhees, NIST 
+- Ellen Voorhees, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://sites.google.com/site/treccontext/`](https://sites.google.com/site/treccontext/) 
 

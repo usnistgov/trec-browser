@@ -11,8 +11,8 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - C.L.A. Clarke, University of Waterloo 
-- F. Scholer, RMIT 
-- I. Soboroff, NIST 
+- F. Scholer, Royal Melbourne Institute of Technology (RMIT University) 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

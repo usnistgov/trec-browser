@@ -26,7 +26,7 @@ The Blog track aims to investigate the information seeking behaviour in the blog
 
 {==
 
-The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active for two years. For TREC 2010, the track includes three tasks: 1) an adhoc retrieval task, 2) a diversity task, and 3) a spam task. As we did for TREC 2009, we based our experiments on the billion-page ClueWeb091 data set created by the Language Technologies Institute at Carnegie Mellon University.
+The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active for two years. For TREC 2010, the track includes three tasks: 1) an adhoc retrieval task, 2) a diversity task, and 3) a spam task. As we did for TREC 2009, we based our experiments on the billion-page ClueWeb09 data set created by the Language Technologies Institute at Carnegie Mellon University.
 
 ==}
 
@@ -34,7 +34,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 - Charles L.A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
-- Ian Soboroff, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 - Gordon V. Cormack, University of Waterloo 
 
 
@@ -113,7 +113,7 @@ TREC 2010 was the fifth year of the Legal Track, which focuses on evaluation of 
 
 {==
 
-Research in Information Retrieval has traditionally focused on serving the best results for a single query. In practice however users often enter queries in sessions of reformulations. The Sessions Track at TREC 2010 implements an initial experiment to evaluate the effectiveness of retrieval systems over single query reformulations
+Research in Information Retrieval has traditionally focused on serving the best results for a single query. In practice however users often enter queries in sessions of reformulations. The Sessions Track at TREC 2010 implements an initial experiment to evaluate the effectiveness of retrieval systems over single query reformulations.
 
 ==}
 
@@ -122,7 +122,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 - Evangelos Kanoulas, University of Sheffield 
 - Paul Clough, University of Sheffield 
 - Ben Carterette, University of Delaware 
-- Mark Sanderson, RMIT University 
+- Mark Sanderson, Royal Melbourne Institute of Technology (RMIT University) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://ir.cis.udel.edu/sessions`](http://ir.cis.udel.edu/sessions) 

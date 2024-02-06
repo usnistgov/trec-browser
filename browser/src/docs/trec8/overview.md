@@ -12,8 +12,8 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/test_coll.html`](https://trec.nist.gov/data/test_coll.html) 
@@ -26,14 +26,14 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 {==
 
-The TREC-8 filtering track measures the ability of systems to build persistent user profiles which successfully separate relevant and non-relevant documents. It consists of three major subtasks: adaptive filtering, batch filtering, and routing. In adaptive filtering, the system begins with only a topic statement and must learn a better profile from on-line feedback. Batch filtering and routing are more traditional machine learning tasks where the system begins with a large sample of evaluated training documents. This report describes the track, presents the evaluation results in graphical format, and provides a general commentary on lessons learned from this year's track
+The TREC-8 filtering track measures the ability of systems to build persistent user profiles which successfully separate relevant and non-relevant documents. It consists of three major subtasks: adaptive filtering, batch filtering, and routing. In adaptive filtering, the system begins with only a topic statement and must learn a better profile from on-line feedback. Batch filtering and routing are more traditional machine learning tasks where the system begins with a large sample of evaluated training documents.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D. Hull (Xerox Research Centre Europe) 
-- S. Robertson (Microsoft Research) 
+- D. Hull, Xerox Research Centre Europe 
+- S. Robertson, Microsoft Research 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/filtering.html`](https://trec.nist.gov/data/filtering.html) 
@@ -46,15 +46,15 @@ The TREC-8 filtering track measures the ability of systems to build persistent u
 
 {==
 
-The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 collection (Large Web Task) and a selected 2 gigabyte subset known as WT2g (Small Web Task). Here, the guidelines and resources for both tasks are described and results presented and analysed.
+The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 collection (Large Web Task) and a selected 2 gigabyte subset known as WT2g (Small Web Task).
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Martin Braschler (Eurospider Information Tech. AG) 
-- Carol Peters (Istituto Elaborazione Informazione) 
-- Peter Schäuble (Eurospider Information Tech. AG) 
+- Martin Braschler, Eurospider Information Tech. AG 
+- Carol Peters, Istituto Elaborazione Informazione 
+- Peter Schäuble, Eurospider Information Tech. AG 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t8.web.html`](https://trec.nist.gov/data/t8.web.html) 
@@ -73,8 +73,8 @@ The Query Track in TREC-8 is a bit different from all the other tracks. It is a 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- C. Buckley (SabIr Research, Inc.) 
-- J. Walz (SabIr Research, Inc.) 
+- C. Buckley, SabIr Research, Inc. 
+- J. Walz, SabIr Research, Inc. 
 
 
 
@@ -93,8 +93,8 @@ The TREC-8 Question Answering track was the first large scale evaluation of doma
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Tice (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Tice, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qamain.html`](https://trec.nist.gov/data/qamain.html) 
@@ -107,15 +107,15 @@ The TREC-8 Question Answering track was the first large scale evaluation of doma
 
 {==
 
-SDR involves the search and retrieval of excerpts from spoken audio recordings using a combination of automatic speech recognition and information retrieval technologies. The TREC SDR Track has provided an infrastructure for the development and evaluation of SDR technology and a common forum for the exchange of knowledge between the speech recognition and information retrieval research communities. The SDR Track can be declared a success in that it has provided objective, demonstrable proof that this technology can be successfully applied to realistic audio collections using a combination of existing technologies and that it can be objectively evaluated. The design and TRic SnaTra f each othe D aluations art poresent trand the resolts are discasized. Plans for the 2000
+SDR involves the search and retrieval of excerpts from spoken audio recordings using a combination of automatic speech recognition and information retrieval technologies. The TREC SDR Track has provided an infrastructure for the development and evaluation of SDR technology and a common forum for the exchange of knowledge between the speech recognition and information retrieval research communities. The SDR Track can be declared a success in that it has provided objective, demonstrable proof that this technology can be successfully applied to realistic audio collections using a combination of existing technologies and that it can be objectively evaluated.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- J. Garofolo (National Institute of Standards and Technology) 
-- C. Auzanne (National Institute of Standards and Technology) 
-- E. Voorhees (National Institute of Standards and Technology) 
+- J. Garofolo, National Institute of Standards and Technology (NIST) 
+- C. Auzanne, National Institute of Standards and Technology (NIST) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/sdr.html`](https://trec.nist.gov/data/sdr.html) 
@@ -134,9 +134,9 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- M. Braschler (Eurospider Information Technology AG) 
--  P. Schäuble (Eurospider Information Technology AG) 
-- C. Peters (Instituto Elaborazione Informazione (CNR)) 
+- M. Braschler, Eurospider Information Technology AG 
+-  P. Schäuble, Eurospider Information Technology AG) 
+- C. Peters, Instituto Elaborazione Informazione (CNR) 
 
 
 
@@ -155,9 +155,9 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- M. Braschler (Eurospider Information Technology AG) 
--  P. Schäuble (Eurospider Information Technology AG) 
-- C. Peters (Instituto Elaborazione Informazione (CNR)) 
+- M. Braschler, Eurospider Information Technology AG 
+-  P. Schäuble, Eurospider Information Technology AG 
+- C. Peters, Instituto Elaborazione Informazione (CNR) 
 
 
 
@@ -176,8 +176,8 @@ For TREC-8 the high-level goal of the Interactive Track remained the investigati
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- W. Hersh (Oregon Health Sciences University) 
-- P. Over (National Institute of Standards and Technology) 
+- W. Hersh, Oregon Health Sciences University 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t8i/t8i.html`](https://trec.nist.gov/data/t8i/t8i.html) 

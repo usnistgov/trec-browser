@@ -10,10 +10,10 @@ Spoken Document Retrieval (SDR) involves the retrieval of excerpts from recordin
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- J. Garofolo (National Institute of Standards and Technology) 
-- E. Voorhees (National Institute of Standards and Technology) 
-- V. Stanford (National Institute of Standards and Technology) 
-- K. Sparck Jones (Cambridge University) 
+- J. Garofolo, National Institute of Standards and Technology (NIST) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- V. Stanford, National Institute of Standards and Technology (NIST) 
+- K. Sparck Jones, Cambridge University 
 
 
 

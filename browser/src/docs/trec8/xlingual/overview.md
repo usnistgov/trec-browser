@@ -10,9 +10,9 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- M. Braschler (Eurospider Information Technology AG) 
--  P. Schäuble (Eurospider Information Technology AG) 
-- C. Peters (Instituto Elaborazione Informazione (CNR)) 
+- M. Braschler, Eurospider Information Technology AG 
+-  P. Schäuble, Eurospider Information Technology AG) 
+- C. Peters, Instituto Elaborazione Informazione (CNR) 
 
 :material-text-search: **Tasks:**
 

@@ -12,8 +12,8 @@ The ad hoc task investigates the performance of systems that search a static set
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/test_coll.html`](https://trec.nist.gov/data/test_coll.html) 
@@ -32,7 +32,7 @@ There are many times when users want to search separate text collections as if t
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 
@@ -51,8 +51,8 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 
@@ -90,8 +90,8 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- A. Smeaton (Dublin City University) 
-- R. Wilkinson (Royal Melbourne Institute of Technology) 
+- A. Smeaton, Dublin City University 
+- R. Wilkinson, Royal Melbourne Institute of Technology (RMIT University) 
 
 
 
@@ -110,8 +110,8 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- A. Smeaton (Dublin City University) 
-- R. Wilkinson (Royal Melbourne Institute of Technology) 
+- A. Smeaton, Dublin City University 
+- R. Wilkinson, Royal Melbourne Institute of Technology (RMIT University) 
 
 
 
@@ -130,8 +130,8 @@ The NLP track was initiated to explore whether the natural language processing (
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- T. Strzalkowski (GE Corporate Research and Development) 
-- K. Sparck Jones (University of Cambridge) 
+- T. Strzalkowski, GE Corporate Research and Development 
+- K. Sparck Jones, University of Cambridge 
 
 
 
@@ -144,14 +144,14 @@ The NLP track was initiated to explore whether the natural language processing (
 
 {==
 
- For TREC-5, retrieval from corrupted data was studied through retrieval of single target  documents from a corpus which was corrupted by producing page images, corrupting the bit  maps, and applying OCR techniques to the results. In general, methods which attempted a  probabilistic estimation of the original clean text fare better than methods which simply accept corrupted versions of the query text.
+ For TREC-5, retrieval from corrupted data was studied through retrieval of single target  documents from a corpus which was corrupted by producing page images, corrupting the bit  maps, and applying OCR techniques to the results. In general, methods which attempted a probabilistic estimation of the original clean text fare better than methods which simply accept corrupted versions of the query text.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- P. Kantor (Rutgers University) 
-- E. Voorhees (National Institute of Standards and Technology) 
+- P. Kantor, Rutgers University 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 
@@ -170,7 +170,7 @@ The high-level goal of the Interactive Track in TREC-5 was the investigation of 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- P. Over (National Institute of Standards and Technology) 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 
 

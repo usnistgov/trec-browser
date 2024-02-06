@@ -10,11 +10,11 @@ The goal of the TREC Web track over the past few years has been to explore and e
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Kevyn Collins-Thompson - University of Michigan 
-- Craig Macdonald - University of Glasgow 
-- Paul Bennett - Microsoft Research 
-- Fernando Diaz - Microsoft Research 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
+- Kevyn Collins-Thompson, University of Michigan 
+- Craig Macdonald, University of Glasgow 
+- Paul Bennett, Microsoft Research 
+- Fernando Diaz, Microsoft Research 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

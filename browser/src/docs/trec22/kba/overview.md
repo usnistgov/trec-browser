@@ -17,7 +17,7 @@ The Knowledge Base Acceleration (KBA) track in TREC 2013 expanded the entity-cen
 - Nilesh Tripuraneni, Massachusetts Institute of Technology 
 - Ce Zhang, Stanford University 
 - Christopher Re, University of Wisconsin 
-- Ellen Voorhees, Ian Soboroff, NIST 
+- Ellen Voorhees, Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

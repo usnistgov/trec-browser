@@ -10,7 +10,7 @@ The TREC 2004 Question Answering track contained a single task in which question
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qamain.html`](https://trec.nist.gov/data/qamain.html) 
 

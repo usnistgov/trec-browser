@@ -10,10 +10,10 @@ The TREC Session track ran for the fourth time in 2014. The track has the primar
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ben Carterette - University of Delaware 
-- Evangelos Kanoulas - Google 
-- Mark Hall - Edge Hill University 
-- Paul Clough - University of Sheffield 
+- Ben Carterette, University of Delaware 
+- Evangelos Kanoulas, Google 
+- Mark Hall, Edge Hill University 
+- Paul Clough, University of Sheffield 
 
 :material-text-search: **Tasks:**
 

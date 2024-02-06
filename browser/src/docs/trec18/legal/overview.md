@@ -4,7 +4,7 @@
 
 {==
 
-TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of search technology for “discovery” (i.e., responsive review) of electronically stored information in litigation and regulatory settings. The track included two tasks: an Interactive task (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback) and a Batch task (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass). This paper describes the design of the two tasks and presents the results.
+TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of search technology for “discovery” (i.e., responsive review) of electronically stored information in litigation and regulatory settings. The track included two tasks: an Interactive task (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback) and a Batch task (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass).
 
 ==}
 

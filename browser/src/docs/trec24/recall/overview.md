@@ -10,10 +10,10 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Adam Roegiest - University of Waterloo 
-- Gordon V. Cormack - University of Waterloo 
-- Charles L.A. Clarke - University of Waterloo 
-- Maura R. Grossman - Wachtell, Lipton, Rosen & Katz 
+- Adam Roegiest, University of Waterloo 
+- Gordon V. Cormack, University of Waterloo 
+- Charles L.A. Clarke, University of Waterloo 
+- Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 
 
 :material-text-search: **Tasks:**
 

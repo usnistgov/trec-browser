@@ -10,11 +10,11 @@ The Knowledge Base Acceleration (KBA) track ran in TREC 2012, 2013, and 2014 as 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- John R. Frank - Diffeo 
-- Max Kleiman-Weiner - Diffeo 
-- Daniel A. Roberts - Diffeo 
-- Ellen M. Voorhees - National Institute of Standards and Technology 
-- Ian Soboroff - National Institute of Standards and Technology 
+- John R. Frank, Diffeo 
+- Max Kleiman-Weiner, Diffeo 
+- Daniel A. Roberts, Diffeo 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

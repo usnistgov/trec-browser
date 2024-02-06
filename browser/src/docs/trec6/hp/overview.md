@@ -10,7 +10,7 @@ The High-Precision Track is a new track for TREC. It has a very simple short des
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- C. Buckley (SabIR Research Inc.) 
+- C. Buckley, SabIR Research Inc. 
 
 
 

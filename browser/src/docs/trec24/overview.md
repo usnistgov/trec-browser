@@ -34,12 +34,11 @@ The TREC 2015 Microblog track introduced a single realtime filtering task broken
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Jimmy Lin - University of Waterloo 
-- Miles Efron - University of Illinois 
-- Garrick Sherman - University of Illinois 
-- Yulu Wang - University of Marland 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
--  
+- Jimmy Lin, University of Waterloo 
+- Miles Efron, University of Illinois 
+- Garrick Sherman, University of Illinois 
+- Yulu Wang, University of Marland 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://github.com/lintool/twitter-tools/wiki`](https://github.com/lintool/twitter-tools/wiki) 
@@ -58,11 +57,11 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Adriel Dean-Hall - University of Waterloo 
-- Charles L. A. Clarke - University of Waterloo 
-- Jaap Kamps - University of Amsterdam 
-- Julia Kiseleva Eindhoven - University of Technology 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
+- Adriel Dean-Hall, University of Waterloo 
+- Charles L. A. Clarke, University of Waterloo 
+- Jaap Kamps, University of Amsterdam 
+- Julia Kiseleva Eindhoven, University of Technology 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://sites.google.com/site/treccontext/`](https://sites.google.com/site/treccontext/) 
@@ -75,7 +74,7 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 {==
 
-There are many summarization scenarios that require updates to be issued to users over time. For example, during unexpected news events such as natural disasters or mass protests new information rapidly emerges. The TREC Temporal Summarization track aims to investigate how to e↵ectively summarize these types of event in real-time. In particular, the goal is to develop systems which can detect useful, new, and timely sentence-length updates about a developing event to return to the user. In contrast to classical summarization challenges (such as DUC or TAC), the summaries produced by the participant systems are evaluated against a ground truth list of information nuggets representing the space of information that a user might want to know about each event. An optimal summary will cover all of the information nuggets in the minimum number of sentences. Also in contrast to classic summarization and newer timeline generation tasks, the Temporal Summarization track focuses on performing this analysis online as documents are indexed.
+There are many summarization scenarios that require updates to be issued to users over time. For example, during unexpected news events such as natural disasters or mass protests new information rapidly emerges. The TREC Temporal Summarization track aims to investigate how to effectively summarize these types of event in real-time. In particular, the goal is to develop systems which can detect useful, new, and timely sentence-length updates about a developing event to return to the user. In contrast to classical summarization challenges (such as DUC or TAC), the summaries produced by the participant systems are evaluated against a ground truth list of information nuggets representing the space of information that a user might want to know about each event. An optimal summary will cover all of the information nuggets in the minimum number of sentences. Also in contrast to classic summarization and newer timeline generation tasks, the Temporal Summarization track focuses on performing this analysis online as documents are indexed.
 
 ==}
 
@@ -105,12 +104,12 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Emine Yilmaz - University College London 
-- Manisha Verma - University College London 
-- Rishabh Mehrotra - University College London 
-- Evangelos Kanoulas - University of Amsterdam 
-- Ben Carterette - University of Delaware 
-- Nick Craswell - Microsoft 
+- Emine Yilmaz, University College London 
+- Manisha Verma, University College London 
+- Rishabh Mehrotra, University College London 
+- Evangelos Kanoulas, University of Amsterdam 
+- Ben Carterette, University of Delaware 
+- Nick Craswell, Microsoft 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://www.cs.ucl.ac.uk/tasks-track-2015/`](http://www.cs.ucl.ac.uk/tasks-track-2015/) 
@@ -129,10 +128,10 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Adam Roegiest - University of Waterloo 
-- Gordon V. Cormack - University of Waterloo 
-- Charles L.A. Clarke - University of Waterloo 
-- Maura R. Grossman - Wachtell, Lipton, Rosen & Katz 
+- Adam Roegiest, University of Waterloo 
+- Gordon V. Cormack, University of Waterloo 
+- Charles L.A. Clarke, University of Waterloo 
+- Maura R. Grossman, Wachtell, Lipton, Rosen & Katz 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://plg.uwaterloo.ca/~gvcormac/trecvm/`](https://plg.uwaterloo.ca/~gvcormac/trecvm/) 
@@ -151,9 +150,9 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Hui Yang - Georgetown University 
-- John Frank - Diffeo and MIT 
-- Ian Soboroff - National Institute of Standards and Technology (NIST) 
+- Hui Yang, Georgetown University 
+- John Frank, Diffeo and MIT 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://trec-dd.org`](http://trec-dd.org) 
@@ -166,16 +165,17 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 {==
 
-The automated question answering (QA) track, one of the most popular tracks in TREC for many years, has focused on the task of providing automatic answers for human questions. The track primarily dealt with factual questions, and the answers provided by participants were extracted from a corpus of News articles. While the task evolved to model increasingly realistic information needs, addressing question series, list questions, and even interactive feedback, a major limitation remained: the questions did not directly come from real users, in real time. The LiveQA track, conducted for the first time this year, focused on realtime question answering for real-user questions. Real user questions, i.e., fresh questions submitted on the Yahoo Answers (YA) site that have not yet been answered, were sent to the participant systems, which provided an answer in real time. Returned answers were judged by TREC editors on a 4-level Likert scale
+The automated question answering (QA) track, one of the most popular tracks in TREC for many years, has focused on the task of providing automatic answers for human questions. The track primarily dealt with factual questions, and the answers provided by participants were extracted from a corpus of News articles. While the task evolved to model increasingly realistic information needs, addressing question series, list questions, and even interactive feedback, a major limitation remained: the questions did not directly come from real users, in real time. The LiveQA track, conducted for the first time this year, focused on realtime question answering for real-user questions. Real user questions, i.e., fresh questions submitted on the Yahoo Answers (YA) site that have not yet been answered, were sent to the participant systems, which provided an answer in real time. Returned answers were judged by TREC editors on a 4-level Likert scale.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Eugene Agichtein - Emory University 
-- David Carmel, Dan Pelleg - Yahoo Labs 
-- Yuval Pinter - Yahoo Labs 
-- Donna Harman - National Institute of Standards and Technology (NIST) 
+- Eugene Agichtein, Emory University 
+- David Carmel, Yahoo Labs 
+- Dan Pelleg, Yahoo Labs 
+- Yuval Pinter, Yahoo Labs 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://web.archive.org/web/20160219234556/https://sites.google.com/site/trecliveqa2015/`](https://web.archive.org/web/20160219234556/https://sites.google.com/site/trecliveqa2015/) 

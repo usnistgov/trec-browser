@@ -10,9 +10,9 @@ To make biomedical information more accessible and to meet the requirements for 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Matthew S. Simpson - U.S. National Library of Medicine 
-- Ellen M. Voorhees - National Institute of Standards and Technology 
-- William Hersh - Oregon Health and Science University 
+- Matthew S. Simpson, U.S. National Library of Medicine 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
+- William Hersh, Oregon Health and Science University 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://www.trec-cds.org/`](http://www.trec-cds.org/) 
 

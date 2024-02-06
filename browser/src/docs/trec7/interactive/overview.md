@@ -10,7 +10,7 @@ For TREC-7 the high-level goal of the Interactive Track remained the investigati
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- P. Over (National Institute of Standards and Technology) 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t7i/t7i.html`](https://trec.nist.gov/data/t7i/t7i.html) 
 

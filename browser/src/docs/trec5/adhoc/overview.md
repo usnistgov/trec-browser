@@ -10,8 +10,8 @@ The ad hoc task investigates the performance of systems that search a static set
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

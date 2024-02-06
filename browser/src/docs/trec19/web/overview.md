@@ -4,7 +4,7 @@
 
 {==
 
-The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active for two years. For TREC 2010, the track includes three tasks: 1) an adhoc retrieval task, 2) a diversity task, and 3) a spam task. As we did for TREC 2009, we based our experiments on the billion-page ClueWeb091 data set created by the Language Technologies Institute at Carnegie Mellon University.
+The TREC Web Track explores and evaluates Web retrieval technology over large collections of Web data. In its current incarnation, the Web Track has been active for two years. For TREC 2010, the track includes three tasks: 1) an adhoc retrieval task, 2) a diversity task, and 3) a spam task. As we did for TREC 2009, we based our experiments on the billion-page ClueWeb09 data set created by the Language Technologies Institute at Carnegie Mellon University.
 
 ==}
 
@@ -12,7 +12,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 - Charles L.A. Clarke, University of Waterloo 
 - Nick Craswell, Microsoft 
-- Ian Soboroff, NIST 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 - Gordon V. Cormack, University of Waterloo 
 
 :material-text-search: **Tasks:**

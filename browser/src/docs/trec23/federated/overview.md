@@ -10,11 +10,11 @@ The TREC Federated Web Search track facilitates research on federated web search
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Thomas Demeester - Ghent University 
-- Dolf Trieschnigg - University of Twente 
-- Dong Nguyen - University of Twente 
-- Djoerd Hiemstra - University of Twente 
-- Ke Zhou - Yahoo Labs London 
+- Thomas Demeester, Ghent University 
+- Dolf Trieschnigg, University of Twente 
+- Dong Nguyen, University of Twente 
+- Djoerd Hiemstra, University of Twente 
+- Ke Zhou, Yahoo Labs London 
 
 :material-text-search: **Tasks:**
 

@@ -10,8 +10,8 @@ The NLP track was initiated to explore whether the natural language processing (
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Ellen Voorhees (National Institute of Standards and Technology) 
-- D. Harman (National Institute of Standards and Technology) 
+- Ellen Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 

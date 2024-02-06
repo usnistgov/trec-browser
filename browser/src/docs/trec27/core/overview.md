@@ -12,7 +12,7 @@ The primary goals of the proposed core track are three-fold: (a) to bring togeth
 
 - Evangelos Kanoulas, University of Amsterdam 
 - James Allan, University of Massachusetts 
-- Donna Harman, NIST 
+- Donna Harman, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec-core.github.io/2018/`](https://trec-core.github.io/2018/) 
 

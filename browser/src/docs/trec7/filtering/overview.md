@@ -10,7 +10,7 @@ Given a topic description, build a filtering profile which will select the most 
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D.A. Hull (Xerox Research Centre Europe) 
+- D.A. Hull, Xerox Research Centre Europe 
 
 :material-text-search: **Tasks:**
 

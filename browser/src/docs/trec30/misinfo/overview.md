@@ -14,6 +14,11 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 - Maria Maistro, University of Copenhagen 
 - Mark Smucker, University of Waterloo 
 
+:material-text-search: **Tasks:**
+
+- `adhoc`: Adhoc Retrieval 
+- `recall`: Total Recall 
+
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec-health-misinfo.github.io/`](https://trec-health-misinfo.github.io/) 
 
 ---

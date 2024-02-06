@@ -10,8 +10,8 @@ The TREC-8 Question Answering track was the first large scale evaluation of doma
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E. Voorhees (National Institute of Standards and Technology) 
-- D. Tice (National Institute of Standards and Technology) 
+- E. Voorhees, National Institute of Standards and Technology (NIST) 
+- D. Tice, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qamain.html`](https://trec.nist.gov/data/qamain.html) 
 

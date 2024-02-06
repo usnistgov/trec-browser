@@ -13,7 +13,7 @@ The goal of the new Clinical Trials track is to focus research on the clinical t
 - Dina Demner-Fushman, U.S. National Library of Medicine 
 - William Hersh, Oregon Health and Science University 
 - Kirk Roberts, University of Texas Health Science Center 
-- Ellen Voorhees, NIST 
+- Ellen Voorhees, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://www.trec-cds.org/`](http://www.trec-cds.org/) 
 

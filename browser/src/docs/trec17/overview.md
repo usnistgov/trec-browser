@@ -14,7 +14,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 - I. Ounis, University of Glasgow 
 - C. Macdonald, University of Glasgow 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/wiki/TREC-BLOG`](https://www.dcs.gla.ac.uk/wiki/TREC-BLOG) 
@@ -50,14 +50,14 @@ The Million Query (1MQ) track ran for the second time in TREC 2008. The track is
 
 {==
 
-The goal of the enterprise track is to conduct experiments with enterprise data that reflect the experiences of users in real organizations. This year, we continued with the CERC collection introduced in TREC 2007 (Bailey et al., 2007). Topics were developed in conjunction with CSIRO Enquiries, who field email and telephone questions about CSIRO research from the public.
+The goal of the enterprise track is to conduct experiments with enterprise data that reflect the experiences of users in real organizations. This year, we continued with the CERC collection introduced in TREC 2007. Topics were developed in conjunction with CSIRO Enquiries, who field email and telephone questions about CSIRO research from the public.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - K. Balog, University of Amsterdam 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 - P. Thomas, CSIRO 
 - P. Bailey, Microsoft 
 - N. Craswell, Microsoft 
@@ -74,7 +74,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 {==
 
-TREC 2008 was the third year of the Legal Track, which focuses on evaluation of search technology for discovery of electronically stored information in litigation and regulatory settings. The track included three tasks: Ad Hoc (i.e., single-pass automatic search), Relevance Feedback (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass) and Interactive (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback). This paper describes the design of the three tasks and presents the official results.
+TREC 2008 was the third year of the Legal Track, which focuses on evaluation of search technology for discovery of electronically stored information in litigation and regulatory settings. The track included three tasks: Ad Hoc (i.e., single-pass automatic search), Relevance Feedback (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass) and Interactive (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback).
 
 ==}
 

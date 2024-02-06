@@ -14,7 +14,7 @@ The Blog track began this year, with the aim to explore the information seeking 
 - C. Macdonald, University of Glasgow 
 - M. de Rijke, University of Amsterdam 
 - G. Mishne, University of Amsterdam 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

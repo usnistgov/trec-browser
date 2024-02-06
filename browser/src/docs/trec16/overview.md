@@ -12,9 +12,9 @@ The goal of this track is to run a retrieval task similar to standard ad-hoc ret
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- J. Allan, University of Massachusetts, Amherst 
-- B. Carterette, University of Massachusetts, Amherst 
-- B. Dachev, University of Massachusetts, Amherst 
+- J. Allan, University of Massachusetts Amherst 
+- B. Carterette, University of Massachusetts Amherst 
+- B. Dachev, University of Massachusetts Amherst 
 - J. A. Aslam, Northeastern University 
 - V. Pavlu, Northeastern University 
 - E. Kanoulas, Northeastern University 
@@ -71,7 +71,7 @@ TREC's Spam Track uses a standard testing framework that presents a set of chron
 
 {==
 
-TREC 2007 was the second year of the Legal Track, which focuses on evaluation of search technology for discovery of electronically stored information in litigation and regulatory settings. The track included three tasks: Ad Hoc (i.e., single-pass automatic) search, Relevance Feedback (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass) and Interactive (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback). This paper describes the design of the three tasks and analyzes the results.
+TREC 2007 was the second year of the Legal Track, which focuses on evaluation of search technology for discovery of electronically stored information in litigation and regulatory settings. The track included three tasks: Ad Hoc (i.e., single-pass automatic) search, Relevance Feedback (two-pass search in a controlled setting with some relevant and nonrelevant documents manually marked after the first pass) and Interactive (in which real users could iteratively refine their queries and/or engage in multi-pass relevance feedback).
 
 ==}
 
@@ -99,7 +99,7 @@ The TREC 2007 question answering (QA) track contained two tasks: the main task c
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- H.T. Dang, NIST 
+- H.T. Dang, National Institute of Standards and Technology (NIST) 
 - D. Kelly, University of North Carolina 
 - J. Lin, University of Maryland, College Park 
 
@@ -123,7 +123,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 - P. Bailey, Microsoft, USA 
 - A. P. de Vries, CWI, The Netherlands 
 - N. Craswell, MSR Cambridge, UK 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/enterprise.html`](https://trec.nist.gov/data/enterprise.html) 
@@ -144,7 +144,7 @@ The goal of the Blog track is to explore the information seeking behaviour in th
 
 - C. Macdonald, University of Glasgow 
 - I. Ounis, University of Glasgow 
-- I. Soboroff, NIST 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://www.dcs.gla.ac.uk/wiki/TREC-BLOG`](https://www.dcs.gla.ac.uk/wiki/TREC-BLOG) 

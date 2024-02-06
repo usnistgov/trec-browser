@@ -10,11 +10,11 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Adriel Dean-Hall - University of Waterloo 
-- Charles L. A. Clarke - University of Waterloo 
-- Jaap Kamps - University of Amsterdam 
-- Julia Kiseleva Eindhoven - University of Technology 
-- Ellen M. Voorhees - National Institute of Standards and Technology (NIST) 
+- Adriel Dean-Hall, University of Waterloo 
+- Charles L. A. Clarke, University of Waterloo 
+- Jaap Kamps, University of Amsterdam 
+- Julia Kiseleva Eindhoven, University of Technology 
+- Ellen M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :material-text-search: **Tasks:**
 

@@ -10,7 +10,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, NIST 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/robust/05/05.guidelines.html`](https://trec.nist.gov/data/robust/05/05.guidelines.html) 
 

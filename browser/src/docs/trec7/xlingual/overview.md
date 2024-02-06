@@ -10,10 +10,10 @@ This year, the TREC cross-language retrieval track took place for the second tim
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- M. Braschler (Eurospider Information Technology) 
-- J. Krause (Informationszentrum Sozialwissenschaften) 
-- C. Peters (Istituto di Elaborazione della Informazione (IEI-CNR)) 
-- P. Schäuble (Swiss Federal Institute of Technology (ETH)) 
+- M. Braschler, Eurospider Information Technology 
+- J. Krause, Informationszentrum Sozialwissenschaften 
+- C. Peters, Istituto di Elaborazione della Informazione (IEI-CNR) 
+- P. Schäuble, Swiss Federal Institute of Technology (ETH) 
 
 
 

@@ -4,7 +4,7 @@
 
 {==
 
-The TREC Federated Web Search track is intended to promote research related to federated search in a realistic web setting, and hereto provides a large data collection gathered from a series of online search engines. This overview paper discusses the results of the first edition of the track, FedWeb 2013. The focus was on basic challenges in federated search: (1) resource selection, and (2) results merging. After an overview of the provided data collection and the relevance judgments for the test topics, the participants’ individual approaches and results on both tasks are discussed. Promising research directions and an outlook on the 2014 edition of the track are provided as well.
+The TREC Federated Web Search track is intended to promote research related to federated search in a realistic web setting, and hereto provides a large data collection gathered from a series of online search engines. This overview paper discusses the results of the first edition of the track, FedWeb 2013. The focus was on basic challenges in federated search: (1) resource selection, and (2) results merging.
 
 ==}
 

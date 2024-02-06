@@ -14,7 +14,7 @@ The TREC Session track ran for the third time in 2012. The track has the primary
 - Ben Carterette, University of Delaware 
 - Mark Hall, University of Sheffield 
 - Paul Clough, University of Sheffield 
-- Mark Sanderson, RMIT University 
+- Mark Sanderson, Royal Melbourne Institute of Technology (RMIT University) 
 
 :material-text-search: **Tasks:**
 

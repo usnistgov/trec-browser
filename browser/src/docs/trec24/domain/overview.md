@@ -10,9 +10,9 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Hui Yang - Georgetown University 
-- John Frank - Diffeo and MIT 
-- Ian Soboroff - National Institute of Standards and Technology (NIST) 
+- Hui Yang, Georgetown University 
+- John Frank, Diffeo and MIT 
+- Ian Soboroff, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`http://trec-dd.org`](http://trec-dd.org) 
 

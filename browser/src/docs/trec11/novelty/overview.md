@@ -10,7 +10,7 @@ The TREC 2002 novelty track is designed to investigate systems' abilities to loc
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D. Harman, National Institute of Standards and Technology 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t11_novelty/novelty_guidelines.html`](https://trec.nist.gov/data/t11_novelty/novelty_guidelines.html) 
 

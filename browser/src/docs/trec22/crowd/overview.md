@@ -4,7 +4,7 @@
 
 {==
 
-In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a single task to crowdsource relevance judgments for a set of Web pages and search topics shared by the Web Track. This track overview describes the track and provides analysis of the track’s results.
+In 2013, the Crowdsourcing track partnered with the TREC Web Track and had a single task to crowdsource relevance judgments for a set of Web pages and search topics shared by the Web Track.
 
 ==}
 

@@ -10,10 +10,10 @@ This year represents the fourth iteration of the TREC Microblog track, which has
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- Jimmy Lin - University of Maryland 
-- Yulu Wang - University of Maryland 
+- Jimmy Lin, University of Maryland 
+- Yulu Wang, University of Maryland 
 - Miles Efron- University of Illinois 
-- Garrick Sherman - University of Illinois 
+- Garrick Sherman, University of Illinois 
 
 :material-text-search: **Tasks:**
 

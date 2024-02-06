@@ -52,7 +52,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- E.M. Voorhees, National Institute of Standards and Technology 
+- E.M. Voorhees, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/qamain.html`](https://trec.nist.gov/data/qamain.html) 
@@ -65,14 +65,14 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 {==
 
-Given a topic description and some example relevant documents, build a filtering profile which will select the most relevant examples from an incoming stream of documents.  In the TREC 2002 filtering task we will continue to stress adaptive filtering. However, the batch filtering and routing tasks will also be available. The details of the requirements of each sub-task are provided below.
+Given a topic description and some example relevant documents, build a filtering profile which will select the most relevant examples from an incoming stream of documents.  In the TREC 2002 filtering task we will continue to stress adaptive filtering. However, the batch filtering and routing tasks will also be available.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - S. Robertson, Microsoft Research 
-- I. Soboroff, National Institute of Standards and Technology 
+- I. Soboroff, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/filtering/T11filter_guide.html`](https://trec.nist.gov/data/filtering/T11filter_guide.html) 
@@ -91,7 +91,7 @@ The TREC 2002 novelty track is designed to investigate systems' abilities to loc
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
-- D. Harman, National Institute of Standards and Technology 
+- D. Harman, National Institute of Standards and Technology (NIST) 
 
 
 :fontawesome-solid-globe: **Track Web Page:** [`https://trec.nist.gov/data/t11_novelty/novelty_guidelines.html`](https://trec.nist.gov/data/t11_novelty/novelty_guidelines.html) 
@@ -123,14 +123,14 @@ TREC is organized along several tracks, each of which addresses a particular ret
 
 {==
 
-TREC-2002 saw the second running of the Video Track, the goal of which was to promote progress in content-based retrieval from digital video via open, metrics-based evaluation. The track used 73.3 hours of publicly available digital video (in MPEG1/VCD format) downloaded by the participants directly from the Internet Archive (Prelinger Archives) (internetarchive, 2002) and some from the Open Video Project (Marchionini, 2001). The material comprised advertising, educational, industrial, and amateur films produced between the 1930’s and the 1970’s by corporations, nonprofit organizations, trade associations, community and interest groups, educational institutions, and individuals. 17 teams representing 5 companies and 12 universities — 4 from Asia, 9 from Europe, and 4 from the US — participated in one or more of three tasks in the 2001 video track: shot boundary determination, feature extraction, and search (manual or interactive). Results were scored by NIST using manually created truth data for shot boundary determination and manual assessment of feature extraction and search results.
+TREC-2002 saw the second running of the Video Track, the goal of which was to promote progress in content-based retrieval from digital video via open, metrics-based evaluation. The track used 73.3 hours of publicly available digital video (in MPEG1/VCD format) downloaded by the participants directly from the Internet Archive (Prelinger Archives) and some from the Open Video Project. The material comprised advertising, educational, industrial, and amateur films produced between the 1930’s and the 1970’s by corporations, nonprofit organizations, trade associations, community and interest groups, educational institutions, and individuals. 17 teams representing 5 companies and 12 universities — 4 from Asia, 9 from Europe, and 4 from the US — participated in one or more of three tasks in the 2001 video track: shot boundary determination, feature extraction, and search (manual or interactive). Results were scored by NIST using manually created truth data for shot boundary determination and manual assessment of feature extraction and search results.
 
 ==}
 
 :fontawesome-solid-user-group: **Track coordinator(s):**
 
 - A.F. Smeaton, Dublin City University 
-- P. Over, National Institute of Standards and Technology 
+- P. Over, National Institute of Standards and Technology (NIST) 
 
 
 
