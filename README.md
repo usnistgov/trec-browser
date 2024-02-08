@@ -1,6 +1,8 @@
 # Metadata Browser of the Text Retrieval Conference
 
-This repository contains the resources of the TREC metadata browser available at [https://pages.nist.gov/trec-browser](https://pages.nist.gov/trec-browser) and the source code of the REST API server that can be used for principled queries and systematic access to the metadata of TREC (this repository also contains a [notebook](./api/demo.ipynb) that demonstrates and documents the use of the API). The underlying database containing the metadata can be obtained from the TREC program managers (see instructions below). 
+This repository contains the resources of the TREC metadata browser available at [https://pages.nist.gov/trec-browser](https://pages.nist.gov/trec-browser) and the source code of the REST API server that can be used for principled queries and systematic access to the metadata of TREC (this repository also contains a [notebook](./api/demo.ipynb) that demonstrates and documents the use of the API). 
+
+:warning: **Note for the reviewers**: The database will be available under an academic, non-commercial license. During the reviewing phase, we share the database confidentially with the help of an anonymized link. Details can be found in the submitted paper draft. If this repository should receive any updates or new commits, we refer the reviewers to [v0.1.0](https://github.com/usnistgov/trec-browser/releases/tag/v0.1.0) that corresponds to the project status at submission time.
 
 ## Overview 
 
@@ -13,7 +15,7 @@ This repository contains the resources of the TREC metadata browser available at
 
 ## Obtaining the database
 
-The database is available for research and non-commercial purposes. It can be obtained by contacting the TREC program coordinator [trec (at) nist.gov]. **For the reviewers, we share the database confidentially with the help of an anonymized link. Details are given in the paper submission.**
+The database will be available for research and non-commercial purposes. **For the reviewers, we share the database confidentially with the help of an anonymized link. Details are given in the paper submission.**
 
 ## Running the demo of the REST API
 
