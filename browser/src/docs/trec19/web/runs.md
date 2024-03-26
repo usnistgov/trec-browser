@@ -1,7 +1,7 @@
 # Runs - Web 2010 
 
 #### 1 
-[**`Results`**](./results.md#1), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/1.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
+[**`Results`**](./results.md#1) | [**`Participants`**](./participants.md#budapest_acad) | [**`Input`**](https://trec.nist.gov/results/trec19/web/1.bz2) | [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
 
 - :material-rename: **Run ID:** 1 
 - :fontawesome-solid-user-group: **Participant:** budapest_acad 
@@ -13,7 +13,7 @@
 
 ---
 #### 2 
-[**`Results`**](./results.md#2), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/2.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
+[**`Results`**](./results.md#2) | [**`Participants`**](./participants.md#budapest_acad) | [**`Input`**](https://trec.nist.gov/results/trec19/web/2.bz2) | [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/Budapest1-all.pdf) 
 
 - :material-rename: **Run ID:** 2 
 - :fontawesome-solid-user-group: **Participant:** budapest_acad 
@@ -25,7 +25,7 @@
 
 ---
 #### blv79y00prob 
-[**`Results`**](./results.md#blv79y00prob), [**`Participants`**](./participants.md#blv1979), [**`Proceedings`**](./proceedings.md#lessons-learned-from-indexing-close-word-pairs), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.blv79y00prob.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.blv79y00prob), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.blv79y00prob), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.blv79y00prob), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/blv1979.adhoc.pdf) 
+[**`Results`**](./results.md#blv79y00prob) | [**`Participants`**](./participants.md#blv1979) | [**`Proceedings`**](./proceedings.md#lessons-learned-from-indexing-close-word-pairs) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.blv79y00prob.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.blv79y00prob) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.blv79y00prob) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.blv79y00prob) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/blv1979.adhoc.pdf) 
 
 - :material-rename: **Run ID:** blv79y00prob 
 - :fontawesome-solid-user-group: **Participant:** blv1979 
@@ -38,7 +38,7 @@
 
 ---
 #### blv79y00shnk 
-[**`Results`**](./results.md#blv79y00shnk), [**`Participants`**](./participants.md#blv1979), [**`Proceedings`**](./proceedings.md#lessons-learned-from-indexing-close-word-pairs), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.blv79y00shnk.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.blv79y00shnk), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.blv79y00shnk), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.blv79y00shnk), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/blv1979.adhoc.pdf) 
+[**`Results`**](./results.md#blv79y00shnk) | [**`Participants`**](./participants.md#blv1979) | [**`Proceedings`**](./proceedings.md#lessons-learned-from-indexing-close-word-pairs) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.blv79y00shnk.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.blv79y00shnk) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.blv79y00shnk) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.blv79y00shnk) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/blv1979.adhoc.pdf) 
 
 - :material-rename: **Run ID:** blv79y00shnk 
 - :fontawesome-solid-user-group: **Participant:** blv1979 
@@ -51,7 +51,7 @@
 
 ---
 #### cmuBase10 
-[**`Results`**](./results.md#cmubase10), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuBase10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuBase10), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuBase10), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuBase10), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmubase10) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuBase10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuBase10) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuBase10) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuBase10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuBase10 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -64,7 +64,7 @@
 
 ---
 #### cmuComb10 
-[**`Results`**](./results.md#cmucomb10), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuComb10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuComb10), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuComb10), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuComb10), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmucomb10) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuComb10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuComb10) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuComb10) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuComb10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuComb10 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -77,7 +77,7 @@
 
 ---
 #### cmuFuTop10 
-[**`Results`**](./results.md#cmufutop10), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuFuTop10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuFuTop10), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuFuTop10), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuFuTop10), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmufutop10) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuFuTop10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuFuTop10) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuFuTop10) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuFuTop10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuFuTop10 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -90,7 +90,7 @@
 
 ---
 #### cmuFuTop10D 
-[**`Results`**](./results.md#cmufutop10d), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuFuTop10D.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuFuTop10D), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuFuTop10D), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuFuTop10D), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmufutop10d) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuFuTop10D.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuFuTop10D) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuFuTop10D) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuFuTop10D) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuFuTop10D 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -103,7 +103,7 @@
 
 ---
 #### cmuWi10D 
-[**`Results`**](./results.md#cmuwi10d), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuWi10D.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuWi10D), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuWi10D), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuWi10D), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmuwi10d) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuWi10D.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuWi10D) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuWi10D) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuWi10D) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuWi10D 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -116,7 +116,7 @@
 
 ---
 #### cmuWiki10 
-[**`Results`**](./results.md#cmuwiki10), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuWiki10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuWiki10), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuWiki10), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuWiki10), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
+[**`Results`**](./results.md#cmuwiki10) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#combination-of-evidence-for-effective-web-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.cmuWiki10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.cmuWiki10) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.cmuWiki10) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.cmuWiki10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/CMU_LIRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** cmuWiki10 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -129,7 +129,7 @@
 
 ---
 #### DFalah2010 
-[**`Results`**](./results.md#dfalah2010), [**`Participants`**](./participants.md#uottawa), [**`Proceedings`**](./proceedings.md#university-of-ottawa-at-trec-2010-web-track-ranking-web-documents-using-meta-data), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.DFalah2010.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.DFalah2010), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.DFalah2010), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.DFalah2010), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uottawa.adhoc.pdf) 
+[**`Results`**](./results.md#dfalah2010) | [**`Participants`**](./participants.md#uottawa) | [**`Proceedings`**](./proceedings.md#university-of-ottawa-at-trec-2010-web-track-ranking-web-documents-using-meta-data) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.DFalah2010.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.DFalah2010) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.DFalah2010) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.DFalah2010) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uottawa.adhoc.pdf) 
 
 - :material-rename: **Run ID:** DFalah2010 
 - :fontawesome-solid-user-group: **Participant:** uottawa 
@@ -142,7 +142,7 @@
 
 ---
 #### ICTNETAD10R1 
-[**`Results`**](./results.md#ictnetad10r1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetad10r1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETAD10R1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -155,7 +155,7 @@
 
 ---
 #### ICTNETAD10R2 
-[**`Results`**](./results.md#ictnetad10r2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetad10r2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETAD10R2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -168,7 +168,7 @@
 
 ---
 #### ICTNETAD10R3 
-[**`Results`**](./results.md#ictnetad10r3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetad10r3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETAD10R3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETAD10R3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETAD10R3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETAD10R3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETAD10R3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -181,7 +181,7 @@
 
 ---
 #### ICTNETDV10R1 
-[**`Results`**](./results.md#ictnetdv10r1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetdv10r1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDV10R1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -194,7 +194,7 @@
 
 ---
 #### ICTNETDV10R2 
-[**`Results`**](./results.md#ictnetdv10r2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetdv10r2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDV10R2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -207,7 +207,7 @@
 
 ---
 #### ICTNETDV10R3 
-[**`Results`**](./results.md#ictnetdv10r3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetdv10r3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.ICTNETDV10R3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.ICTNETDV10R3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.ICTNETDV10R3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.ICTNETDV10R3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/ICTNET.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDV10R3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -220,7 +220,7 @@
 
 ---
 #### ICTNETSP10R1 
-[**`Results`**](./results.md#ictnetsp10r1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task), [**`Input`**](https://trec.nist.gov/results/trec19/web/ICTNETSP10R1.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.ICTNETSP10R1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/ICTNETSP10R1-all.pdf) 
+[**`Results`**](./results.md#ictnetsp10r1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2010-ad-hoc-task) | [**`Input`**](https://trec.nist.gov/results/trec19/web/ICTNETSP10R1.bz2) | [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.ICTNETSP10R1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/ICTNETSP10R1-all.pdf) 
 
 - :material-rename: **Run ID:** ICTNETSP10R1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -228,11 +228,11 @@
 - :material-calendar: **Year:** 2010 
 - :material-upload: **Submission:** 8/9/2010 
 - :material-text-search: **Task:** spam 
-- :material-text: **Run description:** Firstly, we count the balance of the page-rank value. It means we count page-rank twice. One is ordinary and the other is at the base of web link structure re-build. We cut off some web link while it’s recognized as a spamming link. Secondly, we get a spamming score from a content-based classifier. Then, we subtract from this content-based spamming score using the balance of page-rank value. The result is used as the final indicator of one page’s spamming level.  
+- :material-text: **Run description:** Firstly, we count the balance of the page-rank value. It means we count page-rank twice. One is ordinary and the other is at the base of web link structure re-build. We cut off some web link while its recognized as a spamming link. Secondly, we get a spamming score from a content-based classifier. Then, we subtract from this content-based spamming score using the balance of page-rank value. The result is used as the final indicator of one pages spamming level.  
 
 ---
 #### irra10b 
-[**`Results`**](./results.md#irra10b), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10b.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10b), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10b), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10b), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
+[**`Results`**](./results.md#irra10b) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10b.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10b) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10b) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10b) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra10b 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -245,7 +245,7 @@
 
 ---
 #### irra10hp 
-[**`Results`**](./results.md#irra10hp), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10hp.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10hp), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10hp), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10hp), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
+[**`Results`**](./results.md#irra10hp) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10hp.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10hp) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10hp) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10hp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra10hp 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -258,7 +258,7 @@
 
 ---
 #### irra10rob 
-[**`Results`**](./results.md#irra10rob), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10rob.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10rob), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10rob), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10rob), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
+[**`Results`**](./results.md#irra10rob) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2010-index-term-weighting-by-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.irra10rob.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.irra10rob) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.irra10rob) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.irra10rob) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/IRRA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra10rob 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -271,7 +271,7 @@
 
 ---
 #### IVORY.70.30 
-[**`Results`**](./results.md#ivory7030), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.70.30.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.70.30.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.70.30-all.pdf) 
+[**`Results`**](./results.md#ivory7030) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory) | [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.70.30.bz2) | [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.70.30.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.70.30-all.pdf) 
 
 - :material-rename: **Run ID:** IVORY.70.30 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -284,7 +284,7 @@
 
 ---
 #### IVORY.90.10 
-[**`Results`**](./results.md#ivory9010), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.90.10.bz2), [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.90.10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.90.10-all.pdf) 
+[**`Results`**](./results.md#ivory9010) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory) | [**`Input`**](https://trec.nist.gov/results/trec19/web/IVORY.90.10.bz2) | [**`Summary`**](https://trec.nist.gov/results/trec19/web/summary.spam.IVORY.90.10.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-spam/IVORY.90.10-all.pdf) 
 
 - :material-rename: **Run ID:** IVORY.90.10 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -297,7 +297,7 @@
 
 ---
 #### IvoryBM25a 
-[**`Results`**](./results.md#ivorybm25a), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryBM25a.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryBM25a), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryBM25a), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryBM25a), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
+[**`Results`**](./results.md#ivorybm25a) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryBM25a.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryBM25a) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryBM25a) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryBM25a) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvoryBM25a 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -310,7 +310,7 @@
 
 ---
 #### IvoryL2Rb 
-[**`Results`**](./results.md#ivoryl2rb), [**`Participants`**](./participants.md#isi), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryL2Rb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryL2Rb), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryL2Rb), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryL2Rb), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
+[**`Results`**](./results.md#ivoryl2rb) | [**`Participants`**](./participants.md#isi) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryL2Rb.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryL2Rb) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryL2Rb) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryL2Rb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvoryL2Rb 
 - :fontawesome-solid-user-group: **Participant:** isi 
@@ -323,7 +323,7 @@
 
 ---
 #### IvoryLCEb 
-[**`Results`**](./results.md#ivorylceb), [**`Participants`**](./participants.md#isi), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryLCEb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryLCEb), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryLCEb), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryLCEb), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
+[**`Results`**](./results.md#ivorylceb) | [**`Participants`**](./participants.md#isi) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryLCEb.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryLCEb) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryLCEb) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryLCEb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvoryLCEb 
 - :fontawesome-solid-user-group: **Participant:** isi 
@@ -336,7 +336,7 @@
 
 ---
 #### IvorySDa 
-[**`Results`**](./results.md#ivorysda), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvorySDa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvorySDa), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvorySDa), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvorySDa), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
+[**`Results`**](./results.md#ivorysda) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvorySDa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvorySDa) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvorySDa) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvorySDa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvorySDa 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -349,7 +349,7 @@
 
 ---
 #### IvoryWSDa 
-[**`Results`**](./results.md#ivorywsda), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryWSDa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryWSDa), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryWSDa), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryWSDa), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
+[**`Results`**](./results.md#ivorywsda) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#umd-and-usc-isi-trec-2010-web-track-experiments-with-ivory) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryWSDa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryWSDa) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryWSDa) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryWSDa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UMD.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvoryWSDa 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -362,7 +362,7 @@
 
 ---
 #### IvoryWSDb 
-[**`Results`**](./results.md#ivorywsdb), [**`Participants`**](./participants.md#isi), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryWSDb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryWSDb), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryWSDb), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryWSDb), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
+[**`Results`**](./results.md#ivorywsdb) | [**`Participants`**](./participants.md#isi) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.IvoryWSDb.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.IvoryWSDb) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.IvoryWSDb) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.IvoryWSDb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/isi.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IvoryWSDb 
 - :fontawesome-solid-user-group: **Participant:** isi 
@@ -375,7 +375,7 @@
 
 ---
 #### MF1 
-[**`Results`**](./results.md#mf1), [**`Participants`**](./participants.md#mediafutures), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MF1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MF1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MF1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MF1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Mediafutures.adhoc.pdf) 
+[**`Results`**](./results.md#mf1) | [**`Participants`**](./participants.md#mediafutures) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MF1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MF1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MF1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MF1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Mediafutures.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MF1 
 - :fontawesome-solid-user-group: **Participant:** Mediafutures 
@@ -388,7 +388,7 @@
 
 ---
 #### MF2 
-[**`Results`**](./results.md#mf2), [**`Participants`**](./participants.md#mediafutures), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MF2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MF2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MF2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MF2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Mediafutures.adhoc.pdf) 
+[**`Results`**](./results.md#mf2) | [**`Participants`**](./participants.md#mediafutures) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MF2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MF2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MF2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MF2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Mediafutures.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MF2 
 - :fontawesome-solid-user-group: **Participant:** Mediafutures 
@@ -401,7 +401,7 @@
 
 ---
 #### MMCIl410m1 
-[**`Results`**](./results.md#mmcil410m1), [**`Participants`**](./participants.md#mmci), [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCIl410m1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCIl410m1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCIl410m1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCIl410m1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
+[**`Results`**](./results.md#mmcil410m1) | [**`Participants`**](./participants.md#mmci) | [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCIl410m1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCIl410m1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCIl410m1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCIl410m1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MMCIl410m1 
 - :fontawesome-solid-user-group: **Participant:** MMCI 
@@ -414,7 +414,7 @@
 
 ---
 #### MMCITLCLl20M 
-[**`Results`**](./results.md#mmcitlcll20m), [**`Participants`**](./participants.md#mmci), [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCITLCLl20M.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCITLCLl20M), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCITLCLl20M), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCITLCLl20M), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
+[**`Results`**](./results.md#mmcitlcll20m) | [**`Participants`**](./participants.md#mmci) | [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCITLCLl20M.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCITLCLl20M) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCITLCLl20M) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCITLCLl20M) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MMCITLCLl20M 
 - :fontawesome-solid-user-group: **Participant:** MMCI 
@@ -427,7 +427,7 @@
 
 ---
 #### MMCITLl20M 
-[**`Results`**](./results.md#mmcitll20m), [**`Participants`**](./participants.md#mmci), [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCITLl20M.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCITLl20M), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCITLl20M), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCITLl20M), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
+[**`Results`**](./results.md#mmcitll20m) | [**`Participants`**](./participants.md#mmci) | [**`Proceedings`**](./proceedings.md#mmci-at-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.MMCITLl20M.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.MMCITLl20M) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.MMCITLl20M) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.MMCITLl20M) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/MMCI.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MMCITLl20M 
 - :fontawesome-solid-user-group: **Participant:** MMCI 
@@ -440,7 +440,7 @@
 
 ---
 #### msrsv1 
-[**`Results`**](./results.md#msrsv1), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv1) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv1 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -453,7 +453,7 @@
 
 ---
 #### msrsv1div 
-[**`Results`**](./results.md#msrsv1div), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv1div.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv1div), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv1div), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv1div), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv1div) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv1div.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv1div) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv1div) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv1div) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv1div 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -466,7 +466,7 @@
 
 ---
 #### msrsv2 
-[**`Results`**](./results.md#msrsv2), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv2) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv2 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -479,7 +479,7 @@
 
 ---
 #### msrsv2div 
-[**`Results`**](./results.md#msrsv2div), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv2div.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv2div), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv2div), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv2div), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv2div) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv2div.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv2div) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv2div) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv2div) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv2div 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -492,7 +492,7 @@
 
 ---
 #### msrsv3 
-[**`Results`**](./results.md#msrsv3), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv3) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv3 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -505,7 +505,7 @@
 
 ---
 #### msrsv3div 
-[**`Results`**](./results.md#msrsv3div), [**`Participants`**](./participants.md#msrsv), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv3div.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv3div), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv3div), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv3div), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
+[**`Results`**](./results.md#msrsv3div) | [**`Participants`**](./participants.md#msrsv) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.msrsv3div.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.msrsv3div) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.msrsv3div) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.msrsv3div) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/msrsv.adhoc.pdf) 
 
 - :material-rename: **Run ID:** msrsv3div 
 - :fontawesome-solid-user-group: **Participant:** msrsv 
@@ -518,7 +518,7 @@
 
 ---
 #### pkusewm1 
-[**`Results`**](./results.md#pkusewm1), [**`Participants`**](./participants.md#pkusewm), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.pkusewm1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.pkusewm1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.pkusewm1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.pkusewm1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/PKUSEWM.adhoc.pdf) 
+[**`Results`**](./results.md#pkusewm1) | [**`Participants`**](./participants.md#pkusewm) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.pkusewm1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.pkusewm1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.pkusewm1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.pkusewm1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/PKUSEWM.adhoc.pdf) 
 
 - :material-rename: **Run ID:** pkusewm1 
 - :fontawesome-solid-user-group: **Participant:** PKUSEWM 
@@ -531,7 +531,7 @@
 
 ---
 #### qirdcsuog1 
-[**`Results`**](./results.md#qirdcsuog1), [**`Participants`**](./participants.md#qirdcsuog), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
+[**`Results`**](./results.md#qirdcsuog1) | [**`Participants`**](./participants.md#qirdcsuog) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
 
 - :material-rename: **Run ID:** qirdcsuog1 
 - :fontawesome-solid-user-group: **Participant:** qirdcsuog 
@@ -544,7 +544,7 @@
 
 ---
 #### qirdcsuog2 
-[**`Results`**](./results.md#qirdcsuog2), [**`Participants`**](./participants.md#qirdcsuog), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
+[**`Results`**](./results.md#qirdcsuog2) | [**`Participants`**](./participants.md#qirdcsuog) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
 
 - :material-rename: **Run ID:** qirdcsuog2 
 - :fontawesome-solid-user-group: **Participant:** qirdcsuog 
@@ -557,7 +557,7 @@
 
 ---
 #### qirdcsuog3 
-[**`Results`**](./results.md#qirdcsuog3), [**`Participants`**](./participants.md#qirdcsuog), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
+[**`Results`**](./results.md#qirdcsuog3) | [**`Participants`**](./participants.md#qirdcsuog) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.qirdcsuog3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.qirdcsuog3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.qirdcsuog3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.qirdcsuog3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/qirdcsuog.adhoc.pdf) 
 
 - :material-rename: **Run ID:** qirdcsuog3 
 - :fontawesome-solid-user-group: **Participant:** qirdcsuog 
@@ -570,7 +570,7 @@
 
 ---
 #### sztaki1 
-[**`Results`**](./results.md#sztaki1), [**`Participants`**](./participants.md#budapest_acad), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.sztaki1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.sztaki1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.sztaki1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.sztaki1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/budapest_acad.adhoc.pdf) 
+[**`Results`**](./results.md#sztaki1) | [**`Participants`**](./participants.md#budapest_acad) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.sztaki1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.sztaki1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.sztaki1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.sztaki1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/budapest_acad.adhoc.pdf) 
 
 - :material-rename: **Run ID:** sztaki1 
 - :fontawesome-solid-user-group: **Participant:** budapest_acad 
@@ -583,7 +583,7 @@
 
 ---
 #### THUIR10DvNov 
-[**`Results`**](./results.md#thuir10dvnov), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvNov.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvNov), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvNov), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvNov), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10dvnov) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvNov.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvNov) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvNov) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvNov) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10DvNov 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -596,7 +596,7 @@
 
 ---
 #### THUIR10DvQaH 
-[**`Results`**](./results.md#thuir10dvqah), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvQaH.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvQaH), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvQaH), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvQaH), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10dvqah) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvQaH.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvQaH) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvQaH) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvQaH) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10DvQaH 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -609,7 +609,7 @@
 
 ---
 #### THUIR10DvQEW 
-[**`Results`**](./results.md#thuir10dvqew), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvQEW.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvQEW), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvQEW), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvQEW), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10dvqew) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10DvQEW.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10DvQEW) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10DvQEW) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10DvQEW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10DvQEW 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -622,7 +622,7 @@
 
 ---
 #### THUIR10Qa 
-[**`Results`**](./results.md#thuir10qa), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10Qa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10Qa), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10Qa), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10Qa), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10qa) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10Qa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10Qa) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10Qa) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10Qa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10Qa 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -635,7 +635,7 @@
 
 ---
 #### THUIR10QaHt 
-[**`Results`**](./results.md#thuir10qaht), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10QaHt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10QaHt), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10QaHt), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10QaHt), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10qaht) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10QaHt.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10QaHt) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10QaHt) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10QaHt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10QaHt 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -648,7 +648,7 @@
 
 ---
 #### THUIR10Str 
-[**`Results`**](./results.md#thuir10str), [**`Participants`**](./participants.md#thuir), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10Str.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10Str), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10Str), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10Str), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
+[**`Results`**](./results.md#thuir10str) | [**`Participants`**](./participants.md#thuir) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.THUIR10Str.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.THUIR10Str) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.THUIR10Str) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.THUIR10Str) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/THUIR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR10Str 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -661,7 +661,7 @@
 
 ---
 #### UAMSA10d2a8 
-[**`Results`**](./results.md#uamsa10d2a8), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10d2a8.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10d2a8), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10d2a8), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10d2a8), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsa10d2a8) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10d2a8.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10d2a8) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10d2a8) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10d2a8) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSA10d2a8 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -674,7 +674,7 @@
 
 ---
 #### UAMSA10mSF30 
-[**`Results`**](./results.md#uamsa10msf30), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10mSF30.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10mSF30), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10mSF30), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10mSF30), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsa10msf30) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10mSF30.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10mSF30) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10mSF30) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10mSF30) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSA10mSF30 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -687,7 +687,7 @@
 
 ---
 #### UAMSA10mSFPR 
-[**`Results`**](./results.md#uamsa10msfpr), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10mSFPR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10mSFPR), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10mSFPR), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10mSFPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsa10msfpr) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSA10mSFPR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSA10mSFPR) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSA10mSFPR) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSA10mSFPR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSA10mSFPR 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -700,7 +700,7 @@
 
 ---
 #### UAMSD10ancB 
-[**`Results`**](./results.md#uamsd10ancb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10ancB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10ancB), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10ancB), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10ancB), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsd10ancb) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10ancB.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10ancB) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10ancB) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10ancB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSD10ancB 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -713,7 +713,7 @@
 
 ---
 #### UAMSD10ancPR 
-[**`Results`**](./results.md#uamsd10ancpr), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10ancPR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10ancPR), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10ancPR), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10ancPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsd10ancpr) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10ancPR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10ancPR) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10ancPR) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10ancPR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSD10ancPR 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -726,7 +726,7 @@
 
 ---
 #### UAMSD10aSRfu 
-[**`Results`**](./results.md#uamsd10asrfu), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10aSRfu.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10aSRfu), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10aSRfu), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10aSRfu), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
+[**`Results`**](./results.md#uamsd10asrfu) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#using-anchor-text-spam-filtering-and-wikipedia-for-web-search-and-entity-ranking) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UAMSD10aSRfu.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UAMSD10aSRfu) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UAMSD10aSRfu) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UAMSD10aSRfu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UAmsterdam.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UAMSD10aSRfu 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -739,7 +739,7 @@
 
 ---
 #### UCDSIFTDiv 
-[**`Results`**](./results.md#ucdsiftdiv), [**`Participants`**](./participants.md#ucdsift), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTDiv.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTDiv), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTDiv), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTDiv), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftdiv) | [**`Participants`**](./participants.md#ucdsift) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTDiv.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTDiv) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTDiv) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTDiv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTDiv 
 - :fontawesome-solid-user-group: **Participant:** UCDSIFT 
@@ -752,7 +752,7 @@
 
 ---
 #### UCDSIFTMAP 
-[**`Results`**](./results.md#ucdsiftmap), [**`Participants`**](./participants.md#ucdsift), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTMAP.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTMAP), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTMAP), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTMAP), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftmap) | [**`Participants`**](./participants.md#ucdsift) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTMAP.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTMAP) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTMAP) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTMAP) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTMAP 
 - :fontawesome-solid-user-group: **Participant:** UCDSIFT 
@@ -765,7 +765,7 @@
 
 ---
 #### UCDSIFTProb 
-[**`Results`**](./results.md#ucdsiftprob), [**`Participants`**](./participants.md#ucdsift), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTProb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTProb), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTProb), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTProb), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftprob) | [**`Participants`**](./participants.md#ucdsift) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTProb.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTProb) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTProb) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTProb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTProb 
 - :fontawesome-solid-user-group: **Participant:** UCDSIFT 
@@ -778,7 +778,7 @@
 
 ---
 #### UCDSIFTSlide 
-[**`Results`**](./results.md#ucdsiftslide), [**`Participants`**](./participants.md#ucdsift), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTSlide.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTSlide), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTSlide), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTSlide), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftslide) | [**`Participants`**](./participants.md#ucdsift) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2010-web-track) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UCDSIFTSlide.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UCDSIFTSlide) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UCDSIFTSlide) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UCDSIFTSlide) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/UCDSIFT.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTSlide 
 - :fontawesome-solid-user-group: **Participant:** UCDSIFT 
@@ -791,7 +791,7 @@
 
 ---
 #### udelCluster 
-[**`Results`**](./results.md#udelcluster), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelCluster.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelCluster), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelCluster), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelCluster), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelcluster) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelCluster.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelCluster) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelCluster) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelCluster) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelCluster 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -804,7 +804,7 @@
 
 ---
 #### udelFMRM 
-[**`Results`**](./results.md#udelfmrm), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelFMRM.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelFMRM), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelFMRM), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelFMRM), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelfmrm) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelFMRM.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelFMRM) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelFMRM) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelFMRM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelFMRM 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -817,7 +817,7 @@
 
 ---
 #### udelIndriB 
-[**`Results`**](./results.md#udelindrib), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriB.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriB), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriB), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriB), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelindrib) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriB.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriB) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriB) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndriB 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -830,7 +830,7 @@
 
 ---
 #### udelIndriB2 
-[**`Results`**](./results.md#udelindrib2), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriB2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriB2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriB2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriB2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelindrib2) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriB2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriB2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriB2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriB2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndriB2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -843,7 +843,7 @@
 
 ---
 #### udelIndriWP 
-[**`Results`**](./results.md#udelindriwp), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriWP.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriWP), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriWP), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriWP), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelindriwp) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelIndriWP.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelIndriWP) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelIndriWP) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelIndriWP) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndriWP 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -856,7 +856,7 @@
 
 ---
 #### udelSimPrune 
-[**`Results`**](./results.md#udelsimprune), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelSimPrune.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelSimPrune), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelSimPrune), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelSimPrune), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
+[**`Results`**](./results.md#udelsimprune) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.udelSimPrune.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.udelSimPrune) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.udelSimPrune) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.udelSimPrune) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/udel.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelSimPrune 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -869,7 +869,7 @@
 
 ---
 #### UDWebLOG 
-[**`Results`**](./results.md#udweblog), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebLOG.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebLOG), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebLOG), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebLOG), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
+[**`Results`**](./results.md#udweblog) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebLOG.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebLOG) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebLOG) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebLOG) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWebLOG 
 - :fontawesome-solid-user-group: **Participant:** Udel_Fang 
@@ -882,7 +882,7 @@
 
 ---
 #### UDWebPCOV 
-[**`Results`**](./results.md#udwebpcov), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebPCOV.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebPCOV), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebPCOV), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebPCOV), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
+[**`Results`**](./results.md#udwebpcov) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebPCOV.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebPCOV) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebPCOV) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebPCOV) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWebPCOV 
 - :fontawesome-solid-user-group: **Participant:** Udel_Fang 
@@ -895,7 +895,7 @@
 
 ---
 #### UDWebSQR 
-[**`Results`**](./results.md#udwebsqr), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebSQR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebSQR), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebSQR), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebSQR), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
+[**`Results`**](./results.md#udwebsqr) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-diverstiy-task-of-web-track-2010) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UDWebSQR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UDWebSQR) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UDWebSQR) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UDWebSQR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/Udel_Fang.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWebSQR 
 - :fontawesome-solid-user-group: **Participant:** Udel_Fang 
@@ -908,7 +908,7 @@
 
 ---
 #### UMa10BASF 
-[**`Results`**](./results.md#uma10basf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10BASF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10BASF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10BASF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10BASF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#uma10basf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10BASF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10BASF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10BASF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10BASF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMa10BASF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -921,7 +921,7 @@
 
 ---
 #### UMa10BSF 
-[**`Results`**](./results.md#uma10bsf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10BSF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10BSF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10BSF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10BSF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#uma10bsf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10BSF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10BSF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10BSF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10BSF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMa10BSF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -934,7 +934,7 @@
 
 ---
 #### UMa10IASF 
-[**`Results`**](./results.md#uma10iasf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10IASF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10IASF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10IASF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10IASF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#uma10iasf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMa10IASF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMa10IASF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMa10IASF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMa10IASF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMa10IASF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -947,7 +947,7 @@
 
 ---
 #### umassSDM 
-[**`Results`**](./results.md#umasssdm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umassSDM.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umassSDM), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umassSDM), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umassSDM), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
+[**`Results`**](./results.md#umasssdm) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umassSDM.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umassSDM) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umassSDM) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umassSDM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
 
 - :material-rename: **Run ID:** umassSDM 
 - :fontawesome-solid-user-group: **Participant:** umass 
@@ -960,7 +960,7 @@
 
 ---
 #### umassSDMW 
-[**`Results`**](./results.md#umasssdmw), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umassSDMW.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umassSDMW), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umassSDMW), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umassSDMW), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
+[**`Results`**](./results.md#umasssdmw) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umassSDMW.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umassSDMW) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umassSDMW) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umassSDMW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
 
 - :material-rename: **Run ID:** umassSDMW 
 - :fontawesome-solid-user-group: **Participant:** umass 
@@ -973,7 +973,7 @@
 
 ---
 #### umasswfb520 
-[**`Results`**](./results.md#umasswfb520), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umasswfb520.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umasswfb520), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umasswfb520), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umasswfb520), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
+[**`Results`**](./results.md#umasswfb520) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#trec-2010-web-track-notebook-term-dependence-spam-filtering-and-quality-bias) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.umasswfb520.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.umasswfb520) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.umasswfb520) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.umasswfb520) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/umass.adhoc.pdf) 
 
 - :material-rename: **Run ID:** umasswfb520 
 - :fontawesome-solid-user-group: **Participant:** umass 
@@ -986,7 +986,7 @@
 
 ---
 #### UMd10ASF 
-[**`Results`**](./results.md#umd10asf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10ASF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10ASF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10ASF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10ASF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#umd10asf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10ASF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10ASF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10ASF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10ASF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMd10ASF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -999,7 +999,7 @@
 
 ---
 #### UMd10BASF 
-[**`Results`**](./results.md#umd10basf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10BASF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10BASF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10BASF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10BASF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#umd10basf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10BASF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10BASF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10BASF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10BASF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMd10BASF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -1012,7 +1012,7 @@
 
 ---
 #### UMd10IASF 
-[**`Results`**](./results.md#umd10iasf), [**`Participants`**](./participants.md#unimelb), [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10IASF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10IASF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10IASF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10IASF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
+[**`Results`**](./results.md#umd10iasf) | [**`Participants`**](./participants.md#unimelb) | [**`Proceedings`**](./proceedings.md#the-role-of-anchor-text-in-clueweb09-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.UMd10IASF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.UMd10IASF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.UMd10IASF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.UMd10IASF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/unimelb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMd10IASF 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -1025,7 +1025,7 @@
 
 ---
 #### uogTrA40n 
-[**`Results`**](./results.md#uogtra40n), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA40n.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA40n), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA40n), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA40n), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtra40n) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA40n.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA40n) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA40n) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA40n) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrA40n 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1038,7 +1038,7 @@
 
 ---
 #### uogTrA42 
-[**`Results`**](./results.md#uogtra42), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA42.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA42), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA42), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA42), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtra42) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA42.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA42) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA42) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA42) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrA42 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1051,7 +1051,7 @@
 
 ---
 #### uogTrA42x 
-[**`Results`**](./results.md#uogtra42x), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA42x.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA42x), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA42x), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA42x), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtra42x) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrA42x.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrA42x) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrA42x) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrA42x) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrA42x 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1064,7 +1064,7 @@
 
 ---
 #### uogTrB67 
-[**`Results`**](./results.md#uogtrb67), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrb67) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrB67 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1077,7 +1077,7 @@
 
 ---
 #### uogTrB67LTS 
-[**`Results`**](./results.md#uogtrb67lts), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67LTS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67LTS), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67LTS), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67LTS), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrb67lts) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67LTS.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67LTS) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67LTS) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67LTS) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrB67LTS 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1090,7 +1090,7 @@
 
 ---
 #### uogTrB67xS 
-[**`Results`**](./results.md#uogtrb67xs), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67xS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67xS), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67xS), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67xS), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrb67xs) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrB67xS.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrB67xS) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrB67xS) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrB67xS) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrB67xS 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1103,7 +1103,7 @@
 
 ---
 #### uogTrBdphxS 
-[**`Results`**](./results.md#uogtrbdphxs), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrBdphxS.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrBdphxS), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrBdphxS), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrBdphxS), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrbdphxs) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2010-experiments-with-terrier-in-blog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uogTrBdphxS.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uogTrBdphxS) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uogTrBdphxS) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uogTrBdphxS) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uogTr.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrBdphxS 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1116,7 +1116,7 @@
 
 ---
 #### utwente3 
-[**`Results`**](./results.md#utwente3), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
+[**`Results`**](./results.md#utwente3) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
 
 - :material-rename: **Run ID:** utwente3 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1129,7 +1129,7 @@
 
 ---
 #### utwente4 
-[**`Results`**](./results.md#utwente4), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente4), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente4), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente4), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
+[**`Results`**](./results.md#utwente4) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente4) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente4) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
 
 - :material-rename: **Run ID:** utwente4 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1142,7 +1142,7 @@
 
 ---
 #### utwente4SF 
-[**`Results`**](./results.md#utwente4sf), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente4SF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente4SF), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente4SF), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente4SF), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
+[**`Results`**](./results.md#utwente4sf) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#mapreduce-for-experimental-search) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.utwente4SF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.utwente4SF) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.utwente4SF) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.utwente4SF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/utwente.adhoc.pdf) 
 
 - :material-rename: **Run ID:** utwente4SF 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1155,7 +1155,7 @@
 
 ---
 #### uwgym 
-[**`Results`**](./results.md#uwgym), [**`Participants`**](./participants.md#uwaterlooclarke), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uwgym.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uwgym), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uwgym), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uwgym), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uwaterlooclarke.adhoc.pdf) 
+[**`Results`**](./results.md#uwgym) | [**`Participants`**](./participants.md#uwaterlooclarke) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.uwgym.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.uwgym) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.uwgym) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.uwgym) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/uwaterlooclarke.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uwgym 
 - :fontawesome-solid-user-group: **Participant:** uwaterlooclarke 
@@ -1168,7 +1168,7 @@
 
 ---
 #### york10wA1 
-[**`Results`**](./results.md#york10wa1), [**`Participants`**](./participants.md#york), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA1), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA1), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA1), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
+[**`Results`**](./results.md#york10wa1) | [**`Participants`**](./participants.md#york) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA1) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA1) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
 
 - :material-rename: **Run ID:** york10wA1 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -1181,7 +1181,7 @@
 
 ---
 #### york10wA2 
-[**`Results`**](./results.md#york10wa2), [**`Participants`**](./participants.md#york), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA2), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA2), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA2), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
+[**`Results`**](./results.md#york10wa2) | [**`Participants`**](./participants.md#york) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA2) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA2) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
 
 - :material-rename: **Run ID:** york10wA2 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -1194,7 +1194,7 @@
 
 ---
 #### york10wA3 
-[**`Results`**](./results.md#york10wa3), [**`Participants`**](./participants.md#york), [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA3), [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA3), [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA3), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
+[**`Results`**](./results.md#york10wa3) | [**`Participants`**](./participants.md#york) | [**`Input`**](https://trec.nist.gov/results/trec19/web/input.york10wA3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec19/web/summary.trec_eval.york10wA3) | [**`Summary (ndeval)`**](https://trec.nist.gov/results/trec19/web/summary.ndeval.york10wA3) | [**`Summary (gdeval)`**](https://trec.nist.gov/results/trec19/web/summary.gdeval.york10wA3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/web-adhoc-diversity/york.adhoc.pdf) 
 
 - :material-rename: **Run ID:** york10wA3 
 - :fontawesome-solid-user-group: **Participant:** york 

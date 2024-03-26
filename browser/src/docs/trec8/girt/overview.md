@@ -1,6 +1,6 @@
 # Overview - GIRT 1999
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

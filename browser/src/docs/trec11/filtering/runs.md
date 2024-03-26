@@ -1,7 +1,7 @@
 # Runs - Filtering 2002 
 
 #### apl11Fah1 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Fah1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Fah1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
 
 - :material-rename: **Run ID:** apl11Fah1 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -12,7 +12,7 @@
 
 ---
 #### apl11Fah2 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Fah2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Fah2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
 
 - :material-rename: **Run ID:** apl11Fah2 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -23,7 +23,7 @@
 
 ---
 #### apl11Faq1 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Faq1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Faq1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
 
 - :material-rename: **Run ID:** apl11Faq1 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -34,7 +34,7 @@
 
 ---
 #### apl11Faq2 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Faq2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Faq2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.adaptive.pdf) 
 
 - :material-rename: **Run ID:** apl11Faq2 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -45,7 +45,7 @@
 
 ---
 #### apl11FbF 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11FbF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.batch.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11FbF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.batch.pdf) 
 
 - :material-rename: **Run ID:** apl11FbF 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -56,7 +56,7 @@
 
 ---
 #### apl11FbSU 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11FbSU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.batch.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11FbSU.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.batch.pdf) 
 
 - :material-rename: **Run ID:** apl11FbSU 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -67,7 +67,7 @@
 
 ---
 #### apl11Frm 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Frm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.routing.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Frm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.routing.pdf) 
 
 - :material-rename: **Run ID:** apl11Frm 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -78,7 +78,7 @@
 
 ---
 #### apl11Frsvm 
-[**`Participants`**](./participants.md#jhu_apl), [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Frsvm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.routing.pdf) 
+[**`Participants`**](./participants.md#jhu_apl) | [**`Proceedings`**](./proceedings.md#jhu-apl-at-trec-2002-experiments-in-filtering-and-arabic-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.apl11Frsvm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/jhu_apl.routing.pdf) 
 
 - :material-rename: **Run ID:** apl11Frsvm 
 - :fontawesome-solid-user-group: **Participant:** jhu_apl 
@@ -89,7 +89,7 @@
 
 ---
 #### CCT11BFC 
-[**`Participants`**](./participants.md#clairvoyance), [**`Proceedings`**](./proceedings.md#clarit-experiments-in-batch-filtering-term-selection-and-threshold-optimization-in-ir-and-svm-filters), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CCT11BFC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clairvoyance.batch.pdf) 
+[**`Participants`**](./participants.md#clairvoyance) | [**`Proceedings`**](./proceedings.md#clarit-experiments-in-batch-filtering-term-selection-and-threshold-optimization-in-ir-and-svm-filters) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CCT11BFC.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clairvoyance.batch.pdf) 
 
 - :material-rename: **Run ID:** CCT11BFC 
 - :fontawesome-solid-user-group: **Participant:** clairvoyance 
@@ -100,7 +100,7 @@
 
 ---
 #### CCT11BFD 
-[**`Participants`**](./participants.md#clairvoyance), [**`Proceedings`**](./proceedings.md#clarit-experiments-in-batch-filtering-term-selection-and-threshold-optimization-in-ir-and-svm-filters), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CCT11BFD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clairvoyance.batch.pdf) 
+[**`Participants`**](./participants.md#clairvoyance) | [**`Proceedings`**](./proceedings.md#clarit-experiments-in-batch-filtering-term-selection-and-threshold-optimization-in-ir-and-svm-filters) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CCT11BFD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clairvoyance.batch.pdf) 
 
 - :material-rename: **Run ID:** CCT11BFD 
 - :fontawesome-solid-user-group: **Participant:** clairvoyance 
@@ -111,7 +111,7 @@
 
 ---
 #### cedar02affb0 
-[**`Participants`**](./participants.md#buffalo_cedar), [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02affb0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.adaptive.pdf) 
+[**`Participants`**](./participants.md#buffalo_cedar) | [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02affb0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.adaptive.pdf) 
 
 - :material-rename: **Run ID:** cedar02affb0 
 - :fontawesome-solid-user-group: **Participant:** buffalo_cedar 
@@ -122,7 +122,7 @@
 
 ---
 #### cedar02afut0 
-[**`Participants`**](./participants.md#buffalo_cedar), [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02afut0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.adaptive.pdf) 
+[**`Participants`**](./participants.md#buffalo_cedar) | [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02afut0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.adaptive.pdf) 
 
 - :material-rename: **Run ID:** cedar02afut0 
 - :fontawesome-solid-user-group: **Participant:** buffalo_cedar 
@@ -133,7 +133,7 @@
 
 ---
 #### cedar02bffb0 
-[**`Participants`**](./participants.md#buffalo_cedar), [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02bffb0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.batch.pdf) 
+[**`Participants`**](./participants.md#buffalo_cedar) | [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02bffb0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.batch.pdf) 
 
 - :material-rename: **Run ID:** cedar02bffb0 
 - :fontawesome-solid-user-group: **Participant:** buffalo_cedar 
@@ -144,7 +144,7 @@
 
 ---
 #### cedar02bfut0 
-[**`Participants`**](./participants.md#buffalo_cedar), [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02bfut0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.batch.pdf) 
+[**`Participants`**](./participants.md#buffalo_cedar) | [**`Proceedings`**](./proceedings.md#ub-at-trec-11-batch-and-adaptive-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.cedar02bfut0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/buffalo_cedar.batch.pdf) 
 
 - :material-rename: **Run ID:** cedar02bfut0 
 - :fontawesome-solid-user-group: **Participant:** buffalo_cedar 
@@ -155,7 +155,7 @@
 
 ---
 #### CMUDIRFDESC 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRFDESC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRFDESC.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
 
 - :material-rename: **Run ID:** CMUDIRFDESC 
 - :fontawesome-solid-user-group: **Participant:** cmu_lti 
@@ -166,7 +166,7 @@
 
 ---
 #### CMUDIRFml 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRFml.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRFml.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
 
 - :material-rename: **Run ID:** CMUDIRFml 
 - :fontawesome-solid-user-group: **Participant:** cmu_lti 
@@ -177,7 +177,7 @@
 
 ---
 #### CMUDIRUDESC 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRUDESC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRUDESC.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
 
 - :material-rename: **Run ID:** CMUDIRUDESC 
 - :fontawesome-solid-user-group: **Participant:** cmu_lti 
@@ -188,7 +188,7 @@
 
 ---
 #### CMUDIRUml 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRUml.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#information-filtering-novelty-detection-and-named-page-finding) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.CMUDIRUml.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cmu_lti.adaptive.pdf) 
 
 - :material-rename: **Run ID:** CMUDIRUml 
 - :fontawesome-solid-user-group: **Participant:** cmu_lti 
@@ -199,7 +199,7 @@
 
 ---
 #### dimacs11a30Q 
-[**`Participants`**](./participants.md#rutgers-kantor), [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11a30Q.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
+[**`Participants`**](./participants.md#rutgers-kantor) | [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11a30Q.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
 
 - :material-rename: **Run ID:** dimacs11a30Q 
 - :fontawesome-solid-user-group: **Participant:** rutgers-kantor 
@@ -210,7 +210,7 @@
 
 ---
 #### dimacs11aAPQ 
-[**`Participants`**](./participants.md#rutgers-kantor), [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11aAPQ.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
+[**`Participants`**](./participants.md#rutgers-kantor) | [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11aAPQ.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
 
 - :material-rename: **Run ID:** dimacs11aAPQ 
 - :fontawesome-solid-user-group: **Participant:** rutgers-kantor 
@@ -221,7 +221,7 @@
 
 ---
 #### dimacs11aP1Q 
-[**`Participants`**](./participants.md#rutgers-kantor), [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11aP1Q.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
+[**`Participants`**](./participants.md#rutgers-kantor) | [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11aP1Q.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.adaptive.pdf) 
 
 - :material-rename: **Run ID:** dimacs11aP1Q 
 - :fontawesome-solid-user-group: **Participant:** rutgers-kantor 
@@ -232,7 +232,7 @@
 
 ---
 #### dimacs11b001 
-[**`Participants`**](./participants.md#rutgers-kantor), [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11b001.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.batch.pdf) 
+[**`Participants`**](./participants.md#rutgers-kantor) | [**`Proceedings`**](./proceedings.md#rutgers-filtering-work-at-trec-2002-adaptive-and-batch) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacs11b001.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/rutgers-kantor.batch.pdf) 
 
 - :material-rename: **Run ID:** dimacs11b001 
 - :fontawesome-solid-user-group: **Participant:** rutgers-kantor 
@@ -243,7 +243,7 @@
 
 ---
 #### dimacsddl02a 
-[**`Participants`**](./participants.md#lewis), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacsddl02a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Lewis.adaptive.pdf) 
+[**`Participants`**](./participants.md#lewis) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacsddl02a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Lewis.adaptive.pdf) 
 
 - :material-rename: **Run ID:** dimacsddl02a 
 - :fontawesome-solid-user-group: **Participant:** Lewis 
@@ -254,7 +254,7 @@
 
 ---
 #### dimacsddl02b 
-[**`Participants`**](./participants.md#lewis), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacsddl02b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Lewis.adaptive.pdf) 
+[**`Participants`**](./participants.md#lewis) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.dimacsddl02b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Lewis.adaptive.pdf) 
 
 - :material-rename: **Run ID:** dimacsddl02b 
 - :fontawesome-solid-user-group: **Participant:** Lewis 
@@ -265,7 +265,7 @@
 
 ---
 #### FDUT11AF1 
-[**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.FDUT11AF1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Fudan.adaptive.pdf) 
+[**`Participants`**](./participants.md#fudan) | [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.FDUT11AF1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Fudan.adaptive.pdf) 
 
 - :material-rename: **Run ID:** FDUT11AF1 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
@@ -276,7 +276,7 @@
 
 ---
 #### FDUT11AF2 
-[**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.FDUT11AF2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Fudan.adaptive.pdf) 
+[**`Participants`**](./participants.md#fudan) | [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.FDUT11AF2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/Fudan.adaptive.pdf) 
 
 - :material-rename: **Run ID:** FDUT11AF2 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
@@ -287,7 +287,7 @@
 
 ---
 #### ICTAdaFT11Ua 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ua.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ua.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ICTAdaFT11Ua 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -298,7 +298,7 @@
 
 ---
 #### ICTAdaFT11Ub 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ub.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ub.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ICTAdaFT11Ub 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -309,7 +309,7 @@
 
 ---
 #### ICTAdaFT11Uc 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Uc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Uc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ICTAdaFT11Uc 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -320,7 +320,7 @@
 
 ---
 #### ICTAdaFT11Ud 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ud.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTAdaFT11Ud.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ICTAdaFT11Ud 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -331,7 +331,7 @@
 
 ---
 #### ICTBatFT11Ua 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTBatFT11Ua.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.batch.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTBatFT11Ua.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.batch.pdf) 
 
 - :material-rename: **Run ID:** ICTBatFT11Ua 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -342,7 +342,7 @@
 
 ---
 #### ICTBatFT11Ub 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTBatFT11Ub.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.batch.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTBatFT11Ub.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.batch.pdf) 
 
 - :material-rename: **Run ID:** ICTBatFT11Ub 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -353,7 +353,7 @@
 
 ---
 #### ICTRouFT11Ua 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTRouFT11Ua.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.routing.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTRouFT11Ua.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.routing.pdf) 
 
 - :material-rename: **Run ID:** ICTRouFT11Ua 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -364,7 +364,7 @@
 
 ---
 #### ICTRouFT11Ub 
-[**`Participants`**](./participants.md#chinese_academy), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTRouFT11Ub.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.routing.pdf) 
+[**`Participants`**](./participants.md#chinese_academy) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-cas-ict-filtering-and-web) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ICTRouFT11Ub.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/chinese_academy.routing.pdf) 
 
 - :material-rename: **Run ID:** ICTRouFT11Ub 
 - :fontawesome-solid-user-group: **Participant:** chinese_academy 
@@ -375,7 +375,7 @@
 
 ---
 #### iritsiga1 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsiga1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.adaptive.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsiga1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.adaptive.pdf) 
 
 - :material-rename: **Run ID:** iritsiga1 
 - :fontawesome-solid-user-group: **Participant:** irit 
@@ -386,7 +386,7 @@
 
 ---
 #### iritsiga2 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsiga2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.adaptive.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsiga2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.adaptive.pdf) 
 
 - :material-rename: **Run ID:** iritsiga2 
 - :fontawesome-solid-user-group: **Participant:** irit 
@@ -397,7 +397,7 @@
 
 ---
 #### iritsigb 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsigb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.batch.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsigb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.batch.pdf) 
 
 - :material-rename: **Run ID:** iritsigb 
 - :fontawesome-solid-user-group: **Participant:** irit 
@@ -408,7 +408,7 @@
 
 ---
 #### iritsigr 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsigr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.routing.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.iritsigr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/irit.routing.pdf) 
 
 - :material-rename: **Run ID:** iritsigr 
 - :fontawesome-solid-user-group: **Participant:** irit 
@@ -419,7 +419,7 @@
 
 ---
 #### KerMITT11af1 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11af1 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -430,7 +430,7 @@
 
 ---
 #### KerMITT11af2 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11af2 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -441,7 +441,7 @@
 
 ---
 #### KerMITT11af3 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11af3 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -452,7 +452,7 @@
 
 ---
 #### KerMITT11af4 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11af4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.adaptive.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11af4 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -463,7 +463,7 @@
 
 ---
 #### KerMITT11bf2 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11bf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.batch.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11bf2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.batch.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11bf2 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -474,7 +474,7 @@
 
 ---
 #### KerMITT11rr2 
-[**`Participants`**](./participants.md#kermit), [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11rr2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.routing.pdf) 
+[**`Participants`**](./participants.md#kermit) | [**`Proceedings`**](./proceedings.md#kernel-methods-for-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.KerMITT11rr2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/kerMIT.routing.pdf) 
 
 - :material-rename: **Run ID:** KerMITT11rr2 
 - :fontawesome-solid-user-group: **Participant:** kerMIT 
@@ -485,7 +485,7 @@
 
 ---
 #### kNII11bf1 
-[**`Participants`**](./participants.md#nii), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-nii-the-effects-of-virtual-relevant-documents-in-batch-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.kNII11bf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/nii.batch.pdf) 
+[**`Participants`**](./participants.md#nii) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-nii-the-effects-of-virtual-relevant-documents-in-batch-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.kNII11bf1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/nii.batch.pdf) 
 
 - :material-rename: **Run ID:** kNII11bf1 
 - :fontawesome-solid-user-group: **Participant:** nii 
@@ -496,7 +496,7 @@
 
 ---
 #### kNII11bf2 
-[**`Participants`**](./participants.md#nii), [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-nii-the-effects-of-virtual-relevant-documents-in-batch-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.kNII11bf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/nii.batch.pdf) 
+[**`Participants`**](./participants.md#nii) | [**`Proceedings`**](./proceedings.md#trec-11-experiments-at-nii-the-effects-of-virtual-relevant-documents-in-batch-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.kNII11bf2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/nii.batch.pdf) 
 
 - :material-rename: **Run ID:** kNII11bf2 
 - :fontawesome-solid-user-group: **Participant:** nii 
@@ -507,7 +507,7 @@
 
 ---
 #### mma2002001 
-[**`Participants`**](./participants.md#moscow_med), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002001.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.routing.pdf) 
+[**`Participants`**](./participants.md#moscow_med) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002001.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.routing.pdf) 
 
 - :material-rename: **Run ID:** mma2002001 
 - :fontawesome-solid-user-group: **Participant:** moscow_med 
@@ -518,7 +518,7 @@
 
 ---
 #### mma2002002 
-[**`Participants`**](./participants.md#moscow_med), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002002.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.routing.pdf) 
+[**`Participants`**](./participants.md#moscow_med) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002002.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.routing.pdf) 
 
 - :material-rename: **Run ID:** mma2002002 
 - :fontawesome-solid-user-group: **Participant:** moscow_med 
@@ -529,7 +529,7 @@
 
 ---
 #### mma2002003 
-[**`Participants`**](./participants.md#moscow_med), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002003.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.batch.pdf) 
+[**`Participants`**](./participants.md#moscow_med) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.mma2002003.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/moscow_med.batch.pdf) 
 
 - :material-rename: **Run ID:** mma2002003 
 - :fontawesome-solid-user-group: **Participant:** moscow_med 
@@ -540,7 +540,7 @@
 
 ---
 #### msPUMb 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.msPUMb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.routing.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.msPUMb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.routing.pdf) 
 
 - :material-rename: **Run ID:** msPUMb 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -551,7 +551,7 @@
 
 ---
 #### msPUMs 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.msPUMs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.routing.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.msPUMs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.routing.pdf) 
 
 - :material-rename: **Run ID:** msPUMs 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -562,7 +562,7 @@
 
 ---
 #### ok11aflb 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11aflb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11aflb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ok11aflb 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -573,7 +573,7 @@
 
 ---
 #### ok11aflu 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11aflu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11aflu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ok11aflu 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -584,7 +584,7 @@
 
 ---
 #### ok11afsb 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11afsb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11afsb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ok11afsb 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -595,7 +595,7 @@
 
 ---
 #### ok11afsu 
-[**`Participants`**](./participants.md#microsoft_cambridge), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11afsu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
+[**`Participants`**](./participants.md#microsoft_cambridge) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-2002-filtering-track) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.ok11afsu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/microsoft_cambridge.adaptive.pdf) 
 
 - :material-rename: **Run ID:** ok11afsu 
 - :fontawesome-solid-user-group: **Participant:** microsoft_cambridge 
@@ -606,7 +606,7 @@
 
 ---
 #### pirc2F01 
-[**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
+[**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
 
 - :material-rename: **Run ID:** pirc2F01 
 - :fontawesome-solid-user-group: **Participant:** cuny 
@@ -617,7 +617,7 @@
 
 ---
 #### pirc2F02 
-[**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
+[**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
 
 - :material-rename: **Run ID:** pirc2F02 
 - :fontawesome-solid-user-group: **Participant:** cuny 
@@ -628,7 +628,7 @@
 
 ---
 #### pirc2F03 
-[**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
+[**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
 
 - :material-rename: **Run ID:** pirc2F03 
 - :fontawesome-solid-user-group: **Participant:** cuny 
@@ -639,7 +639,7 @@
 
 ---
 #### pirc2F04 
-[**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
+[**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-2002-web-novelty-and-filtering-track-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.pirc2F04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/cuny.adaptive.pdf) 
 
 - :material-rename: **Run ID:** pirc2F04 
 - :fontawesome-solid-user-group: **Participant:** cuny 
@@ -650,7 +650,7 @@
 
 ---
 #### QUT 
-[**`Participants`**](./participants.md#queensland), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.QUT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/queensland.routing.pdf) 
+[**`Participants`**](./participants.md#queensland) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.QUT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/queensland.routing.pdf) 
 
 - :material-rename: **Run ID:** QUT 
 - :fontawesome-solid-user-group: **Participant:** queensland 
@@ -661,7 +661,7 @@
 
 ---
 #### reliefst11u 
-[**`Participants`**](./participants.md#clips-imag), [**`Proceedings`**](./proceedings.md#clips-at-trec-11-experiments-in-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.reliefst11u.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clips-imag.adaptive.pdf) 
+[**`Participants`**](./participants.md#clips-imag) | [**`Proceedings`**](./proceedings.md#clips-at-trec-11-experiments-in-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.reliefst11u.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/clips-imag.adaptive.pdf) 
 
 - :material-rename: **Run ID:** reliefst11u 
 - :fontawesome-solid-user-group: **Participant:** clips-imag 
@@ -672,7 +672,7 @@
 
 ---
 #### thuT11af1 
-[**`Participants`**](./participants.md#tsinghua), [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
+[**`Participants`**](./participants.md#tsinghua) | [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
 
 - :material-rename: **Run ID:** thuT11af1 
 - :fontawesome-solid-user-group: **Participant:** tsinghua 
@@ -683,7 +683,7 @@
 
 ---
 #### thuT11af2 
-[**`Participants`**](./participants.md#tsinghua), [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
+[**`Participants`**](./participants.md#tsinghua) | [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
 
 - :material-rename: **Run ID:** thuT11af2 
 - :fontawesome-solid-user-group: **Participant:** tsinghua 
@@ -694,7 +694,7 @@
 
 ---
 #### thuT11af3 
-[**`Participants`**](./participants.md#tsinghua), [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
+[**`Participants`**](./participants.md#tsinghua) | [**`Proceedings`**](./proceedings.md#incremental-learning-for-profile-training-in-adaptive-document-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.thuT11af3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tsinghua.adaptive.pdf) 
 
 - :material-rename: **Run ID:** thuT11af3 
 - :fontawesome-solid-user-group: **Participant:** tsinghua 
@@ -705,7 +705,7 @@
 
 ---
 #### UHcl1 
-[**`Participants`**](./participants.md#hertfordshire), [**`Proceedings`**](./proceedings.md#incremental-retrieval-of-documents-relevant-to-a-topic), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UHcl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/hertfordshire.routing.pdf) 
+[**`Participants`**](./participants.md#hertfordshire) | [**`Proceedings`**](./proceedings.md#incremental-retrieval-of-documents-relevant-to-a-topic) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UHcl1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/hertfordshire.routing.pdf) 
 
 - :material-rename: **Run ID:** UHcl1 
 - :fontawesome-solid-user-group: **Participant:** hertfordshire 
@@ -716,7 +716,7 @@
 
 ---
 #### UHcl2 
-[**`Participants`**](./participants.md#hertfordshire), [**`Proceedings`**](./proceedings.md#incremental-retrieval-of-documents-relevant-to-a-topic), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UHcl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/hertfordshire.routing.pdf) 
+[**`Participants`**](./participants.md#hertfordshire) | [**`Proceedings`**](./proceedings.md#incremental-retrieval-of-documents-relevant-to-a-topic) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UHcl2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/hertfordshire.routing.pdf) 
 
 - :material-rename: **Run ID:** UHcl2 
 - :fontawesome-solid-user-group: **Participant:** hertfordshire 
@@ -727,7 +727,7 @@
 
 ---
 #### UIowa02Filt 
-[**`Participants`**](./participants.md#uiowa), [**`Proceedings`**](./proceedings.md#novel-results-and-some-answers-the-university-of-iowa-trec-11-results), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UIowa02Filt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/uiowa.adaptive.pdf) 
+[**`Participants`**](./participants.md#uiowa) | [**`Proceedings`**](./proceedings.md#novel-results-and-some-answers-the-university-of-iowa-trec-11-results) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UIowa02Filt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/uiowa.adaptive.pdf) 
 
 - :material-rename: **Run ID:** UIowa02Filt 
 - :fontawesome-solid-user-group: **Participant:** uiowa 
@@ -738,7 +738,7 @@
 
 ---
 #### UNTextCatF 
-[**`Participants`**](./participants.md#north_texas), [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.batch.pdf) 
+[**`Participants`**](./participants.md#north_texas) | [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.batch.pdf) 
 
 - :material-rename: **Run ID:** UNTextCatF 
 - :fontawesome-solid-user-group: **Participant:** north_texas 
@@ -749,7 +749,7 @@
 
 ---
 #### UNTextCatR 
-[**`Participants`**](./participants.md#north_texas), [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.routing.pdf) 
+[**`Participants`**](./participants.md#north_texas) | [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.routing.pdf) 
 
 - :material-rename: **Run ID:** UNTextCatR 
 - :fontawesome-solid-user-group: **Participant:** north_texas 
@@ -760,7 +760,7 @@
 
 ---
 #### UNTextCatR1 
-[**`Participants`**](./participants.md#north_texas), [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.routing.pdf) 
+[**`Participants`**](./participants.md#north_texas) | [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatR1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.routing.pdf) 
 
 - :material-rename: **Run ID:** UNTextCatR1 
 - :fontawesome-solid-user-group: **Participant:** north_texas 
@@ -771,7 +771,7 @@
 
 ---
 #### UNTextCatSU 
-[**`Participants`**](./participants.md#north_texas), [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatSU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.batch.pdf) 
+[**`Participants`**](./participants.md#north_texas) | [**`Proceedings`**](./proceedings.md#classifier-stacking-and-voting-for-text-filtering) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.UNTextCatSU.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/north_texas.batch.pdf) 
 
 - :material-rename: **Run ID:** UNTextCatSU 
 - :fontawesome-solid-user-group: **Participant:** north_texas 
@@ -782,7 +782,7 @@
 
 ---
 #### Visa1T11 
-[**`Participants`**](./participants.md#tampere), [**`Proceedings`**](./proceedings.md#example-based-text-matching-methodology-for-routing-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.Visa1T11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tampere.routing.pdf) 
+[**`Participants`**](./participants.md#tampere) | [**`Proceedings`**](./proceedings.md#example-based-text-matching-methodology-for-routing-tasks) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.Visa1T11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tampere.routing.pdf) 
 
 - :material-rename: **Run ID:** Visa1T11 
 - :fontawesome-solid-user-group: **Participant:** tampere 
@@ -793,7 +793,7 @@
 
 ---
 #### Visa2T11 
-[**`Participants`**](./participants.md#tampere), [**`Proceedings`**](./proceedings.md#example-based-text-matching-methodology-for-routing-tasks), [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.Visa2T11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tampere.routing.pdf) 
+[**`Participants`**](./participants.md#tampere) | [**`Proceedings`**](./proceedings.md#example-based-text-matching-methodology-for-routing-tasks) | [**`Input`**](https://trec.nist.gov/results/trec11/filtering/inputs/input.Visa2T11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/filtering/tampere.routing.pdf) 
 
 - :material-rename: **Run ID:** Visa2T11 
 - :fontawesome-solid-user-group: **Participant:** tampere 

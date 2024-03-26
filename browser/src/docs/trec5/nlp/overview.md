@@ -1,6 +1,6 @@
 # Overview - NLP 1996
 
-[`Proceedings`](./proceedings.md), [`Results`](./results.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Results`](./results.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

@@ -1,7 +1,7 @@
 # Runs - Interactive 2000 
 
 #### chapman-i 
-[**`Participants`**](./participants.md#chapman), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/chapman.results.pdf) 
+[**`Participants`**](./participants.md#chapman) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/chapman.results.pdf) 
 
 - :material-rename: **Run ID:** chapman-i 
 - :fontawesome-solid-user-group: **Participant:** chapman 
@@ -11,7 +11,7 @@
 
 ---
 #### glasgow-i 
-[**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#question-answering-relevance-feedback-and-summarisation-trec-9-interactive-track-report), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/glasgow.results.pdf) 
+[**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#question-answering-relevance-feedback-and-summarisation-trec-9-interactive-track-report) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/glasgow.results.pdf) 
 
 - :material-rename: **Run ID:** glasgow-i 
 - :fontawesome-solid-user-group: **Participant:** glasgow 
@@ -21,7 +21,7 @@
 
 ---
 #### ohsu-i 
-[**`Participants`**](./participants.md#ohsu), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/ohsu.results.pdf) 
+[**`Participants`**](./participants.md#ohsu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/ohsu.results.pdf) 
 
 - :material-rename: **Run ID:** ohsu-i 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -31,7 +31,7 @@
 
 ---
 #### rmit-i 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#melbourne-trec-9-experiments), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/csiro.rmit.results.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#melbourne-trec-9-experiments) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/csiro.rmit.results.pdf) 
 
 - :material-rename: **Run ID:** rmit-i 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -41,7 +41,7 @@
 
 ---
 #### rutgers-i 
-[**`Participants`**](./participants.md#rutgers-belkin), [**`Proceedings`**](./proceedings.md#support-for-question-answering-in-interactive-information-retrieval-rutgers-trec-9-interactive-track-experience), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/rutgers.results.pdf) 
+[**`Participants`**](./participants.md#rutgers-belkin) | [**`Proceedings`**](./proceedings.md#support-for-question-answering-in-interactive-information-retrieval-rutgers-trec-9-interactive-track-experience) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/rutgers.results.pdf) 
 
 - :material-rename: **Run ID:** rutgers-i 
 - :fontawesome-solid-user-group: **Participant:** rutgers-belkin 
@@ -51,7 +51,7 @@
 
 ---
 #### sheffield-i 
-[**`Participants`**](./participants.md#sheffield), [**`Proceedings`**](./proceedings.md#sheffield-interactive-experiment-at-trec-9), [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/sheffield.results.pdf) 
+[**`Participants`**](./participants.md#sheffield) | [**`Proceedings`**](./proceedings.md#sheffield-interactive-experiment-at-trec-9) | [**`Appendix`**](https://trec.nist.gov/pubs/trec9/appendices/A/interactive/sheffield.results.pdf) 
 
 - :material-rename: **Run ID:** sheffield-i 
 - :fontawesome-solid-user-group: **Participant:** sheffield 

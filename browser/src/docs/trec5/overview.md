@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ## Database Merging
 
-[`Overview`](./dbmerge/overview.md), [`Proceedings`](./dbmerge/proceedings.md), [`Results`](./dbmerge/results.md), [`Runs`](./dbmerge/runs.md), [`Participants`](./dbmerge/participants.md)
+[`Overview`](./dbmerge/overview.md) | [`Proceedings`](./dbmerge/proceedings.md) | [`Results`](./dbmerge/results.md) | [`Runs`](./dbmerge/runs.md) | [`Participants`](./dbmerge/participants.md)
 
 {==
 
@@ -41,7 +41,7 @@ There are many times when users want to search separate text collections as if t
 
 ## Routing
 
-[`Overview`](./routing/overview.md), [`Proceedings`](./routing/proceedings.md), [`Data`](./routing/data.md), [`Results`](./routing/results.md), [`Runs`](./routing/runs.md), [`Participants`](./routing/participants.md)
+[`Overview`](./routing/overview.md) | [`Proceedings`](./routing/proceedings.md) | [`Data`](./routing/data.md) | [`Results`](./routing/results.md) | [`Runs`](./routing/runs.md) | [`Participants`](./routing/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -80,7 +80,7 @@ The TREC-5 filtering track, an evaluation of binary text classification systems,
 
 ## Spanish
 
-[`Overview`](./Spanish/overview.md), [`Proceedings`](./Spanish/proceedings.md), [`Data`](./Spanish/data.md), [`Results`](./Spanish/results.md), [`Runs`](./Spanish/runs.md), [`Participants`](./Spanish/participants.md)
+[`Overview`](./Spanish/overview.md) | [`Proceedings`](./Spanish/proceedings.md) | [`Data`](./Spanish/data.md) | [`Results`](./Spanish/results.md) | [`Runs`](./Spanish/runs.md) | [`Participants`](./Spanish/participants.md)
 
 {==
 
@@ -100,7 +100,7 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 ## Chinese
 
-[`Overview`](./Chinese/overview.md), [`Proceedings`](./Chinese/proceedings.md), [`Data`](./Chinese/data.md), [`Results`](./Chinese/results.md), [`Runs`](./Chinese/runs.md), [`Participants`](./Chinese/participants.md)
+[`Overview`](./Chinese/overview.md) | [`Proceedings`](./Chinese/proceedings.md) | [`Data`](./Chinese/data.md) | [`Results`](./Chinese/results.md) | [`Runs`](./Chinese/runs.md) | [`Participants`](./Chinese/participants.md)
 
 {==
 
@@ -120,7 +120,7 @@ The TREC-5 conference was the third year in which document retrieval in a langua
 
 ## NLP
 
-[`Overview`](./nlp/overview.md), [`Proceedings`](./nlp/proceedings.md), [`Results`](./nlp/results.md), [`Runs`](./nlp/runs.md), [`Participants`](./nlp/participants.md)
+[`Overview`](./nlp/overview.md) | [`Proceedings`](./nlp/proceedings.md) | [`Results`](./nlp/results.md) | [`Runs`](./nlp/runs.md) | [`Participants`](./nlp/participants.md)
 
 {==
 
@@ -140,7 +140,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ## Confusion
 
-[`Overview`](./confusion/overview.md), [`Proceedings`](./confusion/proceedings.md), [`Data`](./confusion/data.md), [`Runs`](./confusion/runs.md), [`Participants`](./confusion/participants.md)
+[`Overview`](./confusion/overview.md) | [`Proceedings`](./confusion/proceedings.md) | [`Data`](./confusion/data.md) | [`Runs`](./confusion/runs.md) | [`Participants`](./confusion/participants.md)
 
 {==
 
@@ -160,7 +160,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 

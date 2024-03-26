@@ -1,6 +1,6 @@
 # Data - Question Answering 2000 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/qa/t9_qadata.html`](https://trec.nist.gov/data/qa/t9_qadata.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/qa/t9_qadata.html`](https://trec.nist.gov/data/qa/t9_qadata.html)
 
 ---
 

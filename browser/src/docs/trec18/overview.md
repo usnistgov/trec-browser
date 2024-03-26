@@ -2,7 +2,7 @@
 
 ## Relevance Feedback
 
-[`Overview`](./relfdbk/overview.md), [`Proceedings`](./relfdbk/proceedings.md), [`Data`](./relfdbk/data.md), [`Results`](./relfdbk/results.md), [`Runs`](./relfdbk/runs.md), [`Participants`](./relfdbk/participants.md)
+[`Overview`](./relfdbk/overview.md) | [`Proceedings`](./relfdbk/proceedings.md) | [`Data`](./relfdbk/data.md) | [`Results`](./relfdbk/results.md) | [`Runs`](./relfdbk/runs.md) | [`Participants`](./relfdbk/participants.md)
 
 {==
 
@@ -16,7 +16,7 @@ In the second year, the concentration shifted to finding good sets of docs to ba
 
 ## Chemical
 
-[`Overview`](./chemical/overview.md), [`Proceedings`](./chemical/proceedings.md), [`Data`](./chemical/data.md), [`Results`](./chemical/results.md), [`Runs`](./chemical/runs.md), [`Participants`](./chemical/participants.md)
+[`Overview`](./chemical/overview.md) | [`Proceedings`](./chemical/proceedings.md) | [`Data`](./chemical/data.md) | [`Results`](./chemical/results.md) | [`Runs`](./chemical/runs.md) | [`Participants`](./chemical/participants.md)
 
 {==
 
@@ -39,7 +39,7 @@ TREC 2009 was the first year of the Chemical IR Track, which focuses on evaluati
 
 ## Legal
 
-[`Overview`](./legal/overview.md), [`Proceedings`](./legal/proceedings.md), [`Data`](./legal/data.md), [`Results`](./legal/results.md), [`Runs`](./legal/runs.md), [`Participants`](./legal/participants.md)
+[`Overview`](./legal/overview.md) | [`Proceedings`](./legal/proceedings.md) | [`Data`](./legal/data.md) | [`Results`](./legal/results.md) | [`Runs`](./legal/runs.md) | [`Participants`](./legal/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ TREC 2009 was the fourth year of the Legal Track, which focuses on evaluation of
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -82,7 +82,7 @@ The TREC Web Track explores and evaluates Web retrieval technologies. Currently,
 
 ## Million Query
 
-[`Overview`](./million-query/overview.md), [`Proceedings`](./million-query/proceedings.md), [`Data`](./million-query/data.md), [`Results`](./million-query/results.md), [`Runs`](./million-query/runs.md), [`Participants`](./million-query/participants.md)
+[`Overview`](./million-query/overview.md) | [`Proceedings`](./million-query/proceedings.md) | [`Data`](./million-query/data.md) | [`Results`](./million-query/results.md) | [`Runs`](./million-query/runs.md) | [`Participants`](./million-query/participants.md)
 
 {==
 
@@ -104,7 +104,7 @@ The Million Query Track ran for the third time in 2009. The track is designed to
 
 ## Blog
 
-[`Overview`](./blog/overview.md), [`Proceedings`](./blog/proceedings.md), [`Data`](./blog/data.md), [`Results`](./blog/results.md), [`Runs`](./blog/runs.md), [`Participants`](./blog/participants.md)
+[`Overview`](./blog/overview.md) | [`Proceedings`](./blog/proceedings.md) | [`Data`](./blog/data.md) | [`Results`](./blog/results.md) | [`Runs`](./blog/runs.md) | [`Participants`](./blog/participants.md)
 
 {==
 
@@ -125,7 +125,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 ## Entity
 
-[`Overview`](./entity/overview.md), [`Proceedings`](./entity/proceedings.md), [`Data`](./entity/data.md), [`Results`](./entity/results.md), [`Runs`](./entity/runs.md), [`Participants`](./entity/participants.md)
+[`Overview`](./entity/overview.md) | [`Proceedings`](./entity/proceedings.md) | [`Data`](./entity/data.md) | [`Results`](./entity/results.md) | [`Runs`](./entity/runs.md) | [`Participants`](./entity/participants.md)
 
 {==
 

@@ -1,7 +1,7 @@
 # Runs - LiveQA 2017 
 
 #### CMUOAQA 
-[**`Participants`**](./participants.md#cmu-oaqa), [**`Proceedings`**](./proceedings.md#cmu-oaqa-at-trec-2017-liveqa-a-neural-dual-entailment-approach-for-question-paraphrase-identification), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/CMUOAQA.pdf) 
+[**`Participants`**](./participants.md#cmu-oaqa) | [**`Proceedings`**](./proceedings.md#cmu-oaqa-at-trec-2017-liveqa-a-neural-dual-entailment-approach-for-question-paraphrase-identification) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/CMUOAQA.pdf) 
 
 - :material-rename: **Run ID:** CMUOAQA 
 - :fontawesome-solid-user-group: **Participant:** CMU-OAQA 
@@ -12,7 +12,7 @@
 
 ---
 #### ecnuicarun1 
-[**`Participants`**](./participants.md#ecnuica), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ecnuicarun1.pdf) 
+[**`Participants`**](./participants.md#ecnuica) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ecnuicarun1.pdf) 
 
 - :material-rename: **Run ID:** ecnuicarun1 
 - :fontawesome-solid-user-group: **Participant:** ECNUica 
@@ -23,7 +23,7 @@
 
 ---
 #### ecnuicarun2 
-[**`Participants`**](./participants.md#ecnuica), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ecnuicarun2.pdf) 
+[**`Participants`**](./participants.md#ecnuica) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ecnuicarun2.pdf) 
 
 - :material-rename: **Run ID:** ecnuicarun2 
 - :fontawesome-solid-user-group: **Participant:** ECNUica 
@@ -34,7 +34,7 @@
 
 ---
 #### ECNUqa 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ECNUqa.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/ECNUqa.pdf) 
 
 - :material-rename: **Run ID:** ECNUqa 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -45,7 +45,7 @@
 
 ---
 #### LiveMedQA 
-[**`Participants`**](./participants.md#cmu-livemedqa), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/LiveMedQA.pdf) 
+[**`Participants`**](./participants.md#cmu-livemedqa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/LiveMedQA.pdf) 
 
 - :material-rename: **Run ID:** LiveMedQA 
 - :fontawesome-solid-user-group: **Participant:** CMU-LiveMedQA 
@@ -56,7 +56,7 @@
 
 ---
 #### prnar1 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnar1.pdf) 
+[**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnar1.pdf) 
 
 - :material-rename: **Run ID:** prnar1 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -67,7 +67,7 @@
 
 ---
 #### prnarun2 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnarun2.pdf) 
+[**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnarun2.pdf) 
 
 - :material-rename: **Run ID:** prnarun2 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -78,7 +78,7 @@
 
 ---
 #### prnarun3 
-[**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnarun3.pdf) 
+[**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#open-domain-real-time-question-answering-based-on-asynchronous-multiperspective-context-driven-retrieval-and-neural-paraphrasing) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/qa/prnarun3.pdf) 
 
 - :material-rename: **Run ID:** prnarun3 
 - :fontawesome-solid-user-group: **Participant:** prna 

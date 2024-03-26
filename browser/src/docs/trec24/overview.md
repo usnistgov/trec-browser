@@ -2,7 +2,7 @@
 
 ## Clinical Decision Support
 
-[`Overview`](./clinical/overview.md), [`Proceedings`](./clinical/proceedings.md), [`Data`](./clinical/data.md), [`Results`](./clinical/results.md), [`Runs`](./clinical/runs.md), [`Participants`](./clinical/participants.md)
+[`Overview`](./clinical/overview.md) | [`Proceedings`](./clinical/proceedings.md) | [`Data`](./clinical/data.md) | [`Results`](./clinical/results.md) | [`Runs`](./clinical/runs.md) | [`Participants`](./clinical/participants.md)
 
 {==
 
@@ -24,7 +24,7 @@ In making clinical decisions, physicians often seek out information about how to
 
 ## Microblog
 
-[`Overview`](./microblog/overview.md), [`Proceedings`](./microblog/proceedings.md), [`Data`](./microblog/data.md), [`Results`](./microblog/results.md), [`Runs`](./microblog/runs.md), [`Participants`](./microblog/participants.md)
+[`Overview`](./microblog/overview.md) | [`Proceedings`](./microblog/proceedings.md) | [`Data`](./microblog/data.md) | [`Results`](./microblog/results.md) | [`Runs`](./microblog/runs.md) | [`Participants`](./microblog/participants.md)
 
 {==
 
@@ -47,7 +47,7 @@ The TREC 2015 Microblog track introduced a single realtime filtering task broken
 
 ## Contextual Suggestion
 
-[`Overview`](./context/overview.md), [`Proceedings`](./context/proceedings.md), [`Data`](./context/data.md), [`Results`](./context/results.md), [`Runs`](./context/runs.md), [`Participants`](./context/participants.md)
+[`Overview`](./context/overview.md) | [`Proceedings`](./context/proceedings.md) | [`Data`](./context/data.md) | [`Results`](./context/results.md) | [`Runs`](./context/runs.md) | [`Participants`](./context/participants.md)
 
 {==
 
@@ -70,7 +70,7 @@ The TREC Contextual Suggestion Track evaluates pointof-interest (POI) recommenda
 
 ## Temporal Summarization
 
-[`Overview`](./tempsumm/overview.md), [`Proceedings`](./tempsumm/proceedings.md), [`Data`](./tempsumm/data.md), [`Runs`](./tempsumm/runs.md), [`Participants`](./tempsumm/participants.md)
+[`Overview`](./tempsumm/overview.md) | [`Proceedings`](./tempsumm/proceedings.md) | [`Data`](./tempsumm/data.md) | [`Runs`](./tempsumm/runs.md) | [`Participants`](./tempsumm/participants.md)
 
 {==
 
@@ -94,7 +94,7 @@ There are many summarization scenarios that require updates to be issued to user
 
 ## Tasks
 
-[`Overview`](./task/overview.md), [`Proceedings`](./task/proceedings.md), [`Data`](./task/data.md), [`Runs`](./task/runs.md), [`Participants`](./task/participants.md)
+[`Overview`](./task/overview.md) | [`Proceedings`](./task/proceedings.md) | [`Data`](./task/data.md) | [`Runs`](./task/runs.md) | [`Participants`](./task/participants.md)
 
 {==
 
@@ -118,7 +118,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ## Total Recall
 
-[`Overview`](./recall/overview.md), [`Proceedings`](./recall/proceedings.md), [`Runs`](./recall/runs.md), [`Participants`](./recall/participants.md)
+[`Overview`](./recall/overview.md) | [`Proceedings`](./recall/proceedings.md) | [`Runs`](./recall/runs.md) | [`Participants`](./recall/participants.md)
 
 {==
 
@@ -140,7 +140,7 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 ## Dynamic Domain
 
-[`Overview`](./domain/overview.md), [`Proceedings`](./domain/proceedings.md), [`Data`](./domain/data.md), [`Runs`](./domain/runs.md), [`Participants`](./domain/participants.md)
+[`Overview`](./domain/overview.md) | [`Proceedings`](./domain/proceedings.md) | [`Data`](./domain/data.md) | [`Runs`](./domain/runs.md) | [`Participants`](./domain/participants.md)
 
 {==
 
@@ -161,7 +161,7 @@ Search tasks for professional searchers, such as law enforcement agencies, polic
 
 ## LiveQA
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 

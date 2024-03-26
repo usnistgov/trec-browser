@@ -21,6 +21,6 @@
 #### udel
  - :fontawesome-solid-user-group: **Name:** Ben Carterette
  - :octicons-organization-16: **Organization:** University of Delaware
- - :material-file-search: **Runs:** [udelJudge1](./runs.md#udeljudge1), [udelJudge2](./runs.md#udeljudge2), [udelJudge3](./runs.md#udeljudge3), [udelJudge4](./runs.md#udeljudge4), [udelJudge5](./runs.md#udeljudge5), [udelJudge6](./runs.md#udeljudge6), [udelJudge7](./runs.md#udeljudge7), [udelJudge8](./runs.md#udeljudge8)
+ - :material-file-search: **Runs:** [udelJudge1](./runs.md#udeljudge1) | [udelJudge2](./runs.md#udeljudge2) | [udelJudge3](./runs.md#udeljudge3) | [udelJudge4](./runs.md#udeljudge4) | [udelJudge5](./runs.md#udeljudge5) | [udelJudge6](./runs.md#udeljudge6) | [udelJudge7](./runs.md#udeljudge7) | [udelJudge8](./runs.md#udeljudge8)
 
 ---

@@ -1,7 +1,7 @@
 # Runs - Clinical Trials 2022 
 
 #### all_doc_search 
-[**`Results`**](./results.md#all_doc_search), [**`Participants`**](./participants.md#poznan), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.all_doc_search.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.all_doc_search), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/all_doc_search.pdf) 
+[**`Results`**](./results.md#all_doc_search) | [**`Participants`**](./participants.md#poznan) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.all_doc_search.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.all_doc_search) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/all_doc_search.pdf) 
 
 - :material-rename: **Run ID:** all_doc_search 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -15,7 +15,7 @@
 
 ---
 #### ANIR_demo 
-[**`Results`**](./results.md#anir_demo), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ANIR_demo.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ANIR_demo), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ANIR_demo.pdf) 
+[**`Results`**](./results.md#anir_demo) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ANIR_demo.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ANIR_demo) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ANIR_demo.pdf) 
 
 - :material-rename: **Run ID:** ANIR_demo 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -29,7 +29,7 @@
 
 ---
 #### bm25_bi_filtered 
-[**`Results`**](./results.md#bm25_bi_filtered), [**`Participants`**](./participants.md#els_dshs), [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.bm25_bi_filtered.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.bm25_bi_filtered), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/bm25_bi_filtered.pdf) 
+[**`Results`**](./results.md#bm25_bi_filtered) | [**`Participants`**](./participants.md#els_dshs) | [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.bm25_bi_filtered.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.bm25_bi_filtered) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/bm25_bi_filtered.pdf) 
 
 - :material-rename: **Run ID:** bm25_bi_filtered 
 - :fontawesome-solid-user-group: **Participant:** els_dshs 
@@ -43,7 +43,7 @@
 
 ---
 #### bm25_st_bienc 
-[**`Results`**](./results.md#bm25_st_bienc), [**`Participants`**](./participants.md#els_dshs), [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.bm25_st_bienc.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.bm25_st_bienc), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/bm25_st_bienc.pdf) 
+[**`Results`**](./results.md#bm25_st_bienc) | [**`Participants`**](./participants.md#els_dshs) | [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.bm25_st_bienc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.bm25_st_bienc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/bm25_st_bienc.pdf) 
 
 - :material-rename: **Run ID:** bm25_st_bienc 
 - :fontawesome-solid-user-group: **Participant:** els_dshs 
@@ -57,7 +57,7 @@
 
 ---
 #### condition_search 
-[**`Results`**](./results.md#condition_search), [**`Participants`**](./participants.md#poznan), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.condition_search.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.condition_search), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/condition_search.pdf) 
+[**`Results`**](./results.md#condition_search) | [**`Participants`**](./participants.md#poznan) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.condition_search.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.condition_search) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/condition_search.pdf) 
 
 - :material-rename: **Run ID:** condition_search 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -71,7 +71,7 @@
 
 ---
 #### condition_title_search 
-[**`Results`**](./results.md#condition_title_search), [**`Participants`**](./participants.md#poznan), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.condition_title_search.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.condition_title_search), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/condition_title_search.pdf) 
+[**`Results`**](./results.md#condition_title_search) | [**`Participants`**](./participants.md#poznan) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.condition_title_search.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.condition_title_search) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/condition_title_search.pdf) 
 
 - :material-rename: **Run ID:** condition_title_search 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -85,7 +85,7 @@
 
 ---
 #### crossrunner 
-[**`Results`**](./results.md#crossrunner), [**`Participants`**](./participants.md#v-ryerson), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.crossrunner.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.crossrunner), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/crossrunner.pdf) 
+[**`Results`**](./results.md#crossrunner) | [**`Participants`**](./participants.md#v-ryerson) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.crossrunner.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.crossrunner) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/crossrunner.pdf) 
 
 - :material-rename: **Run ID:** crossrunner 
 - :fontawesome-solid-user-group: **Participant:** V-Ryerson 
@@ -99,7 +99,7 @@
 
 ---
 #### CSIROmedANIR 
-[**`Results`**](./results.md#csiromedanir), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.CSIROmedANIR.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.CSIROmedANIR), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/CSIROmedANIR.pdf) 
+[**`Results`**](./results.md#csiromedanir) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.CSIROmedANIR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.CSIROmedANIR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/CSIROmedANIR.pdf) 
 
 - :material-rename: **Run ID:** CSIROmedANIR 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -113,7 +113,7 @@
 
 ---
 #### doct5query 
-[**`Results`**](./results.md#doct5query), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.doct5query.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.doct5query), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/doct5query.pdf) 
+[**`Results`**](./results.md#doct5query) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.doct5query.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.doct5query) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/doct5query.pdf) 
 
 - :material-rename: **Run ID:** doct5query 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -127,7 +127,7 @@
 
 ---
 #### DoSSIER_1 
-[**`Results`**](./results.md#dossier_1), [**`Participants`**](./participants.md#dossier), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_1.pdf) 
+[**`Results`**](./results.md#dossier_1) | [**`Participants`**](./participants.md#dossier) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_1.pdf) 
 
 - :material-rename: **Run ID:** DoSSIER_1 
 - :fontawesome-solid-user-group: **Participant:** DOSSIER 
@@ -141,7 +141,7 @@
 
 ---
 #### DoSSIER_2 
-[**`Results`**](./results.md#dossier_2), [**`Participants`**](./participants.md#dossier), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_2.pdf) 
+[**`Results`**](./results.md#dossier_2) | [**`Participants`**](./participants.md#dossier) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_2.pdf) 
 
 - :material-rename: **Run ID:** DoSSIER_2 
 - :fontawesome-solid-user-group: **Participant:** DOSSIER 
@@ -155,7 +155,7 @@
 
 ---
 #### DoSSIER_3 
-[**`Results`**](./results.md#dossier_3), [**`Participants`**](./participants.md#dossier), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_3.pdf) 
+[**`Results`**](./results.md#dossier_3) | [**`Participants`**](./participants.md#dossier) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_3.pdf) 
 
 - :material-rename: **Run ID:** DoSSIER_3 
 - :fontawesome-solid-user-group: **Participant:** DOSSIER 
@@ -169,7 +169,7 @@
 
 ---
 #### DoSSIER_4 
-[**`Results`**](./results.md#dossier_4), [**`Participants`**](./participants.md#dossier), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_4.pdf) 
+[**`Results`**](./results.md#dossier_4) | [**`Participants`**](./participants.md#dossier) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_4.pdf) 
 
 - :material-rename: **Run ID:** DoSSIER_4 
 - :fontawesome-solid-user-group: **Participant:** DOSSIER 
@@ -183,7 +183,7 @@
 
 ---
 #### DoSSIER_5 
-[**`Results`**](./results.md#dossier_5), [**`Participants`**](./participants.md#dossier), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_5.pdf) 
+[**`Results`**](./results.md#dossier_5) | [**`Participants`**](./participants.md#dossier) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.DoSSIER_5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.DoSSIER_5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/DoSSIER_5.pdf) 
 
 - :material-rename: **Run ID:** DoSSIER_5 
 - :fontawesome-solid-user-group: **Participant:** DOSSIER 
@@ -197,7 +197,7 @@
 
 ---
 #### frm3 
-[**`Results`**](./results.md#frm3), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frm3.pdf) 
+[**`Results`**](./results.md#frm3) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frm3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frm3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frm3.pdf) 
 
 - :material-rename: **Run ID:** frm3 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -211,7 +211,7 @@
 
 ---
 #### frocchio 
-[**`Results`**](./results.md#frocchio), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio.pdf) 
+[**`Results`**](./results.md#frocchio) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio.pdf) 
 
 - :material-rename: **Run ID:** frocchio 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -225,7 +225,7 @@
 
 ---
 #### frocchio_monot5_e 
-[**`Results`**](./results.md#frocchio_monot5_e), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio_monot5_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio_monot5_e), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio_monot5_e.pdf) 
+[**`Results`**](./results.md#frocchio_monot5_e) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio_monot5_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio_monot5_e) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio_monot5_e.pdf) 
 
 - :material-rename: **Run ID:** frocchio_monot5_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -239,7 +239,7 @@
 
 ---
 #### frocchio_monot5_ed 
-[**`Results`**](./results.md#frocchio_monot5_ed), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio_monot5_ed.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio_monot5_ed), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio_monot5_ed.pdf) 
+[**`Results`**](./results.md#frocchio_monot5_ed) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.frocchio_monot5_ed.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.frocchio_monot5_ed) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/frocchio_monot5_ed.pdf) 
 
 - :material-rename: **Run ID:** frocchio_monot5_ed 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -253,7 +253,7 @@
 
 ---
 #### IKR3_BSL 
-[**`Results`**](./results.md#ikr3_bsl), [**`Participants`**](./participants.md#unimib), [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL.pdf) 
+[**`Results`**](./results.md#ikr3_bsl) | [**`Participants`**](./participants.md#unimib) | [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL.pdf) 
 
 - :material-rename: **Run ID:** IKR3_BSL 
 - :fontawesome-solid-user-group: **Participant:** UNIMIB 
@@ -267,7 +267,7 @@
 
 ---
 #### IKR3_BSL_TT_HW 
-[**`Results`**](./results.md#ikr3_bsl_tt_hw), [**`Participants`**](./participants.md#unimib), [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL_TT_HW.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL_TT_HW), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL_TT_HW.pdf) 
+[**`Results`**](./results.md#ikr3_bsl_tt_hw) | [**`Participants`**](./participants.md#unimib) | [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL_TT_HW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL_TT_HW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL_TT_HW.pdf) 
 
 - :material-rename: **Run ID:** IKR3_BSL_TT_HW 
 - :fontawesome-solid-user-group: **Participant:** UNIMIB 
@@ -281,7 +281,7 @@
 
 ---
 #### IKR3_BSL_TT_MW 
-[**`Results`**](./results.md#ikr3_bsl_tt_mw), [**`Participants`**](./participants.md#unimib), [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL_TT_MW.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL_TT_MW), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL_TT_MW.pdf) 
+[**`Results`**](./results.md#ikr3_bsl_tt_mw) | [**`Participants`**](./participants.md#unimib) | [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_BSL_TT_MW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_BSL_TT_MW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_BSL_TT_MW.pdf) 
 
 - :material-rename: **Run ID:** IKR3_BSL_TT_MW 
 - :fontawesome-solid-user-group: **Participant:** UNIMIB 
@@ -295,7 +295,7 @@
 
 ---
 #### IKR3_TT_BW 
-[**`Results`**](./results.md#ikr3_tt_bw), [**`Participants`**](./participants.md#unimib), [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_TT_BW.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_TT_BW), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_TT_BW.pdf) 
+[**`Results`**](./results.md#ikr3_tt_bw) | [**`Participants`**](./participants.md#unimib) | [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_TT_BW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_TT_BW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_TT_BW.pdf) 
 
 - :material-rename: **Run ID:** IKR3_TT_BW 
 - :fontawesome-solid-user-group: **Participant:** UNIMIB 
@@ -309,7 +309,7 @@
 
 ---
 #### IKR3_TT_MW 
-[**`Results`**](./results.md#ikr3_tt_mw), [**`Participants`**](./participants.md#unimib), [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_TT_MW.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_TT_MW), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_TT_MW.pdf) 
+[**`Results`**](./results.md#ikr3_tt_mw) | [**`Participants`**](./participants.md#unimib) | [**`Proceedings`**](./proceedings.md#unimib-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.IKR3_TT_MW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.IKR3_TT_MW) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/IKR3_TT_MW.pdf) 
 
 - :material-rename: **Run ID:** IKR3_TT_MW 
 - :fontawesome-solid-user-group: **Participant:** UNIMIB 
@@ -323,7 +323,7 @@
 
 ---
 #### ims_BM25Filtered_kw 
-[**`Results`**](./results.md#ims_bm25filtered_kw), [**`Participants`**](./participants.md#iiia-unipd), [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_BM25Filtered_kw.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_BM25Filtered_kw), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_BM25Filtered_kw.pdf) 
+[**`Results`**](./results.md#ims_bm25filtered_kw) | [**`Participants`**](./participants.md#iiia-unipd) | [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_BM25Filtered_kw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_BM25Filtered_kw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_BM25Filtered_kw.pdf) 
 
 - :material-rename: **Run ID:** ims_BM25Filtered_kw 
 - :fontawesome-solid-user-group: **Participant:** iiia-unipd 
@@ -337,7 +337,7 @@
 
 ---
 #### ims_BM25Filtered_s 
-[**`Results`**](./results.md#ims_bm25filtered_s), [**`Participants`**](./participants.md#iiia-unipd), [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_BM25Filtered_s.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_BM25Filtered_s), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_BM25Filtered_s.pdf) 
+[**`Results`**](./results.md#ims_bm25filtered_s) | [**`Participants`**](./participants.md#iiia-unipd) | [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_BM25Filtered_s.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_BM25Filtered_s) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_BM25Filtered_s.pdf) 
 
 - :material-rename: **Run ID:** ims_BM25Filtered_s 
 - :fontawesome-solid-user-group: **Participant:** iiia-unipd 
@@ -351,7 +351,7 @@
 
 ---
 #### ims_RM3Filtered_kw 
-[**`Results`**](./results.md#ims_rm3filtered_kw), [**`Participants`**](./participants.md#iiia-unipd), [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_RM3Filtered_kw.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_RM3Filtered_kw), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_RM3Filtered_kw.pdf) 
+[**`Results`**](./results.md#ims_rm3filtered_kw) | [**`Participants`**](./participants.md#iiia-unipd) | [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_RM3Filtered_kw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_RM3Filtered_kw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_RM3Filtered_kw.pdf) 
 
 - :material-rename: **Run ID:** ims_RM3Filtered_kw 
 - :fontawesome-solid-user-group: **Participant:** iiia-unipd 
@@ -365,7 +365,7 @@
 
 ---
 #### ims_RM3Filtered_s 
-[**`Results`**](./results.md#ims_rm3filtered_s), [**`Participants`**](./participants.md#iiia-unipd), [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_RM3Filtered_s.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_RM3Filtered_s), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_RM3Filtered_s.pdf) 
+[**`Results`**](./results.md#ims_rm3filtered_s) | [**`Participants`**](./participants.md#iiia-unipd) | [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_RM3Filtered_s.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_RM3Filtered_s) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_RM3Filtered_s.pdf) 
 
 - :material-rename: **Run ID:** ims_RM3Filtered_s 
 - :fontawesome-solid-user-group: **Participant:** iiia-unipd 
@@ -379,7 +379,7 @@
 
 ---
 #### ims_T5summarizer 
-[**`Results`**](./results.md#ims_t5summarizer), [**`Participants`**](./participants.md#iiia-unipd), [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_T5summarizer.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_T5summarizer), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_T5summarizer.pdf) 
+[**`Results`**](./results.md#ims_t5summarizer) | [**`Participants`**](./participants.md#iiia-unipd) | [**`Proceedings`**](./proceedings.md#summarize-and-expand-queries-in-clinical-trials-retrieval-the-iiia-unipd-at-trec-2022-clinical-trials) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.ims_T5summarizer.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.ims_T5summarizer) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/ims_T5summarizer.pdf) 
 
 - :material-rename: **Run ID:** ims_T5summarizer 
 - :fontawesome-solid-user-group: **Participant:** iiia-unipd 
@@ -393,7 +393,7 @@
 
 ---
 #### jbnu1 
-[**`Results`**](./results.md#jbnu1), [**`Participants`**](./participants.md#jbnu), [**`Proceedings`**](./proceedings.md#jbnu-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.jbnu1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.jbnu1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/jbnu1.pdf) 
+[**`Results`**](./results.md#jbnu1) | [**`Participants`**](./participants.md#jbnu) | [**`Proceedings`**](./proceedings.md#jbnu-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.jbnu1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.jbnu1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/jbnu1.pdf) 
 
 - :material-rename: **Run ID:** jbnu1 
 - :fontawesome-solid-user-group: **Participant:** jbnu 
@@ -407,7 +407,7 @@
 
 ---
 #### jbnu2 
-[**`Results`**](./results.md#jbnu2), [**`Participants`**](./participants.md#jbnu), [**`Proceedings`**](./proceedings.md#jbnu-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.jbnu2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.jbnu2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/jbnu2.pdf) 
+[**`Results`**](./results.md#jbnu2) | [**`Participants`**](./participants.md#jbnu) | [**`Proceedings`**](./proceedings.md#jbnu-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.jbnu2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.jbnu2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/jbnu2.pdf) 
 
 - :material-rename: **Run ID:** jbnu2 
 - :fontawesome-solid-user-group: **Participant:** jbnu 
@@ -421,7 +421,7 @@
 
 ---
 #### monobert500 
-[**`Results`**](./results.md#monobert500), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.monobert500.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.monobert500), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/monobert500.pdf) 
+[**`Results`**](./results.md#monobert500) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.monobert500.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.monobert500) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/monobert500.pdf) 
 
 - :material-rename: **Run ID:** monobert500 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -435,7 +435,7 @@
 
 ---
 #### phir1m1 
-[**`Results`**](./results.md#phir1m1), [**`Participants`**](./participants.md#phi_lab), [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir1m1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir1m1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir1m1.pdf) 
+[**`Results`**](./results.md#phir1m1) | [**`Participants`**](./participants.md#phi_lab) | [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir1m1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir1m1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir1m1.pdf) 
 
 - :material-rename: **Run ID:** phir1m1 
 - :fontawesome-solid-user-group: **Participant:** phi_lab 
@@ -449,7 +449,7 @@
 
 ---
 #### phir2m2 
-[**`Results`**](./results.md#phir2m2), [**`Participants`**](./participants.md#phi_lab), [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir2m2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir2m2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir2m2.pdf) 
+[**`Results`**](./results.md#phir2m2) | [**`Participants`**](./participants.md#phi_lab) | [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir2m2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir2m2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir2m2.pdf) 
 
 - :material-rename: **Run ID:** phir2m2 
 - :fontawesome-solid-user-group: **Participant:** phi_lab 
@@ -463,7 +463,7 @@
 
 ---
 #### phir3m1prf 
-[**`Results`**](./results.md#phir3m1prf), [**`Participants`**](./participants.md#phi_lab), [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir3m1prf.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir3m1prf), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir3m1prf.pdf) 
+[**`Results`**](./results.md#phir3m1prf) | [**`Participants`**](./participants.md#phi_lab) | [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir3m1prf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir3m1prf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir3m1prf.pdf) 
 
 - :material-rename: **Run ID:** phir3m1prf 
 - :fontawesome-solid-user-group: **Participant:** phi_lab 
@@ -477,7 +477,7 @@
 
 ---
 #### phir4m1prf2 
-[**`Results`**](./results.md#phir4m1prf2), [**`Participants`**](./participants.md#phi_lab), [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir4m1prf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir4m1prf2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir4m1prf2.pdf) 
+[**`Results`**](./results.md#phir4m1prf2) | [**`Participants`**](./participants.md#phi_lab) | [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir4m1prf2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir4m1prf2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir4m1prf2.pdf) 
 
 - :material-rename: **Run ID:** phir4m1prf2 
 - :fontawesome-solid-user-group: **Participant:** phi_lab 
@@ -491,7 +491,7 @@
 
 ---
 #### phir5m2prf 
-[**`Results`**](./results.md#phir5m2prf), [**`Participants`**](./participants.md#phi_lab), [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir5m2prf.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir5m2prf), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir5m2prf.pdf) 
+[**`Results`**](./results.md#phir5m2prf) | [**`Participants`**](./participants.md#phi_lab) | [**`Proceedings`**](./proceedings.md#cogstack-cohort-at-trec-2022-clinical-trials-track) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.phir5m2prf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.phir5m2prf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/phir5m2prf.pdf) 
 
 - :material-rename: **Run ID:** phir5m2prf 
 - :fontawesome-solid-user-group: **Participant:** phi_lab 
@@ -505,7 +505,7 @@
 
 ---
 #### rocchio 
-[**`Results`**](./results.md#rocchio), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.rocchio.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.rocchio), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/rocchio.pdf) 
+[**`Results`**](./results.md#rocchio) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.rocchio.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.rocchio) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/rocchio.pdf) 
 
 - :material-rename: **Run ID:** rocchio 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -519,7 +519,7 @@
 
 ---
 #### run1 
-[**`Results`**](./results.md#run1), [**`Participants`**](./participants.md#elucidata_ml), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/run1.pdf) 
+[**`Results`**](./results.md#run1) | [**`Participants`**](./participants.md#elucidata_ml) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/run1.pdf) 
 
 - :material-rename: **Run ID:** run1 
 - :fontawesome-solid-user-group: **Participant:** ELUCIDATA_ML 
@@ -533,7 +533,7 @@
 
 ---
 #### senttr 
-[**`Results`**](./results.md#senttr), [**`Participants`**](./participants.md#els_dshs), [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.senttr.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.senttr), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/senttr.pdf) 
+[**`Results`**](./results.md#senttr) | [**`Participants`**](./participants.md#els_dshs) | [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.senttr.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.senttr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/senttr.pdf) 
 
 - :material-rename: **Run ID:** senttr 
 - :fontawesome-solid-user-group: **Participant:** els_dshs 
@@ -547,7 +547,7 @@
 
 ---
 #### st_distilbert 
-[**`Results`**](./results.md#st_distilbert), [**`Participants`**](./participants.md#els_dshs), [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.st_distilbert.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.st_distilbert), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/st_distilbert.pdf) 
+[**`Results`**](./results.md#st_distilbert) | [**`Participants`**](./participants.md#els_dshs) | [**`Proceedings`**](./proceedings.md#elsevier-data-science-health-sciences-at-trec-2022-clinical-trials-exploring-transformer-embeddings-for-clinical-trial-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.st_distilbert.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.st_distilbert) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/st_distilbert.pdf) 
 
 - :material-rename: **Run ID:** st_distilbert 
 - :fontawesome-solid-user-group: **Participant:** els_dshs 
@@ -561,7 +561,7 @@
 
 ---
 #### zs_bert_500 
-[**`Results`**](./results.md#zs_bert_500), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.zs_bert_500.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.zs_bert_500), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/zs_bert_500.pdf) 
+[**`Results`**](./results.md#zs_bert_500) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#matching-a-patient-from-an-admission-note-to-clinical-trials-experiments-with-query-generation-and-neural-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/trials/input.zs_bert_500.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/trials/summary.zs_bert_500) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/trials/zs_bert_500.pdf) 
 
 - :material-rename: **Run ID:** zs_bert_500 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 

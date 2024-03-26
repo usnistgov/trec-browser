@@ -1,6 +1,6 @@
 # Overview - Filtering 1996
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

@@ -1,6 +1,6 @@
 # Data - Session 2012 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/session2012.html`](https://trec.nist.gov/data/session2012.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/session2012.html`](https://trec.nist.gov/data/session2012.html)
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-**Other:** [`Original XML session data`](https://trec.nist.gov/data/session/12/sessiontrack2012.txt), [`Session-topic mapping file`](https://trec.nist.gov/data/session/12/sessiontopicmap.txt), [`Main evaluation script`](https://trec.nist.gov/data/session/12/session_eval_main.py), [`Component code for the evaluation script`](https://trec.nist.gov/data/session/12/session_eval.py)
+**Other:** [`Original XML session data`](https://trec.nist.gov/data/session/12/sessiontrack2012.txt) | [`Session-topic mapping file`](https://trec.nist.gov/data/session/12/sessiontopicmap.txt) | [`Main evaluation script`](https://trec.nist.gov/data/session/12/session_eval_main.py) | [`Component code for the evaluation script`](https://trec.nist.gov/data/session/12/session_eval.py)

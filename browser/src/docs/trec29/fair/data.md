@@ -1,6 +1,6 @@
 # Data - Fair Ranking 2020 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/fair2020.html`](https://trec.nist.gov/data/fair2020.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/fair2020.html`](https://trec.nist.gov/data/fair2020.html)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 
-**Other:** [`Test set evaluation sequences`](https://trec.nist.gov/data/fair/2020-eval-seq.csv), [`Document annotations`](https://trec.nist.gov/data/fair/2020-doc-annotations.csv), [`Full meta-data per document`](https://trec.nist.gov/data/fair/2020-merged-annotations.json)
+**Other:** [`Test set evaluation sequences`](https://trec.nist.gov/data/fair/2020-eval-seq.csv) | [`Document annotations`](https://trec.nist.gov/data/fair/2020-doc-annotations.csv) | [`Full meta-data per document`](https://trec.nist.gov/data/fair/2020-merged-annotations.json)

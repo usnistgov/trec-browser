@@ -2,7 +2,7 @@
 
 ## Complex Answer Retrieval
 
-[`Overview`](./car/overview.md), [`Proceedings`](./car/proceedings.md), [`Data`](./car/data.md), [`Runs`](./car/runs.md), [`Participants`](./car/participants.md)
+[`Overview`](./car/overview.md) | [`Proceedings`](./car/proceedings.md) | [`Data`](./car/data.md) | [`Runs`](./car/runs.md) | [`Participants`](./car/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The vision of TREC Complex Answer Retrieval is to create complex long-form answe
 
 ## Deep Learning
 
-[`Overview`](./deep/overview.md), [`Proceedings`](./deep/proceedings.md), [`Data`](./deep/data.md), [`Results`](./deep/results.md), [`Runs`](./deep/runs.md), [`Participants`](./deep/participants.md)
+[`Overview`](./deep/overview.md) | [`Proceedings`](./deep/proceedings.md) | [`Data`](./deep/data.md) | [`Results`](./deep/results.md) | [`Runs`](./deep/runs.md) | [`Participants`](./deep/participants.md)
 
 {==
 
@@ -45,7 +45,7 @@ The Deep Learning Track is a new track for TREC 2019, with the goal of studying 
 
 ## Precision Medicine
 
-[`Overview`](./pm/overview.md), [`Proceedings`](./pm/proceedings.md), [`Data`](./pm/data.md), [`Results`](./pm/results.md), [`Runs`](./pm/runs.md), [`Participants`](./pm/participants.md)
+[`Overview`](./pm/overview.md) | [`Proceedings`](./pm/proceedings.md) | [`Data`](./pm/data.md) | [`Results`](./pm/results.md) | [`Runs`](./pm/runs.md) | [`Participants`](./pm/participants.md)
 
 {==
 
@@ -71,7 +71,7 @@ Precision medicine is a medical paradigm in which treatments are customized enti
 
 ## Conversational Assistance
 
-[`Overview`](./cast/overview.md), [`Proceedings`](./cast/proceedings.md), [`Data`](./cast/data.md), [`Results`](./cast/results.md), [`Runs`](./cast/runs.md), [`Participants`](./cast/participants.md)
+[`Overview`](./cast/overview.md) | [`Proceedings`](./cast/proceedings.md) | [`Data`](./cast/data.md) | [`Results`](./cast/results.md) | [`Runs`](./cast/runs.md) | [`Participants`](./cast/participants.md)
 
 {==
 
@@ -92,7 +92,7 @@ The importance of conversation and conversational models for complex information
 
 ## News
 
-[`Overview`](./news/overview.md), [`Proceedings`](./news/proceedings.md), [`Data`](./news/data.md), [`Results`](./news/results.md), [`Runs`](./news/runs.md), [`Participants`](./news/participants.md)
+[`Overview`](./news/overview.md) | [`Proceedings`](./news/proceedings.md) | [`Data`](./news/data.md) | [`Results`](./news/results.md) | [`Runs`](./news/runs.md) | [`Participants`](./news/participants.md)
 
 {==
 
@@ -113,7 +113,7 @@ The News track focuses on information retrieval in the service of helping people
 
 ## Decision
 
-[`Overview`](./decisions/overview.md), [`Proceedings`](./decisions/proceedings.md), [`Data`](./decisions/data.md), [`Results`](./decisions/results.md), [`Runs`](./decisions/runs.md), [`Participants`](./decisions/participants.md)
+[`Overview`](./decisions/overview.md) | [`Proceedings`](./decisions/proceedings.md) | [`Data`](./decisions/data.md) | [`Results`](./decisions/results.md) | [`Runs`](./decisions/runs.md) | [`Participants`](./decisions/participants.md)
 
 {==
 
@@ -136,7 +136,7 @@ Search engine results underpin many consequential decision making tasks. Example
 
 ## Fair Ranking
 
-[`Overview`](./fair/overview.md), [`Proceedings`](./fair/proceedings.md), [`Data`](./fair/data.md), [`Runs`](./fair/runs.md), [`Participants`](./fair/participants.md)
+[`Overview`](./fair/overview.md) | [`Proceedings`](./fair/proceedings.md) | [`Data`](./fair/data.md) | [`Runs`](./fair/runs.md) | [`Participants`](./fair/participants.md)
 
 {==
 
@@ -158,7 +158,7 @@ The goal of the TREC Fair Ranking track was to develop a benchmark for evaluatin
 
 ## Incident Streams
 
-[`Overview`](./incident/overview.md), [`Proceedings`](./incident/proceedings.md), [`Data`](./incident/data.md), [`Runs`](./incident/runs.md), [`Participants`](./incident/participants.md)
+[`Overview`](./incident/overview.md) | [`Proceedings`](./incident/proceedings.md) | [`Data`](./incident/data.md) | [`Runs`](./incident/runs.md) | [`Participants`](./incident/participants.md)
 
 {==
 

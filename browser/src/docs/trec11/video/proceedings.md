@@ -31,6 +31,11 @@ _Lide Wu, Xuanjing Huang, Junyu Niu, Yingju Xia, Zhe Feng, Yaqian Zhou_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/fudan.lide.pdf](http://trec.nist.gov/pubs/trec11/papers/fudan.lide.pdf)
 - :material-file-search: **Runs:** [VFudan](./runs.md#vfudan)
 
+??? abstract "Abstract"
+	
+	This year Fudan University takes part in the TREC conference for the third time. We have participated in four tracks of Filtering, Q&A, Web and Video. For filtering, we only participate in the sub-task of adaptive filtering. A novel method is presented, in which a winnow classifier from the description and narrative fields is constructed, and then utilized to assist our previous adaptive filtering system. A novel approach to confidence sorting, which is based on Maximum Entropy, is proposed in our Question Answering system. The rank of individual answer is determined by several weighted factors, and the confidence score is the product of the exponent of the weights of every factors. The weight of every factor is assigned during the training of previous questions. To return highly relevant key resources for web retrieval, we modified our original search system to make it return higher precision result than before. First, we proposed a novel search algorithm to get a base set of highly relevant documents. Then special post-processing modules are used to expand and re-sort the base set. This year we tried a fast manifold-based approach to face recognition in the Video Search Task. It can be used when there are only few different images of a specific person and runs fast. Experiment shows that applying this step will make the face recognition 5-fold faster and with almost no decreasing of performance.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/WuHNXFZ02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/WuHNXFZ02,
@@ -56,6 +61,11 @@ _Christian Wolf, David S. Doermann, Mika Rautiainen_
 - :fontawesome-solid-user-group: **Participant:** [umd_oard](./participants.md#umd_oard)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/umd.doermann.pdf](http://trec.nist.gov/pubs/trec11/papers/umd.doermann.pdf)
 - :material-file-search: **Runs:** [VUMD](./runs.md#vumd)
+
+??? abstract "Abstract"
+	
+	Our team from the University of Maryland and INSA de Lyon participated in the feature extraction evaluation with overlay text features and in the search evaluation with a query retrieval and browsing system. For search we developed a weighted query mechanism by integrating 1) text (OCR and speech recognition) content using full text and n-grams through the MG system, 2) color correlogram indexing of image and video shots reported last year in TREC, and 3) ranked versions of the extracted binary features. A command line version of the interface allows users to formulate simple queries, store them and use weighted combinations of the simple queries to generate compound queries. One novel component of our interactive approach is the ability for the users to formulate dynamic queries previously developed for database applications at Maryland. The interactive interface treats each video clip as visual object in a multi-dimensional space, and each ”feature” of that clip is mapped to one dimension. The user can visualize any two dimensions by placing any two features on the horizontal and vertical axis with additional dimensions visualized by adding attributes to each object.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/WolfDR02.bib) "
 	```
@@ -83,6 +93,11 @@ _Thijs Westerveld, Arjen P. de Vries, Alex van Ballegooij_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/cwi.westerveld.pdf](http://trec.nist.gov/pubs/trec11/papers/cwi.westerveld.pdf)
 - :material-file-search: **Runs:** [VCWI](./runs.md#vcwi)
 
+??? abstract "Abstract"
+	
+	We present a probabilistic model for the retrieval of multimodal documents. The model is based on Bayesian decision theory and combines models for text based search with models for visual search. The textual model, applied to the LIMSI transcripts, is based on the language modelling approach to text retrieval. The visual model, a mixture of Gaussian densities, describes keyframes selected from shots. Both models have proved successful on media specific retrieval tasks. Our contribution is the combination of both techniques in a unified model, ranking shots on ASR-data and visual features simultaneously. [...]
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/WesterveldVB02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/WesterveldVB02,
@@ -108,6 +123,11 @@ _Jeroen Vendrig, Ioannis Patras, Cees Snoek, Marcel Worring, Jurgen den Hartog, 
 - :fontawesome-solid-user-group: **Participant:** [amsterdam_isis](./participants.md#amsterdam_isis)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/mediamill.vendrig.pdf](http://trec.nist.gov/pubs/trec11/papers/mediamill.vendrig.pdf)
 - :material-file-search: **Runs:** [Vworring](./runs.md#vworring)
+
+??? abstract "Abstract"
+	
+	[...] We present a system which interactively learns user-defined semantic concepts for a specific collection from a domain expert. For each concept, the domain expert builds a model by feeding visual evidence to the system in the form of examples, without knowledge about the underlying classifier and descriptors. We employ a large set of multimedia descriptors for use in a Maximum Entropy classifier. The space for example selection is determined by the output of the incrementally improved model. The system is evaluated against the TREC 2002 feature extraction collection. The user information consists of the ten semantic concepts defined for the feature extraction task. As our system is based on visual evidence, we focus on visual content of videos. That is, we focus on the features outdoors, indoors, face, people, cityscape, landscape, text overlay and monologue. The classification of the audio features (speech and instrumental sound) is provided independently and is described briefly in section 2.2. [...]
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/VendrigPSWHRRL02.bib) "
 	```
@@ -135,6 +155,11 @@ _Fabrice Souvannavong, Bernard Mérialdo, Benoit Huet_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/eurecom.fabrice.pdf](http://trec.nist.gov/pubs/trec11/papers/eurecom.fabrice.pdf)
 - :material-file-search: **Runs:** [Veurecom](./runs.md#veurecom)
 
+??? abstract "Abstract"
+	
+	In this paper, we present some first results in the extraction of semantic features from video sequences. Our approach is based on the classification of Mpeg DCT macro-blocks. Although it is clear that using macro-blocks imposes severe restrictions on the analysis accuracy of the image, it has the advantage of avoiding the complete decoding of the Mpeg stream. Our objective is to evaluate the quality of the Semantic Feature Extraction that can be obtained with this direct approach, to serve as a comparative baseline with more elaborate approaches.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/SouvannavongMH02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/SouvannavongMH02,
@@ -160,6 +185,11 @@ _Mika Rautiainen, Dmitri Vorobiev, Kai Noponen, Pertti Alvar Väyrynen, Matti Ho
 - :fontawesome-solid-user-group: **Participant:** [oulu](./participants.md#oulu)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/uoulu.rautiainen.pdf](http://trec.nist.gov/pubs/trec11/papers/uoulu.rautiainen.pdf)
 - :material-file-search: **Runs:** [VOulu](./runs.md#voulu)
+
+??? abstract "Abstract"
+	
+	In TREC 2002 Video Track MediaTeam Oulu and VTT Technical Research Centre of Finland participated jointly in semantic feature extraction, manual search and interactive search tasks. In the semantic feature extraction task, we sent results for semantic categories of cityscape, landscape, people, speech and instrumental sound. Spatio-temporal correlation of oriented gradient occurrences was used with example shots to detect shots containing people, cityscape or landscape. The audio signal features consisted of various statistical measurements and were used to detect shots containing speech or instrumental sound. Our video browsing and retrieval system, VIRE, was used for manual and interactive search tasks. Our system offers two techniques for video retrieval: 1. Multi-modal indexing based on self-organizing feature maps with semantic filtering. 2. An interactive navigating tool that combines two inter-shot properties, temporal coherency and metric similarities, into a view where database shots are presented in a lattice structure. We tested our interactive navigating tool with eight persons to obtain results for 25 pre-defined search topics. In this paper we give an overview of the approaches and a summary of the results.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/RautiainenVNVHMOSPMP02.bib) "
 	```
@@ -187,6 +217,11 @@ _Georges Quénot, Daniel Moraru, Laurent Besacier, Philippe Mulhem_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/clips.video.pdf](http://trec.nist.gov/pubs/trec11/papers/clips.video.pdf)
 - :material-file-search: **Runs:** [Vclips](./runs.md#vclips)
 
+??? abstract "Abstract"
+	
+	This pap er presents the systems used by CLIPS-IMAG to p erform the Shot Boundary Detection (SBD) task, the Feature Extraction (FE) and the Search (S) task of the Video track of the TREC-11 conference. Results obtained for the TREC-11 evaluation are presented.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/QuenotMBM02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/QuenotMBM02,
@@ -212,6 +247,11 @@ _Marcus Jerome Pickering, Daniel Heesch, Stefan M. Rüger, Robert J. O'Callaghan
 - :fontawesome-solid-user-group: **Participant:** [imperial](./participants.md#imperial)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/imperial.pickering.pdf](http://trec.nist.gov/pubs/trec11/papers/imperial.pickering.pdf)
 - :material-file-search: **Runs:** [VImperial](./runs.md#vimperial)
+
+??? abstract "Abstract"
+	
+	We describe our experiments for the shot-boundary detection and search tasks for the TREC-11 video track. Our shot-boundary detection scheme is based on a multi-timescale detection algorithm in which colour histogram differences are examined over a range of frames. Our search efforts are based on a system which brings together a number of global features encompassing colour, texture and text features derived from speech recognition transcripts into a unique relevance feedback system. 
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/PickeringHROB02.bib) "
 	```
@@ -239,6 +279,11 @@ _Andrea Miene, Thorsten Hermes, George T. Ioannidis, R. Fathi, Otthein Herzog_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/ubremen.miene.pdf](http://trec.nist.gov/pubs/trec11/papers/ubremen.miene.pdf)
 - :material-file-search: **Runs:** [VBremen](./runs.md#vbremen)
 
+??? abstract "Abstract"
+	
+	This paper describes our contribution to the TREC 2002 video analysis track. We participated in the shot detection task and in the feature extraction task (features indoors and outdoors). The shot detection approach is based on histogram differences and uses adaptive thresholds. Multiple detected shot boundaries that follow each other within a short temporal interval are grouped together and classified as a gradual change beginning with the first and ending with the last shot boundary in the interval. For the feature extraction task we examined whether it is possible to classify indoor and outdoor shots by their color distribution. In order to analyze the color distribution we use first order statistical features. The shots are classified into indoor and outdoor shots using a neural net.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/MieneHIFH02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/MieneHIFH02,
@@ -264,6 +309,11 @@ _Bill Adams, Giridharan Iyengar, Chalapathy Neti, Harriet J. Nock, Arnon Amir, H
 - :fontawesome-solid-user-group: **Participant:** [ibm-video](./participants.md#ibm-video)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/ibm.smith.vid.pdf](http://trec.nist.gov/pubs/trec11/papers/ibm.smith.vid.pdf)
 - :material-file-search: **Runs:** [VIBM](./runs.md#vibm)
+
+??? abstract "Abstract"
+	
+	In this paper, we describe the IBM Research system for analysis, indexing, and retrieval of video, which was applied to the TREC-2002 video retrieval benchmark. The system explores novel methods for fully-automatic content analysis, shot boundary detection, multi-modal feature extraction, statistical modeling for semantic concept detection, and speech recognition and indexing. The system supports querying based on automatically extracted features, models, and speech information. Additional interactive methods for querying include multiple-example and relevance feedback searching, cluster, concept, and storyboard browsing, and iterative fusion based on user-selected aggregation and combination functions. The system was applied to all four of the tasks of the video retrieval benchmark including shot boundary detection, concept detection, concept exchange, and search. We describe the approaches for each of the tasks and discuss some of the results.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/AdamsINNAPSDJLLNNSTGSAZ02.bib) "
 	```
@@ -291,6 +341,11 @@ _Dan E. Albertson, Javed Mostafa, John Fieber_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/indianau.albertson.pdf](http://trec.nist.gov/pubs/trec11/papers/indianau.albertson.pdf)
 - :material-file-search: **Runs:** [VIndiana](./runs.md#vindiana)
 
+??? abstract "Abstract"
+	
+	Several researchers consisting of students and faculty from the School of Library and Information Science at Indiana University developed a video retrieval system named ViewFinder for the purpose of providing access to video content for a project named the Cultural digital Library Indexing Our Heritage (CLIOH) at Indiana University Purdue University at Indianapolis (IUPUI). For our role in the Text Retrieval Conference (TREC) and its video track, we took the existing system, made notable modifications, and applied it to the video data provided by the conference. After conducting 1 interactive search run, we generated our search results and submitted them to TREC where human judges determined the relevancy of each returned shot and assigned an averaged precision ranking for each topic. From these results we were capable of drawing conclusions of the current system, and how to make ViewFinder more productive in future versions.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/AlbertsonMF02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/AlbertsonMF02,
@@ -316,6 +371,11 @@ _Paul Browne, Csaba Czirjek, Cathal Gurrin, Roman Jarina, Hyowon Lee, Seán Marl
 - :fontawesome-solid-user-group: **Participant:** [dublin](./participants.md#dublin)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/dublincu.smeaton.pdf](http://trec.nist.gov/pubs/trec11/papers/dublincu.smeaton.pdf)
 - :material-file-search: **Runs:** [VDublin](./runs.md#vdublin)
+
+??? abstract "Abstract"
+	
+	Dublin City University participated in the Feature Extraction task and the Search task of the TREC-2002 Video Track. In the Feature Extraction task, we submitted 3 features: Face, Speech, and Music. In the Search task, we developed an interactive video retrieval system, which incorporated the 40 hours of the video search test collection and supported user searching using our own feature extraction data along with the donated feature data and ASR transcript from other Video Track groups. This video retrieval system allows a user to specify a query based on the 10 features and ASR transcript, and the query result is a ranked list of videos that can be further browsed at the shot level. To evaluate the usefulness of the feature-based query, we have developed a second system interface that provides only ASR transcript-based querying, and we conducted an experiment with 12 test users to compare these 2 systems. Results were submitted to NIST and we are currently conducting further analysis of user performance with these 2 systems.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BrowneCGJLMMMOSY02.bib) "
 	```
@@ -343,6 +403,11 @@ _A. Chandrashekhara, HuaMin Feng, Tat-Seng Chua_
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/nus.video.pdf](http://trec.nist.gov/pubs/trec11/papers/nus.video.pdf)
 - :material-file-search: **Runs:** [VNUS](./runs.md#vnus)
 
+??? abstract "Abstract"
+	
+	Video shot boundary detection and keyframe extraction is an important step in many video-processing applications. We observe that video shot boundary is a multi-resolution edge phenomenon in the feature space. In this experiment, we expanded our previous temporal multi-resolution analysis (TMRA) work by introducing the new feature vector based on motion, incorporating functions to detect flash and camera/object motion, and selecting automatic thresholds for noise elimination based on the type of video. The framework is used to extract meaningful keyframes. Experiments show that our new system can detect and characterize both the abrupt (CUT) and gradual (GT) transitions effectively. It has good accuracy for both the detection of transitions as well as their boundaries.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/ChandrashekharaFC02.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/ChandrashekharaFC02,
@@ -368,6 +433,11 @@ _Alexander G. Hauptmann, Rong Yan, Yanjun Qi, Rong Jin, Michael G. Christel, Mar
 - :fontawesome-solid-user-group: **Participant:** [cmu-Hauptmann-video](./participants.md#cmu-hauptmann-video)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec11/papers/cmu.hauptmann.pdf](http://trec.nist.gov/pubs/trec11/papers/cmu.hauptmann.pdf)
 - :material-file-search: **Runs:** [VCMU](./runs.md#vcmu)
+
+??? abstract "Abstract"
+	
+	This paper is organized in three parts. The first part details some of the lower level shot classification work, the second part describes the ‘manual' retrieval systems while the last section details the interactive retrieval system for the Carnegie Mellon University TREC Video Retrieval Track runs. The description of the data can be found elsewhere in the proceedings of the 2002 TREC conference video track overview
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/HauptmannYQJCDCBLN02.bib) "
 	```

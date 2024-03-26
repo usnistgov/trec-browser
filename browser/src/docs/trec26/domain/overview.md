@@ -1,6 +1,6 @@
 # Overview - Dynamic Domain 2017
 
-[`Proceedings`](./proceedings.md), [`Data`](./data.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Data`](./data.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

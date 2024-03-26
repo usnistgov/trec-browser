@@ -2,7 +2,7 @@
 
 ## Genomics
 
-[`Overview`](./genomics/overview.md), [`Proceedings`](./genomics/proceedings.md), [`Data`](./genomics/data.md), [`Results`](./genomics/results.md), [`Runs`](./genomics/runs.md), [`Participants`](./genomics/participants.md)
+[`Overview`](./genomics/overview.md) | [`Proceedings`](./genomics/proceedings.md) | [`Data`](./genomics/data.md) | [`Results`](./genomics/results.md) | [`Runs`](./genomics/runs.md) | [`Participants`](./genomics/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The first year of TREC Genomics Track featured two tasks: ad hoc retrieval and i
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -42,7 +42,7 @@ The TREC 2003 web track consisted of both a non-interactive stream and an intera
 
 ## HARD
 
-[`Overview`](./hard/overview.md), [`Proceedings`](./hard/proceedings.md), [`Data`](./hard/data.md), [`Results`](./hard/results.md), [`Runs`](./hard/runs.md), [`Participants`](./hard/participants.md)
+[`Overview`](./hard/overview.md) | [`Proceedings`](./hard/proceedings.md) | [`Data`](./hard/data.md) | [`Results`](./hard/results.md) | [`Runs`](./hard/runs.md) | [`Participants`](./hard/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ The goal of this track is to bring the user out of hiding, making him or her an 
 
 ## Robust
 
-[`Overview`](./robust/overview.md), [`Proceedings`](./robust/proceedings.md), [`Data`](./robust/data.md), [`Results`](./robust/results.md), [`Runs`](./robust/runs.md), [`Participants`](./robust/participants.md)
+[`Overview`](./robust/overview.md) | [`Proceedings`](./robust/proceedings.md) | [`Data`](./robust/data.md) | [`Results`](./robust/results.md) | [`Runs`](./robust/runs.md) | [`Participants`](./robust/participants.md)
 
 {==
 
@@ -80,7 +80,7 @@ The robust retrieval track is a new track in TREC 2003. The goal of the track is
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -99,7 +99,7 @@ The TREC 2003 question answering track contained two tasks, the passages task an
 
 ## Novelty
 
-[`Overview`](./novelty/overview.md), [`Proceedings`](./novelty/proceedings.md), [`Data`](./novelty/data.md), [`Results`](./novelty/results.md), [`Runs`](./novelty/runs.md), [`Participants`](./novelty/participants.md)
+[`Overview`](./novelty/overview.md) | [`Proceedings`](./novelty/proceedings.md) | [`Data`](./novelty/data.md) | [`Results`](./novelty/results.md) | [`Runs`](./novelty/runs.md) | [`Participants`](./novelty/participants.md)
 
 {==
 

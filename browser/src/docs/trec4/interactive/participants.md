@@ -15,7 +15,7 @@
 #### cornell
  - :fontawesome-solid-user-group: **Name:** Chris Buckley
  - :octicons-organization-16: **Organization:** Cornell University
- - :material-file-search: **Runs:** [CrnlI1](./runs.md#crnli1), [CrnlI2](./runs.md#crnli2)
+ - :material-file-search: **Runs:** [CrnlI1](./runs.md#crnli1) | [CrnlI2](./runs.md#crnli2)
 
 ---
 #### eth
@@ -27,7 +27,7 @@
 #### gatin
  - :fontawesome-solid-user-group: **Name:** Aravindan Veerasamy
  - :octicons-organization-16: **Organization:** Georgia Institute of Technology 
- - :material-file-search: **Runs:** [gatin1](./runs.md#gatin1), [gatin2](./runs.md#gatin2)
+ - :material-file-search: **Runs:** [gatin1](./runs.md#gatin1) | [gatin2](./runs.md#gatin2)
 
 ---
 #### lnbool
@@ -44,7 +44,7 @@
 #### rutgers.belkin
  - :fontawesome-solid-user-group: **Name:** Nicholas J. Belkin
  - :octicons-organization-16: **Organization:** Rutgers University 
- - :material-file-search: **Runs:** [ruint1](./runs.md#ruint1), [ruint2](./runs.md#ruint2)
+ - :material-file-search: **Runs:** [ruint1](./runs.md#ruint1) | [ruint2](./runs.md#ruint2)
 
 ---
 #### utoronto
@@ -56,6 +56,6 @@
 #### xerox
  - :fontawesome-solid-user-group: **Name:** Jan Pedersen
  - :octicons-organization-16: **Organization:** Xerox Palo Alto Research Center
- - :material-file-search: **Runs:** [XERINT1](./runs.md#xerint1), [XERINT2](./runs.md#xerint2)
+ - :material-file-search: **Runs:** [XERINT1](./runs.md#xerint1) | [XERINT2](./runs.md#xerint2)
 
 ---

@@ -1,6 +1,6 @@
 # Data - Spam 2005 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://plg.uwaterloo.ca/~gvcormac/treccorpus/`](https://plg.uwaterloo.ca/~gvcormac/treccorpus/)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://plg.uwaterloo.ca/~gvcormac/treccorpus/`](https://plg.uwaterloo.ca/~gvcormac/treccorpus/)
 
 ---
 

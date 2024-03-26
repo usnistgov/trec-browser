@@ -1,6 +1,6 @@
 # Data - Large Web 1999 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t8.web.html`](https://trec.nist.gov/data/t8.web.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t8.web.html`](https://trec.nist.gov/data/t8.web.html)
 
 ---
 

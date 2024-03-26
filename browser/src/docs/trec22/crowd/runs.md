@@ -1,7 +1,7 @@
 # Runs - Crowdsourcing 2013 
 
 #### Hrbust123 
-[**`Participants`**](./participants.md#hrbust), [**`Proceedings`**](./proceedings.md#hrbust-in-trec-2013-crowdsourcing-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/Hrbust123.result.pdf) 
+[**`Participants`**](./participants.md#hrbust) | [**`Proceedings`**](./proceedings.md#hrbust-in-trec-2013-crowdsourcing-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/Hrbust123.result.pdf) 
 
 - :material-rename: **Run ID:** Hrbust123 
 - :fontawesome-solid-user-group: **Participant:** Hrbust 
@@ -10,11 +10,11 @@
 - :material-upload: **Submission:** 9/7/2013 
 - :material-text-search: **Task:** basic 
 - :material-fingerprint: **MD5:** `6810dfd18bb1222089cfe82994ff3db1` 
-- :material-text: **Run description:** For the TREC2013 Crowdsourcing Track, we put forward a solution strategy based on multi-communication platform and multi-type crowds. To bring together a wide rang of participants to support and participate in crowdsourcing evaluation task，we adopt the various popular social networking platforms to spread widely, including website promotion, SNS social networking, microblog, WeChat and instant communication tools. We divide the crowd into three groups, Expert Group, Trustee Group and Volunteer Group by the degree of confidence, to judge probability of relevance of different topics and different web content on a six-point scale. Expert group judged all 3470 topic-doc pairs from 10 topics, and asked their friends for help receiving a number of judgments, that is treated as Trustee Group’s results. After that, we posted messages on the above-mentioned social networking platforms. In order to ensure the topic-doc distribution on average, our system randomly selected topic-doc pairs and recommend some pairs that had the less number of judgments for volunteers, who were from these platforms. Finally, we selected 15 judgments for each topic-doc pair. In the judgments, we confirmed the final label, which had the higher frequency of occurrence, for each pair. Calculating the ratio of the sum of the deviations of the topic-doc’s final label value and its 15 label values, and the product of the maximum deviation of 6 relevance labels and the number of the judgment. And 1 minus the ratio is the probability of relevance of final label and judgments. Through the website, we achieve the online evaluation of the Hrbust-Crowdsourcing.  
+- :material-text: **Run description:** For the TREC2013 Crowdsourcing Track, we put forward a solution strategy based on multi-communication platform and multi-type crowds. To bring together a wide rang of participants to support and participate in crowdsourcing evaluation taskwe adopt the various popular social networking platforms to spread widely, including website promotion, SNS social networking, microblog, WeChat and instant communication tools. We divide the crowd into three groups, Expert Group, Trustee Group and Volunteer Group by the degree of confidence, to judge probability of relevance of different topics and different web content on a six-point scale. Expert group judged all 3470 topic-doc pairs from 10 topics, and asked their friends for help receiving a number of judgments, that is treated as Trustee Groups results. After that, we posted messages on the above-mentioned social networking platforms. In order to ensure the topic-doc distribution on average, our system randomly selected topic-doc pairs and recommend some pairs that had the less number of judgments for volunteers, who were from these platforms. Finally, we selected 15 judgments for each topic-doc pair. In the judgments, we confirmed the final label, which had the higher frequency of occurrence, for each pair. Calculating the ratio of the sum of the deviations of the topic-docs final label value and its 15 label values, and the product of the maximum deviation of 6 relevance labels and the number of the judgment. And 1 minus the ratio is the probability of relevance of final label and judgments. Through the website, we achieve the online evaluation of the Hrbust-Crowdsourcing.  
 
 ---
 #### NEUPivot1 
-[**`Participants`**](./participants.md#neuir), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec13-crowdsourcing-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/NEUPivot1.result.pdf) 
+[**`Participants`**](./participants.md#neuir) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec13-crowdsourcing-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/NEUPivot1.result.pdf) 
 
 - :material-rename: **Run ID:** NEUPivot1 
 - :fontawesome-solid-user-group: **Participant:** NEUIR 
@@ -27,7 +27,7 @@
 
 ---
 #### pris 
-[**`Participants`**](./participants.md#pris), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/pris.result.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/pris.result.pdf) 
 
 - :material-rename: **Run ID:** pris 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -40,7 +40,7 @@
 
 ---
 #### udelJudge1 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge1.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge1.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge1 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -53,7 +53,7 @@
 
 ---
 #### udelJudge2 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge2.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge2.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -66,7 +66,7 @@
 
 ---
 #### udelJudge3 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge3.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge3.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge3 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -79,7 +79,7 @@
 
 ---
 #### udelJudge4 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge4.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge4.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge4 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -92,7 +92,7 @@
 
 ---
 #### udelJudge5 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge5.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge5.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge5 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -105,7 +105,7 @@
 
 ---
 #### udelJudge6 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge6.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge6.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge6 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -118,7 +118,7 @@
 
 ---
 #### udelJudge7 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge7.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge7.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge7 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -131,7 +131,7 @@
 
 ---
 #### udelJudge8 
-[**`Participants`**](./participants.md#udel), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge8.result.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/crowd/udelJudge8.result.pdf) 
 
 - :material-rename: **Run ID:** udelJudge8 
 - :fontawesome-solid-user-group: **Participant:** udel 

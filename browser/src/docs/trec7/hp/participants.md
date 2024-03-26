@@ -9,7 +9,7 @@
 #### Cornell/Sabir
  - :fontawesome-solid-user-group: **Name:** Chris Buckley
  - :octicons-organization-16: **Organization:** Cornell University/Sabir Research, Inc.
- - :material-file-search: **Runs:** [Cor7HP1](./runs.md#cor7hp1), [Cor7HP2](./runs.md#cor7hp2), [Cor7HP3](./runs.md#cor7hp3)
+ - :material-file-search: **Runs:** [Cor7HP1](./runs.md#cor7hp1) | [Cor7HP2](./runs.md#cor7hp2) | [Cor7HP3](./runs.md#cor7hp3)
 
 ---
 #### CUNY
@@ -21,6 +21,6 @@
 #### Waterloo
  - :fontawesome-solid-user-group: **Name:** Charles Clarke
  - :octicons-organization-16: **Organization:** University of Waterloo
- - :material-file-search: **Runs:** [uwmt7h1](./runs.md#uwmt7h1), [uwmt7h2](./runs.md#uwmt7h2)
+ - :material-file-search: **Runs:** [uwmt7h1](./runs.md#uwmt7h1) | [uwmt7h2](./runs.md#uwmt7h2)
 
 ---

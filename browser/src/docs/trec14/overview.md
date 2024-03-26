@@ -2,7 +2,7 @@
 
 ## Spam
 
-[`Overview`](./spam/overview.md), [`Proceedings`](./spam/proceedings.md), [`Data`](./spam/data.md), [`Runs`](./spam/runs.md), [`Participants`](./spam/participants.md)
+[`Overview`](./spam/overview.md) | [`Proceedings`](./spam/proceedings.md) | [`Data`](./spam/data.md) | [`Results`](./spam/results.md) | [`Runs`](./spam/runs.md) | [`Participants`](./spam/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ An automatic spam filter classifies a chronological sequence of email messages a
 
 ## Terabyte
 
-[`Overview`](./terabyte/overview.md), [`Proceedings`](./terabyte/proceedings.md), [`Data`](./terabyte/data.md), [`Results`](./terabyte/results.md), [`Runs`](./terabyte/runs.md), [`Participants`](./terabyte/participants.md)
+[`Overview`](./terabyte/overview.md) | [`Proceedings`](./terabyte/proceedings.md) | [`Data`](./terabyte/data.md) | [`Results`](./terabyte/results.md) | [`Runs`](./terabyte/runs.md) | [`Participants`](./terabyte/participants.md)
 
 {==
 
@@ -43,7 +43,7 @@ The primary goal of the Terabyte Track is to develop an evaluation methodology f
 
 ## Genomics
 
-[`Overview`](./genomics/overview.md), [`Proceedings`](./genomics/proceedings.md), [`Data`](./genomics/data.md), [`Results`](./genomics/results.md), [`Runs`](./genomics/runs.md), [`Participants`](./genomics/participants.md)
+[`Overview`](./genomics/overview.md) | [`Proceedings`](./genomics/proceedings.md) | [`Data`](./genomics/data.md) | [`Results`](./genomics/results.md) | [`Runs`](./genomics/runs.md) | [`Participants`](./genomics/participants.md)
 
 {==
 
@@ -67,7 +67,7 @@ The TREC 2005 Genomics Track featured two tasks, an ad hoc retrieval task and fo
 
 ## HARD
 
-[`Overview`](./HARD/overview.md), [`Proceedings`](./HARD/proceedings.md), [`Data`](./HARD/data.md), [`Results`](./HARD/results.md), [`Runs`](./HARD/runs.md), [`Participants`](./HARD/participants.md)
+[`Overview`](./HARD/overview.md) | [`Proceedings`](./HARD/proceedings.md) | [`Data`](./HARD/data.md) | [`Results`](./HARD/results.md) | [`Runs`](./HARD/runs.md) | [`Participants`](./HARD/participants.md)
 
 {==
 
@@ -86,7 +86,7 @@ TREC 2005 saw the third year of the High Accuracy Retrieval from Documents (HARD
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -106,7 +106,7 @@ The goal of the TREC QA track is to foster research on systems that retrieve ans
 
 ## Enterprise
 
-[`Overview`](./enterprise/overview.md), [`Proceedings`](./enterprise/proceedings.md), [`Data`](./enterprise/data.md), [`Results`](./enterprise/results.md), [`Runs`](./enterprise/runs.md), [`Participants`](./enterprise/participants.md)
+[`Overview`](./enterprise/overview.md) | [`Proceedings`](./enterprise/proceedings.md) | [`Data`](./enterprise/data.md) | [`Results`](./enterprise/results.md) | [`Runs`](./enterprise/runs.md) | [`Participants`](./enterprise/participants.md)
 
 {==
 
@@ -127,7 +127,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ## Robust
 
-[`Overview`](./robust/overview.md), [`Proceedings`](./robust/proceedings.md), [`Data`](./robust/data.md), [`Results`](./robust/results.md), [`Runs`](./robust/runs.md), [`Participants`](./robust/participants.md)
+[`Overview`](./robust/overview.md) | [`Proceedings`](./robust/proceedings.md) | [`Data`](./robust/data.md) | [`Results`](./robust/results.md) | [`Runs`](./robust/runs.md) | [`Participants`](./robust/participants.md)
 
 {==
 

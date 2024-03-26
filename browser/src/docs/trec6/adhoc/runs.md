@@ -1,7 +1,7 @@
 # Runs - Adhoc 1997 
 
 #### aiatA1 
-[**`Results`**](./results.md#aiata1), [**`Participants`**](./participants.md#apple), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.aiatA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.aiatA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#aiata1) | [**`Participants`**](./participants.md#apple) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.aiatA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.aiatA1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** aiatA1 
 - :fontawesome-solid-user-group: **Participant:** Apple 
@@ -13,7 +13,7 @@
 
 ---
 #### aiatB1 
-[**`Results`**](./results.md#aiatb1), [**`Participants`**](./participants.md#apple), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.aiatB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.aiatB1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#aiatb1) | [**`Participants`**](./participants.md#apple) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.aiatB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.aiatB1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** aiatB1 
 - :fontawesome-solid-user-group: **Participant:** Apple 
@@ -25,7 +25,7 @@
 
 ---
 #### anu6alo1 
-[**`Results`**](./results.md#anu6alo1), [**`Participants`**](./participants.md#anu), [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6alo1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6alo1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#anu6alo1) | [**`Participants`**](./participants.md#anu) | [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6alo1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6alo1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** anu6alo1 
 - :fontawesome-solid-user-group: **Participant:** ANU 
@@ -37,7 +37,7 @@
 
 ---
 #### anu6ash1 
-[**`Results`**](./results.md#anu6ash1), [**`Participants`**](./participants.md#anu), [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6ash1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6ash1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#anu6ash1) | [**`Participants`**](./participants.md#anu) | [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6ash1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6ash1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** anu6ash1 
 - :fontawesome-solid-user-group: **Participant:** ANU 
@@ -49,7 +49,7 @@
 
 ---
 #### anu6min1 
-[**`Results`**](./results.md#anu6min1), [**`Participants`**](./participants.md#anu), [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6min1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6min1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#anu6min1) | [**`Participants`**](./participants.md#anu) | [**`Proceedings`**](./proceedings.md#anu-acsys-trec-6-experiments) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.anu6min1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.anu6min1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** anu6min1 
 - :fontawesome-solid-user-group: **Participant:** ANU 
@@ -61,7 +61,7 @@
 
 ---
 #### att97ac 
-[**`Results`**](./results.md#att97ac), [**`Participants`**](./participants.md#att), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97ac.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97ac.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#att97ac) | [**`Participants`**](./participants.md#att) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97ac.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97ac.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** att97ac 
 - :fontawesome-solid-user-group: **Participant:** ATT 
@@ -73,7 +73,7 @@
 
 ---
 #### att97ae 
-[**`Results`**](./results.md#att97ae), [**`Participants`**](./participants.md#att), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97ae.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97ae.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#att97ae) | [**`Participants`**](./participants.md#att) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97ae.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97ae.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** att97ae 
 - :fontawesome-solid-user-group: **Participant:** ATT 
@@ -85,7 +85,7 @@
 
 ---
 #### att97as 
-[**`Results`**](./results.md#att97as), [**`Participants`**](./participants.md#att), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97as.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97as.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#att97as) | [**`Participants`**](./participants.md#att) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.att97as.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.att97as.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** att97as 
 - :fontawesome-solid-user-group: **Participant:** ATT 
@@ -97,7 +97,7 @@
 
 ---
 #### Brkly21 
-[**`Results`**](./results.md#brkly21), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly21.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly21.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#brkly21) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly21.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly21.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Brkly21 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -109,7 +109,7 @@
 
 ---
 #### Brkly22 
-[**`Results`**](./results.md#brkly22), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly22.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly22.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#brkly22) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly22.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly22.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Brkly22 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -121,7 +121,7 @@
 
 ---
 #### Brkly23 
-[**`Results`**](./results.md#brkly23), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly23.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly23.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#brkly23) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Brkly23.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Brkly23.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Brkly23 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -133,7 +133,7 @@
 
 ---
 #### city6ad 
-[**`Results`**](./results.md#city6ad), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6ad.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6ad.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#city6ad) | [**`Participants`**](./participants.md#city) | [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6ad.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6ad.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** city6ad 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -145,7 +145,7 @@
 
 ---
 #### city6al 
-[**`Results`**](./results.md#city6al), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6al.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6al.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#city6al) | [**`Participants`**](./participants.md#city) | [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6al.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6al.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** city6al 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -157,7 +157,7 @@
 
 ---
 #### city6at 
-[**`Results`**](./results.md#city6at), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6at.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6at.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#city6at) | [**`Participants`**](./participants.md#city) | [**`Proceedings`**](./proceedings.md#okapi-at-trec-6-automatic-ad-hoc-vlc-routing-filtering-and-qsdr) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.city6at.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.city6at.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** city6at 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -169,7 +169,7 @@
 
 ---
 #### CLAUG 
-[**`Results`**](./results.md#claug), [**`Participants`**](./participants.md#claritech), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.CLAUG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.CLAUG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#claug) | [**`Participants`**](./participants.md#claritech) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.CLAUG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.CLAUG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** CLAUG 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -181,7 +181,7 @@
 
 ---
 #### CLREL 
-[**`Results`**](./results.md#clrel), [**`Participants`**](./participants.md#claritech), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.CLREL.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.CLREL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#clrel) | [**`Participants`**](./participants.md#claritech) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.CLREL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.CLREL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** CLREL 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -193,7 +193,7 @@
 
 ---
 #### Cor6A1cls 
-[**`Results`**](./results.md#cor6a1cls), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A1cls.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A1cls.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#cor6a1cls) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A1cls.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A1cls.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Cor6A1cls 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -205,7 +205,7 @@
 
 ---
 #### Cor6A2qtcs 
-[**`Results`**](./results.md#cor6a2qtcs), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A2qtcs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A2qtcs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#cor6a2qtcs) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A2qtcs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A2qtcs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Cor6A2qtcs 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -217,7 +217,7 @@
 
 ---
 #### Cor6A3cll 
-[**`Results`**](./results.md#cor6a3cll), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A3cll.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A3cll.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#cor6a3cll) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Cor6A3cll.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Cor6A3cll.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Cor6A3cll 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -229,7 +229,7 @@
 
 ---
 #### csiro97a1 
-[**`Results`**](./results.md#csiro97a1), [**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#csiro97a1) | [**`Participants`**](./participants.md#csiro) | [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** csiro97a1 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
@@ -241,7 +241,7 @@
 
 ---
 #### csiro97a2 
-[**`Results`**](./results.md#csiro97a2), [**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#csiro97a2) | [**`Participants`**](./participants.md#csiro) | [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** csiro97a2 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
@@ -253,7 +253,7 @@
 
 ---
 #### csiro97a3 
-[**`Results`**](./results.md#csiro97a3), [**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#csiro97a3) | [**`Participants`**](./participants.md#csiro) | [**`Proceedings`**](./proceedings.md#csiro-routing-and-ad-hoc-experiments-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.csiro97a3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.csiro97a3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** csiro97a3 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
@@ -265,7 +265,7 @@
 
 ---
 #### DCU97lnt 
-[**`Results`**](./results.md#dcu97lnt), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97lnt.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97lnt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#dcu97lnt) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97lnt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97lnt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** DCU97lnt 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -277,7 +277,7 @@
 
 ---
 #### DCU97lt 
-[**`Results`**](./results.md#dcu97lt), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97lt.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97lt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#dcu97lt) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97lt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97lt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** DCU97lt 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -289,7 +289,7 @@
 
 ---
 #### DCU97snt 
-[**`Results`**](./results.md#dcu97snt), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97snt.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97snt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#dcu97snt) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97snt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97snt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** DCU97snt 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -301,7 +301,7 @@
 
 ---
 #### DCU97vs 
-[**`Results`**](./results.md#dcu97vs), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97vs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97vs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#dcu97vs) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.DCU97vs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.DCU97vs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** DCU97vs 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -313,7 +313,7 @@
 
 ---
 #### fsclt6 
-[**`Results`**](./results.md#fsclt6), [**`Participants`**](./participants.md#fs), [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#fsclt6) | [**`Participants`**](./participants.md#fs) | [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** fsclt6 
 - :fontawesome-solid-user-group: **Participant:** FS 
@@ -325,7 +325,7 @@
 
 ---
 #### fsclt6r 
-[**`Results`**](./results.md#fsclt6r), [**`Participants`**](./participants.md#fs), [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6r.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#fsclt6r) | [**`Participants`**](./participants.md#fs) | [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6r.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** fsclt6r 
 - :fontawesome-solid-user-group: **Participant:** FS 
@@ -337,7 +337,7 @@
 
 ---
 #### fsclt6t 
-[**`Results`**](./results.md#fsclt6t), [**`Participants`**](./participants.md#fs), [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6t.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6t.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#fsclt6t) | [**`Participants`**](./participants.md#fs) | [**`Proceedings`**](./proceedings.md#document-retrieval-using-the-mps-information-server-a-report-on-the-trec-6-experiment) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.fsclt6t.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.fsclt6t.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** fsclt6t 
 - :fontawesome-solid-user-group: **Participant:** FS 
@@ -349,7 +349,7 @@
 
 ---
 #### gerua1 
-[**`Results`**](./results.md#gerua1), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gerua1) | [**`Participants`**](./participants.md#ge) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gerua1 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -361,7 +361,7 @@
 
 ---
 #### gerua2 
-[**`Results`**](./results.md#gerua2), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gerua2) | [**`Participants`**](./participants.md#ge) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gerua2 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -373,7 +373,7 @@
 
 ---
 #### gerua3 
-[**`Results`**](./results.md#gerua3), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gerua3) | [**`Participants`**](./participants.md#ge) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gerua3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gerua3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gerua3 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -385,7 +385,7 @@
 
 ---
 #### glair61 
-[**`Results`**](./results.md#glair61), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair61.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair61.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#glair61) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair61.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair61.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** glair61 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 
@@ -397,7 +397,7 @@
 
 ---
 #### glair62 
-[**`Results`**](./results.md#glair62), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair62.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair62.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#glair62) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair62.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair62.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** glair62 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 
@@ -409,7 +409,7 @@
 
 ---
 #### glair64 
-[**`Results`**](./results.md#glair64), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair64.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair64.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#glair64) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.glair64.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.glair64.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** glair64 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 
@@ -421,7 +421,7 @@
 
 ---
 #### gmu97au1 
-[**`Results`**](./results.md#gmu97au1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97au1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97au1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gmu97au1) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97au1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97au1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gmu97au1 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -433,7 +433,7 @@
 
 ---
 #### gmu97au2 
-[**`Results`**](./results.md#gmu97au2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97au2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97au2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gmu97au2) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97au2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97au2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gmu97au2 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -445,7 +445,7 @@
 
 ---
 #### gmu97ma1 
-[**`Results`**](./results.md#gmu97ma1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97ma1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97ma1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gmu97ma1) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97ma1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97ma1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gmu97ma1 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -457,7 +457,7 @@
 
 ---
 #### gmu97ma2 
-[**`Results`**](./results.md#gmu97ma2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97ma2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97ma2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#gmu97ma2) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#expanding-relevance-feedback-in-the-relational-model) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.gmu97ma2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.gmu97ma2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** gmu97ma2 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -469,7 +469,7 @@
 
 ---
 #### harris1 
-[**`Results`**](./results.md#harris1), [**`Participants`**](./participants.md#harris), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-with-harris-sentinel), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.harris1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.harris1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#harris1) | [**`Participants`**](./participants.md#harris) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-with-harris-sentinel) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.harris1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.harris1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** harris1 
 - :fontawesome-solid-user-group: **Participant:** Harris 
@@ -481,7 +481,7 @@
 
 ---
 #### ibmg97a 
-[**`Results`**](./results.md#ibmg97a), [**`Participants`**](./participants.md#ibm-brown), [**`Proceedings`**](./proceedings.md#the-guru-system-in-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibmg97a.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibmg97a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#ibmg97a) | [**`Participants`**](./participants.md#ibm-brown) | [**`Proceedings`**](./proceedings.md#the-guru-system-in-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibmg97a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibmg97a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** ibmg97a 
 - :fontawesome-solid-user-group: **Participant:** IBM-Brown 
@@ -493,7 +493,7 @@
 
 ---
 #### ibmg97b 
-[**`Results`**](./results.md#ibmg97b), [**`Participants`**](./participants.md#ibm-brown), [**`Proceedings`**](./proceedings.md#the-guru-system-in-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibmg97b.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibmg97b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#ibmg97b) | [**`Participants`**](./participants.md#ibm-brown) | [**`Proceedings`**](./proceedings.md#the-guru-system-in-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibmg97b.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibmg97b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** ibmg97b 
 - :fontawesome-solid-user-group: **Participant:** IBM-Brown 
@@ -505,7 +505,7 @@
 
 ---
 #### ibms97a 
-[**`Results`**](./results.md#ibms97a), [**`Participants`**](./participants.md#ibm-roukos), [**`Proceedings`**](./proceedings.md#trec-6-ad-hoc-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibms97a.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibms97a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#ibms97a) | [**`Participants`**](./participants.md#ibm-roukos) | [**`Proceedings`**](./proceedings.md#trec-6-ad-hoc-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ibms97a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ibms97a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** ibms97a 
 - :fontawesome-solid-user-group: **Participant:** IBM-Roukos 
@@ -517,7 +517,7 @@
 
 ---
 #### INQ401 
-[**`Results`**](./results.md#inq401), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.INQ401.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.INQ401.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#inq401) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.INQ401.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.INQ401.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** INQ401 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -529,7 +529,7 @@
 
 ---
 #### INQ402 
-[**`Results`**](./results.md#inq402), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.INQ402.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.INQ402.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#inq402) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.INQ402.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.INQ402.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** INQ402 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -541,7 +541,7 @@
 
 ---
 #### ispa1 
-[**`Results`**](./results.md#ispa1), [**`Participants`**](./participants.md#unc-n), [**`Proceedings`**](./proceedings.md#context-based-statistical-sub-spaces), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ispa1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ispa1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#ispa1) | [**`Participants`**](./participants.md#unc-n) | [**`Proceedings`**](./proceedings.md#context-based-statistical-sub-spaces) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ispa1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ispa1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** ispa1 
 - :fontawesome-solid-user-group: **Participant:** UNC-N 
@@ -553,7 +553,7 @@
 
 ---
 #### ispa2 
-[**`Results`**](./results.md#ispa2), [**`Participants`**](./participants.md#unc-n), [**`Proceedings`**](./proceedings.md#context-based-statistical-sub-spaces), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ispa2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ispa2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#ispa2) | [**`Participants`**](./participants.md#unc-n) | [**`Proceedings`**](./proceedings.md#context-based-statistical-sub-spaces) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.ispa2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.ispa2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** ispa2 
 - :fontawesome-solid-user-group: **Participant:** UNC-N 
@@ -565,7 +565,7 @@
 
 ---
 #### iss97man 
-[**`Results`**](./results.md#iss97man), [**`Participants`**](./participants.md#iss), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97man.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97man.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#iss97man) | [**`Participants`**](./participants.md#iss) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97man.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97man.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** iss97man 
 - :fontawesome-solid-user-group: **Participant:** ISS 
@@ -577,7 +577,7 @@
 
 ---
 #### iss97s 
-[**`Results`**](./results.md#iss97s), [**`Participants`**](./participants.md#iss), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97s.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#iss97s) | [**`Participants`**](./participants.md#iss) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97s.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97s.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** iss97s 
 - :fontawesome-solid-user-group: **Participant:** ISS 
@@ -589,7 +589,7 @@
 
 ---
 #### iss97vs 
-[**`Results`**](./results.md#iss97vs), [**`Participants`**](./participants.md#iss), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97vs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97vs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#iss97vs) | [**`Participants`**](./participants.md#iss) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.iss97vs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.iss97vs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** iss97vs 
 - :fontawesome-solid-user-group: **Participant:** ISS 
@@ -601,7 +601,7 @@
 
 ---
 #### jalbse 
-[**`Results`**](./results.md#jalbse), [**`Participants`**](./participants.md#mit), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.jalbse.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.jalbse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#jalbse) | [**`Participants`**](./participants.md#mit) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.jalbse.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.jalbse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** jalbse 
 - :fontawesome-solid-user-group: **Participant:** MIT 
@@ -613,7 +613,7 @@
 
 ---
 #### jalbse0 
-[**`Results`**](./results.md#jalbse0), [**`Participants`**](./participants.md#mit), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.jalbse0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.jalbse0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#jalbse0) | [**`Participants`**](./participants.md#mit) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.jalbse0.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.jalbse0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** jalbse0 
 - :fontawesome-solid-user-group: **Participant:** MIT 
@@ -625,7 +625,7 @@
 
 ---
 #### jhuapln 
-[**`Results`**](./results.md#jhuapln), [**`Participants`**](./participants.md#jhu), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.jhuapln.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.jhuapln.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#jhuapln) | [**`Participants`**](./participants.md#jhu) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.jhuapln.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.jhuapln.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** jhuapln 
 - :fontawesome-solid-user-group: **Participant:** JHU 
@@ -637,7 +637,7 @@
 
 ---
 #### jhuapls 
-[**`Results`**](./results.md#jhuapls), [**`Participants`**](./participants.md#jhu), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.jhuapls.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.jhuapls.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#jhuapls) | [**`Participants`**](./participants.md#jhu) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.jhuapls.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.jhuapls.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** jhuapls 
 - :fontawesome-solid-user-group: **Participant:** JHU 
@@ -649,7 +649,7 @@
 
 ---
 #### LNaShort 
-[**`Results`**](./results.md#lnashort), [**`Participants`**](./participants.md#lexis-nexis), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNaShort.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNaShort.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#lnashort) | [**`Participants`**](./participants.md#lexis-nexis) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNaShort.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNaShort.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** LNaShort 
 - :fontawesome-solid-user-group: **Participant:** Lexis-Nexis 
@@ -661,7 +661,7 @@
 
 ---
 #### LNaVryShort 
-[**`Results`**](./results.md#lnavryshort), [**`Participants`**](./participants.md#lexis-nexis), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNaVryShort.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNaVryShort.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#lnavryshort) | [**`Participants`**](./participants.md#lexis-nexis) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNaVryShort.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNaVryShort.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** LNaVryShort 
 - :fontawesome-solid-user-group: **Participant:** Lexis-Nexis 
@@ -673,7 +673,7 @@
 
 ---
 #### LNmShort 
-[**`Results`**](./results.md#lnmshort), [**`Participants`**](./participants.md#lexis-nexis), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNmShort.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNmShort.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#lnmshort) | [**`Participants`**](./participants.md#lexis-nexis) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.LNmShort.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.LNmShort.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** LNmShort 
 - :fontawesome-solid-user-group: **Participant:** Lexis-Nexis 
@@ -685,7 +685,7 @@
 
 ---
 #### mds601 
-[**`Results`**](./results.md#mds601), [**`Participants`**](./participants.md#mds), [**`Proceedings`**](./proceedings.md#mds-trec6-report), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds601.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds601.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mds601) | [**`Participants`**](./participants.md#mds) | [**`Proceedings`**](./proceedings.md#mds-trec6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds601.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds601.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** mds601 
 - :fontawesome-solid-user-group: **Participant:** MDS 
@@ -697,7 +697,7 @@
 
 ---
 #### mds602 
-[**`Results`**](./results.md#mds602), [**`Participants`**](./participants.md#mds), [**`Proceedings`**](./proceedings.md#mds-trec6-report), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds602.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds602.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mds602) | [**`Participants`**](./participants.md#mds) | [**`Proceedings`**](./proceedings.md#mds-trec6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds602.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds602.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** mds602 
 - :fontawesome-solid-user-group: **Participant:** MDS 
@@ -709,7 +709,7 @@
 
 ---
 #### mds603 
-[**`Results`**](./results.md#mds603), [**`Participants`**](./participants.md#mds), [**`Proceedings`**](./proceedings.md#mds-trec6-report), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds603.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds603.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mds603) | [**`Participants`**](./participants.md#mds) | [**`Proceedings`**](./proceedings.md#mds-trec6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.mds603.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.mds603.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** mds603 
 - :fontawesome-solid-user-group: **Participant:** MDS 
@@ -721,7 +721,7 @@
 
 ---
 #### Mercure1 
-[**`Results`**](./results.md#mercure1), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mercure1) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#mercure-at-trec6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Mercure1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -733,7 +733,7 @@
 
 ---
 #### Mercure2 
-[**`Results`**](./results.md#mercure2), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mercure2) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#mercure-at-trec6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Mercure2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -745,7 +745,7 @@
 
 ---
 #### Mercure3 
-[**`Results`**](./results.md#mercure3), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#mercure3) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#mercure-at-trec6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.Mercure3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.Mercure3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** Mercure3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -757,7 +757,7 @@
 
 ---
 #### nmsu1 
-[**`Results`**](./results.md#nmsu1), [**`Participants`**](./participants.md#nmsu-c), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nmsu1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nmsu1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#nmsu1) | [**`Participants`**](./participants.md#nmsu-c) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nmsu1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nmsu1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** nmsu1 
 - :fontawesome-solid-user-group: **Participant:** NMSU-C 
@@ -769,7 +769,7 @@
 
 ---
 #### nmsu2 
-[**`Results`**](./results.md#nmsu2), [**`Participants`**](./participants.md#nmsu-c), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nmsu2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nmsu2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#nmsu2) | [**`Participants`**](./participants.md#nmsu-c) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nmsu2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nmsu2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** nmsu2 
 - :fontawesome-solid-user-group: **Participant:** NMSU-C 
@@ -781,7 +781,7 @@
 
 ---
 #### nsasg1 
-[**`Results`**](./results.md#nsasg1), [**`Participants`**](./participants.md#nsa), [**`Proceedings`**](./proceedings.md#text-retrieval-via-semantic-forests), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nsasg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nsasg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#nsasg1) | [**`Participants`**](./participants.md#nsa) | [**`Proceedings`**](./proceedings.md#text-retrieval-via-semantic-forests) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nsasg1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nsasg1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** nsasg1 
 - :fontawesome-solid-user-group: **Participant:** NSA 
@@ -793,7 +793,7 @@
 
 ---
 #### nsasg2 
-[**`Results`**](./results.md#nsasg2), [**`Participants`**](./participants.md#nsa), [**`Proceedings`**](./proceedings.md#text-retrieval-via-semantic-forests), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nsasg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nsasg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#nsasg2) | [**`Participants`**](./participants.md#nsa) | [**`Proceedings`**](./proceedings.md#text-retrieval-via-semantic-forests) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.nsasg2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.nsasg2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** nsasg2 
 - :fontawesome-solid-user-group: **Participant:** NSA 
@@ -805,7 +805,7 @@
 
 ---
 #### pirc7Aa 
-[**`Results`**](./results.md#pirc7aa), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7Aa.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7Aa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#pirc7aa) | [**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7Aa.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7Aa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** pirc7Aa 
 - :fontawesome-solid-user-group: **Participant:** CUNY 
@@ -817,7 +817,7 @@
 
 ---
 #### pirc7Ad 
-[**`Results`**](./results.md#pirc7ad), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7Ad.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7Ad.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#pirc7ad) | [**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7Ad.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7Ad.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** pirc7Ad 
 - :fontawesome-solid-user-group: **Participant:** CUNY 
@@ -829,7 +829,7 @@
 
 ---
 #### pirc7At 
-[**`Results`**](./results.md#pirc7at), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7At.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7At.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#pirc7at) | [**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-6-english-and-chinese-retrieval-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.pirc7At.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.pirc7At.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** pirc7At 
 - :fontawesome-solid-user-group: **Participant:** CUNY 
@@ -841,7 +841,7 @@
 
 ---
 #### umcpa197 
-[**`Results`**](./results.md#umcpa197), [**`Participants`**](./participants.md#umd), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.umcpa197.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.umcpa197.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#umcpa197) | [**`Participants`**](./participants.md#umd) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.umcpa197.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.umcpa197.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** umcpa197 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -853,7 +853,7 @@
 
 ---
 #### unc6aal 
-[**`Results`**](./results.md#unc6aal), [**`Participants`**](./participants.md#unc-s), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6aal.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6aal.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#unc6aal) | [**`Participants`**](./participants.md#unc-s) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6aal.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6aal.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** unc6aal 
 - :fontawesome-solid-user-group: **Participant:** UNC-S 
@@ -865,7 +865,7 @@
 
 ---
 #### unc6aas 
-[**`Results`**](./results.md#unc6aas), [**`Participants`**](./participants.md#unc-s), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6aas.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6aas.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#unc6aas) | [**`Participants`**](./participants.md#unc-s) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6aas.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6aas.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** unc6aas 
 - :fontawesome-solid-user-group: **Participant:** UNC-S 
@@ -877,7 +877,7 @@
 
 ---
 #### unc6ma 
-[**`Results`**](./results.md#unc6ma), [**`Participants`**](./participants.md#unc-s), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6ma.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6ma.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#unc6ma) | [**`Participants`**](./participants.md#unc-s) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryB/input.unc6ma.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryB/summary.unc6ma.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** unc6ma 
 - :fontawesome-solid-user-group: **Participant:** UNC-S 
@@ -889,7 +889,7 @@
 
 ---
 #### uwmt6a0 
-[**`Results`**](./results.md#uwmt6a0), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a0.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#uwmt6a0) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a0.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** uwmt6a0 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -901,7 +901,7 @@
 
 ---
 #### uwmt6a1 
-[**`Results`**](./results.md#uwmt6a1), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#uwmt6a1) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** uwmt6a1 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -913,7 +913,7 @@
 
 ---
 #### uwmt6a2 
-[**`Results`**](./results.md#uwmt6a2), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#uwmt6a2) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#passage-based-refinement-multitext-experiements-for-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.uwmt6a2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.uwmt6a2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** uwmt6a2 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -925,7 +925,7 @@
 
 ---
 #### VrtyAH6a 
-[**`Results`**](./results.md#vrtyah6a), [**`Participants`**](./participants.md#verity), [**`Proceedings`**](./proceedings.md#verity-at-trec-6-out-of-the-box-and-beyond), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.VrtyAH6a.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.VrtyAH6a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#vrtyah6a) | [**`Participants`**](./participants.md#verity) | [**`Proceedings`**](./proceedings.md#verity-at-trec-6-out-of-the-box-and-beyond) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.VrtyAH6a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.VrtyAH6a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** VrtyAH6a 
 - :fontawesome-solid-user-group: **Participant:** Verity 
@@ -937,7 +937,7 @@
 
 ---
 #### VrtyAH6b 
-[**`Results`**](./results.md#vrtyah6b), [**`Participants`**](./participants.md#verity), [**`Proceedings`**](./proceedings.md#verity-at-trec-6-out-of-the-box-and-beyond), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.VrtyAH6b.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.VrtyAH6b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
+[**`Results`**](./results.md#vrtyah6b) | [**`Participants`**](./participants.md#verity) | [**`Proceedings`**](./proceedings.md#verity-at-trec-6-out-of-the-box-and-beyond) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/adhoc/CategoryA/input.VrtyAH6b.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/adhoc/CategoryA/summary.VrtyAH6b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/adhoc.runs.pdf.gz) 
 
 - :material-rename: **Run ID:** VrtyAH6b 
 - :fontawesome-solid-user-group: **Participant:** Verity 

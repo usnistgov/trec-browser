@@ -1,6 +1,6 @@
 # Overview - Common Core 2018
 
-[`Proceedings`](./proceedings.md), [`Data`](./data.md), [`Results`](./results.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Data`](./data.md) | [`Results`](./results.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

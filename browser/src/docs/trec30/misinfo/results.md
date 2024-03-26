@@ -6,7 +6,7 @@ search:
 # Results - Health Misinformation 2021 
 
 #### watrrfall 
-[**`Metadata`**](./runs.md#watrrfall), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfall.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfall), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfall.pdf)
+[**`Metadata`**](./runs.md#watrrfall) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfall.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfall)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfall.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watrrfall	graded.usefulness	ndcg	all	0.3858
@@ -21,7 +21,7 @@ search:
 	```
 ---
 #### watrrfg 
-[**`Metadata`**](./runs.md#watrrfg), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfg.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfg), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfg.pdf)
+[**`Metadata`**](./runs.md#watrrfg) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfg.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfg)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfg.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watrrfg	graded.usefulness	ndcg	all	0.3804
@@ -36,7 +36,7 @@ search:
 	```
 ---
 #### watrrfnp 
-[**`Metadata`**](./runs.md#watrrfnp), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfnp.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfnp), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfnp.pdf)
+[**`Metadata`**](./runs.md#watrrfnp) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfnp.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfnp)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfnp.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watrrfnp	graded.usefulness	ndcg	all	0.3499
@@ -51,7 +51,7 @@ search:
 	```
 ---
 #### watbm25 
-[**`Metadata`**](./runs.md#watbm25), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watbm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watbm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watbm25.pdf)
+[**`Metadata`**](./runs.md#watbm25) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watbm25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watbm25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watbm25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watbm25	graded.usefulness	ndcg	all	0.4913
@@ -66,7 +66,7 @@ search:
 	```
 ---
 #### watbm25p 
-[**`Metadata`**](./runs.md#watbm25p), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watbm25p.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watbm25p), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watbm25p.pdf)
+[**`Metadata`**](./runs.md#watbm25p) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watbm25p.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watbm25p)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watbm25p.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watbm25p	graded.usefulness	ndcg	all	0.3695
@@ -81,7 +81,7 @@ search:
 	```
 ---
 #### watgoog 
-[**`Metadata`**](./runs.md#watgoog), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watgoog.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watgoog), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watgoog.pdf)
+[**`Metadata`**](./runs.md#watgoog) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watgoog.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watgoog)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watgoog.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watgoog	graded.usefulness	ndcg	all	0.0689
@@ -96,7 +96,7 @@ search:
 	```
 ---
 #### watgoogp 
-[**`Metadata`**](./runs.md#watgoogp), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watgoogp.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watgoogp), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watgoogp.pdf)
+[**`Metadata`**](./runs.md#watgoogp) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watgoogp.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watgoogp)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watgoogp.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watgoogp	graded.usefulness	ndcg	all	0.1593
@@ -111,7 +111,7 @@ search:
 	```
 ---
 #### watmed 
-[**`Metadata`**](./runs.md#watmed), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watmed.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watmed), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watmed.pdf)
+[**`Metadata`**](./runs.md#watmed) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watmed.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watmed)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watmed.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watmed	graded.usefulness	ndcg	all	0.0772
@@ -126,7 +126,7 @@ search:
 	```
 ---
 #### watrrfm 
-[**`Metadata`**](./runs.md#watrrfm), [**`Participants`**](./participants.md#waterloo_cormack), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfm.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfm), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfm.pdf)
+[**`Metadata`**](./runs.md#watrrfm) | [**`Participants`**](./participants.md#waterloo_cormack)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.watrrfm.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.watrrfm)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/watrrfm.pdf)
 ??? example "summary (trec_eval)"
 	```
 	watrrfm	graded.usefulness	ndcg	all	0.3997
@@ -141,7 +141,7 @@ search:
 	```
 ---
 #### citius.r1 
-[**`Metadata`**](./runs.md#citiusr1), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r1.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r1.pdf)
+[**`Metadata`**](./runs.md#citiusr1) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r1	graded.usefulness	ndcg	all	0.6173
@@ -156,7 +156,7 @@ search:
 	```
 ---
 #### citius.r2 
-[**`Metadata`**](./runs.md#citiusr2), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r2.pdf)
+[**`Metadata`**](./runs.md#citiusr2) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r2	graded.usefulness	ndcg	all	0.6143
@@ -171,7 +171,7 @@ search:
 	```
 ---
 #### citius.r3 
-[**`Metadata`**](./runs.md#citiusr3), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r3.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r3), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r3.pdf)
+[**`Metadata`**](./runs.md#citiusr3) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r3	graded.usefulness	ndcg	all	0.6204
@@ -186,7 +186,7 @@ search:
 	```
 ---
 #### citius.r4 
-[**`Metadata`**](./runs.md#citiusr4), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r4.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r4), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r4.pdf)
+[**`Metadata`**](./runs.md#citiusr4) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r4.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r4)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r4	graded.usefulness	ndcg	all	0.6153
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### citius.r5 
-[**`Metadata`**](./runs.md#citiusr5), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r5.pdf)
+[**`Metadata`**](./runs.md#citiusr5) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r5	graded.usefulness	ndcg	all	0.6204
@@ -216,7 +216,7 @@ search:
 	```
 ---
 #### citius.r6 
-[**`Metadata`**](./runs.md#citiusr6), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r6.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r6), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r6.pdf)
+[**`Metadata`**](./runs.md#citiusr6) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r6.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r6)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r6.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r6	graded.usefulness	ndcg	all	0.6137
@@ -231,7 +231,7 @@ search:
 	```
 ---
 #### citius.r9 
-[**`Metadata`**](./runs.md#citiusr9), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r9.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r9), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r9.pdf)
+[**`Metadata`**](./runs.md#citiusr9) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r9.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r9)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r9.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r9	graded.usefulness	ndcg	all	0.6148
@@ -246,7 +246,7 @@ search:
 	```
 ---
 #### citius.r10 
-[**`Metadata`**](./runs.md#citiusr10), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r10.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r10), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r10.pdf)
+[**`Metadata`**](./runs.md#citiusr10) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r10.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r10)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r10	graded.usefulness	ndcg	all	0.6164
@@ -261,7 +261,7 @@ search:
 	```
 ---
 #### citius.r7 
-[**`Metadata`**](./runs.md#citiusr7), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r7.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r7), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r7.pdf)
+[**`Metadata`**](./runs.md#citiusr7) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r7.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r7)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r7.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r7	graded.usefulness	ndcg	all	0.5980
@@ -276,7 +276,7 @@ search:
 	```
 ---
 #### citius.r8 
-[**`Metadata`**](./runs.md#citiusr8), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r8.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r8), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r8.pdf)
+[**`Metadata`**](./runs.md#citiusr8) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.citius.r8.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.citius.r8)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/citius.r8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	citius.r8	graded.usefulness	ndcg	all	0.6108
@@ -291,7 +291,7 @@ search:
 	```
 ---
 #### upv_bm25 
-[**`Metadata`**](./runs.md#upv_bm25), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_bm25.pdf)
+[**`Metadata`**](./runs.md#upv_bm25) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_bm25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_bm25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_bm25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_bm25	graded.usefulness	ndcg	all	0.5285
@@ -306,7 +306,7 @@ search:
 	```
 ---
 #### upv_fuse_2 
-[**`Metadata`**](./runs.md#upv_fuse_2), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_2.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_2) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_2	graded.usefulness	ndcg	all	0.5316
@@ -321,7 +321,7 @@ search:
 	```
 ---
 #### upv_fuse_3 
-[**`Metadata`**](./runs.md#upv_fuse_3), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_3.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_3.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_3) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_3	graded.usefulness	ndcg	all	0.5127
@@ -336,7 +336,7 @@ search:
 	```
 ---
 #### upv_fuse_4 
-[**`Metadata`**](./runs.md#upv_fuse_4), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_4.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_4) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_4.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_4)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_4	graded.usefulness	ndcg	all	0.5152
@@ -351,7 +351,7 @@ search:
 	```
 ---
 #### upv_fuse_5 
-[**`Metadata`**](./runs.md#upv_fuse_5), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_5.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_5) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_5	graded.usefulness	ndcg	all	0.5038
@@ -366,7 +366,7 @@ search:
 	```
 ---
 #### upv_fuse_6 
-[**`Metadata`**](./runs.md#upv_fuse_6), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_6.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_6), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_6.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_6) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_6.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_6)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_6.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_6	graded.usefulness	ndcg	all	0.5060
@@ -381,7 +381,7 @@ search:
 	```
 ---
 #### upv_fuse_7 
-[**`Metadata`**](./runs.md#upv_fuse_7), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_7.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_7), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_7.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_7) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_7.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_7)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_7.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_7	graded.usefulness	ndcg	all	0.5204
@@ -396,7 +396,7 @@ search:
 	```
 ---
 #### upv_fuse_8 
-[**`Metadata`**](./runs.md#upv_fuse_8), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_8.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_8), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_8.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_8) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_8.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_8)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_8	graded.usefulness	ndcg	all	0.5202
@@ -411,7 +411,7 @@ search:
 	```
 ---
 #### upv_fuse_9 
-[**`Metadata`**](./runs.md#upv_fuse_9), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_9.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_9), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_9.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_9) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_9.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_9)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_9.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_9	graded.usefulness	ndcg	all	0.5185
@@ -426,7 +426,7 @@ search:
 	```
 ---
 #### upv_fuse_10 
-[**`Metadata`**](./runs.md#upv_fuse_10), [**`Participants`**](./participants.md#upv), [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_10.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_10), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_10.pdf)
+[**`Metadata`**](./runs.md#upv_fuse_10) | [**`Participants`**](./participants.md#upv) | [**`Proceedings`**](./proceedings.md#upv-at-trec-health-misinformation-track-2021-ranking-with-sbert-and-quality-estimators)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.upv_fuse_10.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.upv_fuse_10)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/upv_fuse_10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	upv_fuse_10	graded.usefulness	ndcg	all	0.5195
@@ -441,7 +441,7 @@ search:
 	```
 ---
 #### WatSAM-BM25 
-[**`Metadata`**](./runs.md#watsam-bm25), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAM-BM25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAM-BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAM-BM25.pdf)
+[**`Metadata`**](./runs.md#watsam-bm25) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAM-BM25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAM-BM25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAM-BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSAM-BM25	graded.usefulness	ndcg	all	0.2121
@@ -456,7 +456,7 @@ search:
 	```
 ---
 #### WatSMM-CAL 
-[**`Metadata`**](./runs.md#watsmm-cal), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CAL.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CAL), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CAL.pdf)
+[**`Metadata`**](./runs.md#watsmm-cal) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CAL.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CAL)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CAL.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-CAL	graded.usefulness	ndcg	all	0.2229
@@ -471,7 +471,7 @@ search:
 	```
 ---
 #### WatSMC-CAL 
-[**`Metadata`**](./runs.md#watsmc-cal), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CAL.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CAL), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CAL.pdf)
+[**`Metadata`**](./runs.md#watsmc-cal) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CAL.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CAL)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CAL.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-CAL	graded.usefulness	ndcg	all	0.5925
@@ -486,7 +486,7 @@ search:
 	```
 ---
 #### WatSMM-CALHC 
-[**`Metadata`**](./runs.md#watsmm-calhc), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALHC.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALHC), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALHC.pdf)
+[**`Metadata`**](./runs.md#watsmm-calhc) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALHC.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALHC)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALHC.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-CALHC	graded.usefulness	ndcg	all	0.2241
@@ -501,7 +501,7 @@ search:
 	```
 ---
 #### WatSMM-CALPR 
-[**`Metadata`**](./runs.md#watsmm-calpr), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALPR), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALPR.pdf)
+[**`Metadata`**](./runs.md#watsmm-calpr) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALPR.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALPR)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALPR.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-CALPR	graded.usefulness	ndcg	all	0.2223
@@ -516,7 +516,7 @@ search:
 	```
 ---
 #### WatSMM-Fused 
-[**`Metadata`**](./runs.md#watsmm-fused), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-Fused.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-Fused), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-Fused.pdf)
+[**`Metadata`**](./runs.md#watsmm-fused) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-Fused.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-Fused)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-Fused.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-Fused	graded.usefulness	ndcg	all	0.2242
@@ -531,7 +531,7 @@ search:
 	```
 ---
 #### WatSMM-CALQA100 
-[**`Metadata`**](./runs.md#watsmm-calqa100), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALQA100.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALQA100), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALQA100.pdf)
+[**`Metadata`**](./runs.md#watsmm-calqa100) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALQA100.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALQA100)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALQA100.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-CALQA100	graded.usefulness	ndcg	all	0.2210
@@ -546,7 +546,7 @@ search:
 	```
 ---
 #### WatSMM-CALQAAll 
-[**`Metadata`**](./runs.md#watsmm-calqaall), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALQAAll.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALQAAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALQAAll.pdf)
+[**`Metadata`**](./runs.md#watsmm-calqaall) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMM-CALQAAll.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMM-CALQAAll)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMM-CALQAAll.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMM-CALQAAll	graded.usefulness	ndcg	all	0.2087
@@ -561,7 +561,7 @@ search:
 	```
 ---
 #### WatSMC-CALQA100 
-[**`Metadata`**](./runs.md#watsmc-calqa100), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQA100.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQA100), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQA100.pdf)
+[**`Metadata`**](./runs.md#watsmc-calqa100) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQA100.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQA100)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQA100.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-CALQA100	graded.usefulness	ndcg	all	0.6055
@@ -576,7 +576,7 @@ search:
 	```
 ---
 #### WatSMC-CALQAAll 
-[**`Metadata`**](./runs.md#watsmc-calqaall), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAAll.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAAll.pdf)
+[**`Metadata`**](./runs.md#watsmc-calqaall) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAAll.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAAll)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAAll.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-CALQAAll	graded.usefulness	ndcg	all	0.5921
@@ -591,7 +591,7 @@ search:
 	```
 ---
 #### WatSMC-CALQAHC1 
-[**`Metadata`**](./runs.md#watsmc-calqahc1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAHC1.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAHC1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAHC1.pdf)
+[**`Metadata`**](./runs.md#watsmc-calqahc1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAHC1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAHC1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAHC1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-CALQAHC1	graded.usefulness	ndcg	all	0.5885
@@ -606,7 +606,7 @@ search:
 	```
 ---
 #### WatSMC-CALQAHC2 
-[**`Metadata`**](./runs.md#watsmc-calqahc2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAHC2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAHC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAHC2.pdf)
+[**`Metadata`**](./runs.md#watsmc-calqahc2) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-CALQAHC2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-CALQAHC2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-CALQAHC2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-CALQAHC2	graded.usefulness	ndcg	all	0.5626
@@ -621,7 +621,7 @@ search:
 	```
 ---
 #### WatSMC-Correct 
-[**`Metadata`**](./runs.md#watsmc-correct), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-Correct.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-Correct), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-Correct.pdf)
+[**`Metadata`**](./runs.md#watsmc-correct) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMC-Correct.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMC-Correct)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMC-Correct.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMC-Correct	graded.usefulness	ndcg	all	0.4928
@@ -636,7 +636,7 @@ search:
 	```
 ---
 #### baselineBM25 
-[**`Metadata`**](./runs.md#baselinebm25), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.baselineBM25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.baselineBM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/baselineBM25.pdf)
+[**`Metadata`**](./runs.md#baselinebm25) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.baselineBM25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.baselineBM25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/baselineBM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	baselineBM25	graded.usefulness	ndcg	all	0.5815
@@ -651,7 +651,7 @@ search:
 	```
 ---
 #### WatSAE-BM25 
-[**`Metadata`**](./runs.md#watsae-bm25), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25.pdf)
+[**`Metadata`**](./runs.md#watsae-bm25) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSAE-BM25	graded.usefulness	ndcg	all	0.2430
@@ -666,7 +666,7 @@ search:
 	```
 ---
 #### bow_sup_cred 
-[**`Metadata`**](./runs.md#bow_sup_cred), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bow_sup_cred.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bow_sup_cred), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bow_sup_cred.pdf)
+[**`Metadata`**](./runs.md#bow_sup_cred) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bow_sup_cred.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bow_sup_cred)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bow_sup_cred.pdf)
 ??? example "summary (trec_eval)"
 	```
 	bow_sup_cred	graded.usefulness	ndcg	all	0.4773
@@ -681,7 +681,7 @@ search:
 	```
 ---
 #### WatSAE-BM25RM3 
-[**`Metadata`**](./runs.md#watsae-bm25rm3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25RM3.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25RM3), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25RM3.pdf)
+[**`Metadata`**](./runs.md#watsae-bm25rm3) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25RM3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25RM3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25RM3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSAE-BM25RM3	graded.usefulness	ndcg	all	0.2225
@@ -696,7 +696,7 @@ search:
 	```
 ---
 #### WatSAE-BM25-RR 
-[**`Metadata`**](./runs.md#watsae-bm25-rr), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25-RR.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25-RR), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25-RR.pdf)
+[**`Metadata`**](./runs.md#watsae-bm25-rr) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSAE-BM25-RR.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSAE-BM25-RR)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSAE-BM25-RR.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSAE-BM25-RR	graded.usefulness	ndcg	all	0.2306
@@ -711,7 +711,7 @@ search:
 	```
 ---
 #### mlm_sup_cred 
-[**`Metadata`**](./runs.md#mlm_sup_cred), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mlm_sup_cred.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mlm_sup_cred), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mlm_sup_cred.pdf)
+[**`Metadata`**](./runs.md#mlm_sup_cred) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mlm_sup_cred.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mlm_sup_cred)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mlm_sup_cred.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mlm_sup_cred	graded.usefulness	ndcg	all	0.3693
@@ -726,7 +726,7 @@ search:
 	```
 ---
 #### lin_use_sup_rf 
-[**`Metadata`**](./runs.md#lin_use_sup_rf), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.lin_use_sup_rf.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.lin_use_sup_rf), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/lin_use_sup_rf.pdf)
+[**`Metadata`**](./runs.md#lin_use_sup_rf) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.lin_use_sup_rf.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.lin_use_sup_rf)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/lin_use_sup_rf.pdf)
 ??? example "summary (trec_eval)"
 	```
 	lin_use_sup_rf	graded.usefulness	ndcg	all	0.4102
@@ -741,7 +741,7 @@ search:
 	```
 ---
 #### all_use_sup_cre 
-[**`Metadata`**](./runs.md#all_use_sup_cre), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.all_use_sup_cre.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.all_use_sup_cre), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/all_use_sup_cre.pdf)
+[**`Metadata`**](./runs.md#all_use_sup_cre) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.all_use_sup_cre.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.all_use_sup_cre)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/all_use_sup_cre.pdf)
 ??? example "summary (trec_eval)"
 	```
 	all_use_sup_cre	graded.usefulness	ndcg	all	0.5120
@@ -756,7 +756,7 @@ search:
 	```
 ---
 #### use_sup_cred 
-[**`Metadata`**](./runs.md#use_sup_cred), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.use_sup_cred.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.use_sup_cred), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/use_sup_cred.pdf)
+[**`Metadata`**](./runs.md#use_sup_cred) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.use_sup_cred.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.use_sup_cred)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/use_sup_cred.pdf)
 ??? example "summary (trec_eval)"
 	```
 	use_sup_cred	graded.usefulness	ndcg	all	0.4572
@@ -771,7 +771,7 @@ search:
 	```
 ---
 #### use_rob_cred 
-[**`Metadata`**](./runs.md#use_rob_cred), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.use_rob_cred.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.use_rob_cred), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/use_rob_cred.pdf)
+[**`Metadata`**](./runs.md#use_rob_cred) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.use_rob_cred.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.use_rob_cred)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/use_rob_cred.pdf)
 ??? example "summary (trec_eval)"
 	```
 	use_rob_cred	graded.usefulness	ndcg	all	0.4656
@@ -786,7 +786,7 @@ search:
 	```
 ---
 #### bm25_rob_rf 
-[**`Metadata`**](./runs.md#bm25_rob_rf), [**`Participants`**](./participants.md#digilab), [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bm25_rob_rf.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bm25_rob_rf), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bm25_rob_rf.pdf)
+[**`Metadata`**](./runs.md#bm25_rob_rf) | [**`Participants`**](./participants.md#digilab) | [**`Proceedings`**](./proceedings.md#ds4dh-at-trec-health-misinformation-2021-multi-dimensional-ranking-models-with-transfer-learning-and-rank-fusion)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bm25_rob_rf.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bm25_rob_rf)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bm25_rob_rf.pdf)
 ??? example "summary (trec_eval)"
 	```
 	bm25_rob_rf	graded.usefulness	ndcg	all	0.4666
@@ -801,7 +801,7 @@ search:
 	```
 ---
 #### webis-bm25 
-[**`Metadata`**](./runs.md#webis-bm25), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25.pdf)
+[**`Metadata`**](./runs.md#webis-bm25) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-bm25	graded.usefulness	ndcg	all	0.5809
@@ -816,7 +816,7 @@ search:
 	```
 ---
 #### webis-t5 
-[**`Metadata`**](./runs.md#webis-t5), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5.pdf)
+[**`Metadata`**](./runs.md#webis-t5) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-t5	graded.usefulness	ndcg	all	0.3400
@@ -831,7 +831,7 @@ search:
 	```
 ---
 #### webis-bm25-ax1 
-[**`Metadata`**](./runs.md#webis-bm25-ax1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25-ax1.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25-ax1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25-ax1.pdf)
+[**`Metadata`**](./runs.md#webis-bm25-ax1) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25-ax1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25-ax1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25-ax1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-bm25-ax1	graded.usefulness	ndcg	all	0.5807
@@ -846,7 +846,7 @@ search:
 	```
 ---
 #### webis-bm25-ax3 
-[**`Metadata`**](./runs.md#webis-bm25-ax3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25-ax3.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25-ax3), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25-ax3.pdf)
+[**`Metadata`**](./runs.md#webis-bm25-ax3) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-bm25-ax3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-bm25-ax3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-bm25-ax3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-bm25-ax3	graded.usefulness	ndcg	all	0.5810
@@ -861,7 +861,7 @@ search:
 	```
 ---
 #### webis-t5-ax1 
-[**`Metadata`**](./runs.md#webis-t5-ax1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5-ax1.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5-ax1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5-ax1.pdf)
+[**`Metadata`**](./runs.md#webis-t5-ax1) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5-ax1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5-ax1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5-ax1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-t5-ax1	graded.usefulness	ndcg	all	0.3407
@@ -876,7 +876,7 @@ search:
 	```
 ---
 #### webis-t5-ax3 
-[**`Metadata`**](./runs.md#webis-t5-ax3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5-ax3.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5-ax3), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5-ax3.pdf)
+[**`Metadata`**](./runs.md#webis-t5-ax3) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.webis-t5-ax3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.webis-t5-ax3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/webis-t5-ax3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	webis-t5-ax3	graded.usefulness	ndcg	all	0.3410
@@ -891,7 +891,7 @@ search:
 	```
 ---
 #### WatSMT-SD-S1 
-[**`Metadata`**](./runs.md#watsmt-sd-s1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMT-SD-S1.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMT-SD-S1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMT-SD-S1.pdf)
+[**`Metadata`**](./runs.md#watsmt-sd-s1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMT-SD-S1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMT-SD-S1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMT-SD-S1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMT-SD-S1	graded.usefulness	ndcg	all	0.4236
@@ -906,7 +906,7 @@ search:
 	```
 ---
 #### WatSMT-SD-S2 
-[**`Metadata`**](./runs.md#watsmt-sd-s2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMT-SD-S2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMT-SD-S2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMT-SD-S2.pdf)
+[**`Metadata`**](./runs.md#watsmt-sd-s2) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2021-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.WatSMT-SD-S2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.WatSMT-SD-S2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/WatSMT-SD-S2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	WatSMT-SD-S2	graded.usefulness	ndcg	all	0.4229
@@ -921,7 +921,7 @@ search:
 	```
 ---
 #### bm25 
-[**`Metadata`**](./runs.md#bm25), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bm25.pdf)
+[**`Metadata`**](./runs.md#bm25) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.bm25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.bm25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/bm25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	bm25	graded.usefulness	ndcg	all	0.5989
@@ -936,7 +936,7 @@ search:
 	```
 ---
 #### mt5 
-[**`Metadata`**](./runs.md#mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mt5.pdf)
+[**`Metadata`**](./runs.md#mt5) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mt5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mt5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mt5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mt5	graded.usefulness	ndcg	all	0.6344
@@ -951,7 +951,7 @@ search:
 	```
 ---
 #### vera_mdt5_0.95 
-[**`Metadata`**](./runs.md#vera_mdt5_095), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mdt5_0.95.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mdt5_0.95), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mdt5_0.95.pdf)
+[**`Metadata`**](./runs.md#vera_mdt5_095) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mdt5_0.95.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mdt5_0.95)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mdt5_0.95.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vera_mdt5_0.95	graded.usefulness	ndcg	all	0.6309
@@ -966,7 +966,7 @@ search:
 	```
 ---
 #### mdt5_r 
-[**`Metadata`**](./runs.md#mdt5_r), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mdt5_r.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mdt5_r), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mdt5_r.pdf)
+[**`Metadata`**](./runs.md#mdt5_r) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mdt5_r.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mdt5_r)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mdt5_r.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mdt5_r	graded.usefulness	ndcg	all	0.6389
@@ -981,7 +981,7 @@ search:
 	```
 ---
 #### vera0 
-[**`Metadata`**](./runs.md#vera0), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera0.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera0), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera0.pdf)
+[**`Metadata`**](./runs.md#vera0) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera0.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera0)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera0.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vera0	graded.usefulness	ndcg	all	0.5543
@@ -996,7 +996,7 @@ search:
 	```
 ---
 #### mt5_r 
-[**`Metadata`**](./runs.md#mt5_r), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mt5_r.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mt5_r), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mt5_r.pdf)
+[**`Metadata`**](./runs.md#mt5_r) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mt5_r.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mt5_r)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mt5_r.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mt5_r	graded.usefulness	ndcg	all	0.6337
@@ -1011,7 +1011,7 @@ search:
 	```
 ---
 #### mdt5 
-[**`Metadata`**](./runs.md#mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mdt5.pdf)
+[**`Metadata`**](./runs.md#mdt5) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.mdt5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.mdt5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/mdt5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	mdt5	graded.usefulness	ndcg	all	0.6397
@@ -1026,7 +1026,7 @@ search:
 	```
 ---
 #### vera_mt5_0.95 
-[**`Metadata`**](./runs.md#vera_mt5_095), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mt5_0.95.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mt5_0.95), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mt5_0.95.pdf)
+[**`Metadata`**](./runs.md#vera_mt5_095) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mt5_0.95.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mt5_0.95)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mt5_0.95.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vera_mt5_0.95	graded.usefulness	ndcg	all	0.6290
@@ -1041,7 +1041,7 @@ search:
 	```
 ---
 #### vera_mdt5_0.5 
-[**`Metadata`**](./runs.md#vera_mdt5_05), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mdt5_0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mdt5_0.5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mdt5_0.5.pdf)
+[**`Metadata`**](./runs.md#vera_mdt5_05) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mdt5_0.5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mdt5_0.5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mdt5_0.5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vera_mdt5_0.5	graded.usefulness	ndcg	all	0.5996
@@ -1056,7 +1056,7 @@ search:
 	```
 ---
 #### vera_mt5_0.5 
-[**`Metadata`**](./runs.md#vera_mt5_05), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mt5_0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mt5_0.5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mt5_0.5.pdf)
+[**`Metadata`**](./runs.md#vera_mt5_05) | [**`Participants`**](./participants.md#h2oloo)| [**`Input`**](https://trec.nist.gov/results/trec30/misinfo/input.vera_mt5_0.5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec30/misinfo/summary.vera_mt5_0.5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/misinfo/vera_mt5_0.5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vera_mt5_0.5	graded.usefulness	ndcg	all	0.6003

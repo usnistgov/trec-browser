@@ -3,18 +3,26 @@ site_url: https://pages.nist.gov/trec-browser
 theme:
   name: material
   logo: assets/search.svg
+  icon:
+    repo: fontawesome/brands/git-alt
   palette:
   - scheme: default
+    primary: light blue
+    accent: light blue
     toggle:
       icon: material/toggle-switch
       name: Switch to dark mode
   - scheme: slate
+    primary: light blue
+    accent: light blue
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to light mode
   features:
   - content.code.copy
   - navigation.instant
+repo_url: https://github.com/usnistgov/trec-browser
+repo_name: usnistgov/trec-browser
 markdown_extensions:
 - def_list
 - attr_list
@@ -38,8 +46,83 @@ extra_javascript:
 - https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js
 nav:
 - Home: index.md
+- TREC-COVID:
+  - Overview: trec-covid/overview.md
+  - Round 1:
+    - Overview: trec-covid/round1/overview.md
+    - Data: trec-covid/round1/data.md
+    - Participants: trec-covid/round1/participants.md
+    - Runs: trec-covid/round1/runs.md
+    - Results: trec-covid/round1/results.md
+  - Round 2:
+    - Overview: trec-covid/round2/overview.md
+    - Data: trec-covid/round2/data.md
+    - Participants: trec-covid/round2/participants.md
+    - Runs: trec-covid/round2/runs.md
+    - Results: trec-covid/round2/results.md
+  - Round 3:
+    - Overview: trec-covid/round3/overview.md
+    - Data: trec-covid/round3/data.md
+    - Participants: trec-covid/round3/participants.md
+    - Runs: trec-covid/round3/runs.md
+    - Results: trec-covid/round3/results.md
+  - Round 4:
+    - Overview: trec-covid/round4/overview.md
+    - Data: trec-covid/round4/data.md
+    - Participants: trec-covid/round4/participants.md
+    - Runs: trec-covid/round4/runs.md
+    - Results: trec-covid/round4/results.md
+  - Round 5:
+    - Overview: trec-covid/round5/overview.md
+    - Data: trec-covid/round5/data.md
+    - Participants: trec-covid/round5/participants.md
+    - Runs: trec-covid/round5/runs.md
+    - Results: trec-covid/round5/results.md
+- TREC-32 (2023):
+  - Overview: trec32/overview.md
+  - Clinical Trials:
+    - Overview: trec32/trials/overview.md
+    - Data: trec32/trials/data.md
+    - Participants: trec32/trials/participants.md
+    - Runs: trec32/trials/runs.md
+  - CrisisFACTs:
+    - Overview: trec32/crisis/overview.md
+    - Data: trec32/crisis/data.md
+    - Participants: trec32/crisis/participants.md
+    - Runs: trec32/crisis/runs.md
+  - Deep Learning:
+    - Overview: trec32/deep/overview.md
+    - Data: trec32/deep/data.md
+    - Participants: trec32/deep/participants.md
+    - Runs: trec32/deep/runs.md
+  - Interactive Knowledge Assistance:
+    - Overview: trec32/ikat/overview.md
+    - Data: trec32/ikat/data.md
+    - Participants: trec32/ikat/participants.md
+    - Runs: trec32/ikat/runs.md
+  - NeuCLIR:
+    - Overview: trec32/neuclir/overview.md
+    - Data: trec32/neuclir/data.md
+    - Participants: trec32/neuclir/participants.md
+    - Runs: trec32/neuclir/runs.md
+  - AToMiC:
+    - Overview: trec32/atomic/overview.md
+    - Data: trec32/atomic/data.md
+    - Participants: trec32/atomic/participants.md
+    - Runs: trec32/atomic/runs.md
+  - Product Search:
+    - Overview: trec32/product/overview.md
+    - Data: trec32/product/data.md
+    - Participants: trec32/product/participants.md
+    - Runs: trec32/product/runs.md
+  - Tip-of-the-Tongue:
+    - Overview: trec32/tot/overview.md
+    - Data: trec32/tot/data.md
+    - Participants: trec32/tot/participants.md
+    - Runs: trec32/tot/runs.md
 - TREC-31 (2022):
   - Overview: trec31/overview.md
+  - Proceedings: trec31/proceedings.md
   - NeuCLIR:
     - Overview: trec31/neuclir/overview.md
     - Data: trec31/neuclir/data.md
@@ -89,6 +172,7 @@ nav:
     - Proceedings: trec31/crisis/proceedings.md
 - TREC-30 (2021):
   - Overview: trec30/overview.md
+  - Proceedings: trec30/proceedings.md
   - Incident Streams:
     - Overview: trec30/incident/overview.md
     - Data: trec30/incident/data.md
@@ -145,6 +229,7 @@ nav:
     - Proceedings: trec30/podcast/proceedings.md
 - TREC-29 (2020):
   - Overview: trec29/overview.md
+  - Proceedings: trec29/proceedings.md
   - News:
     - Overview: trec29/news/overview.md
     - Data: trec29/news/data.md
@@ -200,6 +285,7 @@ nav:
     - Proceedings: trec29/fair/proceedings.md
 - TREC-28 (2019):
   - Overview: trec28/overview.md
+  - Proceedings: trec28/proceedings.md
   - Complex Answer Retrieval:
     - Overview: trec28/car/overview.md
     - Data: trec28/car/data.md
@@ -255,6 +341,7 @@ nav:
     - Proceedings: trec28/incident/proceedings.md
 - TREC-27 (2018):
   - Overview: trec27/overview.md
+  - Proceedings: trec27/proceedings.md
   - Precision Medicine:
     - Overview: trec27/pm/overview.md
     - Data: trec27/pm/data.md
@@ -301,6 +388,7 @@ nav:
     - Proceedings: trec27/centre/proceedings.md
 - TREC-26 (2017):
   - Overview: trec26/overview.md
+  - Proceedings: trec26/proceedings.md
   - Common Core:
     - Overview: trec26/core/overview.md
     - Data: trec26/core/data.md
@@ -353,6 +441,7 @@ nav:
     - Proceedings: trec26/open/proceedings.md
 - TREC-25 (2016):
   - Overview: trec25/overview.md
+  - Proceedings: trec25/proceedings.md
   - Clinical Decision Support:
     - Overview: trec25/clinical/overview.md
     - Data: trec25/clinical/data.md
@@ -404,6 +493,7 @@ nav:
     - Proceedings: trec25/open/proceedings.md
 - TREC-24 (2015):
   - Overview: trec24/overview.md
+  - Proceedings: trec24/proceedings.md
   - Clinical Decision Support:
     - Overview: trec24/clinical/overview.md
     - Data: trec24/clinical/data.md
@@ -456,6 +546,7 @@ nav:
     - Proceedings: trec24/qa/proceedings.md
 - TREC-23 (2014):
   - Overview: trec23/overview.md
+  - Proceedings: trec23/proceedings.md
   - Clinical Decision Support:
     - Overview: trec23/clinical/overview.md
     - Data: trec23/clinical/data.md
@@ -510,6 +601,7 @@ nav:
     - Proceedings: trec23/session/proceedings.md
 - TREC-22 (2013):
   - Overview: trec22/overview.md
+  - Proceedings: trec22/proceedings.md
   - Knowledge Base Acceleration:
     - Overview: trec22/kba/overview.md
     - Data: trec22/kba/data.md
@@ -562,6 +654,7 @@ nav:
     - Proceedings: trec22/crowd/proceedings.md
 - TREC-21 (2012):
   - Overview: trec21/overview.md
+  - Proceedings: trec21/proceedings.md
   - Microblog:
     - Overview: trec21/microblog/overview.md
     - Data: trec21/microblog/data.md
@@ -609,6 +702,7 @@ nav:
     - Proceedings: trec21/kba/proceedings.md
 - TREC-20 (2011):
   - Overview: trec20/overview.md
+  - Proceedings: trec20/proceedings.md
   - Entity:
     - Overview: trec20/entity/overview.md
     - Data: trec20/entity/data.md
@@ -664,6 +758,7 @@ nav:
     - Proceedings: trec20/crowd/proceedings.md
 - TREC-19 (2010):
   - Overview: trec19/overview.md
+  - Proceedings: trec19/proceedings.md
   - Blog:
     - Overview: trec19/blog/overview.md
     - Data: trec19/blog/data.md
@@ -712,6 +807,7 @@ nav:
     - Proceedings: trec19/entity/proceedings.md
 - TREC-18 (2009):
   - Overview: trec18/overview.md
+  - Proceedings: trec18/proceedings.md
   - Relevance Feedback:
     - Overview: trec18/relfdbk/overview.md
     - Data: trec18/relfdbk/data.md
@@ -763,6 +859,7 @@ nav:
     - Proceedings: trec18/entity/proceedings.md
 - TREC-17 (2008):
   - Overview: trec17/overview.md
+  - Proceedings: trec17/proceedings.md
   - Blog:
     - Overview: trec17/blog/overview.md
     - Data: trec17/blog/data.md
@@ -798,6 +895,7 @@ nav:
     - Proceedings: trec17/relfdbk/proceedings.md
 - TREC-16 (2007):
   - Overview: trec16/overview.md
+  - Proceedings: trec16/proceedings.md
   - Million Query:
     - Overview: trec16/million-query/overview.md
     - Data: trec16/million-query/data.md
@@ -817,6 +915,7 @@ nav:
     - Data: trec16/spam/data.md
     - Participants: trec16/spam/participants.md
     - Runs: trec16/spam/runs.md
+    - Results: trec16/spam/results.md
     - Proceedings: trec16/spam/proceedings.md
   - Legal:
     - Overview: trec16/legal/overview.md
@@ -847,6 +946,7 @@ nav:
     - Proceedings: trec16/blog/proceedings.md
 - TREC-15 (2006):
   - Overview: trec15/overview.md
+  - Proceedings: trec15/proceedings.md
   - Terabyte:
     - Overview: trec15/terabyte/overview.md
     - Data: trec15/terabyte/data.md
@@ -859,6 +959,7 @@ nav:
     - Data: trec15/spam/data.md
     - Participants: trec15/spam/participants.md
     - Runs: trec15/spam/runs.md
+    - Results: trec15/spam/results.md
     - Proceedings: trec15/spam/proceedings.md
   - Genomics:
     - Overview: trec15/genomics/overview.md
@@ -896,11 +997,13 @@ nav:
     - Proceedings: trec15/legal/proceedings.md
 - TREC-14 (2005):
   - Overview: trec14/overview.md
+  - Proceedings: trec14/proceedings.md
   - Spam:
     - Overview: trec14/spam/overview.md
     - Data: trec14/spam/data.md
     - Participants: trec14/spam/participants.md
     - Runs: trec14/spam/runs.md
+    - Results: trec14/spam/results.md
     - Proceedings: trec14/spam/proceedings.md
   - Terabyte:
     - Overview: trec14/terabyte/overview.md
@@ -945,6 +1048,7 @@ nav:
     - Proceedings: trec14/robust/proceedings.md
 - TREC-13 (2004):
   - Overview: trec13/overview.md
+  - Proceedings: trec13/proceedings.md
   - Genomics:
     - Overview: trec13/genomics/overview.md
     - Data: trec13/genomics/data.md
@@ -993,6 +1097,7 @@ nav:
     - Proceedings: trec13/web/proceedings.md
 - TREC-12 (2003):
   - Overview: trec12/overview.md
+  - Proceedings: trec12/proceedings.md
   - Genomics:
     - Overview: trec12/genomics/overview.md
     - Data: trec12/genomics/data.md
@@ -1036,6 +1141,7 @@ nav:
     - Proceedings: trec12/novelty/proceedings.md
 - TREC-11 (2002):
   - Overview: trec11/overview.md
+  - Proceedings: trec11/proceedings.md
   - Cross-Language:
     - Overview: trec11/xlingual/overview.md
     - Participants: trec11/xlingual/participants.md
@@ -1081,6 +1187,7 @@ nav:
     - Proceedings: trec11/video/proceedings.md
 - TREC-10 (2001):
   - Overview: trec10/overview.md
+  - Proceedings: trec10/proceedings.md
   - Web:
     - Overview: trec10/web/overview.md
     - Data: trec10/web/data.md
@@ -1119,6 +1226,7 @@ nav:
     - Proceedings: trec10/interactive/proceedings.md
 - TREC-9 (2000):
   - Overview: trec9/overview.md
+  - Proceedings: trec9/proceedings.md
   - Web:
     - Overview: trec9/web/overview.md
     - Data: trec9/web/data.md
@@ -1163,6 +1271,7 @@ nav:
     - Proceedings: trec9/interactive/proceedings.md
 - TREC-8 (1999):
   - Overview: trec8/overview.md
+  - Proceedings: trec8/proceedings.md
   - Adhoc:
     - Overview: trec8/adhoc/overview.md
     - Data: trec8/adhoc/data.md
@@ -1221,6 +1330,7 @@ nav:
     - Proceedings: trec8/interactive/proceedings.md
 - TREC-7 (1998):
   - Overview: trec7/overview.md
+  - Proceedings: trec7/proceedings.md
   - Adhoc:
     - Overview: trec7/adhoc/overview.md
     - Data: trec7/adhoc/data.md
@@ -1268,6 +1378,7 @@ nav:
     - Proceedings: trec7/interactive/proceedings.md
 - TREC-6 (1997):
   - Overview: trec6/overview.md
+  - Proceedings: trec6/proceedings.md
   - Adhoc:
     - Overview: trec6/adhoc/overview.md
     - Data: trec6/adhoc/data.md
@@ -1331,6 +1442,7 @@ nav:
     - Proceedings: trec6/vlc/proceedings.md
 - TREC-5 (1996):
   - Overview: trec5/overview.md
+  - Proceedings: trec5/proceedings.md
   - Adhoc:
     - Overview: trec5/adhoc/overview.md
     - Data: trec5/adhoc/data.md
@@ -1390,6 +1502,7 @@ nav:
     - Proceedings: trec5/interactive/proceedings.md
 - TREC-4 (1995):
   - Overview: trec4/overview.md
+  - Proceedings: trec4/proceedings.md
   - Adhoc:
     - Overview: trec4/adhoc/overview.md
     - Data: trec4/adhoc/data.md
@@ -1421,6 +1534,7 @@ nav:
   - Filtering:
     - Overview: trec4/filtering/overview.md
     - Data: trec4/filtering/data.md
+    - Proceedings: trec4/filtering/proceedings.md
   - Confusion:
     - Overview: trec4/confusion/overview.md
     - Data: trec4/confusion/data.md
@@ -1437,6 +1551,7 @@ nav:
     - Proceedings: trec4/interactive/proceedings.md
 - TREC-3 (1994):
   - Overview: trec3/overview.md
+  - Proceedings: trec3/proceedings.md
   - Adhoc:
     - Overview: trec3/adhoc/overview.md
     - Data: trec3/adhoc/data.md
@@ -1453,6 +1568,7 @@ nav:
     - Proceedings: trec3/routing/proceedings.md
 - TREC-2 (1993):
   - Overview: trec2/overview.md
+  - Proceedings: trec2/proceedings.md
   - Adhoc:
     - Overview: trec2/adhoc/overview.md
     - Data: trec2/adhoc/data.md
@@ -1469,3 +1585,8 @@ nav:
     - Proceedings: trec2/routing/proceedings.md
 - TREC-1 (1992):
   - Overview: trec1/overview.md
+not_in_nav: 
+
+  /proceedings.md
+
+  /data.md

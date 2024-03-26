@@ -1,7 +1,7 @@
 # Runs - Podcast 2021 
 
 #### baseline-BM25 
-[**`Results`**](./results.md#baseline-bm25), [**`Participants`**](./participants.md#baselines), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-BM25.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-BM25), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-BM25), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-BM25), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-BM25.pdf) 
+[**`Results`**](./results.md#baseline-bm25) | [**`Participants`**](./participants.md#baselines) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-BM25.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-BM25) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-BM25) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-BM25) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-BM25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-BM25.pdf) 
 
 - :material-rename: **Run ID:** baseline-BM25 
 - :fontawesome-solid-user-group: **Participant:** BASELINES 
@@ -15,7 +15,7 @@
 
 ---
 #### baseline-BM25-D 
-[**`Results`**](./results.md#baseline-bm25-d), [**`Participants`**](./participants.md#baselines), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-BM25-D.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-BM25-D), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-BM25-D), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-BM25-D), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-BM25-D), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-BM25-D.pdf) 
+[**`Results`**](./results.md#baseline-bm25-d) | [**`Participants`**](./participants.md#baselines) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-BM25-D.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-BM25-D) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-BM25-D) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-BM25-D) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-BM25-D) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-BM25-D.pdf) 
 
 - :material-rename: **Run ID:** baseline-BM25-D 
 - :fontawesome-solid-user-group: **Participant:** BASELINES 
@@ -29,7 +29,7 @@
 
 ---
 #### Baseline-oneminute 
-[**`Results`**](./results.md#baseline-oneminute), [**`Participants`**](./participants.md#baselines), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Baseline-oneminute.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Baseline-oneminute), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Baseline-oneminute), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Baseline-oneminute), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Baseline-oneminute), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Baseline-oneminute.pdf) 
+[**`Results`**](./results.md#baseline-oneminute) | [**`Participants`**](./participants.md#baselines) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Baseline-oneminute.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Baseline-oneminute) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Baseline-oneminute) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Baseline-oneminute) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Baseline-oneminute) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Baseline-oneminute.pdf) 
 
 - :material-rename: **Run ID:** Baseline-oneminute 
 - :fontawesome-solid-user-group: **Participant:** BASELINES 
@@ -42,7 +42,7 @@
 
 ---
 #### baseline-QL-D 
-[**`Results`**](./results.md#baseline-ql-d), [**`Participants`**](./participants.md#baselines), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-QL-D.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-QL-D), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-QL-D), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-QL-D), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-QL-D), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-QL-D.pdf) 
+[**`Results`**](./results.md#baseline-ql-d) | [**`Participants`**](./participants.md#baselines) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-QL-D.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-QL-D) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-QL-D) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-QL-D) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-QL-D) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-QL-D.pdf) 
 
 - :material-rename: **Run ID:** baseline-QL-D 
 - :fontawesome-solid-user-group: **Participant:** BASELINES 
@@ -56,7 +56,7 @@
 
 ---
 #### baseline-QL-Q 
-[**`Results`**](./results.md#baseline-ql-q), [**`Participants`**](./participants.md#baselines), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-QL-Q.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-QL-Q), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-QL-Q), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-QL-Q), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-QL-Q), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-QL-Q.pdf) 
+[**`Results`**](./results.md#baseline-ql-q) | [**`Participants`**](./participants.md#baselines) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.baseline-QL-Q.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.baseline-QL-Q) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.baseline-QL-Q) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.baseline-QL-Q) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.baseline-QL-Q) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/baseline-QL-Q.pdf) 
 
 - :material-rename: **Run ID:** baseline-QL-Q 
 - :fontawesome-solid-user-group: **Participant:** BASELINES 
@@ -70,7 +70,7 @@
 
 ---
 #### f_b25_coil 
-[**`Results`**](./results.md#f_b25_coil), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_b25_coil.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_b25_coil), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_b25_coil), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_b25_coil), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_b25_coil), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_b25_coil.pdf) 
+[**`Results`**](./results.md#f_b25_coil) | [**`Participants`**](./participants.md#cfda_clip) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_b25_coil.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_b25_coil) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_b25_coil) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_b25_coil) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_b25_coil) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_b25_coil.pdf) 
 
 - :material-rename: **Run ID:** f_b25_coil 
 - :fontawesome-solid-user-group: **Participant:** CFDA_CLIP 
@@ -84,7 +84,7 @@
 
 ---
 #### f_b25_tct 
-[**`Results`**](./results.md#f_b25_tct), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_b25_tct.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_b25_tct), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_b25_tct), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_b25_tct), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_b25_tct), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_b25_tct.pdf) 
+[**`Results`**](./results.md#f_b25_tct) | [**`Participants`**](./participants.md#cfda_clip) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_b25_tct.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_b25_tct) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_b25_tct) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_b25_tct) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_b25_tct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_b25_tct.pdf) 
 
 - :material-rename: **Run ID:** f_b25_tct 
 - :fontawesome-solid-user-group: **Participant:** CFDA_CLIP 
@@ -98,7 +98,7 @@
 
 ---
 #### f_coil_tct 
-[**`Results`**](./results.md#f_coil_tct), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_coil_tct.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_coil_tct), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_coil_tct), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_coil_tct), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_coil_tct), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_coil_tct.pdf) 
+[**`Results`**](./results.md#f_coil_tct) | [**`Participants`**](./participants.md#cfda_clip) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.f_coil_tct.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.f_coil_tct) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.f_coil_tct) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.f_coil_tct) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.f_coil_tct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/f_coil_tct.pdf) 
 
 - :material-rename: **Run ID:** f_coil_tct 
 - :fontawesome-solid-user-group: **Participant:** CFDA_CLIP 
@@ -112,7 +112,7 @@
 
 ---
 #### Hotspot1 
-[**`Results`**](./results.md#hotspot1), [**`Participants`**](./participants.md#spotify), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Hotspot1.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Hotspot1), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Hotspot1), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Hotspot1), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Hotspot1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Hotspot1.pdf) 
+[**`Results`**](./results.md#hotspot1) | [**`Participants`**](./participants.md#spotify) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Hotspot1.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Hotspot1) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Hotspot1) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Hotspot1) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Hotspot1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Hotspot1.pdf) 
 
 - :material-rename: **Run ID:** Hotspot1 
 - :fontawesome-solid-user-group: **Participant:** Spotify 
@@ -125,7 +125,7 @@
 
 ---
 #### ms_mt5 
-[**`Results`**](./results.md#ms_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.ms_mt5.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.ms_mt5), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.ms_mt5), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.ms_mt5), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.ms_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/ms_mt5.pdf) 
+[**`Results`**](./results.md#ms_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.ms_mt5.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.ms_mt5) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.ms_mt5) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.ms_mt5) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.ms_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/ms_mt5.pdf) 
 
 - :material-rename: **Run ID:** ms_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -139,7 +139,7 @@
 
 ---
 #### osc_tok_vec 
-[**`Results`**](./results.md#osc_tok_vec), [**`Participants`**](./participants.md#osc), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_tok_vec.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_tok_vec), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_tok_vec), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_tok_vec), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_tok_vec), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_tok_vec.pdf) 
+[**`Results`**](./results.md#osc_tok_vec) | [**`Participants`**](./participants.md#osc) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_tok_vec.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_tok_vec) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_tok_vec) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_tok_vec) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_tok_vec) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_tok_vec.pdf) 
 
 - :material-rename: **Run ID:** osc_tok_vec 
 - :fontawesome-solid-user-group: **Participant:** OSC 
@@ -153,7 +153,7 @@
 
 ---
 #### osc_token 
-[**`Results`**](./results.md#osc_token), [**`Participants`**](./participants.md#osc), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_token.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_token), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_token), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_token), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_token), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_token.pdf) 
+[**`Results`**](./results.md#osc_token) | [**`Participants`**](./participants.md#osc) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_token.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_token) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_token) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_token) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_token) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_token.pdf) 
 
 - :material-rename: **Run ID:** osc_token 
 - :fontawesome-solid-user-group: **Participant:** OSC 
@@ -167,7 +167,7 @@
 
 ---
 #### osc_vec_tok 
-[**`Results`**](./results.md#osc_vec_tok), [**`Participants`**](./participants.md#osc), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_vec_tok.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_vec_tok), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_vec_tok), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_vec_tok), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_vec_tok), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_vec_tok.pdf) 
+[**`Results`**](./results.md#osc_vec_tok) | [**`Participants`**](./participants.md#osc) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_vec_tok.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_vec_tok) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_vec_tok) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_vec_tok) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_vec_tok) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_vec_tok.pdf) 
 
 - :material-rename: **Run ID:** osc_vec_tok 
 - :fontawesome-solid-user-group: **Participant:** OSC 
@@ -181,7 +181,7 @@
 
 ---
 #### osc_vector 
-[**`Results`**](./results.md#osc_vector), [**`Participants`**](./participants.md#osc), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_vector.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_vector), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_vector), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_vector), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_vector), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_vector.pdf) 
+[**`Results`**](./results.md#osc_vector) | [**`Participants`**](./participants.md#osc) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.osc_vector.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.osc_vector) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.osc_vector) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.osc_vector) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.osc_vector) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/osc_vector.pdf) 
 
 - :material-rename: **Run ID:** osc_vector 
 - :fontawesome-solid-user-group: **Participant:** OSC 
@@ -195,7 +195,7 @@
 
 ---
 #### PoliTO_100_32-128 
-[**`Results`**](./results.md#polito_100_32-128), [**`Participants`**](./participants.md#polito), [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_100_32-128.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_100_32-128), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_100_32-128), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_100_32-128), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_100_32-128), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_100_32-128.pdf) 
+[**`Results`**](./results.md#polito_100_32-128) | [**`Participants`**](./participants.md#polito) | [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_100_32-128.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_100_32-128) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_100_32-128) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_100_32-128) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_100_32-128) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_100_32-128.pdf) 
 
 - :material-rename: **Run ID:** PoliTO_100_32-128 
 - :fontawesome-solid-user-group: **Participant:** PoliTO 
@@ -208,7 +208,7 @@
 
 ---
 #### PoliTO_25_32-128 
-[**`Results`**](./results.md#polito_25_32-128), [**`Participants`**](./participants.md#polito), [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_25_32-128.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_25_32-128), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_25_32-128), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_25_32-128), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_25_32-128), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_25_32-128.pdf) 
+[**`Results`**](./results.md#polito_25_32-128) | [**`Participants`**](./participants.md#polito) | [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_25_32-128.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_25_32-128) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_25_32-128) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_25_32-128) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_25_32-128) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_25_32-128.pdf) 
 
 - :material-rename: **Run ID:** PoliTO_25_32-128 
 - :fontawesome-solid-user-group: **Participant:** PoliTO 
@@ -221,7 +221,7 @@
 
 ---
 #### PoliTO_50_32-128 
-[**`Results`**](./results.md#polito_50_32-128), [**`Participants`**](./participants.md#polito), [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_50_32-128.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_50_32-128), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_50_32-128), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_50_32-128), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_50_32-128), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_50_32-128.pdf) 
+[**`Results`**](./results.md#polito_50_32-128) | [**`Participants`**](./participants.md#polito) | [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_50_32-128.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_50_32-128) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_50_32-128) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_50_32-128) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_50_32-128) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_50_32-128.pdf) 
 
 - :material-rename: **Run ID:** PoliTO_50_32-128 
 - :fontawesome-solid-user-group: **Participant:** PoliTO 
@@ -234,7 +234,7 @@
 
 ---
 #### PoliTO_50_64-128 
-[**`Results`**](./results.md#polito_50_64-128), [**`Participants`**](./participants.md#polito), [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_50_64-128.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_50_64-128), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_50_64-128), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_50_64-128), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_50_64-128), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_50_64-128.pdf) 
+[**`Results`**](./results.md#polito_50_64-128) | [**`Participants`**](./participants.md#polito) | [**`Proceedings`**](./proceedings.md#polito-at-trec-2021-podcast-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.PoliTO_50_64-128.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.PoliTO_50_64-128) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.PoliTO_50_64-128) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.PoliTO_50_64-128) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.PoliTO_50_64-128) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/PoliTO_50_64-128.pdf) 
 
 - :material-rename: **Run ID:** PoliTO_50_64-128 
 - :fontawesome-solid-user-group: **Participant:** PoliTO 
@@ -247,7 +247,7 @@
 
 ---
 #### s_tasb 
-[**`Results`**](./results.md#s_tasb), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.s_tasb.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.s_tasb), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.s_tasb), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.s_tasb), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.s_tasb), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/s_tasb.pdf) 
+[**`Results`**](./results.md#s_tasb) | [**`Participants`**](./participants.md#cfda_clip) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.s_tasb.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.s_tasb) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.s_tasb) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.s_tasb) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.s_tasb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/s_tasb.pdf) 
 
 - :material-rename: **Run ID:** s_tasb 
 - :fontawesome-solid-user-group: **Participant:** CFDA_CLIP 
@@ -261,7 +261,7 @@
 
 ---
 #### s_tct 
-[**`Results`**](./results.md#s_tct), [**`Participants`**](./participants.md#cfda_clip), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.s_tct.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.s_tct), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.s_tct), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.s_tct), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.s_tct), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/s_tct.pdf) 
+[**`Results`**](./results.md#s_tct) | [**`Participants`**](./participants.md#cfda_clip) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.s_tct.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.s_tct) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.s_tct) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.s_tct) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.s_tct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/s_tct.pdf) 
 
 - :material-rename: **Run ID:** s_tct 
 - :fontawesome-solid-user-group: **Participant:** CFDA_CLIP 
@@ -275,7 +275,7 @@
 
 ---
 #### theTuringTest1 
-[**`Results`**](./results.md#theturingtest1), [**`Participants`**](./participants.md#theturingtest), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.theTuringTest1.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.theTuringTest1), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.theTuringTest1), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.theTuringTest1), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.theTuringTest1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/theTuringTest1.pdf) 
+[**`Results`**](./results.md#theturingtest1) | [**`Participants`**](./participants.md#theturingtest) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.theTuringTest1.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.theTuringTest1) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.theTuringTest1) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.theTuringTest1) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.theTuringTest1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/theTuringTest1.pdf) 
 
 - :material-rename: **Run ID:** theTuringTest1 
 - :fontawesome-solid-user-group: **Participant:** theTuringTest 
@@ -288,7 +288,7 @@
 
 ---
 #### theTuringTest2 
-[**`Results`**](./results.md#theturingtest2), [**`Participants`**](./participants.md#theturingtest), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.theTuringTest2.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.theTuringTest2), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.theTuringTest2), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.theTuringTest2), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.theTuringTest2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/theTuringTest2.pdf) 
+[**`Results`**](./results.md#theturingtest2) | [**`Participants`**](./participants.md#theturingtest) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.theTuringTest2.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.theTuringTest2) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.theTuringTest2) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.theTuringTest2) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.theTuringTest2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/theTuringTest2.pdf) 
 
 - :material-rename: **Run ID:** theTuringTest2 
 - :fontawesome-solid-user-group: **Participant:** theTuringTest 
@@ -301,7 +301,7 @@
 
 ---
 #### tp_mt5 
-[**`Results`**](./results.md#tp_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5.pdf) 
+[**`Results`**](./results.md#tp_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5.pdf) 
 
 - :material-rename: **Run ID:** tp_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -315,7 +315,7 @@
 
 ---
 #### tp_mt5_f1 
-[**`Results`**](./results.md#tp_mt5_f1), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5_f1.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5_f1), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5_f1), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5_f1), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5_f1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5_f1.pdf) 
+[**`Results`**](./results.md#tp_mt5_f1) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5_f1.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5_f1) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5_f1) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5_f1) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5_f1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5_f1.pdf) 
 
 - :material-rename: **Run ID:** tp_mt5_f1 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -329,7 +329,7 @@
 
 ---
 #### tp_mt5_f2 
-[**`Results`**](./results.md#tp_mt5_f2), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5_f2.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5_f2), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5_f2), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5_f2), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5_f2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5_f2.pdf) 
+[**`Results`**](./results.md#tp_mt5_f2) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.tp_mt5_f2.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.tp_mt5_f2) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.tp_mt5_f2) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.tp_mt5_f2) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.tp_mt5_f2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/tp_mt5_f2.pdf) 
 
 - :material-rename: **Run ID:** tp_mt5_f2 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -343,7 +343,7 @@
 
 ---
 #### TUW_hybrid_cat 
-[**`Results`**](./results.md#tuw_hybrid_cat), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_hybrid_cat.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_hybrid_cat), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_hybrid_cat), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_hybrid_cat), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_hybrid_cat), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_hybrid_cat.pdf) 
+[**`Results`**](./results.md#tuw_hybrid_cat) | [**`Participants`**](./participants.md#tu_vienna) | [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_hybrid_cat.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_hybrid_cat) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_hybrid_cat) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_hybrid_cat) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_hybrid_cat) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_hybrid_cat.pdf) 
 
 - :material-rename: **Run ID:** TUW_hybrid_cat 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
@@ -357,7 +357,7 @@
 
 ---
 #### TUW_hybrid_ws 
-[**`Results`**](./results.md#tuw_hybrid_ws), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_hybrid_ws.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_hybrid_ws), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_hybrid_ws), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_hybrid_ws), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_hybrid_ws), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_hybrid_ws.pdf) 
+[**`Results`**](./results.md#tuw_hybrid_ws) | [**`Participants`**](./participants.md#tu_vienna) | [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_hybrid_ws.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_hybrid_ws) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_hybrid_ws) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_hybrid_ws) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_hybrid_ws) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_hybrid_ws.pdf) 
 
 - :material-rename: **Run ID:** TUW_hybrid_ws 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
@@ -371,7 +371,7 @@
 
 ---
 #### TUW_tasb192_ann 
-[**`Results`**](./results.md#tuw_tasb192_ann), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_tasb192_ann.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_tasb192_ann), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_tasb192_ann), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_tasb192_ann), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_tasb192_ann), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_tasb192_ann.pdf) 
+[**`Results`**](./results.md#tuw_tasb192_ann) | [**`Participants`**](./participants.md#tu_vienna) | [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_tasb192_ann.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_tasb192_ann) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_tasb192_ann) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_tasb192_ann) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_tasb192_ann) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_tasb192_ann.pdf) 
 
 - :material-rename: **Run ID:** TUW_tasb192_ann 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
@@ -385,7 +385,7 @@
 
 ---
 #### TUW_tasb_cat 
-[**`Results`**](./results.md#tuw_tasb_cat), [**`Participants`**](./participants.md#tu_vienna), [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_tasb_cat.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_tasb_cat), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_tasb_cat), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_tasb_cat), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_tasb_cat), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_tasb_cat.pdf) 
+[**`Results`**](./results.md#tuw_tasb_cat) | [**`Participants`**](./participants.md#tu_vienna) | [**`Proceedings`**](./proceedings.md#tu-wien-at-trec-dl-and-podcast-2021-simple-compression-for-dense-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.TUW_tasb_cat.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.TUW_tasb_cat) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.TUW_tasb_cat) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.TUW_tasb_cat) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.TUW_tasb_cat) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/TUW_tasb_cat.pdf) 
 
 - :material-rename: **Run ID:** TUW_tasb_cat 
 - :fontawesome-solid-user-group: **Participant:** TU_Vienna 
@@ -399,7 +399,7 @@
 
 ---
 #### UCL_audio_1 
-[**`Results`**](./results.md#ucl_audio_1), [**`Participants`**](./participants.md#podcast2021_ucl), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.UCL_audio_1.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.UCL_audio_1), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.UCL_audio_1), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.UCL_audio_1), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.UCL_audio_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/UCL_audio_1.pdf) 
+[**`Results`**](./results.md#ucl_audio_1) | [**`Participants`**](./participants.md#podcast2021_ucl) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.UCL_audio_1.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.UCL_audio_1) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.UCL_audio_1) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.UCL_audio_1) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.UCL_audio_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/UCL_audio_1.pdf) 
 
 - :material-rename: **Run ID:** UCL_audio_1 
 - :fontawesome-solid-user-group: **Participant:** podcast2021_ucl 
@@ -413,7 +413,7 @@
 
 ---
 #### UCL_audio_2 
-[**`Results`**](./results.md#ucl_audio_2), [**`Participants`**](./participants.md#podcast2021_ucl), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.UCL_audio_2.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.UCL_audio_2), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.UCL_audio_2), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.UCL_audio_2), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.UCL_audio_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/UCL_audio_2.pdf) 
+[**`Results`**](./results.md#ucl_audio_2) | [**`Participants`**](./participants.md#podcast2021_ucl) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.UCL_audio_2.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.UCL_audio_2) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.UCL_audio_2) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.UCL_audio_2) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.UCL_audio_2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/UCL_audio_2.pdf) 
 
 - :material-rename: **Run ID:** UCL_audio_2 
 - :fontawesome-solid-user-group: **Participant:** podcast2021_ucl 
@@ -427,7 +427,7 @@
 
 ---
 #### Unicamp1 
-[**`Results`**](./results.md#unicamp1), [**`Participants`**](./participants.md#unicamp), [**`Proceedings`**](./proceedings.md#multilingual-podcast-summarization-using-longformers), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Unicamp1.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Unicamp1), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Unicamp1), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Unicamp1), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Unicamp1), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Unicamp1.pdf) 
+[**`Results`**](./results.md#unicamp1) | [**`Participants`**](./participants.md#unicamp) | [**`Proceedings`**](./proceedings.md#multilingual-podcast-summarization-using-longformers) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Unicamp1.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Unicamp1) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Unicamp1) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Unicamp1) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Unicamp1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Unicamp1.pdf) 
 
 - :material-rename: **Run ID:** Unicamp1 
 - :fontawesome-solid-user-group: **Participant:** Unicamp 
@@ -440,7 +440,7 @@
 
 ---
 #### Unicamp2 
-[**`Results`**](./results.md#unicamp2), [**`Participants`**](./participants.md#unicamp), [**`Proceedings`**](./proceedings.md#multilingual-podcast-summarization-using-longformers), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Unicamp2.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Unicamp2), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Unicamp2), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Unicamp2), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Unicamp2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Unicamp2.pdf) 
+[**`Results`**](./results.md#unicamp2) | [**`Participants`**](./participants.md#unicamp) | [**`Proceedings`**](./proceedings.md#multilingual-podcast-summarization-using-longformers) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Unicamp2.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Unicamp2) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Unicamp2) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Unicamp2) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Unicamp2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Unicamp2.pdf) 
 
 - :material-rename: **Run ID:** Unicamp2 
 - :fontawesome-solid-user-group: **Participant:** Unicamp 
@@ -453,7 +453,7 @@
 
 ---
 #### Webis_pc_abstr 
-[**`Results`**](./results.md#webis_pc_abstr), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_abstr.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_abstr), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_abstr), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_abstr), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_abstr), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_abstr.pdf) 
+[**`Results`**](./results.md#webis_pc_abstr) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_abstr.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_abstr) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_abstr) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_abstr) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_abstr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_abstr.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_abstr 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -466,7 +466,7 @@
 
 ---
 #### Webis_pc_bs 
-[**`Results`**](./results.md#webis_pc_bs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_bs.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_bs), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_bs), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_bs), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_bs), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_bs.pdf) 
+[**`Results`**](./results.md#webis_pc_bs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_bs.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_bs) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_bs) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_bs) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_bs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_bs.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_bs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -480,7 +480,7 @@
 
 ---
 #### Webis_pc_co_rob 
-[**`Results`**](./results.md#webis_pc_co_rob), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_co_rob.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_co_rob), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_co_rob), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_co_rob), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_co_rob), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_co_rob.pdf) 
+[**`Results`**](./results.md#webis_pc_co_rob) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_co_rob.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_co_rob) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_co_rob) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_co_rob) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_co_rob) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_co_rob.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_co_rob 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -494,7 +494,7 @@
 
 ---
 #### Webis_pc_cola 
-[**`Results`**](./results.md#webis_pc_cola), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_cola.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_cola), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_cola), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_cola), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_cola), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_cola.pdf) 
+[**`Results`**](./results.md#webis_pc_cola) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_cola.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_cola) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_cola) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_cola) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_cola) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_cola.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_cola 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -508,7 +508,7 @@
 
 ---
 #### Webis_pc_extr 
-[**`Results`**](./results.md#webis_pc_extr), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_extr.tgz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_extr), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_extr), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_extr), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_extr), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_extr.pdf) 
+[**`Results`**](./results.md#webis_pc_extr) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_extr.tgz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_extr) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_extr) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_extr) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_extr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_extr.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_extr 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -521,7 +521,7 @@
 
 ---
 #### Webis_pc_rob 
-[**`Results`**](./results.md#webis_pc_rob), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks), [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_rob.gz), [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_rob), [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_rob), [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_rob), [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_rob), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_rob.pdf) 
+[**`Results`**](./results.md#webis_pc_rob) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2021-deep-learning-health-misinformation-and-podcasts-tracks) | [**`Input`**](https://trec.nist.gov/results/trec30/podcast/input.Webis_pc_rob.gz) | [**`Summary (QD)`**](https://trec.nist.gov/results/trec30/podcast/summary.QD.Webis_pc_rob) | [**`Summary (QE)`**](https://trec.nist.gov/results/trec30/podcast/summary.QE.Webis_pc_rob) | [**`Summary (QR)`**](https://trec.nist.gov/results/trec30/podcast/summary.QR.Webis_pc_rob) | [**`Summary (QS)`**](https://trec.nist.gov/results/trec30/podcast/summary.QS.Webis_pc_rob) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/podcast/Webis_pc_rob.pdf) 
 
 - :material-rename: **Run ID:** Webis_pc_rob 
 - :fontawesome-solid-user-group: **Participant:** Webis 

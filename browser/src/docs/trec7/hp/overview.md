@@ -1,6 +1,6 @@
 # Overview - High-Precision 1998
 
-[`Proceedings`](./proceedings.md), [`Results`](./results.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Results`](./results.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

@@ -1,6 +1,6 @@
 # Data - Million Query 2007 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/million.query07.html`](https://trec.nist.gov/data/million.query07.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/million.query07.html`](https://trec.nist.gov/data/million.query07.html)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 
-**Other:** [`Check script for million query track runs`](https://trec.nist.gov/data/million.query/07/check_mq.pl), [`statAP_MQ_eval_v3.pl evaluation tool from NEU`](https://trec.nist.gov/data/million.query/07/statAP_MQ_eval_v3.pl)
+**Other:** [`Check script for million query track runs`](https://trec.nist.gov/data/million.query/07/check_mq.pl) | [`statAP_MQ_eval_v3.pl evaluation tool from NEU`](https://trec.nist.gov/data/million.query/07/statAP_MQ_eval_v3.pl)

@@ -1,6 +1,6 @@
 # Data - Contextual Suggestion 2015 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/context2015.html`](https://trec.nist.gov/data/context2015.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/context2015.html`](https://trec.nist.gov/data/context2015.html)
 
 ---
 

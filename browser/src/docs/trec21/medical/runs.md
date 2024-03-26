@@ -1,7 +1,7 @@
 # Runs - Medical 2012 
 
 #### AEHRClvl0 
-[**`Results`**](./results.md#aehrclvl0), [**`Participants`**](./participants.md#aehrc), [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl0), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl0.pdf) 
+[**`Results`**](./results.md#aehrclvl0) | [**`Participants`**](./participants.md#aehrc) | [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl0.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl0) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl0.pdf) 
 
 - :material-rename: **Run ID:** AEHRClvl0 
 - :fontawesome-solid-user-group: **Participant:** AEHRC 
@@ -15,7 +15,7 @@
 
 ---
 #### AEHRClvl1 
-[**`Results`**](./results.md#aehrclvl1), [**`Participants`**](./participants.md#aehrc), [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl1.pdf) 
+[**`Results`**](./results.md#aehrclvl1) | [**`Participants`**](./participants.md#aehrc) | [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl1.pdf) 
 
 - :material-rename: **Run ID:** AEHRClvl1 
 - :fontawesome-solid-user-group: **Participant:** AEHRC 
@@ -29,7 +29,7 @@
 
 ---
 #### AEHRClvl2 
-[**`Results`**](./results.md#aehrclvl2), [**`Participants`**](./participants.md#aehrc), [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl2.pdf) 
+[**`Results`**](./results.md#aehrclvl2) | [**`Participants`**](./participants.md#aehrc) | [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRClvl2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRClvl2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRClvl2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRClvl2.pdf) 
 
 - :material-rename: **Run ID:** AEHRClvl2 
 - :fontawesome-solid-user-group: **Participant:** AEHRC 
@@ -43,7 +43,7 @@
 
 ---
 #### AEHRCsub 
-[**`Results`**](./results.md#aehrcsub), [**`Participants`**](./participants.md#aehrc), [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRCsub.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRCsub), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRCsub), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRCsub.pdf) 
+[**`Results`**](./results.md#aehrcsub) | [**`Participants`**](./participants.md#aehrc) | [**`Proceedings`**](./proceedings.md#exploiting-snomed-ct-concepts-relationships-for-clinical-information-retrieval-australian-e-health-research-centre-and-queensland-university-of-technology-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.AEHRCsub.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.AEHRCsub) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.AEHRCsub) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/AEHRCsub.pdf) 
 
 - :material-rename: **Run ID:** AEHRCsub 
 - :fontawesome-solid-user-group: **Participant:** AEHRC 
@@ -57,7 +57,7 @@
 
 ---
 #### APRel1 
-[**`Results`**](./results.md#aprel1), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.APRel1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.APRel1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.APRel1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/APRel1.pdf) 
+[**`Results`**](./results.md#aprel1) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.APRel1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.APRel1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.APRel1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/APRel1.pdf) 
 
 - :material-rename: **Run ID:** APRel1 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -71,7 +71,7 @@
 
 ---
 #### APRel2 
-[**`Results`**](./results.md#aprel2), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.APRel2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.APRel2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.APRel2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/APRel2.pdf) 
+[**`Results`**](./results.md#aprel2) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.APRel2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.APRel2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.APRel2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/APRel2.pdf) 
 
 - :material-rename: **Run ID:** APRel2 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -85,7 +85,7 @@
 
 ---
 #### atigeo0 
-[**`Results`**](./results.md#atigeo0), [**`Participants`**](./participants.md#xmusketeers), [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo0), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo0.pdf) 
+[**`Results`**](./results.md#atigeo0) | [**`Participants`**](./participants.md#xmusketeers) | [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo0.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo0) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo0.pdf) 
 
 - :material-rename: **Run ID:** atigeo0 
 - :fontawesome-solid-user-group: **Participant:** xMusketeers 
@@ -99,7 +99,7 @@
 
 ---
 #### atigeo1 
-[**`Results`**](./results.md#atigeo1), [**`Participants`**](./participants.md#xmusketeers), [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo1.pdf) 
+[**`Results`**](./results.md#atigeo1) | [**`Participants`**](./participants.md#xmusketeers) | [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo1.pdf) 
 
 - :material-rename: **Run ID:** atigeo1 
 - :fontawesome-solid-user-group: **Participant:** xMusketeers 
@@ -113,7 +113,7 @@
 
 ---
 #### atigeo2 
-[**`Results`**](./results.md#atigeo2), [**`Participants`**](./participants.md#xmusketeers), [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo2.pdf) 
+[**`Results`**](./results.md#atigeo2) | [**`Participants`**](./participants.md#xmusketeers) | [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo2.pdf) 
 
 - :material-rename: **Run ID:** atigeo2 
 - :fontawesome-solid-user-group: **Participant:** xMusketeers 
@@ -127,7 +127,7 @@
 
 ---
 #### atigeo3 
-[**`Results`**](./results.md#atigeo3), [**`Participants`**](./participants.md#xmusketeers), [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo3.pdf) 
+[**`Results`**](./results.md#atigeo3) | [**`Participants`**](./participants.md#xmusketeers) | [**`Proceedings`**](./proceedings.md#atigeo-at-trec-2012-medical-records-track-icd-9-code-description-injection-to-enhance-electronic-medical-record-search-accuracy) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.atigeo3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.atigeo3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.atigeo3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/atigeo3.pdf) 
 
 - :material-rename: **Run ID:** atigeo3 
 - :fontawesome-solid-user-group: **Participant:** xMusketeers 
@@ -141,7 +141,7 @@
 
 ---
 #### BMIUOUbase 
-[**`Results`**](./results.md#bmiuoubase), [**`Participants`**](./participants.md#bmiuou), [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUbase.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUbase), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUbase), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUbase.pdf) 
+[**`Results`**](./results.md#bmiuoubase) | [**`Participants`**](./participants.md#bmiuou) | [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUbase.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUbase) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUbase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUbase.pdf) 
 
 - :material-rename: **Run ID:** BMIUOUbase 
 - :fontawesome-solid-user-group: **Participant:** BMIUOU 
@@ -155,7 +155,7 @@
 
 ---
 #### BMIUOUens 
-[**`Results`**](./results.md#bmiuouens), [**`Participants`**](./participants.md#bmiuou), [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUens.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUens), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUens), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUens.pdf) 
+[**`Results`**](./results.md#bmiuouens) | [**`Participants`**](./participants.md#bmiuou) | [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUens.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUens) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUens) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUens.pdf) 
 
 - :material-rename: **Run ID:** BMIUOUens 
 - :fontawesome-solid-user-group: **Participant:** BMIUOU 
@@ -169,7 +169,7 @@
 
 ---
 #### BMIUOUensneg 
-[**`Results`**](./results.md#bmiuouensneg), [**`Participants`**](./participants.md#bmiuou), [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUensneg.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUensneg), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUensneg), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUensneg.pdf) 
+[**`Results`**](./results.md#bmiuouensneg) | [**`Participants`**](./participants.md#bmiuou) | [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUensneg.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUensneg) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUensneg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUensneg.pdf) 
 
 - :material-rename: **Run ID:** BMIUOUensneg 
 - :fontawesome-solid-user-group: **Participant:** BMIUOU 
@@ -183,7 +183,7 @@
 
 ---
 #### BMIUOUsyn 
-[**`Results`**](./results.md#bmiuousyn), [**`Participants`**](./participants.md#bmiuou), [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUsyn.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUsyn), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUsyn), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUsyn.pdf) 
+[**`Results`**](./results.md#bmiuousyn) | [**`Participants`**](./participants.md#bmiuou) | [**`Proceedings`**](./proceedings.md#an-ensemble-approach-for-expanding-queries) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.BMIUOUsyn.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.BMIUOUsyn) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.BMIUOUsyn) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/BMIUOUsyn.pdf) 
 
 - :material-rename: **Run ID:** BMIUOUsyn 
 - :fontawesome-solid-user-group: **Participant:** BMIUOU 
@@ -197,7 +197,7 @@
 
 ---
 #### buptprisBase 
-[**`Results`**](./results.md#buptprisbase), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisBase.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisBase), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisBase.pdf) 
+[**`Results`**](./results.md#buptprisbase) | [**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisBase.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisBase) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisBase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisBase.pdf) 
 
 - :material-rename: **Run ID:** buptprisBase 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -211,7 +211,7 @@
 
 ---
 #### buptprisCscr 
-[**`Results`**](./results.md#buptpriscscr), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisCscr.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisCscr), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisCscr), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisCscr.pdf) 
+[**`Results`**](./results.md#buptpriscscr) | [**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisCscr.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisCscr) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisCscr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisCscr.pdf) 
 
 - :material-rename: **Run ID:** buptprisCscr 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -225,7 +225,7 @@
 
 ---
 #### buptprisInt 
-[**`Results`**](./results.md#buptprisint), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisInt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisInt), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisInt), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisInt.pdf) 
+[**`Results`**](./results.md#buptprisint) | [**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisInt.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisInt) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisInt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisInt.pdf) 
 
 - :material-rename: **Run ID:** buptprisInt 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -239,7 +239,7 @@
 
 ---
 #### buptprisLrnk 
-[**`Results`**](./results.md#buptprislrnk), [**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisLrnk.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisLrnk), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisLrnk), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisLrnk.pdf) 
+[**`Results`**](./results.md#buptprislrnk) | [**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-2012-trec-medical-track-query-expansion-retrieval-and-ranking) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.buptprisLrnk.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.buptprisLrnk) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.buptprisLrnk) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/buptprisLrnk.pdf) 
 
 - :material-rename: **Run ID:** buptprisLrnk 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -253,7 +253,7 @@
 
 ---
 #### DCU21 
-[**`Results`**](./results.md#dcu21), [**`Participants`**](./participants.md#dcu), [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU21.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU21), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU21), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU21.pdf) 
+[**`Results`**](./results.md#dcu21) | [**`Participants`**](./participants.md#dcu) | [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU21.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU21) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU21) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU21.pdf) 
 
 - :material-rename: **Run ID:** DCU21 
 - :fontawesome-solid-user-group: **Participant:** DCU 
@@ -267,7 +267,7 @@
 
 ---
 #### DCU22 
-[**`Results`**](./results.md#dcu22), [**`Participants`**](./participants.md#dcu), [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU22.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU22), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU22), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU22.pdf) 
+[**`Results`**](./results.md#dcu22) | [**`Participants`**](./participants.md#dcu) | [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU22.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU22) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU22) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU22.pdf) 
 
 - :material-rename: **Run ID:** DCU22 
 - :fontawesome-solid-user-group: **Participant:** DCU 
@@ -281,7 +281,7 @@
 
 ---
 #### DCU23b 
-[**`Results`**](./results.md#dcu23b), [**`Participants`**](./participants.md#dcu), [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU23b.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU23b), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU23b), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU23b.pdf) 
+[**`Results`**](./results.md#dcu23b) | [**`Participants`**](./participants.md#dcu) | [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU23b.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU23b) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU23b) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU23b.pdf) 
 
 - :material-rename: **Run ID:** DCU23b 
 - :fontawesome-solid-user-group: **Participant:** DCU 
@@ -295,7 +295,7 @@
 
 ---
 #### DCU24b 
-[**`Results`**](./results.md#dcu24b), [**`Participants`**](./participants.md#dcu), [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU24b.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU24b), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU24b), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU24b.pdf) 
+[**`Results`**](./results.md#dcu24b) | [**`Participants`**](./participants.md#dcu) | [**`Proceedings`**](./proceedings.md#dcu-trecmed-2012-using-adhoc-baselines-for-domain-specific-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.DCU24b.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.DCU24b) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.DCU24b) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/DCU24b.pdf) 
 
 - :material-rename: **Run ID:** DCU24b 
 - :fontawesome-solid-user-group: **Participant:** DCU 
@@ -309,7 +309,7 @@
 
 ---
 #### EssieAuto 
-[**`Results`**](./results.md#essieauto), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.EssieAuto.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.EssieAuto), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.EssieAuto), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/EssieAuto.pdf) 
+[**`Results`**](./results.md#essieauto) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.EssieAuto.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.EssieAuto) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.EssieAuto) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/EssieAuto.pdf) 
 
 - :material-rename: **Run ID:** EssieAuto 
 - :fontawesome-solid-user-group: **Participant:** NLM 
@@ -323,7 +323,7 @@
 
 ---
 #### GE4 
-[**`Results`**](./results.md#ge4), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.GE4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.GE4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.GE4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/GE4.pdf) 
+[**`Results`**](./results.md#ge4) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.GE4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.GE4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.GE4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/GE4.pdf) 
 
 - :material-rename: **Run ID:** GE4 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -337,7 +337,7 @@
 
 ---
 #### ikmlab 
-[**`Results`**](./results.md#ikmlab), [**`Participants`**](./participants.md#ikmlab), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ikmlab.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ikmlab), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ikmlab), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ikmlab.pdf) 
+[**`Results`**](./results.md#ikmlab) | [**`Participants`**](./participants.md#ikmlab) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ikmlab.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ikmlab) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ikmlab) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ikmlab.pdf) 
 
 - :material-rename: **Run ID:** ikmlab 
 - :fontawesome-solid-user-group: **Participant:** IKMLAB 
@@ -351,7 +351,7 @@
 
 ---
 #### ikmlab2 
-[**`Results`**](./results.md#ikmlab2), [**`Participants`**](./participants.md#ikmlab), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ikmlab2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ikmlab2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ikmlab2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ikmlab2.pdf) 
+[**`Results`**](./results.md#ikmlab2) | [**`Participants`**](./participants.md#ikmlab) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ikmlab2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ikmlab2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ikmlab2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ikmlab2.pdf) 
 
 - :material-rename: **Run ID:** ikmlab2 
 - :fontawesome-solid-user-group: **Participant:** IKMLAB 
@@ -365,7 +365,7 @@
 
 ---
 #### LSIS1 
-[**`Results`**](./results.md#lsis1), [**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS1.pdf) 
+[**`Results`**](./results.md#lsis1) | [**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS1.pdf) 
 
 - :material-rename: **Run ID:** LSIS1 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -379,7 +379,7 @@
 
 ---
 #### LSIS2 
-[**`Results`**](./results.md#lsis2), [**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS2.pdf) 
+[**`Results`**](./results.md#lsis2) | [**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS2.pdf) 
 
 - :material-rename: **Run ID:** LSIS2 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -393,7 +393,7 @@
 
 ---
 #### LSIS3 
-[**`Results`**](./results.md#lsis3), [**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS3.pdf) 
+[**`Results`**](./results.md#lsis3) | [**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-at-trec-2012-medical-track-experiments-with-conceptualization-a-dfr-model-and-a-semantic-measure) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.LSIS3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.LSIS3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.LSIS3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/LSIS3.pdf) 
 
 - :material-rename: **Run ID:** LSIS3 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -407,7 +407,7 @@
 
 ---
 #### MayoExpanded 
-[**`Results`**](./results.md#mayoexpanded), [**`Participants`**](./participants.md#mayoclinicnlp), [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoExpanded.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoExpanded), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoExpanded), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoExpanded.pdf) 
+[**`Results`**](./results.md#mayoexpanded) | [**`Participants`**](./participants.md#mayoclinicnlp) | [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoExpanded.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoExpanded) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoExpanded) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoExpanded.pdf) 
 
 - :material-rename: **Run ID:** MayoExpanded 
 - :fontawesome-solid-user-group: **Participant:** MayoClinicNLP 
@@ -421,7 +421,7 @@
 
 ---
 #### MayoLucene 
-[**`Results`**](./results.md#mayolucene), [**`Participants`**](./participants.md#mayoclinicnlp), [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoLucene.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoLucene), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoLucene), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoLucene.pdf) 
+[**`Results`**](./results.md#mayolucene) | [**`Participants`**](./participants.md#mayoclinicnlp) | [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoLucene.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoLucene) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoLucene) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoLucene.pdf) 
 
 - :material-rename: **Run ID:** MayoLucene 
 - :fontawesome-solid-user-group: **Participant:** MayoClinicNLP 
@@ -435,7 +435,7 @@
 
 ---
 #### MayoMetaData 
-[**`Results`**](./results.md#mayometadata), [**`Participants`**](./participants.md#mayoclinicnlp), [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoMetaData.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoMetaData), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoMetaData), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoMetaData.pdf) 
+[**`Results`**](./results.md#mayometadata) | [**`Participants`**](./participants.md#mayoclinicnlp) | [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoMetaData.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoMetaData) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoMetaData) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoMetaData.pdf) 
 
 - :material-rename: **Run ID:** MayoMetaData 
 - :fontawesome-solid-user-group: **Participant:** MayoClinicNLP 
@@ -449,7 +449,7 @@
 
 ---
 #### MayoPayload 
-[**`Results`**](./results.md#mayopayload), [**`Participants`**](./participants.md#mayoclinicnlp), [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoPayload.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoPayload), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoPayload), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoPayload.pdf) 
+[**`Results`**](./results.md#mayopayload) | [**`Participants`**](./participants.md#mayoclinicnlp) | [**`Proceedings`**](./proceedings.md#three-questions-about-clinical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.MayoPayload.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.MayoPayload) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.MayoPayload) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/MayoPayload.pdf) 
 
 - :material-rename: **Run ID:** MayoPayload 
 - :fontawesome-solid-user-group: **Participant:** MayoClinicNLP 
@@ -463,7 +463,7 @@
 
 ---
 #### NICTAUBC1 
-[**`Results`**](./results.md#nictaubc1), [**`Participants`**](./participants.md#nicta), [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC1.pdf) 
+[**`Results`**](./results.md#nictaubc1) | [**`Participants`**](./participants.md#nicta) | [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC1.pdf) 
 
 - :material-rename: **Run ID:** NICTAUBC1 
 - :fontawesome-solid-user-group: **Participant:** NICTA 
@@ -477,7 +477,7 @@
 
 ---
 #### NICTAUBC2 
-[**`Results`**](./results.md#nictaubc2), [**`Participants`**](./participants.md#nicta), [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC2.pdf) 
+[**`Results`**](./results.md#nictaubc2) | [**`Participants`**](./participants.md#nicta) | [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC2.pdf) 
 
 - :material-rename: **Run ID:** NICTAUBC2 
 - :fontawesome-solid-user-group: **Participant:** NICTA 
@@ -491,7 +491,7 @@
 
 ---
 #### NICTAUBC4 
-[**`Results`**](./results.md#nictaubc4), [**`Participants`**](./participants.md#nicta), [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC4.pdf) 
+[**`Results`**](./results.md#nictaubc4) | [**`Participants`**](./participants.md#nicta) | [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC4.pdf) 
 
 - :material-rename: **Run ID:** NICTAUBC4 
 - :fontawesome-solid-user-group: **Participant:** NICTA 
@@ -505,7 +505,7 @@
 
 ---
 #### NICTAUBC6 
-[**`Results`**](./results.md#nictaubc6), [**`Participants`**](./participants.md#nicta), [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC6.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC6), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC6), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC6.pdf) 
+[**`Results`**](./results.md#nictaubc6) | [**`Participants`**](./participants.md#nicta) | [**`Proceedings`**](./proceedings.md#nicta-and-ubc-at-the-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NICTAUBC6.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NICTAUBC6) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NICTAUBC6) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NICTAUBC6.pdf) 
 
 - :material-rename: **Run ID:** NICTAUBC6 
 - :fontawesome-solid-user-group: **Participant:** NICTA 
@@ -519,7 +519,7 @@
 
 ---
 #### NLMLuceneExp 
-[**`Results`**](./results.md#nlmluceneexp), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMLuceneExp.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMLuceneExp), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMLuceneExp), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMLuceneExp.pdf) 
+[**`Results`**](./results.md#nlmluceneexp) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMLuceneExp.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMLuceneExp) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMLuceneExp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMLuceneExp.pdf) 
 
 - :material-rename: **Run ID:** NLMLuceneExp 
 - :fontawesome-solid-user-group: **Participant:** NLM 
@@ -533,7 +533,7 @@
 
 ---
 #### NLMLuceneSec 
-[**`Results`**](./results.md#nlmlucenesec), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMLuceneSec.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMLuceneSec), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMLuceneSec), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMLuceneSec.pdf) 
+[**`Results`**](./results.md#nlmlucenesec) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMLuceneSec.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMLuceneSec) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMLuceneSec) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMLuceneSec.pdf) 
 
 - :material-rename: **Run ID:** NLMLuceneSec 
 - :fontawesome-solid-user-group: **Participant:** NLM 
@@ -547,7 +547,7 @@
 
 ---
 #### NLMManual 
-[**`Results`**](./results.md#nlmmanual), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMManual.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMManual), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMManual), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMManual.pdf) 
+[**`Results`**](./results.md#nlmmanual) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.NLMManual.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.NLMManual) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.NLMManual) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/NLMManual.pdf) 
 
 - :material-rename: **Run ID:** NLMManual 
 - :fontawesome-solid-user-group: **Participant:** NLM 
@@ -561,7 +561,7 @@
 
 ---
 #### OHSUCEtICD 
-[**`Results`**](./results.md#ohsuceticd), [**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCEtICD.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCEtICD), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCEtICD), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCEtICD.pdf) 
+[**`Results`**](./results.md#ohsuceticd) | [**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCEtICD.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCEtICD) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCEtICD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCEtICD.pdf) 
 
 - :material-rename: **Run ID:** OHSUCEtICD 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -575,7 +575,7 @@
 
 ---
 #### OHSUCombET 
-[**`Results`**](./results.md#ohsucombet), [**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCombET.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCombET), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCombET), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCombET.pdf) 
+[**`Results`**](./results.md#ohsucombet) | [**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCombET.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCombET) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCombET) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCombET.pdf) 
 
 - :material-rename: **Run ID:** OHSUCombET 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -589,7 +589,7 @@
 
 ---
 #### OHSUCombICD 
-[**`Results`**](./results.md#ohsucombicd), [**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCombICD.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCombICD), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCombICD), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCombICD.pdf) 
+[**`Results`**](./results.md#ohsucombicd) | [**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.OHSUCombICD.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.OHSUCombICD) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.OHSUCombICD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/OHSUCombICD.pdf) 
 
 - :material-rename: **Run ID:** OHSUCombICD 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -603,7 +603,7 @@
 
 ---
 #### ohsuManBool 
-[**`Results`**](./results.md#ohsumanbool), [**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ohsuManBool.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ohsuManBool), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ohsuManBool), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ohsuManBool.pdf) 
+[**`Results`**](./results.md#ohsumanbool) | [**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#identifying-patients-for-clinical-studies-from-electronic-health-records-trec-2012-medical-records-track-at-ohsu) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ohsuManBool.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ohsuManBool) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ohsuManBool) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ohsuManBool.pdf) 
 
 - :material-rename: **Run ID:** ohsuManBool 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -617,7 +617,7 @@
 
 ---
 #### quta 
-[**`Results`**](./results.md#quta), [**`Participants`**](./participants.md#qutir12), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.quta.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.quta), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.quta), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/quta.pdf) 
+[**`Results`**](./results.md#quta) | [**`Participants`**](./participants.md#qutir12) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.quta.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.quta) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.quta) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/quta.pdf) 
 
 - :material-rename: **Run ID:** quta 
 - :fontawesome-solid-user-group: **Participant:** qutir12 
@@ -631,7 +631,7 @@
 
 ---
 #### qutb 
-[**`Results`**](./results.md#qutb), [**`Participants`**](./participants.md#qutir12), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.qutb.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.qutb), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.qutb), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/qutb.pdf) 
+[**`Results`**](./results.md#qutb) | [**`Participants`**](./participants.md#qutir12) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.qutb.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.qutb) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.qutb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/qutb.pdf) 
 
 - :material-rename: **Run ID:** qutb 
 - :fontawesome-solid-user-group: **Participant:** qutir12 
@@ -645,7 +645,7 @@
 
 ---
 #### qutc 
-[**`Results`**](./results.md#qutc), [**`Participants`**](./participants.md#qutir12), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.qutc.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.qutc), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.qutc), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/qutc.pdf) 
+[**`Results`**](./results.md#qutc) | [**`Participants`**](./participants.md#qutir12) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.qutc.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.qutc) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.qutc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/qutc.pdf) 
 
 - :material-rename: **Run ID:** qutc 
 - :fontawesome-solid-user-group: **Participant:** qutir12 
@@ -659,7 +659,7 @@
 
 ---
 #### RAPRel2 
-[**`Results`**](./results.md#raprel2), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.RAPRel2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.RAPRel2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.RAPRel2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/RAPRel2.pdf) 
+[**`Results`**](./results.md#raprel2) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#using-meda-data-to-search-for-clinical-records-rmit-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.RAPRel2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.RAPRel2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.RAPRel2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/RAPRel2.pdf) 
 
 - :material-rename: **Run ID:** RAPRel2 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -673,7 +673,7 @@
 
 ---
 #### sennamed1 
-[**`Results`**](./results.md#sennamed1), [**`Participants`**](./participants.md#sennamed), [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed1.pdf) 
+[**`Results`**](./results.md#sennamed1) | [**`Participants`**](./participants.md#sennamed) | [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed1.pdf) 
 
 - :material-rename: **Run ID:** sennamed1 
 - :fontawesome-solid-user-group: **Participant:** sennamed 
@@ -687,7 +687,7 @@
 
 ---
 #### sennamed2 
-[**`Results`**](./results.md#sennamed2), [**`Participants`**](./participants.md#sennamed), [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed2.pdf) 
+[**`Results`**](./results.md#sennamed2) | [**`Participants`**](./participants.md#sennamed) | [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed2.pdf) 
 
 - :material-rename: **Run ID:** sennamed2 
 - :fontawesome-solid-user-group: **Participant:** sennamed 
@@ -701,7 +701,7 @@
 
 ---
 #### sennamed3 
-[**`Results`**](./results.md#sennamed3), [**`Participants`**](./participants.md#sennamed), [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed3.pdf) 
+[**`Results`**](./results.md#sennamed3) | [**`Participants`**](./participants.md#sennamed) | [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamed3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamed3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamed3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamed3.pdf) 
 
 - :material-rename: **Run ID:** sennamed3 
 - :fontawesome-solid-user-group: **Participant:** sennamed 
@@ -715,7 +715,7 @@
 
 ---
 #### sennamedlsi 
-[**`Results`**](./results.md#sennamedlsi), [**`Participants`**](./participants.md#sennamed), [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamedlsi.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamedlsi), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamedlsi), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamedlsi.pdf) 
+[**`Results`**](./results.md#sennamedlsi) | [**`Participants`**](./participants.md#sennamed) | [**`Proceedings`**](./proceedings.md#retrieving-medical-records-with-sennamed-nec-labs-america-at-trec-2012-medical-record-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.sennamedlsi.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.sennamedlsi) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.sennamedlsi) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/sennamedlsi.pdf) 
 
 - :material-rename: **Run ID:** sennamedlsi 
 - :fontawesome-solid-user-group: **Participant:** sennamed 
@@ -729,7 +729,7 @@
 
 ---
 #### Siena1 
-[**`Results`**](./results.md#siena1), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena1.pdf) 
+[**`Results`**](./results.md#siena1) | [**`Participants`**](./participants.md#sciaiteam) | [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena1.pdf) 
 
 - :material-rename: **Run ID:** Siena1 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -743,7 +743,7 @@
 
 ---
 #### Siena2 
-[**`Results`**](./results.md#siena2), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena2.pdf) 
+[**`Results`**](./results.md#siena2) | [**`Participants`**](./participants.md#sciaiteam) | [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena2.pdf) 
 
 - :material-rename: **Run ID:** Siena2 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -757,7 +757,7 @@
 
 ---
 #### Siena3 
-[**`Results`**](./results.md#siena3), [**`Participants`**](./participants.md#sciaiteam), [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena3.pdf) 
+[**`Results`**](./results.md#siena3) | [**`Participants`**](./participants.md#sciaiteam) | [**`Proceedings`**](./proceedings.md#the-siena-college-medical-information-retrieval-system-mirs) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.Siena3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.Siena3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.Siena3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/Siena3.pdf) 
 
 - :material-rename: **Run ID:** Siena3 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -771,7 +771,7 @@
 
 ---
 #### SNUBME1 
-[**`Results`**](./results.md#snubme1), [**`Participants`**](./participants.md#snu_bme), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME1.pdf) 
+[**`Results`**](./results.md#snubme1) | [**`Participants`**](./participants.md#snu_bme) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME1.pdf) 
 
 - :material-rename: **Run ID:** SNUBME1 
 - :fontawesome-solid-user-group: **Participant:** SNU_BME 
@@ -785,7 +785,7 @@
 
 ---
 #### SNUBME2 
-[**`Results`**](./results.md#snubme2), [**`Participants`**](./participants.md#snu_bme), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME2.pdf) 
+[**`Results`**](./results.md#snubme2) | [**`Participants`**](./participants.md#snu_bme) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME2.pdf) 
 
 - :material-rename: **Run ID:** SNUBME2 
 - :fontawesome-solid-user-group: **Participant:** SNU_BME 
@@ -799,7 +799,7 @@
 
 ---
 #### SNUBME3 
-[**`Results`**](./results.md#snubme3), [**`Participants`**](./participants.md#snu_bme), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME3.pdf) 
+[**`Results`**](./results.md#snubme3) | [**`Participants`**](./participants.md#snu_bme) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME3.pdf) 
 
 - :material-rename: **Run ID:** SNUBME3 
 - :fontawesome-solid-user-group: **Participant:** SNU_BME 
@@ -813,7 +813,7 @@
 
 ---
 #### SNUBME4 
-[**`Results`**](./results.md#snubme4), [**`Participants`**](./participants.md#snu_bme), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME4.pdf) 
+[**`Results`**](./results.md#snubme4) | [**`Participants`**](./participants.md#snu_bme) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.SNUBME4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.SNUBME4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.SNUBME4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/SNUBME4.pdf) 
 
 - :material-rename: **Run ID:** SNUBME4 
 - :fontawesome-solid-user-group: **Participant:** SNU_BME 
@@ -827,7 +827,7 @@
 
 ---
 #### UCDCSI1 
-[**`Results`**](./results.md#ucdcsi1), [**`Participants`**](./participants.md#ucd_csi), [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI1.pdf) 
+[**`Results`**](./results.md#ucdcsi1) | [**`Participants`**](./participants.md#ucd_csi) | [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI1.pdf) 
 
 - :material-rename: **Run ID:** UCDCSI1 
 - :fontawesome-solid-user-group: **Participant:** UCD_CSI 
@@ -841,7 +841,7 @@
 
 ---
 #### UCDCSI2 
-[**`Results`**](./results.md#ucdcsi2), [**`Participants`**](./participants.md#ucd_csi), [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI2.pdf) 
+[**`Results`**](./results.md#ucdcsi2) | [**`Participants`**](./participants.md#ucd_csi) | [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI2.pdf) 
 
 - :material-rename: **Run ID:** UCDCSI2 
 - :fontawesome-solid-user-group: **Participant:** UCD_CSI 
@@ -855,7 +855,7 @@
 
 ---
 #### UCDCSI3 
-[**`Results`**](./results.md#ucdcsi3), [**`Participants`**](./participants.md#ucd_csi), [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI3.pdf) 
+[**`Results`**](./results.md#ucdcsi3) | [**`Participants`**](./participants.md#ucd_csi) | [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI3.pdf) 
 
 - :material-rename: **Run ID:** UCDCSI3 
 - :fontawesome-solid-user-group: **Participant:** UCD_CSI 
@@ -869,7 +869,7 @@
 
 ---
 #### UCDCSI4 
-[**`Results`**](./results.md#ucdcsi4), [**`Participants`**](./participants.md#ucd_csi), [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI4.pdf) 
+[**`Results`**](./results.md#ucdcsi4) | [**`Participants`**](./participants.md#ucd_csi) | [**`Proceedings`**](./proceedings.md#ucd-iirg-at-trec-2012-medical-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UCDCSI4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UCDCSI4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UCDCSI4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UCDCSI4.pdf) 
 
 - :material-rename: **Run ID:** UCDCSI4 
 - :fontawesome-solid-user-group: **Participant:** UCD_CSI 
@@ -883,7 +883,7 @@
 
 ---
 #### ucm1 
-[**`Results`**](./results.md#ucm1), [**`Participants`**](./participants.md#nil_ucm), [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm1.pdf) 
+[**`Results`**](./results.md#ucm1) | [**`Participants`**](./participants.md#nil_ucm) | [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm1.pdf) 
 
 - :material-rename: **Run ID:** ucm1 
 - :fontawesome-solid-user-group: **Participant:** NIL_UCM 
@@ -897,7 +897,7 @@
 
 ---
 #### ucm3 
-[**`Results`**](./results.md#ucm3), [**`Participants`**](./participants.md#nil_ucm), [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm3.pdf) 
+[**`Results`**](./results.md#ucm3) | [**`Participants`**](./participants.md#nil_ucm) | [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm3.pdf) 
 
 - :material-rename: **Run ID:** ucm3 
 - :fontawesome-solid-user-group: **Participant:** NIL_UCM 
@@ -911,7 +911,7 @@
 
 ---
 #### ucm4 
-[**`Results`**](./results.md#ucm4), [**`Participants`**](./participants.md#nil_ucm), [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm4.pdf) 
+[**`Results`**](./results.md#ucm4) | [**`Participants`**](./participants.md#nil_ucm) | [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm4.pdf) 
 
 - :material-rename: **Run ID:** ucm4 
 - :fontawesome-solid-user-group: **Participant:** NIL_UCM 
@@ -925,7 +925,7 @@
 
 ---
 #### ucm5 
-[**`Results`**](./results.md#ucm5), [**`Participants`**](./participants.md#nil_ucm), [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm5), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm5.pdf) 
+[**`Results`**](./results.md#ucm5) | [**`Participants`**](./participants.md#nil_ucm) | [**`Proceedings`**](./proceedings.md#ucm-at-trec-2012-does-negation-influence-the-retrieval-of-medical-reports) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.ucm5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.ucm5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.ucm5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/ucm5.pdf) 
 
 - :material-rename: **Run ID:** ucm5 
 - :fontawesome-solid-user-group: **Participant:** NIL_UCM 
@@ -939,7 +939,7 @@
 
 ---
 #### udelMED 
-[**`Results`**](./results.md#udelmed), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMED.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMED), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMED), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMED.pdf) 
+[**`Results`**](./results.md#udelmed) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMED.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMED) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMED) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMED.pdf) 
 
 - :material-rename: **Run ID:** udelMED 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -953,7 +953,7 @@
 
 ---
 #### udelMNZ 
-[**`Results`**](./results.md#udelmnz), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMNZ.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMNZ), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMNZ), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMNZ.pdf) 
+[**`Results`**](./results.md#udelmnz) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMNZ.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMNZ) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMNZ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMNZ.pdf) 
 
 - :material-rename: **Run ID:** udelMNZ 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -967,7 +967,7 @@
 
 ---
 #### udelMRF 
-[**`Results`**](./results.md#udelmrf), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMRF.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMRF), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMRF.pdf) 
+[**`Results`**](./results.md#udelmrf) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelMRF.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelMRF) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelMRF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelMRF.pdf) 
 
 - :material-rename: **Run ID:** udelMRF 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -981,7 +981,7 @@
 
 ---
 #### udelSUM 
-[**`Results`**](./results.md#udelsum), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelSUM.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelSUM), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelSUM), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelSUM.pdf) 
+[**`Results`**](./results.md#udelsum) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#exploring-evidence-aggregation-methods-and-external-expansion-sources-for-medical-record-search) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.udelSUM.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.udelSUM) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.udelSUM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/udelSUM.pdf) 
 
 - :material-rename: **Run ID:** udelSUM 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -995,7 +995,7 @@
 
 ---
 #### UDInfoMed1 
-[**`Results`**](./results.md#udinfomed1), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed1.pdf) 
+[**`Results`**](./results.md#udinfomed1) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed1.pdf) 
 
 - :material-rename: **Run ID:** UDInfoMed1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1009,7 +1009,7 @@
 
 ---
 #### UDInfoMed12 
-[**`Results`**](./results.md#udinfomed12), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed12.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed12), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed12), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed12.pdf) 
+[**`Results`**](./results.md#udinfomed12) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed12.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed12) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed12) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed12.pdf) 
 
 - :material-rename: **Run ID:** UDInfoMed12 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1023,7 +1023,7 @@
 
 ---
 #### UDInfoMed123 
-[**`Results`**](./results.md#udinfomed123), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed123.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed123), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed123), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed123.pdf) 
+[**`Results`**](./results.md#udinfomed123) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#exploiting-domain-thesaurus-for-medical-record-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UDInfoMed123.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UDInfoMed123) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UDInfoMed123) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UDInfoMed123.pdf) 
 
 - :material-rename: **Run ID:** UDInfoMed123 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1037,7 +1037,7 @@
 
 ---
 #### uogTrMConQ 
-[**`Results`**](./results.md#uogtrmconq), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQ.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQ), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQ.pdf) 
+[**`Results`**](./results.md#uogtrmconq) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQ.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQ) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQ.pdf) 
 
 - :material-rename: **Run ID:** uogTrMConQ 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1051,7 +1051,7 @@
 
 ---
 #### uogTrMConQRa 
-[**`Results`**](./results.md#uogtrmconqra), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQRa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQRa), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQRa), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQRa.pdf) 
+[**`Results`**](./results.md#uogtrmconqra) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQRa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQRa) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQRa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQRa.pdf) 
 
 - :material-rename: **Run ID:** uogTrMConQRa 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1065,7 +1065,7 @@
 
 ---
 #### uogTrMConQRd 
-[**`Results`**](./results.md#uogtrmconqrd), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQRd.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQRd), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQRd), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQRd.pdf) 
+[**`Results`**](./results.md#uogtrmconqrd) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQRd.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQRd) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQRd) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQRd.pdf) 
 
 - :material-rename: **Run ID:** uogTrMConQRd 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1079,7 +1079,7 @@
 
 ---
 #### uogTrMConQT 
-[**`Results`**](./results.md#uogtrmconqt), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQT.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQT), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQT), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQT.pdf) 
+[**`Results`**](./results.md#uogtrmconqt) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2012-experiments-with-terrier-in-medical-records-microblog-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.uogTrMConQT.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.uogTrMConQT) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.uogTrMConQT) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/uogTrMConQT.pdf) 
 
 - :material-rename: **Run ID:** uogTrMConQT 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1093,7 +1093,7 @@
 
 ---
 #### USFISDS1 
-[**`Results`**](./results.md#usfisds1), [**`Participants`**](./participants.md#usf_isds), [**`Proceedings`**](./proceedings.md#using-exploration-and-learning-for-medical-records-search-an-experiment-in-identifying-cohorts-for-comparative-effectiveness-research), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.USFISDS1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.USFISDS1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.USFISDS1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/USFISDS1.pdf) 
+[**`Results`**](./results.md#usfisds1) | [**`Participants`**](./participants.md#usf_isds) | [**`Proceedings`**](./proceedings.md#using-exploration-and-learning-for-medical-records-search-an-experiment-in-identifying-cohorts-for-comparative-effectiveness-research) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.USFISDS1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.USFISDS1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.USFISDS1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/USFISDS1.pdf) 
 
 - :material-rename: **Run ID:** USFISDS1 
 - :fontawesome-solid-user-group: **Participant:** USF_ISDS 
@@ -1107,7 +1107,7 @@
 
 ---
 #### USFISDS2 
-[**`Results`**](./results.md#usfisds2), [**`Participants`**](./participants.md#usf_isds), [**`Proceedings`**](./proceedings.md#using-exploration-and-learning-for-medical-records-search-an-experiment-in-identifying-cohorts-for-comparative-effectiveness-research), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.USFISDS2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.USFISDS2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.USFISDS2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/USFISDS2.pdf) 
+[**`Results`**](./results.md#usfisds2) | [**`Participants`**](./participants.md#usf_isds) | [**`Proceedings`**](./proceedings.md#using-exploration-and-learning-for-medical-records-search-an-experiment-in-identifying-cohorts-for-comparative-effectiveness-research) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.USFISDS2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.USFISDS2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.USFISDS2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/USFISDS2.pdf) 
 
 - :material-rename: **Run ID:** USFISDS2 
 - :fontawesome-solid-user-group: **Participant:** USF_ISDS 
@@ -1121,7 +1121,7 @@
 
 ---
 #### UTDHLTA 
-[**`Results`**](./results.md#utdhlta), [**`Participants`**](./participants.md#utdhlt), [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTA.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTA), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTA), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTA.pdf) 
+[**`Results`**](./results.md#utdhlta) | [**`Participants`**](./participants.md#utdhlt) | [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTA.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTA) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTA) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTA.pdf) 
 
 - :material-rename: **Run ID:** UTDHLTA 
 - :fontawesome-solid-user-group: **Participant:** UTDHLT 
@@ -1135,7 +1135,7 @@
 
 ---
 #### UTDHLTASK 
-[**`Results`**](./results.md#utdhltask), [**`Participants`**](./participants.md#utdhlt), [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTASK.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTASK), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTASK), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTASK.pdf) 
+[**`Results`**](./results.md#utdhltask) | [**`Participants`**](./participants.md#utdhlt) | [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTASK.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTASK) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTASK) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTASK.pdf) 
 
 - :material-rename: **Run ID:** UTDHLTASK 
 - :fontawesome-solid-user-group: **Participant:** UTDHLT 
@@ -1149,7 +1149,7 @@
 
 ---
 #### UTDHLTNA 
-[**`Results`**](./results.md#utdhltna), [**`Participants`**](./participants.md#utdhlt), [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTNA.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTNA), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTNA), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTNA.pdf) 
+[**`Results`**](./results.md#utdhltna) | [**`Participants`**](./participants.md#utdhlt) | [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTNA.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTNA) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTNA) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTNA.pdf) 
 
 - :material-rename: **Run ID:** UTDHLTNA 
 - :fontawesome-solid-user-group: **Participant:** UTDHLT 
@@ -1163,7 +1163,7 @@
 
 ---
 #### UTDHLTNASK 
-[**`Results`**](./results.md#utdhltnask), [**`Participants`**](./participants.md#utdhlt), [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTNASK.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTNASK), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTNASK), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTNASK.pdf) 
+[**`Results`**](./results.md#utdhltnask) | [**`Participants`**](./participants.md#utdhlt) | [**`Proceedings`**](./proceedings.md#cohort-sherpherd-ii-verifying-cohort-constraints-from-hospital-visits) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.UTDHLTNASK.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.UTDHLTNASK) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.UTDHLTNASK) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/UTDHLTNASK.pdf) 
 
 - :material-rename: **Run ID:** UTDHLTNASK 
 - :fontawesome-solid-user-group: **Participant:** UTDHLT 
@@ -1177,7 +1177,7 @@
 
 ---
 #### YorkUMB1 
-[**`Results`**](./results.md#yorkumb1), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMB1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMB1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMB1.pdf) 
+[**`Results`**](./results.md#yorkumb1) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMB1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMB1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMB1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMB1.pdf) 
 
 - :material-rename: **Run ID:** YorkUMB1 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -1191,7 +1191,7 @@
 
 ---
 #### YorkUMC2 
-[**`Results`**](./results.md#yorkumc2), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMC2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMC2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMC2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMC2.pdf) 
+[**`Results`**](./results.md#yorkumc2) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMC2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMC2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMC2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMC2.pdf) 
 
 - :material-rename: **Run ID:** YorkUMC2 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -1205,7 +1205,7 @@
 
 ---
 #### YorkUMP4 
-[**`Results`**](./results.md#yorkump4), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMP4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMP4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMP4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMP4.pdf) 
+[**`Results`**](./results.md#yorkump4) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMP4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMP4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMP4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMP4.pdf) 
 
 - :material-rename: **Run ID:** YorkUMP4 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -1219,7 +1219,7 @@
 
 ---
 #### YorkUMQ3 
-[**`Results`**](./results.md#yorkumq3), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track), [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMQ3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMQ3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMQ3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMQ3.pdf) 
+[**`Results`**](./results.md#yorkumq3) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-medical-records-track) | [**`Input`**](https://trec.nist.gov/results/trec21/medical/input.YorkUMQ3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec21/medical/summary.trec_eval.YorkUMQ3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec21/medical/summary.sample-eval.YorkUMQ3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/medical/YorkUMQ3.pdf) 
 
 - :material-rename: **Run ID:** YorkUMQ3 
 - :fontawesome-solid-user-group: **Participant:** york 

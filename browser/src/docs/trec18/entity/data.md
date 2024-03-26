@@ -1,6 +1,6 @@
 # Data - Entity 2009 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/entity09.html`](https://trec.nist.gov/data/entity09.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/entity09.html`](https://trec.nist.gov/data/entity09.html)
 
 ---
 

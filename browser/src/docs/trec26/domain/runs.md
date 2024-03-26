@@ -1,7 +1,7 @@
 # Runs - Dynamic Domain 2017 
 
 #### clip_addwords 
-[**`Participants`**](./participants.md#umd_clip), [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017), [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_addwords.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#umd_clip) | [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_addwords.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** clip_addwords 
 - :fontawesome-solid-user-group: **Participant:** UMD_CLIP 
@@ -14,7 +14,7 @@
 
 ---
 #### clip_baseline 
-[**`Participants`**](./participants.md#umd_clip), [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017), [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_baseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#umd_clip) | [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_baseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** clip_baseline 
 - :fontawesome-solid-user-group: **Participant:** UMD_CLIP 
@@ -27,7 +27,7 @@
 
 ---
 #### clip_filter 
-[**`Participants`**](./participants.md#umd_clip), [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017), [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_filter.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#umd_clip) | [**`Proceedings`**](./proceedings.md#umd-clip-using-relevance-feedback-to-find-diverse-documents-for-trec-dynamic-domain-2017) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/clip_filter.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** clip_filter 
 - :fontawesome-solid-user-group: **Participant:** UMD_CLIP 
@@ -40,7 +40,7 @@
 
 ---
 #### dqn_5_actions 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search), [**`Input`**](https://trec.nist.gov/results/trec26/domain/dqn_5_actions.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/dqn_5_actions.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** dqn_5_actions 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -53,7 +53,7 @@
 
 ---
 #### dqn_semantic_state 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search), [**`Input`**](https://trec.nist.gov/results/trec26/domain/dqn_semantic_state.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/dqn_semantic_state.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** dqn_semantic_state 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -66,7 +66,7 @@
 
 ---
 #### galago_baseline 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search), [**`Input`**](https://trec.nist.gov/results/trec26/domain/galago_baseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#a-reinforcement-learning-approach-for-dynamic-search) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/galago_baseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** galago_baseline 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -79,7 +79,7 @@
 
 ---
 #### ictnet_div_qe 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_div_qe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_div_qe.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** ictnet_div_qe 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -93,7 +93,7 @@
 
 ---
 #### ictnet_emulti 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_emulti.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_emulti.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** ictnet_emulti 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -107,7 +107,7 @@
 
 ---
 #### ictnet_fom_itr1 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_fom_itr1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_fom_itr1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** ictnet_fom_itr1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -121,7 +121,7 @@
 
 ---
 #### ictnet_params1_s 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_params1_s.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_params1_s.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** ictnet_params1_s 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -135,7 +135,7 @@
 
 ---
 #### ictnet_params2_ns 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_params2_ns.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2017-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec26/domain/ictnet_params2_ns.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/dynamic-domain-tables.pdf) 
 
 - :material-rename: **Run ID:** ictnet_params2_ns 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 

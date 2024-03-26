@@ -2,7 +2,7 @@
 
 ## Blog
 
-[`Overview`](./blog/overview.md), [`Proceedings`](./blog/proceedings.md), [`Data`](./blog/data.md), [`Results`](./blog/results.md), [`Runs`](./blog/runs.md), [`Participants`](./blog/participants.md)
+[`Overview`](./blog/overview.md) | [`Proceedings`](./blog/proceedings.md) | [`Data`](./blog/data.md) | [`Results`](./blog/results.md) | [`Runs`](./blog/runs.md) | [`Participants`](./blog/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The Blog track explores the information seeking behaviour in the blogosphere. Th
 
 ## Million Query
 
-[`Overview`](./million-query/overview.md), [`Proceedings`](./million-query/proceedings.md), [`Data`](./million-query/data.md), [`Runs`](./million-query/runs.md), [`Participants`](./million-query/participants.md)
+[`Overview`](./million-query/overview.md) | [`Proceedings`](./million-query/proceedings.md) | [`Data`](./million-query/data.md) | [`Runs`](./million-query/runs.md) | [`Participants`](./million-query/participants.md)
 
 {==
 
@@ -46,7 +46,7 @@ The Million Query (1MQ) track ran for the second time in TREC 2008. The track is
 
 ## Enterprise
 
-[`Overview`](./enterprise/overview.md), [`Proceedings`](./enterprise/proceedings.md), [`Data`](./enterprise/data.md), [`Results`](./enterprise/results.md), [`Runs`](./enterprise/runs.md), [`Participants`](./enterprise/participants.md)
+[`Overview`](./enterprise/overview.md) | [`Proceedings`](./enterprise/proceedings.md) | [`Data`](./enterprise/data.md) | [`Results`](./enterprise/results.md) | [`Runs`](./enterprise/runs.md) | [`Participants`](./enterprise/participants.md)
 
 {==
 
@@ -70,7 +70,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ## Legal
 
-[`Overview`](./legal/overview.md), [`Proceedings`](./legal/proceedings.md), [`Data`](./legal/data.md), [`Results`](./legal/results.md), [`Runs`](./legal/runs.md), [`Participants`](./legal/participants.md)
+[`Overview`](./legal/overview.md) | [`Proceedings`](./legal/proceedings.md) | [`Data`](./legal/data.md) | [`Results`](./legal/results.md) | [`Runs`](./legal/runs.md) | [`Participants`](./legal/participants.md)
 
 {==
 
@@ -92,7 +92,7 @@ TREC 2008 was the third year of the Legal Track, which focuses on evaluation of 
 
 ## Relevance Feedback
 
-[`Overview`](./relfdbk/overview.md), [`Proceedings`](./relfdbk/proceedings.md), [`Data`](./relfdbk/data.md), [`Runs`](./relfdbk/runs.md), [`Participants`](./relfdbk/participants.md)
+[`Overview`](./relfdbk/overview.md) | [`Proceedings`](./relfdbk/proceedings.md) | [`Data`](./relfdbk/data.md) | [`Runs`](./relfdbk/runs.md) | [`Participants`](./relfdbk/participants.md)
 
 {==
 

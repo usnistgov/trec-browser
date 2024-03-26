@@ -1,6 +1,6 @@
 # Overview - Video 2002
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

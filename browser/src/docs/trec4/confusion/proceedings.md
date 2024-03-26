@@ -6,7 +6,12 @@ _Chris Buckley, Amit Singhal, Mandar Mitra_
 
 - :fontawesome-solid-user-group: **Participant:** [cornell](./participants.md#cornell)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec4/papers/Cornell_trec4.ps.gz](http://trec.nist.gov/pubs/trec4/papers/Cornell_trec4.ps.gz)
-- :material-file-search: **Runs:** [CrnlB](./runs.md#crnlb), [CrnlBc10](./runs.md#crnlbc10)
+- :material-file-search: **Runs:** [CrnlB](./runs.md#crnlb) | [CrnlBc10](./runs.md#crnlbc10)
+
+??? abstract "Abstract"
+	
+	The Smart information retrieval project emphasizes completely automatic approaches to the understanding and retrieval of large quantities of text. We continue our work in TREC 4, performing runs in the routing, ad-hoc, confused text, interactive, and foreign language environments.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BuckleySM95.bib) "
 	```
@@ -32,7 +37,12 @@ _Stephen Huffman_
 
 - :fontawesome-solid-user-group: **Participant:** [nsa](./participants.md#nsa)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec4/papers/nsa.ps.gz](http://trec.nist.gov/pubs/trec4/papers/nsa.ps.gz)
-- :material-file-search: **Runs:** [ACQC10](./runs.md#acqc10), [ACQC20](./runs.md#acqc20), [ACQUNC](./runs.md#acqunc)
+- :material-file-search: **Runs:** [ACQC10](./runs.md#acqc10) | [ACQC20](./runs.md#acqc20) | [ACQUNC](./runs.md#acqunc)
+
+??? abstract "Abstract"
+	
+	Acquaintance is the name of a novel vector-space n-gram technique for categorizing documents. The technique is completely language-independent, highly garble-resistant, and computationally simple. An unoptimized version of the algorithm was used to process the TREC database in a very short time.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Huffman95.bib) "
 	```
@@ -58,7 +68,12 @@ _Kwong Bor Ng, Paul B. Kantor_
 
 - :fontawesome-solid-user-group: **Participant:** [rutgers.kantor](./participants.md#rutgers.kantor)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec4/papers/kantor.ps.gz](http://trec.nist.gov/pubs/trec4/papers/kantor.ps.gz)
-- :material-file-search: **Runs:** [rutfum](./runs.md#rutfum), [rutfuv](./runs.md#rutfuv), [rutscn20](./runs.md#rutscn20)
+- :material-file-search: **Runs:** [rutfum](./runs.md#rutfum) | [rutfuv](./runs.md#rutfuv) | [rutscn20](./runs.md#rutscn20)
+
+??? abstract "Abstract"
+	
+	We report on several experiments in using data fusion to improve information retrieval, and in approximate text and 5-gram mathcing methods for retrieval of corrupted text, in the TREC context.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/NgK95.bib) "
 	```
@@ -84,7 +99,12 @@ _David A. Grossman, David O. Holmes, Ophir Frieder, Matthew D. Nguyen, Christoph
 
 - :fontawesome-solid-user-group: **Participant:** [gmu](./participants.md#gmu)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec4/papers/gmu.ps.gz](http://trec.nist.gov/pubs/trec4/papers/gmu.ps.gz)
-- :material-file-search: **Runs:** [gmuc0](./runs.md#gmuc0), [gmuc10](./runs.md#gmuc10)
+- :material-file-search: **Runs:** [gmuc0](./runs.md#gmuc0) | [gmuc10](./runs.md#gmuc10)
+
+??? abstract "Abstract"
+	
+	For TREC-4, we enhanced our existing prototype that implements relevance ranking using the AT&T DBC-1012 Model 4 parallel database machine to support the entire document collec-tion. Additionally, we developed a special purpose IR prototype to test a new index compression algorithm and to provide performance comparisons to the relational approach. We submitted official results for both automatic and manual adhoc queries for the entire 2GB English collection and the provided Spanish collection. Additionally, we submitted results using n-grams to process the corrupted data. In addition to implementing the vector-space model, we experimented with query reduction based on term frequency. Query reduction was shown to result in dramatically improved run-time performance and, in many cases, resulted in little or no degradation of precision/ recall.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/GrossmanHFNK95.bib) "
 	```

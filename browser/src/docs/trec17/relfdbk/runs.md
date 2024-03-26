@@ -1,7 +1,7 @@
 # Runs - Relevance Feedback 2008 
 
 #### Brown.A1 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.A1 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -14,7 +14,7 @@
 
 ---
 #### Brown.A2 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.A2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.A2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.A2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.A2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.A2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.A2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.A2 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -27,7 +27,7 @@
 
 ---
 #### Brown.B1 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.B1 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -40,7 +40,7 @@
 
 ---
 #### Brown.B2 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.B2 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -53,7 +53,7 @@
 
 ---
 #### Brown.C1 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.C1 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -66,7 +66,7 @@
 
 ---
 #### Brown.C2 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.C2 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -79,7 +79,7 @@
 
 ---
 #### Brown.D1 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.D1 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -92,7 +92,7 @@
 
 ---
 #### Brown.D2 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.D2 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -105,7 +105,7 @@
 
 ---
 #### Brown.E1 
-[**`Participants`**](./participants.md#brown_university), [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
+[**`Participants`**](./participants.md#brown_university) | [**`Proceedings`**](./proceedings.md#incorporating-relevance-and-pseudo-relevance-feedback-in-the-markov-random-field-model) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.Brown.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.Brown.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.Brown.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/Brown_University.main.pdf) 
 
 - :material-rename: **Run ID:** Brown.E1 
 - :fontawesome-solid-user-group: **Participant:** Brown_University 
@@ -118,7 +118,7 @@
 
 ---
 #### CMURF08.A1 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.A1 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -131,7 +131,7 @@
 
 ---
 #### CMURF08.B1 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.B1 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -144,7 +144,7 @@
 
 ---
 #### CMURF08.B2 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.B2 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -157,7 +157,7 @@
 
 ---
 #### CMURF08.C1 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.C1 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -170,7 +170,7 @@
 
 ---
 #### CMURF08.C2 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.C2 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -183,7 +183,7 @@
 
 ---
 #### CMURF08.D1 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.D1 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -196,7 +196,7 @@
 
 ---
 #### CMURF08.D2 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.D2 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -209,7 +209,7 @@
 
 ---
 #### CMURF08.E1 
-[**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
+[**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#extending-relevance-model-for-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.CMURF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.CMURF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.CMURF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/CMU-LTI-DIR.main.pdf) 
 
 - :material-rename: **Run ID:** CMURF08.E1 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -222,7 +222,7 @@
 
 ---
 #### DUTIRRF08.A1 
-[**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
+[**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -231,11 +231,11 @@
 - :material-upload: **Submission:** 8/26/2008 
 - :material-text-search: **Task:** A 
 - :material-fingerprint: **MD5:** `5bf4ead8357247f0bb2c30342f2e1915` 
-- :material-text: **Run description:** Our baseline, we used the Indri retrieval system for our experiments. This run is only a simple query likelihood run. We didn’t make any change to the topics, just the original topics. 
+- :material-text: **Run description:** Our baseline, we used the Indri retrieval system for our experiments. This run is only a simple query likelihood run. We didnt make any change to the topics, just the original topics. 
 
 ---
 #### DUTIRRF08.B1 
-[**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
+[**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -248,7 +248,7 @@
 
 ---
 #### DUTIRRF08.C1 
-[**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
+[**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -261,7 +261,7 @@
 
 ---
 #### DUTIRRF08.D1 
-[**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
+[**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -274,7 +274,7 @@
 
 ---
 #### DUTIRRF08.E1 
-[**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
+[**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-blog-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.DUTIRRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.DUTIRRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.DUTIRRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/DUTIR.main.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -287,7 +287,7 @@
 
 ---
 #### FubRF08.A1 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -300,7 +300,7 @@
 
 ---
 #### FubRF08.A2 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.A2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.A2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.A2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.A2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.A2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.A2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.A2 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -313,7 +313,7 @@
 
 ---
 #### FubRF08.B1 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -326,7 +326,7 @@
 
 ---
 #### FubRF08.C1 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -339,7 +339,7 @@
 
 ---
 #### FubRF08.C2 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.C2 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -352,7 +352,7 @@
 
 ---
 #### FubRF08.D1 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -365,7 +365,7 @@
 
 ---
 #### FubRF08.D2 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.D2 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -378,7 +378,7 @@
 
 ---
 #### FubRF08.E1 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -391,7 +391,7 @@
 
 ---
 #### FubRF08.E2 
-[**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
+[**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-at-trec-2008-relevance-feedback-track-extending-rocchio-with-distributional-term-analysis) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.FubRF08.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.FubRF08.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.FubRF08.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/fub.main.pdf) 
 
 - :material-rename: **Run ID:** FubRF08.E2 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -404,7 +404,7 @@
 
 ---
 #### HitRF08.A1 
-[**`Participants`**](./participants.md#hit2), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
+[**`Participants`**](./participants.md#hit2) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
 
 - :material-rename: **Run ID:** HitRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** HIT2 
@@ -417,7 +417,7 @@
 
 ---
 #### HitRF08.B1 
-[**`Participants`**](./participants.md#hit2), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
+[**`Participants`**](./participants.md#hit2) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
 
 - :material-rename: **Run ID:** HitRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** HIT2 
@@ -430,7 +430,7 @@
 
 ---
 #### HitRF08.C1 
-[**`Participants`**](./participants.md#hit2), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
+[**`Participants`**](./participants.md#hit2) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
 
 - :material-rename: **Run ID:** HitRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** HIT2 
@@ -443,7 +443,7 @@
 
 ---
 #### HitRF08.D1 
-[**`Participants`**](./participants.md#hit2), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
+[**`Participants`**](./participants.md#hit2) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
 
 - :material-rename: **Run ID:** HitRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** HIT2 
@@ -456,7 +456,7 @@
 
 ---
 #### HitRF08.E1 
-[**`Participants`**](./participants.md#hit2), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
+[**`Participants`**](./participants.md#hit2) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HitRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HitRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HitRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HIT2.main.pdf) 
 
 - :material-rename: **Run ID:** HitRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** HIT2 
@@ -469,7 +469,7 @@
 
 ---
 #### HKPU.A1 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.A1 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -482,7 +482,7 @@
 
 ---
 #### HKPU.B1 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.B1 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -495,7 +495,7 @@
 
 ---
 #### HKPU.B2 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.B2 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -508,7 +508,7 @@
 
 ---
 #### HKPU.C1 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.C1 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -521,7 +521,7 @@
 
 ---
 #### HKPU.C2 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.C2 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -534,7 +534,7 @@
 
 ---
 #### HKPU.D1 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.D1 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -547,7 +547,7 @@
 
 ---
 #### HKPU.E1 
-[**`Participants`**](./participants.md#hkpu), [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
+[**`Participants`**](./participants.md#hkpu) | [**`Proceedings`**](./proceedings.md#evaluating-a-novel-kind-of-retrieval-models-based-on-relevance-decision-making-in-a-relevance-feedback-environment) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.HKPU.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.HKPU.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.HKPU.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/HKPU.main.pdf) 
 
 - :material-rename: **Run ID:** HKPU.E1 
 - :fontawesome-solid-user-group: **Participant:** HKPU 
@@ -560,7 +560,7 @@
 
 ---
 #### IowaSRF08.A1 
-[**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
+[**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
 
 - :material-rename: **Run ID:** IowaSRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -573,7 +573,7 @@
 
 ---
 #### IowaSRF08.B1 
-[**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
+[**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
 
 - :material-rename: **Run ID:** IowaSRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -586,7 +586,7 @@
 
 ---
 #### IowaSRF08.C1 
-[**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
+[**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
 
 - :material-rename: **Run ID:** IowaSRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -599,7 +599,7 @@
 
 ---
 #### IowaSRF08.D1 
-[**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
+[**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
 
 - :material-rename: **Run ID:** IowaSRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -612,7 +612,7 @@
 
 ---
 #### IowaSRF08.E1 
-[**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
+[**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.IowaSRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.IowaSRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.IowaSRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIowa-Srinivasan.main.pdf) 
 
 - :material-rename: **Run ID:** IowaSRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -625,7 +625,7 @@
 
 ---
 #### pris.A1 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.A1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -638,7 +638,7 @@
 
 ---
 #### pris.B1 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.B1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -651,7 +651,7 @@
 
 ---
 #### pris.B2 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.B2 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -664,7 +664,7 @@
 
 ---
 #### pris.C1 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.C1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -677,7 +677,7 @@
 
 ---
 #### pris.C2 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.C2 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -690,7 +690,7 @@
 
 ---
 #### pris.D1 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.D1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -703,7 +703,7 @@
 
 ---
 #### pris.D2 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.D2 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -716,7 +716,7 @@
 
 ---
 #### pris.E1 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.E1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -729,7 +729,7 @@
 
 ---
 #### pris.E2 
-[**`Participants`**](./participants.md#bupt_pris_), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
+[**`Participants`**](./participants.md#bupt_pris_) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.pris.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.pris.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.pris.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/BUPT_pris_.main.pdf) 
 
 - :material-rename: **Run ID:** pris.E2 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -742,7 +742,7 @@
 
 ---
 #### RMIT08.A1 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.A1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -755,7 +755,7 @@
 
 ---
 #### RMIT08.B1 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.B1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -768,7 +768,7 @@
 
 ---
 #### RMIT08.C1 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.C1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -781,7 +781,7 @@
 
 ---
 #### RMIT08.C2 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.C2 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -794,7 +794,7 @@
 
 ---
 #### RMIT08.D1 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.D1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -807,7 +807,7 @@
 
 ---
 #### RMIT08.D2 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.D2 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -820,7 +820,7 @@
 
 ---
 #### RMIT08.E1 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.E1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -833,7 +833,7 @@
 
 ---
 #### RMIT08.E2 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.RMIT08.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.RMIT08.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.RMIT08.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/rmit.main.pdf) 
 
 - :material-rename: **Run ID:** RMIT08.E2 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -846,7 +846,7 @@
 
 ---
 #### SabRF08.A1 
-[**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
+[**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
 
 - :material-rename: **Run ID:** SabRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -859,7 +859,7 @@
 
 ---
 #### SabRF08.B1 
-[**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
+[**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
 
 - :material-rename: **Run ID:** SabRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -872,7 +872,7 @@
 
 ---
 #### SabRF08.C1 
-[**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
+[**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
 
 - :material-rename: **Run ID:** SabRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -885,7 +885,7 @@
 
 ---
 #### SabRF08.D1 
-[**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
+[**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
 
 - :material-rename: **Run ID:** SabRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -898,7 +898,7 @@
 
 ---
 #### SabRF08.E1 
-[**`Participants`**](./participants.md#sabirbuckley), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
+[**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.SabRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.SabRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.SabRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/sabir.buckley.main.pdf) 
 
 - :material-rename: **Run ID:** SabRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -911,7 +911,7 @@
 
 ---
 #### THUFB.A1 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.A1 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -924,7 +924,7 @@
 
 ---
 #### THUFB.B1 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.B1 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -937,7 +937,7 @@
 
 ---
 #### THUFB.B2 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.B2 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -950,7 +950,7 @@
 
 ---
 #### THUFB.C1 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.C1 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -963,7 +963,7 @@
 
 ---
 #### THUFB.C2 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.C2 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -976,7 +976,7 @@
 
 ---
 #### THUFB.D1 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.D1 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -989,7 +989,7 @@
 
 ---
 #### THUFB.D2 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.D2 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -1002,7 +1002,7 @@
 
 ---
 #### THUFB.E1 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.E1 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -1015,7 +1015,7 @@
 
 ---
 #### THUFB.E2 
-[**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
+[**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-relevance-feedback-track) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.THUFB.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.THUFB.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.THUFB.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/THUIR.main.pdf) 
 
 - :material-rename: **Run ID:** THUFB.E2 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -1028,7 +1028,7 @@
 
 ---
 #### uams08bl.A1 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08bl.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08bl.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08bl.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08bl.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08bl.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08bl.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08bl.A1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1041,7 +1041,7 @@
 
 ---
 #### uams08bl.A2 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08bl.A2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08bl.A2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08bl.A2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08bl.A2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08bl.A2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08bl.A2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08bl.A2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1054,7 +1054,7 @@
 
 ---
 #### uams08m6.B1 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m6.B1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1067,7 +1067,7 @@
 
 ---
 #### uams08m6.C1 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m6.C1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1080,7 +1080,7 @@
 
 ---
 #### uams08m6.D1 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m6.D1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1093,7 +1093,7 @@
 
 ---
 #### uams08m6.E1 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m6.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m6.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m6.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m6.E1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1106,7 +1106,7 @@
 
 ---
 #### uams08m9.B2 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m9.B2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1119,7 +1119,7 @@
 
 ---
 #### uams08m9.C2 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m9.C2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1132,7 +1132,7 @@
 
 ---
 #### uams08m9.D2 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m9.D2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1145,7 +1145,7 @@
 
 ---
 #### uams08m9.E2 
-[**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
+[**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#incorporating-non-relevance-information-in-the-estimation-of-query-models) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uams08m9.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uams08m9.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uams08m9.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAms_De_Rijke.main.pdf) 
 
 - :material-rename: **Run ID:** uams08m9.E2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -1158,7 +1158,7 @@
 
 ---
 #### UAmsR08CJ.B2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08CJ.B2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1171,7 +1171,7 @@
 
 ---
 #### UAmsR08CJ.C2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08CJ.C2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1184,7 +1184,7 @@
 
 ---
 #### UAmsR08CJ.D2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08CJ.D2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1197,7 +1197,7 @@
 
 ---
 #### UAmsR08CJ.E2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08CJ.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08CJ.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08CJ.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08CJ.E2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1210,7 +1210,7 @@
 
 ---
 #### UAmsR08PD.A1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.A1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1223,7 +1223,7 @@
 
 ---
 #### UAmsR08PD.B1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.B1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1236,7 +1236,7 @@
 
 ---
 #### UAmsR08PD.C1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.C1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1249,7 +1249,7 @@
 
 ---
 #### UAmsR08PD.D1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.D1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1262,7 +1262,7 @@
 
 ---
 #### UAmsR08PD.E1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.E1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1275,7 +1275,7 @@
 
 ---
 #### UAmsR08PD.F1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.F1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.F1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.F1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#the-impact-of-positive-negative-and-topical-relevance-feedback) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UAmsR08PD.F1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UAmsR08PD.F1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UAmsR08PD.F1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UAmsterdam.main.pdf) 
 
 - :material-rename: **Run ID:** UAmsR08PD.F1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1288,7 +1288,7 @@
 
 ---
 #### UIUC.A1 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.A1 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1301,7 +1301,7 @@
 
 ---
 #### UIUC.B1 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.B1 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1314,7 +1314,7 @@
 
 ---
 #### UIUC.B2 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.B2 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1327,7 +1327,7 @@
 
 ---
 #### UIUC.C1 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.C1 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1340,7 +1340,7 @@
 
 ---
 #### UIUC.C2 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.C2 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1353,7 +1353,7 @@
 
 ---
 #### UIUC.D1 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.D1 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1366,7 +1366,7 @@
 
 ---
 #### UIUC.D2 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.D2 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1379,7 +1379,7 @@
 
 ---
 #### UIUC.E1 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.E1 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1392,7 +1392,7 @@
 
 ---
 #### UIUC.E2 
-[**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
+[**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-adaptive-relevance-feedback-uiuc-trec-2008-relevance-feedback-experiments) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.UIUC.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.UIUC.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.UIUC.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UIUC.main.pdf) 
 
 - :material-rename: **Run ID:** UIUC.E2 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -1405,7 +1405,7 @@
 
 ---
 #### uogRF08.A1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.A1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.A1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.A1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.A1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.A1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.A1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.A1 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1418,7 +1418,7 @@
 
 ---
 #### uogRF08.A2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.A2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.A2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.A2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.A2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.A2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.A2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.A2 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1431,7 +1431,7 @@
 
 ---
 #### uogRF08.B1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.B1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.B1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.B1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.B1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.B1 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1444,7 +1444,7 @@
 
 ---
 #### uogRF08.B2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.B2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.B2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.B2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.B2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.B2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.B2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.B2 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1457,7 +1457,7 @@
 
 ---
 #### uogRF08.C1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.C1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.C1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.C1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.C1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.C1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.C1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.C1 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1470,7 +1470,7 @@
 
 ---
 #### uogRF08.C2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.C2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.C2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.C2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.C2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.C2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.C2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.C2 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1483,7 +1483,7 @@
 
 ---
 #### uogRF08.D1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.D1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.D1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.D1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.D1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.D1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.D1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.D1 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1496,7 +1496,7 @@
 
 ---
 #### uogRF08.D2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.D2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.D2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.D2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.D2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.D2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.D2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.D2 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1509,7 +1509,7 @@
 
 ---
 #### uogRF08.E1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.E1.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.E1.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.E1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.E1.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.E1.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.E1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.E1 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -1522,7 +1522,7 @@
 
 ---
 #### uogRF08.E2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.E2.gz), [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.E2.gz), [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.E2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Summary (mtc)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.mtc.uogRF08.E2.gz) | [**`Summary (statAP)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.statAP.uogRF08.E2.gz) | [**`Summary (top10)`**](https://trec.nist.gov/results/trec17/relfdbk/summary.top10.uogRF08.E2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/relevance.feedback/UoGtr.main.pdf) 
 
 - :material-rename: **Run ID:** uogRF08.E2 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 

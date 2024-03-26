@@ -1,7 +1,7 @@
 # Runs - Blog 2009 
 
 #### BIT09P 
-[**`Results`**](./results.md#bit09p), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-at-trec-2009-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.BIT09P.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.BIT09P.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.BIT09P.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.BIT09P.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/BIT09P.feed.pdf) 
+[**`Results`**](./results.md#bit09p) | [**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-at-trec-2009-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.BIT09P.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.BIT09P.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.BIT09P.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.BIT09P.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/BIT09P.feed.pdf) 
 
 - :material-rename: **Run ID:** BIT09P 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -15,7 +15,7 @@
 
 ---
 #### BIT09PH 
-[**`Results`**](./results.md#bit09ph), [**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-at-trec-2009-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.BIT09PH.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.BIT09PH.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.BIT09PH.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.BIT09PH.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/BIT09PH.feed.pdf) 
+[**`Results`**](./results.md#bit09ph) | [**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-at-trec-2009-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.BIT09PH.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.BIT09PH.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.BIT09PH.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.BIT09PH.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/BIT09PH.feed.pdf) 
 
 - :material-rename: **Run ID:** BIT09PH 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -29,7 +29,7 @@
 
 ---
 #### combined 
-[**`Results`**](./results.md#combined), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.combined.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.combined.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.combined.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.combined.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/combined.feed.pdf) 
+[**`Results`**](./results.md#combined) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.combined.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.combined.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.combined.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.combined.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/combined.feed.pdf) 
 
 - :material-rename: **Run ID:** combined 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -43,7 +43,7 @@
 
 ---
 #### FEUPirlab1 
-[**`Results`**](./results.md#feupirlab1), [**`Participants`**](./participants.md#feup), [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab1.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab1.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab1.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab1.feed.pdf) 
+[**`Results`**](./results.md#feupirlab1) | [**`Participants`**](./participants.md#feup) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab1.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab1.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab1.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab1.feed.pdf) 
 
 - :material-rename: **Run ID:** FEUPirlab1 
 - :fontawesome-solid-user-group: **Participant:** FEUP 
@@ -57,7 +57,7 @@
 
 ---
 #### FEUPirlab2 
-[**`Results`**](./results.md#feupirlab2), [**`Participants`**](./participants.md#feup), [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab2.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab2.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab2.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab2.feed.pdf) 
+[**`Results`**](./results.md#feupirlab2) | [**`Participants`**](./participants.md#feup) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab2.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab2.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab2.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab2.feed.pdf) 
 
 - :material-rename: **Run ID:** FEUPirlab2 
 - :fontawesome-solid-user-group: **Participant:** FEUP 
@@ -71,7 +71,7 @@
 
 ---
 #### FEUPirlab3 
-[**`Results`**](./results.md#feupirlab3), [**`Participants`**](./participants.md#feup), [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab3.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab3.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab3.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab3.feed.pdf) 
+[**`Results`**](./results.md#feupirlab3) | [**`Participants`**](./participants.md#feup) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab3.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab3.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab3.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab3.feed.pdf) 
 
 - :material-rename: **Run ID:** FEUPirlab3 
 - :fontawesome-solid-user-group: **Participant:** FEUP 
@@ -85,7 +85,7 @@
 
 ---
 #### FEUPirlab4 
-[**`Results`**](./results.md#feupirlab4), [**`Participants`**](./participants.md#feup), [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab4.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab4.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab4.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab4.feed.pdf) 
+[**`Results`**](./results.md#feupirlab4) | [**`Participants`**](./participants.md#feup) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2009-blog-track-temporal-evidence-in-the-faceted-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.FEUPirlab4.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.FEUPirlab4.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.FEUPirlab4.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.FEUPirlab4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/FEUPirlab4.feed.pdf) 
 
 - :material-rename: **Run ID:** FEUPirlab4 
 - :fontawesome-solid-user-group: **Participant:** FEUP 
@@ -99,7 +99,7 @@
 
 ---
 #### ICTNETBDRUN1 
-[**`Results`**](./results.md#ictnetbdrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN1.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN1.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN1.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN1.feed.pdf) 
+[**`Results`**](./results.md#ictnetbdrun1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN1.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN1.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN1.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN1.feed.pdf) 
 
 - :material-rename: **Run ID:** ICTNETBDRUN1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -113,7 +113,7 @@
 
 ---
 #### ICTNETBDRUN2 
-[**`Results`**](./results.md#ictnetbdrun2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN2.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN2.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN2.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN2.feed.pdf) 
+[**`Results`**](./results.md#ictnetbdrun2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN2.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN2.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN2.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN2.feed.pdf) 
 
 - :material-rename: **Run ID:** ICTNETBDRUN2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -127,7 +127,7 @@
 
 ---
 #### ICTNETBDRUN3 
-[**`Results`**](./results.md#ictnetbdrun3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN3.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN3.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN3.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN3.feed.pdf) 
+[**`Results`**](./results.md#ictnetbdrun3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN3.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN3.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN3.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN3.feed.pdf) 
 
 - :material-rename: **Run ID:** ICTNETBDRUN3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -141,7 +141,7 @@
 
 ---
 #### ICTNETBDRUN4 
-[**`Results`**](./results.md#ictnetbdrun4), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN4.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN4.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN4.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN4.feed.pdf) 
+[**`Results`**](./results.md#ictnetbdrun4) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETBDRUN4.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.ICTNETBDRUN4.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.ICTNETBDRUN4.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.ICTNETBDRUN4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/ICTNETBDRUN4.feed.pdf) 
 
 - :material-rename: **Run ID:** ICTNETBDRUN4 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -155,7 +155,7 @@
 
 ---
 #### ICTNETTSRun1 
-[**`Results`**](./results.md#ictnettsrun1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun1.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun1.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun1.topstories.pdf) 
+[**`Results`**](./results.md#ictnettsrun1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun1.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun1.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun1.topstories.pdf) 
 
 - :material-rename: **Run ID:** ICTNETTSRun1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -169,7 +169,7 @@
 
 ---
 #### ICTNETTSRun2 
-[**`Results`**](./results.md#ictnettsrun2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun2.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun2.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun2.topstories.pdf) 
+[**`Results`**](./results.md#ictnettsrun2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun2.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun2.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun2.topstories.pdf) 
 
 - :material-rename: **Run ID:** ICTNETTSRun2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -183,7 +183,7 @@
 
 ---
 #### ICTNETTSRun3 
-[**`Results`**](./results.md#ictnettsrun3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun3.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun3.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun3.topstories.pdf) 
+[**`Results`**](./results.md#ictnettsrun3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun3.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun3.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun3.topstories.pdf) 
 
 - :material-rename: **Run ID:** ICTNETTSRun3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -197,7 +197,7 @@
 
 ---
 #### ICTNETTSRun4 
-[**`Results`**](./results.md#ictnettsrun4), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun4.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun4.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun4.topstories.pdf) 
+[**`Results`**](./results.md#ictnettsrun4) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-blog-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ICTNETTSRun4.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ICTNETTSRun4.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ICTNETTSRun4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ICTNETTSRun4.topstories.pdf) 
 
 - :material-rename: **Run ID:** ICTNETTSRun4 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -211,7 +211,7 @@
 
 ---
 #### IlpsBDm1T 
-[**`Results`**](./results.md#ilpsbdm1t), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDm1T.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDm1T.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDm1T.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDm1T.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDm1T.feed.pdf) 
+[**`Results`**](./results.md#ilpsbdm1t) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDm1T.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDm1T.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDm1T.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDm1T.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDm1T.feed.pdf) 
 
 - :material-rename: **Run ID:** IlpsBDm1T 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -225,7 +225,7 @@
 
 ---
 #### IlpsBDm2T 
-[**`Results`**](./results.md#ilpsbdm2t), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDm2T.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDm2T.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDm2T.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDm2T.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDm2T.feed.pdf) 
+[**`Results`**](./results.md#ilpsbdm2t) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDm2T.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDm2T.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDm2T.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDm2T.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDm2T.feed.pdf) 
 
 - :material-rename: **Run ID:** IlpsBDm2T 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -239,7 +239,7 @@
 
 ---
 #### IlpsBDmxfT 
-[**`Results`**](./results.md#ilpsbdmxft), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDmxfT.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDmxfT.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDmxfT.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDmxfT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDmxfT.feed.pdf) 
+[**`Results`**](./results.md#ilpsbdmxft) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDmxfT.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDmxfT.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDmxfT.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDmxfT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDmxfT.feed.pdf) 
 
 - :material-rename: **Run ID:** IlpsBDmxfT 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -253,7 +253,7 @@
 
 ---
 #### IlpsBDmxT 
-[**`Results`**](./results.md#ilpsbdmxt), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDmxT.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDmxT.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDmxT.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDmxT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDmxT.feed.pdf) 
+[**`Results`**](./results.md#ilpsbdmxt) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsBDmxT.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IlpsBDmxT.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IlpsBDmxT.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IlpsBDmxT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IlpsBDmxT.feed.pdf) 
 
 - :material-rename: **Run ID:** IlpsBDmxT 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -267,7 +267,7 @@
 
 ---
 #### IlpsTSExP 
-[**`Results`**](./results.md#ilpstsexp), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSExP.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSExP.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSExP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSExP.topstories.pdf) 
+[**`Results`**](./results.md#ilpstsexp) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSExP.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSExP.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSExP.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSExP.topstories.pdf) 
 
 - :material-rename: **Run ID:** IlpsTSExP 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -281,7 +281,7 @@
 
 ---
 #### IlpsTSExT 
-[**`Results`**](./results.md#ilpstsext), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSExT.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSExT.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSExT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSExT.topstories.pdf) 
+[**`Results`**](./results.md#ilpstsext) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSExT.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSExT.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSExT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSExT.topstories.pdf) 
 
 - :material-rename: **Run ID:** IlpsTSExT 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -295,7 +295,7 @@
 
 ---
 #### IlpsTSHlP 
-[**`Results`**](./results.md#ilpstshlp), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSHlP.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSHlP.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSHlP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSHlP.topstories.pdf) 
+[**`Results`**](./results.md#ilpstshlp) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSHlP.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSHlP.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSHlP.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSHlP.topstories.pdf) 
 
 - :material-rename: **Run ID:** IlpsTSHlP 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -309,7 +309,7 @@
 
 ---
 #### IlpsTSHlT 
-[**`Results`**](./results.md#ilpstshlt), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSHlT.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSHlT.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSHlT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSHlT.topstories.pdf) 
+[**`Results`**](./results.md#ilpstshlt) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#from-blogs-to-news-identifying-hot-topics-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IlpsTSHlT.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IlpsTSHlT.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IlpsTSHlT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IlpsTSHlT.topstories.pdf) 
 
 - :material-rename: **Run ID:** IlpsTSHlT 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -323,7 +323,7 @@
 
 ---
 #### IowaSBD0901 
-[**`Results`**](./results.md#iowasbd0901), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBD0901.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IowaSBD0901.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IowaSBD0901.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IowaSBD0901.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IowaSBD0901.feed.pdf) 
+[**`Results`**](./results.md#iowasbd0901) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBD0901.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IowaSBD0901.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IowaSBD0901.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IowaSBD0901.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IowaSBD0901.feed.pdf) 
 
 - :material-rename: **Run ID:** IowaSBD0901 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -333,11 +333,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** feed 
 - :material-fingerprint: **MD5:** `2c62780cf42fc2f79940b2aebf330242` 
-- :material-text: **Run description:** The posts are indexed using Lucene engine. The queries are composed using the <query> tag and up to 10 terms extracted from the <narrative> tag using TFIDF. Two hundred posts are retrieved and are analyzed according to the query’s facets. A lingpipe classifier is used for the opinionated/factual facet, the length of the posts us used for the in-depth/shallow facet, and the number of personal pronouns is used for the personal/official facet.  External Resource: Lingpipe sentiment polarity training data 
+- :material-text: **Run description:** The posts are indexed using Lucene engine. The queries are composed using the <query> tag and up to 10 terms extracted from the <narrative> tag using TFIDF. Two hundred posts are retrieved and are analyzed according to the querys facets. A lingpipe classifier is used for the opinionated/factual facet, the length of the posts us used for the in-depth/shallow facet, and the number of personal pronouns is used for the personal/official facet.  External Resource: Lingpipe sentiment polarity training data 
 
 ---
 #### IowaSBD0902 
-[**`Results`**](./results.md#iowasbd0902), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBD0902.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IowaSBD0902.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IowaSBD0902.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IowaSBD0902.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IowaSBD0902.feed.pdf) 
+[**`Results`**](./results.md#iowasbd0902) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBD0902.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.IowaSBD0902.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.IowaSBD0902.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.IowaSBD0902.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/IowaSBD0902.feed.pdf) 
 
 - :material-rename: **Run ID:** IowaSBD0902 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -347,11 +347,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** feed 
 - :material-fingerprint: **MD5:** `653bdb878968ce3af3cf6e1c671f87b1` 
-- :material-text: **Run description:** The posts are indexed using Lucene engine. The queries are composed using the <query> tag and up to 10 terms extracted from the <narrative> tag using TFIDF.  Fifty posts are retrieved for pseudo-feedback. Using the latent Dirichlet relevance model (Ha-Thuc and Srinivasan), we obtain ten query expansion terms, which are added to the original query. Two hundred posts are then retrieved and analyzed according to the query’s facets. A lingpipe classifier is used for the opinionated/factual facet, the length of the posts us used for the in-depth/shallow facet, and the number of personal pronouns is used for the personal/official facet.  External resource: Lingpipe sentiment polarity training data 
+- :material-text: **Run description:** The posts are indexed using Lucene engine. The queries are composed using the <query> tag and up to 10 terms extracted from the <narrative> tag using TFIDF.  Fifty posts are retrieved for pseudo-feedback. Using the latent Dirichlet relevance model (Ha-Thuc and Srinivasan), we obtain ten query expansion terms, which are added to the original query. Two hundred posts are then retrieved and analyzed according to the querys facets. A lingpipe classifier is used for the opinionated/factual facet, the length of the posts us used for the in-depth/shallow facet, and the number of personal pronouns is used for the personal/official facet.  External resource: Lingpipe sentiment polarity training data 
 
 ---
 #### IowaSBT0901 
-[**`Results`**](./results.md#iowasbt0901), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0901.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0901.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0901.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0901.topstories.pdf) 
+[**`Results`**](./results.md#iowasbt0901) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0901.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0901.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0901.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0901.topstories.pdf) 
 
 - :material-rename: **Run ID:** IowaSBT0901 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -361,11 +361,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** topstories 
 - :material-fingerprint: **MD5:** `f5a3cc6fc65cc2c4bc11d0db00ea1e5d` 
-- :material-text: **Run description:** Ranking headlines for a query date: Given a query date (d) we start with the URLs of the corresponding set of headlines.   As directed these correspond to headlines published on d-1, d and d+1 dates.  We search the blog dataset for posts that contain a headline URL.  Headline URLs are then ranked by the number of posts returned.  The top 100 are submitted for the query date.   Ranking posts for a headline: The posts are indexed using Lucene. When a URL is found in a post, we extract the surrounding window of text.  The size of this window is 800 characters before and after the URL (including HTML).  Given a headline (h) these texts are accumulated from all posts containing the URL for h.  We then extract keywords from these texts using our latent Dirichlet relevance model (Ha-Thuc and Srinivasan, “A Latent Dirichlet Framework for Relevance Modeling”, 5th Asia Information Retrieval Symposium, 2009).  These keywords are used to query the blog dataset.  The top 10 are returned as the set of posts to read for headline h. 
+- :material-text: **Run description:** Ranking headlines for a query date: Given a query date (d) we start with the URLs of the corresponding set of headlines.   As directed these correspond to headlines published on d-1, d and d+1 dates.  We search the blog dataset for posts that contain a headline URL.  Headline URLs are then ranked by the number of posts returned.  The top 100 are submitted for the query date.   Ranking posts for a headline: The posts are indexed using Lucene. When a URL is found in a post, we extract the surrounding window of text.  The size of this window is 800 characters before and after the URL (including HTML).  Given a headline (h) these texts are accumulated from all posts containing the URL for h.  We then extract keywords from these texts using our latent Dirichlet relevance model (Ha-Thuc and Srinivasan, A Latent Dirichlet Framework for Relevance Modeling, 5th Asia Information Retrieval Symposium, 2009).  These keywords are used to query the blog dataset.  The top 10 are returned as the set of posts to read for headline h. 
 
 ---
 #### IowaSBT0902 
-[**`Results`**](./results.md#iowasbt0902), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0902.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0902.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0902.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0902.topstories.pdf) 
+[**`Results`**](./results.md#iowasbt0902) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0902.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0902.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0902.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0902.topstories.pdf) 
 
 - :material-rename: **Run ID:** IowaSBT0902 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -379,7 +379,7 @@
 
 ---
 #### IowaSBT0903 
-[**`Results`**](./results.md#iowasbt0903), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0903.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0903.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0903.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0903.topstories.pdf) 
+[**`Results`**](./results.md#iowasbt0903) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0903.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0903.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0903.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0903.topstories.pdf) 
 
 - :material-rename: **Run ID:** IowaSBT0903 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -393,7 +393,7 @@
 
 ---
 #### IowaSBT0904 
-[**`Results`**](./results.md#iowasbt0904), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0904.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0904.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0904.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0904.topstories.pdf) 
+[**`Results`**](./results.md#iowasbt0904) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.IowaSBT0904.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.IowaSBT0904.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.IowaSBT0904.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/IowaSBT0904.topstories.pdf) 
 
 - :material-rename: **Run ID:** IowaSBT0904 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -407,7 +407,7 @@
 
 ---
 #### KLEClusPrior 
-[**`Results`**](./results.md#kleclusprior), [**`Participants`**](./participants.md#postech_kle), [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEClusPrior.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEClusPrior.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEClusPrior.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEClusPrior.topstories.pdf) 
+[**`Results`**](./results.md#kleclusprior) | [**`Participants`**](./participants.md#postech_kle) | [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEClusPrior.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEClusPrior.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEClusPrior.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEClusPrior.topstories.pdf) 
 
 - :material-rename: **Run ID:** KLEClusPrior 
 - :fontawesome-solid-user-group: **Participant:** POSTECH_KLE 
@@ -421,7 +421,7 @@
 
 ---
 #### KLECluster 
-[**`Results`**](./results.md#klecluster), [**`Participants`**](./participants.md#postech_kle), [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLECluster.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLECluster.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLECluster.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLECluster.topstories.pdf) 
+[**`Results`**](./results.md#klecluster) | [**`Participants`**](./participants.md#postech_kle) | [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLECluster.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLECluster.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLECluster.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLECluster.topstories.pdf) 
 
 - :material-rename: **Run ID:** KLECluster 
 - :fontawesome-solid-user-group: **Participant:** POSTECH_KLE 
@@ -435,7 +435,7 @@
 
 ---
 #### KLEFeed 
-[**`Results`**](./results.md#klefeed), [**`Participants`**](./participants.md#postech_kle), [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEFeed.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEFeed.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEFeed.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEFeed.topstories.pdf) 
+[**`Results`**](./results.md#klefeed) | [**`Participants`**](./participants.md#postech_kle) | [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEFeed.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEFeed.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEFeed.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEFeed.topstories.pdf) 
 
 - :material-rename: **Run ID:** KLEFeed 
 - :fontawesome-solid-user-group: **Participant:** POSTECH_KLE 
@@ -449,7 +449,7 @@
 
 ---
 #### KLEFeedPrior 
-[**`Results`**](./results.md#klefeedprior), [**`Participants`**](./participants.md#postech_kle), [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEFeedPrior.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEFeedPrior.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEFeedPrior.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEFeedPrior.topstories.pdf) 
+[**`Results`**](./results.md#klefeedprior) | [**`Participants`**](./participants.md#postech_kle) | [**`Proceedings`**](./proceedings.md#postech-at-trec-2009-blog-track-top-stories-identification) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.KLEFeedPrior.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.KLEFeedPrior.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.KLEFeedPrior.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/KLEFeedPrior.topstories.pdf) 
 
 - :material-rename: **Run ID:** KLEFeedPrior 
 - :fontawesome-solid-user-group: **Participant:** POSTECH_KLE 
@@ -463,7 +463,7 @@
 
 ---
 #### nounfull 
-[**`Results`**](./results.md#nounfull), [**`Participants`**](./participants.md#knowcenter), [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.nounfull.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.nounfull.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.nounfull.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.nounfull.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/nounfull.feed.pdf) 
+[**`Results`**](./results.md#nounfull) | [**`Participants`**](./participants.md#knowcenter) | [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.nounfull.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.nounfull.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.nounfull.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.nounfull.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/nounfull.feed.pdf) 
 
 - :material-rename: **Run ID:** nounfull 
 - :fontawesome-solid-user-group: **Participant:** knowcenter 
@@ -477,7 +477,7 @@
 
 ---
 #### OWA 
-[**`Results`**](./results.md#owa), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.OWA.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.OWA.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.OWA.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.OWA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/OWA.feed.pdf) 
+[**`Results`**](./results.md#owa) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.OWA.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.OWA.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.OWA.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.OWA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/OWA.feed.pdf) 
 
 - :material-rename: **Run ID:** OWA 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -491,7 +491,7 @@
 
 ---
 #### pris 
-[**`Results`**](./results.md#pris), [**`Participants`**](./participants.md#buptpris___2009), [**`Proceedings`**](./proceedings.md#a-study-of-faceted-blog-distillationpris-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.pris.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.pris.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.pris.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.pris.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/pris.feed.pdf) 
+[**`Results`**](./results.md#pris) | [**`Participants`**](./participants.md#buptpris___2009) | [**`Proceedings`**](./proceedings.md#a-study-of-faceted-blog-distillationpris-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.pris.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.pris.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.pris.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.pris.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/pris.feed.pdf) 
 
 - :material-rename: **Run ID:** pris 
 - :fontawesome-solid-user-group: **Participant:** buptpris___2009 
@@ -505,7 +505,7 @@
 
 ---
 #### prisb 
-[**`Results`**](./results.md#prisb), [**`Participants`**](./participants.md#buptpris___2009), [**`Proceedings`**](./proceedings.md#a-study-of-faceted-blog-distillationpris-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.prisb.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.prisb.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.prisb.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.prisb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/prisb.feed.pdf) 
+[**`Results`**](./results.md#prisb) | [**`Participants`**](./participants.md#buptpris___2009) | [**`Proceedings`**](./proceedings.md#a-study-of-faceted-blog-distillationpris-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.prisb.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.prisb.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.prisb.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.prisb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/prisb.feed.pdf) 
 
 - :material-rename: **Run ID:** prisb 
 - :fontawesome-solid-user-group: **Participant:** buptpris___2009 
@@ -519,7 +519,7 @@
 
 ---
 #### punctfull 
-[**`Results`**](./results.md#punctfull), [**`Participants`**](./participants.md#knowcenter), [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.punctfull.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.punctfull.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.punctfull.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.punctfull.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/punctfull.feed.pdf) 
+[**`Results`**](./results.md#punctfull) | [**`Participants`**](./participants.md#knowcenter) | [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.punctfull.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.punctfull.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.punctfull.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.punctfull.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/punctfull.feed.pdf) 
 
 - :material-rename: **Run ID:** punctfull 
 - :fontawesome-solid-user-group: **Participant:** knowcenter 
@@ -533,7 +533,7 @@
 
 ---
 #### RegLDM 
-[**`Results`**](./results.md#regldm), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.RegLDM.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.RegLDM.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.RegLDM.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.RegLDM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/RegLDM.feed.pdf) 
+[**`Results`**](./results.md#regldm) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.RegLDM.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.RegLDM.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.RegLDM.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.RegLDM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/RegLDM.feed.pdf) 
 
 - :material-rename: **Run ID:** RegLDM 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -547,7 +547,7 @@
 
 ---
 #### regularized 
-[**`Results`**](./results.md#regularized), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.regularized.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.regularized.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.regularized.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.regularized.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/regularized.feed.pdf) 
+[**`Results`**](./results.md#regularized) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.regularized.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.regularized.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.regularized.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.regularized.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/regularized.feed.pdf) 
 
 - :material-rename: **Run ID:** regularized 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -561,7 +561,7 @@
 
 ---
 #### ri1025rw2b 
-[**`Results`**](./results.md#ri1025rw2b), [**`Participants`**](./participants.md#shakwat), [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw2b.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw2b.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw2b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw2b.topstories.pdf) 
+[**`Results`**](./results.md#ri1025rw2b) | [**`Participants`**](./participants.md#shakwat) | [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw2b.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw2b.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw2b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw2b.topstories.pdf) 
 
 - :material-rename: **Run ID:** ri1025rw2b 
 - :fontawesome-solid-user-group: **Participant:** shakwat 
@@ -575,7 +575,7 @@
 
 ---
 #### ri1025rw5432 
-[**`Results`**](./results.md#ri1025rw5432), [**`Participants`**](./participants.md#shakwat), [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw5432.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw5432.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw5432.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw5432.topstories.pdf) 
+[**`Results`**](./results.md#ri1025rw5432) | [**`Participants`**](./participants.md#shakwat) | [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw5432.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw5432.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw5432.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw5432.topstories.pdf) 
 
 - :material-rename: **Run ID:** ri1025rw5432 
 - :fontawesome-solid-user-group: **Participant:** shakwat 
@@ -589,7 +589,7 @@
 
 ---
 #### ri1025rw5h2b 
-[**`Results`**](./results.md#ri1025rw5h2b), [**`Participants`**](./participants.md#shakwat), [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw5h2b.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw5h2b.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw5h2b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw5h2b.topstories.pdf) 
+[**`Results`**](./results.md#ri1025rw5h2b) | [**`Participants`**](./participants.md#shakwat) | [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri1025rw5h2b.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri1025rw5h2b.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri1025rw5h2b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri1025rw5h2b.topstories.pdf) 
 
 - :material-rename: **Run ID:** ri1025rw5h2b 
 - :fontawesome-solid-user-group: **Participant:** shakwat 
@@ -603,7 +603,7 @@
 
 ---
 #### ri2049rw3 
-[**`Results`**](./results.md#ri2049rw3), [**`Participants`**](./participants.md#shakwat), [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri2049rw3.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri2049rw3.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri2049rw3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri2049rw3.topstories.pdf) 
+[**`Results`**](./results.md#ri2049rw3) | [**`Participants`**](./participants.md#shakwat) | [**`Proceedings`**](./proceedings.md#brat-a-random-walk-through-the-semantic-spaces-of-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.ri2049rw3.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.ri2049rw3.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.ri2049rw3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/ri2049rw3.topstories.pdf) 
 
 - :material-rename: **Run ID:** ri2049rw3 
 - :fontawesome-solid-user-group: **Participant:** shakwat 
@@ -617,7 +617,7 @@
 
 ---
 #### runtag 
-[**`Results`**](./results.md#runtag), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.runtag.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.runtag.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.runtag.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/runtag.topstories.pdf) 
+[**`Results`**](./results.md#runtag) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2009-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.runtag.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.runtag.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.runtag.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/runtag.topstories.pdf) 
 
 - :material-rename: **Run ID:** runtag 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -631,7 +631,7 @@
 
 ---
 #### sentence 
-[**`Results`**](./results.md#sentence), [**`Participants`**](./participants.md#knowcenter), [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.sentence.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.sentence.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.sentence.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.sentence.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/sentence.feed.pdf) 
+[**`Results`**](./results.md#sentence) | [**`Participants`**](./participants.md#knowcenter) | [**`Proceedings`**](./proceedings.md#facet-classification-of-blogs-know-center-at-the-trec-2009-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.sentence.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.sentence.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.sentence.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.sentence.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/sentence.feed.pdf) 
 
 - :material-rename: **Run ID:** sentence 
 - :fontawesome-solid-user-group: **Participant:** knowcenter 
@@ -645,7 +645,7 @@
 
 ---
 #### uogTrFBAlr 
-[**`Results`**](./results.md#uogtrfbalr), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBAlr.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBAlr.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBAlr.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBAlr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBAlr.feed.pdf) 
+[**`Results`**](./results.md#uogtrfbalr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBAlr.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBAlr.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBAlr.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBAlr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBAlr.feed.pdf) 
 
 - :material-rename: **Run ID:** uogTrFBAlr 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -659,7 +659,7 @@
 
 ---
 #### uogTrFBHlr 
-[**`Results`**](./results.md#uogtrfbhlr), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBHlr.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBHlr.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBHlr.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBHlr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBHlr.feed.pdf) 
+[**`Results`**](./results.md#uogtrfbhlr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBHlr.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBHlr.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBHlr.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBHlr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBHlr.feed.pdf) 
 
 - :material-rename: **Run ID:** uogTrFBHlr 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -673,7 +673,7 @@
 
 ---
 #### uogTrFBMclas 
-[**`Results`**](./results.md#uogtrfbmclas), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBMclas.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBMclas.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBMclas.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBMclas.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBMclas.feed.pdf) 
+[**`Results`**](./results.md#uogtrfbmclas) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBMclas.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBMclas.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBMclas.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBMclas.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBMclas.feed.pdf) 
 
 - :material-rename: **Run ID:** uogTrFBMclas 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -687,7 +687,7 @@
 
 ---
 #### uogTrFBNclas 
-[**`Results`**](./results.md#uogtrfbnclas), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBNclas.gz), [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBNclas.gz), [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBNclas.gz), [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBNclas.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBNclas.feed.pdf) 
+[**`Results`**](./results.md#uogtrfbnclas) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrFBNclas.gz) | [**`Summary (none)`**](https://trec.nist.gov/results/trec18/blog/summary.none.uogTrFBNclas.gz) | [**`Summary (first)`**](https://trec.nist.gov/results/trec18/blog/summary.first.uogTrFBNclas.gz) | [**`Summary (second)`**](https://trec.nist.gov/results/trec18/blog/summary.second.uogTrFBNclas.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-feed/uogTrFBNclas.feed.pdf) 
 
 - :material-rename: **Run ID:** uogTrFBNclas 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -701,7 +701,7 @@
 
 ---
 #### uogTrTSbmmr 
-[**`Results`**](./results.md#uogtrtsbmmr), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSbmmr.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSbmmr.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSbmmr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSbmmr.topstories.pdf) 
+[**`Results`**](./results.md#uogtrtsbmmr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSbmmr.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSbmmr.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSbmmr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSbmmr.topstories.pdf) 
 
 - :material-rename: **Run ID:** uogTrTSbmmr 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -715,7 +715,7 @@
 
 ---
 #### uogTrTSemmrs 
-[**`Results`**](./results.md#uogtrtsemmrs), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSemmrs.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSemmrs.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSemmrs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSemmrs.topstories.pdf) 
+[**`Results`**](./results.md#uogtrtsemmrs) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSemmrs.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSemmrs.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSemmrs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSemmrs.topstories.pdf) 
 
 - :material-rename: **Run ID:** uogTrTSemmrs 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -729,7 +729,7 @@
 
 ---
 #### uogTrTStimes 
-[**`Results`**](./results.md#uogtrtstimes), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTStimes.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTStimes.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTStimes.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTStimes.topstories.pdf) 
+[**`Results`**](./results.md#uogtrtstimes) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTStimes.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTStimes.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTStimes.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTStimes.topstories.pdf) 
 
 - :material-rename: **Run ID:** uogTrTStimes 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -743,7 +743,7 @@
 
 ---
 #### uogTrTSwtime 
-[**`Results`**](./results.md#uogtrtswtime), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSwtime.gz), [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSwtime.gz), [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSwtime.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSwtime.topstories.pdf) 
+[**`Results`**](./results.md#uogtrtswtime) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/blog/input.uogTrTSwtime.gz) | [**`Summary (headline)`**](https://trec.nist.gov/results/trec18/blog/summary.headline.uogTrTSwtime.gz) | [**`Summary (blogpost)`**](https://trec.nist.gov/results/trec18/blog/summary.blogpost.uogTrTSwtime.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/blog-topstories/uogTrTSwtime.topstories.pdf) 
 
 - :material-rename: **Run ID:** uogTrTSwtime 
 - :fontawesome-solid-user-group: **Participant:** uogTr 

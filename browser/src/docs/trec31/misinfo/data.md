@@ -1,6 +1,6 @@
 # Data - Health Misinformation 2022 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/misinfo2022.html`](https://trec.nist.gov/data/misinfo2022.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/misinfo2022.html`](https://trec.nist.gov/data/misinfo2022.html)
 
 ---
 

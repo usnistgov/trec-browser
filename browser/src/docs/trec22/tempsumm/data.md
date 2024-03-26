@@ -1,6 +1,6 @@
 # Data - Temporal Summarization 2013 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/tempsumm2013.html`](https://trec.nist.gov/data/tempsumm2013.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/tempsumm2013.html`](https://trec.nist.gov/data/tempsumm2013.html)
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-**Other:** [`Evaluation script for Temporal Summarization Runs`](https://trec.nist.gov/data/tempsumm/2013/tseval.py), [`Scoring Data: set of pooled updates`](https://trec.nist.gov/data/tempsumm/2013/pooled_updates.tsv), [`Scoring Data: nuggets`](https://trec.nist.gov/data/tempsumm/2013/nuggets.tsv), [`Scoring Data: found matches`](https://trec.nist.gov/data/tempsumm/2013/matches.tsv)
+**Other:** [`Evaluation script for Temporal Summarization Runs`](https://trec.nist.gov/data/tempsumm/2013/tseval.py) | [`Scoring Data: set of pooled updates`](https://trec.nist.gov/data/tempsumm/2013/pooled_updates.tsv) | [`Scoring Data: nuggets`](https://trec.nist.gov/data/tempsumm/2013/nuggets.tsv) | [`Scoring Data: found matches`](https://trec.nist.gov/data/tempsumm/2013/matches.tsv)

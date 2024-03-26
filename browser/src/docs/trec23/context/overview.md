@@ -1,6 +1,6 @@
 # Overview - Contextual Suggestion 2014
 
-[`Proceedings`](./proceedings.md), [`Data`](./data.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Data`](./data.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

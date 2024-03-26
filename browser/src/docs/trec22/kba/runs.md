@@ -1,7 +1,7 @@
 # Runs - Knowledge Base Acceleration 2013 
 
 #### BIT-ECQ 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-ECQ.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-ECQ.pdf) 
 
 - :material-rename: **Run ID:** BIT-ECQ 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -15,7 +15,7 @@
 
 ---
 #### BIT-ECQUpdate 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-ECQUpdate.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-ECQUpdate.pdf) 
 
 - :material-rename: **Run ID:** BIT-ECQUpdate 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -29,7 +29,7 @@
 
 ---
 #### BIT-RFBurst 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFBurst.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFBurst.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFBurst 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -43,7 +43,7 @@
 
 ---
 #### BIT-RFBurst_1 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFBurst_1.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFBurst_1.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFBurst_1 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -57,7 +57,7 @@
 
 ---
 #### BIT-RFClassLoose 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFClassLoose.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFClassLoose.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFClassLoose 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -71,7 +71,7 @@
 
 ---
 #### BIT-RFClassStrict 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFClassStrict.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFClassStrict.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFClassStrict 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -85,7 +85,7 @@
 
 ---
 #### BIT-RFDiffModel 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFDiffModel.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFDiffModel.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFDiffModel 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -99,7 +99,7 @@
 
 ---
 #### BIT-RFMultiModel 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFMultiModel.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFMultiModel.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFMultiModel 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -113,7 +113,7 @@
 
 ---
 #### BIT-RFMultiModel_1 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFMultiModel_1.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFMultiModel_1.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFMultiModel_1 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -127,7 +127,7 @@
 
 ---
 #### BIT-RFRankUniModel 
-[**`Participants`**](./participants.md#bit), [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013), [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFRankUniModel.pdf) 
+[**`Participants`**](./participants.md#bit) | [**`Proceedings`**](./proceedings.md#bit-and-msra-at-trec-kba-ccr-track-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/BIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/BIT-RFRankUniModel.pdf) 
 
 - :material-rename: **Run ID:** BIT-RFRankUniModel 
 - :fontawesome-solid-user-group: **Participant:** BIT 
@@ -141,7 +141,7 @@
 
 ---
 #### CompInsights-ccr_baseline_1 
-[**`Participants`**](./participants.md#compinsights), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CompInsights.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CompInsights-ccr_baseline_1.pdf) 
+[**`Participants`**](./participants.md#compinsights) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CompInsights.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CompInsights-ccr_baseline_1.pdf) 
 
 - :material-rename: **Run ID:** CompInsights-ccr_baseline_1 
 - :fontawesome-solid-user-group: **Participant:** CompInsights 
@@ -155,7 +155,7 @@
 
 ---
 #### CompInsights-ssf_baseline_1 
-[**`Participants`**](./participants.md#compinsights), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CompInsights.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CompInsights-ssf_baseline_1.pdf) 
+[**`Participants`**](./participants.md#compinsights) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CompInsights.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CompInsights-ssf_baseline_1.pdf) 
 
 - :material-rename: **Run ID:** CompInsights-ssf_baseline_1 
 - :fontawesome-solid-user-group: **Participant:** CompInsights 
@@ -169,7 +169,7 @@
 
 ---
 #### CWI-J48_1213_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_1213_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_1213_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-J48_1213_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -183,7 +183,7 @@
 
 ---
 #### CWI-J48_12_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_12_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_12_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-J48_12_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -197,7 +197,7 @@
 
 ---
 #### CWI-J48_13_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_13_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-J48_13_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-J48_13_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -211,7 +211,7 @@
 
 ---
 #### CWI-RM_all_1213_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_1213_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_1213_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_all_1213_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -225,7 +225,7 @@
 
 ---
 #### CWI-RM_all_12_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_12_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_12_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_all_12_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -239,7 +239,7 @@
 
 ---
 #### CWI-RM_all_13_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_13_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_all_13_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_all_13_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -253,7 +253,7 @@
 
 ---
 #### CWI-RM_FPN_1213_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_1213_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_1213_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_FPN_1213_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -267,7 +267,7 @@
 
 ---
 #### CWI-RM_FPN_12_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_12_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_12_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_FPN_12_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -281,7 +281,7 @@
 
 ---
 #### CWI-RM_FPN_13_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_13_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_FPN_13_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_FPN_13_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -295,7 +295,7 @@
 
 ---
 #### CWI-RM_MB_1213_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_1213_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_1213_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_MB_1213_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -309,7 +309,7 @@
 
 ---
 #### CWI-RM_MB_12_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_12_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_12_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_MB_12_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -323,7 +323,7 @@
 
 ---
 #### CWI-RM_MB_13_13 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_13_13.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/CWI.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/CWI-RM_MB_13_13.pdf) 
 
 - :material-rename: **Run ID:** CWI-RM_MB_13_13 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -337,7 +337,7 @@
 
 ---
 #### gatordsr-gatordsr_final 
-[**`Participants`**](./participants.md#gatordsr), [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_final.pdf) 
+[**`Participants`**](./participants.md#gatordsr) | [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_final.pdf) 
 
 - :material-rename: **Run ID:** gatordsr-gatordsr_final 
 - :fontawesome-solid-user-group: **Participant:** gatordsr 
@@ -351,7 +351,7 @@
 
 ---
 #### gatordsr-gatordsr_infer 
-[**`Participants`**](./participants.md#gatordsr), [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_infer.pdf) 
+[**`Participants`**](./participants.md#gatordsr) | [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_infer.pdf) 
 
 - :material-rename: **Run ID:** gatordsr-gatordsr_infer 
 - :fontawesome-solid-user-group: **Participant:** gatordsr 
@@ -365,7 +365,7 @@
 
 ---
 #### gatordsr-gatordsr_new 
-[**`Participants`**](./participants.md#gatordsr), [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_new.pdf) 
+[**`Participants`**](./participants.md#gatordsr) | [**`Proceedings`**](./proceedings.md#university-of-florida-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/gatordsr.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/gatordsr-gatordsr_new.pdf) 
 
 - :material-rename: **Run ID:** gatordsr-gatordsr_new 
 - :fontawesome-solid-user-group: **Participant:** gatordsr 
@@ -379,7 +379,7 @@
 
 ---
 #### IRIT-sig_irit_1 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task), [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_1.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_1.pdf) 
 
 - :material-rename: **Run ID:** IRIT-sig_irit_1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -393,7 +393,7 @@
 
 ---
 #### IRIT-sig_irit_2 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task), [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_2.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_2.pdf) 
 
 - :material-rename: **Run ID:** IRIT-sig_irit_2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -407,7 +407,7 @@
 
 ---
 #### IRIT-sig_irit_3 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task), [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_3.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-knowledge-base-acceleration-2013-cumulative-citation-recommendation-task) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/IRIT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/IRIT-sig_irit_3.pdf) 
 
 - :material-rename: **Run ID:** IRIT-sig_irit_3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -421,7 +421,7 @@
 
 ---
 #### LSIS_LIA-no_update_S4 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-no_update_S4 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -435,7 +435,7 @@
 
 ---
 #### LSIS_LIA-no_update_S4_2 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4_2.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4_2.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-no_update_S4_2 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -449,7 +449,7 @@
 
 ---
 #### LSIS_LIA-no_update_S4_3 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4_3.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-no_update_S4_3.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-no_update_S4_3 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -463,7 +463,7 @@
 
 ---
 #### LSIS_LIA-upd_doc_S4_2 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_doc_S4_2.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_doc_S4_2.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_doc_S4_2 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -477,7 +477,7 @@
 
 ---
 #### LSIS_LIA-upd_doc_S4_3 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_doc_S4_3.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_doc_S4_3.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_doc_S4_3 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -491,7 +491,7 @@
 
 ---
 #### LSIS_LIA-upd_document_S4 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_document_S4.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_document_S4.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_document_S4 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -505,7 +505,7 @@
 
 ---
 #### LSIS_LIA-upd_snippet_S4 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snippet_S4.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snippet_S4.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_snippet_S4 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -519,7 +519,7 @@
 
 ---
 #### LSIS_LIA-upd_snpt_S4_2 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snpt_S4_2.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snpt_S4_2.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_snpt_S4_2 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -533,7 +533,7 @@
 
 ---
 #### LSIS_LIA-upd_snpt_S4_3 
-[**`Participants`**](./participants.md#lsis_lia), [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier), [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snpt_S4_3.pdf) 
+[**`Participants`**](./participants.md#lsis_lia) | [**`Proceedings`**](./proceedings.md#filtering-entity-centric-documents-using-numerics-and-temporals-features-within-rf-classifier) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/LSIS_LIA.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/LSIS_LIA-upd_snpt_S4_3.pdf) 
 
 - :material-rename: **Run ID:** LSIS_LIA-upd_snpt_S4_3 
 - :fontawesome-solid-user-group: **Participant:** LSIS_LIA 
@@ -547,7 +547,7 @@
 
 ---
 #### PRIS-pris0 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris0.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris0.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris0 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -561,7 +561,7 @@
 
 ---
 #### PRIS-pris1 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris1.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris1.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -575,7 +575,7 @@
 
 ---
 #### PRIS-pris2 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris2.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris2.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -589,7 +589,7 @@
 
 ---
 #### PRIS-pris3 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris3.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris3.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -603,7 +603,7 @@
 
 ---
 #### PRIS-pris_baseline 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_baseline.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_baseline.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_baseline 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -617,7 +617,7 @@
 
 ---
 #### PRIS-pris_expansion 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_expansion.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_expansion.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_expansion 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -631,7 +631,7 @@
 
 ---
 #### PRIS-pris_keywords 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_keywords.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_keywords.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_keywords 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -645,7 +645,7 @@
 
 ---
 #### PRIS-pris_merge 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_merge.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_merge.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_merge 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -659,7 +659,7 @@
 
 ---
 #### PRIS-pris_similarity 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_similarity.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_similarity.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_similarity 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -673,7 +673,7 @@
 
 ---
 #### PRIS-pris_ssf_0 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_0.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_0.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_ssf_0 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -687,7 +687,7 @@
 
 ---
 #### PRIS-pris_ssf_1 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_1.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_1.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_ssf_1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -701,7 +701,7 @@
 
 ---
 #### PRIS-pris_ssf_2 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_2.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_2.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_ssf_2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -715,7 +715,7 @@
 
 ---
 #### PRIS-pris_ssf_fst 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_fst.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_fst.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_ssf_fst 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -729,7 +729,7 @@
 
 ---
 #### PRIS-pris_ssf_second 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_second.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_ssf_second.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_ssf_second 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -743,7 +743,7 @@
 
 ---
 #### PRIS-pris_svd 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track), [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_svd.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec2013-knowledge-base-acceleration-track) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/PRIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/PRIS-pris_svd.pdf) 
 
 - :material-rename: **Run ID:** PRIS-pris_svd 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -757,7 +757,7 @@
 
 ---
 #### RetrieWin-Submission_2 
-[**`Participants`**](./participants.md#retriewin), [**`Input`**](https://trec.nist.gov/results/trec22/kba/RetrieWin.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/RetrieWin-Submission_2.pdf) 
+[**`Participants`**](./participants.md#retriewin) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/RetrieWin.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/RetrieWin-Submission_2.pdf) 
 
 - :material-rename: **Run ID:** RetrieWin-Submission_2 
 - :fontawesome-solid-user-group: **Participant:** RetrieWin 
@@ -771,7 +771,7 @@
 
 ---
 #### SCU-ssf_1 
-[**`Participants`**](./participants.md#scu), [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling), [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_1.pdf) 
+[**`Participants`**](./participants.md#scu) | [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_1.pdf) 
 
 - :material-rename: **Run ID:** SCU-ssf_1 
 - :fontawesome-solid-user-group: **Participant:** SCU 
@@ -785,7 +785,7 @@
 
 ---
 #### SCU-ssf_2 
-[**`Participants`**](./participants.md#scu), [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling), [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_2.pdf) 
+[**`Participants`**](./participants.md#scu) | [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_2.pdf) 
 
 - :material-rename: **Run ID:** SCU-ssf_2 
 - :fontawesome-solid-user-group: **Participant:** SCU 
@@ -799,7 +799,7 @@
 
 ---
 #### SCU-ssf_3 
-[**`Participants`**](./participants.md#scu), [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling), [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_3.pdf) 
+[**`Participants`**](./participants.md#scu) | [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_3.pdf) 
 
 - :material-rename: **Run ID:** SCU-ssf_3 
 - :fontawesome-solid-user-group: **Participant:** SCU 
@@ -813,7 +813,7 @@
 
 ---
 #### SCU-ssf_4 
-[**`Participants`**](./participants.md#scu), [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling), [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_4.pdf) 
+[**`Participants`**](./participants.md#scu) | [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_4.pdf) 
 
 - :material-rename: **Run ID:** SCU-ssf_4 
 - :fontawesome-solid-user-group: **Participant:** SCU 
@@ -827,7 +827,7 @@
 
 ---
 #### SCU-ssf_5 
-[**`Participants`**](./participants.md#scu), [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling), [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_5.pdf) 
+[**`Participants`**](./participants.md#scu) | [**`Proceedings`**](./proceedings.md#a-pattern-matching-approach-to-streaming-slot-filling) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/SCU.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/SCU-ssf_5.pdf) 
 
 - :material-rename: **Run ID:** SCU-ssf_5 
 - :fontawesome-solid-user-group: **Participant:** SCU 
@@ -841,7 +841,7 @@
 
 ---
 #### UAmsterdam-bl_na_wChis_c1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wChis_c1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wChis_c1.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-bl_na_wChis_c1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -855,7 +855,7 @@
 
 ---
 #### UAmsterdam-bl_na_wChis_c3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wChis_c3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wChis_c3.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-bl_na_wChis_c3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -869,7 +869,7 @@
 
 ---
 #### UAmsterdam-bl_na_wConcs_c1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wConcs_c1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wConcs_c1.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-bl_na_wConcs_c1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -883,7 +883,7 @@
 
 ---
 #### UAmsterdam-bl_na_wConcs_c3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wConcs_c3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bl_na_wConcs_c3.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-bl_na_wConcs_c3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -897,7 +897,7 @@
 
 ---
 #### UAmsterdam-bsln_5_100_100 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bsln_5_100_100.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-bsln_5_100_100.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-bsln_5_100_100 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -911,7 +911,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_1.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -925,7 +925,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_10 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_10.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_10.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_10 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -939,7 +939,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_11 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_11.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_11.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_11 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -953,7 +953,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_12 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_12.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_12.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_12 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -967,7 +967,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_13 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_13.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_13.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_13 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -981,7 +981,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_14 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_14.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_14.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_14 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -995,7 +995,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_15 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_15.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_15.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_15 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1009,7 +1009,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_16 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_16.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_16.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_16 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1023,7 +1023,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_2.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_2.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1037,7 +1037,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_3.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1051,7 +1051,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_4 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_4.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_4.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_4 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1065,7 +1065,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_5 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_5.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_5.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_5 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1079,7 +1079,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_6 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_6.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_6.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_6 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1093,7 +1093,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_7 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_7.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_7.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_7 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1107,7 +1107,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_8 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_8.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_8.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_8 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1121,7 +1121,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_9 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_9.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_9.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_9 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1135,7 +1135,7 @@
 
 ---
 #### UAmsterdam-uva_kba_run_av 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_av.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_kba_run_av.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_kba_run_av 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1149,7 +1149,7 @@
 
 ---
 #### UAmsterdam-uva_run_wChi_c1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wChi_c1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wChi_c1.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_run_wChi_c1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1163,7 +1163,7 @@
 
 ---
 #### UAmsterdam-uva_run_wChi_c3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wChi_c3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wChi_c3.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_run_wChi_c3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1177,7 +1177,7 @@
 
 ---
 #### UAmsterdam-uva_run_wCon_c1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wCon_c1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wCon_c1.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_run_wCon_c1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1191,7 +1191,7 @@
 
 ---
 #### UAmsterdam-uva_run_wCon_c3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wCon_c3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#filtering-documents-over-time-on-evolving-topics-the-university-of-amsterdam-at-trec-2013-kba-ccr) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UAmsterdam.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UAmsterdam-uva_run_wCon_c3.pdf) 
 
 - :material-rename: **Run ID:** UAmsterdam-uva_run_wCon_c3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1205,7 +1205,7 @@
 
 ---
 #### udel_fang-UDInfoK_Ex 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Ex.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Ex.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoK_Ex 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1219,7 +1219,7 @@
 
 ---
 #### udel_fang-UDInfoK_Weight1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Weight1.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Weight1.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoK_Weight1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1233,7 +1233,7 @@
 
 ---
 #### udel_fang-UDInfoK_Weight2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Weight2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Weight2.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoK_Weight2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1247,7 +1247,7 @@
 
 ---
 #### udel_fang-UDInfoK_Wiki1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Wiki1.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Wiki1.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoK_Wiki1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1261,7 +1261,7 @@
 
 ---
 #### udel_fang-UDInfoK_Wiki2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Wiki2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#a-related-entity-based-approach-for-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/udel_fang.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/udel_fang-UDInfoK_Wiki2.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoK_Wiki2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1275,7 +1275,7 @@
 
 ---
 #### uiucGSLIS-bayes01 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes01.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes01.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes01 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1289,7 +1289,7 @@
 
 ---
 #### uiucGSLIS-bayes02 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes02.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes02.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes02 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1303,7 +1303,7 @@
 
 ---
 #### uiucGSLIS-bayes03 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes03.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes03.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes03 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1317,7 +1317,7 @@
 
 ---
 #### uiucGSLIS-bayes04 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes04.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes04.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes04 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1331,7 +1331,7 @@
 
 ---
 #### uiucGSLIS-bayes05 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes05.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes05.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes05 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1345,7 +1345,7 @@
 
 ---
 #### uiucGSLIS-bayes06 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes06.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes06.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes06 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1359,7 +1359,7 @@
 
 ---
 #### uiucGSLIS-bayes07 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes07.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes07.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes07 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1373,7 +1373,7 @@
 
 ---
 #### uiucGSLIS-bayes08 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes08.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes08.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes08 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1387,7 +1387,7 @@
 
 ---
 #### uiucGSLIS-bayes09 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes09.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-bayes09.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-bayes09 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1401,7 +1401,7 @@
 
 ---
 #### uiucGSLIS-static01 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static01.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static01.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-static01 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1415,7 +1415,7 @@
 
 ---
 #### uiucGSLIS-static02 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static02.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static02.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-static02 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1429,7 +1429,7 @@
 
 ---
 #### uiucGSLIS-static03 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static03.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static03.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-static03 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1443,7 +1443,7 @@
 
 ---
 #### uiucGSLIS-static04 
-[**`Participants`**](./participants.md#uiucgslis), [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static04.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/uiucGSLIS.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/uiucGSLIS-static04.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-static04 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1457,7 +1457,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1471,7 +1471,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_1 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_1.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_1.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_1 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1485,7 +1485,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_1_tw 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_1_tw.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_1_tw.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_1_tw 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1499,7 +1499,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_TO 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_TO 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1513,7 +1513,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_TO_1_tw 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO_1_tw.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO_1_tw.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_TO_1_tw 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1527,7 +1527,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_TO_tw 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO_tw.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_TO_tw.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_TO_tw 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1541,7 +1541,7 @@
 
 ---
 #### UMass_CIIR-T2ELMax_tw 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_tw.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMax_tw.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMax_tw 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1555,7 +1555,7 @@
 
 ---
 #### UMass_CIIR-T2ELMaxTO_1 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMaxTO_1.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-T2ELMaxTO_1.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-T2ELMaxTO_1 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1569,7 +1569,7 @@
 
 ---
 #### UMass_CIIR-t2LinkProb_tw 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-t2LinkProb_tw.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-t2LinkProb_tw.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-t2LinkProb_tw 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1583,7 +1583,7 @@
 
 ---
 #### UMass_CIIR-top2LinkedProb 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-top2LinkedProb.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-top2LinkedProb.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-top2LinkedProb 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1597,7 +1597,7 @@
 
 ---
 #### UMass_CIIR-wrm_trm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_trm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_trm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_trm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1611,7 +1611,7 @@
 
 ---
 #### UMass_CIIR-wrm_trm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_trm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_trm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_trm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1625,7 +1625,7 @@
 
 ---
 #### UMass_CIIR-wrm_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1639,7 +1639,7 @@
 
 ---
 #### UMass_CIIR-wrm_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1653,7 +1653,7 @@
 
 ---
 #### UMass_CIIR-wrm_tskq_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tskq_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tskq_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_tskq_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1667,7 +1667,7 @@
 
 ---
 #### UMass_CIIR-wrm_tskq_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tskq_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrm_tskq_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrm_tskq_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1681,7 +1681,7 @@
 
 ---
 #### UMass_CIIR-wrn_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrn_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1695,7 +1695,7 @@
 
 ---
 #### UMass_CIIR-wrn_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrn_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1709,7 +1709,7 @@
 
 ---
 #### UMass_CIIR-wrn_tskq_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tskq_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrn_tskq_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrn_tskq_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1723,7 +1723,7 @@
 
 ---
 #### UMass_CIIR-wrt_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrt_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1737,7 +1737,7 @@
 
 ---
 #### UMass_CIIR-wrt_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrt_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1751,7 +1751,7 @@
 
 ---
 #### UMass_CIIR-wrt_tskq_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tskq_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tskq_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrt_tskq_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1765,7 +1765,7 @@
 
 ---
 #### UMass_CIIR-wrt_tskq_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tskq_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrt_tskq_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrt_tskq_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1779,7 +1779,7 @@
 
 ---
 #### UMass_CIIR-wrtn_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrtn_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1793,7 +1793,7 @@
 
 ---
 #### UMass_CIIR-wrtn_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrtn_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1807,7 +1807,7 @@
 
 ---
 #### UMass_CIIR-wrtn_tskq_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tskq_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tskq_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrtn_tskq_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1821,7 +1821,7 @@
 
 ---
 #### UMass_CIIR-wrtn_tskq_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tskq_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wrtn_tskq_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wrtn_tskq_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1835,7 +1835,7 @@
 
 ---
 #### UMass_CIIR-wsdm_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wsdm_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wsdm_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wsdm_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1849,7 +1849,7 @@
 
 ---
 #### UMass_CIIR-wsdm_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wsdm_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wsdm_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wsdm_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1863,7 +1863,7 @@
 
 ---
 #### UMass_CIIR-wskq_tsdm_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tsdm_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tsdm_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wskq_tsdm_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1877,7 +1877,7 @@
 
 ---
 #### UMass_CIIR-wskq_tsdm_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tsdm_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tsdm_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wskq_tsdm_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1891,7 +1891,7 @@
 
 ---
 #### UMass_CIIR-wskq_tskq_r 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tskq_r.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tskq_r.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wskq_tskq_r 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1905,7 +1905,7 @@
 
 ---
 #### UMass_CIIR-wskq_tskq_s 
-[**`Participants`**](./participants.md#umass_ciir), [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation), [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tskq_s.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2013-knowledge-base-acceleration-track-bi-directional-entity-linking-and-time-aware-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/UMass_CIIR.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/UMass_CIIR-wskq_tskq_s.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-wskq_tskq_s 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -1919,7 +1919,7 @@
 
 ---
 #### WiscDEFT-baseline 
-[**`Participants`**](./participants.md#wiscdeft), [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-baseline.pdf) 
+[**`Participants`**](./participants.md#wiscdeft) | [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-baseline.pdf) 
 
 - :material-rename: **Run ID:** WiscDEFT-baseline 
 - :fontawesome-solid-user-group: **Participant:** WiscDEFT 
@@ -1933,7 +1933,7 @@
 
 ---
 #### WiscDEFT-baseline2 
-[**`Participants`**](./participants.md#wiscdeft), [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-baseline2.pdf) 
+[**`Participants`**](./participants.md#wiscdeft) | [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-baseline2.pdf) 
 
 - :material-rename: **Run ID:** WiscDEFT-baseline2 
 - :fontawesome-solid-user-group: **Participant:** WiscDEFT 
@@ -1947,7 +1947,7 @@
 
 ---
 #### WiscDEFT-run1 
-[**`Participants`**](./participants.md#wiscdeft), [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-run1.pdf) 
+[**`Participants`**](./participants.md#wiscdeft) | [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-run1.pdf) 
 
 - :material-rename: **Run ID:** WiscDEFT-run1 
 - :fontawesome-solid-user-group: **Participant:** WiscDEFT 
@@ -1961,7 +1961,7 @@
 
 ---
 #### WiscDEFT-run2 
-[**`Participants`**](./participants.md#wiscdeft), [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-run2.pdf) 
+[**`Participants`**](./participants.md#wiscdeft) | [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-run2.pdf) 
 
 - :material-rename: **Run ID:** WiscDEFT-run2 
 - :fontawesome-solid-user-group: **Participant:** WiscDEFT 
@@ -1975,7 +1975,7 @@
 
 ---
 #### WiscDEFT-test 
-[**`Participants`**](./participants.md#wiscdeft), [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-test.pdf) 
+[**`Participants`**](./participants.md#wiscdeft) | [**`Proceedings`**](./proceedings.md#bootstrapping-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec22/kba/WiscDEFT.tar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/kba/WiscDEFT-test.pdf) 
 
 - :material-rename: **Run ID:** WiscDEFT-test 
 - :fontawesome-solid-user-group: **Participant:** WiscDEFT 

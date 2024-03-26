@@ -1,7 +1,7 @@
 # Runs - News 2021 
 
 #### 300K_ENT_PH 
-[**`Results`**](./results.md#300k_ent_ph), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.300K_ENT_PH.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.300K_ENT_PH), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/300K_ENT_PH.pdf) 
+[**`Results`**](./results.md#300k_ent_ph) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.300K_ENT_PH.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.300K_ENT_PH) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/300K_ENT_PH.pdf) 
 
 - :material-rename: **Run ID:** 300K_ENT_PH 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -15,7 +15,7 @@
 
 ---
 #### 300K_ENT_PH_DN 
-[**`Results`**](./results.md#300k_ent_ph_dn), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.300K_ENT_PH_DN.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.300K_ENT_PH_DN), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/300K_ENT_PH_DN.pdf) 
+[**`Results`**](./results.md#300k_ent_ph_dn) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.300K_ENT_PH_DN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.300K_ENT_PH_DN) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/300K_ENT_PH_DN.pdf) 
 
 - :material-rename: **Run ID:** 300K_ENT_PH_DN 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -29,7 +29,7 @@
 
 ---
 #### base 
-[**`Results`**](./results.md#base), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.base.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.base), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/base.pdf) 
+[**`Results`**](./results.md#base) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.base.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.base) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/base.pdf) 
 
 - :material-rename: **Run ID:** base 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -43,7 +43,7 @@
 
 ---
 #### bm25_sub_0.25 
-[**`Results`**](./results.md#bm25_sub_025), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_0.25.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_0.25), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_0.25.pdf) 
+[**`Results`**](./results.md#bm25_sub_025) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_0.25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_0.25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_0.25.pdf) 
 
 - :material-rename: **Run ID:** bm25_sub_0.25 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -57,7 +57,7 @@
 
 ---
 #### bm25_sub_0.5 
-[**`Results`**](./results.md#bm25_sub_05), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_0.5), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_0.5.pdf) 
+[**`Results`**](./results.md#bm25_sub_05) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_0.5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_0.5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_0.5.pdf) 
 
 - :material-rename: **Run ID:** bm25_sub_0.5 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -71,7 +71,7 @@
 
 ---
 #### bm25_sub_1.0 
-[**`Results`**](./results.md#bm25_sub_10), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_1.0.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_1.0), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_1.0.pdf) 
+[**`Results`**](./results.md#bm25_sub_10) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_1.0.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_1.0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_1.0.pdf) 
 
 - :material-rename: **Run ID:** bm25_sub_1.0 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -85,7 +85,7 @@
 
 ---
 #### bm25_sub_2 
-[**`Results`**](./results.md#bm25_sub_2), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_2.pdf) 
+[**`Results`**](./results.md#bm25_sub_2) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_2.pdf) 
 
 - :material-rename: **Run ID:** bm25_sub_2 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -99,7 +99,7 @@
 
 ---
 #### bm25_sub_4 
-[**`Results`**](./results.md#bm25_sub_4), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_4.pdf) 
+[**`Results`**](./results.md#bm25_sub_4) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.bm25_sub_4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.bm25_sub_4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/bm25_sub_4.pdf) 
 
 - :material-rename: **Run ID:** bm25_sub_4 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -113,7 +113,7 @@
 
 ---
 #### FUH_News_BG 
-[**`Results`**](./results.md#fuh_news_bg), [**`Participants`**](./participants.md#fuh), [**`Proceedings`**](./proceedings.md#university-of-hagen-trec2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.FUH_News_BG.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.FUH_News_BG), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/FUH_News_BG.pdf) 
+[**`Results`**](./results.md#fuh_news_bg) | [**`Participants`**](./participants.md#fuh) | [**`Proceedings`**](./proceedings.md#university-of-hagen-trec2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.FUH_News_BG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.FUH_News_BG) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/FUH_News_BG.pdf) 
 
 - :material-rename: **Run ID:** FUH_News_BG 
 - :fontawesome-solid-user-group: **Participant:** FUH 
@@ -127,7 +127,7 @@
 
 ---
 #### FUH_News_ST 
-[**`Results`**](./results.md#fuh_news_st), [**`Participants`**](./participants.md#fuh), [**`Proceedings`**](./proceedings.md#university-of-hagen-trec2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.FUH_News_ST.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.FUH_News_ST), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/FUH_News_ST.pdf) 
+[**`Results`**](./results.md#fuh_news_st) | [**`Participants`**](./participants.md#fuh) | [**`Proceedings`**](./proceedings.md#university-of-hagen-trec2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.FUH_News_ST.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.FUH_News_ST) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/FUH_News_ST.pdf) 
 
 - :material-rename: **Run ID:** FUH_News_ST 
 - :fontawesome-solid-user-group: **Participant:** FUH 
@@ -141,7 +141,7 @@
 
 ---
 #### KWVec 
-[**`Results`**](./results.md#kwvec), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.KWVec.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.KWVec), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/KWVec.pdf) 
+[**`Results`**](./results.md#kwvec) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.KWVec.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.KWVec) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/KWVec.pdf) 
 
 - :material-rename: **Run ID:** KWVec 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -155,7 +155,7 @@
 
 ---
 #### KWVec_sub 
-[**`Results`**](./results.md#kwvec_sub), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.KWVec_sub.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.KWVec_sub), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/KWVec_sub.pdf) 
+[**`Results`**](./results.md#kwvec_sub) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.KWVec_sub.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.KWVec_sub) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/KWVec_sub.pdf) 
 
 - :material-rename: **Run ID:** KWVec_sub 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -169,7 +169,7 @@
 
 ---
 #### Lambda 
-[**`Results`**](./results.md#lambda), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda.pdf) 
+[**`Results`**](./results.md#lambda) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda.pdf) 
 
 - :material-rename: **Run ID:** Lambda 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -183,7 +183,7 @@
 
 ---
 #### Lambda_narr 
-[**`Results`**](./results.md#lambda_narr), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda_narr.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda_narr), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda_narr.pdf) 
+[**`Results`**](./results.md#lambda_narr) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda_narr.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda_narr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda_narr.pdf) 
 
 - :material-rename: **Run ID:** Lambda_narr 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -197,7 +197,7 @@
 
 ---
 #### Lambda_sub 
-[**`Results`**](./results.md#lambda_sub), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda_sub.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda_sub), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda_sub.pdf) 
+[**`Results`**](./results.md#lambda_sub) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.Lambda_sub.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.Lambda_sub) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/Lambda_sub.pdf) 
 
 - :material-rename: **Run ID:** Lambda_sub 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -211,7 +211,7 @@
 
 ---
 #### midd-direct 
-[**`Results`**](./results.md#midd-direct), [**`Participants`**](./participants.md#middlebury), [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-direct.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-direct), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-direct.pdf) 
+[**`Results`**](./results.md#midd-direct) | [**`Participants`**](./participants.md#middlebury) | [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-direct.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-direct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-direct.pdf) 
 
 - :material-rename: **Run ID:** midd-direct 
 - :fontawesome-solid-user-group: **Participant:** middlebury 
@@ -225,7 +225,7 @@
 
 ---
 #### midd-rf 
-[**`Results`**](./results.md#midd-rf), [**`Participants`**](./participants.md#middlebury), [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-rf.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-rf), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-rf.pdf) 
+[**`Results`**](./results.md#midd-rf) | [**`Participants`**](./participants.md#middlebury) | [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-rf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-rf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-rf.pdf) 
 
 - :material-rename: **Run ID:** midd-rf 
 - :fontawesome-solid-user-group: **Participant:** middlebury 
@@ -239,7 +239,7 @@
 
 ---
 #### midd-transfer 
-[**`Results`**](./results.md#midd-transfer), [**`Participants`**](./participants.md#middlebury), [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-transfer.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-transfer), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-transfer.pdf) 
+[**`Results`**](./results.md#midd-transfer) | [**`Participants`**](./participants.md#middlebury) | [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-transfer.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-transfer) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-transfer.pdf) 
 
 - :material-rename: **Run ID:** midd-transfer 
 - :fontawesome-solid-user-group: **Participant:** middlebury 
@@ -253,7 +253,7 @@
 
 ---
 #### midd-twostage 
-[**`Results`**](./results.md#midd-twostage), [**`Participants`**](./participants.md#middlebury), [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-twostage.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-twostage), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-twostage.pdf) 
+[**`Results`**](./results.md#midd-twostage) | [**`Participants`**](./participants.md#middlebury) | [**`Proceedings`**](./proceedings.md#middlebury-at-trec-news-21-exploring-learning-to-rank-model-variants) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.midd-twostage.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.midd-twostage) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/midd-twostage.pdf) 
 
 - :material-rename: **Run ID:** midd-twostage 
 - :fontawesome-solid-user-group: **Participant:** middlebury 
@@ -267,7 +267,7 @@
 
 ---
 #### QU_LeadPar 
-[**`Results`**](./results.md#qu_leadpar), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_LeadPar.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_LeadPar), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_LeadPar.pdf) 
+[**`Results`**](./results.md#qu_leadpar) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_LeadPar.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_LeadPar) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_LeadPar.pdf) 
 
 - :material-rename: **Run ID:** QU_LeadPar 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -281,7 +281,7 @@
 
 ---
 #### QU_SP_MBERT 
-[**`Results`**](./results.md#qu_sp_mbert), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SP_MBERT.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SP_MBERT), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SP_MBERT.pdf) 
+[**`Results`**](./results.md#qu_sp_mbert) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SP_MBERT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SP_MBERT) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SP_MBERT.pdf) 
 
 - :material-rename: **Run ID:** QU_SP_MBERT 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -295,7 +295,7 @@
 
 ---
 #### QU_SP_MSM 
-[**`Results`**](./results.md#qu_sp_msm), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SP_MSM.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SP_MSM), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SP_MSM.pdf) 
+[**`Results`**](./results.md#qu_sp_msm) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SP_MSM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SP_MSM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SP_MSM.pdf) 
 
 - :material-rename: **Run ID:** QU_SP_MSM 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -309,7 +309,7 @@
 
 ---
 #### QU_SS_MSM 
-[**`Results`**](./results.md#qu_ss_msm), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SS_MSM.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SS_MSM), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SS_MSM.pdf) 
+[**`Results`**](./results.md#qu_ss_msm) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_SS_MSM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_SS_MSM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_SS_MSM.pdf) 
 
 - :material-rename: **Run ID:** QU_SS_MSM 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -323,7 +323,7 @@
 
 ---
 #### QU_YakeTruss 
-[**`Results`**](./results.md#qu_yaketruss), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_YakeTruss.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_YakeTruss), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_YakeTruss.pdf) 
+[**`Results`**](./results.md#qu_yaketruss) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#bigir-at-trec-2021-adopting-transfer-learning-for-news-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.QU_YakeTruss.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.QU_YakeTruss) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/QU_YakeTruss.pdf) 
 
 - :material-rename: **Run ID:** QU_YakeTruss 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -337,7 +337,7 @@
 
 ---
 #### rel00_ent07 
-[**`Results`**](./results.md#rel00_ent07), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel00_ent07.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel00_ent07), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel00_ent07.pdf) 
+[**`Results`**](./results.md#rel00_ent07) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel00_ent07.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel00_ent07) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel00_ent07.pdf) 
 
 - :material-rename: **Run ID:** rel00_ent07 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -351,7 +351,7 @@
 
 ---
 #### rel02_ent05 
-[**`Results`**](./results.md#rel02_ent05), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel02_ent05.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel02_ent05), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel02_ent05.pdf) 
+[**`Results`**](./results.md#rel02_ent05) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel02_ent05.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel02_ent05) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel02_ent05.pdf) 
 
 - :material-rename: **Run ID:** rel02_ent05 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -365,7 +365,7 @@
 
 ---
 #### rel05_ent02 
-[**`Results`**](./results.md#rel05_ent02), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel05_ent02.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel05_ent02), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel05_ent02.pdf) 
+[**`Results`**](./results.md#rel05_ent02) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel05_ent02.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel05_ent02) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel05_ent02.pdf) 
 
 - :material-rename: **Run ID:** rel05_ent02 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -379,7 +379,7 @@
 
 ---
 #### rel07_ent00 
-[**`Results`**](./results.md#rel07_ent00), [**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel07_ent00.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel07_ent00), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel07_ent00.pdf) 
+[**`Results`**](./results.md#rel07_ent00) | [**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#ircologne-at-trec-2021-news-track-relation-based-re-ranking-for-background-linking) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.rel07_ent00.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.rel07_ent00) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/rel07_ent00.pdf) 
 
 - :material-rename: **Run ID:** rel07_ent00 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -393,7 +393,7 @@
 
 ---
 #### S300K_ENT_P_DN2 
-[**`Results`**](./results.md#s300k_ent_p_dn2), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_ENT_P_DN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_ENT_P_DN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_ENT_P_DN2.pdf) 
+[**`Results`**](./results.md#s300k_ent_p_dn2) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_ENT_P_DN2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_ENT_P_DN2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_ENT_P_DN2.pdf) 
 
 - :material-rename: **Run ID:** S300K_ENT_P_DN2 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -407,7 +407,7 @@
 
 ---
 #### S300K_ENT_PH_DN 
-[**`Results`**](./results.md#s300k_ent_ph_dn), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_ENT_PH_DN.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_ENT_PH_DN), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_ENT_PH_DN.pdf) 
+[**`Results`**](./results.md#s300k_ent_ph_dn) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_ENT_PH_DN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_ENT_PH_DN) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_ENT_PH_DN.pdf) 
 
 - :material-rename: **Run ID:** S300K_ENT_PH_DN 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -421,7 +421,7 @@
 
 ---
 #### S300K_PH_DN 
-[**`Results`**](./results.md#s300k_ph_dn), [**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_PH_DN.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_PH_DN), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_PH_DN.pdf) 
+[**`Results`**](./results.md#s300k_ph_dn) | [**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#elastic-embedded-background-linking-for-news-articles-with-keywords-entities-and-events) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.S300K_PH_DN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.S300K_PH_DN) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/S300K_PH_DN.pdf) 
 
 - :material-rename: **Run ID:** S300K_PH_DN 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -435,7 +435,7 @@
 
 ---
 #### SU_BiEnc 
-[**`Results`**](./results.md#su_bienc), [**`Participants`**](./participants.md#su-nlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_BiEnc.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_BiEnc), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_BiEnc.pdf) 
+[**`Results`**](./results.md#su_bienc) | [**`Participants`**](./participants.md#su-nlp) | [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_BiEnc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_BiEnc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_BiEnc.pdf) 
 
 - :material-rename: **Run ID:** SU_BiEnc 
 - :fontawesome-solid-user-group: **Participant:** SU-NLP 
@@ -449,7 +449,7 @@
 
 ---
 #### SU_BiEnc_CrsEnc 
-[**`Results`**](./results.md#su_bienc_crsenc), [**`Participants`**](./participants.md#su-nlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_BiEnc_CrsEnc.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_BiEnc_CrsEnc), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_BiEnc_CrsEnc.pdf) 
+[**`Results`**](./results.md#su_bienc_crsenc) | [**`Participants`**](./participants.md#su-nlp) | [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_BiEnc_CrsEnc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_BiEnc_CrsEnc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_BiEnc_CrsEnc.pdf) 
 
 - :material-rename: **Run ID:** SU_BiEnc_CrsEnc 
 - :fontawesome-solid-user-group: **Participant:** SU-NLP 
@@ -463,7 +463,7 @@
 
 ---
 #### SU_ES 
-[**`Results`**](./results.md#su_es), [**`Participants`**](./participants.md#su-nlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES.pdf) 
+[**`Results`**](./results.md#su_es) | [**`Participants`**](./participants.md#su-nlp) | [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES.pdf) 
 
 - :material-rename: **Run ID:** SU_ES 
 - :fontawesome-solid-user-group: **Participant:** SU-NLP 
@@ -477,7 +477,7 @@
 
 ---
 #### SU_ES_CrsEnc 
-[**`Results`**](./results.md#su_es_crsenc), [**`Participants`**](./participants.md#su-nlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES_CrsEnc.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES_CrsEnc), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES_CrsEnc.pdf) 
+[**`Results`**](./results.md#su_es_crsenc) | [**`Participants`**](./participants.md#su-nlp) | [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES_CrsEnc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES_CrsEnc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES_CrsEnc.pdf) 
 
 - :material-rename: **Run ID:** SU_ES_CrsEnc 
 - :fontawesome-solid-user-group: **Participant:** SU-NLP 
@@ -491,7 +491,7 @@
 
 ---
 #### SU_ES_CrsEnc_NF 
-[**`Results`**](./results.md#su_es_crsenc_nf), [**`Participants`**](./participants.md#su-nlp), [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES_CrsEnc_NF.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES_CrsEnc_NF), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES_CrsEnc_NF.pdf) 
+[**`Results`**](./results.md#su_es_crsenc_nf) | [**`Participants`**](./participants.md#su-nlp) | [**`Proceedings`**](./proceedings.md#su-nlp-at-trec-news-2021) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.SU_ES_CrsEnc_NF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.SU_ES_CrsEnc_NF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/SU_ES_CrsEnc_NF.pdf) 
 
 - :material-rename: **Run ID:** SU_ES_CrsEnc_NF 
 - :fontawesome-solid-user-group: **Participant:** SU-NLP 
@@ -505,7 +505,7 @@
 
 ---
 #### TKB48_Run1_DTQ 
-[**`Results`**](./results.md#tkb48_run1_dtq), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run1_DTQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run1_DTQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run1_DTQ.pdf) 
+[**`Results`**](./results.md#tkb48_run1_dtq) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run1_DTQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run1_DTQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run1_DTQ.pdf) 
 
 - :material-rename: **Run ID:** TKB48_Run1_DTQ 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -519,7 +519,7 @@
 
 ---
 #### TKB48_Run2_Tep 
-[**`Results`**](./results.md#tkb48_run2_tep), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run2_Tep.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run2_Tep), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run2_Tep.pdf) 
+[**`Results`**](./results.md#tkb48_run2_tep) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run2_Tep.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run2_Tep) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run2_Tep.pdf) 
 
 - :material-rename: **Run ID:** TKB48_Run2_Tep 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -533,7 +533,7 @@
 
 ---
 #### TKB48_Run3_skw 
-[**`Results`**](./results.md#tkb48_run3_skw), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run3_skw.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run3_skw), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run3_skw.pdf) 
+[**`Results`**](./results.md#tkb48_run3_skw) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run3_skw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run3_skw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run3_skw.pdf) 
 
 - :material-rename: **Run ID:** TKB48_Run3_skw 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -547,7 +547,7 @@
 
 ---
 #### TKB48_Run4_tlkw 
-[**`Results`**](./results.md#tkb48_run4_tlkw), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run4_tlkw.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run4_tlkw), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run4_tlkw.pdf) 
+[**`Results`**](./results.md#tkb48_run4_tlkw) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_Run4_tlkw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_Run4_tlkw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_Run4_tlkw.pdf) 
 
 - :material-rename: **Run ID:** TKB48_Run4_tlkw 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -561,7 +561,7 @@
 
 ---
 #### TKB48_SRun1_DS 
-[**`Results`**](./results.md#tkb48_srun1_ds), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun1_DS.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun1_DS), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun1_DS.pdf) 
+[**`Results`**](./results.md#tkb48_srun1_ds) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun1_DS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun1_DS) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun1_DS.pdf) 
 
 - :material-rename: **Run ID:** TKB48_SRun1_DS 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -575,7 +575,7 @@
 
 ---
 #### TKB48_SRun2_Tep 
-[**`Results`**](./results.md#tkb48_srun2_tep), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun2_Tep.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun2_Tep), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun2_Tep.pdf) 
+[**`Results`**](./results.md#tkb48_srun2_tep) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun2_Tep.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun2_Tep) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun2_Tep.pdf) 
 
 - :material-rename: **Run ID:** TKB48_SRun2_Tep 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -589,7 +589,7 @@
 
 ---
 #### TKB48_SRun3_DTQ 
-[**`Results`**](./results.md#tkb48_srun3_dtq), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun3_DTQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun3_DTQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun3_DTQ.pdf) 
+[**`Results`**](./results.md#tkb48_srun3_dtq) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun3_DTQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun3_DTQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun3_DTQ.pdf) 
 
 - :material-rename: **Run ID:** TKB48_SRun3_DTQ 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -603,7 +603,7 @@
 
 ---
 #### TKB48_SRun4_ST 
-[**`Results`**](./results.md#tkb48_srun4_st), [**`Participants`**](./participants.md#tkb48), [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun4_ST.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun4_ST), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun4_ST.pdf) 
+[**`Results`**](./results.md#tkb48_srun4_st) | [**`Participants`**](./participants.md#tkb48) | [**`Proceedings`**](./proceedings.md#tkb48-at-trec-2021-news-track) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.TKB48_SRun4_ST.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.TKB48_SRun4_ST) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/TKB48_SRun4_ST.pdf) 
 
 - :material-rename: **Run ID:** TKB48_SRun4_ST 
 - :fontawesome-solid-user-group: **Participant:** TKB48 
@@ -617,7 +617,7 @@
 
 ---
 #### UW_UDHAV_S100 
-[**`Results`**](./results.md#uw_udhav_s100), [**`Participants`**](./participants.md#waterloo_cormack), [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAV_S100.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAV_S100), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAV_S100.pdf) 
+[**`Results`**](./results.md#uw_udhav_s100) | [**`Participants`**](./participants.md#waterloo_cormack) | [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAV_S100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAV_S100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAV_S100.pdf) 
 
 - :material-rename: **Run ID:** UW_UDHAV_S100 
 - :fontawesome-solid-user-group: **Participant:** Waterloo_Cormack 
@@ -631,7 +631,7 @@
 
 ---
 #### UW_UDHAVSETHI 
-[**`Results`**](./results.md#uw_udhavsethi), [**`Participants`**](./participants.md#waterloo_cormack), [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAVSETHI.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAVSETHI), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAVSETHI.pdf) 
+[**`Results`**](./results.md#uw_udhavsethi) | [**`Participants`**](./participants.md#waterloo_cormack) | [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAVSETHI.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAVSETHI) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAVSETHI.pdf) 
 
 - :material-rename: **Run ID:** UW_UDHAVSETHI 
 - :fontawesome-solid-user-group: **Participant:** Waterloo_Cormack 
@@ -645,7 +645,7 @@
 
 ---
 #### UW_UDHAVSETHI_S 
-[**`Results`**](./results.md#uw_udhavsethi_s), [**`Participants`**](./participants.md#waterloo_cormack), [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles), [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAVSETHI_S.gz), [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAVSETHI_S), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAVSETHI_S.pdf) 
+[**`Results`**](./results.md#uw_udhavsethi_s) | [**`Participants`**](./participants.md#waterloo_cormack) | [**`Proceedings`**](./proceedings.md#semantic-search-for-background-linking-in-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec30/news/input.UW_UDHAVSETHI_S.gz) | [**`Summary`**](https://trec.nist.gov/results/trec30/news/summary.UW_UDHAVSETHI_S) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/news/UW_UDHAVSETHI_S.pdf) 
 
 - :material-rename: **Run ID:** UW_UDHAVSETHI_S 
 - :fontawesome-solid-user-group: **Participant:** Waterloo_Cormack 

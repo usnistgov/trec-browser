@@ -2,7 +2,7 @@
 
 ## Common Core
 
-[`Overview`](./core/overview.md), [`Proceedings`](./core/proceedings.md), [`Data`](./core/data.md), [`Results`](./core/results.md), [`Runs`](./core/runs.md), [`Participants`](./core/participants.md)
+[`Overview`](./core/overview.md) | [`Proceedings`](./core/proceedings.md) | [`Data`](./core/data.md) | [`Results`](./core/results.md) | [`Runs`](./core/runs.md) | [`Participants`](./core/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The primary goal of the TREC Common Core track is three-fold: (a) bring the info
 
 ## Precision Medicine
 
-[`Overview`](./pm/overview.md), [`Proceedings`](./pm/proceedings.md), [`Data`](./pm/data.md), [`Results`](./pm/results.md), [`Runs`](./pm/runs.md), [`Participants`](./pm/participants.md)
+[`Overview`](./pm/overview.md) | [`Proceedings`](./pm/proceedings.md) | [`Data`](./pm/data.md) | [`Results`](./pm/results.md) | [`Runs`](./pm/runs.md) | [`Participants`](./pm/participants.md)
 
 {==
 
@@ -48,7 +48,7 @@ For many complex diseases, there is no “one size fits all” solutions for pat
 
 ## LiveQA
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -70,7 +70,7 @@ The task addresses the automatic answering of consumer health questions received
 
 ## Real-time Summarization
 
-[`Overview`](./rts/overview.md), [`Proceedings`](./rts/proceedings.md), [`Data`](./rts/data.md), [`Runs`](./rts/runs.md), [`Participants`](./rts/participants.md)
+[`Overview`](./rts/overview.md) | [`Proceedings`](./rts/proceedings.md) | [`Data`](./rts/data.md) | [`Runs`](./rts/runs.md) | [`Participants`](./rts/participants.md)
 
 {==
 
@@ -97,7 +97,7 @@ The TREC 2017 Real-Time Summarization (RTS) Track is the second iteration of a c
 
 ## Complex Answer Retrieval
 
-[`Overview`](./car/overview.md), [`Proceedings`](./car/proceedings.md), [`Data`](./car/data.md), [`Runs`](./car/runs.md), [`Participants`](./car/participants.md)
+[`Overview`](./car/overview.md) | [`Proceedings`](./car/proceedings.md) | [`Data`](./car/data.md) | [`Runs`](./car/runs.md) | [`Participants`](./car/participants.md)
 
 {==
 
@@ -119,7 +119,7 @@ The SWIRL 2012 workshop on frontiers, challenges, and opportunities for informat
 
 ## Tasks
 
-[`Overview`](./task/overview.md), [`Proceedings`](./task/proceedings.md), [`Data`](./task/data.md), [`Results`](./task/results.md), [`Runs`](./task/runs.md), [`Participants`](./task/participants.md)
+[`Overview`](./task/overview.md) | [`Proceedings`](./task/proceedings.md) | [`Data`](./task/data.md) | [`Results`](./task/results.md) | [`Runs`](./task/runs.md) | [`Participants`](./task/participants.md)
 
 {==
 
@@ -142,7 +142,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ## Dynamic Domain
 
-[`Overview`](./domain/overview.md), [`Proceedings`](./domain/proceedings.md), [`Data`](./domain/data.md), [`Runs`](./domain/runs.md), [`Participants`](./domain/participants.md)
+[`Overview`](./domain/overview.md) | [`Proceedings`](./domain/proceedings.md) | [`Data`](./domain/data.md) | [`Runs`](./domain/runs.md) | [`Participants`](./domain/participants.md)
 
 {==
 
@@ -163,7 +163,7 @@ The goal of dynamic domain track is promoting the research of dynamic, explorato
 
 ## OpenSearch
 
-[`Overview`](./open/overview.md), [`Proceedings`](./open/proceedings.md), [`Runs`](./open/runs.md), [`Participants`](./open/participants.md)
+[`Overview`](./open/overview.md) | [`Proceedings`](./open/proceedings.md) | [`Runs`](./open/runs.md) | [`Participants`](./open/participants.md)
 
 {==
 

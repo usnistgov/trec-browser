@@ -157,7 +157,7 @@
 
 ---
 #### qut10rf.10-1 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -170,7 +170,7 @@
 
 ---
 #### qut10rf.10-1.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-1.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -182,7 +182,7 @@
 
 ---
 #### qut10rf.10-2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -195,7 +195,7 @@
 
 ---
 #### qut10rf.10-2.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-2.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -207,7 +207,7 @@
 
 ---
 #### qut10rf.10-3 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -220,7 +220,7 @@
 
 ---
 #### qut10rf.10-3.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-3.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -232,7 +232,7 @@
 
 ---
 #### qut10rf.10-4 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -245,7 +245,7 @@
 
 ---
 #### qut10rf.10-4.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-4.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -257,7 +257,7 @@
 
 ---
 #### qut10rf.10-5 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -270,7 +270,7 @@
 
 ---
 #### qut10rf.10-5.2 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.10-5.2 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -282,7 +282,7 @@
 
 ---
 #### qut10rf.B 
-[**`Participants`**](./participants.md#qut_edisco), [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#qut_edisco) | [**`Proceedings`**](./proceedings.md#mining-specific-and-general-features-in-both-positive-and-negative-relevance-feedback-qut-e-discovery-lab-at-the-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** qut10rf.B 
 - :fontawesome-solid-user-group: **Participant:** QUT_eDisco 
@@ -446,7 +446,7 @@
 
 ---
 #### UAmsRF.10-1 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.10-1 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -459,7 +459,7 @@
 
 ---
 #### UAmsRF.10-2 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.10-2 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -472,7 +472,7 @@
 
 ---
 #### UAmsRF.10-3 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.10-3 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -485,7 +485,7 @@
 
 ---
 #### UAmsRF.10-4 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.10-4 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -498,7 +498,7 @@
 
 ---
 #### UAmsRF.10-5 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.10-5 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -511,7 +511,7 @@
 
 ---
 #### UAmsRF.B 
-[**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
+[**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2010-session-entity-and-relevance-feedback) 
 
 - :material-rename: **Run ID:** UAmsRF.B 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -662,7 +662,7 @@
 
 ---
 #### UPD10rf.10-1 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-1 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -675,7 +675,7 @@
 
 ---
 #### UPD10rf.10-10 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-10 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -687,7 +687,7 @@
 
 ---
 #### UPD10rf.10-2 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-2 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -700,7 +700,7 @@
 
 ---
 #### UPD10rf.10-3 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-3 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -713,7 +713,7 @@
 
 ---
 #### UPD10rf.10-4 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-4 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -726,7 +726,7 @@
 
 ---
 #### UPD10rf.10-5 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-5 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -739,7 +739,7 @@
 
 ---
 #### UPD10rf.10-6 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-6 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -751,7 +751,7 @@
 
 ---
 #### UPD10rf.10-7 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-7 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -763,7 +763,7 @@
 
 ---
 #### UPD10rf.10-8 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-8 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -775,7 +775,7 @@
 
 ---
 #### UPD10rf.10-9 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.10-9 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -787,7 +787,7 @@
 
 ---
 #### UPD10rf.B 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-methodology-for-modeling-term-relationship-through-geometry-experiments-at-trec-2010-relevance-feedback-track) 
 
 - :material-rename: **Run ID:** UPD10rf.B 
 - :fontawesome-solid-user-group: **Participant:** UPD 

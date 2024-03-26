@@ -1,7 +1,7 @@
 # Runs - Interactive 2002 
 
 #### Icsiro 
-[**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#trec-11-web-and-interactive-tracks-at-csiro) 
+[**`Participants`**](./participants.md#csiro) | [**`Proceedings`**](./proceedings.md#trec-11-web-and-interactive-tracks-at-csiro) 
 
 - :material-rename: **Run ID:** Icsiro 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
@@ -10,7 +10,7 @@
 
 ---
 #### IOHSU 
-[**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#more-statistical-power-needed-the-ohsu-trec-2002-interactive-track-experiments) 
+[**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#more-statistical-power-needed-the-ohsu-trec-2002-interactive-track-experiments) 
 
 - :material-rename: **Run ID:** IOHSU 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -19,7 +19,7 @@
 
 ---
 #### IRutgers 
-[**`Participants`**](./participants.md#rutgers_belkin), [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-2002) 
+[**`Participants`**](./participants.md#rutgers_belkin) | [**`Proceedings`**](./proceedings.md#rutgers-interactive-track-at-trec-2002) 
 
 - :material-rename: **Run ID:** IRutgers 
 - :fontawesome-solid-user-group: **Participant:** rutgers_belkin 
@@ -28,7 +28,7 @@
 
 ---
 #### IToronto 
-[**`Participants`**](./participants.md#toronto), [**`Proceedings`**](./proceedings.md#augmenting-and-limiting-search-queries) 
+[**`Participants`**](./participants.md#toronto) | [**`Proceedings`**](./proceedings.md#augmenting-and-limiting-search-queries) 
 
 - :material-rename: **Run ID:** IToronto 
 - :fontawesome-solid-user-group: **Participant:** toronto 

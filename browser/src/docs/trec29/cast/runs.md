@@ -1,7 +1,7 @@
 # Runs - Conversational Assistance 2020 
 
 #### ASCFDA_baseline 
-[**`Results`**](./results.md#ascfda_baseline), [**`Participants`**](./participants.md#ascfda), [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_baseline.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_baseline), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_baseline.pdf) 
+[**`Results`**](./results.md#ascfda_baseline) | [**`Participants`**](./participants.md#ascfda) | [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_baseline.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_baseline) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_baseline.pdf) 
 
 - :material-rename: **Run ID:** ASCFDA_baseline 
 - :fontawesome-solid-user-group: **Participant:** ASCFDA 
@@ -14,7 +14,7 @@
 
 ---
 #### ASCFDA_d2q_emb 
-[**`Results`**](./results.md#ascfda_d2q_emb), [**`Participants`**](./participants.md#ascfda), [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_d2q_emb.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_d2q_emb), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_d2q_emb.pdf) 
+[**`Results`**](./results.md#ascfda_d2q_emb) | [**`Participants`**](./participants.md#ascfda) | [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_d2q_emb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_d2q_emb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_d2q_emb.pdf) 
 
 - :material-rename: **Run ID:** ASCFDA_d2q_emb 
 - :fontawesome-solid-user-group: **Participant:** ASCFDA 
@@ -27,7 +27,7 @@
 
 ---
 #### ASCFDA_qa 
-[**`Results`**](./results.md#ascfda_qa), [**`Participants`**](./participants.md#ascfda), [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_qa.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_qa), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_qa.pdf) 
+[**`Results`**](./results.md#ascfda_qa) | [**`Participants`**](./participants.md#ascfda) | [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_qa.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_qa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_qa.pdf) 
 
 - :material-rename: **Run ID:** ASCFDA_qa 
 - :fontawesome-solid-user-group: **Participant:** ASCFDA 
@@ -41,7 +41,7 @@
 
 ---
 #### ASCFDA_rm3 
-[**`Results`**](./results.md#ascfda_rm3), [**`Participants`**](./participants.md#ascfda), [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_rm3.pdf) 
+[**`Results`**](./results.md#ascfda_rm3) | [**`Participants`**](./participants.md#ascfda) | [**`Proceedings`**](./proceedings.md#query-expansion-with-semantic-based-ellipsis-reduction-for-conversational-ir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ASCFDA_rm3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ASCFDA_rm3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ASCFDA_rm3.pdf) 
 
 - :material-rename: **Run ID:** ASCFDA_rm3 
 - :fontawesome-solid-user-group: **Participant:** ASCFDA 
@@ -54,7 +54,7 @@
 
 ---
 #### AUTO_BERT100 
-[**`Results`**](./results.md#auto_bert100), [**`Participants`**](./participants.md#nova-search), [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.AUTO_BERT100.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.AUTO_BERT100), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/AUTO_BERT100.pdf) 
+[**`Results`**](./results.md#auto_bert100) | [**`Participants`**](./participants.md#nova-search) | [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.AUTO_BERT100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.AUTO_BERT100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/AUTO_BERT100.pdf) 
 
 - :material-rename: **Run ID:** AUTO_BERT100 
 - :fontawesome-solid-user-group: **Participant:** nova-search 
@@ -67,7 +67,7 @@
 
 ---
 #### AUTO_T5_RRF 
-[**`Results`**](./results.md#auto_t5_rrf), [**`Participants`**](./participants.md#nova-search), [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.AUTO_T5_RRF.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.AUTO_T5_RRF), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/AUTO_T5_RRF.pdf) 
+[**`Results`**](./results.md#auto_t5_rrf) | [**`Participants`**](./participants.md#nova-search) | [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.AUTO_T5_RRF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.AUTO_T5_RRF) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/AUTO_T5_RRF.pdf) 
 
 - :material-rename: **Run ID:** AUTO_T5_RRF 
 - :fontawesome-solid-user-group: **Participant:** nova-search 
@@ -80,7 +80,7 @@
 
 ---
 #### baselineQR 
-[**`Results`**](./results.md#baselineqr), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.baselineQR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.baselineQR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/baselineQR.pdf) 
+[**`Results`**](./results.md#baselineqr) | [**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.baselineQR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.baselineQR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/baselineQR.pdf) 
 
 - :material-rename: **Run ID:** baselineQR 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -93,7 +93,7 @@
 
 ---
 #### castur_albert 
-[**`Results`**](./results.md#castur_albert), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.castur_albert.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.castur_albert), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/castur_albert.pdf) 
+[**`Results`**](./results.md#castur_albert) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.castur_albert.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.castur_albert) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/castur_albert.pdf) 
 
 - :material-rename: **Run ID:** castur_albert 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -106,7 +106,7 @@
 
 ---
 #### duth 
-[**`Results`**](./results.md#duth), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth.pdf) 
+[**`Results`**](./results.md#duth) | [**`Participants`**](./participants.md#duth) | [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth.pdf) 
 
 - :material-rename: **Run ID:** duth 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
@@ -119,7 +119,7 @@
 
 ---
 #### duth_arq 
-[**`Results`**](./results.md#duth_arq), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth_arq.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth_arq), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth_arq.pdf) 
+[**`Results`**](./results.md#duth_arq) | [**`Participants`**](./participants.md#duth) | [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth_arq.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth_arq) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth_arq.pdf) 
 
 - :material-rename: **Run ID:** duth_arq 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
@@ -132,7 +132,7 @@
 
 ---
 #### duth_manual 
-[**`Results`**](./results.md#duth_manual), [**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth_manual.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth_manual), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth_manual.pdf) 
+[**`Results`**](./results.md#duth_manual) | [**`Participants`**](./participants.md#duth) | [**`Proceedings`**](./proceedings.md#duth-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.duth_manual.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.duth_manual) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/duth_manual.pdf) 
 
 - :material-rename: **Run ID:** duth_manual 
 - :fontawesome-solid-user-group: **Participant:** DUTH 
@@ -146,7 +146,7 @@
 
 ---
 #### grill_bmDuo 
-[**`Results`**](./results.md#grill_bmduo), [**`Participants`**](./participants.md#grill), [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_bmDuo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_bmDuo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_bmDuo.pdf) 
+[**`Results`**](./results.md#grill_bmduo) | [**`Participants`**](./participants.md#grill) | [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_bmDuo.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_bmDuo) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_bmDuo.pdf) 
 
 - :material-rename: **Run ID:** grill_bmDuo 
 - :fontawesome-solid-user-group: **Participant:** grill 
@@ -160,7 +160,7 @@
 
 ---
 #### grill_ctxDuo 
-[**`Results`**](./results.md#grill_ctxduo), [**`Participants`**](./participants.md#grill), [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_ctxDuo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_ctxDuo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_ctxDuo.pdf) 
+[**`Results`**](./results.md#grill_ctxduo) | [**`Participants`**](./participants.md#grill) | [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_ctxDuo.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_ctxDuo) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_ctxDuo.pdf) 
 
 - :material-rename: **Run ID:** grill_ctxDuo 
 - :fontawesome-solid-user-group: **Participant:** grill 
@@ -174,7 +174,7 @@
 
 ---
 #### grill_duoBART 
-[**`Results`**](./results.md#grill_duobart), [**`Participants`**](./participants.md#grill), [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_duoBART.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_duoBART), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_duoBART.pdf) 
+[**`Results`**](./results.md#grill_duobart) | [**`Participants`**](./participants.md#grill) | [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_duoBART.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_duoBART) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_duoBART.pdf) 
 
 - :material-rename: **Run ID:** grill_duoBART 
 - :fontawesome-solid-user-group: **Participant:** grill 
@@ -187,7 +187,7 @@
 
 ---
 #### grill_fuseDuo 
-[**`Results`**](./results.md#grill_fuseduo), [**`Participants`**](./participants.md#grill), [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_fuseDuo.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_fuseDuo), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_fuseDuo.pdf) 
+[**`Results`**](./results.md#grill_fuseduo) | [**`Participants`**](./participants.md#grill) | [**`Proceedings`**](./proceedings.md#glasgow-representation-and-information-learning-lab-grill-at-the-conversational-assistance-track-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.grill_fuseDuo.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.grill_fuseDuo) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/grill_fuseDuo.pdf) 
 
 - :material-rename: **Run ID:** grill_fuseDuo 
 - :fontawesome-solid-user-group: **Participant:** grill 
@@ -200,7 +200,7 @@
 
 ---
 #### h2oloo_RUN1 
-[**`Results`**](./results.md#h2oloo_run1), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN1.pdf) 
+[**`Results`**](./results.md#h2oloo_run1) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN1.pdf) 
 
 - :material-rename: **Run ID:** h2oloo_RUN1 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -213,7 +213,7 @@
 
 ---
 #### h2oloo_RUN2 
-[**`Results`**](./results.md#h2oloo_run2), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN2.pdf) 
+[**`Results`**](./results.md#h2oloo_run2) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN2.pdf) 
 
 - :material-rename: **Run ID:** h2oloo_RUN2 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -226,7 +226,7 @@
 
 ---
 #### h2oloo_RUN3 
-[**`Results`**](./results.md#h2oloo_run3), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN3.pdf) 
+[**`Results`**](./results.md#h2oloo_run3) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN3.pdf) 
 
 - :material-rename: **Run ID:** h2oloo_RUN3 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -239,7 +239,7 @@
 
 ---
 #### h2oloo_RUN4 
-[**`Results`**](./results.md#h2oloo_run4), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN4.pdf) 
+[**`Results`**](./results.md#h2oloo_run4) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#trec-2020-notebook-cast-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.h2oloo_RUN4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.h2oloo_RUN4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/h2oloo_RUN4.pdf) 
 
 - :material-rename: **Run ID:** h2oloo_RUN4 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -252,7 +252,7 @@
 
 ---
 #### HBKU_t2_1v1 
-[**`Results`**](./results.md#hbku_t2_1v1), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v1.pdf) 
+[**`Results`**](./results.md#hbku_t2_1v1) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v1.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t2_1v1 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -265,7 +265,7 @@
 
 ---
 #### HBKU_t2_1v1_mnl 
-[**`Results`**](./results.md#hbku_t2_1v1_mnl), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v1_mnl.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v1_mnl), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v1_mnl.pdf) 
+[**`Results`**](./results.md#hbku_t2_1v1_mnl) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v1_mnl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v1_mnl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v1_mnl.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t2_1v1_mnl 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -279,7 +279,7 @@
 
 ---
 #### HBKU_t2_1v2 
-[**`Results`**](./results.md#hbku_t2_1v2), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v2.pdf) 
+[**`Results`**](./results.md#hbku_t2_1v2) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v2.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t2_1v2 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -292,7 +292,7 @@
 
 ---
 #### HBKU_t2_1v2_mnl 
-[**`Results`**](./results.md#hbku_t2_1v2_mnl), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v2_mnl.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v2_mnl), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v2_mnl.pdf) 
+[**`Results`**](./results.md#hbku_t2_1v2_mnl) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t2_1v2_mnl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t2_1v2_mnl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t2_1v2_mnl.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t2_1v2_mnl 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -306,7 +306,7 @@
 
 ---
 #### HBKU_t5_1v1 
-[**`Results`**](./results.md#hbku_t5_1v1), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v1.pdf) 
+[**`Results`**](./results.md#hbku_t5_1v1) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v1.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t5_1v1 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -319,7 +319,7 @@
 
 ---
 #### HBKU_t5_1v1_mnl 
-[**`Results`**](./results.md#hbku_t5_1v1_mnl), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v1_mnl.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v1_mnl), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v1_mnl.pdf) 
+[**`Results`**](./results.md#hbku_t5_1v1_mnl) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v1_mnl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v1_mnl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v1_mnl.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t5_1v1_mnl 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -333,7 +333,7 @@
 
 ---
 #### HBKU_t5_1v2 
-[**`Results`**](./results.md#hbku_t5_1v2), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v2.pdf) 
+[**`Results`**](./results.md#hbku_t5_1v2) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v2.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t5_1v2 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -346,7 +346,7 @@
 
 ---
 #### HBKU_t5_1v2_mnl 
-[**`Results`**](./results.md#hbku_t5_1v2_mnl), [**`Participants`**](./participants.md#hbku), [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v2_mnl.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v2_mnl), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v2_mnl.pdf) 
+[**`Results`**](./results.md#hbku_t5_1v2_mnl) | [**`Participants`**](./participants.md#hbku) | [**`Proceedings`**](./proceedings.md#hbku-at-trec-2020-conversational-multi-stage-retrieval-with-pseudo-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HBKU_t5_1v2_mnl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HBKU_t5_1v2_mnl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HBKU_t5_1v2_mnl.pdf) 
 
 - :material-rename: **Run ID:** HBKU_t5_1v2_mnl 
 - :fontawesome-solid-user-group: **Participant:** HBKU 
@@ -360,7 +360,7 @@
 
 ---
 #### hist_attention 
-[**`Results`**](./results.md#hist_attention), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.hist_attention.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.hist_attention), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/hist_attention.pdf) 
+[**`Results`**](./results.md#hist_attention) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.hist_attention.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.hist_attention) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/hist_attention.pdf) 
 
 - :material-rename: **Run ID:** hist_attention 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -373,7 +373,7 @@
 
 ---
 #### hist_concat 
-[**`Results`**](./results.md#hist_concat), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.hist_concat.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.hist_concat), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/hist_concat.pdf) 
+[**`Results`**](./results.md#hist_concat) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.hist_concat.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.hist_concat) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/hist_concat.pdf) 
 
 - :material-rename: **Run ID:** hist_concat 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -386,7 +386,7 @@
 
 ---
 #### HPCLab-CNR-run1 
-[**`Results`**](./results.md#hpclab-cnr-run1), [**`Participants`**](./participants.md#hpclab-cnr), [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run1.pdf) 
+[**`Results`**](./results.md#hpclab-cnr-run1) | [**`Participants`**](./participants.md#hpclab-cnr) | [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run1.pdf) 
 
 - :material-rename: **Run ID:** HPCLab-CNR-run1 
 - :fontawesome-solid-user-group: **Participant:** HPCLab-CNR 
@@ -399,7 +399,7 @@
 
 ---
 #### HPCLab-CNR-run2 
-[**`Results`**](./results.md#hpclab-cnr-run2), [**`Participants`**](./participants.md#hpclab-cnr), [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run2.pdf) 
+[**`Results`**](./results.md#hpclab-cnr-run2) | [**`Participants`**](./participants.md#hpclab-cnr) | [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run2.pdf) 
 
 - :material-rename: **Run ID:** HPCLab-CNR-run2 
 - :fontawesome-solid-user-group: **Participant:** HPCLab-CNR 
@@ -412,7 +412,7 @@
 
 ---
 #### HPCLab-CNR-run3 
-[**`Results`**](./results.md#hpclab-cnr-run3), [**`Participants`**](./participants.md#hpclab-cnr), [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run3.pdf) 
+[**`Results`**](./results.md#hpclab-cnr-run3) | [**`Participants`**](./participants.md#hpclab-cnr) | [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run3.pdf) 
 
 - :material-rename: **Run ID:** HPCLab-CNR-run3 
 - :fontawesome-solid-user-group: **Participant:** HPCLab-CNR 
@@ -425,7 +425,7 @@
 
 ---
 #### HPCLab-CNR-run4 
-[**`Results`**](./results.md#hpclab-cnr-run4), [**`Participants`**](./participants.md#hpclab-cnr), [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run4.pdf) 
+[**`Results`**](./results.md#hpclab-cnr-run4) | [**`Participants`**](./participants.md#hpclab-cnr) | [**`Proceedings`**](./proceedings.md#topical-enrichment-of-conversational-search-utterances-participation-of-the-hpclab-cnr-team-in-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.HPCLab-CNR-run4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.HPCLab-CNR-run4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/HPCLab-CNR-run4.pdf) 
 
 - :material-rename: **Run ID:** HPCLab-CNR-run4 
 - :fontawesome-solid-user-group: **Participant:** HPCLab-CNR 
@@ -438,7 +438,7 @@
 
 ---
 #### humanQR 
-[**`Results`**](./results.md#humanqr), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.humanQR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.humanQR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/humanQR.pdf) 
+[**`Results`**](./results.md#humanqr) | [**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.humanQR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.humanQR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/humanQR.pdf) 
 
 - :material-rename: **Run ID:** humanQR 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -452,7 +452,7 @@
 
 ---
 #### ielab-bertAQ 
-[**`Results`**](./results.md#ielab-bertaq), [**`Participants`**](./participants.md#ielab), [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bertAQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bertAQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bertAQ.pdf) 
+[**`Results`**](./results.md#ielab-bertaq) | [**`Participants`**](./participants.md#ielab) | [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bertAQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bertAQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bertAQ.pdf) 
 
 - :material-rename: **Run ID:** ielab-bertAQ 
 - :fontawesome-solid-user-group: **Participant:** ielab 
@@ -465,7 +465,7 @@
 
 ---
 #### ielab-bertPRFAQ 
-[**`Results`**](./results.md#ielab-bertprfaq), [**`Participants`**](./participants.md#ielab), [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bertPRFAQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bertPRFAQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bertPRFAQ.pdf) 
+[**`Results`**](./results.md#ielab-bertprfaq) | [**`Participants`**](./participants.md#ielab) | [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bertPRFAQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bertPRFAQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bertPRFAQ.pdf) 
 
 - :material-rename: **Run ID:** ielab-bertPRFAQ 
 - :fontawesome-solid-user-group: **Participant:** ielab 
@@ -478,7 +478,7 @@
 
 ---
 #### ielab-bm25AQ 
-[**`Results`**](./results.md#ielab-bm25aq), [**`Participants`**](./participants.md#ielab), [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bm25AQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bm25AQ), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bm25AQ.pdf) 
+[**`Results`**](./results.md#ielab-bm25aq) | [**`Participants`**](./participants.md#ielab) | [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bm25AQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bm25AQ) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bm25AQ.pdf) 
 
 - :material-rename: **Run ID:** ielab-bm25AQ 
 - :fontawesome-solid-user-group: **Participant:** ielab 
@@ -491,7 +491,7 @@
 
 ---
 #### ielab-bm25T5QLM 
-[**`Results`**](./results.md#ielab-bm25t5qlm), [**`Participants`**](./participants.md#ielab), [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bm25T5QLM.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bm25T5QLM), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bm25T5QLM.pdf) 
+[**`Results`**](./results.md#ielab-bm25t5qlm) | [**`Participants`**](./participants.md#ielab) | [**`Proceedings`**](./proceedings.md#ielab-for-trec-conversational-assistance-track-cast-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.ielab-bm25T5QLM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.ielab-bm25T5QLM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/ielab-bm25T5QLM.pdf) 
 
 - :material-rename: **Run ID:** ielab-bm25T5QLM 
 - :fontawesome-solid-user-group: **Participant:** ielab 
@@ -504,7 +504,7 @@
 
 ---
 #### man_polyu1 
-[**`Results`**](./results.md#man_polyu1), [**`Participants`**](./participants.md#polyu_some), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2020-conversational-assistant-track-query-reformulation-with-heuristic-topic-phrases-discovery), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.man_polyu1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.man_polyu1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/man_polyu1.pdf) 
+[**`Results`**](./results.md#man_polyu1) | [**`Participants`**](./participants.md#polyu_some) | [**`Proceedings`**](./proceedings.md#polyu-at-trec-2020-conversational-assistant-track-query-reformulation-with-heuristic-topic-phrases-discovery) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.man_polyu1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.man_polyu1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/man_polyu1.pdf) 
 
 - :material-rename: **Run ID:** man_polyu1 
 - :fontawesome-solid-user-group: **Participant:** POLYU_SOME 
@@ -518,7 +518,7 @@
 
 ---
 #### PAS_BQUERY_MER 
-[**`Results`**](./results.md#pas_bquery_mer), [**`Participants`**](./participants.md#cmu-lti), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PAS_BQUERY_MER.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PAS_BQUERY_MER), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PAS_BQUERY_MER.pdf) 
+[**`Results`**](./results.md#pas_bquery_mer) | [**`Participants`**](./participants.md#cmu-lti) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PAS_BQUERY_MER.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PAS_BQUERY_MER) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PAS_BQUERY_MER.pdf) 
 
 - :material-rename: **Run ID:** PAS_BQUERY_MER 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI 
@@ -531,7 +531,7 @@
 
 ---
 #### PAS_RQUERY_MER 
-[**`Results`**](./results.md#pas_rquery_mer), [**`Participants`**](./participants.md#cmu-lti), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PAS_RQUERY_MER.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PAS_RQUERY_MER), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PAS_RQUERY_MER.pdf) 
+[**`Results`**](./results.md#pas_rquery_mer) | [**`Participants`**](./participants.md#cmu-lti) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PAS_RQUERY_MER.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PAS_RQUERY_MER) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PAS_RQUERY_MER.pdf) 
 
 - :material-rename: **Run ID:** PAS_RQUERY_MER 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI 
@@ -544,7 +544,7 @@
 
 ---
 #### PASO_BQUERO_MER 
-[**`Results`**](./results.md#paso_bquero_mer), [**`Participants`**](./participants.md#cmu-lti), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PASO_BQUERO_MER.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PASO_BQUERO_MER), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PASO_BQUERO_MER.pdf) 
+[**`Results`**](./results.md#paso_bquero_mer) | [**`Participants`**](./participants.md#cmu-lti) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.PASO_BQUERO_MER.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.PASO_BQUERO_MER) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/PASO_BQUERO_MER.pdf) 
 
 - :material-rename: **Run ID:** PASO_BQUERO_MER 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI 
@@ -557,7 +557,7 @@
 
 ---
 #### quretecNoRerank 
-[**`Results`**](./results.md#quretecnorerank), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.quretecNoRerank.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.quretecNoRerank), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/quretecNoRerank.pdf) 
+[**`Results`**](./results.md#quretecnorerank) | [**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.quretecNoRerank.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.quretecNoRerank) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/quretecNoRerank.pdf) 
 
 - :material-rename: **Run ID:** quretecNoRerank 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -570,7 +570,7 @@
 
 ---
 #### quretecQR 
-[**`Results`**](./results.md#quretecqr), [**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.quretecQR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.quretecQR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/quretecQR.pdf) 
+[**`Results`**](./results.md#quretecqr) | [**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#leveraging-query-resolution-and-reading-comprehension-for-conversational-passage-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.quretecQR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.quretecQR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/quretecQR.pdf) 
 
 - :material-rename: **Run ID:** quretecQR 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -583,7 +583,7 @@
 
 ---
 #### raw_polyu1 
-[**`Results`**](./results.md#raw_polyu1), [**`Participants`**](./participants.md#polyu_some), [**`Proceedings`**](./proceedings.md#polyu-at-trec-2020-conversational-assistant-track-query-reformulation-with-heuristic-topic-phrases-discovery), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.raw_polyu1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.raw_polyu1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/raw_polyu1.pdf) 
+[**`Results`**](./results.md#raw_polyu1) | [**`Participants`**](./participants.md#polyu_some) | [**`Proceedings`**](./proceedings.md#polyu-at-trec-2020-conversational-assistant-track-query-reformulation-with-heuristic-topic-phrases-discovery) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.raw_polyu1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.raw_polyu1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/raw_polyu1.pdf) 
 
 - :material-rename: **Run ID:** raw_polyu1 
 - :fontawesome-solid-user-group: **Participant:** POLYU_SOME 
@@ -596,7 +596,7 @@
 
 ---
 #### rewrite_albert 
-[**`Results`**](./results.md#rewrite_albert), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.rewrite_albert.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.rewrite_albert), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/rewrite_albert.pdf) 
+[**`Results`**](./results.md#rewrite_albert) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#extending-the-use-of-previous-relevant-utterances-for-response-ranking-in-conversational-search) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.rewrite_albert.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.rewrite_albert) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/rewrite_albert.pdf) 
 
 - :material-rename: **Run ID:** rewrite_albert 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -609,7 +609,7 @@
 
 ---
 #### T5_BERT100 
-[**`Results`**](./results.md#t5_bert100), [**`Participants`**](./participants.md#nova-search), [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.T5_BERT100.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.T5_BERT100), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/T5_BERT100.pdf) 
+[**`Results`**](./results.md#t5_bert100) | [**`Participants`**](./participants.md#nova-search) | [**`Proceedings`**](./proceedings.md#nova-at-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.T5_BERT100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.T5_BERT100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/T5_BERT100.pdf) 
 
 - :material-rename: **Run ID:** T5_BERT100 
 - :fontawesome-solid-user-group: **Participant:** nova-search 
@@ -622,7 +622,7 @@
 
 ---
 #### umass_4prev_rm3 
-[**`Results`**](./results.md#umass_4prev_rm3), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.umass_4prev_rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.umass_4prev_rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/umass_4prev_rm3.pdf) 
+[**`Results`**](./results.md#umass_4prev_rm3) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.umass_4prev_rm3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.umass_4prev_rm3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/umass_4prev_rm3.pdf) 
 
 - :material-rename: **Run ID:** umass_4prev_rm3 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -635,7 +635,7 @@
 
 ---
 #### umass_curr_rm3 
-[**`Results`**](./results.md#umass_curr_rm3), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.umass_curr_rm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.umass_curr_rm3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/umass_curr_rm3.pdf) 
+[**`Results`**](./results.md#umass_curr_rm3) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.umass_curr_rm3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.umass_curr_rm3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/umass_curr_rm3.pdf) 
 
 - :material-rename: **Run ID:** umass_curr_rm3 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -649,7 +649,7 @@
 
 ---
 #### WatACBase 
-[**`Results`**](./results.md#watacbase), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACBase.pdf) 
+[**`Results`**](./results.md#watacbase) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACBase.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACBase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACBase.pdf) 
 
 - :material-rename: **Run ID:** WatACBase 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -662,7 +662,7 @@
 
 ---
 #### WatACBaseRe 
-[**`Results`**](./results.md#watacbasere), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACBaseRe.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACBaseRe), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACBaseRe.pdf) 
+[**`Results`**](./results.md#watacbasere) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACBaseRe.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACBaseRe) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACBaseRe.pdf) 
 
 - :material-rename: **Run ID:** WatACBaseRe 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -675,7 +675,7 @@
 
 ---
 #### WatACGPT2Re 
-[**`Results`**](./results.md#watacgpt2re), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACGPT2Re.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACGPT2Re), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACGPT2Re.pdf) 
+[**`Results`**](./results.md#watacgpt2re) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACGPT2Re.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACGPT2Re) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACGPT2Re.pdf) 
 
 - :material-rename: **Run ID:** WatACGPT2Re 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -688,7 +688,7 @@
 
 ---
 #### WatACReAll 
-[**`Results`**](./results.md#watacreall), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACReAll.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACReAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACReAll.pdf) 
+[**`Results`**](./results.md#watacreall) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-at-the-trec-2020-conversational-assistant-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WatACReAll.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WatACReAll) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WatACReAll.pdf) 
 
 - :material-rename: **Run ID:** WatACReAll 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -701,7 +701,7 @@
 
 ---
 #### WLU_ManUttOnly 
-[**`Results`**](./results.md#wlu_manuttonly), [**`Participants`**](./participants.md#wlu), [**`Proceedings`**](./proceedings.md#wilfrid-laurier-university-at-the-nist-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WLU_ManUttOnly.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WLU_ManUttOnly), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WLU_ManUttOnly.pdf) 
+[**`Results`**](./results.md#wlu_manuttonly) | [**`Participants`**](./participants.md#wlu) | [**`Proceedings`**](./proceedings.md#wilfrid-laurier-university-at-the-nist-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WLU_ManUttOnly.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WLU_ManUttOnly) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WLU_ManUttOnly.pdf) 
 
 - :material-rename: **Run ID:** WLU_ManUttOnly 
 - :fontawesome-solid-user-group: **Participant:** WLU 
@@ -715,7 +715,7 @@
 
 ---
 #### WLU_RawUttOnly 
-[**`Results`**](./results.md#wlu_rawuttonly), [**`Participants`**](./participants.md#wlu), [**`Proceedings`**](./proceedings.md#wilfrid-laurier-university-at-the-nist-trec-2020-conversational-assistance-track), [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WLU_RawUttOnly.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WLU_RawUttOnly), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WLU_RawUttOnly.pdf) 
+[**`Results`**](./results.md#wlu_rawuttonly) | [**`Participants`**](./participants.md#wlu) | [**`Proceedings`**](./proceedings.md#wilfrid-laurier-university-at-the-nist-trec-2020-conversational-assistance-track) | [**`Input`**](https://trec.nist.gov/results/trec29/cast/input.WLU_RawUttOnly.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/cast/summary.treceval.WLU_RawUttOnly) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/cast/WLU_RawUttOnly.pdf) 
 
 - :material-rename: **Run ID:** WLU_RawUttOnly 
 - :fontawesome-solid-user-group: **Participant:** WLU 

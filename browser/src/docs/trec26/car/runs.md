@@ -43,7 +43,7 @@
 
 ---
 #### mpii-nn4_pos_hperc 
-[**`Participants`**](./participants.md#mpiid5), [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
+[**`Participants`**](./participants.md#mpiid5) | [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
 
 - :material-rename: **Run ID:** mpii-nn4_pos_hperc 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
@@ -57,7 +57,7 @@
 
 ---
 #### mpii-nn6_pos 
-[**`Participants`**](./participants.md#mpiid5), [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
+[**`Participants`**](./participants.md#mpiid5) | [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
 
 - :material-rename: **Run ID:** mpii-nn6_pos 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
@@ -71,7 +71,7 @@
 
 ---
 #### mpii-nn6_pos_tprob 
-[**`Participants`**](./participants.md#mpiid5), [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
+[**`Participants`**](./participants.md#mpiid5) | [**`Proceedings`**](./proceedings.md#contextualized-pacrr-for-complex-answer-retrieval) 
 
 - :material-rename: **Run ID:** mpii-nn6_pos_tprob 
 - :fontawesome-solid-user-group: **Participant:** MPIID5 
@@ -173,7 +173,7 @@
 
 ---
 #### treccarict 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec2017-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec2017-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** treccarict 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -215,7 +215,7 @@
 
 ---
 #### UTDHLTRIAR 
-[**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#utdhltri) | [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** UTDHLTRIAR 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
@@ -229,7 +229,7 @@
 
 ---
 #### UTDHLTRINN20 
-[**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#utdhltri) | [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** UTDHLTRINN20 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 
@@ -243,7 +243,7 @@
 
 ---
 #### UTDHLTRINN50 
-[**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#utdhltri) | [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2017-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** UTDHLTRINN50 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 

@@ -2,7 +2,7 @@
 
 ## Entity
 
-[`Overview`](./entity/overview.md), [`Proceedings`](./entity/proceedings.md), [`Data`](./entity/data.md), [`Results`](./entity/results.md), [`Runs`](./entity/runs.md), [`Participants`](./entity/participants.md)
+[`Overview`](./entity/overview.md) | [`Proceedings`](./entity/proceedings.md) | [`Data`](./entity/data.md) | [`Results`](./entity/results.md) | [`Runs`](./entity/runs.md) | [`Participants`](./entity/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The TREC Entity track aimed to build test collections to evaluate entity-oriente
 
 ## Microblog
 
-[`Overview`](./microblog/overview.md), [`Proceedings`](./microblog/proceedings.md), [`Data`](./microblog/data.md), [`Results`](./microblog/results.md), [`Runs`](./microblog/runs.md), [`Participants`](./microblog/participants.md)
+[`Overview`](./microblog/overview.md) | [`Proceedings`](./microblog/proceedings.md) | [`Data`](./microblog/data.md) | [`Results`](./microblog/results.md) | [`Runs`](./microblog/runs.md) | [`Participants`](./microblog/participants.md)
 
 {==
 
@@ -45,7 +45,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -67,7 +67,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ## Legal
 
-[`Overview`](./legal/overview.md), [`Proceedings`](./legal/proceedings.md), [`Data`](./legal/data.md), [`Runs`](./legal/runs.md), [`Participants`](./legal/participants.md)
+[`Overview`](./legal/overview.md) | [`Proceedings`](./legal/proceedings.md) | [`Data`](./legal/data.md) | [`Runs`](./legal/runs.md) | [`Participants`](./legal/participants.md)
 
 {==
 
@@ -89,7 +89,7 @@ The TREC 2011 Legal Track consisted of a single task: the learning task, which c
 
 ## Chemical
 
-[`Overview`](./chemical/overview.md), [`Proceedings`](./chemical/proceedings.md), [`Data`](./chemical/data.md), [`Results`](./chemical/results.md), [`Runs`](./chemical/runs.md), [`Participants`](./chemical/participants.md)
+[`Overview`](./chemical/overview.md) | [`Proceedings`](./chemical/proceedings.md) | [`Data`](./chemical/data.md) | [`Results`](./chemical/results.md) | [`Runs`](./chemical/runs.md) | [`Participants`](./chemical/participants.md)
 
 {==
 
@@ -115,7 +115,7 @@ The third year of the Chemical IR evaluation track benefitted from the support o
 
 ## Medical
 
-[`Overview`](./medical/overview.md), [`Proceedings`](./medical/proceedings.md), [`Data`](./medical/data.md), [`Results`](./medical/results.md), [`Runs`](./medical/runs.md), [`Participants`](./medical/participants.md)
+[`Overview`](./medical/overview.md) | [`Proceedings`](./medical/proceedings.md) | [`Data`](./medical/data.md) | [`Results`](./medical/results.md) | [`Runs`](./medical/runs.md) | [`Participants`](./medical/participants.md)
 
 {==
 
@@ -129,7 +129,7 @@ The search task within the TREC 2011 Medical Records track was an ad hoc search 
 
 ## Session
 
-[`Overview`](./session/overview.md), [`Proceedings`](./session/proceedings.md), [`Data`](./session/data.md), [`Results`](./session/results.md), [`Runs`](./session/runs.md), [`Participants`](./session/participants.md)
+[`Overview`](./session/overview.md) | [`Proceedings`](./session/proceedings.md) | [`Data`](./session/data.md) | [`Results`](./session/results.md) | [`Runs`](./session/runs.md) | [`Participants`](./session/participants.md)
 
 {==
 
@@ -152,7 +152,7 @@ The TREC Session track ran for the second time in 2011. The track has the primar
 
 ## Crowdsourcing
 
-[`Overview`](./crowd/overview.md), [`Proceedings`](./crowd/proceedings.md), [`Runs`](./crowd/runs.md), [`Participants`](./crowd/participants.md)
+[`Overview`](./crowd/overview.md) | [`Proceedings`](./crowd/proceedings.md) | [`Runs`](./crowd/runs.md) | [`Participants`](./crowd/participants.md)
 
 {==
 

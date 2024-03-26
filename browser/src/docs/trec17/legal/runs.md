@@ -1,7 +1,7 @@
 # Runs - Legal 2008 
 
 #### adhocpool08 
-[**`Results`**](./results.md#adhocpool08), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#adhocpool08) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** adhocpool08 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -14,7 +14,7 @@
 
 ---
 #### Clearwell08 
-[**`Results`**](./results.md#clearwell08), [**`Participants`**](./participants.md#clearwell), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#clearwell08) | [**`Participants`**](./participants.md#clearwell) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** Clearwell08 
 - :fontawesome-solid-user-group: **Participant:** Clearwell 
@@ -27,7 +27,7 @@
 
 ---
 #### CTFgge10kBr0 
-[**`Results`**](./results.md#ctfgge10kbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFgge10kBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFgge10kBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfgge10kbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFgge10kBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFgge10kBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFgge10kBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -41,7 +41,7 @@
 
 ---
 #### CTFgge4kBr0 
-[**`Results`**](./results.md#ctfgge4kbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFgge4kBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFgge4kBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfgge4kbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFgge4kBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFgge4kBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFgge4kBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -55,7 +55,7 @@
 
 ---
 #### CTFggeBkBr0 
-[**`Results`**](./results.md#ctfggebkbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeBkBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeBkBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfggebkbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeBkBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeBkBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFggeBkBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -69,7 +69,7 @@
 
 ---
 #### CTFggeBkBr1 
-[**`Results`**](./results.md#ctfggebkbr1), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeBkBr1.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeBkBr1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfggebkbr1) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeBkBr1.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeBkBr1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFggeBkBr1 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -83,7 +83,7 @@
 
 ---
 #### CTFggeRkBr0 
-[**`Results`**](./results.md#ctfggerkbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeRkBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeRkBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfggerkbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeRkBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeRkBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFggeRkBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -97,7 +97,7 @@
 
 ---
 #### CTFggeSkBr0 
-[**`Results`**](./results.md#ctfggeskbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeSkBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeSkBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfggeskbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFggeSkBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFggeSkBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFggeSkBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -111,7 +111,7 @@
 
 ---
 #### CTFrtSk 
-[**`Results`**](./results.md#ctfrtsk), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFrtSk.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFrtSk.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfrtsk) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFrtSk.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFrtSk.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFrtSk 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -125,7 +125,7 @@
 
 ---
 #### CTFrtSkBr0 
-[**`Results`**](./results.md#ctfrtskbr0), [**`Participants`**](./participants.md#wir), [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFrtSkBr0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFrtSkBr0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ctfrtskbr0) | [**`Participants`**](./participants.md#wir) | [**`Proceedings`**](./proceedings.md#cnipa-fub-and-university-of-rome-tor-vergata-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.CTFrtSkBr0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.CTFrtSkBr0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** CTFrtSkBr0 
 - :fontawesome-solid-user-group: **Participant:** WIR 
@@ -139,7 +139,7 @@
 
 ---
 #### H52008 
-[**`Results`**](./results.md#h52008), [**`Participants`**](./participants.md#h5_2008), [**`Proceedings`**](./proceedings.md#h5-at-trec-2008-legal-interactive-user-modeling-assessment-measurement), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#h52008) | [**`Participants`**](./participants.md#h5_2008) | [**`Proceedings`**](./proceedings.md#h5-at-trec-2008-legal-interactive-user-modeling-assessment-measurement) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** H52008 
 - :fontawesome-solid-user-group: **Participant:** H5_2008 
@@ -152,7 +152,7 @@
 
 ---
 #### IowaSL0804 
-[**`Results`**](./results.md#iowasl0804), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0804.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0804.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0804) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0804.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0804.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0804 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -166,7 +166,7 @@
 
 ---
 #### IowaSL0804b 
-[**`Results`**](./results.md#iowasl0804b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0804b.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0804b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0804b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0804b.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0804b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0804b 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -180,7 +180,7 @@
 
 ---
 #### IowaSL0805 
-[**`Results`**](./results.md#iowasl0805), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0805.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0805.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0805) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0805.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0805.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0805 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -194,7 +194,7 @@
 
 ---
 #### IowaSL0805b 
-[**`Results`**](./results.md#iowasl0805b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0805b.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0805b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0805b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0805b.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0805b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0805b 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -208,7 +208,7 @@
 
 ---
 #### IowaSL0808b 
-[**`Results`**](./results.md#iowasl0808b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808b.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0808b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808b.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0808b 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -222,7 +222,7 @@
 
 ---
 #### IowaSL0808m2 
-[**`Results`**](./results.md#iowasl0808m2), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808m2.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808m2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0808m2) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808m2.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808m2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0808m2 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -236,7 +236,7 @@
 
 ---
 #### IowaSL0808m3 
-[**`Results`**](./results.md#iowasl0808m3), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808m3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808m3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl0808m3) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL0808m3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL0808m3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL0808m3 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -250,7 +250,7 @@
 
 ---
 #### IowaSL08Ref 
-[**`Results`**](./results.md#iowasl08ref), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL08Ref.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL08Ref.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#iowasl08ref) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.IowaSL08Ref.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.IowaSL08Ref.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08Ref 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -264,7 +264,7 @@
 
 ---
 #### IowaSL08RF1A 
-[**`Results`**](./results.md#iowasl08rf1a), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF1A.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF1A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf1a) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF1A.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF1A.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF1A 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -274,11 +274,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** feedback 
 - :material-fingerprint: **MD5:** `132813034fe23d7e70cc41129da59b56` 
-- :material-text: **Run description:** A collection of features is calculated for all documents submitted in the source runs for IowaSL08RF1B, judged and unjudged. The features describe the position of the document in the contributing runs, as well as the relevance characteristics of its "neighborhood". We train a classifier using the calculated features of the judged documents. The classifier, implemented using Weka’s SMO package, fits a logit regression to generate probabilities for relevance and nonrelevance for each of the test documents. It is then applied to the unjudged, which are then ranked by estimated probability of relevance. 
+- :material-text: **Run description:** A collection of features is calculated for all documents submitted in the source runs for IowaSL08RF1B, judged and unjudged. The features describe the position of the document in the contributing runs, as well as the relevance characteristics of its "neighborhood". We train a classifier using the calculated features of the judged documents. The classifier, implemented using Wekas SMO package, fits a logit regression to generate probabilities for relevance and nonrelevance for each of the test documents. It is then applied to the unjudged, which are then ranked by estimated probability of relevance. 
 
 ---
 #### IowaSL08RF1B 
-[**`Results`**](./results.md#iowasl08rf1b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF1B.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF1B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf1b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF1B.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF1B.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF1B 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -292,7 +292,7 @@
 
 ---
 #### IowaSL08RF2A 
-[**`Results`**](./results.md#iowasl08rf2a), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2A.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf2a) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2A.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2A.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF2A 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -306,7 +306,7 @@
 
 ---
 #### IowaSL08RF2B 
-[**`Results`**](./results.md#iowasl08rf2b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2B.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf2b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2B.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2B.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF2B 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -320,7 +320,7 @@
 
 ---
 #### IowaSL08RF2C 
-[**`Results`**](./results.md#iowasl08rf2c), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2C.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2C.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf2c) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF2C.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF2C.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF2C 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -334,7 +334,7 @@
 
 ---
 #### IowaSL08RF3A 
-[**`Results`**](./results.md#iowasl08rf3a), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF3A.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF3A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf3a) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF3A.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF3A.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF3A 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -348,7 +348,7 @@
 
 ---
 #### IowaSL08RF3B 
-[**`Results`**](./results.md#iowasl08rf3b), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF3B.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF3B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rf3b) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RF3B.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RF3B.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RF3B 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -362,7 +362,7 @@
 
 ---
 #### IowaSL08RFTr 
-[**`Results`**](./results.md#iowasl08rftr), [**`Participants`**](./participants.md#uiowa-srinivasan), [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RFTr.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RFTr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#iowasl08rftr) | [**`Participants`**](./participants.md#uiowa-srinivasan) | [**`Proceedings`**](./proceedings.md#university-of-iowa-at-trec-2008-legal-and-relevance-feedbacktracks) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.IowaSL08RFTr.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.IowaSL08RFTr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** IowaSL08RFTr 
 - :fontawesome-solid-user-group: **Participant:** UIowa-Srinivasan 
@@ -376,7 +376,7 @@
 
 ---
 #### otL08db 
-[**`Results`**](./results.md#otl08db), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08db.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08db.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08db) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08db.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08db.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08db 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -390,7 +390,7 @@
 
 ---
 #### otL08fb 
-[**`Results`**](./results.md#otl08fb), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fb.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08fb) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fb.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08fb 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -404,7 +404,7 @@
 
 ---
 #### otL08fbe 
-[**`Results`**](./results.md#otl08fbe), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fbe.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fbe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08fbe) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fbe.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fbe.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08fbe 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -418,7 +418,7 @@
 
 ---
 #### otL08frw 
-[**`Results`**](./results.md#otl08frw), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08frw.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08frw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08frw) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08frw.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08frw.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08frw 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -432,7 +432,7 @@
 
 ---
 #### otL08fv 
-[**`Results`**](./results.md#otl08fv), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fv.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08fv) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08fv.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08fv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08fv 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -446,7 +446,7 @@
 
 ---
 #### otL08rv 
-[**`Results`**](./results.md#otl08rv), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rv.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08rv) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rv.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08rv 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -460,7 +460,7 @@
 
 ---
 #### otL08rvl 
-[**`Results`**](./results.md#otl08rvl), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rvl.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rvl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08rvl) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rvl.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rvl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08rvl 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -474,7 +474,7 @@
 
 ---
 #### otL08rvlq 
-[**`Results`**](./results.md#otl08rvlq), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rvlq.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rvlq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#otl08rvlq) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.otL08rvlq.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.otL08rvlq.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** otL08rvlq 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -488,7 +488,7 @@
 
 ---
 #### otRF08F 
-[**`Results`**](./results.md#otrf08f), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08F.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08F.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08f) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08F.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08F.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08F 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -502,7 +502,7 @@
 
 ---
 #### otRF08fb 
-[**`Results`**](./results.md#otrf08fb), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fb.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08fb) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fb.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08fb 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -516,7 +516,7 @@
 
 ---
 #### otRF08fbF 
-[**`Results`**](./results.md#otrf08fbf), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fbF.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fbF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08fbf) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fbF.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fbF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08fbF 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -530,7 +530,7 @@
 
 ---
 #### otRF08fbFR 
-[**`Results`**](./results.md#otrf08fbfr), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fbFR.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fbFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08fbfr) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fbFR.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fbFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08fbFR 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -544,7 +544,7 @@
 
 ---
 #### otRF08FR 
-[**`Results`**](./results.md#otrf08fr), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08FR.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08FR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08fr) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08FR.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08FR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08FR 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -558,7 +558,7 @@
 
 ---
 #### otRF08frw 
-[**`Results`**](./results.md#otrf08frw), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08frw.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08frw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08frw) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08frw.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08frw.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08frw 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -572,7 +572,7 @@
 
 ---
 #### otRF08fv 
-[**`Results`**](./results.md#otrf08fv), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fv.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08fv) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08fv.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08fv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08fv 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -586,7 +586,7 @@
 
 ---
 #### otRF08rvl 
-[**`Results`**](./results.md#otrf08rvl), [**`Participants`**](./participants.md#ot), [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08rvl.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08rvl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#otrf08rvl) | [**`Participants`**](./participants.md#ot) | [**`Proceedings`**](./proceedings.md#experiments-with-the-negotiated-boolean-queries-of-the-trec-2008-legal-track) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.otRF08rvl.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.otRF08rvl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** otRF08rvl 
 - :fontawesome-solid-user-group: **Participant:** ot 
@@ -600,7 +600,7 @@
 
 ---
 #### PittSIST1 
-[**`Results`**](./results.md#pittsist1), [**`Participants`**](./participants.md#pitt_ir_team), [**`Proceedings`**](./proceedings.md#pitt-trec08-an-initial-study-of-collaborative-information-behavior-in-e-discovery), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#pittsist1) | [**`Participants`**](./participants.md#pitt_ir_team) | [**`Proceedings`**](./proceedings.md#pitt-trec08-an-initial-study-of-collaborative-information-behavior-in-e-discovery) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** PittSIST1 
 - :fontawesome-solid-user-group: **Participant:** Pitt_IR_Team 
@@ -613,7 +613,7 @@
 
 ---
 #### RMITbp1 
-[**`Results`**](./results.md#rmitbp1), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp1.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitbp1) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp1.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITbp1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -627,7 +627,7 @@
 
 ---
 #### RMITbp2 
-[**`Results`**](./results.md#rmitbp2), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp2.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitbp2) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp2.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITbp2 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -641,7 +641,7 @@
 
 ---
 #### RMITbp3 
-[**`Results`**](./results.md#rmitbp3), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitbp3) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITbp3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITbp3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITbp3 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -655,7 +655,7 @@
 
 ---
 #### RMITrp1 
-[**`Results`**](./results.md#rmitrp1), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp1.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitrp1) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp1.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITrp1 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -669,7 +669,7 @@
 
 ---
 #### RMITrp2 
-[**`Results`**](./results.md#rmitrp2), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp2.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitrp2) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp2.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITrp2 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -683,7 +683,7 @@
 
 ---
 #### RMITrp3 
-[**`Results`**](./results.md#rmitrp3), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#rmitrp3) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2008-legal-track) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.RMITrp3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.RMITrp3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** RMITrp3 
 - :fontawesome-solid-user-group: **Participant:** rmit 
@@ -697,7 +697,7 @@
 
 ---
 #### SabL08ab1 
-[**`Results`**](./results.md#sabl08ab1), [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08ab1.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08ab1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#sabl08ab1) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08ab1.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08ab1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** SabL08ab1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -711,7 +711,7 @@
 
 ---
 #### SabL08ar2 
-[**`Results`**](./results.md#sabl08ar2), [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08ar2.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08ar2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#sabl08ar2) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08ar2.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08ar2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** SabL08ar2 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -725,7 +725,7 @@
 
 ---
 #### SabL08arbn 
-[**`Results`**](./results.md#sabl08arbn), [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08arbn.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08arbn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#sabl08arbn) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.SabL08arbn.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.SabL08arbn.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** SabL08arbn 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -739,7 +739,7 @@
 
 ---
 #### SabL08rf1 
-[**`Results`**](./results.md#sabl08rf1), [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.SabL08rf1.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.SabL08rf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#sabl08rf1) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.SabL08rf1.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.SabL08rf1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** SabL08rf1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -753,7 +753,7 @@
 
 ---
 #### SabL08rfbase 
-[**`Results`**](./results.md#sabl08rfbase), [**`Participants`**](./participants.md#sabirbuckley), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.SabL08rfbase.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.SabL08rfbase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#sabl08rfbase) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.SabL08rfbase.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.SabL08rfbase.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** SabL08rfbase 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -767,7 +767,7 @@
 
 ---
 #### ublegal08 
-[**`Results`**](./results.md#ublegal08), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
+[**`Results`**](./results.md#ublegal08) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal.interactive.results.pdf) 
 
 - :material-rename: **Run ID:** ublegal08 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -780,7 +780,7 @@
 
 ---
 #### UCBM25T10Th5 
-[**`Results`**](./results.md#ucbm25t10th5), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCBM25T10Th5.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCBM25T10Th5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucbm25t10th5) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCBM25T10Th5.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCBM25T10Th5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCBM25T10Th5 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -794,7 +794,7 @@
 
 ---
 #### UCBM25T5Th5 
-[**`Results`**](./results.md#ucbm25t5th5), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCBM25T5Th5.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCBM25T5Th5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucbm25t5th5) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCBM25T5Th5.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCBM25T5Th5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCBM25T5Th5 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -808,7 +808,7 @@
 
 ---
 #### UCEDLSIa 
-[**`Results`**](./results.md#ucedlsia), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UCEDLSIa.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UCEDLSIa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ucedlsia) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UCEDLSIa.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UCEDLSIa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UCEDLSIa 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -822,7 +822,7 @@
 
 ---
 #### UCEDLSIb 
-[**`Results`**](./results.md#ucedlsib), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UCEDLSIb.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UCEDLSIb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ucedlsib) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UCEDLSIb.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UCEDLSIb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UCEDLSIb 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -836,7 +836,7 @@
 
 ---
 #### UCPwrT10Th5 
-[**`Results`**](./results.md#ucpwrt10th5), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCPwrT10Th5.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCPwrT10Th5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucpwrt10th5) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCPwrT10Th5.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCPwrT10Th5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCPwrT10Th5 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -850,7 +850,7 @@
 
 ---
 #### UCPwrT5Th5 
-[**`Results`**](./results.md#ucpwrt5th5), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCPwrT5Th5.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCPwrT5Th5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucpwrt5th5) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCPwrT5Th5.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCPwrT5Th5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCPwrT5Th5 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -864,7 +864,7 @@
 
 ---
 #### UCRFBM25BL 
-[**`Results`**](./results.md#ucrfbm25bl), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCRFBM25BL.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCRFBM25BL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucrfbm25bl) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCRFBM25BL.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCRFBM25BL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCRFBM25BL 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -878,7 +878,7 @@
 
 ---
 #### UCRFPwrBL 
-[**`Results`**](./results.md#ucrfpwrbl), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCRFPwrBL.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCRFPwrBL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#ucrfpwrbl) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UCRFPwrBL.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UCRFPwrBL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UCRFPwrBL 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -892,7 +892,7 @@
 
 ---
 #### UIowa08Leg3 
-[**`Results`**](./results.md#uiowa08leg3), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08Leg3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08Leg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08leg3) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08Leg3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08Leg3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08Leg3 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -906,7 +906,7 @@
 
 ---
 #### UIowa08Lega 
-[**`Results`**](./results.md#uiowa08lega), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08Lega.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08Lega.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08lega) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08Lega.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08Lega.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08Lega 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -920,7 +920,7 @@
 
 ---
 #### UIowa08LegE0 
-[**`Results`**](./results.md#uiowa08lege0), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE0.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08lege0) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE0.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08LegE0 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -934,7 +934,7 @@
 
 ---
 #### UIowa08LegE1 
-[**`Results`**](./results.md#uiowa08lege1), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE1.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08lege1) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE1.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08LegE1 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -948,7 +948,7 @@
 
 ---
 #### UIowa08LegE2 
-[**`Results`**](./results.md#uiowa08lege2), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE2.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08lege2) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE2.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08LegE2 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -962,7 +962,7 @@
 
 ---
 #### UIowa08LegE4 
-[**`Results`**](./results.md#uiowa08lege4), [**`Participants`**](./participants.md#ui-icts), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE4.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uiowa08lege4) | [**`Participants`**](./participants.md#ui-icts) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UIowa08LegE4.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UIowa08LegE4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UIowa08LegE4 
 - :fontawesome-solid-user-group: **Participant:** UI-ICTS 
@@ -976,7 +976,7 @@
 
 ---
 #### UMDAURCC40 
-[**`Results`**](./results.md#umdaurcc40), [**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDAURCC40.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDAURCC40.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#umdaurcc40) | [**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDAURCC40.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDAURCC40.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UMDAURCC40 
 - :fontawesome-solid-user-group: **Participant:** UMCP 
@@ -990,7 +990,7 @@
 
 ---
 #### UMDAURCP3 
-[**`Results`**](./results.md#umdaurcp3), [**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDAURCP3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDAURCP3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#umdaurcp3) | [**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDAURCP3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDAURCP3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UMDAURCP3 
 - :fontawesome-solid-user-group: **Participant:** UMCP 
@@ -1004,7 +1004,7 @@
 
 ---
 #### UMDCRC40 
-[**`Results`**](./results.md#umdcrc40), [**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDCRC40.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDCRC40.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#umdcrc40) | [**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDCRC40.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDCRC40.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UMDCRC40 
 - :fontawesome-solid-user-group: **Participant:** UMCP 
@@ -1018,7 +1018,7 @@
 
 ---
 #### UMDCRP3 
-[**`Results`**](./results.md#umdcrp3), [**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDCRP3.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDCRP3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#umdcrp3) | [**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDCRP3.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDCRP3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UMDCRP3 
 - :fontawesome-solid-user-group: **Participant:** UMCP 
@@ -1032,7 +1032,7 @@
 
 ---
 #### UMDSTD 
-[**`Results`**](./results.md#umdstd), [**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDSTD.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDSTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#umdstd) | [**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#query-expansion-for-noisy-legal-documents) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UMDSTD.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UMDSTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UMDSTD 
 - :fontawesome-solid-user-group: **Participant:** UMCP 
@@ -1046,7 +1046,7 @@
 
 ---
 #### UMKCTL08RF1 
-[**`Results`**](./results.md#umkctl08rf1), [**`Participants`**](./participants.md#umkcsce), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF1.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#umkctl08rf1) | [**`Participants`**](./participants.md#umkcsce) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF1.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UMKCTL08RF1 
 - :fontawesome-solid-user-group: **Participant:** UMKCSCE 
@@ -1060,7 +1060,7 @@
 
 ---
 #### UMKCTL08RF2 
-[**`Results`**](./results.md#umkctl08rf2), [**`Participants`**](./participants.md#umkcsce), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF2.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#umkctl08rf2) | [**`Participants`**](./participants.md#umkcsce) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF2.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UMKCTL08RF2 
 - :fontawesome-solid-user-group: **Participant:** UMKCSCE 
@@ -1074,7 +1074,7 @@
 
 ---
 #### UMKCTL08RF3 
-[**`Results`**](./results.md#umkctl08rf3), [**`Participants`**](./participants.md#umkcsce), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF3.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#umkctl08rf3) | [**`Participants`**](./participants.md#umkcsce) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF3.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UMKCTL08RF3 
 - :fontawesome-solid-user-group: **Participant:** UMKCSCE 
@@ -1088,7 +1088,7 @@
 
 ---
 #### UMKCTL08RF5 
-[**`Results`**](./results.md#umkctl08rf5), [**`Participants`**](./participants.md#umkcsce), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF5.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#umkctl08rf5) | [**`Participants`**](./participants.md#umkcsce) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF5.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UMKCTL08RF5 
 - :fontawesome-solid-user-group: **Participant:** UMKCSCE 
@@ -1102,7 +1102,7 @@
 
 ---
 #### UMKCTL08RF6 
-[**`Results`**](./results.md#umkctl08rf6), [**`Participants`**](./participants.md#umkcsce), [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF6.gz), [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
+[**`Results`**](./results.md#umkctl08rf6) | [**`Participants`**](./participants.md#umkcsce) | [**`Summary (resid)`**](https://trec.nist.gov/results/trec17/legal/summary.resid.UMKCTL08RF6.gz) | [**`Summary (residH)`**](https://trec.nist.gov/results/trec17/legal/summary.residH.UMKCTL08RF6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08rf3.pdf) 
 
 - :material-rename: **Run ID:** UMKCTL08RF6 
 - :fontawesome-solid-user-group: **Participant:** UMKCSCE 
@@ -1116,7 +1116,7 @@
 
 ---
 #### UrsinusBM25a 
-[**`Results`**](./results.md#ursinusbm25a), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusBM25a.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusBM25a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinusbm25a) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusBM25a.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusBM25a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusBM25a 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1130,7 +1130,7 @@
 
 ---
 #### UrsinusBM25b 
-[**`Results`**](./results.md#ursinusbm25b), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusBM25b.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusBM25b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinusbm25b) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusBM25b.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusBM25b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusBM25b 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1144,7 +1144,7 @@
 
 ---
 #### UrsinusPwrA 
-[**`Results`**](./results.md#ursinuspwra), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrA.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinuspwra) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrA.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusPwrA 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1158,7 +1158,7 @@
 
 ---
 #### UrsinusPwrB 
-[**`Results`**](./results.md#ursinuspwrb), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrB.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinuspwrb) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrB.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusPwrB 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1172,7 +1172,7 @@
 
 ---
 #### UrsinusPwrC 
-[**`Results`**](./results.md#ursinuspwrc), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrC.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinuspwrc) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusPwrC.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusPwrC.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusPwrC 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1186,7 +1186,7 @@
 
 ---
 #### UrsinusVa 
-[**`Results`**](./results.md#ursinusva), [**`Participants`**](./participants.md#ursinus_college), [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusVa.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusVa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#ursinusva) | [**`Participants`**](./participants.md#ursinus_college) | [**`Proceedings`**](./proceedings.md#distributed-edlsi-bm25-and-power-norm-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.UrsinusVa.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.UrsinusVa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** UrsinusVa 
 - :fontawesome-solid-user-group: **Participant:** Ursinus_College 
@@ -1200,7 +1200,7 @@
 
 ---
 #### uvabase 
-[**`Results`**](./results.md#uvabase), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.uvabase.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.uvabase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#uvabase) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.uvabase.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.uvabase.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** uvabase 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1214,7 +1214,7 @@
 
 ---
 #### wat1fuse 
-[**`Results`**](./results.md#wat1fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat1fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat1fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat1fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat1fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat1fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat1fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1228,7 +1228,7 @@
 
 ---
 #### wat2text 
-[**`Results`**](./results.md#wat2text), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat2text.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat2text.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat2text) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat2text.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat2text.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat2text 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1242,7 +1242,7 @@
 
 ---
 #### wat3nobool 
-[**`Results`**](./results.md#wat3nobool), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat3nobool.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat3nobool.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat3nobool) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat3nobool.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat3nobool.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat3nobool 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1256,7 +1256,7 @@
 
 ---
 #### wat4fuse 
-[**`Results`**](./results.md#wat4fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat4fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat4fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat4fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat4fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat4fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat4fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1270,7 +1270,7 @@
 
 ---
 #### wat5fuse 
-[**`Results`**](./results.md#wat5fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat5fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat5fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat5fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat5fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat5fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat5fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1284,7 +1284,7 @@
 
 ---
 #### wat6fuse 
-[**`Results`**](./results.md#wat6fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat6fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat6fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat6fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat6fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat6fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat6fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1298,7 +1298,7 @@
 
 ---
 #### wat7fuse 
-[**`Results`**](./results.md#wat7fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat7fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat7fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat7fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat7fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat7fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat7fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1312,7 +1312,7 @@
 
 ---
 #### wat8fuse 
-[**`Results`**](./results.md#wat8fuse), [**`Participants`**](./participants.md#uwir), [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat8fuse.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat8fuse.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#wat8fuse) | [**`Participants`**](./participants.md#uwir) | [**`Proceedings`**](./proceedings.md#multitext-legal-experiments-at-trec-2008) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.wat8fuse.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.wat8fuse.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** wat8fuse 
 - :fontawesome-solid-user-group: **Participant:** UWIR 
@@ -1326,7 +1326,7 @@
 
 ---
 #### xb 
-[**`Results`**](./results.md#xb), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xb.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#xb) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xb.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** xb 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1340,7 +1340,7 @@
 
 ---
 #### xconst 
-[**`Results`**](./results.md#xconst), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xconst.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xconst.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#xconst) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xconst.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xconst.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** xconst 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -1354,7 +1354,7 @@
 
 ---
 #### xk 
-[**`Results`**](./results.md#xk), [**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list), [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xk.gz), [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xk.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
+[**`Results`**](./results.md#xk) | [**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#where-to-stop-reading-a-ranked-list) | [**`Summary (adhoc)`**](https://trec.nist.gov/results/trec17/legal/summary.adhoc.xk.gz) | [**`Summary (adhocH)`**](https://trec.nist.gov/results/trec17/legal/summary.adhocH.xk.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/legal/app08ah3.pdf) 
 
 - :material-rename: **Run ID:** xk 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 

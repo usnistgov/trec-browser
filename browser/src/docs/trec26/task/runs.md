@@ -1,7 +1,7 @@
 # Runs - Tasks 2017 
 
 #### BJUT_1 
-[**`Results`**](./results.md#bjut_1), [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-tasks-track), [**`Input`**](https://trec.nist.gov/results/trec26/task/BJUT_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-BJUT_1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/BJUT_1.pdf) 
+[**`Results`**](./results.md#bjut_1) | [**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-tasks-track) | [**`Input`**](https://trec.nist.gov/results/trec26/task/BJUT_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-BJUT_1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/BJUT_1.pdf) 
 
 - :material-rename: **Run ID:** BJUT_1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -14,7 +14,7 @@
 
 ---
 #### BJUT_2 
-[**`Results`**](./results.md#bjut_2), [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-tasks-track), [**`Input`**](https://trec.nist.gov/results/trec26/task/BJUT_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-BJUT_2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/BJUT_2.pdf) 
+[**`Results`**](./results.md#bjut_2) | [**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2017-tasks-track) | [**`Input`**](https://trec.nist.gov/results/trec26/task/BJUT_2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-BJUT_2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/BJUT_2.pdf) 
 
 - :material-rename: **Run ID:** BJUT_2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -27,7 +27,7 @@
 
 ---
 #### SienaCLTeamRun1 
-[**`Results`**](./results.md#sienaclteamrun1), [**`Participants`**](./participants.md#sienaclteam), [**`Proceedings`**](./proceedings.md#siena-s-tasks-track-system), [**`Input`**](https://trec.nist.gov/results/trec26/task/SienaCLTeamRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-SienaCLTeamRun1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/SienaCLTeamRun1.pdf) 
+[**`Results`**](./results.md#sienaclteamrun1) | [**`Participants`**](./participants.md#sienaclteam) | [**`Proceedings`**](./proceedings.md#siena-s-tasks-track-system) | [**`Input`**](https://trec.nist.gov/results/trec26/task/SienaCLTeamRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-SienaCLTeamRun1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/SienaCLTeamRun1.pdf) 
 
 - :material-rename: **Run ID:** SienaCLTeamRun1 
 - :fontawesome-solid-user-group: **Participant:** SienaCLTeam 
@@ -40,7 +40,7 @@
 
 ---
 #### SienaCLTeamRun2 
-[**`Results`**](./results.md#sienaclteamrun2), [**`Participants`**](./participants.md#sienaclteam), [**`Proceedings`**](./proceedings.md#siena-s-tasks-track-system), [**`Input`**](https://trec.nist.gov/results/trec26/task/SienaCLTeamRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-SienaCLTeamRun2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/SienaCLTeamRun2.pdf) 
+[**`Results`**](./results.md#sienaclteamrun2) | [**`Participants`**](./participants.md#sienaclteam) | [**`Proceedings`**](./proceedings.md#siena-s-tasks-track-system) | [**`Input`**](https://trec.nist.gov/results/trec26/task/SienaCLTeamRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec26/task/summary-SienaCLTeamRun2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec26/appendices/task/SienaCLTeamRun2.pdf) 
 
 - :material-rename: **Run ID:** SienaCLTeamRun2 
 - :fontawesome-solid-user-group: **Participant:** SienaCLTeam 

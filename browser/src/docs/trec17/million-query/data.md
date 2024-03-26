@@ -1,6 +1,6 @@
 # Data - Million Query 2008 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/million.query08.html`](https://trec.nist.gov/data/million.query08.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/million.query08.html`](https://trec.nist.gov/data/million.query08.html)
 
 ---
 

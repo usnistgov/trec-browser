@@ -1,6 +1,6 @@
 # Data - Session 2014 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/session2014.html`](https://trec.nist.gov/data/session2014.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/session2014.html`](https://trec.nist.gov/data/session2014.html)
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-**Other:** [`Session data`](https://trec.nist.gov/data/session/2014/sessiontrack2014.xml.gz), [`README file for Session track evaluation`](https://trec.nist.gov/data/session/2014/README.txt), [`Session->topic mapping file`](https://trec.nist.gov/data/session/2014/session-topic-mapping.txt)
+**Other:** [`Session data`](https://trec.nist.gov/data/session/2014/sessiontrack2014.xml.gz) | [`README file for Session track evaluation`](https://trec.nist.gov/data/session/2014/README.txt) | [`Session->topic mapping file`](https://trec.nist.gov/data/session/2014/session-topic-mapping.txt)

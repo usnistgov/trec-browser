@@ -1,7 +1,7 @@
 # Runs - Incident Streams 2021 
 
 #### l3i-ttxth 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/l3i-ttxth.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/l3i-ttxth.html) 
 
 - :material-rename: **Run ID:** l3i-ttxth 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -15,7 +15,7 @@
 
 ---
 #### l3i-ttxth.combined 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/l3i-ttxth.combined.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/l3i-ttxth.combined.html) 
 
 - :material-rename: **Run ID:** l3i-ttxth.combined 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -29,7 +29,7 @@
 
 ---
 #### njit-debly 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-debly.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-debly.html) 
 
 - :material-rename: **Run ID:** njit-debly 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -43,7 +43,7 @@
 
 ---
 #### njit-EDA 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-EDA.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-EDA.html) 
 
 - :material-rename: **Run ID:** njit-EDA 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -57,7 +57,7 @@
 
 ---
 #### njit-label.prop 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-label.prop.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-label.prop.html) 
 
 - :material-rename: **Run ID:** njit-label.prop 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -71,7 +71,7 @@
 
 ---
 #### njit-semi.sup 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-semi.sup.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-semi.sup.html) 
 
 - :material-rename: **Run ID:** njit-semi.sup 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -85,7 +85,7 @@
 
 ---
 #### njit-semi_sup_cat2prior 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-semi_sup_cat2prior.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit-semi_sup_cat2prior.html) 
 
 - :material-rename: **Run ID:** njit-semi_sup_cat2prior 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -99,7 +99,7 @@
 
 ---
 #### njit.augly.v2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.augly.v2.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.augly.v2.html) 
 
 - :material-rename: **Run ID:** njit.augly.v2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -113,7 +113,7 @@
 
 ---
 #### njit.deberta 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.deberta.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.deberta.html) 
 
 - :material-rename: **Run ID:** njit.deberta 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -127,7 +127,7 @@
 
 ---
 #### njit.label.prop.cat2prior 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.label.prop.cat2prior.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.label.prop.cat2prior.html) 
 
 - :material-rename: **Run ID:** njit.label.prop.cat2prior 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -141,7 +141,7 @@
 
 ---
 #### njit.roberta 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.roberta.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit.roberta.html) 
 
 - :material-rename: **Run ID:** njit.roberta 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -155,7 +155,7 @@
 
 ---
 #### njit_bert 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit_bert.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit_bert.html) 
 
 - :material-rename: **Run ID:** njit_bert 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -169,7 +169,7 @@
 
 ---
 #### njit_roberta 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit_roberta.html) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#method-comparison-for-crisis-pipelines) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/njit_roberta.html) 
 
 - :material-rename: **Run ID:** njit_roberta 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -183,7 +183,7 @@
 
 ---
 #### RB_2T_MT_H_280 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_MT_H_280.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_MT_H_280.html) 
 
 - :material-rename: **Run ID:** RB_2T_MT_H_280 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -197,7 +197,7 @@
 
 ---
 #### RB_2T_TT_280_SVM 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_TT_280_SVM.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_TT_280_SVM.html) 
 
 - :material-rename: **Run ID:** RB_2T_TT_280_SVM 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -211,7 +211,7 @@
 
 ---
 #### RB_2T_TTH_256_LR5 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_TTH_256_LR5.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2T_TTH_256_LR5.html) 
 
 - :material-rename: **Run ID:** RB_2T_TTH_256_LR5 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -225,7 +225,7 @@
 
 ---
 #### RB_2Tx2_TTH_280 
-[**`Participants`**](./participants.md#l3i_rochelle), [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2Tx2_TTH_280.html) 
+[**`Participants`**](./participants.md#l3i_rochelle) | [**`Proceedings`**](./proceedings.md#transformer-based-methods-with-entities-for-detecting-emergency-events-on-social-media) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/RB_2Tx2_TTH_280.html) 
 
 - :material-rename: **Run ID:** RB_2Tx2_TTH_280 
 - :fontawesome-solid-user-group: **Participant:** L3i_Rochelle 
@@ -239,7 +239,7 @@
 
 ---
 #### Siena2021A 
-[**`Participants`**](./participants.md#sienaclteam), [**`Proceedings`**](./proceedings.md#siena-s-incident-stream-system-siss), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/Siena2021A.html) 
+[**`Participants`**](./participants.md#sienaclteam) | [**`Proceedings`**](./proceedings.md#siena-s-incident-stream-system-siss) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/Siena2021A.html) 
 
 - :material-rename: **Run ID:** Siena2021A 
 - :fontawesome-solid-user-group: **Participant:** SienaCLTeam 
@@ -253,7 +253,7 @@
 
 ---
 #### ucdcs-mtl.ens 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.html) 
 
 - :material-rename: **Run ID:** ucdcs-mtl.ens 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -267,7 +267,7 @@
 
 ---
 #### ucdcs-mtl.ens.fta 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.fta.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.fta.html) 
 
 - :material-rename: **Run ID:** ucdcs-mtl.ens.fta 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -281,7 +281,7 @@
 
 ---
 #### ucdcs-mtl.ens.new 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.new.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.ens.new.html) 
 
 - :material-rename: **Run ID:** ucdcs-mtl.ens.new 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -295,7 +295,7 @@
 
 ---
 #### ucdcs-mtl.fta 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.fta.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.fta.html) 
 
 - :material-rename: **Run ID:** ucdcs-mtl.fta 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -309,7 +309,7 @@
 
 ---
 #### ucdcs-mtl.fta.nla 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.fta.nla.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-mtl.fta.nla.html) 
 
 - :material-rename: **Run ID:** ucdcs-mtl.fta.nla 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -323,7 +323,7 @@
 
 ---
 #### ucdcs-run1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run1.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run1.html) 
 
 - :material-rename: **Run ID:** ucdcs-run1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -337,7 +337,7 @@
 
 ---
 #### ucdcs-run2 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run2.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run2.html) 
 
 - :material-rename: **Run ID:** ucdcs-run2 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -351,7 +351,7 @@
 
 ---
 #### ucdcs-run3 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run3.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run3.html) 
 
 - :material-rename: **Run ID:** ucdcs-run3 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -365,7 +365,7 @@
 
 ---
 #### ucdcs-run4 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run4.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-run4.html) 
 
 - :material-rename: **Run ID:** ucdcs-run4 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -379,7 +379,7 @@
 
 ---
 #### ucdcs-strans.nb 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-strans.nb.html) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#ucd-cs-at-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/ucdcs-strans.nb.html) 
 
 - :material-rename: **Run ID:** ucdcs-strans.nb 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -393,7 +393,7 @@
 
 ---
 #### uogTr-01-pw 
-[**`Participants`**](./participants.md#uog_trec_team), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-01-pw.html) 
+[**`Participants`**](./participants.md#uog_trec_team) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-01-pw.html) 
 
 - :material-rename: **Run ID:** uogTr-01-pw 
 - :fontawesome-solid-user-group: **Participant:** uog_trec_team 
@@ -407,7 +407,7 @@
 
 ---
 #### uogTr-02-pwcoocc 
-[**`Participants`**](./participants.md#uog_trec_team), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-02-pwcoocc.html) 
+[**`Participants`**](./participants.md#uog_trec_team) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-02-pwcoocc.html) 
 
 - :material-rename: **Run ID:** uogTr-02-pwcoocc 
 - :fontawesome-solid-user-group: **Participant:** uog_trec_team 
@@ -421,7 +421,7 @@
 
 ---
 #### uogTr-04-coocc 
-[**`Participants`**](./participants.md#uog_trec_team), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-04-coocc.html) 
+[**`Participants`**](./participants.md#uog_trec_team) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2021-incident-streams-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec30/appendices/incident/uogTr-04-coocc.html) 
 
 - :material-rename: **Run ID:** uogTr-04-coocc 
 - :fontawesome-solid-user-group: **Participant:** uog_trec_team 

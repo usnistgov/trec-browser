@@ -1,7 +1,7 @@
 # Runs - Chinese 1996 
 
 #### BrklyCH1 
-[**`Results`**](./results.md#brklych1), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#brklych1) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** BrklyCH1 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -12,7 +12,7 @@
 
 ---
 #### BrklyCH2 
-[**`Results`**](./results.md#brklych2), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#brklych2) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#term-importance-boolean-conjunct-training-negative-terms-and-foreign-language-retrieval-probabilistic-algorithms-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.BrklyCH2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.BrklyCH2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** BrklyCH2 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -23,7 +23,7 @@
 
 ---
 #### city96c1 
-[**`Results`**](./results.md#city96c1), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#city96c1) | [**`Participants`**](./participants.md#city) | [**`Proceedings`**](./proceedings.md#okapi-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** city96c1 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -34,7 +34,7 @@
 
 ---
 #### city96c2 
-[**`Results`**](./results.md#city96c2), [**`Participants`**](./participants.md#city), [**`Proceedings`**](./proceedings.md#okapi-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#city96c2) | [**`Participants`**](./participants.md#city) | [**`Proceedings`**](./proceedings.md#okapi-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.city96c2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.city96c2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** city96c2 
 - :fontawesome-solid-user-group: **Participant:** City 
@@ -45,7 +45,7 @@
 
 ---
 #### CLCHNA 
-[**`Results`**](./results.md#clchna), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNA.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#clchna) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLCHNA 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -56,7 +56,7 @@
 
 ---
 #### CLCHNM 
-[**`Results`**](./results.md#clchnm), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNM.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#clchnm) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#experiments-on-chinese-text-indexing-clarit-trec-5-chinese-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.CLCHNM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.CLCHNM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLCHNM 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -67,7 +67,7 @@
 
 ---
 #### Cor5C1vt 
-[**`Results`**](./results.md#cor5c1vt), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C1vt.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C1vt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#cor5c1vt) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C1vt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C1vt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor5C1vt 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -78,7 +78,7 @@
 
 ---
 #### Cor5C2ex 
-[**`Results`**](./results.md#cor5c2ex), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C2ex.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C2ex.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#cor5c2ex) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-query-zoning-and-correlation-within-smart-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.Cor5C2ex.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.Cor5C2ex.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor5C2ex 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -89,7 +89,7 @@
 
 ---
 #### gmu96ca1 
-[**`Results`**](./results.md#gmu96ca1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#gmu96ca1) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** gmu96ca1 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -100,7 +100,7 @@
 
 ---
 #### gmu96ca2 
-[**`Results`**](./results.md#gmu96ca2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#gmu96ca2) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96ca2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96ca2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** gmu96ca2 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -111,7 +111,7 @@
 
 ---
 #### gmu96cm1 
-[**`Results`**](./results.md#gmu96cm1), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#gmu96cm1) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** gmu96cm1 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -122,7 +122,7 @@
 
 ---
 #### gmu96cm2 
-[**`Results`**](./results.md#gmu96cm2), [**`Participants`**](./participants.md#gmu), [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#gmu96cm2) | [**`Participants`**](./participants.md#gmu) | [**`Proceedings`**](./proceedings.md#using-relevance-feedback-within-the-relational-model-for-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.gmu96cm2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.gmu96cm2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** gmu96cm2 
 - :fontawesome-solid-user-group: **Participant:** GMU 
@@ -133,7 +133,7 @@
 
 ---
 #### HIN300 
-[**`Results`**](./results.md#hin300), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN300.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#hin300) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN300.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN300.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** HIN300 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -144,7 +144,7 @@
 
 ---
 #### HIN301 
-[**`Results`**](./results.md#hin301), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-at-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN301.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN301.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#hin301) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-at-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.HIN301.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.HIN301.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** HIN301 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -155,7 +155,7 @@
 
 ---
 #### iticn1 
-[**`Results`**](./results.md#iticn1), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#iticn1) | [**`Participants`**](./participants.md#iti-sg) | [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** iticn1 
 - :fontawesome-solid-user-group: **Participant:** ITI-SG 
@@ -166,7 +166,7 @@
 
 ---
 #### iticn2 
-[**`Results`**](./results.md#iticn2), [**`Participants`**](./participants.md#iti-sg), [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#iticn2) | [**`Participants`**](./participants.md#iti-sg) | [**`Proceedings`**](./proceedings.md#experiments-on-routing-filtering-and-chinese-text-retrieval-in-trec-5) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.iticn2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.iticn2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** iticn2 
 - :fontawesome-solid-user-group: **Participant:** ITI-SG 
@@ -177,7 +177,7 @@
 
 ---
 #### mds004 
-[**`Results`**](./results.md#mds004), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds004.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds004.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#mds004) | [**`Participants`**](./participants.md#citri) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds004.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds004.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** mds004 
 - :fontawesome-solid-user-group: **Participant:** CITRI 
@@ -188,7 +188,7 @@
 
 ---
 #### mds005 
-[**`Results`**](./results.md#mds005), [**`Participants`**](./participants.md#citri), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds005.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds005.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#mds005) | [**`Participants`**](./participants.md#citri) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.mds005.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.mds005.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** mds005 
 - :fontawesome-solid-user-group: **Participant:** CITRI 
@@ -199,7 +199,7 @@
 
 ---
 #### pircsCw 
-[**`Results`**](./results.md#pircscw), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCw.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCw.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#pircscw) | [**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCw.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** pircsCw 
 - :fontawesome-solid-user-group: **Participant:** CUNY 
@@ -210,7 +210,7 @@
 
 ---
 #### pircsCwc 
-[**`Results`**](./results.md#pircscwc), [**`Participants`**](./participants.md#cuny), [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCwc.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCwc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
+[**`Results`**](./results.md#pircscwc) | [**`Participants`**](./participants.md#cuny) | [**`Proceedings`**](./proceedings.md#trec-5-english-and-chinese-retrieval-experiments-using-pircs) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/Chinese/input.pircsCwc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/Chinese/summary.pircsCwc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/chinese.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** pircsCwc 
 - :fontawesome-solid-user-group: **Participant:** CUNY 

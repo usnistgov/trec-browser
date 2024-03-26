@@ -1,7 +1,7 @@
 # Runs - Dynamic Domain 2016 
 
 #### FifthIterBaseline 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task), [**`Input`**](https://trec.nist.gov/results/trec25/domain/FifthIterBaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/FifthIterBaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** FifthIterBaseline 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -15,7 +15,7 @@
 
 ---
 #### FirstIterBaseline 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task), [**`Input`**](https://trec.nist.gov/results/trec25/domain/FirstIterBaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/FirstIterBaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** FirstIterBaseline 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -29,7 +29,7 @@
 
 ---
 #### LDA_Indri73 
-[**`Participants`**](./participants.md#iaplab), [**`Input`**](https://trec.nist.gov/results/trec25/domain/LDA_Indri73.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#iaplab) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/LDA_Indri73.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** LDA_Indri73 
 - :fontawesome-solid-user-group: **Participant:** IAPLab 
@@ -43,7 +43,7 @@
 
 ---
 #### rmit_lm_nqe 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_nqe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_nqe.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** rmit_lm_nqe 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -56,7 +56,7 @@
 
 ---
 #### rmit_lm_psg.max 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_psg.max.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_psg.max.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** rmit_lm_psg.max 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -69,7 +69,7 @@
 
 ---
 #### rmit_lm_rocchio.Rp.NRd.10 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_rocchio.Rp.NRd.10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_lm_rocchio.Rp.NRd.10.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** rmit_lm_rocchio.Rp.NRd.10 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -82,7 +82,7 @@
 
 ---
 #### rmit_oracle.lm.1000 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback), [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_oracle.lm.1000.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-trec-2016-dynamic-domain-track-exploiting-passage-representation-for-retrieval-and-relevance-feedback) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/rmit_oracle.lm.1000.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** rmit_oracle.lm.1000 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -95,7 +95,7 @@
 
 ---
 #### SecondIterationBaseline 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task), [**`Input`**](https://trec.nist.gov/results/trec25/domain/SecondIterationBaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/SecondIterationBaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** SecondIterationBaseline 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -109,7 +109,7 @@
 
 ---
 #### TenthIterBaseline 
-[**`Participants`**](./participants.md#georgetown), [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task), [**`Input`**](https://trec.nist.gov/results/trec25/domain/TenthIterBaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#georgetown) | [**`Proceedings`**](./proceedings.md#an-investigation-of-basic-retrieval-models-for-the-dynamic-domain-task) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/TenthIterBaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** TenthIterBaseline 
 - :fontawesome-solid-user-group: **Participant:** georgetown 
@@ -123,7 +123,7 @@
 
 ---
 #### ufmgHM2 
-[**`Participants`**](./participants.md#ufmg), [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHM2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#ufmg) | [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHM2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** ufmgHM2 
 - :fontawesome-solid-user-group: **Participant:** ufmg 
@@ -136,7 +136,7 @@
 
 ---
 #### ufmgHM3 
-[**`Participants`**](./participants.md#ufmg), [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHM3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#ufmg) | [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHM3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** ufmgHM3 
 - :fontawesome-solid-user-group: **Participant:** ufmg 
@@ -149,7 +149,7 @@
 
 ---
 #### ufmgHS2 
-[**`Participants`**](./participants.md#ufmg), [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#ufmg) | [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgHS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** ufmgHS2 
 - :fontawesome-solid-user-group: **Participant:** ufmg 
@@ -162,7 +162,7 @@
 
 ---
 #### ufmgXM2 
-[**`Participants`**](./participants.md#ufmg), [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgXM2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#ufmg) | [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgXM2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** ufmgXM2 
 - :fontawesome-solid-user-group: **Participant:** ufmg 
@@ -175,7 +175,7 @@
 
 ---
 #### ufmgXS2 
-[**`Participants`**](./participants.md#ufmg), [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track), [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgXS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#ufmg) | [**`Proceedings`**](./proceedings.md#ufmg-at-the-trec-2016-dynamic-domain-track) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/ufmgXS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** ufmgXS2 
 - :fontawesome-solid-user-group: **Participant:** ufmg 
@@ -188,7 +188,7 @@
 
 ---
 #### UL_BM25 
-[**`Participants`**](./participants.md#lavallakehead), [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_BM25.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#lavallakehead) | [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_BM25.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UL_BM25 
 - :fontawesome-solid-user-group: **Participant:** LavalLakehead 
@@ -201,7 +201,7 @@
 
 ---
 #### UL_Kmeans 
-[**`Participants`**](./participants.md#lavallakehead), [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_Kmeans.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#lavallakehead) | [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_Kmeans.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UL_Kmeans 
 - :fontawesome-solid-user-group: **Participant:** LavalLakehead 
@@ -214,7 +214,7 @@
 
 ---
 #### UL_LDA_200 
-[**`Participants`**](./participants.md#lavallakehead), [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_200.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#lavallakehead) | [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_200.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UL_LDA_200 
 - :fontawesome-solid-user-group: **Participant:** LavalLakehead 
@@ -227,7 +227,7 @@
 
 ---
 #### UL_LDA_NE 
-[**`Participants`**](./participants.md#lavallakehead), [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_NE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#lavallakehead) | [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_NE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UL_LDA_NE 
 - :fontawesome-solid-user-group: **Participant:** LavalLakehead 
@@ -240,7 +240,7 @@
 
 ---
 #### UL_LDA_Psum 
-[**`Participants`**](./participants.md#lavallakehead), [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_Psum.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#lavallakehead) | [**`Proceedings`**](./proceedings.md#laval-university-at-trec-dynamic-domain-2016-subtopic-extraction-focused-on-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UL_LDA_Psum.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UL_LDA_Psum 
 - :fontawesome-solid-user-group: **Participant:** LavalLakehead 
@@ -253,7 +253,7 @@
 
 ---
 #### UPD_IA_BiQBDiJ 
-[**`Participants`**](./participants.md#upd_ia), [**`Proceedings`**](./proceedings.md#evaluation-of-a-feedback-algorithm-inspired-by-quantum-detection-for-dynamic-search-tasks), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UPD_IA_BiQBDiJ.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#upd_ia) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-feedback-algorithm-inspired-by-quantum-detection-for-dynamic-search-tasks) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UPD_IA_BiQBDiJ.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UPD_IA_BiQBDiJ 
 - :fontawesome-solid-user-group: **Participant:** UPD_IA 
@@ -266,7 +266,7 @@
 
 ---
 #### UPD_IA_BiQBFi 
-[**`Participants`**](./participants.md#upd_ia), [**`Proceedings`**](./proceedings.md#evaluation-of-a-feedback-algorithm-inspired-by-quantum-detection-for-dynamic-search-tasks), [**`Input`**](https://trec.nist.gov/results/trec25/domain/UPD_IA_BiQBFi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
+[**`Participants`**](./participants.md#upd_ia) | [**`Proceedings`**](./proceedings.md#evaluation-of-a-feedback-algorithm-inspired-by-quantum-detection-for-dynamic-search-tasks) | [**`Input`**](https://trec.nist.gov/results/trec25/domain/UPD_IA_BiQBFi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/dd-notebook-appendix.pdf) 
 
 - :material-rename: **Run ID:** UPD_IA_BiQBFi 
 - :fontawesome-solid-user-group: **Participant:** UPD_IA 

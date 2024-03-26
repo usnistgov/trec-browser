@@ -1,7 +1,7 @@
 # Runs - Crowdsourcing 2012 
 
 #### BUPTPRISZHS 
-[**`Participants`**](./participants.md#pris411), [**`Proceedings`**](./proceedings.md#bupt-pris-at-trec-2012-crowdsourcing-track-1), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.BUPTPRISZHS.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.BUPTPRISZHS), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/BUPTPRISZHS.result.pdf) 
+[**`Participants`**](./participants.md#pris411) | [**`Proceedings`**](./proceedings.md#bupt-pris-at-trec-2012-crowdsourcing-track-1) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.BUPTPRISZHS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.BUPTPRISZHS) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/BUPTPRISZHS.result.pdf) 
 
 - :material-rename: **Run ID:** BUPTPRISZHS 
 - :fontawesome-solid-user-group: **Participant:** pris411 
@@ -14,7 +14,7 @@
 
 ---
 #### INFLB2012 
-[**`Participants`**](./participants.md#inflbstf), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.INFLB2012.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.INFLB2012), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/INFLB2012.result.pdf) 
+[**`Participants`**](./participants.md#inflbstf) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.INFLB2012.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.INFLB2012) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/INFLB2012.result.pdf) 
 
 - :material-rename: **Run ID:** INFLB2012 
 - :fontawesome-solid-user-group: **Participant:** INFLBSTF 
@@ -27,7 +27,7 @@
 
 ---
 #### NEUElo2 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo2.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo2.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo2.result.pdf) 
 
 - :material-rename: **Run ID:** NEUElo2 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -40,7 +40,7 @@
 
 ---
 #### NEUElo3 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo3.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo3), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo3.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo3.result.pdf) 
 
 - :material-rename: **Run ID:** NEUElo3 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -53,7 +53,7 @@
 
 ---
 #### NEUElo4 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo4.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo4), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo4.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo4.result.pdf) 
 
 - :material-rename: **Run ID:** NEUElo4 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -66,7 +66,7 @@
 
 ---
 #### NEUElo5 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo5.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo5), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo5.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUElo5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUElo5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUElo5.result.pdf) 
 
 - :material-rename: **Run ID:** NEUElo5 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -79,7 +79,7 @@
 
 ---
 #### NEUEM1 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUEM1.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUEM1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUEM1.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUEM1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUEM1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUEM1.result.pdf) 
 
 - :material-rename: **Run ID:** NEUEM1 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -92,7 +92,7 @@
 
 ---
 #### NEUNugget12 
-[**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUNugget12.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUNugget12), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUNugget12.result.pdf) 
+[**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-runs-at-the-trec12-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.NEUNugget12.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.NEUNugget12) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/NEUNugget12.result.pdf) 
 
 - :material-rename: **Run ID:** NEUNugget12 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -105,7 +105,7 @@
 
 ---
 #### Orc2G 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2G.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2G), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2G.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2G.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2G) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2G.result.pdf) 
 
 - :material-rename: **Run ID:** Orc2G 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -118,7 +118,7 @@
 
 ---
 #### Orc2GUL 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2GUL.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2GUL), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2GUL.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2GUL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2GUL) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2GUL.result.pdf) 
 
 - :material-rename: **Run ID:** Orc2GUL 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -131,7 +131,7 @@
 
 ---
 #### Orc2GULConf 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2GULConf.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2GULConf), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2GULConf.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2GULConf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2GULConf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2GULConf.result.pdf) 
 
 - :material-rename: **Run ID:** Orc2GULConf 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -144,7 +144,7 @@
 
 ---
 #### Orc2Stage 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2Stage.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2Stage), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2Stage.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.Orc2Stage.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.Orc2Stage) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/Orc2Stage.result.pdf) 
 
 - :material-rename: **Run ID:** Orc2Stage 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -157,7 +157,7 @@
 
 ---
 #### OrcVB1 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVB1), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVB1.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVB1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVB1.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVB1 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -170,7 +170,7 @@
 
 ---
 #### OrcVB1Conf 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVB1Conf.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVB1Conf), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVB1Conf.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVB1Conf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVB1Conf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVB1Conf.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVB1Conf 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -183,7 +183,7 @@
 
 ---
 #### OrcVBW16Conf 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW16Conf.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW16Conf), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW16Conf.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW16Conf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW16Conf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW16Conf.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVBW16Conf 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -196,7 +196,7 @@
 
 ---
 #### OrcVBW80 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW80.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW80), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW80.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW80.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW80) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW80.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVBW80 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -209,7 +209,7 @@
 
 ---
 #### OrcVBW80Conf 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW80Conf.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW80Conf), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW80Conf.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW80Conf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW80Conf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW80Conf.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVBW80Conf 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -222,7 +222,7 @@
 
 ---
 #### OrcVBW9Conf 
-[**`Participants`**](./participants.md#hac), [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW9Conf.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW9Conf), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW9Conf.result.pdf) 
+[**`Participants`**](./participants.md#hac) | [**`Proceedings`**](./proceedings.md#using-a-bayesian-model-to-combine-lda-features-with-crowdsourced-responses) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.OrcVBW9Conf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.OrcVBW9Conf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/OrcVBW9Conf.result.pdf) 
 
 - :material-rename: **Run ID:** OrcVBW9Conf 
 - :fontawesome-solid-user-group: **Participant:** HAC 
@@ -235,7 +235,7 @@
 
 ---
 #### SetuServtest 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SetuServtest.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SetuServtest), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SetuServtest.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SetuServtest.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SetuServtest) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SetuServtest.result.pdf) 
 
 - :material-rename: **Run ID:** SetuServtest 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -248,7 +248,7 @@
 
 ---
 #### SSEC3excl 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3excl.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3excl), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3excl.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3excl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3excl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3excl.result.pdf) 
 
 - :material-rename: **Run ID:** SSEC3excl 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -261,7 +261,7 @@
 
 ---
 #### SSEC3incl 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3incl.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3incl), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3incl.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3incl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3incl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3incl.result.pdf) 
 
 - :material-rename: **Run ID:** SSEC3incl 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -274,7 +274,7 @@
 
 ---
 #### SSEC3inclML 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3inclML.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3inclML), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3inclML.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSEC3inclML.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSEC3inclML) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSEC3inclML.result.pdf) 
 
 - :material-rename: **Run ID:** SSEC3inclML 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -287,7 +287,7 @@
 
 ---
 #### SSECML2to99 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML2to99.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML2to99), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML2to99.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML2to99.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML2to99) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML2to99.result.pdf) 
 
 - :material-rename: **Run ID:** SSECML2to99 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -300,7 +300,7 @@
 
 ---
 #### SSECML50pct 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML50pct.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML50pct), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML50pct.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML50pct.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML50pct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML50pct.result.pdf) 
 
 - :material-rename: **Run ID:** SSECML50pct 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -313,7 +313,7 @@
 
 ---
 #### SSECML75pct 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML75pct.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML75pct), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML75pct.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSECML75pct.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSECML75pct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSECML75pct.result.pdf) 
 
 - :material-rename: **Run ID:** SSECML75pct 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -326,7 +326,7 @@
 
 ---
 #### SSML2pct 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSML2pct.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSML2pct), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSML2pct.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSML2pct.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSML2pct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSML2pct.result.pdf) 
 
 - :material-rename: **Run ID:** SSML2pct 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -339,7 +339,7 @@
 
 ---
 #### SSNoEC 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSNoEC.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSNoEC), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSNoEC.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSNoEC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSNoEC) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSNoEC.result.pdf) 
 
 - :material-rename: **Run ID:** SSNoEC 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -352,7 +352,7 @@
 
 ---
 #### SSPostEC 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPostEC.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPostEC), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPostEC.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPostEC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPostEC) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPostEC.result.pdf) 
 
 - :material-rename: **Run ID:** SSPostEC 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -365,7 +365,7 @@
 
 ---
 #### SSPostECv2 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPostECv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPostECv2), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPostECv2.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPostECv2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPostECv2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPostECv2.result.pdf) 
 
 - :material-rename: **Run ID:** SSPostECv2 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -378,7 +378,7 @@
 
 ---
 #### SSPreEC 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPreEC.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPreEC), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPreEC.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.SSPreEC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.SSPreEC) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/SSPreEC.result.pdf) 
 
 - :material-rename: **Run ID:** SSPreEC 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -391,7 +391,7 @@
 
 ---
 #### testrun 
-[**`Participants`**](./participants.md#setuserv), [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.testrun.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.testrun), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/testrun.result.pdf) 
+[**`Participants`**](./participants.md#setuserv) | [**`Proceedings`**](./proceedings.md#skierarchy-extending-the-power-of-crowdsourcing-using-a-hierarchy-of-domain-experts-crowd-and-machine-learning) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.testrun.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.testrun) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/testrun.result.pdf) 
 
 - :material-rename: **Run ID:** testrun 
 - :fontawesome-solid-user-group: **Participant:** SetuServ 
@@ -404,7 +404,7 @@
 
 ---
 #### UIowaS01r 
-[**`Participants`**](./participants.md#uiowas), [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS01r.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS01r), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS01r.result.pdf) 
+[**`Participants`**](./participants.md#uiowas) | [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS01r.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS01r) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS01r.result.pdf) 
 
 - :material-rename: **Run ID:** UIowaS01r 
 - :fontawesome-solid-user-group: **Participant:** UIowaS 
@@ -417,7 +417,7 @@
 
 ---
 #### UIowaS02r 
-[**`Participants`**](./participants.md#uiowas), [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS02r.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS02r), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS02r.result.pdf) 
+[**`Participants`**](./participants.md#uiowas) | [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS02r.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS02r) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS02r.result.pdf) 
 
 - :material-rename: **Run ID:** UIowaS02r 
 - :fontawesome-solid-user-group: **Participant:** UIowaS 
@@ -430,7 +430,7 @@
 
 ---
 #### UIowaS03r 
-[**`Participants`**](./participants.md#uiowas), [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS03r.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS03r), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS03r.result.pdf) 
+[**`Participants`**](./participants.md#uiowas) | [**`Proceedings`**](./proceedings.md#using-hybrid-methods-for-relevance-assessment-in-trec-crowd-12) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UIowaS03r.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UIowaS03r) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UIowaS03r.result.pdf) 
 
 - :material-rename: **Run ID:** UIowaS03r 
 - :fontawesome-solid-user-group: **Participant:** UIowaS 
@@ -443,7 +443,7 @@
 
 ---
 #### UTAustinM 
-[**`Participants`**](./participants.md#utaustin), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UTAustinM.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UTAustinM), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UTAustinM.result.pdf) 
+[**`Participants`**](./participants.md#utaustin) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.UTAustinM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.UTAustinM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/UTAustinM.result.pdf) 
 
 - :material-rename: **Run ID:** UTAustinM 
 - :fontawesome-solid-user-group: **Participant:** UTAustin 
@@ -456,7 +456,7 @@
 
 ---
 #### yorku12cs01 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs01.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs01), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs01.result.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs01.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs01) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs01.result.pdf) 
 
 - :material-rename: **Run ID:** yorku12cs01 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -469,7 +469,7 @@
 
 ---
 #### yorku12cs02 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs02.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs02), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs02.result.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs02.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs02) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs02.result.pdf) 
 
 - :material-rename: **Run ID:** yorku12cs02 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -482,7 +482,7 @@
 
 ---
 #### yorku12cs03 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs03.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs03), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs03.result.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs03.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs03) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs03.result.pdf) 
 
 - :material-rename: **Run ID:** yorku12cs03 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -495,7 +495,7 @@
 
 ---
 #### yorku12cs04 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track), [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs04.gz), [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs04), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs04.result.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2012-crowdsourcing-track) | [**`Input`**](https://trec.nist.gov/results/trec21/crowd/input.yorku12cs04.gz) | [**`Summary`**](https://trec.nist.gov/results/trec21/crowd/summary.yorku12cs04) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/crowd/yorku12cs04.result.pdf) 
 
 - :material-rename: **Run ID:** yorku12cs04 
 - :fontawesome-solid-user-group: **Participant:** york 

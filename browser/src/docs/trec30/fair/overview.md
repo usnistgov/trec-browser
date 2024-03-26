@@ -1,6 +1,6 @@
 # Overview - Fair Ranking 2021
 
-[`Proceedings`](./proceedings.md), [`Data`](./data.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Data`](./data.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

@@ -2,7 +2,7 @@
 
 ## News
 
-[`Overview`](./news/overview.md), [`Proceedings`](./news/proceedings.md), [`Data`](./news/data.md), [`Runs`](./news/runs.md), [`Participants`](./news/participants.md)
+[`Overview`](./news/overview.md) | [`Proceedings`](./news/proceedings.md) | [`Data`](./news/data.md) | [`Runs`](./news/runs.md) | [`Participants`](./news/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The News track focuses on information retrieval in the service of helping people
 
 ## Deep Learning
 
-[`Overview`](./deep/overview.md), [`Proceedings`](./deep/proceedings.md), [`Data`](./deep/data.md), [`Results`](./deep/results.md), [`Runs`](./deep/runs.md), [`Participants`](./deep/participants.md)
+[`Overview`](./deep/overview.md) | [`Proceedings`](./deep/proceedings.md) | [`Data`](./deep/data.md) | [`Results`](./deep/results.md) | [`Runs`](./deep/runs.md) | [`Participants`](./deep/participants.md)
 
 {==
 
@@ -46,7 +46,7 @@ This is the second year of the TREC Deep Learning Track, with the goal of studyi
 
 ## Incident Streams
 
-[`Overview`](./incident/overview.md), [`Proceedings`](./incident/proceedings.md), [`Data`](./incident/data.md), [`Runs`](./incident/runs.md), [`Participants`](./incident/participants.md)
+[`Overview`](./incident/overview.md) | [`Proceedings`](./incident/proceedings.md) | [`Data`](./incident/data.md) | [`Runs`](./incident/runs.md) | [`Participants`](./incident/participants.md)
 
 {==
 
@@ -67,7 +67,7 @@ Between 2018 and 2019, the Incident Streams track (TREC-IS) has developed standa
 
 ## Health Misinformation
 
-[`Overview`](./misinfo/overview.md), [`Proceedings`](./misinfo/proceedings.md), [`Data`](./misinfo/data.md), [`Results`](./misinfo/results.md), [`Runs`](./misinfo/runs.md), [`Participants`](./misinfo/participants.md)
+[`Overview`](./misinfo/overview.md) | [`Proceedings`](./misinfo/proceedings.md) | [`Data`](./misinfo/data.md) | [`Results`](./misinfo/results.md) | [`Runs`](./misinfo/runs.md) | [`Participants`](./misinfo/participants.md)
 
 {==
 
@@ -90,7 +90,7 @@ TREC 2020 was the second year for the Health Misinformation track, which was nam
 
 ## Conversational Assistance
 
-[`Overview`](./cast/overview.md), [`Proceedings`](./cast/proceedings.md), [`Data`](./cast/data.md), [`Results`](./cast/results.md), [`Runs`](./cast/runs.md), [`Participants`](./cast/participants.md)
+[`Overview`](./cast/overview.md) | [`Proceedings`](./cast/proceedings.md) | [`Data`](./cast/data.md) | [`Results`](./cast/results.md) | [`Runs`](./cast/runs.md) | [`Participants`](./cast/participants.md)
 
 {==
 
@@ -111,7 +111,7 @@ CAsT 2020 is the second year of the Conversational Assistance Track and builds o
 
 ## Precision Medicine
 
-[`Overview`](./pm/overview.md), [`Proceedings`](./pm/proceedings.md), [`Data`](./pm/data.md), [`Results`](./pm/results.md), [`Runs`](./pm/runs.md), [`Participants`](./pm/participants.md)
+[`Overview`](./pm/overview.md) | [`Proceedings`](./pm/proceedings.md) | [`Data`](./pm/data.md) | [`Results`](./pm/results.md) | [`Runs`](./pm/runs.md) | [`Participants`](./pm/participants.md)
 
 {==
 
@@ -133,7 +133,7 @@ The precision medicine paradigm focuses on identifying treatments that are best 
 
 ## Podcast
 
-[`Overview`](./podcast/overview.md), [`Proceedings`](./podcast/proceedings.md), [`Data`](./podcast/data.md), [`Results`](./podcast/results.md), [`Runs`](./podcast/runs.md), [`Participants`](./podcast/participants.md)
+[`Overview`](./podcast/overview.md) | [`Proceedings`](./podcast/proceedings.md) | [`Data`](./podcast/data.md) | [`Results`](./podcast/results.md) | [`Runs`](./podcast/runs.md) | [`Participants`](./podcast/participants.md)
 
 {==
 
@@ -160,7 +160,7 @@ The Podcast Track is new at the Text Retrieval Conference (TREC) in 2020. The po
 
 ## Fair Ranking
 
-[`Overview`](./fair/overview.md), [`Proceedings`](./fair/proceedings.md), [`Data`](./fair/data.md), [`Runs`](./fair/runs.md), [`Participants`](./fair/participants.md)
+[`Overview`](./fair/overview.md) | [`Proceedings`](./fair/proceedings.md) | [`Data`](./fair/data.md) | [`Runs`](./fair/runs.md) | [`Participants`](./fair/participants.md)
 
 {==
 

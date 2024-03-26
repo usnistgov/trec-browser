@@ -1,7 +1,7 @@
 # Runs - Chemical 2011 
 
 #### BiTeMboth 
-[**`Results`**](./results.md#bitemboth), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMboth.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMboth), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMboth.pdf) 
+[**`Results`**](./results.md#bitemboth) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMboth.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMboth) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMboth.pdf) 
 
 - :material-rename: **Run ID:** BiTeMboth 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -15,7 +15,7 @@
 
 ---
 #### BiTeMmesh 
-[**`Results`**](./results.md#bitemmesh), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMmesh.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMmesh), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMmesh.pdf) 
+[**`Results`**](./results.md#bitemmesh) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMmesh.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMmesh) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMmesh.pdf) 
 
 - :material-rename: **Run ID:** BiTeMmesh 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -29,7 +29,7 @@
 
 ---
 #### BiTeMPAcitFB 
-[**`Results`**](./results.md#bitempacitfb), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAcitFB.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAcitFB), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAcitFB.pdf) 
+[**`Results`**](./results.md#bitempacitfb) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAcitFB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAcitFB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAcitFB.pdf) 
 
 - :material-rename: **Run ID:** BiTeMPAcitFB 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -42,7 +42,7 @@
 
 ---
 #### BiTeMPAcomb 
-[**`Results`**](./results.md#bitempacomb), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAcomb.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAcomb), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAcomb.pdf) 
+[**`Results`**](./results.md#bitempacomb) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAcomb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAcomb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAcomb.pdf) 
 
 - :material-rename: **Run ID:** BiTeMPAcomb 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -55,7 +55,7 @@
 
 ---
 #### BiTeMPAmesh 
-[**`Results`**](./results.md#bitempamesh), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAmesh.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAmesh), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAmesh.pdf) 
+[**`Results`**](./results.md#bitempamesh) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAmesh.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAmesh) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAmesh.pdf) 
 
 - :material-rename: **Run ID:** BiTeMPAmesh 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -68,7 +68,7 @@
 
 ---
 #### BiTeMPAtext 
-[**`Results`**](./results.md#bitempatext), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAtext.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAtext), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAtext.pdf) 
+[**`Results`**](./results.md#bitempatext) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMPAtext.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMPAtext) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMPAtext.pdf) 
 
 - :material-rename: **Run ID:** BiTeMPAtext 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -81,7 +81,7 @@
 
 ---
 #### BiTeMtext 
-[**`Results`**](./results.md#bitemtext), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMtext.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMtext), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMtext.pdf) 
+[**`Results`**](./results.md#bitemtext) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-group-report-for-trec-chemical-ir-track-2011) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.BiTeMtext.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.BiTeMtext) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/BiTeMtext.pdf) 
 
 - :material-rename: **Run ID:** BiTeMtext 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -95,7 +95,7 @@
 
 ---
 #### chemoCR_v93_p10 
-[**`Results`**](./results.md#chemocr_v93_p10), [**`Participants`**](./participants.md#chemocr), [**`Proceedings`**](./proceedings.md#chemical-structure-reconstruction-with-chemocr), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.chemoCR_v93_p10.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.chemoCR_v93_p10), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/chemoCR_v93_p10.pdf) 
+[**`Results`**](./results.md#chemocr_v93_p10) | [**`Participants`**](./participants.md#chemocr) | [**`Proceedings`**](./proceedings.md#chemical-structure-reconstruction-with-chemocr) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.chemoCR_v93_p10.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.chemoCR_v93_p10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/chemoCR_v93_p10.pdf) 
 
 - :material-rename: **Run ID:** chemoCR_v93_p10 
 - :fontawesome-solid-user-group: **Participant:** chemoCR 
@@ -107,7 +107,7 @@
 
 ---
 #### ChemReader_Run1 
-[**`Results`**](./results.md#chemreader_run1), [**`Participants`**](./participants.md#chemreader), [**`Proceedings`**](./proceedings.md#image-to-structure-task-by-chemreader), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.ChemReader_Run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.ChemReader_Run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/ChemReader_Run1.pdf) 
+[**`Results`**](./results.md#chemreader_run1) | [**`Participants`**](./participants.md#chemreader) | [**`Proceedings`**](./proceedings.md#image-to-structure-task-by-chemreader) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.ChemReader_Run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.ChemReader_Run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/ChemReader_Run1.pdf) 
 
 - :material-rename: **Run ID:** ChemReader_Run1 
 - :fontawesome-solid-user-group: **Participant:** ChemReader 
@@ -119,7 +119,7 @@
 
 ---
 #### ChemReader_Run2 
-[**`Results`**](./results.md#chemreader_run2), [**`Participants`**](./participants.md#chemreader), [**`Proceedings`**](./proceedings.md#image-to-structure-task-by-chemreader), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.ChemReader_Run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.ChemReader_Run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/ChemReader_Run2.pdf) 
+[**`Results`**](./results.md#chemreader_run2) | [**`Participants`**](./participants.md#chemreader) | [**`Proceedings`**](./proceedings.md#image-to-structure-task-by-chemreader) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.ChemReader_Run2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.ChemReader_Run2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/ChemReader_Run2.pdf) 
 
 - :material-rename: **Run ID:** ChemReader_Run2 
 - :fontawesome-solid-user-group: **Participant:** ChemReader 
@@ -131,7 +131,7 @@
 
 ---
 #### CMUTSmans 
-[**`Results`**](./results.md#cmutsmans), [**`Participants`**](./participants.md#cmulira), [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTSmans.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTSmans), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTSmans.pdf) 
+[**`Results`**](./results.md#cmutsmans) | [**`Participants`**](./participants.md#cmulira) | [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTSmans.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTSmans) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTSmans.pdf) 
 
 - :material-rename: **Run ID:** CMUTSmans 
 - :fontawesome-solid-user-group: **Participant:** CMU.LIRA 
@@ -145,7 +145,7 @@
 
 ---
 #### CMUTStncs 
-[**`Results`**](./results.md#cmutstncs), [**`Participants`**](./participants.md#cmulira), [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTStncs.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTStncs), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTStncs.pdf) 
+[**`Results`**](./results.md#cmutstncs) | [**`Participants`**](./participants.md#cmulira) | [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTStncs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTStncs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTStncs.pdf) 
 
 - :material-rename: **Run ID:** CMUTStncs 
 - :fontawesome-solid-user-group: **Participant:** CMU.LIRA 
@@ -159,7 +159,7 @@
 
 ---
 #### CMUTStncws 
-[**`Results`**](./results.md#cmutstncws), [**`Participants`**](./participants.md#cmulira), [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTStncws.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTStncws), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTStncws.pdf) 
+[**`Results`**](./results.md#cmutstncws) | [**`Participants`**](./participants.md#cmulira) | [**`Proceedings`**](./proceedings.md#how-to-make-manual-conjunctive-normal-form-queries-work-in-patents-search) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.CMUTStncws.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.CMUTStncws) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/CMUTStncws.pdf) 
 
 - :material-rename: **Run ID:** CMUTStncws 
 - :fontawesome-solid-user-group: **Participant:** CMU.LIRA 
@@ -173,7 +173,7 @@
 
 ---
 #### DUT11PARun1 
-[**`Results`**](./results.md#dut11parun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun1.pdf) 
+[**`Results`**](./results.md#dut11parun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun1.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -186,7 +186,7 @@
 
 ---
 #### DUT11PARun2 
-[**`Results`**](./results.md#dut11parun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun2.pdf) 
+[**`Results`**](./results.md#dut11parun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun2.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -195,11 +195,11 @@
 - :material-upload: **Submission:** 8/31/2011 
 - :material-text-search: **Task:** priorart_sm 
 - :material-fingerprint: **MD5:** `5f8109bae933b7a2017ae2a1e7f9d98a` 
-- :material-text: **Run description:** The DUT11PARun2， which is based on DUT11PARun1, is also adopt the query-likelihood model as retrieval model, but it uses the phrase expansion(PE) construct method to construct query. The PE method considers the relative sequency and relative distance of the query terms. 
+- :material-text: **Run description:** The DUT11PARun2 which is based on DUT11PARun1, is also adopt the query-likelihood model as retrieval model, but it uses the phrase expansion(PE) construct method to construct query. The PE method considers the relative sequency and relative distance of the query terms. 
 
 ---
 #### DUT11PARun3 
-[**`Results`**](./results.md#dut11parun3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun3.pdf) 
+[**`Results`**](./results.md#dut11parun3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun3.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -208,11 +208,11 @@
 - :material-upload: **Submission:** 8/31/2011 
 - :material-text-search: **Task:** priorart_sm 
 - :material-fingerprint: **MD5:** `16a7cc2ca9cebbb38280939497d6db67` 
-- :material-text: **Run description:** The DUT11PARun3， which is based on DUT11PARun2. However, it also use the query expansion method to get the final result. 
+- :material-text: **Run description:** The DUT11PARun3 which is based on DUT11PARun2. However, it also use the query expansion method to get the final result. 
 
 ---
 #### DUT11PARun4 
-[**`Results`**](./results.md#dut11parun4), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun4), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun4.pdf) 
+[**`Results`**](./results.md#dut11parun4) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun4.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun4 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -225,7 +225,7 @@
 
 ---
 #### DUT11PARun5 
-[**`Results`**](./results.md#dut11parun5), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun5.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun5), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun5.pdf) 
+[**`Results`**](./results.md#dut11parun5) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun5.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun5 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -238,7 +238,7 @@
 
 ---
 #### DUT11PARun6 
-[**`Results`**](./results.md#dut11parun6), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun6.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun6), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun6.pdf) 
+[**`Results`**](./results.md#dut11parun6) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun6) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun6.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun6 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -251,7 +251,7 @@
 
 ---
 #### DUT11PARun7 
-[**`Results`**](./results.md#dut11parun7), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun7.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun7), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun7.pdf) 
+[**`Results`**](./results.md#dut11parun7) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun7.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun7) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun7.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun7 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -264,7 +264,7 @@
 
 ---
 #### DUT11PARun8 
-[**`Results`**](./results.md#dut11parun8), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun8.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun8), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun8.pdf) 
+[**`Results`**](./results.md#dut11parun8) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun8.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun8) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun8.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun8 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -277,7 +277,7 @@
 
 ---
 #### DUT11PARun9 
-[**`Results`**](./results.md#dut11parun9), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun9.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun9), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun9.pdf) 
+[**`Results`**](./results.md#dut11parun9) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11PARun9.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11PARun9) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11PARun9.pdf) 
 
 - :material-rename: **Run ID:** DUT11PARun9 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -290,7 +290,7 @@
 
 ---
 #### DUT11TSRun1 
-[**`Results`**](./results.md#dut11tsrun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun1.pdf) 
+[**`Results`**](./results.md#dut11tsrun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun1.pdf) 
 
 - :material-rename: **Run ID:** DUT11TSRun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -304,7 +304,7 @@
 
 ---
 #### DUT11TSRun2 
-[**`Results`**](./results.md#dut11tsrun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun2.pdf) 
+[**`Results`**](./results.md#dut11tsrun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun2.pdf) 
 
 - :material-rename: **Run ID:** DUT11TSRun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -318,7 +318,7 @@
 
 ---
 #### DUT11TSRun3 
-[**`Results`**](./results.md#dut11tsrun3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun3.pdf) 
+[**`Results`**](./results.md#dut11tsrun3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun3.pdf) 
 
 - :material-rename: **Run ID:** DUT11TSRun3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -332,7 +332,7 @@
 
 ---
 #### DUT11TSRun4 
-[**`Results`**](./results.md#dut11tsrun4), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun4), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun4.pdf) 
+[**`Results`**](./results.md#dut11tsrun4) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2011-chemistry-track) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.DUT11TSRun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.DUT11TSRun4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/DUT11TSRun4.pdf) 
 
 - :material-rename: **Run ID:** DUT11TSRun4 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -346,7 +346,7 @@
 
 ---
 #### GGA_Imago2011a 
-[**`Results`**](./results.md#gga_imago2011a), [**`Participants`**](./participants.md#gga), [**`Proceedings`**](./proceedings.md#imago-open-source-toolkit-for-2d-chemical-structure-image-recognition), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.GGA_Imago2011a.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.GGA_Imago2011a), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/GGA_Imago2011a.pdf) 
+[**`Results`**](./results.md#gga_imago2011a) | [**`Participants`**](./participants.md#gga) | [**`Proceedings`**](./proceedings.md#imago-open-source-toolkit-for-2d-chemical-structure-image-recognition) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.GGA_Imago2011a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.GGA_Imago2011a) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/GGA_Imago2011a.pdf) 
 
 - :material-rename: **Run ID:** GGA_Imago2011a 
 - :fontawesome-solid-user-group: **Participant:** GGA 
@@ -358,7 +358,7 @@
 
 ---
 #### GGA_Imago_2011 
-[**`Results`**](./results.md#gga_imago_2011), [**`Participants`**](./participants.md#gga), [**`Proceedings`**](./proceedings.md#imago-open-source-toolkit-for-2d-chemical-structure-image-recognition), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.GGA_Imago_2011.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.GGA_Imago_2011), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/GGA_Imago_2011.pdf) 
+[**`Results`**](./results.md#gga_imago_2011) | [**`Participants`**](./participants.md#gga) | [**`Proceedings`**](./proceedings.md#imago-open-source-toolkit-for-2d-chemical-structure-image-recognition) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.GGA_Imago_2011.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.GGA_Imago_2011) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/GGA_Imago_2011.pdf) 
 
 - :material-rename: **Run ID:** GGA_Imago_2011 
 - :fontawesome-solid-user-group: **Participant:** GGA 
@@ -370,7 +370,7 @@
 
 ---
 #### osra_1.3.8_def 
-[**`Results`**](./results.md#osra_138_def), [**`Participants`**](./participants.md#saic_frederick), [**`Proceedings`**](./proceedings.md#optical-structure-recognition-application-entry-in-image2structure-task), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.osra_1.3.8_def.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.osra_1.3.8_def), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/osra_1.3.8_def.pdf) 
+[**`Results`**](./results.md#osra_138_def) | [**`Participants`**](./participants.md#saic_frederick) | [**`Proceedings`**](./proceedings.md#optical-structure-recognition-application-entry-in-image2structure-task) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.osra_1.3.8_def.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.osra_1.3.8_def) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/osra_1.3.8_def.pdf) 
 
 - :material-rename: **Run ID:** osra_1.3.8_def 
 - :fontawesome-solid-user-group: **Participant:** SAIC_Frederick 
@@ -382,7 +382,7 @@
 
 ---
 #### osra_1.3.8_r300 
-[**`Results`**](./results.md#osra_138_r300), [**`Participants`**](./participants.md#saic_frederick), [**`Proceedings`**](./proceedings.md#optical-structure-recognition-application-entry-in-image2structure-task), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.osra_1.3.8_r300.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.osra_1.3.8_r300), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/osra_1.3.8_r300.pdf) 
+[**`Results`**](./results.md#osra_138_r300) | [**`Participants`**](./participants.md#saic_frederick) | [**`Proceedings`**](./proceedings.md#optical-structure-recognition-application-entry-in-image2structure-task) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.osra_1.3.8_r300.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.osra_1.3.8_r300) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/osra_1.3.8_r300.pdf) 
 
 - :material-rename: **Run ID:** osra_1.3.8_r300 
 - :fontawesome-solid-user-group: **Participant:** SAIC_Frederick 
@@ -394,7 +394,7 @@
 
 ---
 #### Run1 
-[**`Results`**](./results.md#run1), [**`Participants`**](./participants.md#uob), [**`Proceedings`**](./proceedings.md#performance-of-molrec-at-trec-2011-overview-and-analysis-of-results), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.Run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.Run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/Run1.pdf) 
+[**`Results`**](./results.md#run1) | [**`Participants`**](./participants.md#uob) | [**`Proceedings`**](./proceedings.md#performance-of-molrec-at-trec-2011-overview-and-analysis-of-results) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.Run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.Run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/Run1.pdf) 
 
 - :material-rename: **Run ID:** Run1 
 - :fontawesome-solid-user-group: **Participant:** UoB 
@@ -406,7 +406,7 @@
 
 ---
 #### Run2 
-[**`Results`**](./results.md#run2), [**`Participants`**](./participants.md#uob), [**`Proceedings`**](./proceedings.md#performance-of-molrec-at-trec-2011-overview-and-analysis-of-results), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.Run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.Run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/Run2.pdf) 
+[**`Results`**](./results.md#run2) | [**`Participants`**](./participants.md#uob) | [**`Proceedings`**](./proceedings.md#performance-of-molrec-at-trec-2011-overview-and-analysis-of-results) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.Run2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.Run2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/Run2.pdf) 
 
 - :material-rename: **Run ID:** Run2 
 - :fontawesome-solid-user-group: **Participant:** UoB 
@@ -418,7 +418,7 @@
 
 ---
 #### SCAIRUN1 
-[**`Results`**](./results.md#scairun1), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN1.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN1), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN1.pdf) 
+[**`Results`**](./results.md#scairun1) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN1.pdf) 
 
 - :material-rename: **Run ID:** SCAIRUN1 
 - :fontawesome-solid-user-group: **Participant:** fraunhofer.scai 
@@ -432,7 +432,7 @@
 
 ---
 #### SCAIRUN2 
-[**`Results`**](./results.md#scairun2), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN2.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN2), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN2.pdf) 
+[**`Results`**](./results.md#scairun2) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN2.pdf) 
 
 - :material-rename: **Run ID:** SCAIRUN2 
 - :fontawesome-solid-user-group: **Participant:** fraunhofer.scai 
@@ -446,7 +446,7 @@
 
 ---
 #### SCAIRUN3 
-[**`Results`**](./results.md#scairun3), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN3.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN3), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN3.pdf) 
+[**`Results`**](./results.md#scairun3) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN3.pdf) 
 
 - :material-rename: **Run ID:** SCAIRUN3 
 - :fontawesome-solid-user-group: **Participant:** fraunhofer.scai 
@@ -460,7 +460,7 @@
 
 ---
 #### SCAIRUN4 
-[**`Results`**](./results.md#scairun4), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature), [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN4.gz), [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN4), [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN4.pdf) 
+[**`Results`**](./results.md#scairun4) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#information-retrieval-framework-for-technology-survey-in-biomedical-and-chemistry-literature) | [**`Input`**](https://trec.nist.gov/results/trec20/chemical/input.SCAIRUN4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec20/chemical/summary.SCAIRUN4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec20/appendices/chemical/SCAIRUN4.pdf) 
 
 - :material-rename: **Run ID:** SCAIRUN4 
 - :fontawesome-solid-user-group: **Participant:** fraunhofer.scai 

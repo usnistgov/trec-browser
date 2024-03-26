@@ -1,7 +1,7 @@
 # Runs - Cross-Language 1997 
 
 #### 97lsiLEE 
-[**`Results`**](./results.md#97lsilee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilee) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLEE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLEE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLEE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -13,7 +13,7 @@
 
 ---
 #### 97lsiLEF 
-[**`Results`**](./results.md#97lsilef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilef) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLEF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLEF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLEF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -25,7 +25,7 @@
 
 ---
 #### 97lsiLEG 
-[**`Results`**](./results.md#97lsileg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsileg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLEG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLEG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLEG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -37,7 +37,7 @@
 
 ---
 #### 97lsiLFE 
-[**`Results`**](./results.md#97lsilfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilfe) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLFE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLFE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLFE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -49,7 +49,7 @@
 
 ---
 #### 97lsiLFF 
-[**`Results`**](./results.md#97lsilff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilff) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLFF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLFF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLFF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -61,7 +61,7 @@
 
 ---
 #### 97lsiLFG 
-[**`Results`**](./results.md#97lsilfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilfg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLFG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLFG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLFG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -73,7 +73,7 @@
 
 ---
 #### 97lsiLGE 
-[**`Results`**](./results.md#97lsilge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilge) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiLGE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiLGE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLGE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -85,7 +85,7 @@
 
 ---
 #### 97lsiLGF 
-[**`Results`**](./results.md#97lsilgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilgf) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiLGF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiLGF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLGF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -97,7 +97,7 @@
 
 ---
 #### 97lsiLGG 
-[**`Results`**](./results.md#97lsilgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsilgg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiLGG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiLGG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiLGG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -109,7 +109,7 @@
 
 ---
 #### 97lsiSEE 
-[**`Results`**](./results.md#97lsisee), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSEE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSEE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisee) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSEE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSEE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSEE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -121,7 +121,7 @@
 
 ---
 #### 97lsiSEF 
-[**`Results`**](./results.md#97lsisef), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSEF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSEF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisef) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSEF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSEF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSEF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -133,7 +133,7 @@
 
 ---
 #### 97lsiSEG 
-[**`Results`**](./results.md#97lsiseg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSEG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSEG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsiseg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSEG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSEG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSEG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -145,7 +145,7 @@
 
 ---
 #### 97lsiSFE 
-[**`Results`**](./results.md#97lsisfe), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSFE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSFE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisfe) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSFE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSFE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSFE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -157,7 +157,7 @@
 
 ---
 #### 97lsiSFF 
-[**`Results`**](./results.md#97lsisff), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSFF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSFF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisff) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSFF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSFF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSFF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -169,7 +169,7 @@
 
 ---
 #### 97lsiSFG 
-[**`Results`**](./results.md#97lsisfg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSFG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSFG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisfg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSFG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSFG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSFG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -181,7 +181,7 @@
 
 ---
 #### 97lsiSGE 
-[**`Results`**](./results.md#97lsisge), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSGE.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSGE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisge) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.97lsiSGE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.97lsiSGE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSGE 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -193,7 +193,7 @@
 
 ---
 #### 97lsiSGF 
-[**`Results`**](./results.md#97lsisgf), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSGF.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSGF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisgf) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.97lsiSGF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.97lsiSGF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSGF 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -205,7 +205,7 @@
 
 ---
 #### 97lsiSGG 
-[**`Results`**](./results.md#97lsisgg), [**`Participants`**](./participants.md#duke), [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSGG.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSGG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#97lsisgg) | [**`Participants`**](./participants.md#duke) | [**`Proceedings`**](./proceedings.md#automatic-3-language-cross-language-information-retrieval-with-latent-semantic-indexing) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.97lsiSGG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.97lsiSGG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** 97lsiSGG 
 - :fontawesome-solid-user-group: **Participant:** Duke 
@@ -217,7 +217,7 @@
 
 ---
 #### BrklyE2GA 
-[**`Results`**](./results.md#brklye2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#brklye2ga) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** BrklyE2GA 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -229,7 +229,7 @@
 
 ---
 #### BrklyE2GM 
-[**`Results`**](./results.md#brklye2gm), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#brklye2gm) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyE2GM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyE2GM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** BrklyE2GM 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -241,7 +241,7 @@
 
 ---
 #### BrklyG2GA 
-[**`Results`**](./results.md#brklyg2ga), [**`Participants`**](./participants.md#berkeley), [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyG2GA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyG2GA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#brklyg2ga) | [**`Participants`**](./participants.md#berkeley) | [**`Proceedings`**](./proceedings.md#phrase-discovery-for-english-and-cross-language-retrieval-at-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.BrklyG2GA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.BrklyG2GA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** BrklyG2GA 
 - :fontawesome-solid-user-group: **Participant:** Berkeley 
@@ -253,7 +253,7 @@
 
 ---
 #### CEAef 
-[**`Results`**](./results.md#ceaef), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAef.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ceaef) | [**`Participants`**](./participants.md#cea) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAef.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAef.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** CEAef 
 - :fontawesome-solid-user-group: **Participant:** CEA 
@@ -265,7 +265,7 @@
 
 ---
 #### CEAff 
-[**`Results`**](./results.md#ceaff), [**`Participants`**](./participants.md#cea), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAff.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAff.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ceaff) | [**`Participants`**](./participants.md#cea) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CEAff.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CEAff.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** CEAff 
 - :fontawesome-solid-user-group: **Participant:** CEA 
@@ -277,7 +277,7 @@
 
 ---
 #### clcrl1 
-[**`Results`**](./results.md#clcrl1), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clcrl1) | [**`Participants`**](./participants.md#nmsu-d) | [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** clcrl1 
 - :fontawesome-solid-user-group: **Participant:** NMSU-D 
@@ -289,7 +289,7 @@
 
 ---
 #### clcrl2 
-[**`Results`**](./results.md#clcrl2), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clcrl2) | [**`Participants`**](./participants.md#nmsu-d) | [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** clcrl2 
 - :fontawesome-solid-user-group: **Participant:** NMSU-D 
@@ -301,7 +301,7 @@
 
 ---
 #### clcrl3 
-[**`Results`**](./results.md#clcrl3), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clcrl3) | [**`Participants`**](./participants.md#nmsu-d) | [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** clcrl3 
 - :fontawesome-solid-user-group: **Participant:** NMSU-D 
@@ -313,7 +313,7 @@
 
 ---
 #### clcrl4 
-[**`Results`**](./results.md#clcrl4), [**`Participants`**](./participants.md#nmsu-d), [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clcrl4) | [**`Participants`**](./participants.md#nmsu-d) | [**`Proceedings`**](./proceedings.md#free-resources-and-advanced-alignment-for-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.clcrl4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.clcrl4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** clcrl4 
 - :fontawesome-solid-user-group: **Participant:** NMSU-D 
@@ -325,7 +325,7 @@
 
 ---
 #### CLIPS1 
-[**`Results`**](./results.md#clips1), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clips1) | [**`Participants`**](./participants.md#umontreal) | [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** CLIPS1 
 - :fontawesome-solid-user-group: **Participant:** UMontreal 
@@ -337,7 +337,7 @@
 
 ---
 #### CLIPS2 
-[**`Results`**](./results.md#clips2), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clips2) | [**`Participants`**](./participants.md#umontreal) | [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** CLIPS2 
 - :fontawesome-solid-user-group: **Participant:** UMontreal 
@@ -349,7 +349,7 @@
 
 ---
 #### CLIPS3 
-[**`Results`**](./results.md#clips3), [**`Participants`**](./participants.md#umontreal), [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#clips3) | [**`Participants`**](./participants.md#umontreal) | [**`Proceedings`**](./proceedings.md#between-terms-and-words-for-european-language-ir-and-between-words-and-bigrams-for-chinese-ir) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.CLIPS3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.CLIPS3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** CLIPS3 
 - :fontawesome-solid-user-group: **Participant:** UMontreal 
@@ -361,7 +361,7 @@
 
 ---
 #### Cor6EEsc 
-[**`Results`**](./results.md#cor6eesc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.Cor6EEsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.Cor6EEsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#cor6eesc) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.Cor6EEsc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.Cor6EEsc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor6EEsc 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -373,7 +373,7 @@
 
 ---
 #### Cor6EFent 
-[**`Results`**](./results.md#cor6efent), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFent.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFent.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#cor6efent) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFent.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFent.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor6EFent 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -385,7 +385,7 @@
 
 ---
 #### Cor6EFexp 
-[**`Results`**](./results.md#cor6efexp), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFexp.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFexp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#cor6efexp) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6EFexp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6EFexp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor6EFexp 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -397,7 +397,7 @@
 
 ---
 #### Cor6ETGsc 
-[**`Results`**](./results.md#cor6etgsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.Cor6ETGsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german(trans)/summary.Cor6ETGsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#cor6etgsc) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.Cor6ETGsc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german(trans)/summary.Cor6ETGsc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor6ETGsc 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -409,7 +409,7 @@
 
 ---
 #### Cor6FFsc 
-[**`Results`**](./results.md#cor6ffsc), [**`Participants`**](./participants.md#cornell), [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6FFsc.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6FFsc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#cor6ffsc) | [**`Participants`**](./participants.md#cornell) | [**`Proceedings`**](./proceedings.md#using-clustering-and-superconcepts-within-smart-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.Cor6FFsc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.Cor6FFsc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Cor6FFsc 
 - :fontawesome-solid-user-group: **Participant:** Cornell 
@@ -421,7 +421,7 @@
 
 ---
 #### DCU97Fv1 
-[**`Results`**](./results.md#dcu97fv1), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#dcu97fv1) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** DCU97Fv1 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -433,7 +433,7 @@
 
 ---
 #### DCU97Fv2 
-[**`Results`**](./results.md#dcu97fv2), [**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#dcu97fv2) | [**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#ad-hoc-retrieval-using-thresholds-wsts-for-french-mono-lingual-retrieval-document-at-a-glance-for-high-precision-and-triphone-windows-for-spoken-documents) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.DCU97Fv2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.DCU97Fv2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** DCU97Fv2 
 - :fontawesome-solid-user-group: **Participant:** Dublin 
@@ -445,7 +445,7 @@
 
 ---
 #### ETHdd1 
-[**`Results`**](./results.md#ethdd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHdd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHdd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethdd1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHdd1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHdd1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHdd1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -457,7 +457,7 @@
 
 ---
 #### ETHde1 
-[**`Results`**](./results.md#ethde1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethde1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHde1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -469,7 +469,7 @@
 
 ---
 #### ETHde2 
-[**`Results`**](./results.md#ethde2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethde2) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHde2 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -481,7 +481,7 @@
 
 ---
 #### ETHde3 
-[**`Results`**](./results.md#ethde3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethde3) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHde3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHde3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHde3 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -493,7 +493,7 @@
 
 ---
 #### ETHdf1 
-[**`Results`**](./results.md#ethdf1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethdf1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHdf1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -505,7 +505,7 @@
 
 ---
 #### ETHdf2 
-[**`Results`**](./results.md#ethdf2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethdf2) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHdf2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHdf2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHdf2 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -517,7 +517,7 @@
 
 ---
 #### ETHed1 
-[**`Results`**](./results.md#ethed1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethed1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHed1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -529,7 +529,7 @@
 
 ---
 #### ETHed2 
-[**`Results`**](./results.md#ethed2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethed2) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHed2 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -541,7 +541,7 @@
 
 ---
 #### ETHed3 
-[**`Results`**](./results.md#ethed3), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethed3) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHed3 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -553,7 +553,7 @@
 
 ---
 #### ETHed4 
-[**`Results`**](./results.md#ethed4), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethed4) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHed4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHed4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHed4 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -565,7 +565,7 @@
 
 ---
 #### ETHee1 
-[**`Results`**](./results.md#ethee1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHee1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHee1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethee1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.ETHee1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.ETHee1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHee1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -577,7 +577,7 @@
 
 ---
 #### ETHfd1 
-[**`Results`**](./results.md#ethfd1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethfd1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHfd1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -589,7 +589,7 @@
 
 ---
 #### ETHfd2 
-[**`Results`**](./results.md#ethfd2), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethfd2) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.ETHfd2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.ETHfd2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHfd2 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -601,7 +601,7 @@
 
 ---
 #### ETHff1 
-[**`Results`**](./results.md#ethff1), [**`Participants`**](./participants.md#eth), [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHff1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHff1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#ethff1) | [**`Participants`**](./participants.md#eth) | [**`Proceedings`**](./proceedings.md#eth-trec-6-routing-chinese-cross-language-and-spoken-document-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.ETHff1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.ETHff1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** ETHff1 
 - :fontawesome-solid-user-group: **Participant:** ETH 
@@ -613,7 +613,7 @@
 
 ---
 #### INQ4xl1 
-[**`Results`**](./results.md#inq4xl1), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#inq4xl1) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** INQ4xl1 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -625,7 +625,7 @@
 
 ---
 #### INQ4xl2 
-[**`Results`**](./results.md#inq4xl2), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#inq4xl2) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#inquery-does-battle-with-trec-6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.INQ4xl2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.INQ4xl2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** INQ4xl2 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -637,7 +637,7 @@
 
 ---
 #### MercureFFl 
-[**`Results`**](./results.md#mercureffl), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFl.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#mercureffl) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#mercure-at-trec6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** MercureFFl 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -649,7 +649,7 @@
 
 ---
 #### MercureFFs 
-[**`Results`**](./results.md#mercureffs), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#mercure-at-trec6), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFs.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#mercureffs) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#mercure-at-trec6) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.MercureFFs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.MercureFFs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** MercureFFs 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -661,7 +661,7 @@
 
 ---
 #### TNOde1 
-[**`Results`**](./results.md#tnode1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode1) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde1 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -673,7 +673,7 @@
 
 ---
 #### TNOde2 
-[**`Results`**](./results.md#tnode2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode2) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde2 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -685,7 +685,7 @@
 
 ---
 #### TNOde3 
-[**`Results`**](./results.md#tnode3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode3) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde3 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -697,7 +697,7 @@
 
 ---
 #### TNOde4 
-[**`Results`**](./results.md#tnode4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode4) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde4 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -709,7 +709,7 @@
 
 ---
 #### TNOde5 
-[**`Results`**](./results.md#tnode5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode5) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde5 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -721,7 +721,7 @@
 
 ---
 #### TNOde6 
-[**`Results`**](./results.md#tnode6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnode6) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOde6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOde6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOde6 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -733,7 +733,7 @@
 
 ---
 #### TNOdeMT1 
-[**`Results`**](./results.md#tnodemt1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOdeMT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english(trans)/summary.TNOdeMT1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnodemt1) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOdeMT1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english(trans)/summary.TNOdeMT1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOdeMT1 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -745,7 +745,7 @@
 
 ---
 #### TNOee 
-[**`Results`**](./results.md#tnoee), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOee.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOee.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnoee) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOee.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOee.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOee 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -757,7 +757,7 @@
 
 ---
 #### TNOfe1 
-[**`Results`**](./results.md#tnofe1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe1) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe1 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -769,7 +769,7 @@
 
 ---
 #### TNOfe2 
-[**`Results`**](./results.md#tnofe2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe2) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe2 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -781,7 +781,7 @@
 
 ---
 #### TNOfe3 
-[**`Results`**](./results.md#tnofe3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe3) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe3 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -793,7 +793,7 @@
 
 ---
 #### TNOfe4 
-[**`Results`**](./results.md#tnofe4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe4) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe4 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -805,7 +805,7 @@
 
 ---
 #### TNOfe5 
-[**`Results`**](./results.md#tnofe5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe5) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe5 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -817,7 +817,7 @@
 
 ---
 #### TNOfe6 
-[**`Results`**](./results.md#tnofe6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnofe6) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOfe6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOfe6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOfe6 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -829,7 +829,7 @@
 
 ---
 #### TNOnle1 
-[**`Results`**](./results.md#tnonle1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle1) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle1 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -841,7 +841,7 @@
 
 ---
 #### TNOnle2 
-[**`Results`**](./results.md#tnonle2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle2) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle2 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -853,7 +853,7 @@
 
 ---
 #### TNOnle3 
-[**`Results`**](./results.md#tnonle3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle3) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle3 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -865,7 +865,7 @@
 
 ---
 #### TNOnle4 
-[**`Results`**](./results.md#tnonle4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle4) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle4 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -877,7 +877,7 @@
 
 ---
 #### TNOnle5 
-[**`Results`**](./results.md#tnonle5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle5) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle5 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -889,7 +889,7 @@
 
 ---
 #### TNOnle6 
-[**`Results`**](./results.md#tnonle6), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#tnonle6) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#cross-language-retrieval-with-the-twenty-one-system) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.TNOnle6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.TNOnle6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** TNOnle6 
 - :fontawesome-solid-user-group: **Participant:** TNO 
@@ -901,7 +901,7 @@
 
 ---
 #### umcpxeg1 
-[**`Results`**](./results.md#umcpxeg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxeg1) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxeg1 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -913,7 +913,7 @@
 
 ---
 #### umcpxeg2 
-[**`Results`**](./results.md#umcpxeg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxeg2) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxeg2 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -925,7 +925,7 @@
 
 ---
 #### umcpxeg3 
-[**`Results`**](./results.md#umcpxeg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxeg3) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxeg3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxeg3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxeg3 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -937,7 +937,7 @@
 
 ---
 #### umcpxge1 
-[**`Results`**](./results.md#umcpxge1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxge1) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxge1 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -949,7 +949,7 @@
 
 ---
 #### umcpxge2 
-[**`Results`**](./results.md#umcpxge2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxge2) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxge2 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -961,7 +961,7 @@
 
 ---
 #### umcpxge3 
-[**`Results`**](./results.md#umcpxge3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxge3) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.umcpxge3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.umcpxge3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxge3 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -973,7 +973,7 @@
 
 ---
 #### umcpxgg1 
-[**`Results`**](./results.md#umcpxgg1), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg1) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg1 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -985,7 +985,7 @@
 
 ---
 #### umcpxgg2 
-[**`Results`**](./results.md#umcpxgg2), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg2) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg2 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -997,7 +997,7 @@
 
 ---
 #### umcpxgg3 
-[**`Results`**](./results.md#umcpxgg3), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg3) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg3 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -1009,7 +1009,7 @@
 
 ---
 #### umcpxgg4 
-[**`Results`**](./results.md#umcpxgg4), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg4.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg4) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg4 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -1021,7 +1021,7 @@
 
 ---
 #### umcpxgg5 
-[**`Results`**](./results.md#umcpxgg5), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg5.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg5) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg5 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -1033,7 +1033,7 @@
 
 ---
 #### umcpxgg6 
-[**`Results`**](./results.md#umcpxgg6), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg6.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#umcpxgg6) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#document-translation-for-cross-language-text-retrieval-at-the-university-of-maryland) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/german/input.umcpxgg6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/german/summary.umcpxgg6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** umcpxgg6 
 - :fontawesome-solid-user-group: **Participant:** UMd 
@@ -1045,7 +1045,7 @@
 
 ---
 #### XRCECLE2EA 
-[**`Results`**](./results.md#xrcecle2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrcecle2ea) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLE2EA 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1057,7 +1057,7 @@
 
 ---
 #### XRCECLE2EM 
-[**`Results`**](./results.md#xrcecle2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrcecle2em) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLE2EM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLE2EM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLE2EM 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1069,7 +1069,7 @@
 
 ---
 #### XRCECLE2FA 
-[**`Results`**](./results.md#xrcecle2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrcecle2fa) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLE2FA 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1081,7 +1081,7 @@
 
 ---
 #### XRCECLE2FM 
-[**`Results`**](./results.md#xrcecle2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrcecle2fm) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLE2FM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLE2FM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLE2FM 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1093,7 +1093,7 @@
 
 ---
 #### XRCECLF2EA 
-[**`Results`**](./results.md#xrceclf2ea), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrceclf2ea) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLF2EA 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1105,7 +1105,7 @@
 
 ---
 #### XRCECLF2EM 
-[**`Results`**](./results.md#xrceclf2em), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrceclf2em) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/english/input.XRCECLF2EM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/english/summary.XRCECLF2EM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLF2EM 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1117,7 +1117,7 @@
 
 ---
 #### XRCECLF2FA 
-[**`Results`**](./results.md#xrceclf2fa), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FA.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrceclf2fa) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLF2FA 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -1129,7 +1129,7 @@
 
 ---
 #### XRCECLF2FM 
-[**`Results`**](./results.md#xrceclf2fm), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FM.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
+[**`Results`**](./results.md#xrceclf2fm) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-6-site-report-cross-language-text-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/clir/french/input.XRCECLF2FM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/clir/french/summary.XRCECLF2FM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/xlingual.runs.ps.gz) 
 
 - :material-rename: **Run ID:** XRCECLF2FM 
 - :fontawesome-solid-user-group: **Participant:** Xerox 

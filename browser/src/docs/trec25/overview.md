@@ -2,7 +2,7 @@
 
 ## Clinical Decision Support
 
-[`Overview`](./clinical/overview.md), [`Proceedings`](./clinical/proceedings.md), [`Data`](./clinical/data.md), [`Results`](./clinical/results.md), [`Runs`](./clinical/runs.md), [`Participants`](./clinical/participants.md)
+[`Overview`](./clinical/overview.md) | [`Proceedings`](./clinical/proceedings.md) | [`Data`](./clinical/data.md) | [`Results`](./clinical/results.md) | [`Runs`](./clinical/runs.md) | [`Participants`](./clinical/participants.md)
 
 {==
 
@@ -24,7 +24,7 @@ In handling challenging cases, clinicians often seek out information to make bet
 
 ## LiveQA
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -47,7 +47,7 @@ The LiveQA track, now in its second year, is focused on real-time question answe
 
 ## Contextual Suggestion
 
-[`Overview`](./context/overview.md), [`Proceedings`](./context/proceedings.md), [`Data`](./context/data.md), [`Results`](./context/results.md), [`Runs`](./context/runs.md), [`Participants`](./context/participants.md)
+[`Overview`](./context/overview.md) | [`Proceedings`](./context/proceedings.md) | [`Data`](./context/data.md) | [`Results`](./context/results.md) | [`Runs`](./context/runs.md) | [`Participants`](./context/participants.md)
 
 {==
 
@@ -70,7 +70,7 @@ The TREC Contextual Suggestion Track offers a personalized point of interest (PO
 
 ## Real-time Summarization
 
-[`Overview`](./realtime/overview.md), [`Proceedings`](./realtime/proceedings.md), [`Data`](./realtime/data.md), [`Runs`](./realtime/runs.md), [`Participants`](./realtime/participants.md)
+[`Overview`](./realtime/overview.md) | [`Proceedings`](./realtime/proceedings.md) | [`Data`](./realtime/data.md) | [`Runs`](./realtime/runs.md) | [`Participants`](./realtime/participants.md)
 
 {==
 
@@ -94,7 +94,7 @@ The TREC 2016 Real-Time Summarization (RTS) Track aims to explore techniques and
 
 ## Total Recall
 
-[`Overview`](./recall/overview.md), [`Proceedings`](./recall/proceedings.md), [`Runs`](./recall/runs.md), [`Participants`](./recall/participants.md)
+[`Overview`](./recall/overview.md) | [`Proceedings`](./recall/proceedings.md) | [`Runs`](./recall/runs.md) | [`Participants`](./recall/participants.md)
 
 {==
 
@@ -115,7 +115,7 @@ The primary purpose of the Total Recall Track is to evaluate, through controlled
 
 ## Tasks
 
-[`Overview`](./task/overview.md), [`Proceedings`](./task/proceedings.md), [`Data`](./task/data.md), [`Results`](./task/results.md), [`Runs`](./task/runs.md), [`Participants`](./task/participants.md)
+[`Overview`](./task/overview.md) | [`Proceedings`](./task/proceedings.md) | [`Data`](./task/data.md) | [`Results`](./task/results.md) | [`Runs`](./task/runs.md) | [`Participants`](./task/participants.md)
 
 {==
 
@@ -140,7 +140,7 @@ Standard evaluation mechanisms focus on evaluating the quality of a retrieval sy
 
 ## Dynamic Domain
 
-[`Overview`](./domain/overview.md), [`Proceedings`](./domain/proceedings.md), [`Data`](./domain/data.md), [`Runs`](./domain/runs.md), [`Participants`](./domain/participants.md)
+[`Overview`](./domain/overview.md) | [`Proceedings`](./domain/proceedings.md) | [`Data`](./domain/data.md) | [`Runs`](./domain/runs.md) | [`Participants`](./domain/participants.md)
 
 {==
 
@@ -160,7 +160,7 @@ The main goal of TREC dynamic domain track is to explore and evaluate systems fo
 
 ## OpenSearch
 
-[`Overview`](./open/overview.md), [`Proceedings`](./open/proceedings.md), [`Runs`](./open/runs.md), [`Participants`](./open/participants.md)
+[`Overview`](./open/overview.md) | [`Proceedings`](./open/proceedings.md) | [`Runs`](./open/runs.md) | [`Participants`](./open/participants.md)
 
 {==
 

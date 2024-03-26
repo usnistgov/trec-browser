@@ -1,7 +1,7 @@
 # Runs - Temporal Summarization 2015 
 
 #### 1LtoSfltr20 
-[**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.1LtoSfltr20.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
+[**`Participants`**](./participants.md#cunlp) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.1LtoSfltr20.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
 
 - :material-rename: **Run ID:** 1LtoSfltr20 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
@@ -14,7 +14,7 @@
 
 ---
 #### 2LtoSnofltr20 
-[**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.2LtoSnofltr20.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
+[**`Participants`**](./participants.md#cunlp) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.2LtoSnofltr20.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
 
 - :material-rename: **Run ID:** 2LtoSnofltr20 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
@@ -27,7 +27,7 @@
 
 ---
 #### 3LtoSfltr5 
-[**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.3LtoSfltr5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
+[**`Participants`**](./participants.md#cunlp) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.3LtoSfltr5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
 
 - :material-rename: **Run ID:** 3LtoSfltr5 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
@@ -40,7 +40,7 @@
 
 ---
 #### 4APSAL 
-[**`Participants`**](./participants.md#cunlp), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.4APSAL.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
+[**`Participants`**](./participants.md#cunlp) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.4APSAL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/cunlp.all.tsv) 
 
 - :material-rename: **Run ID:** 4APSAL 
 - :fontawesome-solid-user-group: **Participant:** cunlp 
@@ -53,7 +53,7 @@
 
 ---
 #### COS 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.COS.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.COS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** COS 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -66,7 +66,7 @@
 
 ---
 #### COSSIM 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.COSSIM.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.COSSIM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** COSSIM 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -79,7 +79,7 @@
 
 ---
 #### DMSL1AP1 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1AP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1AP1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL1AP1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -92,7 +92,7 @@
 
 ---
 #### DMSL1NMF2 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1NMF2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1NMF2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL1NMF2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -101,11 +101,11 @@
 - :material-upload: **Submission:** 8/28/2015 
 - :material-text-search: **Task:** ps 
 - :material-fingerprint: **MD5:** `4f7bec45f79352b0478e476eb7a3ed7d` 
-- :material-text: **Run description:** In this run，I adopt the improved Non-negative matrix factorization algorithm with two regularizations  as the cluster method .One regularization considers both structure of manifold and structure of semantics ，the other regularization is L2-norm to control the complexity of model .Compared with APCLUSTER Affinity Propagation Clustering algorithm,in some topics ,our method is better or comparable in residual error. 
+- :material-text: **Run description:** In this runI adopt the improved Non-negative matrix factorization algorithm with two regularizations  as the cluster method .One regularization considers both structure of manifold and structure of semantics the other regularization is L2-norm to control the complexity of model .Compared with APCLUSTER Affinity Propagation Clustering algorithm,in some topics ,our method is better or comparable in residual error. 
 
 ---
 #### DMSL1VSH3 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1VSH3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL1VSH3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL1VSH3 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -118,7 +118,7 @@
 
 ---
 #### DMSL2A1 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2A1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2A1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL2A1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -131,7 +131,7 @@
 
 ---
 #### DMSL2N2 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2N2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2N2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL2N2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -140,11 +140,11 @@
 - :material-upload: **Submission:** 8/28/2015 
 - :material-text-search: **Task:** so 
 - :material-fingerprint: **MD5:** `a631345e8b4d649c1f67e9a067247b94` 
-- :material-text: **Run description:** In this run，I adopt the improved Non-negative matrix factorization algorithm with two regularizations  as the cluster method .One regularization considers both structure of manifold and structure of semantics ，the other regularization is L2-norm to control the complexity of model .Compared with APCLUSTER Affinity Propagation Clustering algorithm,in some topics ,our method is better or comparable in residual error. 
+- :material-text: **Run description:** In this runI adopt the improved Non-negative matrix factorization algorithm with two regularizations  as the cluster method .One regularization considers both structure of manifold and structure of semantics the other regularization is L2-norm to control the complexity of model .Compared with APCLUSTER Affinity Propagation Clustering algorithm,in some topics ,our method is better or comparable in residual error. 
 
 ---
 #### DMSL2V3 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2V3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.DMSL2V3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/BJUT.all.tsv) 
 
 - :material-rename: **Run ID:** DMSL2V3 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -157,7 +157,7 @@
 
 ---
 #### docs 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.docs.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.docs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** docs 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -170,7 +170,7 @@
 
 ---
 #### docsRecall 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.docsRecall.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.docsRecall.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** docsRecall 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -183,7 +183,7 @@
 
 ---
 #### FS1A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS1A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS1A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS1A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -196,7 +196,7 @@
 
 ---
 #### FS1B 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS1B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS1B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS1B 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -209,7 +209,7 @@
 
 ---
 #### FS2A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS2A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS2A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS2A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -222,7 +222,7 @@
 
 ---
 #### FS2B 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS2B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS2B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS2B 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -235,7 +235,7 @@
 
 ---
 #### FS3A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS3A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS3A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS3A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -248,7 +248,7 @@
 
 ---
 #### FS3B 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS3B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS3B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS3B 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -261,7 +261,7 @@
 
 ---
 #### FS4A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS4A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS4A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS4A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -274,7 +274,7 @@
 
 ---
 #### FS4B 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS4B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS4B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS4B 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -287,7 +287,7 @@
 
 ---
 #### FS5A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS5A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS5A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS5A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -300,7 +300,7 @@
 
 ---
 #### FS6A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS6A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.FS6A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** FS6A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -313,7 +313,7 @@
 
 ---
 #### IGn 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGn.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGn.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** IGn 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -326,7 +326,7 @@
 
 ---
 #### IGnPrecision 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGnPrecision.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGnPrecision.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** IGnPrecision 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -339,7 +339,7 @@
 
 ---
 #### IGnRecall 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGnRecall.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.IGnRecall.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** IGnRecall 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -352,7 +352,7 @@
 
 ---
 #### InL2DecrQE1ID1 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DecrQE1ID1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DecrQE1ID1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2DecrQE1ID1 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -365,7 +365,7 @@
 
 ---
 #### InL2DecrQE2ID2 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DecrQE2ID2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DecrQE2ID2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2DecrQE2ID2 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -378,7 +378,7 @@
 
 ---
 #### InL2DocsQE2ID5 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DocsQE2ID5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2DocsQE2ID5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2DocsQE2ID5 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -391,7 +391,7 @@
 
 ---
 #### InL2IncrQE1ID7 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2IncrQE1ID7.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2IncrQE1ID7.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2IncrQE1ID7 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -404,7 +404,7 @@
 
 ---
 #### InL2IncrQE2ID4 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2IncrQE2ID4.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2IncrQE2ID4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2IncrQE2ID4 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -417,7 +417,7 @@
 
 ---
 #### InL2StabQE1ID6 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2StabQE1ID6.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2StabQE1ID6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2StabQE1ID6 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -430,7 +430,7 @@
 
 ---
 #### InL2StabQE2ID3 
-[**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2StabQE2ID3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
+[**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2015-contextual-suggestion-and-temporal-summarization-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.InL2StabQE2ID3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/USI.all.tsv) 
 
 - :material-rename: **Run ID:** InL2StabQE2ID3 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -443,7 +443,7 @@
 
 ---
 #### l3sattrec15run1 
-[**`Participants`**](./participants.md#l3sattrec15), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
+[**`Participants`**](./participants.md#l3sattrec15) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
 
 - :material-rename: **Run ID:** l3sattrec15run1 
 - :fontawesome-solid-user-group: **Participant:** l3sattrec15 
@@ -456,7 +456,7 @@
 
 ---
 #### l3sattrec15run2 
-[**`Participants`**](./participants.md#l3sattrec15), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
+[**`Participants`**](./participants.md#l3sattrec15) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
 
 - :material-rename: **Run ID:** l3sattrec15run2 
 - :fontawesome-solid-user-group: **Participant:** l3sattrec15 
@@ -469,7 +469,7 @@
 
 ---
 #### l3sattrec15run3 
-[**`Participants`**](./participants.md#l3sattrec15), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
+[**`Participants`**](./participants.md#l3sattrec15) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.l3sattrec15run3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/l3sattrec15.all.tsv) 
 
 - :material-rename: **Run ID:** l3sattrec15run3 
 - :fontawesome-solid-user-group: **Participant:** l3sattrec15 
@@ -482,7 +482,7 @@
 
 ---
 #### LDA 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LDA.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LDA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** LDA 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -495,7 +495,7 @@
 
 ---
 #### LDAv2 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LDAv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LDAv2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** LDAv2 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -508,7 +508,7 @@
 
 ---
 #### LexRank 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LexRank.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LexRank.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** LexRank 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -521,7 +521,7 @@
 
 ---
 #### LLR 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LLR.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LLR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** LLR 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -534,7 +534,7 @@
 
 ---
 #### LM 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LM.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.LM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** LM 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -547,7 +547,7 @@
 
 ---
 #### OS1A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS1A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS1A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS1A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -560,7 +560,7 @@
 
 ---
 #### OS1C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS1C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS1C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS1C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -573,7 +573,7 @@
 
 ---
 #### OS2A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS2A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS2A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS2A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -586,7 +586,7 @@
 
 ---
 #### OS2C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS2C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS2C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS2C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -595,11 +595,11 @@
 - :material-upload: **Submission:** 9/3/2015 
 - :material-text-search: **Task:** so 
 - :material-fingerprint: **MD5:** `dac9ae33242537d44f31c713d0f96696` 
-- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1- The thresholds of the novelty degree and redundancy score were set to the average of the values observed during à last time window.  2- Linear smoothing was used in the estimation of the redundancy score; 3- A decay function was taken into account when computing the novelty degree  
+- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1- The thresholds of the novelty degree and redundancy score were set to the average of the values observed during  last time window.  2- Linear smoothing was used in the estimation of the redundancy score; 3- A decay function was taken into account when computing the novelty degree  
 
 ---
 #### OS3A 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS3A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS3A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS3A 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -612,7 +612,7 @@
 
 ---
 #### OS3C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS3C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS3C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS3C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -625,7 +625,7 @@
 
 ---
 #### OS4C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS4C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS4C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS4C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -634,11 +634,11 @@
 - :material-upload: **Submission:** 9/3/2015 
 - :material-text-search: **Task:** so 
 - :material-fingerprint: **MD5:** `95f21952b3cc9026774999136a857aee` 
-- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during à last time window; 2- Dirichlet smoothing was used in the estimation of the redundancy score; 3- A decay function was taken into account when computing the novelty degree  
+- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during  last time window; 2- Dirichlet smoothing was used in the estimation of the redundancy score; 3- A decay function was taken into account when computing the novelty degree  
 
 ---
 #### OS5C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS5C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS5C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS5C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -651,7 +651,7 @@
 
 ---
 #### OS6C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS6C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS6C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS6C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -660,11 +660,11 @@
 - :material-upload: **Submission:** 9/3/2015 
 - :material-text-search: **Task:** so 
 - :material-fingerprint: **MD5:** `dbdd7a441d2179eae3e2378b16d3592e` 
-- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during à last time window; 2-Dirichlet smoothing was used in the estimation of the redundancy score; 3-A decay function was not taken into account when computing the novelty degree 
+- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during  last time window; 2-Dirichlet smoothing was used in the estimation of the redundancy score; 3-A decay function was not taken into account when computing the novelty degree 
 
 ---
 #### OS7C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS7C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS7C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS7C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -677,7 +677,7 @@
 
 ---
 #### OS8C 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS8C.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-temporal-summarization-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.OS8C.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/IRIT.all.tsv) 
 
 - :material-rename: **Run ID:** OS8C 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -686,11 +686,11 @@
 - :material-upload: **Submission:** 9/3/2015 
 - :material-text-search: **Task:** so 
 - :material-fingerprint: **MD5:** `915e72cfdce61028e85fb8eb7fc14981` 
-- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during à last time window.  2-Linear smoothing was used in the estimation of the redundancy score; 3-A decay function was taken into account when computing the novelty degree  
+- :material-text: **Run description:** We use the same approach as our run OS1C expect that for this run the following parameters were adopted: 1-The thresholds of the novelty degree and redundancy score were set to the average of the values observed during  last time window.  2-Linear smoothing was used in the estimation of the redundancy score; 3-A decay function was taken into account when computing the novelty degree  
 
 ---
 #### ProfOnly3 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.ProfOnly3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.ProfOnly3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** ProfOnly3 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -703,7 +703,7 @@
 
 ---
 #### ProfOnlyFS3 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.ProfOnlyFS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.ProfOnlyFS3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** ProfOnlyFS3 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -716,7 +716,7 @@
 
 ---
 #### QL 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QL.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** QL 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -729,7 +729,7 @@
 
 ---
 #### QLF 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QLF.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QLF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** QLF 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -742,7 +742,7 @@
 
 ---
 #### QLLP 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QLLP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.QLLP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** QLLP 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -755,7 +755,7 @@
 
 ---
 #### Run1 
-[**`Participants`**](./participants.md#aiphes), [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
+[**`Participants`**](./participants.md#aiphes) | [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
 
 - :material-rename: **Run ID:** Run1 
 - :fontawesome-solid-user-group: **Participant:** AIPHES 
@@ -768,7 +768,7 @@
 
 ---
 #### Run2 
-[**`Participants`**](./participants.md#aiphes), [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
+[**`Participants`**](./participants.md#aiphes) | [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
 
 - :material-rename: **Run ID:** Run2 
 - :fontawesome-solid-user-group: **Participant:** AIPHES 
@@ -781,7 +781,7 @@
 
 ---
 #### Run3 
-[**`Participants`**](./participants.md#aiphes), [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
+[**`Participants`**](./participants.md#aiphes) | [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
 
 - :material-rename: **Run ID:** Run3 
 - :fontawesome-solid-user-group: **Participant:** AIPHES 
@@ -794,7 +794,7 @@
 
 ---
 #### Run4 
-[**`Participants`**](./participants.md#aiphes), [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
+[**`Participants`**](./participants.md#aiphes) | [**`Proceedings`**](./proceedings.md#seqclusum-combining-sequential-clustering-and-contextual-importance-measuring-to-summarize-developing-events-over-time) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.Run4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/AIPHES.all.tsv) 
 
 - :material-rename: **Run ID:** Run4 
 - :fontawesome-solid-user-group: **Participant:** AIPHES 
@@ -807,7 +807,7 @@
 
 ---
 #### runvec1 
-[**`Participants`**](./participants.md#iscasir), [**`Proceedings`**](./proceedings.md#iscasir-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.runvec1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/ISCASIR.all.tsv) 
+[**`Participants`**](./participants.md#iscasir) | [**`Proceedings`**](./proceedings.md#iscasir-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.runvec1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/ISCASIR.all.tsv) 
 
 - :material-rename: **Run ID:** runvec1 
 - :fontawesome-solid-user-group: **Participant:** ISCASIR 
@@ -820,7 +820,7 @@
 
 ---
 #### runvec2 
-[**`Participants`**](./participants.md#iscasir), [**`Proceedings`**](./proceedings.md#iscasir-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.runvec2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/ISCASIR.all.tsv) 
+[**`Participants`**](./participants.md#iscasir) | [**`Proceedings`**](./proceedings.md#iscasir-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.runvec2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/ISCASIR.all.tsv) 
 
 - :material-rename: **Run ID:** runvec2 
 - :fontawesome-solid-user-group: **Participant:** ISCASIR 
@@ -833,7 +833,7 @@
 
 ---
 #### TF 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TF.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TF 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -846,7 +846,7 @@
 
 ---
 #### TFFilter 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFFilter.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFFilter.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFFilter 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -859,7 +859,7 @@
 
 ---
 #### TFISF 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISF.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFISF 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -872,7 +872,7 @@
 
 ---
 #### TFISFW 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISFW.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISFW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFISFW 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -885,7 +885,7 @@
 
 ---
 #### TFISFW2V 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISFW2V.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFISFW2V.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFISFW2V 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -898,7 +898,7 @@
 
 ---
 #### TFW 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFW.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFW 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -911,7 +911,7 @@
 
 ---
 #### TFW2V 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFW2V.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-uva-at-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.TFW2V.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/UvA.ILPS.all.tsv) 
 
 - :material-rename: **Run ID:** TFW2V 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -924,7 +924,7 @@
 
 ---
 #### titles 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.titles.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-at-the-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.titles.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/CWI.all.tsv) 
 
 - :material-rename: **Run ID:** titles 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -937,7 +937,7 @@
 
 ---
 #### uogTrdEEQR3 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdEEQR3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdEEQR3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrdEEQR3 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -950,7 +950,7 @@
 
 ---
 #### uogTrdEQR1 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdEQR1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdEQR1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrdEQR1 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -963,7 +963,7 @@
 
 ---
 #### uogTrdSqCR5 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdSqCR5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrdSqCR5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrdSqCR5 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -976,7 +976,7 @@
 
 ---
 #### uogTrhEEQR4 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhEEQR4.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhEEQR4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrhEEQR4 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -989,7 +989,7 @@
 
 ---
 #### uogTrhEQR2 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhEQR2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhEQR2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrhEQR2 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1002,7 +1002,7 @@
 
 ---
 #### uogTrhSqCR6 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhSqCR6.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrhSqCR6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrhSqCR6 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1015,7 +1015,7 @@
 
 ---
 #### uogTrT1MANU 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1MANU.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1MANU.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1MANU 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1028,7 +1028,7 @@
 
 ---
 #### uogTrT1X2cSCP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2cSCP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2cSCP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1X2cSCP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1041,7 +1041,7 @@
 
 ---
 #### uogTrT1X2iNCP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iNCP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iNCP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1X2iNCP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1054,7 +1054,7 @@
 
 ---
 #### uogTrT1X2iSC 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iSC.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iSC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1X2iSC 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1067,7 +1067,7 @@
 
 ---
 #### uogTrT1X2iSCP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iSCP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iSCP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1X2iSCP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1080,7 +1080,7 @@
 
 ---
 #### uogTrT1X2iTCP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iTCP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT1X2iTCP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT1X2iTCP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1093,7 +1093,7 @@
 
 ---
 #### uogTrT2EimpP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT2EimpP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT2EimpP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT2EimpP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1106,7 +1106,7 @@
 
 ---
 #### uogTrT2EintP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT2EintP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2015-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-dynamic-domain-tracks) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.uogTrT2EintP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/uogTr.all.tsv) 
 
 - :material-rename: **Run ID:** uogTrT2EintP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1119,7 +1119,7 @@
 
 ---
 #### UWCTSRun1 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun1 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1132,7 +1132,7 @@
 
 ---
 #### UWCTSRun2 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun2 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1145,7 +1145,7 @@
 
 ---
 #### UWCTSRun3 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun3 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1158,7 +1158,7 @@
 
 ---
 #### UWCTSRun4 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun4 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1171,7 +1171,7 @@
 
 ---
 #### UWCTSRun5 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun5 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1184,7 +1184,7 @@
 
 ---
 #### UWCTSRun6 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun6.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-temporal-summarization-track) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.UWCTSRun6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/WaterlooClarke.all.tsv) 
 
 - :material-rename: **Run ID:** UWCTSRun6 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1197,7 +1197,7 @@
 
 ---
 #### WikiOnly2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiOnly2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiOnly2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** WikiOnly2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1210,7 +1210,7 @@
 
 ---
 #### WikiOnlyFS2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiOnlyFS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiOnlyFS2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** WikiOnlyFS2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1223,7 +1223,7 @@
 
 ---
 #### WikiProfMix1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiProfMix1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiProfMix1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** WikiProfMix1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -1236,7 +1236,7 @@
 
 ---
 #### WikiProfMixFS1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries), [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiProfMixFS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#event-oriented-query-expansion-for-news-event-queries) | [**`Input`**](https://trec.nist.gov/results/trec24/tempsumm/input.WikiProfMixFS1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/tempsumm/udel_fang.all.tsv) 
 
 - :material-rename: **Run ID:** WikiProfMixFS1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 

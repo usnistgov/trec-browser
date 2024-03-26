@@ -1,7 +1,7 @@
 # Runs - Health Misinformation 2022 
 
 #### bm25 
-[**`Results`**](./results.md#bm25), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/bm25.pdf) 
+[**`Results`**](./results.md#bm25) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.bm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.bm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/bm25.pdf) 
 
 - :material-rename: **Run ID:** bm25 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -15,7 +15,7 @@
 
 ---
 #### citius.base 
-[**`Results`**](./results.md#citiusbase), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.base.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.base), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.base.pdf) 
+[**`Results`**](./results.md#citiusbase) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.base.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.base) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.base.pdf) 
 
 - :material-rename: **Run ID:** citius.base 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -29,7 +29,7 @@
 
 ---
 #### citius.gpt-3 
-[**`Results`**](./results.md#citiusgpt-3), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.gpt-3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.gpt-3), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.gpt-3.pdf) 
+[**`Results`**](./results.md#citiusgpt-3) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.gpt-3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.gpt-3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.gpt-3.pdf) 
 
 - :material-rename: **Run ID:** citius.gpt-3 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -43,7 +43,7 @@
 
 ---
 #### citius.r1 
-[**`Results`**](./results.md#citiusr1), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r1.pdf) 
+[**`Results`**](./results.md#citiusr1) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r1.pdf) 
 
 - :material-rename: **Run ID:** citius.r1 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -57,7 +57,7 @@
 
 ---
 #### citius.r2 
-[**`Results`**](./results.md#citiusr2), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r2.pdf) 
+[**`Results`**](./results.md#citiusr2) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r2.pdf) 
 
 - :material-rename: **Run ID:** citius.r2 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -71,7 +71,7 @@
 
 ---
 #### citius.r3 
-[**`Results`**](./results.md#citiusr3), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r3), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r3.pdf) 
+[**`Results`**](./results.md#citiusr3) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r3.pdf) 
 
 - :material-rename: **Run ID:** citius.r3 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -85,7 +85,7 @@
 
 ---
 #### citius.r4 
-[**`Results`**](./results.md#citiusr4), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r4.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r4), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r4.pdf) 
+[**`Results`**](./results.md#citiusr4) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r4.pdf) 
 
 - :material-rename: **Run ID:** citius.r4 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -99,7 +99,7 @@
 
 ---
 #### citius.r5 
-[**`Results`**](./results.md#citiusr5), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r5.pdf) 
+[**`Results`**](./results.md#citiusr5) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r5.pdf) 
 
 - :material-rename: **Run ID:** citius.r5 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -113,7 +113,7 @@
 
 ---
 #### citius.r6 
-[**`Results`**](./results.md#citiusr6), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r6.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r6), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r6.pdf) 
+[**`Results`**](./results.md#citiusr6) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.r6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.r6) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.r6.pdf) 
 
 - :material-rename: **Run ID:** citius.r6 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -127,7 +127,7 @@
 
 ---
 #### citius.se 
-[**`Results`**](./results.md#citiusse), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.se.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.se), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.se.pdf) 
+[**`Results`**](./results.md#citiusse) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.se.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.se) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.se.pdf) 
 
 - :material-rename: **Run ID:** citius.se 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -141,7 +141,7 @@
 
 ---
 #### citius.se_gpt 
-[**`Results`**](./results.md#citiusse_gpt), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.se_gpt.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.se_gpt), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.se_gpt.pdf) 
+[**`Results`**](./results.md#citiusse_gpt) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.citius.se_gpt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.citius.se_gpt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/citius.se_gpt.pdf) 
 
 - :material-rename: **Run ID:** citius.se_gpt 
 - :fontawesome-solid-user-group: **Participant:** CiTIUS 
@@ -155,7 +155,7 @@
 
 ---
 #### gpt3a 
-[**`Results`**](./results.md#gpt3a), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a.pdf) 
+[**`Results`**](./results.md#gpt3a) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a.pdf) 
 
 - :material-rename: **Run ID:** gpt3a 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -169,7 +169,7 @@
 
 ---
 #### gpt3a_fc 
-[**`Results`**](./results.md#gpt3a_fc), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a_fc.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a_fc), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a_fc.pdf) 
+[**`Results`**](./results.md#gpt3a_fc) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a_fc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a_fc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a_fc.pdf) 
 
 - :material-rename: **Run ID:** gpt3a_fc 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -183,7 +183,7 @@
 
 ---
 #### gpt3a_neg 
-[**`Results`**](./results.md#gpt3a_neg), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a_neg.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a_neg), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a_neg.pdf) 
+[**`Results`**](./results.md#gpt3a_neg) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3a_neg.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3a_neg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3a_neg.pdf) 
 
 - :material-rename: **Run ID:** gpt3a_neg 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -197,7 +197,7 @@
 
 ---
 #### gpt3b 
-[**`Results`**](./results.md#gpt3b), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3b.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3b), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3b.pdf) 
+[**`Results`**](./results.md#gpt3b) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3b.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3b) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3b.pdf) 
 
 - :material-rename: **Run ID:** gpt3b 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -211,7 +211,7 @@
 
 ---
 #### gpt3b_neg 
-[**`Results`**](./results.md#gpt3b_neg), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3b_neg.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3b_neg), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3b_neg.pdf) 
+[**`Results`**](./results.md#gpt3b_neg) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.gpt3b_neg.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.gpt3b_neg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/gpt3b_neg.pdf) 
 
 - :material-rename: **Run ID:** gpt3b_neg 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -225,7 +225,7 @@
 
 ---
 #### hm22.mdt5 
-[**`Results`**](./results.md#hm22mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.mdt5.pdf) 
+[**`Results`**](./results.md#hm22mdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22.mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -239,7 +239,7 @@
 
 ---
 #### hm22.mt5 
-[**`Results`**](./results.md#hm22mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.mt5.pdf) 
+[**`Results`**](./results.md#hm22mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22.mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -253,7 +253,7 @@
 
 ---
 #### hm22.vera 
-[**`Results`**](./results.md#hm22vera), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera.pdf) 
+[**`Results`**](./results.md#hm22vera) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera.pdf) 
 
 - :material-rename: **Run ID:** hm22.vera 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -267,7 +267,7 @@
 
 ---
 #### hm22.vera_mdt5 
-[**`Results`**](./results.md#hm22vera_mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera_mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera_mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera_mdt5.pdf) 
+[**`Results`**](./results.md#hm22vera_mdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera_mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera_mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera_mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22.vera_mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -281,7 +281,7 @@
 
 ---
 #### hm22.vera_mt5 
-[**`Results`**](./results.md#hm22vera_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera_mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera_mt5.pdf) 
+[**`Results`**](./results.md#hm22vera_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22.vera_mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22.vera_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22.vera_mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22.vera_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -295,7 +295,7 @@
 
 ---
 #### hm22_ref.mdt5 
-[**`Results`**](./results.md#hm22_refmdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.mdt5.pdf) 
+[**`Results`**](./results.md#hm22_refmdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref.mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -309,7 +309,7 @@
 
 ---
 #### hm22_ref.mt5 
-[**`Results`**](./results.md#hm22_refmt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.mt5.pdf) 
+[**`Results`**](./results.md#hm22_refmt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref.mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -323,7 +323,7 @@
 
 ---
 #### hm22_ref.vera 
-[**`Results`**](./results.md#hm22_refvera), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera.pdf) 
+[**`Results`**](./results.md#hm22_refvera) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref.vera 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -337,7 +337,7 @@
 
 ---
 #### hm22_ref.vera_mdt5 
-[**`Results`**](./results.md#hm22_refvera_mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera_mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera_mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera_mdt5.pdf) 
+[**`Results`**](./results.md#hm22_refvera_mdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera_mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera_mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera_mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref.vera_mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -351,7 +351,7 @@
 
 ---
 #### hm22_ref.vera_mt5 
-[**`Results`**](./results.md#hm22_refvera_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera_mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera_mt5.pdf) 
+[**`Results`**](./results.md#hm22_refvera_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref.vera_mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref.vera_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref.vera_mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref.vera_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -365,7 +365,7 @@
 
 ---
 #### hm22_ref_comb.mdt5 
-[**`Results`**](./results.md#hm22_ref_combmdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.mdt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_combmdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_comb.mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -379,7 +379,7 @@
 
 ---
 #### hm22_ref_comb.mt5 
-[**`Results`**](./results.md#hm22_ref_combmt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.mt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_combmt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_comb.mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -393,7 +393,7 @@
 
 ---
 #### hm22_ref_comb.vera_mdt5 
-[**`Results`**](./results.md#hm22_ref_combvera_mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.vera_mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.vera_mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.vera_mdt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_combvera_mdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.vera_mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.vera_mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.vera_mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_comb.vera_mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -407,7 +407,7 @@
 
 ---
 #### hm22_ref_comb.vera_mt5 
-[**`Results`**](./results.md#hm22_ref_combvera_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.vera_mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.vera_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.vera_mt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_combvera_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_comb.vera_mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_comb.vera_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_comb.vera_mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_comb.vera_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -421,7 +421,7 @@
 
 ---
 #### hm22_ref_neg.mdt5 
-[**`Results`**](./results.md#hm22_ref_negmdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.mdt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_negmdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_neg.mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -435,7 +435,7 @@
 
 ---
 #### hm22_ref_neg.mt5 
-[**`Results`**](./results.md#hm22_ref_negmt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.mt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_negmt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_neg.mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -449,7 +449,7 @@
 
 ---
 #### hm22_ref_neg.vera 
-[**`Results`**](./results.md#hm22_ref_negvera), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera.pdf) 
+[**`Results`**](./results.md#hm22_ref_negvera) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_neg.vera 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -463,7 +463,7 @@
 
 ---
 #### hm22_ref_neg.vera_mdt5 
-[**`Results`**](./results.md#hm22_ref_negvera_mdt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera_mdt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera_mdt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera_mdt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_negvera_mdt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera_mdt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera_mdt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera_mdt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_neg.vera_mdt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -477,7 +477,7 @@
 
 ---
 #### hm22_ref_neg.vera_mt5 
-[**`Results`**](./results.md#hm22_ref_negvera_mt5), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera_mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera_mt5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera_mt5.pdf) 
+[**`Results`**](./results.md#hm22_ref_negvera_mt5) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.hm22_ref_neg.vera_mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.hm22_ref_neg.vera_mt5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/hm22_ref_neg.vera_mt5.pdf) 
 
 - :material-rename: **Run ID:** hm22_ref_neg.vera_mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -491,7 +491,7 @@
 
 ---
 #### vera 
-[**`Results`**](./results.md#vera), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera.pdf) 
+[**`Results`**](./results.md#vera) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera.pdf) 
 
 - :material-rename: **Run ID:** vera 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -505,7 +505,7 @@
 
 ---
 #### vera_abs 
-[**`Results`**](./results.md#vera_abs), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_abs.pdf) 
+[**`Results`**](./results.md#vera_abs) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_abs.pdf) 
 
 - :material-rename: **Run ID:** vera_abs 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -519,7 +519,7 @@
 
 ---
 #### vera_gpt3 
-[**`Results`**](./results.md#vera_gpt3), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_gpt3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_gpt3), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_gpt3.pdf) 
+[**`Results`**](./results.md#vera_gpt3) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_gpt3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_gpt3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_gpt3.pdf) 
 
 - :material-rename: **Run ID:** vera_gpt3 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -533,7 +533,7 @@
 
 ---
 #### vera_gpt3_abs 
-[**`Results`**](./results.md#vera_gpt3_abs), [**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_gpt3_abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_gpt3_abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_gpt3_abs.pdf) 
+[**`Results`**](./results.md#vera_gpt3_abs) | [**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.vera_gpt3_abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.vera_gpt3_abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/vera_gpt3_abs.pdf) 
 
 - :material-rename: **Run ID:** vera_gpt3_abs 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -547,7 +547,7 @@
 
 ---
 #### WatS-AP-Baseline 
-[**`Results`**](./results.md#wats-ap-baseline), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Baseline.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Baseline), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Baseline.pdf) 
+[**`Results`**](./results.md#wats-ap-baseline) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Baseline.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Baseline) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Baseline.pdf) 
 
 - :material-rename: **Run ID:** WatS-AP-Baseline 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -561,7 +561,7 @@
 
 ---
 #### WatS-AP-Baseline-L1 
-[**`Results`**](./results.md#wats-ap-baseline-l1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Baseline-L1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Baseline-L1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Baseline-L1.pdf) 
+[**`Results`**](./results.md#wats-ap-baseline-l1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Baseline-L1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Baseline-L1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Baseline-L1.pdf) 
 
 - :material-rename: **Run ID:** WatS-AP-Baseline-L1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -575,7 +575,7 @@
 
 ---
 #### WatS-AP-Manual 
-[**`Results`**](./results.md#wats-ap-manual), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Manual.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Manual), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Manual.pdf) 
+[**`Results`**](./results.md#wats-ap-manual) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-Manual.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-Manual) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-Manual.pdf) 
 
 - :material-rename: **Run ID:** WatS-AP-Manual 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -589,7 +589,7 @@
 
 ---
 #### WatS-AP-MT5 
-[**`Results`**](./results.md#wats-ap-mt5), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-MT5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-MT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-MT5.pdf) 
+[**`Results`**](./results.md#wats-ap-mt5) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-MT5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-MT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-MT5.pdf) 
 
 - :material-rename: **Run ID:** WatS-AP-MT5 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -603,7 +603,7 @@
 
 ---
 #### WatS-AP-MT5-L1 
-[**`Results`**](./results.md#wats-ap-mt5-l1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-MT5-L1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-MT5-L1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-MT5-L1.pdf) 
+[**`Results`**](./results.md#wats-ap-mt5-l1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-AP-MT5-L1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-AP-MT5-L1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-AP-MT5-L1.pdf) 
 
 - :material-rename: **Run ID:** WatS-AP-MT5-L1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -617,7 +617,7 @@
 
 ---
 #### WatS-BB75-MT5-TA 
-[**`Results`**](./results.md#wats-bb75-mt5-ta), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BB75-MT5-TA.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BB75-MT5-TA), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BB75-MT5-TA.pdf) 
+[**`Results`**](./results.md#wats-bb75-mt5-ta) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BB75-MT5-TA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BB75-MT5-TA) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BB75-MT5-TA.pdf) 
 
 - :material-rename: **Run ID:** WatS-BB75-MT5-TA 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -631,7 +631,7 @@
 
 ---
 #### WatS-Bigbird2_75-MT5 
-[**`Results`**](./results.md#wats-bigbird2_75-mt5), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5.pdf) 
+[**`Results`**](./results.md#wats-bigbird2_75-mt5) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5.pdf) 
 
 - :material-rename: **Run ID:** WatS-Bigbird2_75-MT5 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -645,7 +645,7 @@
 
 ---
 #### WatS-Bigbird2_75-MT5-TA1 
-[**`Results`**](./results.md#wats-bigbird2_75-mt5-ta1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5-TA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5-TA1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5-TA1.pdf) 
+[**`Results`**](./results.md#wats-bigbird2_75-mt5-ta1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5-TA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5-TA1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5-TA1.pdf) 
 
 - :material-rename: **Run ID:** WatS-Bigbird2_75-MT5-TA1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -659,7 +659,7 @@
 
 ---
 #### WatS-Bigbird2_75-MT5-TA2 
-[**`Results`**](./results.md#wats-bigbird2_75-mt5-ta2), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5-TA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5-TA2), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5-TA2.pdf) 
+[**`Results`**](./results.md#wats-bigbird2_75-mt5-ta2) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Bigbird2_75-MT5-TA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Bigbird2_75-MT5-TA2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Bigbird2_75-MT5-TA2.pdf) 
 
 - :material-rename: **Run ID:** WatS-Bigbird2_75-MT5-TA2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -673,7 +673,7 @@
 
 ---
 #### WatS-BM25-Query 
-[**`Results`**](./results.md#wats-bm25-query), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BM25-Query.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BM25-Query), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BM25-Query.pdf) 
+[**`Results`**](./results.md#wats-bm25-query) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BM25-Query.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BM25-Query) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BM25-Query.pdf) 
 
 - :material-rename: **Run ID:** WatS-BM25-Query 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -687,7 +687,7 @@
 
 ---
 #### WatS-BM25-Question 
-[**`Results`**](./results.md#wats-bm25-question), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BM25-Question.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BM25-Question), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BM25-Question.pdf) 
+[**`Results`**](./results.md#wats-bm25-question) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-BM25-Question.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-BM25-Question) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-BM25-Question.pdf) 
 
 - :material-rename: **Run ID:** WatS-BM25-Question 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -701,7 +701,7 @@
 
 ---
 #### WatS-Manual 
-[**`Results`**](./results.md#wats-manual), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Manual.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Manual), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Manual.pdf) 
+[**`Results`**](./results.md#wats-manual) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Manual.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Manual) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Manual.pdf) 
 
 - :material-rename: **Run ID:** WatS-Manual 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -715,7 +715,7 @@
 
 ---
 #### WatS-manual-pred 
-[**`Results`**](./results.md#wats-manual-pred), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-manual-pred.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-manual-pred), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-manual-pred.pdf) 
+[**`Results`**](./results.md#wats-manual-pred) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-manual-pred.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-manual-pred) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-manual-pred.pdf) 
 
 - :material-rename: **Run ID:** WatS-manual-pred 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -729,7 +729,7 @@
 
 ---
 #### WatS-MT5-MT5 
-[**`Results`**](./results.md#wats-mt5-mt5), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-MT5-MT5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-MT5-MT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-MT5-MT5.pdf) 
+[**`Results`**](./results.md#wats-mt5-mt5) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-MT5-MT5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-MT5-MT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-MT5-MT5.pdf) 
 
 - :material-rename: **Run ID:** WatS-MT5-MT5 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -743,7 +743,7 @@
 
 ---
 #### WatS-Trust 
-[**`Results`**](./results.md#wats-trust), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust.pdf) 
+[**`Results`**](./results.md#wats-trust) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust.pdf) 
 
 - :material-rename: **Run ID:** WatS-Trust 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -757,7 +757,7 @@
 
 ---
 #### WatS-Trust-L1 
-[**`Results`**](./results.md#wats-trust-l1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-L1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-L1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-L1.pdf) 
+[**`Results`**](./results.md#wats-trust-l1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-L1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-L1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-L1.pdf) 
 
 - :material-rename: **Run ID:** WatS-Trust-L1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -771,7 +771,7 @@
 
 ---
 #### WatS-Trust-MT5 
-[**`Results`**](./results.md#wats-trust-mt5), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-MT5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-MT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-MT5.pdf) 
+[**`Results`**](./results.md#wats-trust-mt5) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-MT5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-MT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-MT5.pdf) 
 
 - :material-rename: **Run ID:** WatS-Trust-MT5 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -785,7 +785,7 @@
 
 ---
 #### WatS-Trust-MT5-L1 
-[**`Results`**](./results.md#wats-trust-mt5-l1), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-MT5-L1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-MT5-L1), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-MT5-L1.pdf) 
+[**`Results`**](./results.md#wats-trust-mt5-l1) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#uwaterloomds-at-the-trec-2022-health-misinformation-track) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.WatS-Trust-MT5-L1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.WatS-Trust-MT5-L1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/WatS-Trust-MT5-L1.pdf) 
 
 - :material-rename: **Run ID:** WatS-Trust-MT5-L1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -799,7 +799,7 @@
 
 ---
 #### webis-goo-boolq-abs 
-[**`Results`**](./results.md#webis-goo-boolq-abs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-boolq-abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-boolq-abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-boolq-abs.pdf) 
+[**`Results`**](./results.md#webis-goo-boolq-abs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-boolq-abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-boolq-abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-boolq-abs.pdf) 
 
 - :material-rename: **Run ID:** webis-goo-boolq-abs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -813,7 +813,7 @@
 
 ---
 #### webis-goo-lbert-abs 
-[**`Results`**](./results.md#webis-goo-lbert-abs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-lbert-abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-lbert-abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-lbert-abs.pdf) 
+[**`Results`**](./results.md#webis-goo-lbert-abs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-lbert-abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-lbert-abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-lbert-abs.pdf) 
 
 - :material-rename: **Run ID:** webis-goo-lbert-abs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -827,7 +827,7 @@
 
 ---
 #### webis-goo-lbert-title-abs 
-[**`Results`**](./results.md#webis-goo-lbert-title-abs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-lbert-title-abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-lbert-title-abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-lbert-title-abs.pdf) 
+[**`Results`**](./results.md#webis-goo-lbert-title-abs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-goo-lbert-title-abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-goo-lbert-title-abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-goo-lbert-title-abs.pdf) 
 
 - :material-rename: **Run ID:** webis-goo-lbert-title-abs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -841,7 +841,7 @@
 
 ---
 #### webis-longck-ax-com 
-[**`Results`**](./results.md#webis-longck-ax-com), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-com.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-com), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-com.pdf) 
+[**`Results`**](./results.md#webis-longck-ax-com) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-com.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-com) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-com.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-ax-com 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -855,7 +855,7 @@
 
 ---
 #### webis-longck-ax-lin 
-[**`Results`**](./results.md#webis-longck-ax-lin), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-lin.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-lin), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-lin.pdf) 
+[**`Results`**](./results.md#webis-longck-ax-lin) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-lin.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-lin) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-lin.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-ax-lin 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -869,7 +869,7 @@
 
 ---
 #### webis-longck-ax-pol 
-[**`Results`**](./results.md#webis-longck-ax-pol), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-pol.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-pol), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-pol.pdf) 
+[**`Results`**](./results.md#webis-longck-ax-pol) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-ax-pol.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-ax-pol) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-ax-pol.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-ax-pol 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -883,7 +883,7 @@
 
 ---
 #### webis-longck-dis 
-[**`Results`**](./results.md#webis-longck-dis), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-dis.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-dis), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-dis.pdf) 
+[**`Results`**](./results.md#webis-longck-dis) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-dis.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-dis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-dis.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-dis 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -897,7 +897,7 @@
 
 ---
 #### webis-longck-uniqa-ax-com 
-[**`Results`**](./results.md#webis-longck-uniqa-ax-com), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-com.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-com), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-com.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-ax-com) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-com.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-com) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-com.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-ax-com 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -911,7 +911,7 @@
 
 ---
 #### webis-longck-uniqa-ax-dis 
-[**`Results`**](./results.md#webis-longck-uniqa-ax-dis), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-dis.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-dis), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-dis.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-ax-dis) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-dis.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-dis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-dis.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-ax-dis 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -925,7 +925,7 @@
 
 ---
 #### webis-longck-uniqa-ax-lin 
-[**`Results`**](./results.md#webis-longck-uniqa-ax-lin), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-lin.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-lin), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-lin.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-ax-lin) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-lin.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-lin) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-lin.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-ax-lin 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -939,7 +939,7 @@
 
 ---
 #### webis-longck-uniqa-ax-pol 
-[**`Results`**](./results.md#webis-longck-uniqa-ax-pol), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-pol.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-pol), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-pol.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-ax-pol) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-ax-pol.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-ax-pol) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-ax-pol.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-ax-pol 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -953,7 +953,7 @@
 
 ---
 #### webis-longck-uniqa-dis 
-[**`Results`**](./results.md#webis-longck-uniqa-dis), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-dis.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-dis), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-dis.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-dis) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-dis.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-dis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-dis.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-dis 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -967,7 +967,7 @@
 
 ---
 #### webis-longck-uniqa-pol 
-[**`Results`**](./results.md#webis-longck-uniqa-pol), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-pol.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-pol), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-pol.pdf) 
+[**`Results`**](./results.md#webis-longck-uniqa-pol) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-longck-uniqa-pol.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-longck-uniqa-pol) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-longck-uniqa-pol.pdf) 
 
 - :material-rename: **Run ID:** webis-longck-uniqa-pol 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -981,7 +981,7 @@
 
 ---
 #### webis-nlm-boolq-abs 
-[**`Results`**](./results.md#webis-nlm-boolq-abs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-nlm-boolq-abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-nlm-boolq-abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-nlm-boolq-abs.pdf) 
+[**`Results`**](./results.md#webis-nlm-boolq-abs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-nlm-boolq-abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-nlm-boolq-abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-nlm-boolq-abs.pdf) 
 
 - :material-rename: **Run ID:** webis-nlm-boolq-abs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -995,7 +995,7 @@
 
 ---
 #### webis-nlm-lbert-abs 
-[**`Results`**](./results.md#webis-nlm-lbert-abs), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-nlm-lbert-abs.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-nlm-lbert-abs), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-nlm-lbert-abs.pdf) 
+[**`Results`**](./results.md#webis-nlm-lbert-abs) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-nlm-lbert-abs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-nlm-lbert-abs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-nlm-lbert-abs.pdf) 
 
 - :material-rename: **Run ID:** webis-nlm-lbert-abs 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -1009,7 +1009,7 @@
 
 ---
 #### webis-uniqa-ax-com 
-[**`Results`**](./results.md#webis-uniqa-ax-com), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-com.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-com), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-com.pdf) 
+[**`Results`**](./results.md#webis-uniqa-ax-com) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-com.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-com) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-com.pdf) 
 
 - :material-rename: **Run ID:** webis-uniqa-ax-com 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -1023,7 +1023,7 @@
 
 ---
 #### webis-uniqa-ax-lin 
-[**`Results`**](./results.md#webis-uniqa-ax-lin), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-lin.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-lin), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-lin.pdf) 
+[**`Results`**](./results.md#webis-uniqa-ax-lin) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-lin.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-lin) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-lin.pdf) 
 
 - :material-rename: **Run ID:** webis-uniqa-ax-lin 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -1037,7 +1037,7 @@
 
 ---
 #### webis-uniqa-ax-pol 
-[**`Results`**](./results.md#webis-uniqa-ax-pol), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-pol.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-pol), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-pol.pdf) 
+[**`Results`**](./results.md#webis-uniqa-ax-pol) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-ax-pol.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-ax-pol) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-ax-pol.pdf) 
 
 - :material-rename: **Run ID:** webis-uniqa-ax-pol 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -1051,7 +1051,7 @@
 
 ---
 #### webis-uniqa-dis 
-[**`Results`**](./results.md#webis-uniqa-dis), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-dis.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-dis), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-dis.pdf) 
+[**`Results`**](./results.md#webis-uniqa-dis) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-uniqa-dis.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-uniqa-dis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-uniqa-dis.pdf) 
 
 - :material-rename: **Run ID:** webis-uniqa-dis 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -1065,7 +1065,7 @@
 
 ---
 #### webis-verasent-dis 
-[**`Results`**](./results.md#webis-verasent-dis), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation), [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-verasent-dis.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-verasent-dis), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-verasent-dis.pdf) 
+[**`Results`**](./results.md#webis-verasent-dis) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2022-deep-learning-and-health-misinformation) | [**`Input`**](https://trec.nist.gov/results/trec31/misinfo/input.webis-verasent-dis.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/misinfo/summary.webis-verasent-dis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/misinfo/webis-verasent-dis.pdf) 
 
 - :material-rename: **Run ID:** webis-verasent-dis 
 - :fontawesome-solid-user-group: **Participant:** Webis 

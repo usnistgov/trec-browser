@@ -1,7 +1,7 @@
 # Runs - HARD 2004 
 
 #### chasbasegen 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbasegen.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbasegen.table.pdf) 
 
 - :material-rename: **Run ID:** chasbasegen 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -12,7 +12,7 @@
 
 ---
 #### chasbaseger 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbaseger.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbaseger.table.pdf) 
 
 - :material-rename: **Run ID:** chasbaseger 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -23,7 +23,7 @@
 
 ---
 #### chasbaserel 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbaserel.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbaserel.table.pdf) 
 
 - :material-rename: **Run ID:** chasbaserel 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -34,7 +34,7 @@
 
 ---
 #### chasbcsubfam 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbcsubfam.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbcsubfam.table.pdf) 
 
 - :material-rename: **Run ID:** chasbcsubfam 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -45,7 +45,7 @@
 
 ---
 #### chasbsubfam 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbsubfam.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasbsubfam.table.pdf) 
 
 - :material-rename: **Run ID:** chasbsubfam 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -56,7 +56,7 @@
 
 ---
 #### chasccsubfam 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasccsubfam.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasccsubfam.table.pdf) 
 
 - :material-rename: **Run ID:** chasccsubfam 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -67,7 +67,7 @@
 
 ---
 #### chascfd 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfd.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfd.table.pdf) 
 
 - :material-rename: **Run ID:** chascfd 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -78,7 +78,7 @@
 
 ---
 #### chascfgen 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfgen.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfgen.table.pdf) 
 
 - :material-rename: **Run ID:** chascfgen 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -89,7 +89,7 @@
 
 ---
 #### chascfger 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfger.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfger.table.pdf) 
 
 - :material-rename: **Run ID:** chascfger 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -100,7 +100,7 @@
 
 ---
 #### chascfrel 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfrel.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfrel.table.pdf) 
 
 - :material-rename: **Run ID:** chascfrel 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -111,7 +111,7 @@
 
 ---
 #### chascfsubfam 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfsubfam.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfsubfam.table.pdf) 
 
 - :material-rename: **Run ID:** chascfsubfam 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -122,7 +122,7 @@
 
 ---
 #### chascfw 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfw.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfw.table.pdf) 
 
 - :material-rename: **Run ID:** chascfw 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -133,7 +133,7 @@
 
 ---
 #### chascfwd 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfwd.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chascfwd.table.pdf) 
 
 - :material-rename: **Run ID:** chascfwd 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -144,7 +144,7 @@
 
 ---
 #### chasdcfd 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfd.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfd.table.pdf) 
 
 - :material-rename: **Run ID:** chasdcfd 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -155,7 +155,7 @@
 
 ---
 #### chasdcfw 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfw.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfw.table.pdf) 
 
 - :material-rename: **Run ID:** chasdcfw 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -166,7 +166,7 @@
 
 ---
 #### chasdcfwd 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfwd.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasdcfwd.table.pdf) 
 
 - :material-rename: **Run ID:** chasdcfwd 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -177,7 +177,7 @@
 
 ---
 #### chasregenger 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasregenger.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chasregenger.table.pdf) 
 
 - :material-rename: **Run ID:** chasregenger 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -188,7 +188,7 @@
 
 ---
 #### chastdn 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chastdn.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/chastdn.table.pdf) 
 
 - :material-rename: **Run ID:** chastdn 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -199,7 +199,7 @@
 
 ---
 #### CL102TDN 
-[**`Participants`**](./participants.md#clairvoyance), [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CL102TDN.table.pdf) 
+[**`Participants`**](./participants.md#clairvoyance) | [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CL102TDN.table.pdf) 
 
 - :material-rename: **Run ID:** CL102TDN 
 - :fontawesome-solid-user-group: **Participant:** clairvoyance 
@@ -210,7 +210,7 @@
 
 ---
 #### CLAI1 
-[**`Participants`**](./participants.md#clairvoyance), [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CLAI1.table.pdf) 
+[**`Participants`**](./participants.md#clairvoyance) | [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CLAI1.table.pdf) 
 
 - :material-rename: **Run ID:** CLAI1 
 - :fontawesome-solid-user-group: **Participant:** clairvoyance 
@@ -221,7 +221,7 @@
 
 ---
 #### CLAI2 
-[**`Participants`**](./participants.md#clairvoyance), [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CLAI2.table.pdf) 
+[**`Participants`**](./participants.md#clairvoyance) | [**`Proceedings`**](./proceedings.md#trec-2004-hard-track-experiments-in-clustering) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/CLAI2.table.pdf) 
 
 - :material-rename: **Run ID:** CLAI2 
 - :fontawesome-solid-user-group: **Participant:** clairvoyance 
@@ -232,7 +232,7 @@
 
 ---
 #### ISCAS 
-[**`Participants`**](./participants.md#cassun), [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/ISCAS.table.pdf) 
+[**`Participants`**](./participants.md#cassun) | [**`Proceedings`**](./proceedings.md#iscas-at-trec-2004-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/ISCAS.table.pdf) 
 
 - :material-rename: **Run ID:** ISCAS 
 - :fontawesome-solid-user-group: **Participant:** cas.sun 
@@ -243,7 +243,7 @@
 
 ---
 #### MSRCBaseline 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCBaseline.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCBaseline.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCBaseline 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -254,7 +254,7 @@
 
 ---
 #### MSRCh4SD 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SD.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SD.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SD 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -265,7 +265,7 @@
 
 ---
 #### MSRCh4SG 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SG.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SG.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SG 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -276,7 +276,7 @@
 
 ---
 #### MSRCh4SGB 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SGB.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SGB.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SGB 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -287,7 +287,7 @@
 
 ---
 #### MSRCh4SSn 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSn.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSn.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SSn 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -298,7 +298,7 @@
 
 ---
 #### MSRCh4SSnB 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnB.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnB.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SSnB 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -309,7 +309,7 @@
 
 ---
 #### MSRCh4SSnG 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnG.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnG.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SSnG 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -320,7 +320,7 @@
 
 ---
 #### MSRCh4SSnGB 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnGB.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnGB.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SSnGB 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -331,7 +331,7 @@
 
 ---
 #### MSRCh4SSnGBD 
-[**`Participants`**](./participants.md#microsoftrobertson), [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnGBD.table.pdf) 
+[**`Participants`**](./participants.md#microsoftrobertson) | [**`Proceedings`**](./proceedings.md#microsoft-cambridge-at-trec-13-web-and-hard-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/MSRCh4SSnGBD.table.pdf) 
 
 - :material-rename: **Run ID:** MSRCh4SSnGBD 
 - :fontawesome-solid-user-group: **Participant:** microsoft.robertson 
@@ -342,7 +342,7 @@
 
 ---
 #### RGU0 
-[**`Participants`**](./participants.md#robertgordonu), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGU0.table.pdf) 
+[**`Participants`**](./participants.md#robertgordonu) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGU0.table.pdf) 
 
 - :material-rename: **Run ID:** RGU0 
 - :fontawesome-solid-user-group: **Participant:** robert.gordon.u 
@@ -353,7 +353,7 @@
 
 ---
 #### RGUE1 
-[**`Participants`**](./participants.md#robertgordonu), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE1.table.pdf) 
+[**`Participants`**](./participants.md#robertgordonu) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE1.table.pdf) 
 
 - :material-rename: **Run ID:** RGUE1 
 - :fontawesome-solid-user-group: **Participant:** robert.gordon.u 
@@ -364,7 +364,7 @@
 
 ---
 #### RGUE10 
-[**`Participants`**](./participants.md#robertgordonu), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE10.table.pdf) 
+[**`Participants`**](./participants.md#robertgordonu) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE10.table.pdf) 
 
 - :material-rename: **Run ID:** RGUE10 
 - :fontawesome-solid-user-group: **Participant:** robert.gordon.u 
@@ -375,7 +375,7 @@
 
 ---
 #### RGUE5 
-[**`Participants`**](./participants.md#robertgordonu), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE5.table.pdf) 
+[**`Participants`**](./participants.md#robertgordonu) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE5.table.pdf) 
 
 - :material-rename: **Run ID:** RGUE5 
 - :fontawesome-solid-user-group: **Participant:** robert.gordon.u 
@@ -386,7 +386,7 @@
 
 ---
 #### RGUE6 
-[**`Participants`**](./participants.md#robertgordonu), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE6.table.pdf) 
+[**`Participants`**](./participants.md#robertgordonu) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/RGUE6.table.pdf) 
 
 - :material-rename: **Run ID:** RGUE6 
 - :fontawesome-solid-user-group: **Participant:** robert.gordon.u 
@@ -397,7 +397,7 @@
 
 ---
 #### rutinb 
-[**`Participants`**](./participants.md#rutgersbelkin), [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/rutinb.table.pdf) 
+[**`Participants`**](./participants.md#rutgersbelkin) | [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/rutinb.table.pdf) 
 
 - :material-rename: **Run ID:** rutinb 
 - :fontawesome-solid-user-group: **Participant:** rutgers.belkin 
@@ -408,7 +408,7 @@
 
 ---
 #### Rutleb 
-[**`Participants`**](./participants.md#rutgersbelkin), [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutleb.table.pdf) 
+[**`Participants`**](./participants.md#rutgersbelkin) | [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutleb.table.pdf) 
 
 - :material-rename: **Run ID:** Rutleb 
 - :fontawesome-solid-user-group: **Participant:** rutgers.belkin 
@@ -419,7 +419,7 @@
 
 ---
 #### Rutlet1 
-[**`Participants`**](./participants.md#rutgersbelkin), [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutlet1.table.pdf) 
+[**`Participants`**](./participants.md#rutgersbelkin) | [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutlet1.table.pdf) 
 
 - :material-rename: **Run ID:** Rutlet1 
 - :fontawesome-solid-user-group: **Participant:** rutgers.belkin 
@@ -430,7 +430,7 @@
 
 ---
 #### Rutlet2 
-[**`Participants`**](./participants.md#rutgersbelkin), [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutlet2.table.pdf) 
+[**`Participants`**](./participants.md#rutgersbelkin) | [**`Proceedings`**](./proceedings.md#rutgers-hard-track-experiences-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/Rutlet2.table.pdf) 
 
 - :material-rename: **Run ID:** Rutlet2 
 - :fontawesome-solid-user-group: **Participant:** rutgers.belkin 
@@ -441,7 +441,7 @@
 
 ---
 #### THUKEGbab1 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbab1.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbab1.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGbab1 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -452,7 +452,7 @@
 
 ---
 #### THUKEGbmkd 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbmkd.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbmkd.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGbmkd 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -463,7 +463,7 @@
 
 ---
 #### THUKEGbmxd 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbmxd.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGbmxd.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGbmxd 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -474,7 +474,7 @@
 
 ---
 #### THUKEGDOC13 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGDOC13.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGDOC13.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGDOC13 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -485,7 +485,7 @@
 
 ---
 #### THUKEGDOC14 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGDOC14.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGDOC14.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGDOC14 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -496,7 +496,7 @@
 
 ---
 #### THUKEGMFT3 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGMFT3.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGMFT3.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGMFT3 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -507,7 +507,7 @@
 
 ---
 #### THUKEGRMDF12 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMDF12.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMDF12.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRMDF12 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -518,7 +518,7 @@
 
 ---
 #### THUKEGRMDT7 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMDT7.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMDT7.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRMDT7 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -529,7 +529,7 @@
 
 ---
 #### THUKEGRMRD6 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMRD6.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMRD6.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRMRD6 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -540,7 +540,7 @@
 
 ---
 #### THUKEGRMRF10 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMRF10.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRMRF10.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRMRF10 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -551,7 +551,7 @@
 
 ---
 #### THUKEGRS1 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRS1.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRS1.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRS1 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -562,7 +562,7 @@
 
 ---
 #### THUKEGRSF2 
-[**`Participants`**](./participants.md#tsinghuakeg), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRSF2.table.pdf) 
+[**`Participants`**](./participants.md#tsinghuakeg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/THUKEGRSF2.table.pdf) 
 
 - :material-rename: **Run ID:** THUKEGRSF2 
 - :fontawesome-solid-user-group: **Participant:** tsinghua.keg 
@@ -573,7 +573,7 @@
 
 ---
 #### UCbasedocD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasedocD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -584,7 +584,7 @@
 
 ---
 #### UCbasedocT 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocT.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocT.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasedocT 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -595,7 +595,7 @@
 
 ---
 #### UCbasedocTD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocTD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasedocTD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasedocTD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -606,7 +606,7 @@
 
 ---
 #### UCbasepassD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasepassD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -617,7 +617,7 @@
 
 ---
 #### UCbasepassT 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassT.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassT.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasepassT 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -628,7 +628,7 @@
 
 ---
 #### UCbasepassTD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassTD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepassTD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasepassTD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -639,7 +639,7 @@
 
 ---
 #### UCbasepD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasepD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -650,7 +650,7 @@
 
 ---
 #### UCbasepTD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepTD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCbasepTD.table.pdf) 
 
 - :material-rename: **Run ID:** UCbasepTD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -661,7 +661,7 @@
 
 ---
 #### UCHardBs1 
-[**`Participants`**](./participants.md#ucincinnati), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCHardBs1.table.pdf) 
+[**`Participants`**](./participants.md#ucincinnati) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCHardBs1.table.pdf) 
 
 - :material-rename: **Run ID:** UCHardBs1 
 - :fontawesome-solid-user-group: **Participant:** u.cincinnati 
@@ -672,7 +672,7 @@
 
 ---
 #### UCHardF1 
-[**`Participants`**](./participants.md#ucincinnati), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCHardF1.table.pdf) 
+[**`Participants`**](./participants.md#ucincinnati) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCHardF1.table.pdf) 
 
 - :material-rename: **Run ID:** UCHardF1 
 - :fontawesome-solid-user-group: **Participant:** u.cincinnati 
@@ -683,7 +683,7 @@
 
 ---
 #### UCmetadocD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetadocD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetadocD.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetadocD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -694,7 +694,7 @@
 
 ---
 #### UCmetadocTD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetadocTD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetadocTD.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetadocTD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -705,7 +705,7 @@
 
 ---
 #### UCmetaf2D 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2D.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2D.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetaf2D 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -716,7 +716,7 @@
 
 ---
 #### UCmetaf2T 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2T.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2T.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetaf2T 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -727,7 +727,7 @@
 
 ---
 #### UCmetaf2TD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2TD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetaf2TD.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetaf2TD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -738,7 +738,7 @@
 
 ---
 #### UCmetarr2TD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetarr2TD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetarr2TD.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetarr2TD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -749,7 +749,7 @@
 
 ---
 #### UCmetarrTD 
-[**`Participants`**](./participants.md#uchicago), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetarrTD.table.pdf) 
+[**`Participants`**](./participants.md#uchicago) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UCmetarrTD.table.pdf) 
 
 - :material-rename: **Run ID:** UCmetarrTD 
 - :fontawesome-solid-user-group: **Participant:** u.chicago 
@@ -760,7 +760,7 @@
 
 ---
 #### uiucHARDb0 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDb0.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDb0.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDb0 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -771,7 +771,7 @@
 
 ---
 #### uiucHARDb1 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDb1.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDb1.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDb1 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -782,7 +782,7 @@
 
 ---
 #### uiucHARDf0 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf0.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf0.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDf0 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -793,7 +793,7 @@
 
 ---
 #### uiucHARDf1 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf1.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf1.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDf1 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -804,7 +804,7 @@
 
 ---
 #### uiucHARDf2 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf2.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf2.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDf2 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -815,7 +815,7 @@
 
 ---
 #### uiucHARDf3 
-[**`Participants`**](./participants.md#uillinoisuc), [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf3.table.pdf) 
+[**`Participants`**](./participants.md#uillinoisuc) | [**`Proceedings`**](./proceedings.md#uiuc-in-hard-2004passage-retrieval-using-hmms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/uiucHARDf3.table.pdf) 
 
 - :material-rename: **Run ID:** uiucHARDf3 
 - :fontawesome-solid-user-group: **Participant:** u.illinois.uc 
@@ -826,7 +826,7 @@
 
 ---
 #### UMAREXPR1 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR1.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR1.table.pdf) 
 
 - :material-rename: **Run ID:** UMAREXPR1 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -837,7 +837,7 @@
 
 ---
 #### UMAREXPR3 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR3.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR3.table.pdf) 
 
 - :material-rename: **Run ID:** UMAREXPR3 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -848,7 +848,7 @@
 
 ---
 #### UMAREXPR5 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR5.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMAREXPR5.table.pdf) 
 
 - :material-rename: **Run ID:** UMAREXPR5 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -859,7 +859,7 @@
 
 ---
 #### UMassBaseQL 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseQL.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseQL.table.pdf) 
 
 - :material-rename: **Run ID:** UMassBaseQL 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -870,7 +870,7 @@
 
 ---
 #### UMassBaseRM3 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseRM3.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseRM3.table.pdf) 
 
 - :material-rename: **Run ID:** UMassBaseRM3 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -881,7 +881,7 @@
 
 ---
 #### UMassBaseSVM 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseSVM.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassBaseSVM.table.pdf) 
 
 - :material-rename: **Run ID:** UMassBaseSVM 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -892,7 +892,7 @@
 
 ---
 #### UMassC2 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassC2.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassC2.table.pdf) 
 
 - :material-rename: **Run ID:** UMassC2 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -903,7 +903,7 @@
 
 ---
 #### UMassC3 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassC3.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassC3.table.pdf) 
 
 - :material-rename: **Run ID:** UMassC3 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -914,7 +914,7 @@
 
 ---
 #### UMassCFC 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCFC.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCFC.table.pdf) 
 
 - :material-rename: **Run ID:** UMassCFC 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -925,7 +925,7 @@
 
 ---
 #### UMassCFMC 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCFMC.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCFMC.table.pdf) 
 
 - :material-rename: **Run ID:** UMassCFMC 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -936,7 +936,7 @@
 
 ---
 #### UMassCMC 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCMC.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCMC.table.pdf) 
 
 - :material-rename: **Run ID:** UMassCMC 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -947,7 +947,7 @@
 
 ---
 #### UMassCVC 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCVC.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassCVC.table.pdf) 
 
 - :material-rename: **Run ID:** UMassCVC 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -958,7 +958,7 @@
 
 ---
 #### UMassF 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassF.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassF.table.pdf) 
 
 - :material-rename: **Run ID:** UMassF 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -969,7 +969,7 @@
 
 ---
 #### UMassMerge 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassMerge.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassMerge.table.pdf) 
 
 - :material-rename: **Run ID:** UMassMerge 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -980,7 +980,7 @@
 
 ---
 #### UMassRGG 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassRGG.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassRGG.table.pdf) 
 
 - :material-rename: **Run ID:** UMassRGG 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -991,7 +991,7 @@
 
 ---
 #### UMassVPMM 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassVPMM.table.pdf) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2004-novelty-and-hard) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMassVPMM.table.pdf) 
 
 - :material-rename: **Run ID:** UMassVPMM 
 - :fontawesome-solid-user-group: **Participant:** u.mass 
@@ -1002,7 +1002,7 @@
 
 ---
 #### UMDBLBRF 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLBRF.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLBRF.table.pdf) 
 
 - :material-rename: **Run ID:** UMDBLBRF 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -1013,7 +1013,7 @@
 
 ---
 #### UMDBLITFLOC 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLITFLOC.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLITFLOC.table.pdf) 
 
 - :material-rename: **Run ID:** UMDBLITFLOC 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -1024,7 +1024,7 @@
 
 ---
 #### UMDBLTFAIDF 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLTFAIDF.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLTFAIDF.table.pdf) 
 
 - :material-rename: **Run ID:** UMDBLTFAIDF 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -1035,7 +1035,7 @@
 
 ---
 #### UMDBLTITDES 
-[**`Participants`**](./participants.md#umdbestumiacs), [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLTITDES.table.pdf) 
+[**`Participants`**](./participants.md#umdbestumiacs) | [**`Proceedings`**](./proceedings.md#improving-passage-retrieval-using-interactive-elicition-and-statistical-modeling) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UMDBLTITDES.table.pdf) 
 
 - :material-rename: **Run ID:** UMDBLTITDES 
 - :fontawesome-solid-user-group: **Participant:** u.md.best.umiacs 
@@ -1046,7 +1046,7 @@
 
 ---
 #### UNCHARDq2 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1057,7 +1057,7 @@
 
 ---
 #### UNCHARDq234 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq234.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq234.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq234 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1068,7 +1068,7 @@
 
 ---
 #### UNCHARDq234m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq234m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq234m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq234m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1079,7 +1079,7 @@
 
 ---
 #### UNCHARDq2m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1090,7 +1090,7 @@
 
 ---
 #### UNCHARDq2q3 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q3.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q3.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2q3 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1101,7 +1101,7 @@
 
 ---
 #### UNCHARDq2q3m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q3m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q3m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2q3m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1112,7 +1112,7 @@
 
 ---
 #### UNCHARDq2q4 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q4.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q4.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2q4 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1123,7 +1123,7 @@
 
 ---
 #### UNCHARDq2q4m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q4m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq2q4m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq2q4m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1134,7 +1134,7 @@
 
 ---
 #### UNCHARDq3 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq3 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1145,7 +1145,7 @@
 
 ---
 #### UNCHARDq3m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq3m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1156,7 +1156,7 @@
 
 ---
 #### UNCHARDq3q4 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3q4.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3q4.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq3q4 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1167,7 +1167,7 @@
 
 ---
 #### UNCHARDq3q4m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3q4m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq3q4m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq3q4m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1178,7 +1178,7 @@
 
 ---
 #### UNCHARDq4 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq4.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq4.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq4 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1189,7 +1189,7 @@
 
 ---
 #### UNCHARDq4m 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq4m.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDq4m.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDq4m 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1200,7 +1200,7 @@
 
 ---
 #### UNCHARDrun1 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDrun1.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDrun1.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDrun1 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1211,7 +1211,7 @@
 
 ---
 #### UNCHARDtdn1 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDtdn1.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDtdn1.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDtdn1 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1222,7 +1222,7 @@
 
 ---
 #### UNCHARDtdn2 
-[**`Participants`**](./participants.md#unorthcarolina), [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDtdn2.table.pdf) 
+[**`Participants`**](./participants.md#unorthcarolina) | [**`Proceedings`**](./proceedings.md#university-of-north-carolina-s-hard-track-experiments-at-trec-2004) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UNCHARDtdn2.table.pdf) 
 
 - :material-rename: **Run ID:** UNCHARDtdn2 
 - :fontawesome-solid-user-group: **Participant:** u.northcarolina 
@@ -1233,7 +1233,7 @@
 
 ---
 #### utwenteB111 
-[**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB111.table.pdf) 
+[**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB111.table.pdf) 
 
 - :material-rename: **Run ID:** utwenteB111 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1244,7 +1244,7 @@
 
 ---
 #### utwenteB21 
-[**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB21.table.pdf) 
+[**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB21.table.pdf) 
 
 - :material-rename: **Run ID:** utwenteB21 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1255,7 +1255,7 @@
 
 ---
 #### utwenteB421 
-[**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB421.table.pdf) 
+[**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteB421.table.pdf) 
 
 - :material-rename: **Run ID:** utwenteB421 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1266,7 +1266,7 @@
 
 ---
 #### utwenteM111 
-[**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteM111.table.pdf) 
+[**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#conceptual-language-models-for-context-aware-text-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/utwenteM111.table.pdf) 
 
 - :material-rename: **Run ID:** utwenteM111 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -1277,7 +1277,7 @@
 
 ---
 #### UwatBaseT 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UwatBaseT.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UwatBaseT.table.pdf) 
 
 - :material-rename: **Run ID:** UwatBaseT 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1288,7 +1288,7 @@
 
 ---
 #### UwatBaseTD 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UwatBaseTD.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UwatBaseTD.table.pdf) 
 
 - :material-rename: **Run ID:** UwatBaseTD 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1299,7 +1299,7 @@
 
 ---
 #### UWATexp1 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp1.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp1.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp1 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1310,7 +1310,7 @@
 
 ---
 #### UWATexp2 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp2.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp2.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp2 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1321,7 +1321,7 @@
 
 ---
 #### UWATexp3 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp3.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp3.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp3 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1332,7 +1332,7 @@
 
 ---
 #### UWATexp4 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp4.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp4.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp4 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1343,7 +1343,7 @@
 
 ---
 #### UWATexp5 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp5.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp5.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp5 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1354,7 +1354,7 @@
 
 ---
 #### UWATexp6 
-[**`Participants`**](./participants.md#uwaterloovechtomova), [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp6.table.pdf) 
+[**`Participants`**](./participants.md#uwaterloovechtomova) | [**`Proceedings`**](./proceedings.md#approaches-to-high-accuracy-retrieval-phrase-based-search-experiments-in-the-hard-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/UWATexp6.table.pdf) 
 
 - :material-rename: **Run ID:** UWATexp6 
 - :fontawesome-solid-user-group: **Participant:** u.waterloo.vechtomova 
@@ -1365,7 +1365,7 @@
 
 ---
 #### wdoqlz 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdoqlz.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdoqlz.table.pdf) 
 
 - :material-rename: **Run ID:** wdoqlz 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1376,7 +1376,7 @@
 
 ---
 #### wdoqlz1 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdoqlz1.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdoqlz1.table.pdf) 
 
 - :material-rename: **Run ID:** wdoqlz1 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1387,7 +1387,7 @@
 
 ---
 #### wdvqlz 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlz.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlz.table.pdf) 
 
 - :material-rename: **Run ID:** wdvqlz 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1398,7 +1398,7 @@
 
 ---
 #### wdvqlz1 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlz1.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlz1.table.pdf) 
 
 - :material-rename: **Run ID:** wdvqlz1 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1409,7 +1409,7 @@
 
 ---
 #### wdvqlzcf1 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlzcf1.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlzcf1.table.pdf) 
 
 - :material-rename: **Run ID:** wdvqlzcf1 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1420,7 +1420,7 @@
 
 ---
 #### wdvqlzp 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlzp.table.pdf) 
+[**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2004-genomics-hard-robust-and-web-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/wdvqlzp.table.pdf) 
 
 - :material-rename: **Run ID:** wdvqlzp 
 - :fontawesome-solid-user-group: **Participant:** indiana.u.yang 
@@ -1431,7 +1431,7 @@
 
 ---
 #### york04ha1 
-[**`Participants`**](./participants.md#yorku), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04ha1.table.pdf) 
+[**`Participants`**](./participants.md#yorku) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04ha1.table.pdf) 
 
 - :material-rename: **Run ID:** york04ha1 
 - :fontawesome-solid-user-group: **Participant:** york.u 
@@ -1442,7 +1442,7 @@
 
 ---
 #### york04ha2 
-[**`Participants`**](./participants.md#yorku), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04ha2.table.pdf) 
+[**`Participants`**](./participants.md#yorku) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04ha2.table.pdf) 
 
 - :material-rename: **Run ID:** york04ha2 
 - :fontawesome-solid-user-group: **Participant:** york.u 
@@ -1453,7 +1453,7 @@
 
 ---
 #### york04hb1 
-[**`Participants`**](./participants.md#yorku), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hb1.table.pdf) 
+[**`Participants`**](./participants.md#yorku) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hb1.table.pdf) 
 
 - :material-rename: **Run ID:** york04hb1 
 - :fontawesome-solid-user-group: **Participant:** york.u 
@@ -1464,7 +1464,7 @@
 
 ---
 #### york04hm1 
-[**`Participants`**](./participants.md#yorku), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hm1.table.pdf) 
+[**`Participants`**](./participants.md#yorku) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hm1.table.pdf) 
 
 - :material-rename: **Run ID:** york04hm1 
 - :fontawesome-solid-user-group: **Participant:** york.u 
@@ -1475,7 +1475,7 @@
 
 ---
 #### york04hm2 
-[**`Participants`**](./participants.md#yorku), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hm2.table.pdf) 
+[**`Participants`**](./participants.md#yorku) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2004-hard-and-genomics-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec13/appendices/HARD/york04hm2.table.pdf) 
 
 - :material-rename: **Run ID:** york04hm2 
 - :fontawesome-solid-user-group: **Participant:** york.u 

@@ -1,6 +1,6 @@
 # Overview - Crowdsourcing 2011
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

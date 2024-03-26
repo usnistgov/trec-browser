@@ -2,7 +2,7 @@
 
 ## NeuCLIR
 
-[`Overview`](./neuclir/overview.md), [`Proceedings`](./neuclir/proceedings.md), [`Data`](./neuclir/data.md), [`Results`](./neuclir/results.md), [`Runs`](./neuclir/runs.md), [`Participants`](./neuclir/participants.md)
+[`Overview`](./neuclir/overview.md) | [`Proceedings`](./neuclir/proceedings.md) | [`Data`](./neuclir/data.md) | [`Results`](./neuclir/results.md) | [`Runs`](./neuclir/runs.md) | [`Participants`](./neuclir/participants.md)
 
 {==
 
@@ -27,7 +27,7 @@ Cross-language Information Retrieval (CLIR) has been studied at TREC and subsequ
 
 ## Health Misinformation
 
-[`Overview`](./misinfo/overview.md), [`Proceedings`](./misinfo/proceedings.md), [`Data`](./misinfo/data.md), [`Results`](./misinfo/results.md), [`Runs`](./misinfo/runs.md), [`Participants`](./misinfo/participants.md)
+[`Overview`](./misinfo/overview.md) | [`Proceedings`](./misinfo/proceedings.md) | [`Data`](./misinfo/data.md) | [`Results`](./misinfo/results.md) | [`Runs`](./misinfo/runs.md) | [`Participants`](./misinfo/participants.md)
 
 {==
 
@@ -48,7 +48,7 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 
 ## Deep Learning
 
-[`Overview`](./deep/overview.md), [`Proceedings`](./deep/proceedings.md), [`Data`](./deep/data.md), [`Results`](./deep/results.md), [`Runs`](./deep/runs.md), [`Participants`](./deep/participants.md)
+[`Overview`](./deep/overview.md) | [`Proceedings`](./deep/proceedings.md) | [`Data`](./deep/data.md) | [`Results`](./deep/results.md) | [`Runs`](./deep/runs.md) | [`Participants`](./deep/participants.md)
 
 {==
 
@@ -71,7 +71,7 @@ The Deep Learning track focuses on IR tasks where a large training set is availa
 
 ## Conversational Assistance
 
-[`Overview`](./cast/overview.md), [`Proceedings`](./cast/proceedings.md), [`Data`](./cast/data.md), [`Results`](./cast/results.md), [`Runs`](./cast/runs.md), [`Participants`](./cast/participants.md)
+[`Overview`](./cast/overview.md) | [`Proceedings`](./cast/proceedings.md) | [`Data`](./cast/data.md) | [`Results`](./cast/results.md) | [`Runs`](./cast/runs.md) | [`Participants`](./cast/participants.md)
 
 {==
 
@@ -95,7 +95,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ## Clinical Trials
 
-[`Overview`](./trials/overview.md), [`Proceedings`](./trials/proceedings.md), [`Data`](./trials/data.md), [`Results`](./trials/results.md), [`Runs`](./trials/runs.md), [`Participants`](./trials/participants.md)
+[`Overview`](./trials/overview.md) | [`Proceedings`](./trials/proceedings.md) | [`Data`](./trials/data.md) | [`Results`](./trials/results.md) | [`Runs`](./trials/runs.md) | [`Participants`](./trials/participants.md)
 
 {==
 
@@ -116,7 +116,7 @@ The goal of the Clinical Trials track is to focus research on the clinical trial
 
 ## Fair Ranking
 
-[`Overview`](./fair/overview.md), [`Proceedings`](./fair/proceedings.md), [`Data`](./fair/data.md), [`Runs`](./fair/runs.md), [`Participants`](./fair/participants.md)
+[`Overview`](./fair/overview.md) | [`Proceedings`](./fair/proceedings.md) | [`Data`](./fair/data.md) | [`Runs`](./fair/runs.md) | [`Participants`](./fair/participants.md)
 
 {==
 
@@ -138,7 +138,7 @@ The Fair Ranking track focuses on building two-sided systems that offer fair exp
 
 ## CrisisFACTs
 
-[`Overview`](./crisis/overview.md), [`Proceedings`](./crisis/proceedings.md), [`Data`](./crisis/data.md), [`Runs`](./crisis/runs.md), [`Participants`](./crisis/participants.md)
+[`Overview`](./crisis/overview.md) | [`Proceedings`](./crisis/proceedings.md) | [`Data`](./crisis/data.md) | [`Runs`](./crisis/runs.md) | [`Participants`](./crisis/participants.md)
 
 {==
 

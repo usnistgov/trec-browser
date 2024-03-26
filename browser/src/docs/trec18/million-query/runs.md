@@ -1,7 +1,7 @@
 # Runs - Million Query 2009 
 
 #### iiithAuEQ 
-[**`Results`**](./results.md#iiithaueq), [**`Participants`**](./participants.md#siel), [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithAuEQ.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithAuEQ.main.pdf) 
+[**`Results`**](./results.md#iiithaueq) | [**`Participants`**](./participants.md#siel) | [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithAuEQ.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithAuEQ.main.pdf) 
 
 - :material-rename: **Run ID:** iiithAuEQ 
 - :fontawesome-solid-user-group: **Participant:** SIEL 
@@ -14,7 +14,7 @@
 
 ---
 #### iiithAuthPN 
-[**`Results`**](./results.md#iiithauthpn), [**`Participants`**](./participants.md#siel), [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithAuthPN.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithAuthPN.main.pdf) 
+[**`Results`**](./results.md#iiithauthpn) | [**`Participants`**](./participants.md#siel) | [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithAuthPN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithAuthPN.main.pdf) 
 
 - :material-rename: **Run ID:** iiithAuthPN 
 - :fontawesome-solid-user-group: **Participant:** SIEL 
@@ -27,7 +27,7 @@
 
 ---
 #### iiithExpQry 
-[**`Results`**](./results.md#iiithexpqry), [**`Participants`**](./participants.md#siel), [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithExpQry.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithExpQry.main.pdf) 
+[**`Results`**](./results.md#iiithexpqry) | [**`Participants`**](./participants.md#siel) | [**`Proceedings`**](./proceedings.md#iiit-hyderabad-at-million-query-track-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.iiithExpQry.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SIEL.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/iiithExpQry.main.pdf) 
 
 - :material-rename: **Run ID:** iiithExpQry 
 - :fontawesome-solid-user-group: **Participant:** SIEL 
@@ -40,7 +40,7 @@
 
 ---
 #### irra1mqa 
-[**`Results`**](./results.md#irra1mqa), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra1mqa.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra1mqa.main.pdf) 
+[**`Results`**](./results.md#irra1mqa) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra1mqa.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra1mqa.main.pdf) 
 
 - :material-rename: **Run ID:** irra1mqa 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -53,7 +53,7 @@
 
 ---
 #### irra1mqd 
-[**`Results`**](./results.md#irra1mqd), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra1mqd.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra1mqd.main.pdf) 
+[**`Results`**](./results.md#irra1mqd) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra1mqd.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra1mqd.main.pdf) 
 
 - :material-rename: **Run ID:** irra1mqd 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -66,7 +66,7 @@
 
 ---
 #### irra2mqa 
-[**`Results`**](./results.md#irra2mqa), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra2mqa.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra2mqa.main.pdf) 
+[**`Results`**](./results.md#irra2mqa) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra2mqa.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra2mqa.main.pdf) 
 
 - :material-rename: **Run ID:** irra2mqa 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -79,7 +79,7 @@
 
 ---
 #### irra2mqd 
-[**`Results`**](./results.md#irra2mqd), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra2mqd.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra2mqd.main.pdf) 
+[**`Results`**](./results.md#irra2mqd) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra2mqd.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra2mqd.main.pdf) 
 
 - :material-rename: **Run ID:** irra2mqd 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -92,7 +92,7 @@
 
 ---
 #### irra3mqd 
-[**`Results`**](./results.md#irra3mqd), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra3mqd.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra3mqd.main.pdf) 
+[**`Results`**](./results.md#irra3mqd) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.irra3mqd.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/irra3mqd.main.pdf) 
 
 - :material-rename: **Run ID:** irra3mqd 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -105,7 +105,7 @@
 
 ---
 #### NeuSvmBase 
-[**`Results`**](./results.md#neusvmbase), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmBase.main.pdf) 
+[**`Results`**](./results.md#neusvmbase) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmBase.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmBase.main.pdf) 
 
 - :material-rename: **Run ID:** NeuSvmBase 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -118,7 +118,7 @@
 
 ---
 #### NeuSvmHE 
-[**`Results`**](./results.md#neusvmhe), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmHE.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmHE.main.pdf) 
+[**`Results`**](./results.md#neusvmhe) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmHE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmHE.main.pdf) 
 
 - :material-rename: **Run ID:** NeuSvmHE 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -131,7 +131,7 @@
 
 ---
 #### NeuSvmPR 
-[**`Results`**](./results.md#neusvmpr), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmPR.main.pdf) 
+[**`Results`**](./results.md#neusvmpr) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmPR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmPR.main.pdf) 
 
 - :material-rename: **Run ID:** NeuSvmPR 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -144,7 +144,7 @@
 
 ---
 #### NeuSvmPRHE 
-[**`Results`**](./results.md#neusvmprhe), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmPRHE.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmPRHE.main.pdf) 
+[**`Results`**](./results.md#neusvmprhe) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmPRHE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmPRHE.main.pdf) 
 
 - :material-rename: **Run ID:** NeuSvmPRHE 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -157,7 +157,7 @@
 
 ---
 #### NeuSvmStefan 
-[**`Results`**](./results.md#neusvmstefan), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmStefan.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmStefan.main.pdf) 
+[**`Results`**](./results.md#neusvmstefan) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.NeuSvmStefan.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/NeuSvmStefan.main.pdf) 
 
 - :material-rename: **Run ID:** NeuSvmStefan 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -170,7 +170,7 @@
 
 ---
 #### Sab9mq1bf1 
-[**`Results`**](./results.md#sab9mq1bf1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq1bf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq1bf1.main.pdf) 
+[**`Results`**](./results.md#sab9mq1bf1) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq1bf1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq1bf1.main.pdf) 
 
 - :material-rename: **Run ID:** Sab9mq1bf1 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -183,7 +183,7 @@
 
 ---
 #### Sab9mq1bf4 
-[**`Results`**](./results.md#sab9mq1bf4), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq1bf4.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq1bf4.main.pdf) 
+[**`Results`**](./results.md#sab9mq1bf4) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq1bf4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq1bf4.main.pdf) 
 
 - :material-rename: **Run ID:** Sab9mq1bf4 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -196,7 +196,7 @@
 
 ---
 #### Sab9mq2bf1 
-[**`Results`**](./results.md#sab9mq2bf1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq2bf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq2bf1.main.pdf) 
+[**`Results`**](./results.md#sab9mq2bf1) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mq2bf1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mq2bf1.main.pdf) 
 
 - :material-rename: **Run ID:** Sab9mq2bf1 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -209,7 +209,7 @@
 
 ---
 #### Sab9mqBase1 
-[**`Results`**](./results.md#sab9mqbase1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mqBase1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mqBase1.main.pdf) 
+[**`Results`**](./results.md#sab9mqbase1) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mqBase1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mqBase1.main.pdf) 
 
 - :material-rename: **Run ID:** Sab9mqBase1 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -222,7 +222,7 @@
 
 ---
 #### Sab9mqBase4 
-[**`Results`**](./results.md#sab9mqbase4), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mqBase4.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mqBase4.main.pdf) 
+[**`Results`**](./results.md#sab9mqbase4) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.Sab9mqBase4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/Sab9mqBase4.main.pdf) 
 
 - :material-rename: **Run ID:** Sab9mqBase4 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -235,7 +235,7 @@
 
 ---
 #### udelIndDM 
-[**`Results`**](./results.md#udelinddm), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndDM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndDM.main.pdf) 
+[**`Results`**](./results.md#udelinddm) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndDM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndDM.main.pdf) 
 
 - :material-rename: **Run ID:** udelIndDM 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -248,7 +248,7 @@
 
 ---
 #### udelIndPR 
-[**`Results`**](./results.md#udelindpr), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndPR.main.pdf) 
+[**`Results`**](./results.md#udelindpr) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndPR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndPR.main.pdf) 
 
 - :material-rename: **Run ID:** udelIndPR 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -261,7 +261,7 @@
 
 ---
 #### udelIndri 
-[**`Results`**](./results.md#udelindri), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndri.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndri.main.pdf) 
+[**`Results`**](./results.md#udelindri) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndri.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndri.main.pdf) 
 
 - :material-rename: **Run ID:** udelIndri 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -274,7 +274,7 @@
 
 ---
 #### udelIndRM 
-[**`Results`**](./results.md#udelindrm), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndRM.main.pdf) 
+[**`Results`**](./results.md#udelindrm) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndRM.main.pdf) 
 
 - :material-rename: **Run ID:** udelIndRM 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -287,7 +287,7 @@
 
 ---
 #### udelIndSP 
-[**`Results`**](./results.md#udelindsp), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndSP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndSP.main.pdf) 
+[**`Results`**](./results.md#udelindsp) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.udelIndSP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/udelIndSP.main.pdf) 
 
 - :material-rename: **Run ID:** udelIndSP 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -300,7 +300,7 @@
 
 ---
 #### UDMQAxBL 
-[**`Results`**](./results.md#udmqaxbl), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxBL.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxBL.main.pdf) 
+[**`Results`**](./results.md#udmqaxbl) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxBL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxBL.main.pdf) 
 
 - :material-rename: **Run ID:** UDMQAxBL 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -313,7 +313,7 @@
 
 ---
 #### UDMQAxBLlink 
-[**`Results`**](./results.md#udmqaxbllink), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxBLlink.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxBLlink.main.pdf) 
+[**`Results`**](./results.md#udmqaxbllink) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxBLlink.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxBLlink.main.pdf) 
 
 - :material-rename: **Run ID:** UDMQAxBLlink 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -326,7 +326,7 @@
 
 ---
 #### UDMQAxQE 
-[**`Results`**](./results.md#udmqaxqe), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQE.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQE.main.pdf) 
+[**`Results`**](./results.md#udmqaxqe) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQE.main.pdf) 
 
 - :material-rename: **Run ID:** UDMQAxQE 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -339,7 +339,7 @@
 
 ---
 #### UDMQAxQEWeb 
-[**`Results`**](./results.md#udmqaxqeweb), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQEWeb.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQEWeb.main.pdf) 
+[**`Results`**](./results.md#udmqaxqeweb) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQEWeb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQEWeb.main.pdf) 
 
 - :material-rename: **Run ID:** UDMQAxQEWeb 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -352,7 +352,7 @@
 
 ---
 #### UDMQAxQEWP 
-[**`Results`**](./results.md#udmqaxqewp), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQEWP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQEWP.main.pdf) 
+[**`Results`**](./results.md#udmqaxqewp) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.UDMQAxQEWP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/UDMQAxQEWP.main.pdf) 
 
 - :material-rename: **Run ID:** UDMQAxQEWP 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -365,7 +365,7 @@
 
 ---
 #### uiuc09Adpt 
-[**`Results`**](./results.md#uiuc09adpt), [**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09Adpt.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09Adpt.main.pdf) 
+[**`Results`**](./results.md#uiuc09adpt) | [**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09Adpt.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09Adpt.main.pdf) 
 
 - :material-rename: **Run ID:** uiuc09Adpt 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -378,7 +378,7 @@
 
 ---
 #### uiuc09GProx 
-[**`Results`**](./results.md#uiuc09gprox), [**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09GProx.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09GProx.main.pdf) 
+[**`Results`**](./results.md#uiuc09gprox) | [**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09GProx.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09GProx.main.pdf) 
 
 - :material-rename: **Run ID:** uiuc09GProx 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -391,7 +391,7 @@
 
 ---
 #### uiuc09KL 
-[**`Results`**](./results.md#uiuc09kl), [**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09KL.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09KL.main.pdf) 
+[**`Results`**](./results.md#uiuc09kl) | [**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09KL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09KL.main.pdf) 
 
 - :material-rename: **Run ID:** uiuc09KL 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -404,7 +404,7 @@
 
 ---
 #### uiuc09MProx 
-[**`Results`**](./results.md#uiuc09mprox), [**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09MProx.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09MProx.main.pdf) 
+[**`Results`**](./results.md#uiuc09mprox) | [**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09MProx.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09MProx.main.pdf) 
 
 - :material-rename: **Run ID:** uiuc09MProx 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -417,7 +417,7 @@
 
 ---
 #### uiuc09RegQL 
-[**`Results`**](./results.md#uiuc09regql), [**`Participants`**](./participants.md#uiuc), [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09RegQL.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09RegQL.main.pdf) 
+[**`Results`**](./results.md#uiuc09regql) | [**`Participants`**](./participants.md#uiuc) | [**`Proceedings`**](./proceedings.md#a-study-of-term-proximity-and-document-weighting-normalization-in-pseudo-relevance-feedbackuiuc-at-trec-2009-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uiuc09RegQL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.UIUC.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uiuc09RegQL.main.pdf) 
 
 - :material-rename: **Run ID:** uiuc09RegQL 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -430,7 +430,7 @@
 
 ---
 #### uogTRMQdpA10 
-[**`Results`**](./results.md#uogtrmqdpa10), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uogTRMQdpA10.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uogTRMQdpA10.main.pdf) 
+[**`Results`**](./results.md#uogtrmqdpa10) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uogTRMQdpA10.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.uogTr.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uogTRMQdpA10.main.pdf) 
 
 - :material-rename: **Run ID:** uogTRMQdpA10 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -443,7 +443,7 @@
 
 ---
 #### uogTRMQdph40 
-[**`Results`**](./results.md#uogtrmqdph40), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uogTRMQdph40.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uogTRMQdph40.main.pdf) 
+[**`Results`**](./results.md#uogtrmqdph40) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/million-query/input.uogTRMQdph40.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/million-query/summary.uogTr.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/mq/uogTRMQdph40.main.pdf) 
 
 - :material-rename: **Run ID:** uogTRMQdph40 
 - :fontawesome-solid-user-group: **Participant:** uogTr 

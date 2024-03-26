@@ -1,6 +1,6 @@
 # Overview - Cross-Language 2001
 
-[`Proceedings`](./proceedings.md), [`Results`](./results.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Results`](./results.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

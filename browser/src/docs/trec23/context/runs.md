@@ -1,7 +1,7 @@
 # Runs - Contextual Suggestion 2014 
 
 #### BJUTa 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-contextual-suggestion-track-hybrid-recommendation-based-on-open-web-information), [**`Input`**](https://trec.nist.gov/results/trec23/context/BJUTa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BJUTa.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-contextual-suggestion-track-hybrid-recommendation-based-on-open-web-information) | [**`Input`**](https://trec.nist.gov/results/trec23/context/BJUTa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BJUTa.pdf) 
 
 - :material-rename: **Run ID:** BJUTa 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -14,7 +14,7 @@
 
 ---
 #### BJUTb 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-contextual-suggestion-track-hybrid-recommendation-based-on-open-web-information), [**`Input`**](https://trec.nist.gov/results/trec23/context/BJUTb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BJUTb.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2014-contextual-suggestion-track-hybrid-recommendation-based-on-open-web-information) | [**`Input`**](https://trec.nist.gov/results/trec23/context/BJUTb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BJUTb.pdf) 
 
 - :material-rename: **Run ID:** BJUTb 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -27,7 +27,7 @@
 
 ---
 #### BUPT_PRIS_01 
-[**`Participants`**](./participants.md#bupt_pris), [**`Input`**](https://trec.nist.gov/results/trec23/context/BUPT_PRIS_01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BUPT_PRIS_01.pdf) 
+[**`Participants`**](./participants.md#bupt_pris) | [**`Input`**](https://trec.nist.gov/results/trec23/context/BUPT_PRIS_01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BUPT_PRIS_01.pdf) 
 
 - :material-rename: **Run ID:** BUPT_PRIS_01 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
@@ -40,7 +40,7 @@
 
 ---
 #### BUPT_PRIS_02 
-[**`Participants`**](./participants.md#bupt_pris), [**`Input`**](https://trec.nist.gov/results/trec23/context/BUPT_PRIS_02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BUPT_PRIS_02.pdf) 
+[**`Participants`**](./participants.md#bupt_pris) | [**`Input`**](https://trec.nist.gov/results/trec23/context/BUPT_PRIS_02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/BUPT_PRIS_02.pdf) 
 
 - :material-rename: **Run ID:** BUPT_PRIS_02 
 - :fontawesome-solid-user-group: **Participant:** BUPT_PRIS 
@@ -53,7 +53,7 @@
 
 ---
 #### cat 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/context/cat.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/cat.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/context/cat.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/cat.pdf) 
 
 - :material-rename: **Run ID:** cat 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -66,7 +66,7 @@
 
 ---
 #### choqrun 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2014-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec23/context/choqrun.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/choqrun.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2014-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec23/context/choqrun.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/choqrun.pdf) 
 
 - :material-rename: **Run ID:** choqrun 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -79,7 +79,7 @@
 
 ---
 #### CWI_CW12.MapWeb 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#better-contextual-suggestions-in-clueweb12-using-domain-knowledge-inferred-from-the-open-web), [**`Input`**](https://trec.nist.gov/results/trec23/context/CWI_CW12.MapWeb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/CWI_CW12.MapWeb.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#better-contextual-suggestions-in-clueweb12-using-domain-knowledge-inferred-from-the-open-web) | [**`Input`**](https://trec.nist.gov/results/trec23/context/CWI_CW12.MapWeb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/CWI_CW12.MapWeb.pdf) 
 
 - :material-rename: **Run ID:** CWI_CW12.MapWeb 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -93,7 +93,7 @@
 
 ---
 #### CWI_CW12_Full 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#better-contextual-suggestions-in-clueweb12-using-domain-knowledge-inferred-from-the-open-web), [**`Input`**](https://trec.nist.gov/results/trec23/context/CWI_CW12_Full.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/CWI_CW12_Full.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#better-contextual-suggestions-in-clueweb12-using-domain-knowledge-inferred-from-the-open-web) | [**`Input`**](https://trec.nist.gov/results/trec23/context/CWI_CW12_Full.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/CWI_CW12_Full.pdf) 
 
 - :material-rename: **Run ID:** CWI_CW12_Full 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -107,7 +107,7 @@
 
 ---
 #### dixlticmu 
-[**`Participants`**](./participants.md#groupxu), [**`Proceedings`**](./proceedings.md#modelling-psychological-needs-for-user-dependent-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec23/context/dixlticmu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/dixlticmu.pdf) 
+[**`Participants`**](./participants.md#groupxu) | [**`Proceedings`**](./proceedings.md#modelling-psychological-needs-for-user-dependent-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec23/context/dixlticmu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/dixlticmu.pdf) 
 
 - :material-rename: **Run ID:** dixlticmu 
 - :fontawesome-solid-user-group: **Participant:** Group.Xu 
@@ -120,7 +120,7 @@
 
 ---
 #### gw1 
-[**`Participants`**](./participants.md#uja), [**`Input`**](https://trec.nist.gov/results/trec23/context/gw1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/gw1.pdf) 
+[**`Participants`**](./participants.md#uja) | [**`Input`**](https://trec.nist.gov/results/trec23/context/gw1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/gw1.pdf) 
 
 - :material-rename: **Run ID:** gw1 
 - :fontawesome-solid-user-group: **Participant:** UJA 
@@ -133,7 +133,7 @@
 
 ---
 #### lda 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/context/lda.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/lda.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/context/lda.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/lda.pdf) 
 
 - :material-rename: **Run ID:** lda 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -146,7 +146,7 @@
 
 ---
 #### Model0 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#venue-recommendation-and-web-search-based-on-anchor-text), [**`Input`**](https://trec.nist.gov/results/trec23/context/Model0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/Model0.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#venue-recommendation-and-web-search-based-on-anchor-text) | [**`Input`**](https://trec.nist.gov/results/trec23/context/Model0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/Model0.pdf) 
 
 - :material-rename: **Run ID:** Model0 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -156,11 +156,11 @@
 - :fontawesome-solid-user-gear: **Type:** clueweb12full 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `8e73e94be927055fc4e2743fe22c6592` 
-- :material-text: **Run description:** In this workshop, we propose a probabilistic model that includes the prior probability of each suggestion candidate, the probability of suggestion candidate-context association and the probability of suggestion candidate-profile association components. In this run, we indexed the content of ClueWeb12 documents which are in the domain of the “yelp, tripadvisor, wikitravel, zagat, xpedia, orbitz and travel.yahoo” websites. A short description for each of the 3 components of the proposed model is given in the following paragraph. In this paragraph, a short description of our method is presented. In fact, this is the procedure that we used to generate our first run. Firstly, we considered pageRank score of each webpage as an evidence of the prior probability of each suggestion candidate. Secondly, we used the language model in order to estimate the probability of suggestion candidate-context association. And lastly, we have not contributed on the probability of suggestion candidate-profile association, so we consider it as a uniform probability for all the users. 
+- :material-text: **Run description:** In this workshop, we propose a probabilistic model that includes the prior probability of each suggestion candidate, the probability of suggestion candidate-context association and the probability of suggestion candidate-profile association components. In this run, we indexed the content of ClueWeb12 documents which are in the domain of the yelp, tripadvisor, wikitravel, zagat, xpedia, orbitz and travel.yahoo websites. A short description for each of the 3 components of the proposed model is given in the following paragraph. In this paragraph, a short description of our method is presented. In fact, this is the procedure that we used to generate our first run. Firstly, we considered pageRank score of each webpage as an evidence of the prior probability of each suggestion candidate. Secondly, we used the language model in order to estimate the probability of suggestion candidate-context association. And lastly, we have not contributed on the probability of suggestion candidate-profile association, so we consider it as a uniform probability for all the users. 
 
 ---
 #### Model1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#venue-recommendation-and-web-search-based-on-anchor-text), [**`Input`**](https://trec.nist.gov/results/trec23/context/Model1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/Model1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#venue-recommendation-and-web-search-based-on-anchor-text) | [**`Input`**](https://trec.nist.gov/results/trec23/context/Model1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/Model1.pdf) 
 
 - :material-rename: **Run ID:** Model1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -170,11 +170,11 @@
 - :fontawesome-solid-user-gear: **Type:** clueweb12full 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `88658db33c0f89d672a0fc6a98877317` 
-- :material-text: **Run description:** In this workshop, we propose a probabilistic model that includes the prior probability of each suggestion candidate, the probability of suggestion candidate-context association and the probability of suggestion candidate-profile association components. In this run, we indexed the anchor text of ClueWeb12 documents which are in the domain of the “yelp, tripadvisor, wikitravel, zagat, xpedia, orbitz and travel.yahoo” websites. A short description for each of the 3 components of the proposed model is given in the following paragraph. In this paragraph, a short description of our method is presented. Firstly, we considered pageRank score of each webpage as an evidence of the prior probability of each suggestion candidate. Secondly, we used a language model in order to estimate the probability of suggestion candidate-context association. And lastly, we have not contributed on the probability of suggestion candidate-profile association so we consider it uniform for all of the users. 
+- :material-text: **Run description:** In this workshop, we propose a probabilistic model that includes the prior probability of each suggestion candidate, the probability of suggestion candidate-context association and the probability of suggestion candidate-profile association components. In this run, we indexed the anchor text of ClueWeb12 documents which are in the domain of the yelp, tripadvisor, wikitravel, zagat, xpedia, orbitz and travel.yahoo websites. A short description for each of the 3 components of the proposed model is given in the following paragraph. In this paragraph, a short description of our method is presented. Firstly, we considered pageRank score of each webpage as an evidence of the prior probability of each suggestion candidate. Secondly, we used a language model in order to estimate the probability of suggestion candidate-context association. And lastly, we have not contributed on the probability of suggestion candidate-profile association so we consider it uniform for all of the users. 
 
 ---
 #### RAMARUN2 
-[**`Participants`**](./participants.md#rama), [**`Proceedings`**](./proceedings.md#user-modeling-for-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec23/context/RAMARUN2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/RAMARUN2.pdf) 
+[**`Participants`**](./participants.md#rama) | [**`Proceedings`**](./proceedings.md#user-modeling-for-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec23/context/RAMARUN2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/RAMARUN2.pdf) 
 
 - :material-rename: **Run ID:** RAMARUN2 
 - :fontawesome-solid-user-group: **Participant:** RAMA 
@@ -187,7 +187,7 @@
 
 ---
 #### RUN1 
-[**`Participants`**](./participants.md#rama), [**`Proceedings`**](./proceedings.md#user-modeling-for-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec23/context/RUN1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/RUN1.pdf) 
+[**`Participants`**](./participants.md#rama) | [**`Proceedings`**](./proceedings.md#user-modeling-for-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec23/context/RUN1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/RUN1.pdf) 
 
 - :material-rename: **Run ID:** RUN1 
 - :fontawesome-solid-user-group: **Participant:** RAMA 
@@ -200,7 +200,7 @@
 
 ---
 #### run_DwD 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/context/run_DwD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/run_DwD.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/context/run_DwD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/run_DwD.pdf) 
 
 - :material-rename: **Run ID:** run_DwD 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -213,7 +213,7 @@
 
 ---
 #### run_FDwD 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/context/run_FDwD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/run_FDwD.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/context/run_FDwD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/run_FDwD.pdf) 
 
 - :material-rename: **Run ID:** run_FDwD 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -226,7 +226,7 @@
 
 ---
 #### runA 
-[**`Participants`**](./participants.md#tju_cs_ir), [**`Proceedings`**](./proceedings.md#a-new-approach-to-contextual-suggestions-based-on-word2vec), [**`Input`**](https://trec.nist.gov/results/trec23/context/runA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/runA.pdf) 
+[**`Participants`**](./participants.md#tju_cs_ir) | [**`Proceedings`**](./proceedings.md#a-new-approach-to-contextual-suggestions-based-on-word2vec) | [**`Input`**](https://trec.nist.gov/results/trec23/context/runA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/runA.pdf) 
 
 - :material-rename: **Run ID:** runA 
 - :fontawesome-solid-user-group: **Participant:** TJU_CS_IR 
@@ -240,7 +240,7 @@
 
 ---
 #### runB 
-[**`Participants`**](./participants.md#tju_cs_ir), [**`Proceedings`**](./proceedings.md#a-new-approach-to-contextual-suggestions-based-on-word2vec), [**`Input`**](https://trec.nist.gov/results/trec23/context/runB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/runB.pdf) 
+[**`Participants`**](./participants.md#tju_cs_ir) | [**`Proceedings`**](./proceedings.md#a-new-approach-to-contextual-suggestions-based-on-word2vec) | [**`Input`**](https://trec.nist.gov/results/trec23/context/runB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/runB.pdf) 
 
 - :material-rename: **Run ID:** runB 
 - :fontawesome-solid-user-group: **Participant:** TJU_CS_IR 
@@ -254,7 +254,7 @@
 
 ---
 #### simpleScore 
-[**`Participants`**](./participants.md#ulugano), [**`Input`**](https://trec.nist.gov/results/trec23/context/simpleScore.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/simpleScore.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Input`**](https://trec.nist.gov/results/trec23/context/simpleScore.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/simpleScore.pdf) 
 
 - :material-rename: **Run ID:** simpleScore 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -267,7 +267,7 @@
 
 ---
 #### simpleScoreImp 
-[**`Participants`**](./participants.md#ulugano), [**`Input`**](https://trec.nist.gov/results/trec23/context/simpleScoreImp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/simpleScoreImp.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Input`**](https://trec.nist.gov/results/trec23/context/simpleScoreImp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/simpleScoreImp.pdf) 
 
 - :material-rename: **Run ID:** simpleScoreImp 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -280,7 +280,7 @@
 
 ---
 #### tueNet 
-[**`Participants`**](./participants.md#eindhoven), [**`Proceedings`**](./proceedings.md#applying-learning-to-rank-techniques-to-contextual-suggestions), [**`Input`**](https://trec.nist.gov/results/trec23/context/tueNet.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/tueNet.pdf) 
+[**`Participants`**](./participants.md#eindhoven) | [**`Proceedings`**](./proceedings.md#applying-learning-to-rank-techniques-to-contextual-suggestions) | [**`Input`**](https://trec.nist.gov/results/trec23/context/tueNet.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/tueNet.pdf) 
 
 - :material-rename: **Run ID:** tueNet 
 - :fontawesome-solid-user-group: **Participant:** eindhoven 
@@ -293,7 +293,7 @@
 
 ---
 #### tueRforest 
-[**`Participants`**](./participants.md#eindhoven), [**`Proceedings`**](./proceedings.md#applying-learning-to-rank-techniques-to-contextual-suggestions), [**`Input`**](https://trec.nist.gov/results/trec23/context/tueRforest.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/tueRforest.pdf) 
+[**`Participants`**](./participants.md#eindhoven) | [**`Proceedings`**](./proceedings.md#applying-learning-to-rank-techniques-to-contextual-suggestions) | [**`Input`**](https://trec.nist.gov/results/trec23/context/tueRforest.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/tueRforest.pdf) 
 
 - :material-rename: **Run ID:** tueRforest 
 - :fontawesome-solid-user-group: **Participant:** eindhoven 
@@ -306,7 +306,7 @@
 
 ---
 #### UDInfoCS2014_1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#exploration-of-opinion-aware-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec23/context/UDInfoCS2014_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/UDInfoCS2014_1.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#exploration-of-opinion-aware-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec23/context/UDInfoCS2014_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/UDInfoCS2014_1.pdf) 
 
 - :material-rename: **Run ID:** UDInfoCS2014_1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -319,7 +319,7 @@
 
 ---
 #### UDInfoCS2014_2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#exploration-of-opinion-aware-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec23/context/UDInfoCS2014_2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/UDInfoCS2014_2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#exploration-of-opinion-aware-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec23/context/UDInfoCS2014_2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/UDInfoCS2014_2.pdf) 
 
 - :material-rename: **Run ID:** UDInfoCS2014_2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -332,7 +332,7 @@
 
 ---
 #### uogTrBunSumF 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/context/uogTrBunSumF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/uogTrBunSumF.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/context/uogTrBunSumF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/uogTrBunSumF.pdf) 
 
 - :material-rename: **Run ID:** uogTrBunSumF 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -345,7 +345,7 @@
 
 ---
 #### uogTrCsLtrF 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/context/uogTrCsLtrF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/uogTrCsLtrF.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/context/uogTrCsLtrF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/uogTrCsLtrF.pdf) 
 
 - :material-rename: **Run ID:** uogTrCsLtrF 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -358,7 +358,7 @@
 
 ---
 #### waterlooA 
-[**`Participants`**](./participants.md#waterloo_clarke), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2014-contextual-suggestion-experiments-with-suggestion-clustering), [**`Input`**](https://trec.nist.gov/results/trec23/context/waterlooA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/waterlooA.pdf) 
+[**`Participants`**](./participants.md#waterloo_clarke) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2014-contextual-suggestion-experiments-with-suggestion-clustering) | [**`Input`**](https://trec.nist.gov/results/trec23/context/waterlooA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/waterlooA.pdf) 
 
 - :material-rename: **Run ID:** waterlooA 
 - :fontawesome-solid-user-group: **Participant:** waterloo_clarke 
@@ -371,7 +371,7 @@
 
 ---
 #### waterlooB 
-[**`Participants`**](./participants.md#waterloo_clarke), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2014-contextual-suggestion-experiments-with-suggestion-clustering), [**`Input`**](https://trec.nist.gov/results/trec23/context/waterlooB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/waterlooB.pdf) 
+[**`Participants`**](./participants.md#waterloo_clarke) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2014-contextual-suggestion-experiments-with-suggestion-clustering) | [**`Input`**](https://trec.nist.gov/results/trec23/context/waterlooB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/waterlooB.pdf) 
 
 - :material-rename: **Run ID:** waterlooB 
 - :fontawesome-solid-user-group: **Participant:** waterloo_clarke 
@@ -384,7 +384,7 @@
 
 ---
 #### webis_1 
-[**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/context/webis_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/webis_1.pdf) 
+[**`Participants`**](./participants.md#buw) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/context/webis_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/webis_1.pdf) 
 
 - :material-rename: **Run ID:** webis_1 
 - :fontawesome-solid-user-group: **Participant:** BUW 
@@ -397,7 +397,7 @@
 
 ---
 #### webis_2 
-[**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/context/webis_2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/webis_2.pdf) 
+[**`Participants`**](./participants.md#buw) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/context/webis_2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/context/webis_2.pdf) 
 
 - :material-rename: **Run ID:** webis_2 
 - :fontawesome-solid-user-group: **Participant:** BUW 

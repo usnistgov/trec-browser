@@ -1,6 +1,6 @@
 # Data - Temporal Summarization 2015 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/tempsumm2015.html`](https://trec.nist.gov/data/tempsumm2015.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/tempsumm2015.html`](https://trec.nist.gov/data/tempsumm2015.html)
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-**Other:** [`README file for eval tar file`](https://trec.nist.gov/data/tempsumm/2015/README.txt), [`Evaluation tar file`](https://trec.nist.gov/data/tempsumm/2015/ts15eval.tgz)
+**Other:** [`README file for eval tar file`](https://trec.nist.gov/data/tempsumm/2015/README.txt) | [`Evaluation tar file`](https://trec.nist.gov/data/tempsumm/2015/ts15eval.tgz)

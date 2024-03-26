@@ -1,6 +1,6 @@
 # Data - Genomics 2004 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t13_genomics.html`](https://trec.nist.gov/data/t13_genomics.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t13_genomics.html`](https://trec.nist.gov/data/t13_genomics.html)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 
-**Other:** [`TREC 2004 Sample Topics`](https://trec.nist.gov/data/genomics/04.sample.topics.txt), [`TREC 2004 Categorization Task README file`](https://trec.nist.gov/data/genomics/04.readme.txt), [`TREC 2004 Categormzation Task Judgement file`](https://trec.nist.gov/data/genomics/04.judgments.txt)
+**Other:** [`TREC 2004 Sample Topics`](https://trec.nist.gov/data/genomics/04.sample.topics.txt) | [`TREC 2004 Categorization Task README file`](https://trec.nist.gov/data/genomics/04.readme.txt) | [`TREC 2004 Categormzation Task Judgement file`](https://trec.nist.gov/data/genomics/04.judgments.txt)

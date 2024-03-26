@@ -1,6 +1,6 @@
 # Data - Chemical 2009 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/chemical09.html`](https://trec.nist.gov/data/chemical09.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/chemical09.html`](https://trec.nist.gov/data/chemical09.html)
 
 ---
 

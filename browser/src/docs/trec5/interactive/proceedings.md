@@ -5,6 +5,11 @@
 _Paul Over_
 
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec5/papers/trackreport.ps.gz](http://trec.nist.gov/pubs/trec5/papers/trackreport.ps.gz)
+??? abstract "Abstract"
+	
+	This report presents the framework for the TREC-5 interactive track experiments in detail, cites the results but refers the reader to the site reports for their analysis, and discusses unexpected disagreements between relevance and aspectual assessment performed by the NIST assessors.
+	
+
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/Over96.bib) "
 	```
 	@inproceedings{DBLP:conf/trec/Over96,
@@ -30,6 +35,11 @@ _Nicholas J. Belkin, A. Cabezas, Colleen Cool, K. Kim, Kwong Bor Ng, Soyeon Park
 - :fontawesome-solid-user-group: **Participant:** [RutgersB](./participants.md#rutgersb)
 - :material-file-pdf-box: **Paper:** [http://trec.nist.gov/pubs/trec5/papers/ruint_paper.ps.gz](http://trec.nist.gov/pubs/trec5/papers/ruint_paper.ps.gz)
 - :material-file-search: **Runs:** [ruint](./runs.md#ruint)
+
+??? abstract "Abstract"
+	
+	The Interactive Track investigation at Rutgers concentrated primarily on three factors: the searchers' uses and understandings of relevance feedback and ranked output, and the utility of relevance feedback for the interactive track task; the searchers' understandings of the interactive track task; and performance differences based on topic characteristics and searcher and order effects. Our official results are for twelve searchers, each of whom did searches on six different topics.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BelkinCCKNPPRSX96.bib) "
 	```

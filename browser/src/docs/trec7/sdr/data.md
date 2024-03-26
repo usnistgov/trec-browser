@@ -1,6 +1,6 @@
 # Data - Spoken Document Retrieval 1998 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/sdr1998.html`](https://trec.nist.gov/data/sdr1998.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/sdr1998.html`](https://trec.nist.gov/data/sdr1998.html)
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-**Other:** [`Evaluation Specification`](https://trec.nist.gov/data/sdr/1998/sdr98_spec.txt), [`Background Notes`](https://trec.nist.gov/data/sdr/1998/sdr98_spec.txt), [`Relevance Judgments`](https://trec.nist.gov/data/sdr/1998/sdr98-qrels.txt), [`ctm2srt.pl`](https://trec.nist.gov/data/sdr/1998/ctm2srt.pl), [`srt2ctm.pl`](https://trec.nist.gov/data/sdr/1998/srt2ctm.pl), [`srt2ltt.pl`](https://trec.nist.gov/data/sdr/1998/srt2ltt.pl)
+**Other:** [`Evaluation Specification`](https://trec.nist.gov/data/sdr/1998/sdr98_spec.txt) | [`Background Notes`](https://trec.nist.gov/data/sdr/1998/sdr98_spec.txt) | [`Relevance Judgments`](https://trec.nist.gov/data/sdr/1998/sdr98-qrels.txt) | [`ctm2srt.pl`](https://trec.nist.gov/data/sdr/1998/ctm2srt.pl) | [`srt2ctm.pl`](https://trec.nist.gov/data/sdr/1998/srt2ctm.pl) | [`srt2ltt.pl`](https://trec.nist.gov/data/sdr/1998/srt2ltt.pl)

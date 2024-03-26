@@ -1,6 +1,6 @@
 # Data - Robust 2004 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t13_robust.html`](https://trec.nist.gov/data/t13_robust.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t13_robust.html`](https://trec.nist.gov/data/t13_robust.html)
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 
-**Other:** [`Guidelines`](https://trec.nist.gov/data/robust/04.guidelines.html), [`TREC 2004 version of robust eval perl script`](https://trec.nist.gov/data/robust/robust2004_eval.pl)
+**Other:** [`Guidelines`](https://trec.nist.gov/data/robust/04.guidelines.html) | [`TREC 2004 version of robust eval perl script`](https://trec.nist.gov/data/robust/robust2004_eval.pl)

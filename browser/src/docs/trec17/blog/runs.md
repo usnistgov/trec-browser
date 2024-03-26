@@ -1,7 +1,7 @@
 # Runs - Blog 2008 
 
 #### B1DocOpinAZN 
-[**`Results`**](./results.md#b1docopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1DocOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1DocOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1DocOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1DocOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b1docopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1DocOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1DocOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1DocOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1DocOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B1DocOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -15,7 +15,7 @@
 
 ---
 #### B1DocOpinSWN 
-[**`Results`**](./results.md#b1docopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1DocOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1DocOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1DocOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1DocOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b1docopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1DocOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1DocOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1DocOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1DocOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B1DocOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -29,7 +29,7 @@
 
 ---
 #### B1Polarity 
-[**`Results`**](./results.md#b1polarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1Polarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B1Polarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B1Polarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1Polarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1Polarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#b1polarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1Polarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B1Polarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B1Polarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1Polarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1Polarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** B1Polarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -43,7 +43,7 @@
 
 ---
 #### B1PsgOpinAZN 
-[**`Results`**](./results.md#b1psgopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1PsgOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1PsgOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1PsgOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1PsgOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b1psgopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1PsgOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1PsgOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1PsgOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1PsgOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B1PsgOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -57,7 +57,7 @@
 
 ---
 #### B1PsgOpinSWN 
-[**`Results`**](./results.md#b1psgopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1PsgOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1PsgOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1PsgOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1PsgOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b1psgopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B1PsgOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B1PsgOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B1PsgOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B1PsgOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B1PsgOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -71,7 +71,7 @@
 
 ---
 #### B2DocOpinAZN 
-[**`Results`**](./results.md#b2docopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2DocOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2DocOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2DocOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2DocOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b2docopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2DocOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2DocOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2DocOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2DocOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B2DocOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -85,7 +85,7 @@
 
 ---
 #### B2DocOpinSWN 
-[**`Results`**](./results.md#b2docopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2DocOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2DocOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2DocOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2DocOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b2docopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2DocOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2DocOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2DocOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2DocOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B2DocOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -99,7 +99,7 @@
 
 ---
 #### B2Polarity 
-[**`Results`**](./results.md#b2polarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2Polarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B2Polarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B2Polarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2Polarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2Polarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#b2polarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2Polarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B2Polarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B2Polarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2Polarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2Polarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** B2Polarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -113,7 +113,7 @@
 
 ---
 #### B2PsgOpinAZN 
-[**`Results`**](./results.md#b2psgopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2PsgOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2PsgOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2PsgOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2PsgOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b2psgopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2PsgOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2PsgOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2PsgOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2PsgOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B2PsgOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -127,7 +127,7 @@
 
 ---
 #### B2PsgOpinSWN 
-[**`Results`**](./results.md#b2psgopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2PsgOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2PsgOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2PsgOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2PsgOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b2psgopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B2PsgOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B2PsgOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B2PsgOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B2PsgOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B2PsgOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -141,7 +141,7 @@
 
 ---
 #### B3DocOpinAZN 
-[**`Results`**](./results.md#b3docopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3DocOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3DocOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3DocOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3DocOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b3docopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3DocOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3DocOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3DocOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3DocOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B3DocOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -155,7 +155,7 @@
 
 ---
 #### B3DocOpinSWN 
-[**`Results`**](./results.md#b3docopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3DocOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3DocOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3DocOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3DocOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b3docopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3DocOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3DocOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3DocOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3DocOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B3DocOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -169,7 +169,7 @@
 
 ---
 #### B3Polarity 
-[**`Results`**](./results.md#b3polarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3Polarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B3Polarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B3Polarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3Polarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3Polarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#b3polarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3Polarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B3Polarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B3Polarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3Polarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3Polarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** B3Polarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -183,7 +183,7 @@
 
 ---
 #### B3PsgOpinAZN 
-[**`Results`**](./results.md#b3psgopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3PsgOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3PsgOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3PsgOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3PsgOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b3psgopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3PsgOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3PsgOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3PsgOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3PsgOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B3PsgOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -197,7 +197,7 @@
 
 ---
 #### B3PsgOpinSWN 
-[**`Results`**](./results.md#b3psgopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3PsgOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3PsgOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3PsgOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3PsgOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b3psgopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B3PsgOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B3PsgOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B3PsgOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B3PsgOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B3PsgOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -211,7 +211,7 @@
 
 ---
 #### B4DocOpinAZN 
-[**`Results`**](./results.md#b4docopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4DocOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4DocOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4DocOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4DocOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b4docopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4DocOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4DocOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4DocOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4DocOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B4DocOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -225,7 +225,7 @@
 
 ---
 #### B4DocOpinSWN 
-[**`Results`**](./results.md#b4docopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4DocOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4DocOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4DocOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4DocOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b4docopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4DocOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4DocOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4DocOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4DocOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B4DocOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -239,7 +239,7 @@
 
 ---
 #### b4dt1mP5 
-[**`Results`**](./results.md#b4dt1mp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1mP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.b4dt1mP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.b4dt1mP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#b4dt1mp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1mP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.b4dt1mP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.b4dt1mP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** b4dt1mP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -253,7 +253,7 @@
 
 ---
 #### b4dt1mRd 
-[**`Results`**](./results.md#b4dt1mrd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1mRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b4dt1mRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b4dt1mRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mRd.opinion.pdf) 
+[**`Results`**](./results.md#b4dt1mrd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1mRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b4dt1mRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b4dt1mRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1mRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** b4dt1mRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -267,7 +267,7 @@
 
 ---
 #### b4dt1pP5 
-[**`Results`**](./results.md#b4dt1pp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1pP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.b4dt1pP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.b4dt1pP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#b4dt1pp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1pP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.b4dt1pP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.b4dt1pP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** b4dt1pP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -281,7 +281,7 @@
 
 ---
 #### b4dt1pRd 
-[**`Results`**](./results.md#b4dt1prd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1pRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b4dt1pRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b4dt1pRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pRd.opinion.pdf) 
+[**`Results`**](./results.md#b4dt1prd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b4dt1pRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b4dt1pRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b4dt1pRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b4dt1pRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** b4dt1pRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -295,7 +295,7 @@
 
 ---
 #### B4Polarity 
-[**`Results`**](./results.md#b4polarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4Polarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B4Polarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B4Polarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4Polarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4Polarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#b4polarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4Polarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B4Polarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B4Polarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4Polarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4Polarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** B4Polarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -309,7 +309,7 @@
 
 ---
 #### B4PsgOpinAZN 
-[**`Results`**](./results.md#b4psgopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4PsgOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4PsgOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4PsgOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4PsgOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b4psgopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4PsgOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4PsgOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4PsgOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4PsgOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B4PsgOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -323,7 +323,7 @@
 
 ---
 #### B4PsgOpinSWN 
-[**`Results`**](./results.md#b4psgopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4PsgOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4PsgOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4PsgOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4PsgOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b4psgopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B4PsgOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B4PsgOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B4PsgOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B4PsgOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B4PsgOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -337,7 +337,7 @@
 
 ---
 #### B5DocOpinAZN 
-[**`Results`**](./results.md#b5docopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5DocOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5DocOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5DocOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5DocOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b5docopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5DocOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5DocOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5DocOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5DocOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B5DocOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -351,7 +351,7 @@
 
 ---
 #### B5DocOpinSWN 
-[**`Results`**](./results.md#b5docopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5DocOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5DocOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5DocOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5DocOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b5docopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5DocOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5DocOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5DocOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5DocOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B5DocOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -365,7 +365,7 @@
 
 ---
 #### b5dt1mRd 
-[**`Results`**](./results.md#b5dt1mrd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5dt1mRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5dt1mRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5dt1mRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5dt1mRd.opinion.pdf) 
+[**`Results`**](./results.md#b5dt1mrd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5dt1mRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5dt1mRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5dt1mRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5dt1mRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** b5dt1mRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -379,7 +379,7 @@
 
 ---
 #### b5dt1pRd 
-[**`Results`**](./results.md#b5dt1prd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5dt1pRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5dt1pRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5dt1pRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5dt1pRd.opinion.pdf) 
+[**`Results`**](./results.md#b5dt1prd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5dt1pRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5dt1pRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5dt1pRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5dt1pRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** b5dt1pRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -393,7 +393,7 @@
 
 ---
 #### B5Polarity 
-[**`Results`**](./results.md#b5polarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5Polarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B5Polarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B5Polarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5Polarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5Polarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#b5polarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5Polarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.B5Polarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.B5Polarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5Polarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5Polarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** B5Polarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -407,7 +407,7 @@
 
 ---
 #### B5PsgOpinAZN 
-[**`Results`**](./results.md#b5psgopinazn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5PsgOpinAZN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5PsgOpinAZN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5PsgOpinAZN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5PsgOpinAZN.opinion.pdf) 
+[**`Results`**](./results.md#b5psgopinazn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5PsgOpinAZN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5PsgOpinAZN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5PsgOpinAZN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5PsgOpinAZN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B5PsgOpinAZN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -421,7 +421,7 @@
 
 ---
 #### B5PsgOpinSWN 
-[**`Results`**](./results.md#b5psgopinswn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5PsgOpinSWN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5PsgOpinSWN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5PsgOpinSWN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5PsgOpinSWN.opinion.pdf) 
+[**`Results`**](./results.md#b5psgopinswn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.B5PsgOpinSWN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.B5PsgOpinSWN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.B5PsgOpinSWN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/B5PsgOpinSWN.opinion.pdf) 
 
 - :material-rename: **Run ID:** B5PsgOpinSWN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -435,7 +435,7 @@
 
 ---
 #### b5wt1mRc 
-[**`Results`**](./results.md#b5wt1mrc), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5wt1mRc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5wt1mRc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5wt1mRc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5wt1mRc.opinion.pdf) 
+[**`Results`**](./results.md#b5wt1mrc) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5wt1mRc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5wt1mRc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5wt1mRc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5wt1mRc.opinion.pdf) 
 
 - :material-rename: **Run ID:** b5wt1mRc 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -449,7 +449,7 @@
 
 ---
 #### b5wt1pRc 
-[**`Results`**](./results.md#b5wt1prc), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5wt1pRc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5wt1pRc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5wt1pRc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5wt1pRc.opinion.pdf) 
+[**`Results`**](./results.md#b5wt1prc) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.b5wt1pRc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.b5wt1pRc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.b5wt1pRc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/b5wt1pRc.opinion.pdf) 
 
 - :material-rename: **Run ID:** b5wt1pRc 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -463,7 +463,7 @@
 
 ---
 #### BM25LenNorm 
-[**`Results`**](./results.md#bm25lennorm), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.BM25LenNorm.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.BM25LenNorm), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/BM25LenNorm.pdf) 
+[**`Results`**](./results.md#bm25lennorm) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.BM25LenNorm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.BM25LenNorm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/BM25LenNorm.pdf) 
 
 - :material-rename: **Run ID:** BM25LenNorm 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -477,7 +477,7 @@
 
 ---
 #### cmuLDwiki 
-[**`Results`**](./results.md#cmuldwiki), [**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuLDwiki.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuLDwiki), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuLDwiki.pdf) 
+[**`Results`**](./results.md#cmuldwiki) | [**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuLDwiki.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuLDwiki) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuLDwiki.pdf) 
 
 - :material-rename: **Run ID:** cmuLDwiki 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -491,7 +491,7 @@
 
 ---
 #### cmuLDwikiSP 
-[**`Results`**](./results.md#cmuldwikisp), [**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuLDwikiSP.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuLDwikiSP), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuLDwikiSP.pdf) 
+[**`Results`**](./results.md#cmuldwikisp) | [**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuLDwikiSP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuLDwikiSP) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuLDwikiSP.pdf) 
 
 - :material-rename: **Run ID:** cmuLDwikiSP 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -505,7 +505,7 @@
 
 ---
 #### cmuSD 
-[**`Results`**](./results.md#cmusd), [**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuSD.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuSD), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuSD.pdf) 
+[**`Results`**](./results.md#cmusd) | [**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuSD.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuSD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuSD.pdf) 
 
 - :material-rename: **Run ID:** cmuSD 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -519,7 +519,7 @@
 
 ---
 #### cmuSDwiki 
-[**`Results`**](./results.md#cmusdwiki), [**`Participants`**](./participants.md#cmu-lti-dir), [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuSDwiki.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuSDwiki), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuSDwiki.pdf) 
+[**`Results`**](./results.md#cmusdwiki) | [**`Participants`**](./participants.md#cmu-lti-dir) | [**`Proceedings`**](./proceedings.md#document-and-query-expansion-models-for-blog-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.cmuSDwiki.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.cmuSDwiki) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/cmuSDwiki.pdf) 
 
 - :material-rename: **Run ID:** cmuSDwiki 
 - :fontawesome-solid-user-group: **Participant:** CMU-LTI-DIR 
@@ -533,7 +533,7 @@
 
 ---
 #### DCUCDVPgo 
-[**`Results`**](./results.md#dcucdvpgo), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgo.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgo.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgo.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvpgo) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgo.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgo.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgo.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgo.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgo 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -547,7 +547,7 @@
 
 ---
 #### DCUCDVPgonc 
-[**`Results`**](./results.md#dcucdvpgonc), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgonc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgonc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgonc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgonc.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvpgonc) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgonc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgonc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgonc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgonc.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgonc 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -561,7 +561,7 @@
 
 ---
 #### DCUCDVPgoo 
-[**`Results`**](./results.md#dcucdvpgoo), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgoo.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgoo.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgoo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgoo.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvpgoo) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgoo.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgoo.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgoo.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgoo.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgoo 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -575,7 +575,7 @@
 
 ---
 #### DCUCDVPgoonc 
-[**`Results`**](./results.md#dcucdvpgoonc), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgoonc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgoonc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgoonc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgoonc.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvpgoonc) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgoonc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPgoonc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPgoonc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgoonc.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgoonc 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -589,7 +589,7 @@
 
 ---
 #### DCUCDVPgp 
-[**`Results`**](./results.md#dcucdvpgp), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgp.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPgp.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPgp.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgp.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgp.positive.polarity.pdf) 
+[**`Results`**](./results.md#dcucdvpgp) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgp.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPgp.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPgp.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgp.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgp.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgp 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -603,7 +603,7 @@
 
 ---
 #### DCUCDVPgpo 
-[**`Results`**](./results.md#dcucdvpgpo), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgpo.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPgpo.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPgpo.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgpo.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgpo.positive.polarity.pdf) 
+[**`Results`**](./results.md#dcucdvpgpo) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPgpo.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPgpo.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPgpo.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgpo.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPgpo.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPgpo 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -617,7 +617,7 @@
 
 ---
 #### DCUCDVPtbl 
-[**`Results`**](./results.md#dcucdvptbl), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtbl.baseline.pdf) 
+[**`Results`**](./results.md#dcucdvptbl) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtbl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtbl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtbl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtbl.baseline.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtbl 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -631,7 +631,7 @@
 
 ---
 #### DCUCDVPtdbl 
-[**`Results`**](./results.md#dcucdvptdbl), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdbl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtdbl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtdbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdbl.baseline.pdf) 
+[**`Results`**](./results.md#dcucdvptdbl) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdbl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtdbl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtdbl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdbl.baseline.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtdbl 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -645,7 +645,7 @@
 
 ---
 #### DCUCDVPtdo 
-[**`Results`**](./results.md#dcucdvptdo), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdo.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtdo.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtdo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdo.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvptdo) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdo.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtdo.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtdo.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdo.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtdo 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -659,7 +659,7 @@
 
 ---
 #### DCUCDVPtdp 
-[**`Results`**](./results.md#dcucdvptdp), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdp.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPtdp.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPtdp.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdp.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdp.positive.polarity.pdf) 
+[**`Results`**](./results.md#dcucdvptdp) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtdp.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPtdp.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPtdp.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdp.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtdp.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtdp 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -673,7 +673,7 @@
 
 ---
 #### DCUCDVPto 
-[**`Results`**](./results.md#dcucdvpto), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPto.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPto.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPto.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvpto) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPto.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPto.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPto.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPto.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPto 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -687,7 +687,7 @@
 
 ---
 #### DCUCDVPtol 
-[**`Results`**](./results.md#dcucdvptol), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtol.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtol.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtol.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtol.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvptol) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtol.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtol.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtol.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtol.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtol 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -701,7 +701,7 @@
 
 ---
 #### DCUCDVPtolnc 
-[**`Results`**](./results.md#dcucdvptolnc), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtolnc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtolnc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtolnc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtolnc.opinion.pdf) 
+[**`Results`**](./results.md#dcucdvptolnc) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtolnc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DCUCDVPtolnc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DCUCDVPtolnc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtolnc.opinion.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtolnc 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -715,7 +715,7 @@
 
 ---
 #### DCUCDVPtpl 
-[**`Results`**](./results.md#dcucdvptpl), [**`Participants`**](./participants.md#aic-dcu), [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtpl.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPtpl.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPtpl.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtpl.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtpl.positive.polarity.pdf) 
+[**`Results`**](./results.md#dcucdvptpl) | [**`Participants`**](./participants.md#aic-dcu) | [**`Proceedings`**](./proceedings.md#dcu-at-the-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DCUCDVPtpl.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DCUCDVPtpl.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DCUCDVPtpl.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtpl.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DCUCDVPtpl.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DCUCDVPtpl 
 - :fontawesome-solid-user-group: **Participant:** aic-dcu 
@@ -729,7 +729,7 @@
 
 ---
 #### DUT08BRun1 
-[**`Results`**](./results.md#dut08brun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUT08BRun1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUT08BRun1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUT08BRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUT08BRun1.baseline.pdf) 
+[**`Results`**](./results.md#dut08brun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUT08BRun1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUT08BRun1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUT08BRun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUT08BRun1.baseline.pdf) 
 
 - :material-rename: **Run ID:** DUT08BRun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -743,7 +743,7 @@
 
 ---
 #### DUT08BRun2 
-[**`Results`**](./results.md#dut08brun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUT08BRun2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUT08BRun2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUT08BRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUT08BRun2.baseline.pdf) 
+[**`Results`**](./results.md#dut08brun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUT08BRun2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUT08BRun2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUT08BRun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUT08BRun2.baseline.pdf) 
 
 - :material-rename: **Run ID:** DUT08BRun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -757,7 +757,7 @@
 
 ---
 #### DUTIR08DRun1 
-[**`Results`**](./results.md#dutir08drun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun1.pdf) 
+[**`Results`**](./results.md#dutir08drun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun1.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08DRun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -771,7 +771,7 @@
 
 ---
 #### DUTIR08DRun2 
-[**`Results`**](./results.md#dutir08drun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun2.pdf) 
+[**`Results`**](./results.md#dutir08drun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun2.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08DRun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -785,7 +785,7 @@
 
 ---
 #### DUTIR08DRun3 
-[**`Results`**](./results.md#dutir08drun3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun3.pdf) 
+[**`Results`**](./results.md#dutir08drun3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun3.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08DRun3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -799,7 +799,7 @@
 
 ---
 #### DUTIR08DRun4 
-[**`Results`**](./results.md#dutir08drun4), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun4), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun4.pdf) 
+[**`Results`**](./results.md#dutir08drun4) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08DRun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.DUTIR08DRun4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08DRun4.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08DRun4 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -813,7 +813,7 @@
 
 ---
 #### DUTIR08Run1 
-[**`Results`**](./results.md#dutir08run1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run1.opinion.pdf) 
+[**`Results`**](./results.md#dutir08run1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run1.opinion.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -827,7 +827,7 @@
 
 ---
 #### DUTIR08Run2 
-[**`Results`**](./results.md#dutir08run2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2.opinion.pdf) 
+[**`Results`**](./results.md#dutir08run2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2.opinion.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -841,7 +841,7 @@
 
 ---
 #### DUTIR08Run2P 
-[**`Results`**](./results.md#dutir08run2p), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run2P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run2P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run2P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2P.positive.polarity.pdf) 
+[**`Results`**](./results.md#dutir08run2p) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run2P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run2P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run2P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run2P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run2P 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -855,7 +855,7 @@
 
 ---
 #### DUTIR08Run3 
-[**`Results`**](./results.md#dutir08run3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run3.opinion.pdf) 
+[**`Results`**](./results.md#dutir08run3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run3.opinion.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -869,7 +869,7 @@
 
 ---
 #### DUTIR08Run4 
-[**`Results`**](./results.md#dutir08run4), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run4.opinion.pdf) 
+[**`Results`**](./results.md#dutir08run4) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.DUTIR08Run4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.DUTIR08Run4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run4.opinion.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run4 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -883,7 +883,7 @@
 
 ---
 #### DUTIR08Run5P 
-[**`Results`**](./results.md#dutir08run5p), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run5P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run5P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run5P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run5P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run5P.positive.polarity.pdf) 
+[**`Results`**](./results.md#dutir08run5p) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run5P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run5P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run5P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run5P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run5P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run5P 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -897,7 +897,7 @@
 
 ---
 #### DUTIR08Run6P 
-[**`Results`**](./results.md#dutir08run6p), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run6P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run6P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run6P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run6P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run6P.positive.polarity.pdf) 
+[**`Results`**](./results.md#dutir08run6p) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2008-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.DUTIR08Run6P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.DUTIR08Run6P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.DUTIR08Run6P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run6P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/DUTIR08Run6P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** DUTIR08Run6P 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -911,7 +911,7 @@
 
 ---
 #### FEEDKGP 
-[**`Results`**](./results.md#feedkgp), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FEEDKGP.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FEEDKGP), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FEEDKGP.pdf) 
+[**`Results`**](./results.md#feedkgp) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FEEDKGP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FEEDKGP) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FEEDKGP.pdf) 
 
 - :material-rename: **Run ID:** FEEDKGP 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -925,7 +925,7 @@
 
 ---
 #### FEEDKGP1 
-[**`Results`**](./results.md#feedkgp1), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FEEDKGP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FEEDKGP1), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FEEDKGP1.pdf) 
+[**`Results`**](./results.md#feedkgp1) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FEEDKGP1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FEEDKGP1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FEEDKGP1.pdf) 
 
 - :material-rename: **Run ID:** FEEDKGP1 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -939,7 +939,7 @@
 
 ---
 #### FeedQeWhu 
-[**`Results`**](./results.md#feedqewhu), [**`Participants`**](./participants.md#whu), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FeedQeWhu.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FeedQeWhu), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FeedQeWhu.pdf) 
+[**`Results`**](./results.md#feedqewhu) | [**`Participants`**](./participants.md#whu) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FeedQeWhu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.FeedQeWhu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FeedQeWhu.pdf) 
 
 - :material-rename: **Run ID:** FeedQeWhu 
 - :fontawesome-solid-user-group: **Participant:** WHU 
@@ -953,7 +953,7 @@
 
 ---
 #### feupB 
-[**`Results`**](./results.md#feupb), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupB.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.feupB.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.feupB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupB.baseline.pdf) 
+[**`Results`**](./results.md#feupb) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupB.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.feupB.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.feupB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupB.baseline.pdf) 
 
 - :material-rename: **Run ID:** feupB 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -967,7 +967,7 @@
 
 ---
 #### feupbase 
-[**`Results`**](./results.md#feupbase), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupbase.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupbase), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupbase.pdf) 
+[**`Results`**](./results.md#feupbase) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupbase.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupbase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupbase.pdf) 
 
 - :material-rename: **Run ID:** feupbase 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -981,7 +981,7 @@
 
 ---
 #### feupBLMm02 
-[**`Results`**](./results.md#feupblmm02), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupBLMm02.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.feupBLMm02.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.feupBLMm02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupBLMm02.baseline.pdf) 
+[**`Results`**](./results.md#feupblmm02) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupBLMm02.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.feupBLMm02.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.feupBLMm02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupBLMm02.baseline.pdf) 
 
 - :material-rename: **Run ID:** feupBLMm02 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -995,7 +995,7 @@
 
 ---
 #### feupfs 
-[**`Results`**](./results.md#feupfs), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupfs.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupfs), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupfs.pdf) 
+[**`Results`**](./results.md#feupfs) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupfs.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupfs) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupfs.pdf) 
 
 - :material-rename: **Run ID:** feupfs 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -1009,7 +1009,7 @@
 
 ---
 #### feupfsne 
-[**`Results`**](./results.md#feupfsne), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupfsne.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupfsne), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupfsne.pdf) 
+[**`Results`**](./results.md#feupfsne) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupfsne.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupfsne) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupfsne.pdf) 
 
 - :material-rename: **Run ID:** feupfsne 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -1023,7 +1023,7 @@
 
 ---
 #### feupne 
-[**`Results`**](./results.md#feupne), [**`Participants`**](./participants.md#feup_irlab), [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupne.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupne), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupne.pdf) 
+[**`Results`**](./results.md#feupne) | [**`Participants`**](./participants.md#feup_irlab) | [**`Proceedings`**](./proceedings.md#feup-at-trec-2008-blog-track-using-temporal-evidence-for-ranking-and-feed-distillation) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.feupne.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.feupne) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/feupne.pdf) 
 
 - :material-rename: **Run ID:** feupne 
 - :fontawesome-solid-user-group: **Participant:** feup_irlab 
@@ -1037,7 +1037,7 @@
 
 ---
 #### FIUbaseDFRee 
-[**`Results`**](./results.md#fiubasedfree), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUbaseDFRee.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUbaseDFRee.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUbaseDFRee.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUbaseDFRee.baseline.pdf) 
+[**`Results`**](./results.md#fiubasedfree) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUbaseDFRee.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUbaseDFRee.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUbaseDFRee.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUbaseDFRee.baseline.pdf) 
 
 - :material-rename: **Run ID:** FIUbaseDFRee 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1051,7 +1051,7 @@
 
 ---
 #### FIUbasePL2c9 
-[**`Results`**](./results.md#fiubasepl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUbasePL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUbasePL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUbasePL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUbasePL2c9.baseline.pdf) 
+[**`Results`**](./results.md#fiubasepl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUbasePL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUbasePL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUbasePL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUbasePL2c9.baseline.pdf) 
 
 - :material-rename: **Run ID:** FIUbasePL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1065,7 +1065,7 @@
 
 ---
 #### FIUBL1DFR 
-[**`Results`**](./results.md#fiubl1dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL1DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL1DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL1DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL1DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiubl1dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL1DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL1DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL1DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL1DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL1DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1079,7 +1079,7 @@
 
 ---
 #### FIUBL1PL2c9 
-[**`Results`**](./results.md#fiubl1pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL1PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL1PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL1PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL1PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiubl1pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL1PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL1PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL1PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL1PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL1PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1093,7 +1093,7 @@
 
 ---
 #### FIUBL2DFR 
-[**`Results`**](./results.md#fiubl2dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL2DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL2DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL2DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL2DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiubl2dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL2DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL2DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL2DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL2DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL2DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1107,7 +1107,7 @@
 
 ---
 #### FIUBL2PL2c9 
-[**`Results`**](./results.md#fiubl2pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL2PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL2PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL2PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL2PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiubl2pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL2PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL2PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL2PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL2PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL2PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1121,7 +1121,7 @@
 
 ---
 #### FIUBL3DFR 
-[**`Results`**](./results.md#fiubl3dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL3DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL3DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL3DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL3DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiubl3dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL3DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL3DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL3DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL3DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL3DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1135,7 +1135,7 @@
 
 ---
 #### FIUBL3PL2c9 
-[**`Results`**](./results.md#fiubl3pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL3PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL3PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL3PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL3PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiubl3pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL3PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL3PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL3PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL3PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL3PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1149,7 +1149,7 @@
 
 ---
 #### FIUBL4DFR 
-[**`Results`**](./results.md#fiubl4dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL4DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL4DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL4DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL4DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiubl4dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL4DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL4DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL4DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL4DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL4DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1163,7 +1163,7 @@
 
 ---
 #### FIUBL4PL2c9 
-[**`Results`**](./results.md#fiubl4pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL4PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL4PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL4PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL4PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiubl4pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL4PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL4PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL4PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL4PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL4PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1177,7 +1177,7 @@
 
 ---
 #### FIUBL5DFR 
-[**`Results`**](./results.md#fiubl5dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL5DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL5DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL5DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL5DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiubl5dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL5DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL5DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL5DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL5DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL5DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1191,7 +1191,7 @@
 
 ---
 #### FIUBL5PL2c9 
-[**`Results`**](./results.md#fiubl5pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL5PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL5PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL5PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL5PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiubl5pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUBL5PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUBL5PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUBL5PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUBL5PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUBL5PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1205,7 +1205,7 @@
 
 ---
 #### FIUDFRDFR 
-[**`Results`**](./results.md#fiudfrdfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUDFRDFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUDFRDFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUDFRDFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUDFRDFR.opinion.pdf) 
+[**`Results`**](./results.md#fiudfrdfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUDFRDFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUDFRDFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUDFRDFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUDFRDFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUDFRDFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1219,7 +1219,7 @@
 
 ---
 #### FIUDFRPL2c9 
-[**`Results`**](./results.md#fiudfrpl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUDFRPL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUDFRPL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUDFRPL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUDFRPL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiudfrpl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUDFRPL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUDFRPL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUDFRPL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUDFRPL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUDFRPL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1233,7 +1233,7 @@
 
 ---
 #### FIUpBL1DFR 
-[**`Results`**](./results.md#fiupbl1dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL1DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL1DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL1DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL1DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL1DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupbl1dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL1DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL1DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL1DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL1DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL1DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpBL1DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1247,7 +1247,7 @@
 
 ---
 #### FIUpBL2DFR 
-[**`Results`**](./results.md#fiupbl2dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL2DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL2DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL2DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL2DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL2DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupbl2dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL2DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL2DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL2DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL2DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL2DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpBL2DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1261,7 +1261,7 @@
 
 ---
 #### FIUpBL3DFR 
-[**`Results`**](./results.md#fiupbl3dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL3DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL3DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL3DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL3DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL3DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupbl3dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL3DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL3DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL3DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL3DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL3DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpBL3DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1275,7 +1275,7 @@
 
 ---
 #### FIUpBL4DFR 
-[**`Results`**](./results.md#fiupbl4dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL4DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL4DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL4DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL4DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL4DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupbl4dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL4DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL4DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL4DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL4DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL4DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpBL4DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1289,7 +1289,7 @@
 
 ---
 #### FIUpBL5DFR 
-[**`Results`**](./results.md#fiupbl5dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL5DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL5DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL5DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL5DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL5DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupbl5dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpBL5DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpBL5DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpBL5DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL5DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpBL5DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpBL5DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1303,7 +1303,7 @@
 
 ---
 #### FIUpDFRDFR 
-[**`Results`**](./results.md#fiupdfrdfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpDFRDFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpDFRDFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpDFRDFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpDFRDFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpDFRDFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiupdfrdfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpDFRDFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpDFRDFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpDFRDFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpDFRDFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpDFRDFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpDFRDFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1317,7 +1317,7 @@
 
 ---
 #### FIUPL2c9DFR 
-[**`Results`**](./results.md#fiupl2c9dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUPL2c9DFR.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUPL2c9DFR.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUPL2c9DFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUPL2c9DFR.opinion.pdf) 
+[**`Results`**](./results.md#fiupl2c9dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUPL2c9DFR.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUPL2c9DFR.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUPL2c9DFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUPL2c9DFR.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUPL2c9DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1331,7 +1331,7 @@
 
 ---
 #### FIUPL2PL2c9 
-[**`Results`**](./results.md#fiupl2pl2c9), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUPL2PL2c9.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUPL2PL2c9.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUPL2PL2c9.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUPL2PL2c9.opinion.pdf) 
+[**`Results`**](./results.md#fiupl2pl2c9) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUPL2PL2c9.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.FIUPL2PL2c9.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.FIUPL2PL2c9.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUPL2PL2c9.opinion.pdf) 
 
 - :material-rename: **Run ID:** FIUPL2PL2c9 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1345,7 +1345,7 @@
 
 ---
 #### FIUpPL2DFR 
-[**`Results`**](./results.md#fiuppl2dfr), [**`Participants`**](./participants.md#fub), [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpPL2DFR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpPL2DFR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpPL2DFR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpPL2DFR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpPL2DFR.positive.polarity.pdf) 
+[**`Results`**](./results.md#fiuppl2dfr) | [**`Participants`**](./participants.md#fub) | [**`Proceedings`**](./proceedings.md#fub-iasi-cnr-and-university-of-tor-vergata-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.FIUpPL2DFR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.FIUpPL2DFR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.FIUpPL2DFR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpPL2DFR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/FIUpPL2DFR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** FIUpPL2DFR 
 - :fontawesome-solid-user-group: **Participant:** fub 
@@ -1359,7 +1359,7 @@
 
 ---
 #### IITKGPNOSPAM 
-[**`Results`**](./results.md#iitkgpnospam), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.IITKGPNOSPAM.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.IITKGPNOSPAM.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.IITKGPNOSPAM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/IITKGPNOSPAM.baseline.pdf) 
+[**`Results`**](./results.md#iitkgpnospam) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.IITKGPNOSPAM.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.IITKGPNOSPAM.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.IITKGPNOSPAM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/IITKGPNOSPAM.baseline.pdf) 
 
 - :material-rename: **Run ID:** IITKGPNOSPAM 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1373,7 +1373,7 @@
 
 ---
 #### IITKGPTITLE1 
-[**`Results`**](./results.md#iitkgptitle1), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.IITKGPTITLE1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.IITKGPTITLE1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.IITKGPTITLE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/IITKGPTITLE1.baseline.pdf) 
+[**`Results`**](./results.md#iitkgptitle1) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.IITKGPTITLE1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.IITKGPTITLE1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.IITKGPTITLE1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/IITKGPTITLE1.baseline.pdf) 
 
 - :material-rename: **Run ID:** IITKGPTITLE1 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1387,7 +1387,7 @@
 
 ---
 #### KGPBASE4 
-[**`Results`**](./results.md#kgpbase4), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPBASE4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPBASE4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPBASE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPBASE4.opinion.pdf) 
+[**`Results`**](./results.md#kgpbase4) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPBASE4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPBASE4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPBASE4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPBASE4.opinion.pdf) 
 
 - :material-rename: **Run ID:** KGPBASE4 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1401,7 +1401,7 @@
 
 ---
 #### KGPFILTER 
-[**`Results`**](./results.md#kgpfilter), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPFILTER.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPFILTER.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPFILTER.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPFILTER.opinion.pdf) 
+[**`Results`**](./results.md#kgpfilter) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPFILTER.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPFILTER.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPFILTER.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPFILTER.opinion.pdf) 
 
 - :material-rename: **Run ID:** KGPFILTER 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1415,7 +1415,7 @@
 
 ---
 #### KGPOP 
-[**`Results`**](./results.md#kgpop), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPOP.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPOP.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPOP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPOP.opinion.pdf) 
+[**`Results`**](./results.md#kgpop) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPOP.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPOP.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPOP.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPOP.opinion.pdf) 
 
 - :material-rename: **Run ID:** KGPOP 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1429,7 +1429,7 @@
 
 ---
 #### KGPPOL1 
-[**`Results`**](./results.md#kgppol1), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOL1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KGPPOL1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KGPPOL1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL1.positive.polarity.pdf) 
+[**`Results`**](./results.md#kgppol1) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOL1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KGPPOL1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KGPPOL1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** KGPPOL1 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1443,7 +1443,7 @@
 
 ---
 #### KGPPOL2 
-[**`Results`**](./results.md#kgppol2), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOL2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KGPPOL2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KGPPOL2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL2.positive.polarity.pdf) 
+[**`Results`**](./results.md#kgppol2) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOL2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KGPPOL2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KGPPOL2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOL2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** KGPPOL2 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1457,7 +1457,7 @@
 
 ---
 #### KGPPOS1 
-[**`Results`**](./results.md#kgppos1), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOS1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPPOS1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPPOS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOS1.opinion.pdf) 
+[**`Results`**](./results.md#kgppos1) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOS1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPPOS1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPPOS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOS1.opinion.pdf) 
 
 - :material-rename: **Run ID:** KGPPOS1 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1471,7 +1471,7 @@
 
 ---
 #### KGPPOS2 
-[**`Results`**](./results.md#kgppos2), [**`Participants`**](./participants.md#iitkgp), [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOS2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPPOS2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPPOS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOS2.opinion.pdf) 
+[**`Results`**](./results.md#kgppos2) | [**`Participants`**](./participants.md#iitkgp) | [**`Proceedings`**](./proceedings.md#iit-kharagpur-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KGPPOS2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KGPPOS2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KGPPOS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KGPPOS2.opinion.pdf) 
 
 - :material-rename: **Run ID:** KGPPOS2 
 - :fontawesome-solid-user-group: **Participant:** iitkgp 
@@ -1485,7 +1485,7 @@
 
 ---
 #### KLEDistFBB 
-[**`Results`**](./results.md#kledistfbb), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistFBB.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistFBB), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistFBB.pdf) 
+[**`Results`**](./results.md#kledistfbb) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistFBB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistFBB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistFBB.pdf) 
 
 - :material-rename: **Run ID:** KLEDistFBB 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1499,7 +1499,7 @@
 
 ---
 #### KLEDistFBT 
-[**`Results`**](./results.md#kledistfbt), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistFBT.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistFBT), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistFBT.pdf) 
+[**`Results`**](./results.md#kledistfbt) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistFBT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistFBT) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistFBT.pdf) 
 
 - :material-rename: **Run ID:** KLEDistFBT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1513,7 +1513,7 @@
 
 ---
 #### KLEDistLMB 
-[**`Results`**](./results.md#kledistlmb), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistLMB.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistLMB), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistLMB.pdf) 
+[**`Results`**](./results.md#kledistlmb) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistLMB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistLMB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistLMB.pdf) 
 
 - :material-rename: **Run ID:** KLEDistLMB 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1527,7 +1527,7 @@
 
 ---
 #### KLEDistLMT 
-[**`Results`**](./results.md#kledistlmt), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistLMT.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistLMT), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistLMT.pdf) 
+[**`Results`**](./results.md#kledistlmt) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDistLMT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.KLEDistLMT) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDistLMT.pdf) 
 
 - :material-rename: **Run ID:** KLEDistLMT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1541,7 +1541,7 @@
 
 ---
 #### KLEDocOpinT 
-[**`Results`**](./results.md#kledocopint), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDocOpinT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEDocOpinT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEDocOpinT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDocOpinT.opinion.pdf) 
+[**`Results`**](./results.md#kledocopint) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDocOpinT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEDocOpinT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEDocOpinT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDocOpinT.opinion.pdf) 
 
 - :material-rename: **Run ID:** KLEDocOpinT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1555,7 +1555,7 @@
 
 ---
 #### KLEDocOpinTD 
-[**`Results`**](./results.md#kledocopintd), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDocOpinTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEDocOpinTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEDocOpinTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDocOpinTD.opinion.pdf) 
+[**`Results`**](./results.md#kledocopintd) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEDocOpinTD.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEDocOpinTD.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEDocOpinTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEDocOpinTD.opinion.pdf) 
 
 - :material-rename: **Run ID:** KLEDocOpinTD 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1569,7 +1569,7 @@
 
 ---
 #### KLEPolarity 
-[**`Results`**](./results.md#klepolarity), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPolarity.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KLEPolarity.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KLEPolarity.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPolarity.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPolarity.positive.polarity.pdf) 
+[**`Results`**](./results.md#klepolarity) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPolarity.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.KLEPolarity.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.KLEPolarity.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPolarity.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPolarity.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** KLEPolarity 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1583,7 +1583,7 @@
 
 ---
 #### KLEPsgFeedT 
-[**`Results`**](./results.md#klepsgfeedt), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgFeedT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgFeedT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgFeedT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgFeedT.baseline.pdf) 
+[**`Results`**](./results.md#klepsgfeedt) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgFeedT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgFeedT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgFeedT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgFeedT.baseline.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgFeedT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1597,7 +1597,7 @@
 
 ---
 #### KLEPsgFeedTD 
-[**`Results`**](./results.md#klepsgfeedtd), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgFeedTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgFeedTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgFeedTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgFeedTD.baseline.pdf) 
+[**`Results`**](./results.md#klepsgfeedtd) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgFeedTD.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgFeedTD.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgFeedTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgFeedTD.baseline.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgFeedTD 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1611,7 +1611,7 @@
 
 ---
 #### KLEPsgOpinT 
-[**`Results`**](./results.md#klepsgopint), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgOpinT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgOpinT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgOpinT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgOpinT.opinion.pdf) 
+[**`Results`**](./results.md#klepsgopint) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgOpinT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgOpinT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgOpinT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgOpinT.opinion.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgOpinT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1625,7 +1625,7 @@
 
 ---
 #### KLEPsgOpinTD 
-[**`Results`**](./results.md#klepsgopintd), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgOpinTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgOpinTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgOpinTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgOpinTD.opinion.pdf) 
+[**`Results`**](./results.md#klepsgopintd) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgOpinTD.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgOpinTD.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgOpinTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgOpinTD.opinion.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgOpinTD 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1639,7 +1639,7 @@
 
 ---
 #### KLEPsgRetT 
-[**`Results`**](./results.md#klepsgrett), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetT.baseline.pdf) 
+[**`Results`**](./results.md#klepsgrett) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetT.baseline.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgRetT 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1653,7 +1653,7 @@
 
 ---
 #### KLEPsgRetTD 
-[**`Results`**](./results.md#klepsgrettd), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetTD.baseline.pdf) 
+[**`Results`**](./results.md#klepsgrettd) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetTD.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetTD.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetTD.baseline.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgRetTD 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1667,7 +1667,7 @@
 
 ---
 #### KLEPsgRetTDN 
-[**`Results`**](./results.md#klepsgrettdn), [**`Participants`**](./participants.md#postech-kle), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetTDN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetTDN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetTDN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetTDN.baseline.pdf) 
+[**`Results`**](./results.md#klepsgrettdn) | [**`Participants`**](./participants.md#postech-kle) | [**`Proceedings`**](./proceedings.md#kle-at-trec-2008-blog-track-blog-post-and-feed-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.KLEPsgRetTDN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.KLEPsgRetTDN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.KLEPsgRetTDN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/KLEPsgRetTDN.baseline.pdf) 
 
 - :material-rename: **Run ID:** KLEPsgRetTDN 
 - :fontawesome-solid-user-group: **Participant:** POSTECH-KLE 
@@ -1681,7 +1681,7 @@
 
 ---
 #### ku 
-[**`Results`**](./results.md#ku), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.ku.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.ku.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.ku.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/ku.baseline.pdf) 
+[**`Results`**](./results.md#ku) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.ku.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.ku.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.ku.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/ku.baseline.pdf) 
 
 - :material-rename: **Run ID:** ku 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1695,7 +1695,7 @@
 
 ---
 #### kudb 
-[**`Results`**](./results.md#kudb), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudb.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudb), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudb.pdf) 
+[**`Results`**](./results.md#kudb) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudb) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudb.pdf) 
 
 - :material-rename: **Run ID:** kudb 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1709,7 +1709,7 @@
 
 ---
 #### kudn 
-[**`Results`**](./results.md#kudn), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudn.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudn), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudn.pdf) 
+[**`Results`**](./results.md#kudn) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudn.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudn) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudn.pdf) 
 
 - :material-rename: **Run ID:** kudn 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1723,7 +1723,7 @@
 
 ---
 #### kudnp 
-[**`Results`**](./results.md#kudnp), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudnp.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudnp), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudnp.pdf) 
+[**`Results`**](./results.md#kudnp) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudnp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudnp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudnp.pdf) 
 
 - :material-rename: **Run ID:** kudnp 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1737,7 +1737,7 @@
 
 ---
 #### kudnps 
-[**`Results`**](./results.md#kudnps), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudnps.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudnps), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudnps.pdf) 
+[**`Results`**](./results.md#kudnps) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kudnps.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.kudnps) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kudnps.pdf) 
 
 - :material-rename: **Run ID:** kudnps 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1751,7 +1751,7 @@
 
 ---
 #### kunlpKLtd 
-[**`Results`**](./results.md#kunlpkltd), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtd.baseline.pdf) 
+[**`Results`**](./results.md#kunlpkltd) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtd.baseline.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLtd 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1765,7 +1765,7 @@
 
 ---
 #### kunlpKLtdOc 
-[**`Results`**](./results.md#kunlpkltdoc), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdOc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtdOc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtdOc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdOc.opinion.pdf) 
+[**`Results`**](./results.md#kunlpkltdoc) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdOc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtdOc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtdOc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdOc.opinion.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLtdOc 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1779,7 +1779,7 @@
 
 ---
 #### kunlpKLtdOs 
-[**`Results`**](./results.md#kunlpkltdos), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdOs.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtdOs.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtdOs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdOs.opinion.pdf) 
+[**`Results`**](./results.md#kunlpkltdos) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdOs.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtdOs.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtdOs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdOs.opinion.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLtdOs 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1793,7 +1793,7 @@
 
 ---
 #### kunlpKLtdPs 
-[**`Results`**](./results.md#kunlpkltdps), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdPs.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kunlpKLtdPs.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kunlpKLtdPs.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdPs.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdPs.positive.polarity.pdf) 
+[**`Results`**](./results.md#kunlpkltdps) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtdPs.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kunlpKLtdPs.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kunlpKLtdPs.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdPs.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtdPs.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLtdPs 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1807,7 +1807,7 @@
 
 ---
 #### kunlpKLtt 
-[**`Results`**](./results.md#kunlpkltt), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtt.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtt.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtt.baseline.pdf) 
+[**`Results`**](./results.md#kunlpkltt) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLtt.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLtt.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLtt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLtt.baseline.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLtt 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1821,7 +1821,7 @@
 
 ---
 #### kunlpKLttOc 
-[**`Results`**](./results.md#kunlpklttoc), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttOc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLttOc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLttOc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttOc.opinion.pdf) 
+[**`Results`**](./results.md#kunlpklttoc) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttOc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLttOc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLttOc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttOc.opinion.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLttOc 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1835,7 +1835,7 @@
 
 ---
 #### kunlpKLttOs 
-[**`Results`**](./results.md#kunlpklttos), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttOs.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLttOs.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLttOs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttOs.opinion.pdf) 
+[**`Results`**](./results.md#kunlpklttos) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttOs.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kunlpKLttOs.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kunlpKLttOs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttOs.opinion.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLttOs 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1849,7 +1849,7 @@
 
 ---
 #### kunlpKLttPs 
-[**`Results`**](./results.md#kunlpklttps), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttPs.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kunlpKLttPs.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kunlpKLttPs.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttPs.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttPs.positive.polarity.pdf) 
+[**`Results`**](./results.md#kunlpklttps) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#a-hybrid-method-for-opinion-finding-task-kunlp-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kunlpKLttPs.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kunlpKLttPs.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kunlpKLttPs.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttPs.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kunlpKLttPs.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** kunlpKLttPs 
 - :fontawesome-solid-user-group: **Participant:** KU 
@@ -1863,7 +1863,7 @@
 
 ---
 #### kuo 
-[**`Results`**](./results.md#kuo), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kuo.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kuo.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kuo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kuo.opinion.pdf) 
+[**`Results`**](./results.md#kuo) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kuo.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kuo.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kuo.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kuo.opinion.pdf) 
 
 - :material-rename: **Run ID:** kuo 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1877,7 +1877,7 @@
 
 ---
 #### kuo2 
-[**`Results`**](./results.md#kuo2), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kuo2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kuo2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kuo2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kuo2.opinion.pdf) 
+[**`Results`**](./results.md#kuo2) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kuo2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.kuo2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.kuo2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kuo2.opinion.pdf) 
 
 - :material-rename: **Run ID:** kuo2 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1891,7 +1891,7 @@
 
 ---
 #### kup 
-[**`Results`**](./results.md#kup), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kup.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kup.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kup.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup.positive.polarity.pdf) 
+[**`Results`**](./results.md#kup) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kup.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kup.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kup.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** kup 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1905,7 +1905,7 @@
 
 ---
 #### kup4 
-[**`Results`**](./results.md#kup4), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kup4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kup4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kup4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup4.positive.polarity.pdf) 
+[**`Results`**](./results.md#kup4) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kup4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kup4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kup4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kup4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** kup4 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1919,7 +1919,7 @@
 
 ---
 #### kupc 
-[**`Results`**](./results.md#kupc), [**`Participants`**](./participants.md#kobeu-seki), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kupc.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kupc.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kupc.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kupc.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kupc.positive.polarity.pdf) 
+[**`Results`**](./results.md#kupc) | [**`Participants`**](./participants.md#kobeu-seki) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.kupc.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.kupc.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.kupc.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kupc.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/kupc.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** kupc 
 - :fontawesome-solid-user-group: **Participant:** KobeU-Seki 
@@ -1933,7 +1933,7 @@
 
 ---
 #### NOpMM103 
-[**`Results`**](./results.md#nopmm103), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM103.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM103.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM103.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM103.opinion.pdf) 
+[**`Results`**](./results.md#nopmm103) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM103.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM103.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM103.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM103.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM103 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -1947,7 +1947,7 @@
 
 ---
 #### NOpMM107 
-[**`Results`**](./results.md#nopmm107), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM107.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM107.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM107.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM107.opinion.pdf) 
+[**`Results`**](./results.md#nopmm107) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM107.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM107.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM107.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM107.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM107 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -1961,7 +1961,7 @@
 
 ---
 #### NOpMM11 
-[**`Results`**](./results.md#nopmm11), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM11.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM11.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM11.opinion.pdf) 
+[**`Results`**](./results.md#nopmm11) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM11.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM11.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM11.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM11 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -1975,7 +1975,7 @@
 
 ---
 #### NOpMM21 
-[**`Results`**](./results.md#nopmm21), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM21.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM21.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM21.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM21.opinion.pdf) 
+[**`Results`**](./results.md#nopmm21) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM21.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM21.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM21.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM21.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM21 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -1989,7 +1989,7 @@
 
 ---
 #### NOpMM23 
-[**`Results`**](./results.md#nopmm23), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM23.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM23.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM23.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM23.opinion.pdf) 
+[**`Results`**](./results.md#nopmm23) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM23.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM23.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM23.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM23.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM23 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2003,7 +2003,7 @@
 
 ---
 #### NOpMM27 
-[**`Results`**](./results.md#nopmm27), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM27.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM27.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM27.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM27.opinion.pdf) 
+[**`Results`**](./results.md#nopmm27) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM27.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM27.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM27.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM27.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM27 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2017,7 +2017,7 @@
 
 ---
 #### NOpMM2opi 
-[**`Results`**](./results.md#nopmm2opi), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM2opi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM2opi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM2opi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM2opi.opinion.pdf) 
+[**`Results`**](./results.md#nopmm2opi) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM2opi.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM2opi.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM2opi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM2opi.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM2opi 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2031,7 +2031,7 @@
 
 ---
 #### NOpMM31 
-[**`Results`**](./results.md#nopmm31), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM31.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM31.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM31.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM31.opinion.pdf) 
+[**`Results`**](./results.md#nopmm31) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM31.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM31.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM31.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM31.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM31 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2045,7 +2045,7 @@
 
 ---
 #### NOpMM33 
-[**`Results`**](./results.md#nopmm33), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM33.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM33.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM33.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM33.opinion.pdf) 
+[**`Results`**](./results.md#nopmm33) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM33.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM33.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM33.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM33.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM33 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2059,7 +2059,7 @@
 
 ---
 #### NOpMM37 
-[**`Results`**](./results.md#nopmm37), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM37.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM37.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM37.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM37.opinion.pdf) 
+[**`Results`**](./results.md#nopmm37) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM37.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM37.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM37.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM37.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM37 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2073,7 +2073,7 @@
 
 ---
 #### NOpMM3opi 
-[**`Results`**](./results.md#nopmm3opi), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM3opi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM3opi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM3opi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM3opi.opinion.pdf) 
+[**`Results`**](./results.md#nopmm3opi) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM3opi.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM3opi.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM3opi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM3opi.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM3opi 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2087,7 +2087,7 @@
 
 ---
 #### NOpMM41 
-[**`Results`**](./results.md#nopmm41), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM41.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM41.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM41.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM41.opinion.pdf) 
+[**`Results`**](./results.md#nopmm41) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM41.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM41.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM41.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM41.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM41 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2101,7 +2101,7 @@
 
 ---
 #### NOpMM43 
-[**`Results`**](./results.md#nopmm43), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM43.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM43.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM43.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM43.opinion.pdf) 
+[**`Results`**](./results.md#nopmm43) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM43.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM43.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM43.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM43.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM43 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2115,7 +2115,7 @@
 
 ---
 #### NOpMM47 
-[**`Results`**](./results.md#nopmm47), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM47.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM47.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM47.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM47.opinion.pdf) 
+[**`Results`**](./results.md#nopmm47) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM47.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM47.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM47.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM47.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM47 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2129,7 +2129,7 @@
 
 ---
 #### NOpMM4opi 
-[**`Results`**](./results.md#nopmm4opi), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM4opi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM4opi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM4opi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM4opi.opinion.pdf) 
+[**`Results`**](./results.md#nopmm4opi) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM4opi.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM4opi.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM4opi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM4opi.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM4opi 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2143,7 +2143,7 @@
 
 ---
 #### NOpMM51 
-[**`Results`**](./results.md#nopmm51), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM51.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM51.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM51.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM51.opinion.pdf) 
+[**`Results`**](./results.md#nopmm51) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM51.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM51.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM51.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM51.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM51 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2157,7 +2157,7 @@
 
 ---
 #### NOpMM53 
-[**`Results`**](./results.md#nopmm53), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM53.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM53.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM53.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM53.opinion.pdf) 
+[**`Results`**](./results.md#nopmm53) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM53.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM53.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM53.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM53.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM53 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2171,7 +2171,7 @@
 
 ---
 #### NOpMM57 
-[**`Results`**](./results.md#nopmm57), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM57.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM57.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM57.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM57.opinion.pdf) 
+[**`Results`**](./results.md#nopmm57) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM57.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM57.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM57.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM57.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM57 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2185,7 +2185,7 @@
 
 ---
 #### NOpMM5opi 
-[**`Results`**](./results.md#nopmm5opi), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM5opi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM5opi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM5opi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM5opi.opinion.pdf) 
+[**`Results`**](./results.md#nopmm5opi) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMM5opi.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMM5opi.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMM5opi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMM5opi.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMM5opi 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2199,7 +2199,7 @@
 
 ---
 #### NOpMMopi 
-[**`Results`**](./results.md#nopmmopi), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMopi.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMopi.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMopi.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMopi.opinion.pdf) 
+[**`Results`**](./results.md#nopmmopi) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMopi.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMopi.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMopi.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMopi.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMopi 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2213,7 +2213,7 @@
 
 ---
 #### NOpMMs13 
-[**`Results`**](./results.md#nopmms13), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs13.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs13.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs13.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs13.opinion.pdf) 
+[**`Results`**](./results.md#nopmms13) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs13.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs13.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs13.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs13.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMs13 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2227,7 +2227,7 @@
 
 ---
 #### NOpMMs23 
-[**`Results`**](./results.md#nopmms23), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs23.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs23.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs23.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs23.opinion.pdf) 
+[**`Results`**](./results.md#nopmms23) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs23.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs23.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs23.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs23.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMs23 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2241,7 +2241,7 @@
 
 ---
 #### NOpMMs33 
-[**`Results`**](./results.md#nopmms33), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs33.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs33.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs33.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs33.opinion.pdf) 
+[**`Results`**](./results.md#nopmms33) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs33.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs33.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs33.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs33.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMs33 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2255,7 +2255,7 @@
 
 ---
 #### NOpMMs43 
-[**`Results`**](./results.md#nopmms43), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs43.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs43.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs43.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs43.opinion.pdf) 
+[**`Results`**](./results.md#nopmms43) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs43.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs43.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs43.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs43.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMs43 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2269,7 +2269,7 @@
 
 ---
 #### NOpMMs53 
-[**`Results`**](./results.md#nopmms53), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs53.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs53.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs53.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs53.opinion.pdf) 
+[**`Results`**](./results.md#nopmms53) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NOpMMs53.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.NOpMMs53.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.NOpMMs53.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NOpMMs53.opinion.pdf) 
 
 - :material-rename: **Run ID:** NOpMMs53 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2283,7 +2283,7 @@
 
 ---
 #### NTrMM13P 
-[**`Results`**](./results.md#ntrmm13p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM13P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM13P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM13P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM13P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM13P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm13p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM13P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM13P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM13P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM13P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM13P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM13P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2297,7 +2297,7 @@
 
 ---
 #### NTrMM17P 
-[**`Results`**](./results.md#ntrmm17p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM17P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM17P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM17P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM17P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM17P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm17p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM17P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM17P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM17P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM17P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM17P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM17P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2311,7 +2311,7 @@
 
 ---
 #### NTrMM27P 
-[**`Results`**](./results.md#ntrmm27p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM27P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM27P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM27P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM27P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM27P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm27p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM27P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM27P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM27P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM27P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM27P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM27P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2325,7 +2325,7 @@
 
 ---
 #### NTrMM2opiP 
-[**`Results`**](./results.md#ntrmm2opip), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM2opiP.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM2opiP.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM2opiP.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM2opiP.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM2opiP.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm2opip) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM2opiP.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM2opiP.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM2opiP.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM2opiP.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM2opiP.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM2opiP 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2339,7 +2339,7 @@
 
 ---
 #### NTrMM33P 
-[**`Results`**](./results.md#ntrmm33p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM33P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM33P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM33P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM33P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM33P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm33p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM33P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM33P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM33P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM33P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM33P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM33P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2353,7 +2353,7 @@
 
 ---
 #### NTrMM37P 
-[**`Results`**](./results.md#ntrmm37p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM37P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM37P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM37P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM37P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM37P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm37p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM37P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM37P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM37P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM37P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM37P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM37P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2367,7 +2367,7 @@
 
 ---
 #### NTrMM43P 
-[**`Results`**](./results.md#ntrmm43p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM43P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM43P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM43P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM43P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM43P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm43p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM43P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM43P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM43P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM43P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM43P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM43P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2381,7 +2381,7 @@
 
 ---
 #### NTrMM47P 
-[**`Results`**](./results.md#ntrmm47p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM47P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM47P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM47P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM47P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM47P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm47p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM47P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM47P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM47P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM47P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM47P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM47P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2395,7 +2395,7 @@
 
 ---
 #### NTrMM53P 
-[**`Results`**](./results.md#ntrmm53p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM53P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM53P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM53P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM53P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM53P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm53p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM53P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM53P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM53P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM53P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM53P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM53P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2409,7 +2409,7 @@
 
 ---
 #### NTrMM57P 
-[**`Results`**](./results.md#ntrmm57p), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM57P.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM57P.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM57P.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM57P.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM57P.positive.polarity.pdf) 
+[**`Results`**](./results.md#ntrmm57p) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.NTrMM57P.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.NTrMM57P.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.NTrMM57P.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM57P.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/NTrMM57P.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** NTrMM57P 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2423,7 +2423,7 @@
 
 ---
 #### opin0kl 
-[**`Results`**](./results.md#opin0kl), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin0kl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin0kl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin0kl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin0kl.opinion.pdf) 
+[**`Results`**](./results.md#opin0kl) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin0kl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin0kl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin0kl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin0kl.opinion.pdf) 
 
 - :material-rename: **Run ID:** opin0kl 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2437,7 +2437,7 @@
 
 ---
 #### opin0svm 
-[**`Results`**](./results.md#opin0svm), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin0svm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin0svm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin0svm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin0svm.opinion.pdf) 
+[**`Results`**](./results.md#opin0svm) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin0svm.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin0svm.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin0svm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin0svm.opinion.pdf) 
 
 - :material-rename: **Run ID:** opin0svm 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2451,7 +2451,7 @@
 
 ---
 #### opin1kl 
-[**`Results`**](./results.md#opin1kl), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin1kl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin1kl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin1kl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin1kl.opinion.pdf) 
+[**`Results`**](./results.md#opin1kl) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin1kl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin1kl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin1kl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin1kl.opinion.pdf) 
 
 - :material-rename: **Run ID:** opin1kl 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2465,7 +2465,7 @@
 
 ---
 #### opin1svm 
-[**`Results`**](./results.md#opin1svm), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin1svm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin1svm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin1svm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin1svm.opinion.pdf) 
+[**`Results`**](./results.md#opin1svm) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.opin1svm.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.opin1svm.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.opin1svm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/opin1svm.opinion.pdf) 
 
 - :material-rename: **Run ID:** opin1svm 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2479,7 +2479,7 @@
 
 ---
 #### PermMeWhu 
-[**`Results`**](./results.md#permmewhu), [**`Participants`**](./participants.md#whu), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.PermMeWhu.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.PermMeWhu), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/PermMeWhu.pdf) 
+[**`Results`**](./results.md#permmewhu) | [**`Participants`**](./participants.md#whu) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.PermMeWhu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.PermMeWhu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/PermMeWhu.pdf) 
 
 - :material-rename: **Run ID:** PermMeWhu 
 - :fontawesome-solid-user-group: **Participant:** WHU 
@@ -2493,7 +2493,7 @@
 
 ---
 #### PermQeWhu 
-[**`Results`**](./results.md#permqewhu), [**`Participants`**](./participants.md#whu), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.PermQeWhu.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.PermQeWhu), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/PermQeWhu.pdf) 
+[**`Results`**](./results.md#permqewhu) | [**`Participants`**](./participants.md#whu) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.PermQeWhu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.PermQeWhu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/PermQeWhu.pdf) 
 
 - :material-rename: **Run ID:** PermQeWhu 
 - :fontawesome-solid-user-group: **Participant:** WHU 
@@ -2507,7 +2507,7 @@
 
 ---
 #### prisba 
-[**`Results`**](./results.md#prisba), [**`Participants`**](./participants.md#bupt_pris_), [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisba.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisba.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisba.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisba.baseline.pdf) 
+[**`Results`**](./results.md#prisba) | [**`Participants`**](./participants.md#bupt_pris_) | [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisba.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisba.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisba.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisba.baseline.pdf) 
 
 - :material-rename: **Run ID:** prisba 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -2521,7 +2521,7 @@
 
 ---
 #### prisbm 
-[**`Results`**](./results.md#prisbm), [**`Participants`**](./participants.md#bupt_pris_), [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisbm.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisbm.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisbm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisbm.baseline.pdf) 
+[**`Results`**](./results.md#prisbm) | [**`Participants`**](./participants.md#bupt_pris_) | [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisbm.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisbm.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisbm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisbm.baseline.pdf) 
 
 - :material-rename: **Run ID:** prisbm 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -2535,7 +2535,7 @@
 
 ---
 #### prisoa1 
-[**`Results`**](./results.md#prisoa1), [**`Participants`**](./participants.md#bupt_pris_), [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisoa1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisoa1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisoa1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisoa1.opinion.pdf) 
+[**`Results`**](./results.md#prisoa1) | [**`Participants`**](./participants.md#bupt_pris_) | [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisoa1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisoa1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisoa1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisoa1.opinion.pdf) 
 
 - :material-rename: **Run ID:** prisoa1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -2549,7 +2549,7 @@
 
 ---
 #### prisom1 
-[**`Results`**](./results.md#prisom1), [**`Participants`**](./participants.md#bupt_pris_), [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisom1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisom1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisom1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisom1.opinion.pdf) 
+[**`Results`**](./results.md#prisom1) | [**`Participants`**](./participants.md#bupt_pris_) | [**`Proceedings`**](./proceedings.md#pris-in-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.prisom1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.prisom1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.prisom1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/prisom1.opinion.pdf) 
 
 - :material-rename: **Run ID:** prisom1 
 - :fontawesome-solid-user-group: **Participant:** BUPT_pris_ 
@@ -2563,7 +2563,7 @@
 
 ---
 #### run0 
-[**`Results`**](./results.md#run0), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.run0.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.run0.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.run0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/run0.baseline.pdf) 
+[**`Results`**](./results.md#run0) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.run0.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.run0.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.run0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/run0.baseline.pdf) 
 
 - :material-rename: **Run ID:** run0 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2577,7 +2577,7 @@
 
 ---
 #### SplBaseT 
-[**`Results`**](./results.md#splbaset), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.SplBaseT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.SplBaseT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.SplBaseT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/SplBaseT.baseline.pdf) 
+[**`Results`**](./results.md#splbaset) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.SplBaseT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.SplBaseT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.SplBaseT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/SplBaseT.baseline.pdf) 
 
 - :material-rename: **Run ID:** SplBaseT 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2591,7 +2591,7 @@
 
 ---
 #### SplBaseTD 
-[**`Results`**](./results.md#splbasetd), [**`Participants`**](./participants.md#utd_slp_lab), [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.SplBaseTD.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.SplBaseTD.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.SplBaseTD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/SplBaseTD.baseline.pdf) 
+[**`Results`**](./results.md#splbasetd) | [**`Participants`**](./participants.md#utd_slp_lab) | [**`Proceedings`**](./proceedings.md#utdallas-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.SplBaseTD.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.SplBaseTD.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.SplBaseTD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/SplBaseTD.baseline.pdf) 
 
 - :material-rename: **Run ID:** SplBaseTD 
 - :fontawesome-solid-user-group: **Participant:** UTD_SLP_Lab 
@@ -2605,7 +2605,7 @@
 
 ---
 #### svmMap 
-[**`Results`**](./results.md#svmmap), [**`Participants`**](./participants.md#usi), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.svmMap.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.svmMap), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/svmMap.pdf) 
+[**`Results`**](./results.md#svmmap) | [**`Participants`**](./participants.md#usi) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.svmMap.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.svmMap) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/svmMap.pdf) 
 
 - :material-rename: **Run ID:** svmMap 
 - :fontawesome-solid-user-group: **Participant:** USI 
@@ -2619,7 +2619,7 @@
 
 ---
 #### THUopnTmfRmf 
-[**`Results`**](./results.md#thuopntmfrmf), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTmfRmf.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTmfRmf.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTmfRmf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTmfRmf.opinion.pdf) 
+[**`Results`**](./results.md#thuopntmfrmf) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTmfRmf.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTmfRmf.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTmfRmf.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTmfRmf.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUopnTmfRmf 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2633,7 +2633,7 @@
 
 ---
 #### THUopnTmfRQ 
-[**`Results`**](./results.md#thuopntmfrq), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTmfRQ.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTmfRQ.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTmfRQ.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTmfRQ.opinion.pdf) 
+[**`Results`**](./results.md#thuopntmfrq) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTmfRQ.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTmfRQ.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTmfRQ.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTmfRQ.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUopnTmfRQ 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2647,7 +2647,7 @@
 
 ---
 #### THUopnTwpGen 
-[**`Results`**](./results.md#thuopntwpgen), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTwpGen.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTwpGen.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTwpGen.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTwpGen.opinion.pdf) 
+[**`Results`**](./results.md#thuopntwpgen) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTwpGen.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTwpGen.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTwpGen.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTwpGen.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUopnTwpGen 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2661,7 +2661,7 @@
 
 ---
 #### THUopnTwpRRM 
-[**`Results`**](./results.md#thuopntwprrm), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTwpRRM.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTwpRRM.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTwpRRM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTwpRRM.opinion.pdf) 
+[**`Results`**](./results.md#thuopntwprrm) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUopnTwpRRM.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUopnTwpRRM.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUopnTwpRRM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUopnTwpRRM.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUopnTwpRRM 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2675,7 +2675,7 @@
 
 ---
 #### THUpolTmfPNR 
-[**`Results`**](./results.md#thupoltmfpnr), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUpolTmfPNR.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.THUpolTmfPNR.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.THUpolTmfPNR.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTmfPNR.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTmfPNR.positive.polarity.pdf) 
+[**`Results`**](./results.md#thupoltmfpnr) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUpolTmfPNR.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.THUpolTmfPNR.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.THUpolTmfPNR.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTmfPNR.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTmfPNR.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** THUpolTmfPNR 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2689,7 +2689,7 @@
 
 ---
 #### THUpolTwpRD 
-[**`Results`**](./results.md#thupoltwprd), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUpolTwpRD.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.THUpolTwpRD.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.THUpolTwpRD.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTwpRD.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTwpRD.positive.polarity.pdf) 
+[**`Results`**](./results.md#thupoltwprd) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUpolTwpRD.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.THUpolTwpRD.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.THUpolTwpRD.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTwpRD.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUpolTwpRD.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** THUpolTwpRD 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2703,7 +2703,7 @@
 
 ---
 #### THUrelTwp 
-[**`Results`**](./results.md#thureltwp), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUrelTwp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUrelTwp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUrelTwp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUrelTwp.baseline.pdf) 
+[**`Results`**](./results.md#thureltwp) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUrelTwp.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUrelTwp.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUrelTwp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUrelTwp.baseline.pdf) 
 
 - :material-rename: **Run ID:** THUrelTwp 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2717,7 +2717,7 @@
 
 ---
 #### THUrelTwpmf 
-[**`Results`**](./results.md#thureltwpmf), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUrelTwpmf.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUrelTwpmf.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUrelTwpmf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUrelTwpmf.baseline.pdf) 
+[**`Results`**](./results.md#thureltwpmf) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.THUrelTwpmf.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.THUrelTwpmf.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.THUrelTwpmf.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/THUrelTwpmf.baseline.pdf) 
 
 - :material-rename: **Run ID:** THUrelTwpmf 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -2731,7 +2731,7 @@
 
 ---
 #### tnobase1 
-[**`Results`**](./results.md#tnobase1), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase1.positive.polarity.pdf) 
+[**`Results`**](./results.md#tnobase1) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** tnobase1 
 - :fontawesome-solid-user-group: **Participant:** tno 
@@ -2745,7 +2745,7 @@
 
 ---
 #### tnobase2 
-[**`Results`**](./results.md#tnobase2), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase2.positive.polarity.pdf) 
+[**`Results`**](./results.md#tnobase2) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** tnobase2 
 - :fontawesome-solid-user-group: **Participant:** tno 
@@ -2759,7 +2759,7 @@
 
 ---
 #### tnobase3 
-[**`Results`**](./results.md#tnobase3), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase3.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase3.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase3.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase3.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase3.positive.polarity.pdf) 
+[**`Results`**](./results.md#tnobase3) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase3.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase3.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase3.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase3.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase3.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** tnobase3 
 - :fontawesome-solid-user-group: **Participant:** tno 
@@ -2773,7 +2773,7 @@
 
 ---
 #### tnobase4 
-[**`Results`**](./results.md#tnobase4), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase4.positive.polarity.pdf) 
+[**`Results`**](./results.md#tnobase4) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** tnobase4 
 - :fontawesome-solid-user-group: **Participant:** tno 
@@ -2787,7 +2787,7 @@
 
 ---
 #### tnobase5 
-[**`Results`**](./results.md#tnobase5), [**`Participants`**](./participants.md#tno), [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase5.positive.polarity.pdf) 
+[**`Results`**](./results.md#tnobase5) | [**`Participants`**](./participants.md#tno) | [**`Proceedings`**](./proceedings.md#polarity-classification-of-blog-trec-2008-data-with-a-geodesic-kernel) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.tnobase5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.tnobase5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.tnobase5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/tnobase5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** tnobase5 
 - :fontawesome-solid-user-group: **Participant:** tno 
@@ -2801,7 +2801,7 @@
 
 ---
 #### top3dt1mP5 
-[**`Results`**](./results.md#top3dt1mp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1mP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.top3dt1mP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.top3dt1mP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#top3dt1mp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1mP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.top3dt1mP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.top3dt1mP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** top3dt1mP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -2815,7 +2815,7 @@
 
 ---
 #### top3dt1mRd 
-[**`Results`**](./results.md#top3dt1mrd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1mRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.top3dt1mRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.top3dt1mRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mRd.opinion.pdf) 
+[**`Results`**](./results.md#top3dt1mrd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1mRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.top3dt1mRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.top3dt1mRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1mRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** top3dt1mRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -2829,7 +2829,7 @@
 
 ---
 #### top3dt1pP5 
-[**`Results`**](./results.md#top3dt1pp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1pP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.top3dt1pP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.top3dt1pP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1pP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1pP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#top3dt1pp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3dt1pP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.top3dt1pP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.top3dt1pP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1pP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3dt1pP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** top3dt1pP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -2843,7 +2843,7 @@
 
 ---
 #### top3wt1mRc 
-[**`Results`**](./results.md#top3wt1mrc), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3wt1mRc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.top3wt1mRc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.top3wt1mRc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3wt1mRc.opinion.pdf) 
+[**`Results`**](./results.md#top3wt1mrc) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.top3wt1mRc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.top3wt1mRc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.top3wt1mRc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/top3wt1mRc.opinion.pdf) 
 
 - :material-rename: **Run ID:** top3wt1mRc 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -2857,7 +2857,7 @@
 
 ---
 #### uams08b1pr 
-[**`Results`**](./results.md#uams08b1pr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b1pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b1pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b1pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b1pr.opinion.pdf) 
+[**`Results`**](./results.md#uams08b1pr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b1pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b1pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b1pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b1pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08b1pr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2871,7 +2871,7 @@
 
 ---
 #### uams08b2pr 
-[**`Results`**](./results.md#uams08b2pr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b2pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b2pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b2pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b2pr.opinion.pdf) 
+[**`Results`**](./results.md#uams08b2pr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b2pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b2pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b2pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b2pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08b2pr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2885,7 +2885,7 @@
 
 ---
 #### uams08b3pr 
-[**`Results`**](./results.md#uams08b3pr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b3pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b3pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b3pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b3pr.opinion.pdf) 
+[**`Results`**](./results.md#uams08b3pr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b3pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b3pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b3pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b3pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08b3pr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2899,7 +2899,7 @@
 
 ---
 #### uams08b4pr 
-[**`Results`**](./results.md#uams08b4pr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b4pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b4pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b4pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b4pr.opinion.pdf) 
+[**`Results`**](./results.md#uams08b4pr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b4pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b4pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b4pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b4pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08b4pr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2913,7 +2913,7 @@
 
 ---
 #### uams08b5pr 
-[**`Results`**](./results.md#uams08b5pr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b5pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b5pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b5pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b5pr.opinion.pdf) 
+[**`Results`**](./results.md#uams08b5pr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08b5pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08b5pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08b5pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08b5pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08b5pr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2927,7 +2927,7 @@
 
 ---
 #### uams08bl 
-[**`Results`**](./results.md#uams08bl), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08bl.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08bl), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08bl.pdf) 
+[**`Results`**](./results.md#uams08bl) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08bl.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08bl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08bl.pdf) 
 
 - :material-rename: **Run ID:** uams08bl 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2941,7 +2941,7 @@
 
 ---
 #### uams08class 
-[**`Results`**](./results.md#uams08class), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08class.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08class.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08class.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08class.baseline.pdf) 
+[**`Results`**](./results.md#uams08class) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08class.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08class.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08class.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08class.baseline.pdf) 
 
 - :material-rename: **Run ID:** uams08class 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2955,7 +2955,7 @@
 
 ---
 #### uams08clspr 
-[**`Results`**](./results.md#uams08clspr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08clspr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08clspr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08clspr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08clspr.opinion.pdf) 
+[**`Results`**](./results.md#uams08clspr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08clspr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08clspr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08clspr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08clspr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08clspr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2969,7 +2969,7 @@
 
 ---
 #### uams08n1o1 
-[**`Results`**](./results.md#uams08n1o1), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08n1o1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08n1o1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08n1o1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08n1o1.baseline.pdf) 
+[**`Results`**](./results.md#uams08n1o1) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08n1o1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08n1o1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08n1o1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08n1o1.baseline.pdf) 
 
 - :material-rename: **Run ID:** uams08n1o1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2983,7 +2983,7 @@
 
 ---
 #### uams08n1o1sp 
-[**`Results`**](./results.md#uams08n1o1sp), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08n1o1sp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08n1o1sp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08n1o1sp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08n1o1sp.opinion.pdf) 
+[**`Results`**](./results.md#uams08n1o1sp) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08n1o1sp.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08n1o1sp.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08n1o1sp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08n1o1sp.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08n1o1sp 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -2997,7 +2997,7 @@
 
 ---
 #### uams08nonr 
-[**`Results`**](./results.md#uams08nonr), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08nonr.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08nonr), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08nonr.pdf) 
+[**`Results`**](./results.md#uams08nonr) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08nonr.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08nonr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08nonr.pdf) 
 
 - :material-rename: **Run ID:** uams08nonr 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -3011,7 +3011,7 @@
 
 ---
 #### uams08nw 
-[**`Results`**](./results.md#uams08nw), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08nw.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08nw), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08nw.pdf) 
+[**`Results`**](./results.md#uams08nw) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08nw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08nw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08nw.pdf) 
 
 - :material-rename: **Run ID:** uams08nw 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -3025,7 +3025,7 @@
 
 ---
 #### uams08pnw 
-[**`Results`**](./results.md#uams08pnw), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08pnw.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08pnw), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08pnw.pdf) 
+[**`Results`**](./results.md#uams08pnw) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08pnw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uams08pnw) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08pnw.pdf) 
 
 - :material-rename: **Run ID:** uams08pnw 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -3039,7 +3039,7 @@
 
 ---
 #### uams08qm4it1 
-[**`Results`**](./results.md#uams08qm4it1), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08qm4it1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08qm4it1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08qm4it1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08qm4it1.opinion.pdf) 
+[**`Results`**](./results.md#uams08qm4it1) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08qm4it1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08qm4it1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08qm4it1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08qm4it1.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08qm4it1 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -3053,7 +3053,7 @@
 
 ---
 #### uams08qm4it2 
-[**`Results`**](./results.md#uams08qm4it2), [**`Participants`**](./participants.md#uams_de_rijke), [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08qm4it2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08qm4it2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08qm4it2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08qm4it2.opinion.pdf) 
+[**`Results`**](./results.md#uams08qm4it2) | [**`Participants`**](./participants.md#uams_de_rijke) | [**`Proceedings`**](./proceedings.md#external-query-expansion-in-the-blogosphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uams08qm4it2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uams08qm4it2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uams08qm4it2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uams08qm4it2.opinion.pdf) 
 
 - :material-rename: **Run ID:** uams08qm4it2 
 - :fontawesome-solid-user-group: **Participant:** UAms_De_Rijke 
@@ -3067,7 +3067,7 @@
 
 ---
 #### UB 
-[**`Results`**](./results.md#ub), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UB.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UB.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UB.opinion.pdf) 
+[**`Results`**](./results.md#ub) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UB.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UB.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UB.opinion.pdf) 
 
 - :material-rename: **Run ID:** UB 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3081,7 +3081,7 @@
 
 ---
 #### UBDist1 
-[**`Results`**](./results.md#ubdist1), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist1.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist1), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist1.pdf) 
+[**`Results`**](./results.md#ubdist1) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist1.pdf) 
 
 - :material-rename: **Run ID:** UBDist1 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3095,7 +3095,7 @@
 
 ---
 #### UBDist2 
-[**`Results`**](./results.md#ubdist2), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist2.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist2), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist2.pdf) 
+[**`Results`**](./results.md#ubdist2) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist2.pdf) 
 
 - :material-rename: **Run ID:** UBDist2 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3109,7 +3109,7 @@
 
 ---
 #### UBDist3 
-[**`Results`**](./results.md#ubdist3), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist3.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist3), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist3.pdf) 
+[**`Results`**](./results.md#ubdist3) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist3.pdf) 
 
 - :material-rename: **Run ID:** UBDist3 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3123,7 +3123,7 @@
 
 ---
 #### UBDist4 
-[**`Results`**](./results.md#ubdist4), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist4.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist4), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist4.pdf) 
+[**`Results`**](./results.md#ubdist4) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBDist4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UBDist4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBDist4.pdf) 
 
 - :material-rename: **Run ID:** UBDist4 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3137,7 +3137,7 @@
 
 ---
 #### UBop1 
-[**`Results`**](./results.md#ubop1), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBop1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UBop1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UBop1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBop1.opinion.pdf) 
+[**`Results`**](./results.md#ubop1) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBop1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UBop1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UBop1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBop1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UBop1 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3151,7 +3151,7 @@
 
 ---
 #### UBpol1 
-[**`Results`**](./results.md#ubpol1), [**`Participants`**](./participants.md#suny_buffalo), [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBpol1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UBpol1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UBpol1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBpol1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBpol1.positive.polarity.pdf) 
+[**`Results`**](./results.md#ubpol1) | [**`Participants`**](./participants.md#suny_buffalo) | [**`Proceedings`**](./proceedings.md#trec-2008-at-the-university-at-buffalo-legal-and-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UBpol1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UBpol1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UBpol1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBpol1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UBpol1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UBpol1 
 - :fontawesome-solid-user-group: **Participant:** SUNY_Buffalo 
@@ -3165,7 +3165,7 @@
 
 ---
 #### uicirnoa 
-[**`Results`**](./results.md#uicirnoa), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicirnoa.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicirnoa.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicirnoa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicirnoa.baseline.pdf) 
+[**`Results`**](./results.md#uicirnoa) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicirnoa.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicirnoa.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicirnoa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicirnoa.baseline.pdf) 
 
 - :material-rename: **Run ID:** uicirnoa 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3179,7 +3179,7 @@
 
 ---
 #### uicirwa 
-[**`Results`**](./results.md#uicirwa), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicirwa.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicirwa.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicirwa.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicirwa.baseline.pdf) 
+[**`Results`**](./results.md#uicirwa) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicirwa.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicirwa.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicirwa.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicirwa.baseline.pdf) 
 
 - :material-rename: **Run ID:** uicirwa 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3193,7 +3193,7 @@
 
 ---
 #### uicop1bl1 
-[**`Results`**](./results.md#uicop1bl1), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl1.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl1) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl1.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl1 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3207,7 +3207,7 @@
 
 ---
 #### uicop1bl1r 
-[**`Results`**](./results.md#uicop1bl1r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl1r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl1r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl1r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl1r.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl1r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl1r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl1r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl1r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl1r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl1r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3221,7 +3221,7 @@
 
 ---
 #### uicop1bl2 
-[**`Results`**](./results.md#uicop1bl2), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl2.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl2) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl2.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl2 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3235,7 +3235,7 @@
 
 ---
 #### uicop1bl2r 
-[**`Results`**](./results.md#uicop1bl2r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl2r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl2r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl2r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl2r.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl2r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl2r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl2r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl2r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl2r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl2r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3249,7 +3249,7 @@
 
 ---
 #### uicop1bl3 
-[**`Results`**](./results.md#uicop1bl3), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl3.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl3) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl3.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl3 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3263,7 +3263,7 @@
 
 ---
 #### uicop1bl3r 
-[**`Results`**](./results.md#uicop1bl3r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl3r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl3r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl3r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl3r.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl3r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl3r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl3r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl3r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl3r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl3r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3277,7 +3277,7 @@
 
 ---
 #### uicop1bl4 
-[**`Results`**](./results.md#uicop1bl4), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl4.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl4) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl4.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl4 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3291,7 +3291,7 @@
 
 ---
 #### uicop1bl4r 
-[**`Results`**](./results.md#uicop1bl4r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl4r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl4r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl4r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl4r.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl4r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl4r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl4r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl4r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl4r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl4r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3305,7 +3305,7 @@
 
 ---
 #### uicop1bl5 
-[**`Results`**](./results.md#uicop1bl5), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl5.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl5) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl5.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl5 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3319,7 +3319,7 @@
 
 ---
 #### uicop1bl5r 
-[**`Results`**](./results.md#uicop1bl5r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl5r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl5r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl5r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl5r.opinion.pdf) 
+[**`Results`**](./results.md#uicop1bl5r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop1bl5r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop1bl5r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop1bl5r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop1bl5r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop1bl5r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3333,7 +3333,7 @@
 
 ---
 #### uicop2bl1 
-[**`Results`**](./results.md#uicop2bl1), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl1.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl1) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl1.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl1 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3347,7 +3347,7 @@
 
 ---
 #### uicop2bl2 
-[**`Results`**](./results.md#uicop2bl2), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl2.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl2) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl2.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl2 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3361,7 +3361,7 @@
 
 ---
 #### uicop2bl2r 
-[**`Results`**](./results.md#uicop2bl2r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl2r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl2r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl2r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl2r.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl2r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl2r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl2r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl2r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl2r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl2r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3375,7 +3375,7 @@
 
 ---
 #### uicop2bl3 
-[**`Results`**](./results.md#uicop2bl3), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl3.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl3) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl3.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl3 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3389,7 +3389,7 @@
 
 ---
 #### uicop2bl3r 
-[**`Results`**](./results.md#uicop2bl3r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl3r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl3r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl3r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl3r.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl3r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl3r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl3r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl3r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl3r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl3r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3403,7 +3403,7 @@
 
 ---
 #### uicop2bl4 
-[**`Results`**](./results.md#uicop2bl4), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl4.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl4) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl4.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl4 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3417,7 +3417,7 @@
 
 ---
 #### uicop2bl4r 
-[**`Results`**](./results.md#uicop2bl4r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl4r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl4r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl4r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl4r.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl4r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl4r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl4r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl4r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl4r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl4r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3431,7 +3431,7 @@
 
 ---
 #### uicop2bl5 
-[**`Results`**](./results.md#uicop2bl5), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl5.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl5) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl5.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl5 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3445,7 +3445,7 @@
 
 ---
 #### uicop2bl5r 
-[**`Results`**](./results.md#uicop2bl5r), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl5r.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl5r.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl5r.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl5r.opinion.pdf) 
+[**`Results`**](./results.md#uicop2bl5r) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicop2bl5r.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicop2bl5r.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicop2bl5r.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicop2bl5r.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicop2bl5r 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3459,7 +3459,7 @@
 
 ---
 #### uicoprun1 
-[**`Results`**](./results.md#uicoprun1), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicoprun1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicoprun1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicoprun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicoprun1.opinion.pdf) 
+[**`Results`**](./results.md#uicoprun1) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicoprun1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicoprun1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicoprun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicoprun1.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicoprun1 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3473,7 +3473,7 @@
 
 ---
 #### uicoprun2 
-[**`Results`**](./results.md#uicoprun2), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicoprun2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicoprun2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicoprun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicoprun2.opinion.pdf) 
+[**`Results`**](./results.md#uicoprun2) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicoprun2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uicoprun2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uicoprun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicoprun2.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicoprun2 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3487,7 +3487,7 @@
 
 ---
 #### uicpol1bl1 
-[**`Results`**](./results.md#uicpol1bl1), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol1bl1) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol1bl1 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3501,7 +3501,7 @@
 
 ---
 #### uicpol1bl2 
-[**`Results`**](./results.md#uicpol1bl2), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl2.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol1bl2) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol1bl2 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3515,7 +3515,7 @@
 
 ---
 #### uicpol1bl3 
-[**`Results`**](./results.md#uicpol1bl3), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl3.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl3.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl3.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl3.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl3.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol1bl3) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl3.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl3.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl3.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl3.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl3.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol1bl3 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3529,7 +3529,7 @@
 
 ---
 #### uicpol1bl4 
-[**`Results`**](./results.md#uicpol1bl4), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl4.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol1bl4) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol1bl4 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3543,7 +3543,7 @@
 
 ---
 #### uicpol1bl5 
-[**`Results`**](./results.md#uicpol1bl5), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl5.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol1bl5) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol1bl5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol1bl5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol1bl5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol1bl5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol1bl5 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3557,7 +3557,7 @@
 
 ---
 #### uicpol2bl2 
-[**`Results`**](./results.md#uicpol2bl2), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl2.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol2bl2) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol2bl2 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3571,7 +3571,7 @@
 
 ---
 #### uicpol2bl3 
-[**`Results`**](./results.md#uicpol2bl3), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl3.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl3.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl3.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl3.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl3.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol2bl3) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl3.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl3.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl3.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl3.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl3.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol2bl3 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3585,7 +3585,7 @@
 
 ---
 #### uicpol2bl4 
-[**`Results`**](./results.md#uicpol2bl4), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl4.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol2bl4) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol2bl4 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3599,7 +3599,7 @@
 
 ---
 #### uicpol2bl5 
-[**`Results`**](./results.md#uicpol2bl5), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl5.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpol2bl5) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpol2bl5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpol2bl5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpol2bl5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpol2bl5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpol2bl5 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3613,7 +3613,7 @@
 
 ---
 #### uicpolrun1 
-[**`Results`**](./results.md#uicpolrun1), [**`Participants`**](./participants.md#uic_ir_group), [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpolrun1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpolrun1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpolrun1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpolrun1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpolrun1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uicpolrun1) | [**`Participants`**](./participants.md#uic_ir_group) | [**`Proceedings`**](./proceedings.md#uic-at-trec-208-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uicpolrun1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uicpolrun1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uicpolrun1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpolrun1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uicpolrun1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uicpolrun1 
 - :fontawesome-solid-user-group: **Participant:** UIC_IR_Group 
@@ -3627,7 +3627,7 @@
 
 ---
 #### UIUCb08uwTtl 
-[**`Results`**](./results.md#uiucb08uwttl), [**`Participants`**](./participants.md#uiuc), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UIUCb08uwTtl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UIUCb08uwTtl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UIUCb08uwTtl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UIUCb08uwTtl.baseline.pdf) 
+[**`Results`**](./results.md#uiucb08uwttl) | [**`Participants`**](./participants.md#uiuc) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UIUCb08uwTtl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UIUCb08uwTtl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UIUCb08uwTtl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UIUCb08uwTtl.baseline.pdf) 
 
 - :material-rename: **Run ID:** UIUCb08uwTtl 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -3641,7 +3641,7 @@
 
 ---
 #### UIUCb08wtnp 
-[**`Results`**](./results.md#uiucb08wtnp), [**`Participants`**](./participants.md#uiuc), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UIUCb08wtnp.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UIUCb08wtnp.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UIUCb08wtnp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UIUCb08wtnp.baseline.pdf) 
+[**`Results`**](./results.md#uiucb08wtnp) | [**`Participants`**](./participants.md#uiuc) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UIUCb08wtnp.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UIUCb08wtnp.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UIUCb08wtnp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UIUCb08wtnp.baseline.pdf) 
 
 - :material-rename: **Run ID:** UIUCb08wtnp 
 - :fontawesome-solid-user-group: **Participant:** UIUC 
@@ -3655,7 +3655,7 @@
 
 ---
 #### UMassBlog1 
-[**`Results`**](./results.md#umassblog1), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog1.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog1), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog1.pdf) 
+[**`Results`**](./results.md#umassblog1) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog1.pdf) 
 
 - :material-rename: **Run ID:** UMassBlog1 
 - :fontawesome-solid-user-group: **Participant:** uMass 
@@ -3669,7 +3669,7 @@
 
 ---
 #### UMassBlog2 
-[**`Results`**](./results.md#umassblog2), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog2.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog2), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog2.pdf) 
+[**`Results`**](./results.md#umassblog2) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog2.pdf) 
 
 - :material-rename: **Run ID:** UMassBlog2 
 - :fontawesome-solid-user-group: **Participant:** uMass 
@@ -3683,7 +3683,7 @@
 
 ---
 #### UMassBlog3 
-[**`Results`**](./results.md#umassblog3), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog3.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog3), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog3.pdf) 
+[**`Results`**](./results.md#umassblog3) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog3.pdf) 
 
 - :material-rename: **Run ID:** UMassBlog3 
 - :fontawesome-solid-user-group: **Participant:** uMass 
@@ -3697,7 +3697,7 @@
 
 ---
 #### UMassBlog4 
-[**`Results`**](./results.md#umassblog4), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog4.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog4), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog4.pdf) 
+[**`Results`**](./results.md#umassblog4) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2008-blog-distillation-task) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UMassBlog4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.UMassBlog4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UMassBlog4.pdf) 
 
 - :material-rename: **Run ID:** UMassBlog4 
 - :fontawesome-solid-user-group: **Participant:** uMass 
@@ -3711,7 +3711,7 @@
 
 ---
 #### UniNEBlog1 
-[**`Results`**](./results.md#unineblog1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEBlog1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEBlog1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEBlog1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEBlog1.baseline.pdf) 
+[**`Results`**](./results.md#unineblog1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEBlog1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEBlog1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEBlog1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEBlog1.baseline.pdf) 
 
 - :material-rename: **Run ID:** UniNEBlog1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3725,7 +3725,7 @@
 
 ---
 #### UniNEBlog2 
-[**`Results`**](./results.md#unineblog2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEBlog2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEBlog2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEBlog2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEBlog2.baseline.pdf) 
+[**`Results`**](./results.md#unineblog2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEBlog2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEBlog2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEBlog2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEBlog2.baseline.pdf) 
 
 - :material-rename: **Run ID:** UniNEBlog2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3739,7 +3739,7 @@
 
 ---
 #### UniNEopLR1 
-[**`Results`**](./results.md#unineoplr1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLR1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLR1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLR1.opinion.pdf) 
+[**`Results`**](./results.md#unineoplr1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLR1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLR1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLR1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLR1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLR1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3753,7 +3753,7 @@
 
 ---
 #### UniNEopLR2 
-[**`Results`**](./results.md#unineoplr2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLR2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLR2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLR2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLR2.opinion.pdf) 
+[**`Results`**](./results.md#unineoplr2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLR2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLR2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLR2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLR2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLR2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3767,7 +3767,7 @@
 
 ---
 #### UniNEopLRb1 
-[**`Results`**](./results.md#unineoplrb1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb1.opinion.pdf) 
+[**`Results`**](./results.md#unineoplrb1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLRb1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3781,7 +3781,7 @@
 
 ---
 #### UniNEopLRb2 
-[**`Results`**](./results.md#unineoplrb2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb2.opinion.pdf) 
+[**`Results`**](./results.md#unineoplrb2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLRb2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3795,7 +3795,7 @@
 
 ---
 #### UniNEopLRb3 
-[**`Results`**](./results.md#unineoplrb3), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb3.opinion.pdf) 
+[**`Results`**](./results.md#unineoplrb3) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb3.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLRb3 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3809,7 +3809,7 @@
 
 ---
 #### UniNEopLRb4 
-[**`Results`**](./results.md#unineoplrb4), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb4.opinion.pdf) 
+[**`Results`**](./results.md#unineoplrb4) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb4.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLRb4 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3823,7 +3823,7 @@
 
 ---
 #### UniNEopLRb5 
-[**`Results`**](./results.md#unineoplrb5), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb5.opinion.pdf) 
+[**`Results`**](./results.md#unineoplrb5) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopLRb5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopLRb5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopLRb5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopLRb5.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopLRb5 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3837,7 +3837,7 @@
 
 ---
 #### UniNEopZ1 
-[**`Results`**](./results.md#unineopz1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZ1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZ1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZ1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZ1.opinion.pdf) 
+[**`Results`**](./results.md#unineopz1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZ1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZ1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZ1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZ1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZ1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3851,7 +3851,7 @@
 
 ---
 #### UniNEopZ2 
-[**`Results`**](./results.md#unineopz2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZ2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZ2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZ2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZ2.opinion.pdf) 
+[**`Results`**](./results.md#unineopz2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZ2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZ2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZ2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZ2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZ2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3865,7 +3865,7 @@
 
 ---
 #### UniNEopZb1 
-[**`Results`**](./results.md#unineopzb1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb1.opinion.pdf) 
+[**`Results`**](./results.md#unineopzb1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZb1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3879,7 +3879,7 @@
 
 ---
 #### UniNEopZb2 
-[**`Results`**](./results.md#unineopzb2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb2.opinion.pdf) 
+[**`Results`**](./results.md#unineopzb2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZb2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3893,7 +3893,7 @@
 
 ---
 #### UniNEopZb3 
-[**`Results`**](./results.md#unineopzb3), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb3.opinion.pdf) 
+[**`Results`**](./results.md#unineopzb3) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb3.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZb3 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3907,7 +3907,7 @@
 
 ---
 #### UniNEopZb4 
-[**`Results`**](./results.md#unineopzb4), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb4.opinion.pdf) 
+[**`Results`**](./results.md#unineopzb4) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb4.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZb4 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3921,7 +3921,7 @@
 
 ---
 #### UniNEopZb5 
-[**`Results`**](./results.md#unineopzb5), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb5.opinion.pdf) 
+[**`Results`**](./results.md#unineopzb5) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEopZb5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UniNEopZb5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UniNEopZb5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEopZb5.opinion.pdf) 
 
 - :material-rename: **Run ID:** UniNEopZb5 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3935,7 +3935,7 @@
 
 ---
 #### UniNEpolLR1 
-[**`Results`**](./results.md#uninepollr1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLR1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLR1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLR1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLR1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLR1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollr1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLR1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLR1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLR1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLR1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLR1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLR1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3949,7 +3949,7 @@
 
 ---
 #### UniNEpolLRb1 
-[**`Results`**](./results.md#uninepollrb1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollrb1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLRb1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3963,7 +3963,7 @@
 
 ---
 #### UniNEpolLRb2 
-[**`Results`**](./results.md#uninepollrb2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb2.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollrb2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLRb2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3977,7 +3977,7 @@
 
 ---
 #### UniNEpolLRb3 
-[**`Results`**](./results.md#uninepollrb3), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb3.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb3.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb3.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb3.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb3.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollrb3) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb3.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb3.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb3.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb3.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb3.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLRb3 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -3991,7 +3991,7 @@
 
 ---
 #### UniNEpolLRb4 
-[**`Results`**](./results.md#uninepollrb4), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb4.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollrb4) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLRb4 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4005,7 +4005,7 @@
 
 ---
 #### UniNEpolLRb5 
-[**`Results`**](./results.md#uninepollrb5), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb5.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepollrb5) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolLRb5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolLRb5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolLRb5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolLRb5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolLRb5 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4019,7 +4019,7 @@
 
 ---
 #### UniNEpolZ1 
-[**`Results`**](./results.md#uninepolz1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZ1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZ1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZ1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZ1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZ1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolz1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZ1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZ1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZ1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZ1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZ1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZ1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4033,7 +4033,7 @@
 
 ---
 #### UniNEpolZb1 
-[**`Results`**](./results.md#uninepolzb1), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolzb1) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZb1 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4047,7 +4047,7 @@
 
 ---
 #### UniNEpolZb2 
-[**`Results`**](./results.md#uninepolzb2), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb2.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolzb2) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZb2 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4061,7 +4061,7 @@
 
 ---
 #### UniNEpolZb3 
-[**`Results`**](./results.md#uninepolzb3), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb3.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb3.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb3.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb3.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb3.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolzb3) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb3.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb3.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb3.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb3.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb3.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZb3 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4075,7 +4075,7 @@
 
 ---
 #### UniNEpolZb4 
-[**`Results`**](./results.md#uninepolzb4), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb4.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb4.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb4.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb4.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb4.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolzb4) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb4.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb4.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb4.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb4.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb4.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZb4 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4089,7 +4089,7 @@
 
 ---
 #### UniNEpolZb5 
-[**`Results`**](./results.md#uninepolzb5), [**`Participants`**](./participants.md#unine), [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb5.positive.polarity.pdf) 
+[**`Results`**](./results.md#uninepolzb5) | [**`Participants`**](./participants.md#unine) | [**`Proceedings`**](./proceedings.md#unine-at-trec-2008-fact-and-opinion-retrieval-in-the-blogsphere) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UniNEpolZb5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UniNEpolZb5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UniNEpolZb5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UniNEpolZb5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UniNEpolZb5 
 - :fontawesome-solid-user-group: **Participant:** UniNE 
@@ -4103,7 +4103,7 @@
 
 ---
 #### uogBLProx 
-[**`Results`**](./results.md#uogblprox), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogBLProx.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogBLProx.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogBLProx.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogBLProx.baseline.pdf) 
+[**`Results`**](./results.md#uogblprox) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogBLProx.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogBLProx.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogBLProx.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogBLProx.baseline.pdf) 
 
 - :material-rename: **Run ID:** uogBLProx 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4117,7 +4117,7 @@
 
 ---
 #### uogBLProxCE 
-[**`Results`**](./results.md#uogblproxce), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogBLProxCE.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogBLProxCE.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogBLProxCE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogBLProxCE.baseline.pdf) 
+[**`Results`**](./results.md#uogblproxce) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogBLProxCE.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogBLProxCE.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogBLProxCE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogBLProxCE.baseline.pdf) 
 
 - :material-rename: **Run ID:** uogBLProxCE 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4131,7 +4131,7 @@
 
 ---
 #### uogOP1intL 
-[**`Results`**](./results.md#uogop1intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1intL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1intL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1intL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1intL.opinion.pdf) 
+[**`Results`**](./results.md#uogop1intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1intL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1intL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1intL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1intL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP1intL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4145,7 +4145,7 @@
 
 ---
 #### uogOP1ofL 
-[**`Results`**](./results.md#uogop1ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogop1ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP1ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4159,7 +4159,7 @@
 
 ---
 #### uogOP1Pr 
-[**`Results`**](./results.md#uogop1pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogop1pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP1Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4173,7 +4173,7 @@
 
 ---
 #### uogOP1PrintL 
-[**`Results`**](./results.md#uogop1printl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1PrintL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1PrintL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1PrintL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1PrintL.opinion.pdf) 
+[**`Results`**](./results.md#uogop1printl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP1PrintL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP1PrintL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP1PrintL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP1PrintL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP1PrintL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4187,7 +4187,7 @@
 
 ---
 #### uogOP2intL 
-[**`Results`**](./results.md#uogop2intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2intL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2intL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2intL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2intL.opinion.pdf) 
+[**`Results`**](./results.md#uogop2intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2intL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2intL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2intL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2intL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP2intL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4201,7 +4201,7 @@
 
 ---
 #### uogOP2ofL 
-[**`Results`**](./results.md#uogop2ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogop2ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP2ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4215,7 +4215,7 @@
 
 ---
 #### uogOP2Pr 
-[**`Results`**](./results.md#uogop2pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogop2pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP2Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4229,7 +4229,7 @@
 
 ---
 #### uogOP2PrintL 
-[**`Results`**](./results.md#uogop2printl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2PrintL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2PrintL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2PrintL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2PrintL.opinion.pdf) 
+[**`Results`**](./results.md#uogop2printl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP2PrintL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP2PrintL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP2PrintL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP2PrintL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP2PrintL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4243,7 +4243,7 @@
 
 ---
 #### uogOP3intL 
-[**`Results`**](./results.md#uogop3intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3intL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3intL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3intL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3intL.opinion.pdf) 
+[**`Results`**](./results.md#uogop3intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3intL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3intL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3intL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3intL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP3intL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4257,7 +4257,7 @@
 
 ---
 #### uogOP3ofL 
-[**`Results`**](./results.md#uogop3ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogop3ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP3ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4271,7 +4271,7 @@
 
 ---
 #### uogOP3Pr 
-[**`Results`**](./results.md#uogop3pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogop3pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP3Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4285,7 +4285,7 @@
 
 ---
 #### uogOP3PrintL 
-[**`Results`**](./results.md#uogop3printl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3PrintL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3PrintL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3PrintL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3PrintL.opinion.pdf) 
+[**`Results`**](./results.md#uogop3printl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP3PrintL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP3PrintL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP3PrintL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP3PrintL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP3PrintL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4299,7 +4299,7 @@
 
 ---
 #### uogOP4intL 
-[**`Results`**](./results.md#uogop4intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4intL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4intL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4intL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4intL.opinion.pdf) 
+[**`Results`**](./results.md#uogop4intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4intL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4intL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4intL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4intL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP4intL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4313,7 +4313,7 @@
 
 ---
 #### uogOP4ofL 
-[**`Results`**](./results.md#uogop4ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogop4ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP4ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4327,7 +4327,7 @@
 
 ---
 #### uogOP4Pr 
-[**`Results`**](./results.md#uogop4pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogop4pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP4Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4341,7 +4341,7 @@
 
 ---
 #### uogOP4PrintL 
-[**`Results`**](./results.md#uogop4printl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4PrintL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4PrintL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4PrintL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4PrintL.opinion.pdf) 
+[**`Results`**](./results.md#uogop4printl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP4PrintL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP4PrintL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP4PrintL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP4PrintL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP4PrintL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4355,7 +4355,7 @@
 
 ---
 #### uogOP5extL 
-[**`Results`**](./results.md#uogop5extl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5extL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5extL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5extL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5extL.opinion.pdf) 
+[**`Results`**](./results.md#uogop5extl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5extL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5extL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5extL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5extL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP5extL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4369,7 +4369,7 @@
 
 ---
 #### uogOP5ofL 
-[**`Results`**](./results.md#uogop5ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogop5ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP5ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4383,7 +4383,7 @@
 
 ---
 #### uogOP5Pr 
-[**`Results`**](./results.md#uogop5pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogop5pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP5Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4397,7 +4397,7 @@
 
 ---
 #### uogOP5PrintL 
-[**`Results`**](./results.md#uogop5printl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5PrintL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5PrintL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5PrintL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5PrintL.opinion.pdf) 
+[**`Results`**](./results.md#uogop5printl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOP5PrintL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOP5PrintL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOP5PrintL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOP5PrintL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOP5PrintL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4411,7 +4411,7 @@
 
 ---
 #### uogOPb1intL 
-[**`Results`**](./results.md#uogopb1intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1intL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1intL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1intL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1intL.opinion.pdf) 
+[**`Results`**](./results.md#uogopb1intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1intL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1intL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1intL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1intL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb1intL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4425,7 +4425,7 @@
 
 ---
 #### uogOPb1ofL 
-[**`Results`**](./results.md#uogopb1ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogopb1ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb1ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4439,7 +4439,7 @@
 
 ---
 #### uogOPb1Pr 
-[**`Results`**](./results.md#uogopb1pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogopb1pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb1Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4453,7 +4453,7 @@
 
 ---
 #### uogOPb1PrinL 
-[**`Results`**](./results.md#uogopb1prinl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1PrinL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1PrinL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1PrinL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1PrinL.opinion.pdf) 
+[**`Results`**](./results.md#uogopb1prinl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb1PrinL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb1PrinL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb1PrinL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb1PrinL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb1PrinL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4467,7 +4467,7 @@
 
 ---
 #### uogOPb2intl 
-[**`Results`**](./results.md#uogopb2intl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2intl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2intl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2intl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2intl.opinion.pdf) 
+[**`Results`**](./results.md#uogopb2intl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2intl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2intl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2intl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2intl.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb2intl 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4481,7 +4481,7 @@
 
 ---
 #### uogOPb2ofL 
-[**`Results`**](./results.md#uogopb2ofl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2ofL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2ofL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2ofL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2ofL.opinion.pdf) 
+[**`Results`**](./results.md#uogopb2ofl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2ofL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2ofL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2ofL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2ofL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb2ofL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4495,7 +4495,7 @@
 
 ---
 #### uogOPb2Pr 
-[**`Results`**](./results.md#uogopb2pr), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2Pr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2Pr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2Pr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2Pr.opinion.pdf) 
+[**`Results`**](./results.md#uogopb2pr) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2Pr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2Pr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2Pr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2Pr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb2Pr 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4509,7 +4509,7 @@
 
 ---
 #### uogOPb2PrinL 
-[**`Results`**](./results.md#uogopb2prinl), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2PrinL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2PrinL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2PrinL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2PrinL.opinion.pdf) 
+[**`Results`**](./results.md#uogopb2prinl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogOPb2PrinL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.uogOPb2PrinL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.uogOPb2PrinL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogOPb2PrinL.opinion.pdf) 
 
 - :material-rename: **Run ID:** uogOPb2PrinL 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4523,7 +4523,7 @@
 
 ---
 #### uogPL11 
-[**`Results`**](./results.md#uogpl11), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL11.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL11.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL11.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL11.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL11.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogpl11) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL11.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL11.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL11.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL11.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL11.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPL11 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4537,7 +4537,7 @@
 
 ---
 #### uogPL21 
-[**`Results`**](./results.md#uogpl21), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL21.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL21.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL21.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL21.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL21.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogpl21) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL21.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL21.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL21.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL21.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL21.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPL21 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4551,7 +4551,7 @@
 
 ---
 #### uogPL31 
-[**`Results`**](./results.md#uogpl31), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL31.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL31.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL31.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL31.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL31.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogpl31) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL31.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL31.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL31.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL31.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL31.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPL31 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4565,7 +4565,7 @@
 
 ---
 #### uogPL41 
-[**`Results`**](./results.md#uogpl41), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL41.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL41.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL41.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL41.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL41.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogpl41) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL41.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL41.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL41.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL41.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL41.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPL41 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4579,7 +4579,7 @@
 
 ---
 #### uogPL51 
-[**`Results`**](./results.md#uogpl51), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL51.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL51.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL51.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL51.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL51.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogpl51) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPL51.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPL51.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPL51.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL51.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPL51.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPL51 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4593,7 +4593,7 @@
 
 ---
 #### uogPLb11 
-[**`Results`**](./results.md#uogplb11), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPLb11.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPLb11.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPLb11.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb11.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb11.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogplb11) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPLb11.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPLb11.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPLb11.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb11.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb11.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPLb11 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4607,7 +4607,7 @@
 
 ---
 #### uogPLb21 
-[**`Results`**](./results.md#uogplb21), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPLb21.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPLb21.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPLb21.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb21.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb21.positive.polarity.pdf) 
+[**`Results`**](./results.md#uogplb21) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogPLb21.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.uogPLb21.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.uogPLb21.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb21.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogPLb21.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** uogPLb21 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4621,7 +4621,7 @@
 
 ---
 #### uogTrBDfe 
-[**`Results`**](./results.md#uogtrbdfe), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfe.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfe), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfe.pdf) 
+[**`Results`**](./results.md#uogtrbdfe) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfe.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfe) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfe.pdf) 
 
 - :material-rename: **Run ID:** uogTrBDfe 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4635,7 +4635,7 @@
 
 ---
 #### uogTrBDfeNP 
-[**`Results`**](./results.md#uogtrbdfenp), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNP.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNP), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNP.pdf) 
+[**`Results`**](./results.md#uogtrbdfenp) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNP) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNP.pdf) 
 
 - :material-rename: **Run ID:** uogTrBDfeNP 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4649,7 +4649,7 @@
 
 ---
 #### uogTrBDfeNPD 
-[**`Results`**](./results.md#uogtrbdfenpd), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNPD.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNPD), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNPD.pdf) 
+[**`Results`**](./results.md#uogtrbdfenpd) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNPD.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNPD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNPD.pdf) 
 
 - :material-rename: **Run ID:** uogTrBDfeNPD 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4663,7 +4663,7 @@
 
 ---
 #### uogTrBDfeNWD 
-[**`Results`**](./results.md#uogtrbdfenwd), [**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNWD.gz), [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNWD), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNWD.pdf) 
+[**`Results`**](./results.md#uogtrbdfenwd) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2008-experiments-in-blog-enterprise-and-relevance-feedback-tracks-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.uogTrBDfeNWD.gz) | [**`Summary`**](https://trec.nist.gov/results/trec17/blog/summary.uogTrBDfeNWD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/uogTrBDfeNWD.pdf) 
 
 - :material-rename: **Run ID:** uogTrBDfeNWD 
 - :fontawesome-solid-user-group: **Participant:** UoGtr 
@@ -4677,7 +4677,7 @@
 
 ---
 #### UWBase1 
-[**`Results`**](./results.md#uwbase1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWBase1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWBase1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWBase1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWBase1.baseline.pdf) 
+[**`Results`**](./results.md#uwbase1) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWBase1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWBase1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWBase1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWBase1.baseline.pdf) 
 
 - :material-rename: **Run ID:** UWBase1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4691,7 +4691,7 @@
 
 ---
 #### UWBase2 
-[**`Results`**](./results.md#uwbase2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWBase2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWBase2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWBase2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWBase2.baseline.pdf) 
+[**`Results`**](./results.md#uwbase2) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWBase2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWBase2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWBase2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWBase2.baseline.pdf) 
 
 - :material-rename: **Run ID:** UWBase2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4705,7 +4705,7 @@
 
 ---
 #### UWnb1Op 
-[**`Results`**](./results.md#uwnb1op), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb1Op.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb1Op.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb1Op.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Op.opinion.pdf) 
+[**`Results`**](./results.md#uwnb1op) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb1Op.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb1Op.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb1Op.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Op.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWnb1Op 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4719,7 +4719,7 @@
 
 ---
 #### UWnb1Pol 
-[**`Results`**](./results.md#uwnb1pol), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb1Pol.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb1Pol.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb1Pol.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Pol.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Pol.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwnb1pol) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb1Pol.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb1Pol.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb1Pol.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Pol.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb1Pol.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWnb1Pol 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4733,7 +4733,7 @@
 
 ---
 #### UWnb2Op 
-[**`Results`**](./results.md#uwnb2op), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb2Op.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb2Op.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb2Op.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Op.opinion.pdf) 
+[**`Results`**](./results.md#uwnb2op) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb2Op.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb2Op.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb2Op.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Op.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWnb2Op 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4747,7 +4747,7 @@
 
 ---
 #### UWnb2Pol 
-[**`Results`**](./results.md#uwnb2pol), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb2Pol.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb2Pol.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb2Pol.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Pol.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Pol.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwnb2pol) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb2Pol.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb2Pol.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb2Pol.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Pol.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb2Pol.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWnb2Pol 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4761,7 +4761,7 @@
 
 ---
 #### UWnb3Op 
-[**`Results`**](./results.md#uwnb3op), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb3Op.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb3Op.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb3Op.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Op.opinion.pdf) 
+[**`Results`**](./results.md#uwnb3op) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb3Op.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb3Op.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb3Op.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Op.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWnb3Op 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4775,7 +4775,7 @@
 
 ---
 #### UWnb3Pol 
-[**`Results`**](./results.md#uwnb3pol), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb3Pol.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb3Pol.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb3Pol.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Pol.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Pol.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwnb3pol) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb3Pol.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb3Pol.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb3Pol.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Pol.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb3Pol.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWnb3Pol 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4789,7 +4789,7 @@
 
 ---
 #### UWnb4Op 
-[**`Results`**](./results.md#uwnb4op), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb4Op.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb4Op.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb4Op.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Op.opinion.pdf) 
+[**`Results`**](./results.md#uwnb4op) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb4Op.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb4Op.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb4Op.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Op.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWnb4Op 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4803,7 +4803,7 @@
 
 ---
 #### UWnb4Pol 
-[**`Results`**](./results.md#uwnb4pol), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb4Pol.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb4Pol.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb4Pol.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Pol.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Pol.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwnb4pol) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb4Pol.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb4Pol.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb4Pol.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Pol.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb4Pol.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWnb4Pol 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4817,7 +4817,7 @@
 
 ---
 #### UWnb5Op 
-[**`Results`**](./results.md#uwnb5op), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb5Op.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb5Op.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb5Op.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Op.opinion.pdf) 
+[**`Results`**](./results.md#uwnb5op) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb5Op.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWnb5Op.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWnb5Op.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Op.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWnb5Op 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4831,7 +4831,7 @@
 
 ---
 #### UWnb5Pol 
-[**`Results`**](./results.md#uwnb5pol), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb5Pol.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb5Pol.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb5Pol.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Pol.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Pol.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwnb5pol) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWnb5Pol.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWnb5Pol.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWnb5Pol.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Pol.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWnb5Pol.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWnb5Pol 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4845,7 +4845,7 @@
 
 ---
 #### UWopinion1 
-[**`Results`**](./results.md#uwopinion1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWopinion1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWopinion1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWopinion1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWopinion1.opinion.pdf) 
+[**`Results`**](./results.md#uwopinion1) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWopinion1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWopinion1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWopinion1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWopinion1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWopinion1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4859,7 +4859,7 @@
 
 ---
 #### UWopinion2 
-[**`Results`**](./results.md#uwopinion2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWopinion2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWopinion2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWopinion2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWopinion2.opinion.pdf) 
+[**`Results`**](./results.md#uwopinion2) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWopinion2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.UWopinion2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.UWopinion2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWopinion2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UWopinion2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4873,7 +4873,7 @@
 
 ---
 #### UWpolarity1 
-[**`Results`**](./results.md#uwpolarity1), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWpolarity1.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWpolarity1.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWpolarity1.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity1.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity1.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwpolarity1) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWpolarity1.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWpolarity1.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWpolarity1.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity1.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity1.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWpolarity1 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4887,7 +4887,7 @@
 
 ---
 #### UWpolarity2 
-[**`Results`**](./results.md#uwpolarity2), [**`Participants`**](./participants.md#uwaterlooeng), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWpolarity2.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWpolarity2.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWpolarity2.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity2.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity2.positive.polarity.pdf) 
+[**`Results`**](./results.md#uwpolarity2) | [**`Participants`**](./participants.md#uwaterlooeng) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.UWpolarity2.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.UWpolarity2.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.UWpolarity2.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity2.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/UWpolarity2.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** UWpolarity2 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooEng 
@@ -4901,7 +4901,7 @@
 
 ---
 #### wdoqlnvN 
-[**`Results`**](./results.md#wdoqlnvn), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdoqlnvN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdoqlnvN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdoqlnvN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdoqlnvN.baseline.pdf) 
+[**`Results`**](./results.md#wdoqlnvn) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdoqlnvN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdoqlnvN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdoqlnvN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdoqlnvN.baseline.pdf) 
 
 - :material-rename: **Run ID:** wdoqlnvN 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4915,7 +4915,7 @@
 
 ---
 #### wdoqsBase 
-[**`Results`**](./results.md#wdoqsbase), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdoqsBase.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdoqsBase.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdoqsBase.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdoqsBase.baseline.pdf) 
+[**`Results`**](./results.md#wdoqsbase) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdoqsBase.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdoqsBase.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdoqsBase.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdoqsBase.baseline.pdf) 
 
 - :material-rename: **Run ID:** wdoqsBase 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4929,7 +4929,7 @@
 
 ---
 #### wdqbdt1mP5 
-[**`Results`**](./results.md#wdqbdt1mp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1mP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.wdqbdt1mP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.wdqbdt1mP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#wdqbdt1mp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1mP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.wdqbdt1mP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.wdqbdt1mP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** wdqbdt1mP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4943,7 +4943,7 @@
 
 ---
 #### wdqbdt1mRd 
-[**`Results`**](./results.md#wdqbdt1mrd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1mRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqbdt1mRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqbdt1mRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mRd.opinion.pdf) 
+[**`Results`**](./results.md#wdqbdt1mrd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1mRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqbdt1mRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqbdt1mRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1mRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** wdqbdt1mRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4957,7 +4957,7 @@
 
 ---
 #### wdqbdt1pP5 
-[**`Results`**](./results.md#wdqbdt1pp5), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1pP5.gz), [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.wdqbdt1pP5.gz), [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.wdqbdt1pP5.gz), [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pP5.negative.polarity.pdf), [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pP5.positive.polarity.pdf) 
+[**`Results`**](./results.md#wdqbdt1pp5) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1pP5.gz) | [**`Summary (negative)`**](https://trec.nist.gov/results/trec17/blog/summary.negative.wdqbdt1pP5.gz) | [**`Summary (positive)`**](https://trec.nist.gov/results/trec17/blog/summary.positive.wdqbdt1pP5.gz) | [**`Appendix (Negative Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pP5.negative.polarity.pdf) | [**`Appendix (Positive Polarity)`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pP5.positive.polarity.pdf) 
 
 - :material-rename: **Run ID:** wdqbdt1pP5 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4971,7 +4971,7 @@
 
 ---
 #### wdqbdt1pRd 
-[**`Results`**](./results.md#wdqbdt1prd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1pRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqbdt1pRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqbdt1pRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pRd.opinion.pdf) 
+[**`Results`**](./results.md#wdqbdt1prd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqbdt1pRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqbdt1pRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqbdt1pRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqbdt1pRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** wdqbdt1pRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4985,7 +4985,7 @@
 
 ---
 #### wdqfdt1mRd 
-[**`Results`**](./results.md#wdqfdt1mrd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqfdt1mRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqfdt1mRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqfdt1mRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqfdt1mRd.opinion.pdf) 
+[**`Results`**](./results.md#wdqfdt1mrd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqfdt1mRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqfdt1mRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqfdt1mRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqfdt1mRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** wdqfdt1mRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -4999,7 +4999,7 @@
 
 ---
 #### wdqfdt1pRd 
-[**`Results`**](./results.md#wdqfdt1prd), [**`Participants`**](./participants.md#iu-slis), [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqfdt1pRd.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqfdt1pRd.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqfdt1pRd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqfdt1pRd.opinion.pdf) 
+[**`Results`**](./results.md#wdqfdt1prd) | [**`Participants`**](./participants.md#iu-slis) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2008-blog-track-leveraging-multiple-sources-of-opinion-evidence) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.wdqfdt1pRd.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.wdqfdt1pRd.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.wdqfdt1pRd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/wdqfdt1pRd.opinion.pdf) 
 
 - :material-rename: **Run ID:** wdqfdt1pRd 
 - :fontawesome-solid-user-group: **Participant:** IU-SLIS 
@@ -5013,7 +5013,7 @@
 
 ---
 #### york08bb1 
-[**`Results`**](./results.md#york08bb1), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bb1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bb1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bb1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bb1.baseline.pdf) 
+[**`Results`**](./results.md#york08bb1) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bb1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bb1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bb1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bb1.baseline.pdf) 
 
 - :material-rename: **Run ID:** york08bb1 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -5027,7 +5027,7 @@
 
 ---
 #### york08bb2 
-[**`Results`**](./results.md#york08bb2), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bb2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bb2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bb2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bb2.baseline.pdf) 
+[**`Results`**](./results.md#york08bb2) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bb2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bb2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bb2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bb2.baseline.pdf) 
 
 - :material-rename: **Run ID:** york08bb2 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -5041,7 +5041,7 @@
 
 ---
 #### york08bo1a 
-[**`Results`**](./results.md#york08bo1a), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bo1a.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bo1a.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bo1a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bo1a.opinion.pdf) 
+[**`Results`**](./results.md#york08bo1a) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bo1a.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bo1a.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bo1a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bo1a.opinion.pdf) 
 
 - :material-rename: **Run ID:** york08bo1a 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -5055,7 +5055,7 @@
 
 ---
 #### york08bo3b 
-[**`Results`**](./results.md#york08bo3b), [**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track), [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bo3b.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bo3b.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bo3b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bo3b.opinion.pdf) 
+[**`Results`**](./results.md#york08bo3b) | [**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2008-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec17/blog/input.york08bo3b.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec17/blog/summary.opinion.york08bo3b.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec17/blog/summary.topicrel.york08bo3b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec17/appendices/blog/york08bo3b.opinion.pdf) 
 
 - :material-rename: **Run ID:** york08bo3b 
 - :fontawesome-solid-user-group: **Participant:** york 

@@ -1,7 +1,7 @@
 # Runs - Real-time Summarization 2018 
 
 #### BJUT-BJUT_run1-A-03 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run1-A-03.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run1-A-03.pdf) 
 
 - :material-rename: **Run ID:** BJUT-BJUT_run1-A-03 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -12,7 +12,7 @@
 
 ---
 #### BJUT-BJUT_run2-A-04 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run2-A-04.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run2-A-04.pdf) 
 
 - :material-rename: **Run ID:** BJUT-BJUT_run2-A-04 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -23,7 +23,7 @@
 
 ---
 #### BJUT-BJUT_run3-A-05 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run3-A-05.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/BJUT-BJUT_run3-A-05.pdf) 
 
 - :material-rename: **Run ID:** BJUT-BJUT_run3-A-05 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -34,7 +34,7 @@
 
 ---
 #### bjut_run1 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run1.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run1.pdf) 
 
 - :material-rename: **Run ID:** bjut_run1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -48,7 +48,7 @@
 
 ---
 #### bjut_run2 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run2.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run2.pdf) 
 
 - :material-rename: **Run ID:** bjut_run2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -62,7 +62,7 @@
 
 ---
 #### bjut_run3 
-[**`Participants`**](./participants.md#bjut), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run3.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/bjut_run3.pdf) 
 
 - :material-rename: **Run ID:** bjut_run3 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -76,7 +76,7 @@
 
 ---
 #### IR-N 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-N.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-N.pdf) 
 
 - :material-rename: **Run ID:** IR-N 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -90,7 +90,7 @@
 
 ---
 #### IR-NR1 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR1.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR1.pdf) 
 
 - :material-rename: **Run ID:** IR-NR1 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -104,7 +104,7 @@
 
 ---
 #### IR-NR2 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR2.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IR-NR2.pdf) 
 
 - :material-rename: **Run ID:** IR-NR2 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -118,7 +118,7 @@
 
 ---
 #### IRIT-IRIT-Run1-06 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run1-06.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run1-06.pdf) 
 
 - :material-rename: **Run ID:** IRIT-IRIT-Run1-06 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -129,7 +129,7 @@
 
 ---
 #### IRIT-IRIT-Run2-07 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run2-07.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run2-07.pdf) 
 
 - :material-rename: **Run ID:** IRIT-IRIT-Run2-07 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -140,7 +140,7 @@
 
 ---
 #### IRIT-IRIT-Run3-08 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run3-08.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-IRIT-Run3-08.pdf) 
 
 - :material-rename: **Run ID:** IRIT-IRIT-Run3-08 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -151,7 +151,7 @@
 
 ---
 #### IRIT-RunB1 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB1.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB1.pdf) 
 
 - :material-rename: **Run ID:** IRIT-RunB1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -165,7 +165,7 @@
 
 ---
 #### IRIT-RunB2 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB2.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB2.pdf) 
 
 - :material-rename: **Run ID:** IRIT-RunB2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -179,7 +179,7 @@
 
 ---
 #### IRIT-RunB3 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB3.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-real-time-summarization-2018) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRIT-RunB3.pdf) 
 
 - :material-rename: **Run ID:** IRIT-RunB3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -193,7 +193,7 @@
 
 ---
 #### IRLAB-LDRP1 
-[**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP1.pdf) 
+[**`Participants`**](./participants.md#ldrp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP1.pdf) 
 
 - :material-rename: **Run ID:** IRLAB-LDRP1 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
@@ -206,7 +206,7 @@
 
 ---
 #### IRLAB-LDRP2 
-[**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP2.pdf) 
+[**`Participants`**](./participants.md#ldrp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/IRLAB-LDRP2.pdf) 
 
 - :material-rename: **Run ID:** IRLAB-LDRP2 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
@@ -219,7 +219,7 @@
 
 ---
 #### LDRP-ldrpTest-09 
-[**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-09.pdf) 
+[**`Participants`**](./participants.md#ldrp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-09.pdf) 
 
 - :material-rename: **Run ID:** LDRP-ldrpTest-09 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
@@ -230,7 +230,7 @@
 
 ---
 #### LDRP-ldrpTest-10 
-[**`Participants`**](./participants.md#ldrp), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-10.pdf) 
+[**`Participants`**](./participants.md#ldrp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/LDRP-ldrpTest-10.pdf) 
 
 - :material-rename: **Run ID:** LDRP-ldrpTest-10 
 - :fontawesome-solid-user-group: **Participant:** LDRP 
@@ -241,7 +241,7 @@
 
 ---
 #### ldrpitr-ldrpitr_Run2-12 
-[**`Participants`**](./participants.md#ldrpitr), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitr_Run2-12.pdf) 
+[**`Participants`**](./participants.md#ldrpitr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitr_Run2-12.pdf) 
 
 - :material-rename: **Run ID:** ldrpitr-ldrpitr_Run2-12 
 - :fontawesome-solid-user-group: **Participant:** ldrpitr 
@@ -252,7 +252,7 @@
 
 ---
 #### ldrpitr-ldrpitrTest-11 
-[**`Participants`**](./participants.md#ldrpitr), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitrTest-11.pdf) 
+[**`Participants`**](./participants.md#ldrpitr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/ldrpitr-ldrpitrTest-11.pdf) 
 
 - :material-rename: **Run ID:** ldrpitr-ldrpitrTest-11 
 - :fontawesome-solid-user-group: **Participant:** ldrpitr 
@@ -263,7 +263,7 @@
 
 ---
 #### UA_GPLSI-GPLSI-runA1-13 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA1-13.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA1-13.pdf) 
 
 - :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA1-13 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -274,7 +274,7 @@
 
 ---
 #### UA_GPLSI-GPLSI-runA2-14 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA2-14.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA2-14.pdf) 
 
 - :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA2-14 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -285,7 +285,7 @@
 
 ---
 #### UA_GPLSI-GPLSI-runA3-15 
-[**`Participants`**](./participants.md#ua-gplsi), [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA3-15.pdf) 
+[**`Participants`**](./participants.md#ua-gplsi) | [**`Proceedings`**](./proceedings.md#gplsi-at-trec-2018-rts-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/UA_GPLSI-GPLSI-runA3-15.pdf) 
 
 - :material-rename: **Run ID:** UA_GPLSI-GPLSI-runA3-15 
 - :fontawesome-solid-user-group: **Participant:** UA-Gplsi 
@@ -296,7 +296,7 @@
 
 ---
 #### umd_hcil-primary_run-16 
-[**`Participants`**](./participants.md#umd_hcil), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/umd_hcil-primary_run-16.pdf) 
+[**`Participants`**](./participants.md#umd_hcil) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/rts/umd_hcil-primary_run-16.pdf) 
 
 - :material-rename: **Run ID:** umd_hcil-primary_run-16 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 

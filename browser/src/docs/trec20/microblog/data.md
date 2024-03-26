@@ -1,6 +1,6 @@
 # Data - Microblog 2011 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/microblog2011.html`](https://trec.nist.gov/data/microblog2011.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/microblog2011.html`](https://trec.nist.gov/data/microblog2011.html)
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-**Other:** [`eval-microblog.pl`](https://trec.nist.gov/data/microblog/11/eval-microblog.pl), [`lucene-baseline.gz`](https://trec.nist.gov/data/microblog/11/lucene-baseline.gz), [`eval.lucene-baseline`](https://trec.nist.gov/data/microblog/11/eval.lucene-baseline)
+**Other:** [`eval-microblog.pl`](https://trec.nist.gov/data/microblog/11/eval-microblog.pl) | [`lucene-baseline.gz`](https://trec.nist.gov/data/microblog/11/lucene-baseline.gz) | [`eval.lucene-baseline`](https://trec.nist.gov/data/microblog/11/eval.lucene-baseline)

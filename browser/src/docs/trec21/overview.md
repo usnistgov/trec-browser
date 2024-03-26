@@ -2,7 +2,7 @@
 
 ## Microblog
 
-[`Overview`](./microblog/overview.md), [`Proceedings`](./microblog/proceedings.md), [`Data`](./microblog/data.md), [`Results`](./microblog/results.md), [`Runs`](./microblog/runs.md), [`Participants`](./microblog/participants.md)
+[`Overview`](./microblog/overview.md) | [`Proceedings`](./microblog/proceedings.md) | [`Data`](./microblog/data.md) | [`Results`](./microblog/results.md) | [`Runs`](./microblog/runs.md) | [`Participants`](./microblog/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The Microblog track examines search tasks and evaluation methodologies for infor
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -44,7 +44,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ## Contextual Suggestion
 
-[`Overview`](./context/overview.md), [`Proceedings`](./context/proceedings.md), [`Data`](./context/data.md), [`Runs`](./context/runs.md), [`Participants`](./context/participants.md)
+[`Overview`](./context/overview.md) | [`Proceedings`](./context/proceedings.md) | [`Data`](./context/data.md) | [`Runs`](./context/runs.md) | [`Participants`](./context/participants.md)
 
 {==
 
@@ -67,7 +67,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 ## Medical
 
-[`Overview`](./medical/overview.md), [`Proceedings`](./medical/proceedings.md), [`Data`](./medical/data.md), [`Results`](./medical/results.md), [`Runs`](./medical/runs.md), [`Participants`](./medical/participants.md)
+[`Overview`](./medical/overview.md) | [`Proceedings`](./medical/proceedings.md) | [`Data`](./medical/data.md) | [`Results`](./medical/results.md) | [`Runs`](./medical/runs.md) | [`Participants`](./medical/participants.md)
 
 {==
 
@@ -87,7 +87,7 @@ The TREC Medical Records track fosters research that allows electronic health re
 
 ## Session
 
-[`Overview`](./session/overview.md), [`Proceedings`](./session/proceedings.md), [`Data`](./session/data.md), [`Results`](./session/results.md), [`Runs`](./session/runs.md), [`Participants`](./session/participants.md)
+[`Overview`](./session/overview.md) | [`Proceedings`](./session/proceedings.md) | [`Data`](./session/data.md) | [`Results`](./session/results.md) | [`Runs`](./session/runs.md) | [`Participants`](./session/participants.md)
 
 {==
 
@@ -110,7 +110,7 @@ The TREC Session track ran for the third time in 2012. The track has the primary
 
 ## Crowdsourcing
 
-[`Overview`](./crowd/overview.md), [`Proceedings`](./crowd/proceedings.md), [`Runs`](./crowd/runs.md), [`Participants`](./crowd/participants.md)
+[`Overview`](./crowd/overview.md) | [`Proceedings`](./crowd/proceedings.md) | [`Runs`](./crowd/runs.md) | [`Participants`](./crowd/participants.md)
 
 {==
 
@@ -131,7 +131,7 @@ In 2012, the Crowdsourcing track had two separate tasks: a text relevance assess
 
 ## Knowledge Base Acceleration
 
-[`Overview`](./kba/overview.md), [`Proceedings`](./kba/proceedings.md), [`Data`](./kba/data.md), [`Runs`](./kba/runs.md), [`Participants`](./kba/participants.md)
+[`Overview`](./kba/overview.md) | [`Proceedings`](./kba/proceedings.md) | [`Data`](./kba/data.md) | [`Runs`](./kba/runs.md) | [`Participants`](./kba/participants.md)
 
 {==
 

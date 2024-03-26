@@ -39,7 +39,7 @@
 #### EmoryIrLab
  - :fontawesome-solid-user-group: **Name:** Denis Savenkov
  - :octicons-organization-16: **Organization:** Emory University
- - :material-file-search: **Runs:** [EmoryCrowd](./runs.md#emorycrowd), [OutOfmEmory](./runs.md#outofmemory)
+ - :material-file-search: **Runs:** [EmoryCrowd](./runs.md#emorycrowd) | [OutOfmEmory](./runs.md#outofmemory)
 
 ---
 #### IR.SFSU.2016
@@ -57,13 +57,13 @@
 #### NUDT681
  - :fontawesome-solid-user-group: **Name:** ZhongCheng Zhou
  - :octicons-organization-16: **Organization:** National University of Defense Technology
- - :material-file-search: **Runs:** [NUDT681](./runs.md#nudt681), [NUDT681__](./runs.md#nudt681__), [NUDT681_2](./runs.md#nudt681_2), [NUDT681_3](./runs.md#nudt681_3)
+ - :material-file-search: **Runs:** [NUDT681](./runs.md#nudt681) | [NUDT681__](./runs.md#nudt681__) | [NUDT681_2](./runs.md#nudt681_2) | [NUDT681_3](./runs.md#nudt681_3)
 
 ---
 #### NUDTMDP
  - :fontawesome-solid-user-group: **Name:** Chao An
  - :octicons-organization-16: **Organization:** College of Computer, National University of Defense Technology
- - :material-file-search: **Runs:** [NUDTMDP1](./runs.md#nudtmdp1), [NUDTMDP2](./runs.md#nudtmdp2)
+ - :material-file-search: **Runs:** [NUDTMDP1](./runs.md#nudtmdp1) | [NUDTMDP2](./runs.md#nudtmdp2)
 
 ---
 #### prna
@@ -75,13 +75,13 @@
 #### QU
  - :fontawesome-solid-user-group: **Name:** Tamer Elsayed
  - :octicons-organization-16: **Organization:** Qatar University
- - :material-file-search: **Runs:** [QU](./runs.md#qu), [QU2](./runs.md#qu2), [QU3](./runs.md#qu3)
+ - :material-file-search: **Runs:** [QU](./runs.md#qu) | [QU2](./runs.md#qu2) | [QU3](./runs.md#qu3)
 
 ---
 #### RMIT
  - :fontawesome-solid-user-group: **Name:** Shane Culpepper
  - :octicons-organization-16: **Organization:** RMIT University
- - :material-file-search: **Runs:** [RMIT-11](./runs.md#rmit-11), [RMIT-12](./runs.md#rmit-12), [RMIT-1](./runs.md#rmit-1), [RMIT-2](./runs.md#rmit-2)
+ - :material-file-search: **Runs:** [RMIT-11](./runs.md#rmit-11) | [RMIT-12](./runs.md#rmit-12) | [RMIT-1](./runs.md#rmit-1) | [RMIT-2](./runs.md#rmit-2)
 
 ---
 #### WaterlooClarke

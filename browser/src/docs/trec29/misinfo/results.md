@@ -6,7 +6,7 @@ search:
 # Results - Health Misinformation 2020 
 
 #### CiTIUSCrdAdh 
-[**`Metadata`**](./runs.md#citiuscrdadh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdAdh.pdf)
+[**`Metadata`**](./runs.md#citiuscrdadh) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdAdh.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdAdh)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdAdh.pdf)
 ??? example "summary (trec_eval)"
 	```
 	CiTIUSCrdAdh	binary.useful	ndcg	all	0.0585
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### CiTIUSCrdRelAdh 
-[**`Metadata`**](./runs.md#citiuscrdreladh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdRelAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdRelAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdRelAdh.pdf)
+[**`Metadata`**](./runs.md#citiuscrdreladh) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSCrdRelAdh.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSCrdRelAdh)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSCrdRelAdh.pdf)
 ??? example "summary (trec_eval)"
 	```
 	CiTIUSCrdRelAdh	binary.useful	ndcg	all	0.2091
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### CiTIUSSimAdh 
-[**`Metadata`**](./runs.md#citiussimadh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimAdh.pdf)
+[**`Metadata`**](./runs.md#citiussimadh) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimAdh.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimAdh)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimAdh.pdf)
 ??? example "summary (trec_eval)"
 	```
 	CiTIUSSimAdh	binary.useful	ndcg	all	0.1636
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### CiTIUSSimRelAdh 
-[**`Metadata`**](./runs.md#citiussimreladh), [**`Participants`**](./participants.md#citius), [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimRelAdh.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimRelAdh), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimRelAdh.pdf)
+[**`Metadata`**](./runs.md#citiussimreladh) | [**`Participants`**](./participants.md#citius) | [**`Proceedings`**](./proceedings.md#citius-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.CiTIUSSimRelAdh.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.CiTIUSSimRelAdh)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/CiTIUSSimRelAdh.pdf)
 ??? example "summary (trec_eval)"
 	```
 	CiTIUSSimRelAdh	binary.useful	ndcg	all	0.3321
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### bm25_title 
-[**`Metadata`**](./runs.md#bm25_title), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_title.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_title), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_title.pdf)
+[**`Metadata`**](./runs.md#bm25_title) | [**`Participants`**](./participants.md#uwaterloomds)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_title.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_title)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_title.pdf)
 ??? example "summary (trec_eval)"
 	```
 	bm25_title	binary.useful	ndcg	all	0.4610
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### bm25_desc 
-[**`Metadata`**](./runs.md#bm25_desc), [**`Participants`**](./participants.md#uwaterloomds), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_desc.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_desc), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_desc.pdf)
+[**`Metadata`**](./runs.md#bm25_desc) | [**`Participants`**](./participants.md#uwaterloomds)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.bm25_desc.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.bm25_desc)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/bm25_desc.pdf)
 ??? example "summary (trec_eval)"
 	```
 	bm25_desc	binary.useful	ndcg	all	0.6047
@@ -84,7 +84,7 @@ search:
 	```
 ---
 #### cn-m-title 
-[**`Metadata`**](./runs.md#cn-m-title), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-m-title.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-m-title), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-m-title.pdf)
+[**`Metadata`**](./runs.md#cn-m-title) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-m-title.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-m-title)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-m-title.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-m-title	binary.useful	ndcg	all	0.4434
@@ -97,7 +97,7 @@ search:
 	```
 ---
 #### cn-title-2 
-[**`Metadata`**](./runs.md#cn-title-2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-title-2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-title-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-title-2.pdf)
+[**`Metadata`**](./runs.md#cn-title-2) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-title-2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-title-2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-title-2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-title-2	binary.useful	ndcg	all	0.4126
@@ -110,7 +110,7 @@ search:
 	```
 ---
 #### cn-descr-2 
-[**`Metadata`**](./runs.md#cn-descr-2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-descr-2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-descr-2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-descr-2.pdf)
+[**`Metadata`**](./runs.md#cn-descr-2) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-descr-2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-descr-2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-descr-2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-descr-2	binary.useful	ndcg	all	0.3846
@@ -123,7 +123,7 @@ search:
 	```
 ---
 #### cn-ax-rer 
-[**`Metadata`**](./runs.md#cn-ax-rer), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-ax-rer.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-ax-rer), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-ax-rer.pdf)
+[**`Metadata`**](./runs.md#cn-ax-rer) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-ax-rer.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-ax-rer)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-ax-rer.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-ax-rer	binary.useful	ndcg	all	0.4040
@@ -136,7 +136,7 @@ search:
 	```
 ---
 #### RSL_BM25 
-[**`Metadata`**](./runs.md#rsl_bm25), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25.pdf)
+[**`Metadata`**](./runs.md#rsl_bm25) | [**`Participants`**](./participants.md#realsakailab) | [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	RSL_BM25	binary.useful	ndcg	all	0.4610
@@ -149,7 +149,7 @@ search:
 	```
 ---
 #### RSL_BM25LC 
-[**`Metadata`**](./runs.md#rsl_bm25lc), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LC.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LC), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LC.pdf)
+[**`Metadata`**](./runs.md#rsl_bm25lc) | [**`Participants`**](./participants.md#realsakailab) | [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LC.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LC)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LC.pdf)
 ??? example "summary (trec_eval)"
 	```
 	RSL_BM25LC	binary.useful	ndcg	all	0.4699
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### cn-kq 
-[**`Metadata`**](./runs.md#cn-kq), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq.pdf)
+[**`Metadata`**](./runs.md#cn-kq) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-kq	binary.useful	ndcg	all	0.1976
@@ -175,7 +175,7 @@ search:
 	```
 ---
 #### cn-kq-t-td 
-[**`Metadata`**](./runs.md#cn-kq-t-td), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-t-td.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-t-td), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-t-td.pdf)
+[**`Metadata`**](./runs.md#cn-kq-t-td) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-t-td.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-t-td)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-t-td.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-kq-t-td	binary.useful	ndcg	all	0.3410
@@ -188,7 +188,7 @@ search:
 	```
 ---
 #### cn-kq-td 
-[**`Metadata`**](./runs.md#cn-kq-td), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-td.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-td), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-td.pdf)
+[**`Metadata`**](./runs.md#cn-kq-td) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2020-health-misinformation-track-extended-abstract)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.cn-kq-td.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.cn-kq-td)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/cn-kq-td.pdf)
 ??? example "summary (trec_eval)"
 	```
 	cn-kq-td	binary.useful	ndcg	all	0.2575
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### adhoc_run1 
-[**`Metadata`**](./runs.md#adhoc_run1), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run1.pdf)
+[**`Metadata`**](./runs.md#adhoc_run1) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run1	binary.useful	ndcg	all	0.6077
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### adhoc_run2 
-[**`Metadata`**](./runs.md#adhoc_run2), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run2.pdf)
+[**`Metadata`**](./runs.md#adhoc_run2) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run2	binary.useful	ndcg	all	0.6163
@@ -227,7 +227,7 @@ search:
 	```
 ---
 #### adhoc_run3 
-[**`Metadata`**](./runs.md#adhoc_run3), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run3.pdf)
+[**`Metadata`**](./runs.md#adhoc_run3) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run3	binary.useful	ndcg	all	0.6170
@@ -240,7 +240,7 @@ search:
 	```
 ---
 #### adhoc_run4 
-[**`Metadata`**](./runs.md#adhoc_run4), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run4.pdf)
+[**`Metadata`**](./runs.md#adhoc_run4) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run4.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run4)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run4	binary.useful	ndcg	all	0.6229
@@ -253,7 +253,7 @@ search:
 	```
 ---
 #### adhoc_run5 
-[**`Metadata`**](./runs.md#adhoc_run5), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run5.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run5.pdf)
+[**`Metadata`**](./runs.md#adhoc_run5) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run5	binary.useful	ndcg	all	0.6187
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### adhoc_run6 
-[**`Metadata`**](./runs.md#adhoc_run6), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run6.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run6), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run6.pdf)
+[**`Metadata`**](./runs.md#adhoc_run6) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run6.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run6)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run6.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run6	binary.useful	ndcg	all	0.6223
@@ -279,7 +279,7 @@ search:
 	```
 ---
 #### adhoc_run7 
-[**`Metadata`**](./runs.md#adhoc_run7), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run7.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run7), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run7.pdf)
+[**`Metadata`**](./runs.md#adhoc_run7) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run7.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run7)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run7.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run7	binary.useful	ndcg	all	0.6227
@@ -292,7 +292,7 @@ search:
 	```
 ---
 #### adhoc_run8 
-[**`Metadata`**](./runs.md#adhoc_run8), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run8.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run8), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run8.pdf)
+[**`Metadata`**](./runs.md#adhoc_run8) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run8.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run8)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run8	binary.useful	ndcg	all	0.6189
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### adhoc_run9 
-[**`Metadata`**](./runs.md#adhoc_run9), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run9.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run9), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run9.pdf)
+[**`Metadata`**](./runs.md#adhoc_run9) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run9.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run9)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run9.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run9	binary.useful	ndcg	all	0.5859
@@ -318,7 +318,7 @@ search:
 	```
 ---
 #### adhoc_run10 
-[**`Metadata`**](./runs.md#adhoc_run10), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run10.pdf)
+[**`Metadata`**](./runs.md#adhoc_run10) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run10.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run10)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run10	binary.useful	ndcg	all	0.6027
@@ -331,7 +331,7 @@ search:
 	```
 ---
 #### adhoc_run11 
-[**`Metadata`**](./runs.md#adhoc_run11), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run11.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run11), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run11.pdf)
+[**`Metadata`**](./runs.md#adhoc_run11) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run11.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run11)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run11.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run11	binary.useful	ndcg	all	0.6333
@@ -344,7 +344,7 @@ search:
 	```
 ---
 #### adhoc_run12 
-[**`Metadata`**](./runs.md#adhoc_run12), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run12.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run12), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run12.pdf)
+[**`Metadata`**](./runs.md#adhoc_run12) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run12.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run12)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run12.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run12	binary.useful	ndcg	all	0.5675
@@ -357,7 +357,7 @@ search:
 	```
 ---
 #### adhoc_run13 
-[**`Metadata`**](./runs.md#adhoc_run13), [**`Participants`**](./participants.md#ku), [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run13.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run13), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run13.pdf)
+[**`Metadata`**](./runs.md#adhoc_run13) | [**`Participants`**](./participants.md#ku) | [**`Proceedings`**](./proceedings.md#university-of-copenhagen-participation-in-trec-health-misinformation-track-2020)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.adhoc_run13.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.adhoc_run13)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/adhoc_run13.pdf)
 ??? example "summary (trec_eval)"
 	```
 	adhoc_run13	binary.useful	ndcg	all	0.5926
@@ -370,7 +370,7 @@ search:
 	```
 ---
 #### NLM_CTM_R1 
-[**`Metadata`**](./runs.md#nlm_ctm_r1), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R1.pdf)
+[**`Metadata`**](./runs.md#nlm_ctm_r1) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_CTM_R1	binary.useful	ndcg	all	0.3856
@@ -383,7 +383,7 @@ search:
 	```
 ---
 #### NLM_CTM_R2 
-[**`Metadata`**](./runs.md#nlm_ctm_r2), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R2.pdf)
+[**`Metadata`**](./runs.md#nlm_ctm_r2) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_CTM_R2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_CTM_R2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_CTM_R2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_CTM_R2	binary.useful	ndcg	all	0.2377
@@ -396,7 +396,7 @@ search:
 	```
 ---
 #### NLM_BNU_T5_CTM 
-[**`Metadata`**](./runs.md#nlm_bnu_t5_ctm), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_T5_CTM.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_T5_CTM), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_T5_CTM.pdf)
+[**`Metadata`**](./runs.md#nlm_bnu_t5_ctm) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_T5_CTM.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_T5_CTM)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_T5_CTM.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_BNU_T5_CTM	binary.useful	ndcg	all	0.2522
@@ -409,7 +409,7 @@ search:
 	```
 ---
 #### NLM_BNU_ENS_NLI 
-[**`Metadata`**](./runs.md#nlm_bnu_ens_nli), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_ENS_NLI.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_ENS_NLI), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_ENS_NLI.pdf)
+[**`Metadata`**](./runs.md#nlm_bnu_ens_nli) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_ENS_NLI.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_ENS_NLI)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_ENS_NLI.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_BNU_ENS_NLI	binary.useful	ndcg	all	0.1407
@@ -422,7 +422,7 @@ search:
 	```
 ---
 #### NLM_TME_NLIR 
-[**`Metadata`**](./runs.md#nlm_tme_nlir), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_NLIR.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_NLIR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_NLIR.pdf)
+[**`Metadata`**](./runs.md#nlm_tme_nlir) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_NLIR.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_NLIR)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_NLIR.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_TME_NLIR	binary.useful	ndcg	all	0.1923
@@ -435,7 +435,7 @@ search:
 	```
 ---
 #### NLM_E3 
-[**`Metadata`**](./runs.md#nlm_e3), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E3.pdf)
+[**`Metadata`**](./runs.md#nlm_e3) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_E3	binary.useful	ndcg	all	0.2755
@@ -448,7 +448,7 @@ search:
 	```
 ---
 #### NLM_TME 
-[**`Metadata`**](./runs.md#nlm_tme), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME.pdf)
+[**`Metadata`**](./runs.md#nlm_tme) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_TME	binary.useful	ndcg	all	0.3651
@@ -461,7 +461,7 @@ search:
 	```
 ---
 #### RSL_BM25LM 
-[**`Metadata`**](./runs.md#rsl_bm25lm), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LM.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LM), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LM.pdf)
+[**`Metadata`**](./runs.md#rsl_bm25lm) | [**`Participants`**](./participants.md#realsakailab) | [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LM.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LM)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LM.pdf)
 ??? example "summary (trec_eval)"
 	```
 	RSL_BM25LM	binary.useful	ndcg	all	0.4540
@@ -474,7 +474,7 @@ search:
 	```
 ---
 #### RSL_BM25LMC 
-[**`Metadata`**](./runs.md#rsl_bm25lmc), [**`Participants`**](./participants.md#realsakailab), [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LMC.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LMC), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LMC.pdf)
+[**`Metadata`**](./runs.md#rsl_bm25lmc) | [**`Participants`**](./participants.md#realsakailab) | [**`Proceedings`**](./proceedings.md#realsakailab-at-the-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.RSL_BM25LMC.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.RSL_BM25LMC)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/RSL_BM25LMC.pdf)
 ??? example "summary (trec_eval)"
 	```
 	RSL_BM25LMC	binary.useful	ndcg	all	0.4712
@@ -487,7 +487,7 @@ search:
 	```
 ---
 #### NLM_BNU_E_GH 
-[**`Metadata`**](./runs.md#nlm_bnu_e_gh), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_E_GH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_E_GH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_E_GH.pdf)
+[**`Metadata`**](./runs.md#nlm_bnu_e_gh) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_BNU_E_GH.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_BNU_E_GH)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_BNU_E_GH.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_BNU_E_GH	binary.useful	ndcg	all	0.2925
@@ -500,7 +500,7 @@ search:
 	```
 ---
 #### vohcolabEvSim 
-[**`Metadata`**](./runs.md#vohcolabevsim), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohcolabEvSim.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohcolabEvSim), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohcolabEvSim.pdf)
+[**`Metadata`**](./runs.md#vohcolabevsim) | [**`Participants`**](./participants.md#vohcolab) | [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohcolabEvSim.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohcolabEvSim)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohcolabEvSim.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vohcolabEvSim	binary.useful	ndcg	all	0.4287
@@ -513,7 +513,7 @@ search:
 	```
 ---
 #### NLM_TME_GH 
-[**`Metadata`**](./runs.md#nlm_tme_gh), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_GH.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_GH), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_GH.pdf)
+[**`Metadata`**](./runs.md#nlm_tme_gh) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_TME_GH.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_TME_GH)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_TME_GH.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_TME_GH	binary.useful	ndcg	all	0.3653
@@ -526,7 +526,7 @@ search:
 	```
 ---
 #### NLM_E4 
-[**`Metadata`**](./runs.md#nlm_e4), [**`Participants`**](./participants.md#nlm), [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E4.pdf)
+[**`Metadata`**](./runs.md#nlm_e4) | [**`Participants`**](./participants.md#nlm) | [**`Proceedings`**](./proceedings.md#nlm-at-trec-2020-health-misinformation-and-deep-learning-tracks)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.NLM_E4.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.NLM_E4)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/NLM_E4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	NLM_E4	binary.useful	ndcg	all	0.3159
@@ -539,7 +539,7 @@ search:
 	```
 ---
 #### h2oloo.m1 
-[**`Metadata`**](./runs.md#h2oloom1), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m1.pdf)
+[**`Metadata`**](./runs.md#h2oloom1) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m1.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m1)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m1.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m1	binary.useful	ndcg	all	0.6077
@@ -552,7 +552,7 @@ search:
 	```
 ---
 #### h2oloo.m2 
-[**`Metadata`**](./runs.md#h2oloom2), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m2.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m2.pdf)
+[**`Metadata`**](./runs.md#h2oloom2) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m2.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m2)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m2.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m2	binary.useful	ndcg	all	0.6387
@@ -565,7 +565,7 @@ search:
 	```
 ---
 #### h2oloo.m3 
-[**`Metadata`**](./runs.md#h2oloom3), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m3.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m3.pdf)
+[**`Metadata`**](./runs.md#h2oloom3) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m3.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m3)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m3.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m3	binary.useful	ndcg	all	0.6443
@@ -578,7 +578,7 @@ search:
 	```
 ---
 #### h2oloo.m4 
-[**`Metadata`**](./runs.md#h2oloom4), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m4.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m4.pdf)
+[**`Metadata`**](./runs.md#h2oloom4) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m4.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m4)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m4.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m4	binary.useful	ndcg	all	0.6596
@@ -591,7 +591,7 @@ search:
 	```
 ---
 #### h2oloo.m5 
-[**`Metadata`**](./runs.md#h2oloom5), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m5.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m5.pdf)
+[**`Metadata`**](./runs.md#h2oloom5) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m5.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m5)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m5.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m5	binary.useful	ndcg	all	0.6661
@@ -604,7 +604,7 @@ search:
 	```
 ---
 #### vohbm25 
-[**`Metadata`**](./runs.md#vohbm25), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohbm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohbm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohbm25.pdf)
+[**`Metadata`**](./runs.md#vohbm25) | [**`Participants`**](./participants.md#vohcolab) | [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-health-misinformation-track)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.vohbm25.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.vohbm25)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/vohbm25.pdf)
 ??? example "summary (trec_eval)"
 	```
 	vohbm25	binary.useful	ndcg	all	0.6077
@@ -617,7 +617,7 @@ search:
 	```
 ---
 #### h2oloo.m9 
-[**`Metadata`**](./runs.md#h2oloom9), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m9.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m9), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m9.pdf)
+[**`Metadata`**](./runs.md#h2oloom9) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m9.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m9)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m9.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m9	binary.useful	ndcg	all	0.6439
@@ -630,7 +630,7 @@ search:
 	```
 ---
 #### h2oloo.m10 
-[**`Metadata`**](./runs.md#h2oloom10), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m10.pdf)
+[**`Metadata`**](./runs.md#h2oloom10) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m10.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m10)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m10.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m10	binary.useful	ndcg	all	0.6281
@@ -643,7 +643,7 @@ search:
 	```
 ---
 #### h2oloo.m7 
-[**`Metadata`**](./runs.md#h2oloom7), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m7.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m7), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m7.pdf)
+[**`Metadata`**](./runs.md#h2oloom7) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m7.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m7)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m7.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m7	binary.useful	ndcg	all	0.5758
@@ -656,7 +656,7 @@ search:
 	```
 ---
 #### h2oloo.m8 
-[**`Metadata`**](./runs.md#h2oloom8), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m8.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m8), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m8.pdf)
+[**`Metadata`**](./runs.md#h2oloom8) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine)| [**`Input`**](https://trec.nist.gov/results/trec29/misinfo/input.h2oloo.m8.gz)| [**`Summary`**](https://trec.nist.gov/results/trec29/misinfo/summary.trec_eval.h2oloo.m8)| [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/misinfo/h2oloo.m8.pdf)
 ??? example "summary (trec_eval)"
 	```
 	h2oloo.m8	binary.useful	ndcg	all	0.6018

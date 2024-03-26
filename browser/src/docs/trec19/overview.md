@@ -2,7 +2,7 @@
 
 ## Blog
 
-[`Overview`](./blog/overview.md), [`Proceedings`](./blog/proceedings.md), [`Data`](./blog/data.md), [`Results`](./blog/results.md), [`Runs`](./blog/runs.md), [`Participants`](./blog/participants.md)
+[`Overview`](./blog/overview.md) | [`Proceedings`](./blog/proceedings.md) | [`Data`](./blog/data.md) | [`Results`](./blog/results.md) | [`Runs`](./blog/runs.md) | [`Participants`](./blog/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The Blog track aims to investigate the information seeking behaviour in the blog
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -44,7 +44,7 @@ The TREC Web Track explores and evaluates Web retrieval technology over large co
 
 ## Chemical
 
-[`Overview`](./chemical/overview.md), [`Proceedings`](./chemical/proceedings.md), [`Data`](./chemical/data.md), [`Results`](./chemical/results.md), [`Runs`](./chemical/runs.md), [`Participants`](./chemical/participants.md)
+[`Overview`](./chemical/overview.md) | [`Proceedings`](./chemical/proceedings.md) | [`Data`](./chemical/data.md) | [`Results`](./chemical/results.md) | [`Runs`](./chemical/runs.md) | [`Participants`](./chemical/participants.md)
 
 {==
 
@@ -66,7 +66,7 @@ The TREC Chemical IR Track is a domain-specific evaluation campaign working with
 
 ## Relevance Feedback
 
-[`Overview`](./relfdbk/overview.md), [`Proceedings`](./relfdbk/proceedings.md), [`Data`](./relfdbk/data.md), [`Runs`](./relfdbk/runs.md), [`Participants`](./relfdbk/participants.md)
+[`Overview`](./relfdbk/overview.md) | [`Proceedings`](./relfdbk/proceedings.md) | [`Data`](./relfdbk/data.md) | [`Runs`](./relfdbk/runs.md) | [`Participants`](./relfdbk/participants.md)
 
 {==
 
@@ -87,7 +87,7 @@ This is the third year of the TREC relevance feedback track. The first year conc
 
 ## Legal
 
-[`Overview`](./legal/overview.md), [`Proceedings`](./legal/proceedings.md), [`Data`](./legal/data.md), [`Runs`](./legal/runs.md), [`Participants`](./legal/participants.md)
+[`Overview`](./legal/overview.md) | [`Proceedings`](./legal/proceedings.md) | [`Data`](./legal/data.md) | [`Runs`](./legal/runs.md) | [`Participants`](./legal/participants.md)
 
 {==
 
@@ -109,7 +109,7 @@ TREC 2010 was the fifth year of the Legal Track, which focuses on evaluation of 
 
 ## Session
 
-[`Overview`](./session/overview.md), [`Proceedings`](./session/proceedings.md), [`Data`](./session/data.md), [`Runs`](./session/runs.md), [`Participants`](./session/participants.md)
+[`Overview`](./session/overview.md) | [`Proceedings`](./session/proceedings.md) | [`Data`](./session/data.md) | [`Runs`](./session/runs.md) | [`Participants`](./session/participants.md)
 
 {==
 
@@ -131,7 +131,7 @@ Research in Information Retrieval has traditionally focused on serving the best 
 
 ## Entity
 
-[`Overview`](./entity/overview.md), [`Proceedings`](./entity/proceedings.md), [`Data`](./entity/data.md), [`Results`](./entity/results.md), [`Runs`](./entity/runs.md), [`Participants`](./entity/participants.md)
+[`Overview`](./entity/overview.md) | [`Proceedings`](./entity/proceedings.md) | [`Data`](./entity/data.md) | [`Results`](./entity/results.md) | [`Runs`](./entity/runs.md) | [`Participants`](./entity/participants.md)
 
 {==
 

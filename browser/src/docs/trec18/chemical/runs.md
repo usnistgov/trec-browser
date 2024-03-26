@@ -1,7 +1,7 @@
 # Runs - Chemical 2009 
 
 #### BiTeM09 
-[**`Results`**](./results.md#bitem09), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -15,7 +15,7 @@
 
 ---
 #### BiTeM09comb 
-[**`Results`**](./results.md#bitem09comb), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09comb.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09comb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09comb) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09comb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09comb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09comb 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -29,7 +29,7 @@
 
 ---
 #### BiTeM09ipc1 
-[**`Results`**](./results.md#bitem09ipc1), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09ipc1) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09ipc1 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -43,7 +43,7 @@
 
 ---
 #### BiTeM09ipc3 
-[**`Results`**](./results.md#bitem09ipc3), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09ipc3) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09ipc3 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -57,7 +57,7 @@
 
 ---
 #### BiTeM09ipc3b 
-[**`Results`**](./results.md#bitem09ipc3b), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc3b.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc3b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09ipc3b) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc3b.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc3b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09ipc3b 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -71,7 +71,7 @@
 
 ---
 #### BiTeM09ipc5 
-[**`Results`**](./results.md#bitem09ipc5), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09ipc5) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09ipc5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09ipc5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09ipc5 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -85,7 +85,7 @@
 
 ---
 #### BiTeM09PAbl 
-[**`Results`**](./results.md#bitem09pabl), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAbl.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAbl.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAbl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09pabl) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAbl.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAbl.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAbl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAbl 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -99,7 +99,7 @@
 
 ---
 #### BiTeM09PAcba 
-[**`Results`**](./results.md#bitem09pacba), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcba.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcba.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcba.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09pacba) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcba.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcba.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcba.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAcba 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -113,7 +113,7 @@
 
 ---
 #### BiTeM09PAcbb 
-[**`Results`**](./results.md#bitem09pacbb), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcbb.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcbb.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcbb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09pacbb) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcbb.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcbb.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcbb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAcbb 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -127,7 +127,7 @@
 
 ---
 #### BiTeM09PAcit 
-[**`Results`**](./results.md#bitem09pacit), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcit.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcit.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcit.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09pacit) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcit.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcit.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcit.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAcit 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -141,7 +141,7 @@
 
 ---
 #### BiTeM09PAcl 
-[**`Results`**](./results.md#bitem09pacl), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcl.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcl.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09pacl) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAcl.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAcl.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAcl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAcl 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -155,7 +155,7 @@
 
 ---
 #### BiTeM09PAqe 
-[**`Results`**](./results.md#bitem09paqe), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAqe.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAqe.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAqe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#bitem09paqe) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09PAqe.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.BiTeM09PAqe.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.BiTeM09PAqe.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09PAqe 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -169,7 +169,7 @@
 
 ---
 #### BiTeM09po 
-[**`Results`**](./results.md#bitem09po), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09po.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09po.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09po) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09po.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09po.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09po 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -183,7 +183,7 @@
 
 ---
 #### BiTeM09qe 
-[**`Results`**](./results.md#bitem09qe), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09qe.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09qe.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09qe) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09qe.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09qe.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09qe 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -197,7 +197,7 @@
 
 ---
 #### BiTeM09qepo 
-[**`Results`**](./results.md#bitem09qepo), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09qepo.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09qepo.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#bitem09qepo) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#report-on-the-trec-2009-experiments-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.BiTeM09qepo.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.BiTeM09qepo.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** BiTeM09qepo 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -211,7 +211,7 @@
 
 ---
 #### CMU09Chmtcd 
-[**`Results`**](./results.md#cmu09chmtcd), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#formulating-simple-structured-queries-using-temporal-and-distributional-cues-in-patents), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.CMU09Chmtcd.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.CMU09Chmtcd.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.CMU09Chmtcd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#cmu09chmtcd) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#formulating-simple-structured-queries-using-temporal-and-distributional-cues-in-patents) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.CMU09Chmtcd.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.CMU09Chmtcd.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.CMU09Chmtcd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** CMU09Chmtcd 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -225,7 +225,7 @@
 
 ---
 #### CMU09Chmtcdd 
-[**`Results`**](./results.md#cmu09chmtcdd), [**`Participants`**](./participants.md#cmu_lira), [**`Proceedings`**](./proceedings.md#formulating-simple-structured-queries-using-temporal-and-distributional-cues-in-patents), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.CMU09Chmtcdd.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.CMU09Chmtcdd.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.CMU09Chmtcdd.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#cmu09chmtcdd) | [**`Participants`**](./participants.md#cmu_lira) | [**`Proceedings`**](./proceedings.md#formulating-simple-structured-queries-using-temporal-and-distributional-cues-in-patents) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.CMU09Chmtcdd.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.CMU09Chmtcdd.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.CMU09Chmtcdd.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** CMU09Chmtcdd 
 - :fontawesome-solid-user-group: **Participant:** CMU_LIRA 
@@ -239,7 +239,7 @@
 
 ---
 #### DUT09TSRun1 
-[**`Results`**](./results.md#dut09tsrun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dut09tsrun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUT09TSRun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -253,7 +253,7 @@
 
 ---
 #### DUT09TSRun2 
-[**`Results`**](./results.md#dut09tsrun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dut09tsrun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUT09TSRun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -267,7 +267,7 @@
 
 ---
 #### DUT09TSRun3 
-[**`Results`**](./results.md#dut09tsrun3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dut09tsrun3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUT09TSRun3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -281,7 +281,7 @@
 
 ---
 #### DUT09TSRun4 
-[**`Results`**](./results.md#dut09tsrun4), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dut09tsrun4) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUT09TSRun4 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -295,7 +295,7 @@
 
 ---
 #### DUT09TSRun6 
-[**`Results`**](./results.md#dut09tsrun6), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun6.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dut09tsrun6) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUT09TSRun6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUT09TSRun6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUT09TSRun6 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -309,7 +309,7 @@
 
 ---
 #### DUTIR09BM25F 
-[**`Results`**](./results.md#dutir09bm25f), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIR09BM25F.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUTIR09BM25F.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#dutir09bm25f) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIR09BM25F.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.DUTIR09BM25F.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** DUTIR09BM25F 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -323,7 +323,7 @@
 
 ---
 #### DUTIRRun1 
-[**`Results`**](./results.md#dutirrun1), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#dutirrun1) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRun1 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -337,7 +337,7 @@
 
 ---
 #### DUTIRRun2 
-[**`Results`**](./results.md#dutirrun2), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#dutirrun2) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRun2 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -351,7 +351,7 @@
 
 ---
 #### DUTIRRun3 
-[**`Results`**](./results.md#dutirrun3), [**`Participants`**](./participants.md#dutir), [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#dutirrun3) | [**`Participants`**](./participants.md#dutir) | [**`Proceedings`**](./proceedings.md#dutir-at-trec-2009-chemical-ir-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.DUTIRRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.DUTIRRun3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** DUTIRRun3 
 - :fontawesome-solid-user-group: **Participant:** DUTIR 
@@ -365,7 +365,7 @@
 
 ---
 #### msoe09TSx1 
-[**`Results`**](./results.md#msoe09tsx1), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#msoe09tsx1) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx1 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -379,7 +379,7 @@
 
 ---
 #### msoe09TSx1ta 
-[**`Results`**](./results.md#msoe09tsx1ta), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx1ta.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx1ta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#msoe09tsx1ta) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx1ta.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx1ta.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx1ta 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -393,7 +393,7 @@
 
 ---
 #### msoe09TSx2 
-[**`Results`**](./results.md#msoe09tsx2), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#msoe09tsx2) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx2 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -407,7 +407,7 @@
 
 ---
 #### msoe09TSx2ta 
-[**`Results`**](./results.md#msoe09tsx2ta), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx2ta.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx2ta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#msoe09tsx2ta) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx2ta.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx2ta.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx2ta 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -421,7 +421,7 @@
 
 ---
 #### msoe09TSx3 
-[**`Results`**](./results.md#msoe09tsx3), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#msoe09tsx3) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx3 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -435,7 +435,7 @@
 
 ---
 #### msoe09TSx3ta 
-[**`Results`**](./results.md#msoe09tsx3ta), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx3ta.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx3ta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#msoe09tsx3ta) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx3ta.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx3ta.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx3ta 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -449,7 +449,7 @@
 
 ---
 #### msoe09TSx4 
-[**`Results`**](./results.md#msoe09tsx4), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx4.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#msoe09tsx4) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx4 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -463,7 +463,7 @@
 
 ---
 #### msoe09TSx4ta 
-[**`Results`**](./results.md#msoe09tsx4ta), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx4ta.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx4ta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#msoe09tsx4ta) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx4ta.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx4ta.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx4ta 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -477,7 +477,7 @@
 
 ---
 #### msoe09TSx5 
-[**`Results`**](./results.md#msoe09tsx5), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#msoe09tsx5) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.msoe09TSx5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx5 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -491,7 +491,7 @@
 
 ---
 #### msoe09TSx5ta 
-[**`Results`**](./results.md#msoe09tsx5ta), [**`Participants`**](./participants.md#msoe), [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx5ta.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx5ta.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#msoe09tsx5ta) | [**`Participants`**](./participants.md#msoe) | [**`Proceedings`**](./proceedings.md#trec-chemical-ir-track-2009-a-distributed-dimensional-indexing-model-for-chemical-patent-search) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.msoe09TSx5ta.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.msoe09TSx5ta.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** msoe09TSx5ta 
 - :fontawesome-solid-user-group: **Participant:** msoe 
@@ -505,7 +505,7 @@
 
 ---
 #### purduePA09r1 
-[**`Results`**](./results.md#purduepa09r1), [**`Participants`**](./participants.md#purdue_si), [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purduePA09r1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.purduePA09r1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#purduepa09r1) | [**`Participants`**](./participants.md#purdue_si) | [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purduePA09r1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.purduePA09r1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** purduePA09r1 
 - :fontawesome-solid-user-group: **Participant:** Purdue_Si 
@@ -519,7 +519,7 @@
 
 ---
 #### purduePA09r2 
-[**`Results`**](./results.md#purduepa09r2), [**`Participants`**](./participants.md#purdue_si), [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purduePA09r2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.purduePA09r2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#purduepa09r2) | [**`Participants`**](./participants.md#purdue_si) | [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purduePA09r2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.purduePA09r2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** purduePA09r2 
 - :fontawesome-solid-user-group: **Participant:** Purdue_Si 
@@ -533,7 +533,7 @@
 
 ---
 #### purdueTS09r1 
-[**`Results`**](./results.md#purduets09r1), [**`Participants`**](./participants.md#purdue_si), [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purdueTS09r1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.purdueTS09r1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#purduets09r1) | [**`Participants`**](./participants.md#purdue_si) | [**`Proceedings`**](./proceedings.md#strategies-for-effective-chemical-information-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.purdueTS09r1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.purdueTS09r1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** purdueTS09r1 
 - :fontawesome-solid-user-group: **Participant:** Purdue_Si 
@@ -547,7 +547,7 @@
 
 ---
 #### SCAI09PAf1a 
-[**`Results`**](./results.md#scai09paf1a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf1a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf1a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -561,7 +561,7 @@
 
 ---
 #### SCAI09PAf1b 
-[**`Results`**](./results.md#scai09paf1b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf1b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf1b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -575,7 +575,7 @@
 
 ---
 #### SCAI09PAf1c 
-[**`Results`**](./results.md#scai09paf1c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf1c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf1c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -589,7 +589,7 @@
 
 ---
 #### SCAI09PAf1d 
-[**`Results`**](./results.md#scai09paf1d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf1d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf1d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -603,7 +603,7 @@
 
 ---
 #### SCAI09PAf1e 
-[**`Results`**](./results.md#scai09paf1e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf1e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf1e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf1e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf1e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf1e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -617,7 +617,7 @@
 
 ---
 #### SCAI09PAf2a 
-[**`Results`**](./results.md#scai09paf2a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf2a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf2a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -631,7 +631,7 @@
 
 ---
 #### SCAI09PAf2b 
-[**`Results`**](./results.md#scai09paf2b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf2b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf2b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -645,7 +645,7 @@
 
 ---
 #### SCAI09PAf2c 
-[**`Results`**](./results.md#scai09paf2c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf2c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf2c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -659,7 +659,7 @@
 
 ---
 #### SCAI09PAf2d 
-[**`Results`**](./results.md#scai09paf2d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf2d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf2d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -673,7 +673,7 @@
 
 ---
 #### SCAI09PAf2e 
-[**`Results`**](./results.md#scai09paf2e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf2e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf2e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf2e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf2e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf2e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -687,7 +687,7 @@
 
 ---
 #### SCAI09PAf3a 
-[**`Results`**](./results.md#scai09paf3a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf3a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf3a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -701,7 +701,7 @@
 
 ---
 #### SCAI09PAf3b 
-[**`Results`**](./results.md#scai09paf3b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf3b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf3b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -715,7 +715,7 @@
 
 ---
 #### SCAI09PAf3c 
-[**`Results`**](./results.md#scai09paf3c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf3c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf3c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -729,7 +729,7 @@
 
 ---
 #### SCAI09PAf3d 
-[**`Results`**](./results.md#scai09paf3d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf3d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf3d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -743,7 +743,7 @@
 
 ---
 #### SCAI09PAf3e 
-[**`Results`**](./results.md#scai09paf3e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf3e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf3e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf3e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf3e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf3e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -757,7 +757,7 @@
 
 ---
 #### SCAI09PAf4a 
-[**`Results`**](./results.md#scai09paf4a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf4a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf4a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -771,7 +771,7 @@
 
 ---
 #### SCAI09PAf4b 
-[**`Results`**](./results.md#scai09paf4b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf4b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf4b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -785,7 +785,7 @@
 
 ---
 #### SCAI09PAf4c 
-[**`Results`**](./results.md#scai09paf4c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09paf4c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAf4c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAf4c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAf4c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAf4c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -799,7 +799,7 @@
 
 ---
 #### SCAI09PAt1a 
-[**`Results`**](./results.md#scai09pat1a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat1a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt1a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -813,7 +813,7 @@
 
 ---
 #### SCAI09PAt1b 
-[**`Results`**](./results.md#scai09pat1b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat1b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt1b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -827,7 +827,7 @@
 
 ---
 #### SCAI09PAt1c 
-[**`Results`**](./results.md#scai09pat1c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat1c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt1c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -841,7 +841,7 @@
 
 ---
 #### SCAI09PAt1d 
-[**`Results`**](./results.md#scai09pat1d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat1d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt1d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -855,7 +855,7 @@
 
 ---
 #### SCAI09PAt1e 
-[**`Results`**](./results.md#scai09pat1e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat1e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt1e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt1e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt1e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt1e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -869,7 +869,7 @@
 
 ---
 #### SCAI09PAt2a 
-[**`Results`**](./results.md#scai09pat2a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat2a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt2a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -883,7 +883,7 @@
 
 ---
 #### SCAI09PAt2b 
-[**`Results`**](./results.md#scai09pat2b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat2b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt2b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -897,7 +897,7 @@
 
 ---
 #### SCAI09PAt2c 
-[**`Results`**](./results.md#scai09pat2c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat2c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt2c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -911,7 +911,7 @@
 
 ---
 #### SCAI09PAt2d 
-[**`Results`**](./results.md#scai09pat2d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat2d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt2d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -925,7 +925,7 @@
 
 ---
 #### SCAI09PAt2e 
-[**`Results`**](./results.md#scai09pat2e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat2e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt2e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt2e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt2e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt2e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -939,7 +939,7 @@
 
 ---
 #### SCAI09PAt3a 
-[**`Results`**](./results.md#scai09pat3a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat3a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt3a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -953,7 +953,7 @@
 
 ---
 #### SCAI09PAt3b 
-[**`Results`**](./results.md#scai09pat3b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat3b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt3b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -967,7 +967,7 @@
 
 ---
 #### SCAI09PAt3c 
-[**`Results`**](./results.md#scai09pat3c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat3c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt3c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -981,7 +981,7 @@
 
 ---
 #### SCAI09PAt3d 
-[**`Results`**](./results.md#scai09pat3d), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3d.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3d.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat3d) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3d.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3d.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt3d 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -995,7 +995,7 @@
 
 ---
 #### SCAI09PAt3e 
-[**`Results`**](./results.md#scai09pat3e), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3e.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3e.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3e.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat3e) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt3e.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt3e.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt3e.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt3e 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1009,7 +1009,7 @@
 
 ---
 #### SCAI09PAt4a 
-[**`Results`**](./results.md#scai09pat4a), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4a.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4a.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4a.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat4a) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4a.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4a.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4a.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt4a 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1023,7 +1023,7 @@
 
 ---
 #### SCAI09PAt4b 
-[**`Results`**](./results.md#scai09pat4b), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4b.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4b.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4b.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat4b) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4b.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4b.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4b.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt4b 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1037,7 +1037,7 @@
 
 ---
 #### SCAI09PAt4c 
-[**`Results`**](./results.md#scai09pat4c), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4c.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4c.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4c.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#scai09pat4c) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09PAt4c.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.SCAI09PAt4c.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.SCAI09PAt4c.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** SCAI09PAt4c 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1051,7 +1051,7 @@
 
 ---
 #### SCAI09TSMAN 
-[**`Results`**](./results.md#scai09tsman), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSMAN.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSMAN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#scai09tsman) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSMAN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSMAN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** SCAI09TSMAN 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1065,7 +1065,7 @@
 
 ---
 #### SCAI09TSNP 
-[**`Results`**](./results.md#scai09tsnp), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSNP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSNP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#scai09tsnp) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSNP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSNP.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** SCAI09TSNP 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1079,7 +1079,7 @@
 
 ---
 #### SCAI09TSPM 
-[**`Results`**](./results.md#scai09tspm), [**`Participants`**](./participants.md#nerchem116), [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSPM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSPM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#scai09tspm) | [**`Participants`**](./participants.md#nerchem116) | [**`Proceedings`**](./proceedings.md#patent-retrieval-in-chemistry-based-on-semantically-tagged-named-entities) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.SCAI09TSPM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.SCAI09TSPM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** SCAI09TSPM 
 - :fontawesome-solid-user-group: **Participant:** NERCHEM116 
@@ -1093,7 +1093,7 @@
 
 ---
 #### UIowaS09PA1 
-[**`Results`**](./results.md#uiowas09pa1), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA1.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.UIowaS09PA1.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#uiowas09pa1) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA1.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.UIowaS09PA1.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** UIowaS09PA1 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -1107,7 +1107,7 @@
 
 ---
 #### UIowaS09PA2 
-[**`Results`**](./results.md#uiowas09pa2), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#uiowas09pa2) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** UIowaS09PA2 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -1121,7 +1121,7 @@
 
 ---
 #### UIowaS09PA3 
-[**`Results`**](./results.md#uiowas09pa3), [**`Participants`**](./participants.md#iowas), [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
+[**`Results`**](./results.md#uiowas09pa3) | [**`Participants`**](./participants.md#iowas) | [**`Proceedings`**](./proceedings.md#trec-blog-and-trec-chem-a-view-from-the-corn-fields) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.UIowaS09PA3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.small.UIowaS09PA3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.sm.pdf) 
 
 - :material-rename: **Run ID:** UIowaS09PA3 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -1135,7 +1135,7 @@
 
 ---
 #### york09ca02 
-[**`Results`**](./results.md#york09ca02), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca02.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca02) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca02.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca02 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1149,7 +1149,7 @@
 
 ---
 #### york09ca03 
-[**`Results`**](./results.md#york09ca03), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca03.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca03) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca03.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca03 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1163,7 +1163,7 @@
 
 ---
 #### york09ca04 
-[**`Results`**](./results.md#york09ca04), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca04.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca04) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca04.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca04 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1177,7 +1177,7 @@
 
 ---
 #### york09ca05 
-[**`Results`**](./results.md#york09ca05), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca05.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca05) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca05.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca05.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca05 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1191,7 +1191,7 @@
 
 ---
 #### york09ca06 
-[**`Results`**](./results.md#york09ca06), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca06.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca06) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca06.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca06.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca06 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1205,7 +1205,7 @@
 
 ---
 #### york09ca07 
-[**`Results`**](./results.md#york09ca07), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca07.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca07.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca07) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca07.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca07.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca07 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1219,7 +1219,7 @@
 
 ---
 #### york09ca08 
-[**`Results`**](./results.md#york09ca08), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca08.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca08.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
+[**`Results`**](./results.md#york09ca08) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09ca08.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/chemical/summary.eval.york09ca08.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.tech-survey.pdf) 
 
 - :material-rename: **Run ID:** york09ca08 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1233,7 +1233,7 @@
 
 ---
 #### york09caPA01 
-[**`Results`**](./results.md#york09capa01), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09caPA01.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.york09caPA01.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.york09caPA01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#york09capa01) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09caPA01.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.york09caPA01.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.york09caPA01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** york09caPA01 
 - :fontawesome-solid-user-group: **Participant:** york09 
@@ -1247,7 +1247,7 @@
 
 ---
 #### york09caPA03 
-[**`Results`**](./results.md#york09capa03), [**`Participants`**](./participants.md#york09), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track), [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09caPA03.gz), [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.york09caPA03.gz), [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.york09caPA03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
+[**`Results`**](./results.md#york09capa03) | [**`Participants`**](./participants.md#york09) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2009-chemical-track) | [**`Input`**](https://trec.nist.gov/results/trec18/chemical/input.york09caPA03.gz) | [**`Summary (full)`**](https://trec.nist.gov/results/trec18/chemical/summary.full.york09caPA03.gz) | [**`Summary (small)`**](https://trec.nist.gov/results/trec18/chemical/summary.small.york09caPA03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/chem.prior-art.pdf) 
 
 - :material-rename: **Run ID:** york09caPA03 
 - :fontawesome-solid-user-group: **Participant:** york09 

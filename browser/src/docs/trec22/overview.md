@@ -2,7 +2,7 @@
 
 ## Knowledge Base Acceleration
 
-[`Overview`](./kba/overview.md), [`Proceedings`](./kba/proceedings.md), [`Data`](./kba/data.md), [`Runs`](./kba/runs.md), [`Participants`](./kba/participants.md)
+[`Overview`](./kba/overview.md) | [`Proceedings`](./kba/proceedings.md) | [`Data`](./kba/data.md) | [`Runs`](./kba/runs.md) | [`Participants`](./kba/participants.md)
 
 {==
 
@@ -28,7 +28,7 @@ The Knowledge Base Acceleration (KBA) track in TREC 2013 expanded the entity-cen
 
 ## Contextual Suggestion
 
-[`Overview`](./context/overview.md), [`Proceedings`](./context/proceedings.md), [`Data`](./context/data.md), [`Runs`](./context/runs.md), [`Participants`](./context/participants.md)
+[`Overview`](./context/overview.md) | [`Proceedings`](./context/proceedings.md) | [`Data`](./context/data.md) | [`Runs`](./context/runs.md) | [`Participants`](./context/participants.md)
 
 {==
 
@@ -52,7 +52,7 @@ The contextual suggestion track investigates search techniques for complex infor
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -74,7 +74,7 @@ The goal of the TREC Web track is to explore and evaluate retrieval approaches o
 
 ## Federated Web Search
 
-[`Overview`](./federated/overview.md), [`Proceedings`](./federated/proceedings.md), [`Data`](./federated/data.md), [`Runs`](./federated/runs.md), [`Participants`](./federated/participants.md)
+[`Overview`](./federated/overview.md) | [`Proceedings`](./federated/proceedings.md) | [`Data`](./federated/data.md) | [`Runs`](./federated/runs.md) | [`Participants`](./federated/participants.md)
 
 {==
 
@@ -96,7 +96,7 @@ The TREC Federated Web Search track is intended to promote research related to f
 
 ## Microblog
 
-[`Overview`](./microblog/overview.md), [`Proceedings`](./microblog/proceedings.md), [`Data`](./microblog/data.md), [`Results`](./microblog/results.md), [`Runs`](./microblog/runs.md), [`Participants`](./microblog/participants.md)
+[`Overview`](./microblog/overview.md) | [`Proceedings`](./microblog/proceedings.md) | [`Data`](./microblog/data.md) | [`Results`](./microblog/results.md) | [`Runs`](./microblog/runs.md) | [`Participants`](./microblog/participants.md)
 
 {==
 
@@ -116,7 +116,7 @@ This year represents the third iteration of the TREC Microblog track, which bega
 
 ## Temporal Summarization
 
-[`Overview`](./tempsumm/overview.md), [`Proceedings`](./tempsumm/proceedings.md), [`Data`](./tempsumm/data.md), [`Runs`](./tempsumm/runs.md), [`Participants`](./tempsumm/participants.md)
+[`Overview`](./tempsumm/overview.md) | [`Proceedings`](./tempsumm/proceedings.md) | [`Data`](./tempsumm/data.md) | [`Runs`](./tempsumm/runs.md) | [`Participants`](./tempsumm/participants.md)
 
 {==
 
@@ -139,7 +139,7 @@ Unexpected news events such as earthquakes or natural disasters represent a uniq
 
 ## Session
 
-[`Overview`](./session/overview.md), [`Proceedings`](./session/proceedings.md), [`Data`](./session/data.md), [`Results`](./session/results.md), [`Runs`](./session/runs.md), [`Participants`](./session/participants.md)
+[`Overview`](./session/overview.md) | [`Proceedings`](./session/proceedings.md) | [`Data`](./session/data.md) | [`Results`](./session/results.md) | [`Runs`](./session/runs.md) | [`Participants`](./session/participants.md)
 
 {==
 
@@ -162,7 +162,7 @@ The TREC Session track ran for the fourth time in 2013. The track has the primar
 
 ## Crowdsourcing
 
-[`Overview`](./crowd/overview.md), [`Proceedings`](./crowd/proceedings.md), [`Runs`](./crowd/runs.md), [`Participants`](./crowd/participants.md)
+[`Overview`](./crowd/overview.md) | [`Proceedings`](./crowd/proceedings.md) | [`Runs`](./crowd/runs.md) | [`Participants`](./crowd/participants.md)
 
 {==
 

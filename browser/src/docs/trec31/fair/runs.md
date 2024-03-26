@@ -1,7 +1,7 @@
 # Runs - Fair Ranking 2022 
 
 #### 0mt5 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5.pdf) 
 
 - :material-rename: **Run ID:** 0mt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -14,7 +14,7 @@
 
 ---
 #### 0mt5_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_e.pdf) 
 
 - :material-rename: **Run ID:** 0mt5_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -27,7 +27,7 @@
 
 ---
 #### 0mt5_p 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_p.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_p.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_p.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_p.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_p.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_p.pdf) 
 
 - :material-rename: **Run ID:** 0mt5_p 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -40,7 +40,7 @@
 
 ---
 #### 0mt5_p_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_p_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_p_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_p_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.0mt5_p_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.0mt5_p_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/0mt5_p_e.pdf) 
 
 - :material-rename: **Run ID:** 0mt5_p_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -53,7 +53,7 @@
 
 ---
 #### ans_bm25 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.ans_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.ans_bm25.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/ans_bm25.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.ans_bm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.ans_bm25.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/ans_bm25.pdf) 
 
 - :material-rename: **Run ID:** ans_bm25 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -66,7 +66,7 @@
 
 ---
 #### ans_bm25_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.ans_bm25_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.ans_bm25_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/ans_bm25_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.ans_bm25_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.ans_bm25_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/ans_bm25_e.pdf) 
 
 - :material-rename: **Run ID:** ans_bm25_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -79,7 +79,7 @@
 
 ---
 #### bm25_p 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.bm25_p.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.bm25_p.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/bm25_p.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.bm25_p.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.bm25_p.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/bm25_p.pdf) 
 
 - :material-rename: **Run ID:** bm25_p 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -92,7 +92,7 @@
 
 ---
 #### bm25_p_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.bm25_p_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.bm25_p_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/bm25_p_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.bm25_p_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.bm25_p_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/bm25_p_e.pdf) 
 
 - :material-rename: **Run ID:** bm25_p_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -105,7 +105,7 @@
 
 ---
 #### FRT_attention 
-[**`Participants`**](./participants.md#v-ryerson), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_attention.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_attention.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_attention.pdf) 
+[**`Participants`**](./participants.md#v-ryerson) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_attention.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_attention.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_attention.pdf) 
 
 - :material-rename: **Run ID:** FRT_attention 
 - :fontawesome-solid-user-group: **Participant:** V-Ryerson 
@@ -118,7 +118,7 @@
 
 ---
 #### FRT_constraint 
-[**`Participants`**](./participants.md#v-ryerson), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_constraint.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_constraint.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_constraint.pdf) 
+[**`Participants`**](./participants.md#v-ryerson) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_constraint.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_constraint.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_constraint.pdf) 
 
 - :material-rename: **Run ID:** FRT_constraint 
 - :fontawesome-solid-user-group: **Participant:** V-Ryerson 
@@ -131,7 +131,7 @@
 
 ---
 #### FRT_diversity 
-[**`Participants`**](./participants.md#v-ryerson), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_diversity.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_diversity.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_diversity.pdf) 
+[**`Participants`**](./participants.md#v-ryerson) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.FRT_diversity.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.FRT_diversity.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/FRT_diversity.pdf) 
 
 - :material-rename: **Run ID:** FRT_diversity 
 - :fontawesome-solid-user-group: **Participant:** V-Ryerson 
@@ -144,7 +144,7 @@
 
 ---
 #### rmit_cidda_ir_1 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_1.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_1.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_1.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_1.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_1 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -157,7 +157,7 @@
 
 ---
 #### rmit_cidda_ir_2 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_2.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_2.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_2.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_2.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_2 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -170,7 +170,7 @@
 
 ---
 #### rmit_cidda_ir_3 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_3.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_3.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_3.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_3.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_3.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_3 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -183,7 +183,7 @@
 
 ---
 #### rmit_cidda_ir_4 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_4.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_4.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_4.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_4.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_4.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_4 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -196,7 +196,7 @@
 
 ---
 #### rmit_cidda_ir_5 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_5.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_5.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_5.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_5.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_5 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -209,7 +209,7 @@
 
 ---
 #### rmit_cidda_ir_6 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_6.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_6.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_6.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_6.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_6.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_6 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -222,7 +222,7 @@
 
 ---
 #### rmit_cidda_ir_7 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_7.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_7.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_7.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_7.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_7.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_7.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_7 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -235,7 +235,7 @@
 
 ---
 #### rmit_cidda_ir_8 
-[**`Participants`**](./participants.md#rmit_cidda_ir), [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_8.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_8.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_8.pdf) 
+[**`Participants`**](./participants.md#rmit_cidda_ir) | [**`Proceedings`**](./proceedings.md#rmit-cidda-ir-at-the-trec-2022-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.rmit_cidda_ir_8.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.rmit_cidda_ir_8.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/rmit_cidda_ir_8.pdf) 
 
 - :material-rename: **Run ID:** rmit_cidda_ir_8 
 - :fontawesome-solid-user-group: **Participant:** rmit_cidda_ir 
@@ -248,7 +248,7 @@
 
 ---
 #### tmt5 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5.pdf) 
 
 - :material-rename: **Run ID:** tmt5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -261,7 +261,7 @@
 
 ---
 #### tmt5_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_e.pdf) 
 
 - :material-rename: **Run ID:** tmt5_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -274,7 +274,7 @@
 
 ---
 #### tmt5_p 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_p.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_p.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_p.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_p.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_p.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_p.pdf) 
 
 - :material-rename: **Run ID:** tmt5_p 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -287,7 +287,7 @@
 
 ---
 #### tmt5_p_e 
-[**`Participants`**](./participants.md#h2oloo), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_p_e.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_p_e.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_p_e.pdf) 
+[**`Participants`**](./participants.md#h2oloo) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.tmt5_p_e.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.tmt5_p_e.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/tmt5_p_e.pdf) 
 
 - :material-rename: **Run ID:** tmt5_p_e 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -300,7 +300,7 @@
 
 ---
 #### UDInfo_F_bm25 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_bm25.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_bm25.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_bm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_bm25.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_bm25.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_F_bm25 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -313,7 +313,7 @@
 
 ---
 #### UDInfo_F_lgbm2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_lgbm2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_lgbm2.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_lgbm2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_lgbm2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_lgbm2.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_lgbm2.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_F_lgbm2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -326,7 +326,7 @@
 
 ---
 #### UDInfo_F_lgbm4 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_lgbm4.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_lgbm4.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_lgbm4.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_lgbm4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_lgbm4.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_lgbm4.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_F_lgbm4 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -339,7 +339,7 @@
 
 ---
 #### UDInfo_F_mlp2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_mlp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_mlp2.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_mlp2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_mlp2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_mlp2.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_mlp2.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_F_mlp2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -352,7 +352,7 @@
 
 ---
 #### UDInfo_F_mlp4 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_mlp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_mlp4.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_mlp4.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-exploration-of-learning-to-re-rank-using-a-two-step-framework-for-fair-ranking) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UDInfo_F_mlp4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UDInfo_F_mlp4.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UDInfo_F_mlp4.pdf) 
 
 - :material-rename: **Run ID:** UDInfo_F_mlp4 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -365,7 +365,7 @@
 
 ---
 #### UoGRelvOnlyT1 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGRelvOnlyT1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGRelvOnlyT1.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGRelvOnlyT1.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGRelvOnlyT1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGRelvOnlyT1.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGRelvOnlyT1.pdf) 
 
 - :material-rename: **Run ID:** UoGRelvOnlyT1 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -378,7 +378,7 @@
 
 ---
 #### UogTRelvOnlyT2 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UogTRelvOnlyT2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UogTRelvOnlyT2.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UogTRelvOnlyT2.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UogTRelvOnlyT2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UogTRelvOnlyT2.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UogTRelvOnlyT2.pdf) 
 
 - :material-rename: **Run ID:** UogTRelvOnlyT2 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -391,7 +391,7 @@
 
 ---
 #### UoGTrExpE1 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrExpE1.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrExpE1.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrExpE1.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrExpE1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrExpE1.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrExpE1.pdf) 
 
 - :material-rename: **Run ID:** UoGTrExpE1 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -404,7 +404,7 @@
 
 ---
 #### UoGTrExpE2 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrExpE2.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrExpE2.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrExpE2.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrExpE2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrExpE2.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrExpE2.pdf) 
 
 - :material-rename: **Run ID:** UoGTrExpE2 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -417,7 +417,7 @@
 
 ---
 #### UoGTrMabSAED 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSAED.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSAED.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSAED.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSAED.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSAED.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSAED.pdf) 
 
 - :material-rename: **Run ID:** UoGTrMabSAED 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -430,7 +430,7 @@
 
 ---
 #### UoGTrMabSaNR 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSaNR.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSaNR.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSaNR.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSaNR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSaNR.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSaNR.pdf) 
 
 - :material-rename: **Run ID:** UoGTrMabSaNR 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -443,7 +443,7 @@
 
 ---
 #### UoGTrMabSaWR 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSaWR.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSaWR.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSaWR.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabSaWR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabSaWR.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabSaWR.pdf) 
 
 - :material-rename: **Run ID:** UoGTrMabSaWR 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -456,7 +456,7 @@
 
 ---
 #### UoGTrMabWeSA 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabWeSA.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabWeSA.editors.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabWeSA.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrMabWeSA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrMabWeSA.editors.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrMabWeSA.pdf) 
 
 - :material-rename: **Run ID:** UoGTrMabWeSA 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -469,7 +469,7 @@
 
 ---
 #### UoGTrQE 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrQE.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrQE.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrQE.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrQE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrQE.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrQE.pdf) 
 
 - :material-rename: **Run ID:** UoGTrQE 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -482,7 +482,7 @@
 
 ---
 #### UoGTrT1ColPRF 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrT1ColPRF.gz), [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrT1ColPRF.coord.tsv), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrT1ColPRF.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec31/fair/input.UoGTrT1ColPRF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec31/fair/summary.UoGTrT1ColPRF.coord.tsv) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/fair/UoGTrT1ColPRF.pdf) 
 
 - :material-rename: **Run ID:** UoGTrT1ColPRF 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 

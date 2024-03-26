@@ -1,7 +1,7 @@
 # Runs - OpenSearch 2016 
 
 #### BJUT-CiteSeerX-1 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-opensearch-track-search-ranking-based-on-clickthrough-data), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-opensearch-track-search-ranking-based-on-clickthrough-data) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** BJUT-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -13,7 +13,7 @@
 
 ---
 #### BJUT-CiteSeerX-2 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-opensearch-track-search-ranking-based-on-clickthrough-data), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2016-opensearch-track-search-ranking-based-on-clickthrough-data) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** BJUT-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -25,7 +25,7 @@
 
 ---
 #### Gesis-CiteSeerX-1 
-[**`Participants`**](./participants.md#thkoeln-gesis), [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#thkoeln-gesis) | [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** Gesis-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** THKoeln-GESIS 
@@ -37,7 +37,7 @@
 
 ---
 #### Gesis-CiteSeerX-2 
-[**`Participants`**](./participants.md#thkoeln-gesis), [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#thkoeln-gesis) | [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** Gesis-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** THKoeln-GESIS 
@@ -49,7 +49,7 @@
 
 ---
 #### Gesis-SSOAR-1 
-[**`Participants`**](./participants.md#thkoeln-gesis), [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#thkoeln-gesis) | [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** Gesis-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** THKoeln-GESIS 
@@ -61,7 +61,7 @@
 
 ---
 #### Gesis-SSOAR-2 
-[**`Participants`**](./participants.md#thkoeln-gesis), [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#thkoeln-gesis) | [**`Proceedings`**](./proceedings.md#popularity-ranking-for-scientific-literature-using-the-characteristic-scores-and-scale-method) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** Gesis-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** THKoeln-GESIS 
@@ -73,7 +73,7 @@
 
 ---
 #### IAPLab-CiteSeerX-1 
-[**`Participants`**](./participants.md#iaplab), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#iaplab) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** IAPLab-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** IAPLab 
@@ -85,7 +85,7 @@
 
 ---
 #### IAPLab-CiteSeerX-2 
-[**`Participants`**](./participants.md#iaplab), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#iaplab) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** IAPLab-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** IAPLab 
@@ -97,7 +97,7 @@
 
 ---
 #### IAPLab-SSOAR-1 
-[**`Participants`**](./participants.md#iaplab), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#iaplab) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** IAPLab-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** IAPLab 
@@ -109,7 +109,7 @@
 
 ---
 #### IAPLab-SSOAR-2 
-[**`Participants`**](./participants.md#iaplab), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#iaplab) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** IAPLab-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** IAPLab 
@@ -121,7 +121,7 @@
 
 ---
 #### KarMat-CiteSeerX-1 
-[**`Participants`**](./participants.md#lahc), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#lahc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** KarMat-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** LaHC 
@@ -133,7 +133,7 @@
 
 ---
 #### KarMat-CiteSeerX-2 
-[**`Participants`**](./participants.md#lahc), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#lahc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** KarMat-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** LaHC 
@@ -145,7 +145,7 @@
 
 ---
 #### KarMat-SSOAR-1 
-[**`Participants`**](./participants.md#lahc), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#lahc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** KarMat-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** LaHC 
@@ -157,7 +157,7 @@
 
 ---
 #### KarMat-SSOAR-2 
-[**`Participants`**](./participants.md#lahc), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#lahc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** KarMat-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** LaHC 
@@ -169,7 +169,7 @@
 
 ---
 #### opensearch_404-CiteSeerX-1 
-[**`Participants`**](./participants.md#ir-iitbhu), [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#ir-iitbhu) | [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** opensearch_404-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** IR-IITBHU 
@@ -181,7 +181,7 @@
 
 ---
 #### opensearch_404-CiteSeerX-2 
-[**`Participants`**](./participants.md#ir-iitbhu), [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#ir-iitbhu) | [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** opensearch_404-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** IR-IITBHU 
@@ -193,7 +193,7 @@
 
 ---
 #### opensearch_404-SSOAR-1 
-[**`Participants`**](./participants.md#ir-iitbhu), [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#ir-iitbhu) | [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** opensearch_404-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** IR-IITBHU 
@@ -205,7 +205,7 @@
 
 ---
 #### opensearch_404-SSOAR-2 
-[**`Participants`**](./participants.md#ir-iitbhu), [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#ir-iitbhu) | [**`Proceedings`**](./proceedings.md#ir-iitbhu-at-trec-2016-open-search-track-retrieving-documents-using-divergence-from-randomness-model-in-terrier) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** opensearch_404-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** IR-IITBHU 
@@ -217,7 +217,7 @@
 
 ---
 #### QU-CiteSeerX-1 
-[**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#qu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** QU-CiteSeerX-1 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -229,7 +229,7 @@
 
 ---
 #### QU-CiteSeerX-2 
-[**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#qu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** QU-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -241,7 +241,7 @@
 
 ---
 #### QU-SSOAR-1 
-[**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#qu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** QU-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -253,7 +253,7 @@
 
 ---
 #### QU-SSOAR-2 
-[**`Participants`**](./participants.md#qu), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#qu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** QU-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -265,7 +265,7 @@
 
 ---
 #### UDel-CiteSeerX-2 
-[**`Participants`**](./participants.md#udel_fang), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** UDel-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -277,7 +277,7 @@
 
 ---
 #### UDel-SSOAR-1 
-[**`Participants`**](./participants.md#udel_fang), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** UDel-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -289,7 +289,7 @@
 
 ---
 #### UDel-SSOAR-2 
-[**`Participants`**](./participants.md#udel_fang), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** UDel-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -301,7 +301,7 @@
 
 ---
 #### UWM-CiteSeerX-2 
-[**`Participants`**](./participants.md#uwm), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#uwm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** UWM-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** UWM 
@@ -313,7 +313,7 @@
 
 ---
 #### UWM-SSOAR-1 
-[**`Participants`**](./participants.md#uwm), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#uwm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** UWM-SSOAR-1 
 - :fontawesome-solid-user-group: **Participant:** UWM 
@@ -325,7 +325,7 @@
 
 ---
 #### UWM-SSOAR-2 
-[**`Participants`**](./participants.md#uwm), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#uwm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** UWM-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** UWM 
@@ -337,7 +337,7 @@
 
 ---
 #### webis-CiteSeerX-2 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2016-tasks-total-recall-and-open-search-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2016-tasks-total-recall-and-open-search-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-citeseer.pdf) 
 
 - :material-rename: **Run ID:** webis-CiteSeerX-2 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -349,7 +349,7 @@
 
 ---
 #### webis-SSOAR-2 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2016-tasks-total-recall-and-open-search-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2016-tasks-total-recall-and-open-search-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec25/appendices/open-ssoar.pdf) 
 
 - :material-rename: **Run ID:** webis-SSOAR-2 
 - :fontawesome-solid-user-group: **Participant:** Webis 

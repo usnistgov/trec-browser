@@ -1,7 +1,7 @@
 # Runs - Chemical 2010 
 
 #### BiTeM09TSbl 
-[**`Results`**](./results.md#bitem09tsbl), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
+[**`Results`**](./results.md#bitem09tsbl) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
 
 - :material-rename: **Run ID:** BiTeM09TSbl 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -15,7 +15,7 @@
 
 ---
 #### BiTeM09TSlqe 
-[**`Results`**](./results.md#bitem09tslqe), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
+[**`Results`**](./results.md#bitem09tslqe) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
 
 - :material-rename: **Run ID:** BiTeM09TSlqe 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -29,7 +29,7 @@
 
 ---
 #### BiTeM09TSmqe 
-[**`Results`**](./results.md#bitem09tsmqe), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
+[**`Results`**](./results.md#bitem09tsmqe) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
 
 - :material-rename: **Run ID:** BiTeM09TSmqe 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -43,7 +43,7 @@
 
 ---
 #### BiTeM09TSsqe 
-[**`Results`**](./results.md#bitem09tssqe), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
+[**`Results`**](./results.md#bitem09tssqe) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) 
 
 - :material-rename: **Run ID:** BiTeM09TSsqe 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -57,7 +57,7 @@
 
 ---
 #### BiTeM10PAsmx 
-[**`Results`**](./results.md#bitem10pasmx), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/BiTeM.priorart_sm.pdf) 
+[**`Results`**](./results.md#bitem10pasmx) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/BiTeM.priorart_sm.pdf) 
 
 - :material-rename: **Run ID:** BiTeM10PAsmx 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -71,7 +71,7 @@
 
 ---
 #### BiTeM10PAx 
-[**`Results`**](./results.md#bitem10pax), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/BiTeM.priorart.pdf) 
+[**`Results`**](./results.md#bitem10pax) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#bitem-site-report-for-trec-chemistry-2010-impact-of-citations-feeback-for-patent-prior-art-search-and-chemical-compounds-expansion-for-ad-hoc-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/BiTeM.priorart.pdf) 
 
 - :material-rename: **Run ID:** BiTeM10PAx 
 - :fontawesome-solid-user-group: **Participant:** BiTeM 
@@ -85,7 +85,7 @@
 
 ---
 #### IowaS01 
-[**`Results`**](./results.md#iowas01), [**`Participants`**](./participants.md#iowas) 
+[**`Results`**](./results.md#iowas01) | [**`Participants`**](./participants.md#iowas) 
 
 - :material-rename: **Run ID:** IowaS01 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -99,7 +99,7 @@
 
 ---
 #### IowaS02 
-[**`Results`**](./results.md#iowas02), [**`Participants`**](./participants.md#iowas) 
+[**`Results`**](./results.md#iowas02) | [**`Participants`**](./participants.md#iowas) 
 
 - :material-rename: **Run ID:** IowaS02 
 - :fontawesome-solid-user-group: **Participant:** IowaS 
@@ -113,7 +113,7 @@
 
 ---
 #### SCAI10CIENTP 
-[**`Results`**](./results.md#scai10cientp), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10cientp) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10CIENTP 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -127,7 +127,7 @@
 
 ---
 #### SCAI10CITENT 
-[**`Results`**](./results.md#scai10citent), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10citent) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10CITENT 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -141,7 +141,7 @@
 
 ---
 #### SCAI10CITNP 
-[**`Results`**](./results.md#scai10citnp), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10citnp) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10CITNP 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -155,7 +155,7 @@
 
 ---
 #### SCAI10CITTOK 
-[**`Results`**](./results.md#scai10cittok), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10cittok) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10CITTOK 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -169,7 +169,7 @@
 
 ---
 #### SCAI10NRMENT 
-[**`Results`**](./results.md#scai10nrment), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10nrment) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10NRMENT 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -183,7 +183,7 @@
 
 ---
 #### SCAI10NRMNP 
-[**`Results`**](./results.md#scai10nrmnp), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10nrmnp) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10NRMNP 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -197,7 +197,7 @@
 
 ---
 #### SCAI10NRMTOK 
-[**`Results`**](./results.md#scai10nrmtok), [**`Participants`**](./participants.md#fraunhoferscai), [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
+[**`Results`**](./results.md#scai10nrmtok) | [**`Participants`**](./participants.md#fraunhoferscai) | [**`Proceedings`**](./proceedings.md#prior-art-search-in-chemistry-patents-based-on-semantic-concepts-and-co-citation-analysis) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/Fraunhofer.SCAI.priorart.pdf) 
 
 - :material-rename: **Run ID:** SCAI10NRMTOK 
 - :fontawesome-solid-user-group: **Participant:** Fraunhofer.SCAI 
@@ -211,7 +211,7 @@
 
 ---
 #### York10Ca01 
-[**`Results`**](./results.md#york10ca01), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca01) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca01 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -225,7 +225,7 @@
 
 ---
 #### York10Ca02 
-[**`Results`**](./results.md#york10ca02), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca02) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca02 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -239,7 +239,7 @@
 
 ---
 #### York10Ca03 
-[**`Results`**](./results.md#york10ca03), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca03) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca03 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -253,7 +253,7 @@
 
 ---
 #### York10Ca05 
-[**`Results`**](./results.md#york10ca05), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca05) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca05 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -267,7 +267,7 @@
 
 ---
 #### York10Ca06 
-[**`Results`**](./results.md#york10ca06), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca06) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca06 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -281,7 +281,7 @@
 
 ---
 #### York10Ca07 
-[**`Results`**](./results.md#york10ca07), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca07) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca07 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -295,7 +295,7 @@
 
 ---
 #### York10Ca08 
-[**`Results`**](./results.md#york10ca08), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca08) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca08 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -309,7 +309,7 @@
 
 ---
 #### York10Ca09 
-[**`Results`**](./results.md#york10ca09), [**`Participants`**](./participants.md#york) 
+[**`Results`**](./results.md#york10ca09) | [**`Participants`**](./participants.md#york) 
 
 - :material-rename: **Run ID:** York10Ca09 
 - :fontawesome-solid-user-group: **Participant:** york 
@@ -323,7 +323,7 @@
 
 ---
 #### York10CaPA01 
-[**`Results`**](./results.md#york10capa01), [**`Participants`**](./participants.md#york), [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/york.priorart.pdf) 
+[**`Results`**](./results.md#york10capa01) | [**`Participants`**](./participants.md#york) | [**`Appendix`**](https://trec.nist.gov/pubs/trec19/appendices/chem/york.priorart.pdf) 
 
 - :material-rename: **Run ID:** York10CaPA01 
 - :fontawesome-solid-user-group: **Participant:** york 

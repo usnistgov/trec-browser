@@ -1,7 +1,7 @@
 # Runs - Incident Streams 2020 
 
 #### BJUT-run 
-[**`Participants`**](./participants.md#bjut2020), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#bjut2020) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** BJUT-run 
 - :fontawesome-solid-user-group: **Participant:** BJUT2020 
@@ -15,7 +15,7 @@
 
 ---
 #### CD_CS_R1.2020A.task1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** CD_CS_R1.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -27,7 +27,7 @@
 
 ---
 #### CD_CS_R2.2020A.task1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** CD_CS_R2.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -39,7 +39,7 @@
 
 ---
 #### CD_CS_R3.2020A.task1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** CD_CS_R3.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -51,7 +51,7 @@
 
 ---
 #### CD_CS_R4.2020A.task1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** CD_CS_R4.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -63,7 +63,7 @@
 
 ---
 #### CD_CS_T2_R1.2020A.task2 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** CD_CS_T2_R1.2020A.task2 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -75,7 +75,7 @@
 
 ---
 #### elmo_all_brf 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** elmo_all_brf 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -88,7 +88,7 @@
 
 ---
 #### elmo_all_eec 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** elmo_all_eec 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -101,7 +101,7 @@
 
 ---
 #### elmo_all_tfidf_brf 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** elmo_all_tfidf_brf 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -114,7 +114,7 @@
 
 ---
 #### elmo_all_tfidf_eec 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** elmo_all_tfidf_eec 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -126,7 +126,7 @@
 
 ---
 #### elmo_textonly_eec_covid 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-uogtr-at-the-trec-2020-incident-streams-track) 
 
 - :material-rename: **Run ID:** elmo_textonly_eec_covid 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -137,7 +137,7 @@
 
 ---
 #### njit-sub01.text.2020A.task1 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub01.text.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -150,7 +150,7 @@
 
 ---
 #### njit-sub01.text.2020A.task2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub01.text.2020A.task2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -163,7 +163,7 @@
 
 ---
 #### njit-sub01.text.2020A.task3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub01.text.2020A.task3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -176,7 +176,7 @@
 
 ---
 #### njit-sub02.text+aug.2020A.task1 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub02.text+aug.2020A.task1 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -189,7 +189,7 @@
 
 ---
 #### njit-sub02.text+aug.2020A.task2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub02.text+aug.2020A.task2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -202,7 +202,7 @@
 
 ---
 #### njit-sub02.text+aug.2020A.task3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit-sub02.text+aug.2020A.task3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -215,7 +215,7 @@
 
 ---
 #### njit.s1.aug 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s1.aug 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -229,7 +229,7 @@
 
 ---
 #### njit.s1.aug.t2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s1.aug.t2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -243,7 +243,7 @@
 
 ---
 #### njit.s1.aug.t3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s1.aug.t3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -257,7 +257,7 @@
 
 ---
 #### njit.s2.cmmd.t1 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s2.cmmd.t1 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -271,7 +271,7 @@
 
 ---
 #### njit.s2.cmmd.t2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s2.cmmd.t2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -285,7 +285,7 @@
 
 ---
 #### njit.s2.cmmd.t3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s2.cmmd.t3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -299,7 +299,7 @@
 
 ---
 #### njit.s3.img.t1 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s3.img.t1 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -313,7 +313,7 @@
 
 ---
 #### njit.s3.img.t2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s3.img.t2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -327,7 +327,7 @@
 
 ---
 #### njit.s3.img.t3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s3.img.t3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -341,7 +341,7 @@
 
 ---
 #### njit.s4.cml.t1 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s4.cml.t1 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -355,7 +355,7 @@
 
 ---
 #### njit.s4.cml.t2 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s4.cml.t2 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -369,7 +369,7 @@
 
 ---
 #### njit.s4.cml.t3 
-[**`Participants`**](./participants.md#njit), [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
+[**`Participants`**](./participants.md#njit) | [**`Proceedings`**](./proceedings.md#improving-classification-of-crisis-related-social-media-content-via-text-augmentation-and-image-analysis) 
 
 - :material-rename: **Run ID:** njit.s4.cml.t3 
 - :fontawesome-solid-user-group: **Participant:** njit 
@@ -539,7 +539,7 @@
 
 ---
 #### ucd-run1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** ucd-run1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -553,7 +553,7 @@
 
 ---
 #### ucd-run2 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** ucd-run2 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -567,7 +567,7 @@
 
 ---
 #### ucd-run3 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** ucd-run3 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -581,7 +581,7 @@
 
 ---
 #### ucd-run4 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** ucd-run4 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -595,7 +595,7 @@
 
 ---
 #### ucd-run5 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** ucd-run5 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -609,7 +609,7 @@
 
 ---
 #### UCD_CS_T3_R1 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** UCD_CS_T3_R1 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -622,7 +622,7 @@
 
 ---
 #### UCD_CS_T3_R2 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** UCD_CS_T3_R2 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 
@@ -635,7 +635,7 @@
 
 ---
 #### UCD_CS_T3_R3 
-[**`Participants`**](./participants.md#ucd-cs), [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
+[**`Participants`**](./participants.md#ucd-cs) | [**`Proceedings`**](./proceedings.md#multi-task-transfer-learning-for-finding-actionable-information-from-crisis-related-messages-on-social-media) 
 
 - :material-rename: **Run ID:** UCD_CS_T3_R3 
 - :fontawesome-solid-user-group: **Participant:** UCD-CS 

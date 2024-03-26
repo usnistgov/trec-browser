@@ -2,7 +2,7 @@
 
 ## Million Query
 
-[`Overview`](./million-query/overview.md), [`Proceedings`](./million-query/proceedings.md), [`Data`](./million-query/data.md), [`Results`](./million-query/results.md), [`Runs`](./million-query/runs.md), [`Participants`](./million-query/participants.md)
+[`Overview`](./million-query/overview.md) | [`Proceedings`](./million-query/proceedings.md) | [`Data`](./million-query/data.md) | [`Results`](./million-query/results.md) | [`Runs`](./million-query/runs.md) | [`Participants`](./million-query/participants.md)
 
 {==
 
@@ -26,7 +26,7 @@ The goal of this track is to run a retrieval task similar to standard ad-hoc ret
 
 ## Genomics
 
-[`Overview`](./genomics/overview.md), [`Proceedings`](./genomics/proceedings.md), [`Data`](./genomics/data.md), [`Results`](./genomics/results.md), [`Runs`](./genomics/runs.md), [`Participants`](./genomics/participants.md)
+[`Overview`](./genomics/overview.md) | [`Proceedings`](./genomics/proceedings.md) | [`Data`](./genomics/data.md) | [`Results`](./genomics/results.md) | [`Runs`](./genomics/runs.md) | [`Participants`](./genomics/participants.md)
 
 {==
 
@@ -48,7 +48,7 @@ The TREC 2007 Genomics Track employed an entity-based question-answering task. R
 
 ## Spam
 
-[`Overview`](./spam/overview.md), [`Proceedings`](./spam/proceedings.md), [`Data`](./spam/data.md), [`Runs`](./spam/runs.md), [`Participants`](./spam/participants.md)
+[`Overview`](./spam/overview.md) | [`Proceedings`](./spam/proceedings.md) | [`Data`](./spam/data.md) | [`Results`](./spam/results.md) | [`Runs`](./spam/runs.md) | [`Participants`](./spam/participants.md)
 
 {==
 
@@ -67,7 +67,7 @@ TREC's Spam Track uses a standard testing framework that presents a set of chron
 
 ## Legal
 
-[`Overview`](./legal/overview.md), [`Proceedings`](./legal/proceedings.md), [`Data`](./legal/data.md), [`Results`](./legal/results.md), [`Runs`](./legal/runs.md), [`Participants`](./legal/participants.md)
+[`Overview`](./legal/overview.md) | [`Proceedings`](./legal/proceedings.md) | [`Data`](./legal/data.md) | [`Results`](./legal/results.md) | [`Runs`](./legal/runs.md) | [`Participants`](./legal/participants.md)
 
 {==
 
@@ -89,7 +89,7 @@ TREC 2007 was the second year of the Legal Track, which focuses on evaluation of
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -110,7 +110,7 @@ The TREC 2007 question answering (QA) track contained two tasks: the main task c
 
 ## Enterprise
 
-[`Overview`](./enterprise/overview.md), [`Proceedings`](./enterprise/proceedings.md), [`Data`](./enterprise/data.md), [`Results`](./enterprise/results.md), [`Runs`](./enterprise/runs.md), [`Participants`](./enterprise/participants.md)
+[`Overview`](./enterprise/overview.md) | [`Proceedings`](./enterprise/proceedings.md) | [`Data`](./enterprise/data.md) | [`Results`](./enterprise/results.md) | [`Runs`](./enterprise/runs.md) | [`Participants`](./enterprise/participants.md)
 
 {==
 
@@ -132,7 +132,7 @@ The goal of the enterprise track is to conduct experiments with enterprise data 
 
 ## Blog
 
-[`Overview`](./blog/overview.md), [`Proceedings`](./blog/proceedings.md), [`Data`](./blog/data.md), [`Results`](./blog/results.md), [`Runs`](./blog/runs.md), [`Participants`](./blog/participants.md)
+[`Overview`](./blog/overview.md) | [`Proceedings`](./blog/proceedings.md) | [`Data`](./blog/data.md) | [`Results`](./blog/results.md) | [`Runs`](./blog/runs.md) | [`Participants`](./blog/participants.md)
 
 {==
 

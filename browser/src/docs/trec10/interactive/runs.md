@@ -1,7 +1,7 @@
 # Runs - Interactive 2001 
 
 #### csiroI 
-[**`Participants`**](./participants.md#csiro), [**`Proceedings`**](./proceedings.md#trec10-web-and-interactive-tracks-at-csiro) 
+[**`Participants`**](./participants.md#csiro) | [**`Proceedings`**](./proceedings.md#trec10-web-and-interactive-tracks-at-csiro) 
 
 - :material-rename: **Run ID:** csiroI 
 - :fontawesome-solid-user-group: **Participant:** CSIRO 
@@ -10,7 +10,7 @@
 
 ---
 #### glasgowI 
-[**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#comparing-explicit-and-implicit-feedback-techniques-for-web-retrieval-trec-10-interactive-track-report) 
+[**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#comparing-explicit-and-implicit-feedback-techniques-for-web-retrieval-trec-10-interactive-track-report) 
 
 - :material-rename: **Run ID:** glasgowI 
 - :fontawesome-solid-user-group: **Participant:** glasgow 
@@ -37,7 +37,7 @@
 
 ---
 #### ohsuI 
-[**`Participants`**](./participants.md#ohsu), [**`Proceedings`**](./proceedings.md#observations-of-searchers-ohsu-trec-2001-interactive-track) 
+[**`Participants`**](./participants.md#ohsu) | [**`Proceedings`**](./proceedings.md#observations-of-searchers-ohsu-trec-2001-interactive-track) 
 
 - :material-rename: **Run ID:** ohsuI 
 - :fontawesome-solid-user-group: **Participant:** OHSU 
@@ -64,7 +64,7 @@
 
 ---
 #### rutgersI 
-[**`Participants`**](./participants.md#rutgers-belkin), [**`Proceedings`**](./proceedings.md#rutgers-trec-2001-interactive-track-experience) 
+[**`Participants`**](./participants.md#rutgers-belkin) | [**`Proceedings`**](./proceedings.md#rutgers-trec-2001-interactive-track-experience) 
 
 - :material-rename: **Run ID:** rutgersI 
 - :fontawesome-solid-user-group: **Participant:** rutgers-belkin 
@@ -73,7 +73,7 @@
 
 ---
 #### torontoI 
-[**`Participants`**](./participants.md#toronto), [**`Proceedings`**](./proceedings.md#selecting-versus-describing-a-preliminary-analysis-of-the-efficacy-of-categories-in-exploring-the-web) 
+[**`Participants`**](./participants.md#toronto) | [**`Proceedings`**](./proceedings.md#selecting-versus-describing-a-preliminary-analysis-of-the-efficacy-of-categories-in-exploring-the-web) 
 
 - :material-rename: **Run ID:** torontoI 
 - :fontawesome-solid-user-group: **Participant:** toronto 

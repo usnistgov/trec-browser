@@ -1,7 +1,7 @@
 # Runs - NLP 1997 
 
 #### genlp1 
-[**`Results`**](./results.md#genlp1), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#genlp1) | [**`Participants`**](./participants.md#ge) | [**`Proceedings`**](./proceedings.md#natural-language-information-retrieval-trec-6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp1 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -12,7 +12,7 @@
 
 ---
 #### genlp2 
-[**`Results`**](./results.md#genlp2), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#genlp2) | [**`Participants`**](./participants.md#ge) | [**`Proceedings`**](./proceedings.md#natural-language-information-retrieval-trec-6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp2 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -23,7 +23,7 @@
 
 ---
 #### genlp3 
-[**`Results`**](./results.md#genlp3), [**`Participants`**](./participants.md#ge), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#genlp3) | [**`Participants`**](./participants.md#ge) | [**`Proceedings`**](./proceedings.md#natural-language-information-retrieval-trec-6-report) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.genlp3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.genlp3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp3 
 - :fontawesome-solid-user-group: **Participant:** GE 
@@ -34,7 +34,7 @@
 
 ---
 #### Gla6DS1 
-[**`Results`**](./results.md#gla6ds1), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#gla6ds1) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Gla6DS1 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 
@@ -45,7 +45,7 @@
 
 ---
 #### Gla6DS2 
-[**`Results`**](./results.md#gla6ds2), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#gla6ds2) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Gla6DS2 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 
@@ -56,7 +56,7 @@
 
 ---
 #### Gla6DS3 
-[**`Results`**](./results.md#gla6ds3), [**`Participants`**](./participants.md#glasgow), [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university), [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS3.gz), [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
+[**`Results`**](./results.md#gla6ds3) | [**`Participants`**](./participants.md#glasgow) | [**`Proceedings`**](./proceedings.md#short-queries-natural-language-and-spoken-document-retrieval-experiments-at-glasgow-university) | [**`Input`**](https://trec.nist.gov/results/trec6/trec6.results.input/tracks/nlp/input.Gla6DS3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec6/trec6.results.summary/tracks/nlp/summary.Gla6DS3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec6/appendices/A/nlp.runs.ps.gz) 
 
 - :material-rename: **Run ID:** Gla6DS3 
 - :fontawesome-solid-user-group: **Participant:** Glasgow 

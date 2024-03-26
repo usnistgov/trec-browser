@@ -1,6 +1,6 @@
 # Data - Relevance Feedback 2010 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/relevance.feedback10.html`](https://trec.nist.gov/data/relevance.feedback10.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/relevance.feedback10.html`](https://trec.nist.gov/data/relevance.feedback10.html)
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-**Other:** [`Relevance Feedback Track Guidelines`](https://trec.nist.gov/data/relevance.feedback/10/Guidelines10-final.pdf), [`Relevance Feedback Track Input Files`](https://trec.nist.gov/data/relevance.feedback/10/RF2010.inputfiles.tar)
+**Other:** [`Relevance Feedback Track Guidelines`](https://trec.nist.gov/data/relevance.feedback/10/Guidelines10-final.pdf) | [`Relevance Feedback Track Input Files`](https://trec.nist.gov/data/relevance.feedback/10/RF2010.inputfiles.tar)

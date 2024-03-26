@@ -1,7 +1,7 @@
 # Runs - CrisisFACTs 2022 
 
 #### BM25_Heuristic_ILP 
-[**`Participants`**](./participants.md#ohm_kiz), [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_Heuristic_ILP.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_Heuristic_ILP.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_Heuristic_ILP.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_Heuristic_ILP.pdf) 
+[**`Participants`**](./participants.md#ohm_kiz) | [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_Heuristic_ILP.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_Heuristic_ILP.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_Heuristic_ILP.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_Heuristic_ILP.pdf) 
 
 - :material-rename: **Run ID:** BM25_Heuristic_ILP 
 - :fontawesome-solid-user-group: **Participant:** ohm_kiz 
@@ -14,7 +14,7 @@
 
 ---
 #### BM25_QAasnq_ILP 
-[**`Participants`**](./participants.md#ohm_kiz), [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_QAasnq_ILP.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAasnq_ILP.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAasnq_ILP.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_QAasnq_ILP.pdf) 
+[**`Participants`**](./participants.md#ohm_kiz) | [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_QAasnq_ILP.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAasnq_ILP.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAasnq_ILP.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_QAasnq_ILP.pdf) 
 
 - :material-rename: **Run ID:** BM25_QAasnq_ILP 
 - :fontawesome-solid-user-group: **Participant:** ohm_kiz 
@@ -27,7 +27,7 @@
 
 ---
 #### BM25_QAcrisis_ILP 
-[**`Participants`**](./participants.md#ohm_kiz), [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_QAcrisis_ILP.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAcrisis_ILP.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAcrisis_ILP.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_QAcrisis_ILP.pdf) 
+[**`Participants`**](./participants.md#ohm_kiz) | [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.BM25_QAcrisis_ILP.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAcrisis_ILP.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.BM25_QAcrisis_ILP.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/BM25_QAcrisis_ILP.pdf) 
 
 - :material-rename: **Run ID:** BM25_QAcrisis_ILP 
 - :fontawesome-solid-user-group: **Participant:** ohm_kiz 
@@ -40,7 +40,7 @@
 
 ---
 #### ColBERT_ILP 
-[**`Participants`**](./participants.md#ohm_kiz), [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.ColBERT_ILP.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.ColBERT_ILP.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.ColBERT_ILP.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/ColBERT_ILP.pdf) 
+[**`Participants`**](./participants.md#ohm_kiz) | [**`Proceedings`**](./proceedings.md#combining-deep-neural-reranking-and-unsupervised-extraction-for-multi-query-focused-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.ColBERT_ILP.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.ColBERT_ILP.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.ColBERT_ILP.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/ColBERT_ILP.pdf) 
 
 - :material-rename: **Run ID:** ColBERT_ILP 
 - :fontawesome-solid-user-group: **Participant:** ohm_kiz 
@@ -53,7 +53,7 @@
 
 ---
 #### combsum 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.combsum.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.combsum.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.combsum.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/combsum.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.combsum.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.combsum.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.combsum.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/combsum.pdf) 
 
 - :material-rename: **Run ID:** combsum 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -64,7 +64,7 @@
 
 ---
 #### eXSum22_submission_01 
-[**`Participants`**](./participants.md#exsum22), [**`Proceedings`**](./proceedings.md#l3s-at-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.eXSum22_submission_01.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_01.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_01.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/eXSum22_submission_01.pdf) 
+[**`Participants`**](./participants.md#exsum22) | [**`Proceedings`**](./proceedings.md#l3s-at-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.eXSum22_submission_01.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_01.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_01.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/eXSum22_submission_01.pdf) 
 
 - :material-rename: **Run ID:** eXSum22_submission_01 
 - :fontawesome-solid-user-group: **Participant:** eXSum22 
@@ -75,7 +75,7 @@
 
 ---
 #### eXSum22_submission_02 
-[**`Participants`**](./participants.md#exsum22), [**`Proceedings`**](./proceedings.md#l3s-at-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.eXSum22_submission_02.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_02.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_02.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/eXSum22_submission_02.pdf) 
+[**`Participants`**](./participants.md#exsum22) | [**`Proceedings`**](./proceedings.md#l3s-at-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.eXSum22_submission_02.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_02.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.eXSum22_submission_02.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/eXSum22_submission_02.pdf) 
 
 - :material-rename: **Run ID:** eXSum22_submission_02 
 - :fontawesome-solid-user-group: **Participant:** eXSum22 
@@ -86,7 +86,7 @@
 
 ---
 #### IRIT_IRIS_mean_USE 
-[**`Participants`**](./participants.md#irit_iris), [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_mean_USE.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_mean_USE.pdf) 
+[**`Participants`**](./participants.md#irit_iris) | [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_mean_USE.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_mean_USE.pdf) 
 
 - :material-rename: **Run ID:** IRIT_IRIS_mean_USE 
 - :fontawesome-solid-user-group: **Participant:** IRIT_IRIS 
@@ -99,7 +99,7 @@
 
 ---
 #### IRIT_IRIS_mean_USE_INeeds 
-[**`Participants`**](./participants.md#irit_iris), [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_mean_USE_INeeds.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE_INeeds.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE_INeeds.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_mean_USE_INeeds.pdf) 
+[**`Participants`**](./participants.md#irit_iris) | [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_mean_USE_INeeds.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE_INeeds.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_mean_USE_INeeds.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_mean_USE_INeeds.pdf) 
 
 - :material-rename: **Run ID:** IRIT_IRIS_mean_USE_INeeds 
 - :fontawesome-solid-user-group: **Participant:** IRIT_IRIS 
@@ -112,7 +112,7 @@
 
 ---
 #### IRIT_IRIS_tssubert 
-[**`Participants`**](./participants.md#irit_iris), [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_tssubert.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_tssubert.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_tssubert.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_tssubert.pdf) 
+[**`Participants`**](./participants.md#irit_iris) | [**`Proceedings`**](./proceedings.md#irit-iris-at-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.IRIT_IRIS_tssubert.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_tssubert.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.IRIT_IRIS_tssubert.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/IRIT_IRIS_tssubert.pdf) 
 
 - :material-rename: **Run ID:** IRIT_IRIS_tssubert 
 - :fontawesome-solid-user-group: **Participant:** IRIT_IRIS 
@@ -125,7 +125,7 @@
 
 ---
 #### mrr_all 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_all.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_all.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_all.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_all.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_all.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_all.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_all.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_all.pdf) 
 
 - :material-rename: **Run ID:** mrr_all 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -136,7 +136,7 @@
 
 ---
 #### mrr_main 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_main.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_main.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_main.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_main.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_main.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_main.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_main.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_main.pdf) 
 
 - :material-rename: **Run ID:** mrr_main 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -147,7 +147,7 @@
 
 ---
 #### mrr_no_dd 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_no_dd.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_no_dd.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_no_dd.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_no_dd.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_no_dd.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_no_dd.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_no_dd.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_no_dd.pdf) 
 
 - :material-rename: **Run ID:** mrr_no_dd 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -158,7 +158,7 @@
 
 ---
 #### mrr_nobrf 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_nobrf.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_nobrf.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_nobrf.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_nobrf.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_nobrf.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_nobrf.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_nobrf.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_nobrf.pdf) 
 
 - :material-rename: **Run ID:** mrr_nobrf 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -169,7 +169,7 @@
 
 ---
 #### mrr_sum 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_sum.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_sum.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_sum.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_sum.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.mrr_sum.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_sum.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.mrr_sum.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/mrr_sum.pdf) 
 
 - :material-rename: **Run ID:** mrr_sum 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -180,7 +180,7 @@
 
 ---
 #### nazmultum11 
-[**`Participants`**](./participants.md#sipeo), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.nazmultum11.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.nazmultum11.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.nazmultum11.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/nazmultum11.pdf) 
+[**`Participants`**](./participants.md#sipeo) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.nazmultum11.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.nazmultum11.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.nazmultum11.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/nazmultum11.pdf) 
 
 - :material-rename: **Run ID:** nazmultum11 
 - :fontawesome-solid-user-group: **Participant:** SiPEO 
@@ -193,7 +193,7 @@
 
 ---
 #### NM-1 
-[**`Participants`**](./participants.md#nmunicamp), [**`Proceedings`**](./proceedings.md#using-neural-reranking-and-gpt-3-for-social-media-disaster-content-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.NM-1.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-1.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-1.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/NM-1.pdf) 
+[**`Participants`**](./participants.md#nmunicamp) | [**`Proceedings`**](./proceedings.md#using-neural-reranking-and-gpt-3-for-social-media-disaster-content-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.NM-1.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-1.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-1.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/NM-1.pdf) 
 
 - :material-rename: **Run ID:** NM-1 
 - :fontawesome-solid-user-group: **Participant:** NM.unicamp 
@@ -206,7 +206,7 @@
 
 ---
 #### NM-2 
-[**`Participants`**](./participants.md#nmunicamp), [**`Proceedings`**](./proceedings.md#using-neural-reranking-and-gpt-3-for-social-media-disaster-content-summarization), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.NM-2.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-2.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-2.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/NM-2.pdf) 
+[**`Participants`**](./participants.md#nmunicamp) | [**`Proceedings`**](./proceedings.md#using-neural-reranking-and-gpt-3-for-social-media-disaster-content-summarization) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.NM-2.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-2.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.NM-2.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/NM-2.pdf) 
 
 - :material-rename: **Run ID:** NM-2 
 - :fontawesome-solid-user-group: **Participant:** NM.unicamp 
@@ -219,7 +219,7 @@
 
 ---
 #### rr_now 
-[**`Participants`**](./participants.md#umcp), [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.rr_now.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.rr_now.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.rr_now.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/rr_now.pdf) 
+[**`Participants`**](./participants.md#umcp) | [**`Proceedings`**](./proceedings.md#multi-faceted-question-fusion-in-the-trec-2022-crisisfacts-track) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.rr_now.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.rr_now.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.rr_now.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/rr_now.pdf) 
 
 - :material-rename: **Run ID:** rr_now 
 - :fontawesome-solid-user-group: **Participant:** umcp 
@@ -230,7 +230,7 @@
 
 ---
 #### submission_final.json 
-[**`Participants`**](./participants.md#iiser22), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_final.json.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final.json.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final.json.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_final.json.pdf) 
+[**`Participants`**](./participants.md#iiser22) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_final.json.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final.json.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final.json.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_final.json.pdf) 
 
 - :material-rename: **Run ID:** submission_final.json 
 - :fontawesome-solid-user-group: **Participant:** IISER22 
@@ -243,7 +243,7 @@
 
 ---
 #### submission_final_4 
-[**`Participants`**](./participants.md#iiser22), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_final_4.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final_4.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final_4.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_final_4.pdf) 
+[**`Participants`**](./participants.md#iiser22) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_final_4.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final_4.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_final_4.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_final_4.pdf) 
 
 - :material-rename: **Run ID:** submission_final_4 
 - :fontawesome-solid-user-group: **Participant:** IISER22 
@@ -256,7 +256,7 @@
 
 ---
 #### submission_LM_DS_3 
-[**`Participants`**](./participants.md#iiser22), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_LM_DS_3.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_DS_3.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_DS_3.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_LM_DS_3.pdf) 
+[**`Participants`**](./participants.md#iiser22) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_LM_DS_3.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_DS_3.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_DS_3.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_LM_DS_3.pdf) 
 
 - :material-rename: **Run ID:** submission_LM_DS_3 
 - :fontawesome-solid-user-group: **Participant:** IISER22 
@@ -269,7 +269,7 @@
 
 ---
 #### submission_LM_JM_2 
-[**`Participants`**](./participants.md#iiser22), [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_LM_JM_2.gz), [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_JM_2.auto.csv), [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_JM_2.manual.tar.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_LM_JM_2.pdf) 
+[**`Participants`**](./participants.md#iiser22) | [**`Input`**](https://trec.nist.gov/results/trec31/crisis/input.submission_LM_JM_2.gz) | [**`Summary (auto)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_JM_2.auto.csv) | [**`Summary (manual)`**](https://trec.nist.gov/results/trec31/crisis/summary.submission_LM_JM_2.manual.tar.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec31/appendices/crisis/submission_LM_JM_2.pdf) 
 
 - :material-rename: **Run ID:** submission_LM_JM_2 
 - :fontawesome-solid-user-group: **Participant:** IISER22 

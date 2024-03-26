@@ -1,6 +1,6 @@
 # Data - CrisisFACTs 2022 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/crisis2022.html`](https://trec.nist.gov/data/crisis2022.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/crisis2022.html`](https://trec.nist.gov/data/crisis2022.html)
 
 ---
 

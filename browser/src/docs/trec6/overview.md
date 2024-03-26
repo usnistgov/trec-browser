@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ## Routing
 
-[`Overview`](./routing/overview.md), [`Proceedings`](./routing/proceedings.md), [`Data`](./routing/data.md), [`Results`](./routing/results.md), [`Runs`](./routing/runs.md), [`Participants`](./routing/participants.md)
+[`Overview`](./routing/overview.md) | [`Proceedings`](./routing/proceedings.md) | [`Data`](./routing/data.md) | [`Results`](./routing/results.md) | [`Runs`](./routing/runs.md) | [`Participants`](./routing/participants.md)
 
 {==
 
@@ -42,7 +42,7 @@ The routing task in the TREC workshops investigates the performance of systems t
 
 ## Chinese
 
-[`Overview`](./chinese/overview.md), [`Proceedings`](./chinese/proceedings.md), [`Data`](./chinese/data.md), [`Results`](./chinese/results.md), [`Runs`](./chinese/runs.md), [`Participants`](./chinese/participants.md)
+[`Overview`](./chinese/overview.md) | [`Proceedings`](./chinese/proceedings.md) | [`Data`](./chinese/data.md) | [`Results`](./chinese/results.md) | [`Runs`](./chinese/runs.md) | [`Participants`](./chinese/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ The TREC-6 conference was the fourth year in which document retrieval in a langu
 
 ## Cross-Language
 
-[`Overview`](./clir/overview.md), [`Proceedings`](./clir/proceedings.md), [`Data`](./clir/data.md), [`Results`](./clir/results.md), [`Runs`](./clir/runs.md), [`Participants`](./clir/participants.md)
+[`Overview`](./clir/overview.md) | [`Proceedings`](./clir/proceedings.md) | [`Data`](./clir/data.md) | [`Results`](./clir/results.md) | [`Runs`](./clir/runs.md) | [`Participants`](./clir/participants.md)
 
 {==
 
@@ -81,7 +81,7 @@ Cross-Language Information Retrieval (CLIR) was a new task in the TREC-6 evaluat
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Data`](./filtering/data.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -100,7 +100,7 @@ Given a topic description and a large collection of documents, a sample of which
 
 ## High-Precision
 
-[`Overview`](./hp/overview.md), [`Proceedings`](./hp/proceedings.md), [`Results`](./hp/results.md), [`Runs`](./hp/runs.md), [`Participants`](./hp/participants.md)
+[`Overview`](./hp/overview.md) | [`Proceedings`](./hp/proceedings.md) | [`Results`](./hp/results.md) | [`Runs`](./hp/runs.md) | [`Participants`](./hp/participants.md)
 
 {==
 
@@ -119,7 +119,7 @@ The High-Precision Track is a new track for TREC. It has a very simple short des
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 
@@ -138,7 +138,7 @@ The high-level goal of the TREC-6 Interactive Track was the investigation of sea
 
 ## NLP
 
-[`Overview`](./nlp/overview.md), [`Proceedings`](./nlp/proceedings.md), [`Results`](./nlp/results.md), [`Runs`](./nlp/runs.md), [`Participants`](./nlp/participants.md)
+[`Overview`](./nlp/overview.md) | [`Proceedings`](./nlp/proceedings.md) | [`Results`](./nlp/results.md) | [`Runs`](./nlp/runs.md) | [`Participants`](./nlp/participants.md)
 
 {==
 
@@ -158,7 +158,7 @@ The NLP track was initiated to explore whether the natural language processing (
 
 ## Spoken Document Retrieval
 
-[`Overview`](./sdr/overview.md), [`Proceedings`](./sdr/proceedings.md), [`Data`](./sdr/data.md), [`Runs`](./sdr/runs.md), [`Participants`](./sdr/participants.md)
+[`Overview`](./sdr/overview.md) | [`Proceedings`](./sdr/proceedings.md) | [`Data`](./sdr/data.md) | [`Runs`](./sdr/runs.md) | [`Participants`](./sdr/participants.md)
 
 {==
 
@@ -180,7 +180,7 @@ Spoken Document Retrieval (SDR) involves the retrieval of excerpts from recordin
 
 ## Very Large Corpus
 
-[`Overview`](./vlc/overview.md), [`Proceedings`](./vlc/proceedings.md)
+[`Overview`](./vlc/overview.md) | [`Proceedings`](./vlc/proceedings.md)
 
 {==
 

@@ -1,7 +1,7 @@
 # Runs - Precision Medicine 2020 
 
 #### baseline 
-[**`Results`**](./results.md#baseline), [**`Participants`**](./participants.md#bitua), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.baseline.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.baseline), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.baseline), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.baseline), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/baseline.pdf) 
+[**`Results`**](./results.md#baseline) | [**`Participants`**](./participants.md#bitua) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.baseline.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.baseline) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.baseline) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.baseline) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/baseline.pdf) 
 
 - :material-rename: **Run ID:** baseline 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
@@ -15,7 +15,7 @@
 
 ---
 #### bm25 
-[**`Results`**](./results.md#bm25), [**`Participants`**](./participants.md#ascfda), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25.pdf) 
+[**`Results`**](./results.md#bm25) | [**`Participants`**](./participants.md#ascfda) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25.pdf) 
 
 - :material-rename: **Run ID:** bm25 
 - :fontawesome-solid-user-group: **Participant:** ASCFDA 
@@ -29,7 +29,7 @@
 
 ---
 #### bm25_p10 
-[**`Results`**](./results.md#bm25_p10), [**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25_p10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25_p10), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25_p10), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25_p10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25_p10.pdf) 
+[**`Results`**](./results.md#bm25_p10) | [**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25_p10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25_p10) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25_p10) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25_p10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25_p10.pdf) 
 
 - :material-rename: **Run ID:** bm25_p10 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -43,7 +43,7 @@
 
 ---
 #### bm25_synonyms 
-[**`Results`**](./results.md#bm25_synonyms), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25_synonyms.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25_synonyms), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25_synonyms), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25_synonyms), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25_synonyms.pdf) 
+[**`Results`**](./results.md#bm25_synonyms) | [**`Participants`**](./participants.md#vohcolab) | [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.bm25_synonyms.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.bm25_synonyms) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.bm25_synonyms) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.bm25_synonyms) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/bm25_synonyms.pdf) 
 
 - :material-rename: **Run ID:** bm25_synonyms 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
@@ -57,7 +57,7 @@
 
 ---
 #### CincyMedIR28dgt 
-[**`Results`**](./results.md#cincymedir28dgt), [**`Participants`**](./participants.md#cincymedir), [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR28dgt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR28dgt), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR28dgt), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR28dgt), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR28dgt.pdf) 
+[**`Results`**](./results.md#cincymedir28dgt) | [**`Participants`**](./participants.md#cincymedir) | [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR28dgt.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR28dgt) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR28dgt) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR28dgt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR28dgt.pdf) 
 
 - :material-rename: **Run ID:** CincyMedIR28dgt 
 - :fontawesome-solid-user-group: **Participant:** CincyMedIR 
@@ -71,7 +71,7 @@
 
 ---
 #### CincyMedIR_20 
-[**`Results`**](./results.md#cincymedir_20), [**`Participants`**](./participants.md#cincymedir), [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_20.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_20), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_20), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_20), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_20.pdf) 
+[**`Results`**](./results.md#cincymedir_20) | [**`Participants`**](./participants.md#cincymedir) | [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_20.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_20) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_20) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_20) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_20.pdf) 
 
 - :material-rename: **Run ID:** CincyMedIR_20 
 - :fontawesome-solid-user-group: **Participant:** CincyMedIR 
@@ -85,7 +85,7 @@
 
 ---
 #### CincyMedIR_28 
-[**`Results`**](./results.md#cincymedir_28), [**`Participants`**](./participants.md#cincymedir), [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_28.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_28), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_28), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_28), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_28.pdf) 
+[**`Results`**](./results.md#cincymedir_28) | [**`Participants`**](./participants.md#cincymedir) | [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_28.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_28) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_28) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_28) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_28.pdf) 
 
 - :material-rename: **Run ID:** CincyMedIR_28 
 - :fontawesome-solid-user-group: **Participant:** CincyMedIR 
@@ -99,7 +99,7 @@
 
 ---
 #### CincyMedIR_28_t 
-[**`Results`**](./results.md#cincymedir_28_t), [**`Participants`**](./participants.md#cincymedir), [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_28_t.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_28_t), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_28_t), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_28_t), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_28_t.pdf) 
+[**`Results`**](./results.md#cincymedir_28_t) | [**`Participants`**](./participants.md#cincymedir) | [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_28_t.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_28_t) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_28_t) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_28_t) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_28_t.pdf) 
 
 - :material-rename: **Run ID:** CincyMedIR_28_t 
 - :fontawesome-solid-user-group: **Participant:** CincyMedIR 
@@ -113,7 +113,7 @@
 
 ---
 #### CincyMedIR_dgt 
-[**`Results`**](./results.md#cincymedir_dgt), [**`Participants`**](./participants.md#cincymedir), [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_dgt.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_dgt), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_dgt), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_dgt), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_dgt.pdf) 
+[**`Results`**](./results.md#cincymedir_dgt) | [**`Participants`**](./participants.md#cincymedir) | [**`Proceedings`**](./proceedings.md#retrieving-scientific-abstracts-using-medical-concepts-and-learning-to-rank-cincymedir-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CincyMedIR_dgt.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CincyMedIR_dgt) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CincyMedIR_dgt) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CincyMedIR_dgt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CincyMedIR_dgt.pdf) 
 
 - :material-rename: **Run ID:** CincyMedIR_dgt 
 - :fontawesome-solid-user-group: **Participant:** CincyMedIR 
@@ -127,7 +127,7 @@
 
 ---
 #### CornellTech1 
-[**`Results`**](./results.md#cornelltech1), [**`Participants`**](./participants.md#ctir), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CornellTech1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CornellTech1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CornellTech1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CornellTech1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CornellTech1.pdf) 
+[**`Results`**](./results.md#cornelltech1) | [**`Participants`**](./participants.md#ctir) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CornellTech1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CornellTech1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CornellTech1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CornellTech1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CornellTech1.pdf) 
 
 - :material-rename: **Run ID:** CornellTech1 
 - :fontawesome-solid-user-group: **Participant:** CTIR 
@@ -141,7 +141,7 @@
 
 ---
 #### CornellTech2 
-[**`Results`**](./results.md#cornelltech2), [**`Participants`**](./participants.md#ctir), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CornellTech2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CornellTech2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CornellTech2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CornellTech2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CornellTech2.pdf) 
+[**`Results`**](./results.md#cornelltech2) | [**`Participants`**](./participants.md#ctir) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CornellTech2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CornellTech2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CornellTech2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CornellTech2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CornellTech2.pdf) 
 
 - :material-rename: **Run ID:** CornellTech2 
 - :fontawesome-solid-user-group: **Participant:** CTIR 
@@ -155,7 +155,7 @@
 
 ---
 #### CSIROmed_rlxRR 
-[**`Results`**](./results.md#csiromed_rlxrr), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_rlxRR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_rlxRR), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_rlxRR), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_rlxRR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_rlxRR.pdf) 
+[**`Results`**](./results.md#csiromed_rlxrr) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_rlxRR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_rlxRR) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_rlxRR) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_rlxRR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_rlxRR.pdf) 
 
 - :material-rename: **Run ID:** CSIROmed_rlxRR 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -169,7 +169,7 @@
 
 ---
 #### CSIROmed_rRRa 
-[**`Results`**](./results.md#csiromed_rrra), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_rRRa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_rRRa), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_rRRa), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_rRRa), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_rRRa.pdf) 
+[**`Results`**](./results.md#csiromed_rrra) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_rRRa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_rRRa) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_rRRa) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_rRRa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_rRRa.pdf) 
 
 - :material-rename: **Run ID:** CSIROmed_rRRa 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -183,7 +183,7 @@
 
 ---
 #### CSIROmed_sRRa 
-[**`Results`**](./results.md#csiromed_srra), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_sRRa.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_sRRa), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_sRRa), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_sRRa), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_sRRa.pdf) 
+[**`Results`**](./results.md#csiromed_srra) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_sRRa.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_sRRa) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_sRRa) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_sRRa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_sRRa.pdf) 
 
 - :material-rename: **Run ID:** CSIROmed_sRRa 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -197,7 +197,7 @@
 
 ---
 #### CSIROmed_strDFR 
-[**`Results`**](./results.md#csiromed_strdfr), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_strDFR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_strDFR), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_strDFR), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_strDFR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_strDFR.pdf) 
+[**`Results`**](./results.md#csiromed_strdfr) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_strDFR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_strDFR) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_strDFR) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_strDFR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_strDFR.pdf) 
 
 - :material-rename: **Run ID:** CSIROmed_strDFR 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -211,7 +211,7 @@
 
 ---
 #### CSIROmed_strRR 
-[**`Results`**](./results.md#csiromed_strrr), [**`Participants`**](./participants.md#csiromed), [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_strRR.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_strRR), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_strRR), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_strRR), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_strRR.pdf) 
+[**`Results`**](./results.md#csiromed_strrr) | [**`Participants`**](./participants.md#csiromed) | [**`Proceedings`**](./proceedings.md#csiromed-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.CSIROmed_strRR.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.CSIROmed_strRR) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.CSIROmed_strRR) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.CSIROmed_strRR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/CSIROmed_strRR.pdf) 
 
 - :material-rename: **Run ID:** CSIROmed_strRR 
 - :fontawesome-solid-user-group: **Participant:** CSIROmed 
@@ -225,7 +225,7 @@
 
 ---
 #### DA_DCU_IBM_1 
-[**`Results`**](./results.md#da_dcu_ibm_1), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_1.pdf) 
+[**`Results`**](./results.md#da_dcu_ibm_1) | [**`Participants`**](./participants.md#da_iict) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_1.pdf) 
 
 - :material-rename: **Run ID:** DA_DCU_IBM_1 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
@@ -239,7 +239,7 @@
 
 ---
 #### DA_DCU_IBM_2 
-[**`Results`**](./results.md#da_dcu_ibm_2), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_2.pdf) 
+[**`Results`**](./results.md#da_dcu_ibm_2) | [**`Participants`**](./participants.md#da_iict) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_2.pdf) 
 
 - :material-rename: **Run ID:** DA_DCU_IBM_2 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
@@ -253,7 +253,7 @@
 
 ---
 #### DA_DCU_IBM_3 
-[**`Results`**](./results.md#da_dcu_ibm_3), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_3), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_3.pdf) 
+[**`Results`**](./results.md#da_dcu_ibm_3) | [**`Participants`**](./participants.md#da_iict) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_3) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_3.pdf) 
 
 - :material-rename: **Run ID:** DA_DCU_IBM_3 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
@@ -267,7 +267,7 @@
 
 ---
 #### DA_DCU_IBM_4 
-[**`Results`**](./results.md#da_dcu_ibm_4), [**`Participants`**](./participants.md#da_iict), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_4), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_4.pdf) 
+[**`Results`**](./results.md#da_dcu_ibm_4) | [**`Participants`**](./participants.md#da_iict) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.DA_DCU_IBM_4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.DA_DCU_IBM_4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.DA_DCU_IBM_4) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.DA_DCU_IBM_4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/DA_DCU_IBM_4.pdf) 
 
 - :material-rename: **Run ID:** DA_DCU_IBM_4 
 - :fontawesome-solid-user-group: **Participant:** DA_IICT 
@@ -281,7 +281,7 @@
 
 ---
 #### damoespb1 
-[**`Results`**](./results.md#damoespb1), [**`Participants`**](./participants.md#alibaba), [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespb1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespb1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespb1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespb1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespb1.pdf) 
+[**`Results`**](./results.md#damoespb1) | [**`Participants`**](./participants.md#alibaba) | [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespb1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespb1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespb1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespb1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespb1.pdf) 
 
 - :material-rename: **Run ID:** damoespb1 
 - :fontawesome-solid-user-group: **Participant:** ALIBABA 
@@ -295,7 +295,7 @@
 
 ---
 #### damoespb2 
-[**`Results`**](./results.md#damoespb2), [**`Participants`**](./participants.md#alibaba), [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespb2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespb2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespb2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespb2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespb2.pdf) 
+[**`Results`**](./results.md#damoespb2) | [**`Participants`**](./participants.md#alibaba) | [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespb2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespb2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespb2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespb2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespb2.pdf) 
 
 - :material-rename: **Run ID:** damoespb2 
 - :fontawesome-solid-user-group: **Participant:** ALIBABA 
@@ -309,7 +309,7 @@
 
 ---
 #### damoespcbh1 
-[**`Results`**](./results.md#damoespcbh1), [**`Participants`**](./participants.md#alibaba), [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh1.pdf) 
+[**`Results`**](./results.md#damoespcbh1) | [**`Participants`**](./participants.md#alibaba) | [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh1.pdf) 
 
 - :material-rename: **Run ID:** damoespcbh1 
 - :fontawesome-solid-user-group: **Participant:** ALIBABA 
@@ -323,7 +323,7 @@
 
 ---
 #### damoespcbh2 
-[**`Results`**](./results.md#damoespcbh2), [**`Participants`**](./participants.md#alibaba), [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh2.pdf) 
+[**`Results`**](./results.md#damoespcbh2) | [**`Participants`**](./participants.md#alibaba) | [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh2.pdf) 
 
 - :material-rename: **Run ID:** damoespcbh2 
 - :fontawesome-solid-user-group: **Participant:** ALIBABA 
@@ -337,7 +337,7 @@
 
 ---
 #### damoespcbh3 
-[**`Results`**](./results.md#damoespcbh3), [**`Participants`**](./participants.md#alibaba), [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh3), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh3.pdf) 
+[**`Results`**](./results.md#damoespcbh3) | [**`Participants`**](./participants.md#alibaba) | [**`Proceedings`**](./proceedings.md#aliababa-damo-academy-at-trec-precision-medicine-2020-state-of-the-art-evidence-retriever-for-precision-medicine-with-expert-in-the-loop-active-learning) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.damoespcbh3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.damoespcbh3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.damoespcbh3) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.damoespcbh3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/damoespcbh3.pdf) 
 
 - :material-rename: **Run ID:** damoespcbh3 
 - :fontawesome-solid-user-group: **Participant:** ALIBABA 
@@ -351,7 +351,7 @@
 
 ---
 #### duoT5 
-[**`Results`**](./results.md#duot5), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.duoT5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.duoT5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.duoT5), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.duoT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/duoT5.pdf) 
+[**`Results`**](./results.md#duot5) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.duoT5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.duoT5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.duoT5) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.duoT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/duoT5.pdf) 
 
 - :material-rename: **Run ID:** duoT5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -365,7 +365,7 @@
 
 ---
 #### duoT5rct 
-[**`Results`**](./results.md#duot5rct), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.duoT5rct.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.duoT5rct), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.duoT5rct), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.duoT5rct), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/duoT5rct.pdf) 
+[**`Results`**](./results.md#duot5rct) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.duoT5rct.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.duoT5rct) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.duoT5rct) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.duoT5rct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/duoT5rct.pdf) 
 
 - :material-rename: **Run ID:** duoT5rct 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -379,7 +379,7 @@
 
 ---
 #### ebm 
-[**`Results`**](./results.md#ebm), [**`Participants`**](./participants.md#pingan_nlp), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.ebm.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.ebm), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.ebm), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.ebm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/ebm.pdf) 
+[**`Results`**](./results.md#ebm) | [**`Participants`**](./participants.md#pingan_nlp) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.ebm.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.ebm) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.ebm) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.ebm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/ebm.pdf) 
 
 - :material-rename: **Run ID:** ebm 
 - :fontawesome-solid-user-group: **Participant:** PINGAN_NLP 
@@ -393,7 +393,7 @@
 
 ---
 #### ens 
-[**`Results`**](./results.md#ens), [**`Participants`**](./participants.md#pingan_nlp), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.ens.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.ens), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.ens), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.ens), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/ens.pdf) 
+[**`Results`**](./results.md#ens) | [**`Participants`**](./participants.md#pingan_nlp) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.ens.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.ens) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.ens) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.ens) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/ens.pdf) 
 
 - :material-rename: **Run ID:** ens 
 - :fontawesome-solid-user-group: **Participant:** PINGAN_NLP 
@@ -407,7 +407,7 @@
 
 ---
 #### f_CTD_run1 
-[**`Results`**](./results.md#f_ctd_run1), [**`Participants`**](./participants.md#read-biomed), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_CTD_run1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_CTD_run1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_CTD_run1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_CTD_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_CTD_run1.pdf) 
+[**`Results`**](./results.md#f_ctd_run1) | [**`Participants`**](./participants.md#read-biomed) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_CTD_run1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_CTD_run1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_CTD_run1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_CTD_run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_CTD_run1.pdf) 
 
 - :material-rename: **Run ID:** f_CTD_run1 
 - :fontawesome-solid-user-group: **Participant:** READ-Biomed 
@@ -421,7 +421,7 @@
 
 ---
 #### f_CTD_run2 
-[**`Results`**](./results.md#f_ctd_run2), [**`Participants`**](./participants.md#read-biomed), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_CTD_run2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_CTD_run2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_CTD_run2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_CTD_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_CTD_run2.pdf) 
+[**`Results`**](./results.md#f_ctd_run2) | [**`Participants`**](./participants.md#read-biomed) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_CTD_run2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_CTD_run2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_CTD_run2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_CTD_run2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_CTD_run2.pdf) 
 
 - :material-rename: **Run ID:** f_CTD_run2 
 - :fontawesome-solid-user-group: **Participant:** READ-Biomed 
@@ -435,7 +435,7 @@
 
 ---
 #### f_run0 
-[**`Results`**](./results.md#f_run0), [**`Participants`**](./participants.md#read-biomed), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_run0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_run0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_run0), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_run0), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_run0.pdf) 
+[**`Results`**](./results.md#f_run0) | [**`Participants`**](./participants.md#read-biomed) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_run0.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_run0) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_run0) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_run0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_run0.pdf) 
 
 - :material-rename: **Run ID:** f_run0 
 - :fontawesome-solid-user-group: **Participant:** READ-Biomed 
@@ -449,7 +449,7 @@
 
 ---
 #### f_run1 
-[**`Results`**](./results.md#f_run1), [**`Participants`**](./participants.md#read-biomed), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_run1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_run1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_run1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_run1.pdf) 
+[**`Results`**](./results.md#f_run1) | [**`Participants`**](./participants.md#read-biomed) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.f_run1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.f_run1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.f_run1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.f_run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/f_run1.pdf) 
 
 - :material-rename: **Run ID:** f_run1 
 - :fontawesome-solid-user-group: **Participant:** READ-Biomed 
@@ -463,7 +463,7 @@
 
 ---
 #### monoT5 
-[**`Results`**](./results.md#monot5), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5.pdf) 
+[**`Results`**](./results.md#monot5) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5.pdf) 
 
 - :material-rename: **Run ID:** monoT5 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -477,7 +477,7 @@
 
 ---
 #### monoT5e1 
-[**`Results`**](./results.md#monot5e1), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5e1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5e1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5e1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5e1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5e1.pdf) 
+[**`Results`**](./results.md#monot5e1) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5e1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5e1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5e1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5e1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5e1.pdf) 
 
 - :material-rename: **Run ID:** monoT5e1 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -491,7 +491,7 @@
 
 ---
 #### monoT5rct 
-[**`Results`**](./results.md#monot5rct), [**`Participants`**](./participants.md#h2oloo), [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5rct.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5rct), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5rct), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5rct), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5rct.pdf) 
+[**`Results`**](./results.md#monot5rct) | [**`Participants`**](./participants.md#h2oloo) | [**`Proceedings`**](./proceedings.md#h2oloo-at-trec-2020-when-all-you-got-is-a-hammer-deep-learning-health-misinformation-and-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.monoT5rct.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.monoT5rct) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.monoT5rct) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.monoT5rct) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/monoT5rct.pdf) 
 
 - :material-rename: **Run ID:** monoT5rct 
 - :fontawesome-solid-user-group: **Participant:** h2oloo 
@@ -505,7 +505,7 @@
 
 ---
 #### nnrun1 
-[**`Results`**](./results.md#nnrun1), [**`Participants`**](./participants.md#bitua), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun1.pdf) 
+[**`Results`**](./results.md#nnrun1) | [**`Participants`**](./participants.md#bitua) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun1.pdf) 
 
 - :material-rename: **Run ID:** nnrun1 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
@@ -519,7 +519,7 @@
 
 ---
 #### nnrun2 
-[**`Results`**](./results.md#nnrun2), [**`Participants`**](./participants.md#bitua), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun2.pdf) 
+[**`Results`**](./results.md#nnrun2) | [**`Participants`**](./participants.md#bitua) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun2.pdf) 
 
 - :material-rename: **Run ID:** nnrun2 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
@@ -533,7 +533,7 @@
 
 ---
 #### nnrun3 
-[**`Results`**](./results.md#nnrun3), [**`Participants`**](./participants.md#bitua), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun3), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun3.pdf) 
+[**`Results`**](./results.md#nnrun3) | [**`Participants`**](./participants.md#bitua) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.nnrun3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.nnrun3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.nnrun3) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.nnrun3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/nnrun3.pdf) 
 
 - :material-rename: **Run ID:** nnrun3 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
@@ -547,7 +547,7 @@
 
 ---
 #### PA1run 
-[**`Results`**](./results.md#pa1run), [**`Participants`**](./participants.md#pingan_nlp), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.PA1run.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.PA1run), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.PA1run), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.PA1run), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/PA1run.pdf) 
+[**`Results`**](./results.md#pa1run) | [**`Participants`**](./participants.md#pingan_nlp) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.PA1run.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.PA1run) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.PA1run) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.PA1run) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/PA1run.pdf) 
 
 - :material-rename: **Run ID:** PA1run 
 - :fontawesome-solid-user-group: **Participant:** PINGAN_NLP 
@@ -561,7 +561,7 @@
 
 ---
 #### pozadditional 
-[**`Results`**](./results.md#pozadditional), [**`Participants`**](./participants.md#poznan), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozadditional.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozadditional), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozadditional), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozadditional), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozadditional.pdf) 
+[**`Results`**](./results.md#pozadditional) | [**`Participants`**](./participants.md#poznan) | [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozadditional.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozadditional) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozadditional) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozadditional) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozadditional.pdf) 
 
 - :material-rename: **Run ID:** pozadditional 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -575,7 +575,7 @@
 
 ---
 #### pozbaseline 
-[**`Results`**](./results.md#pozbaseline), [**`Participants`**](./participants.md#poznan), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozbaseline.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozbaseline), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozbaseline), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozbaseline), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozbaseline.pdf) 
+[**`Results`**](./results.md#pozbaseline) | [**`Participants`**](./participants.md#poznan) | [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozbaseline.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozbaseline) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozbaseline) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozbaseline) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozbaseline.pdf) 
 
 - :material-rename: **Run ID:** pozbaseline 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -589,7 +589,7 @@
 
 ---
 #### pozreranked 
-[**`Results`**](./results.md#pozreranked), [**`Participants`**](./participants.md#poznan), [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozreranked.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozreranked), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozreranked), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozreranked), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozreranked.pdf) 
+[**`Results`**](./results.md#pozreranked) | [**`Participants`**](./participants.md#poznan) | [**`Proceedings`**](./proceedings.md#poznan-contribution-to-trec-pm-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.pozreranked.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.pozreranked) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.pozreranked) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.pozreranked) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/pozreranked.pdf) 
 
 - :material-rename: **Run ID:** pozreranked 
 - :fontawesome-solid-user-group: **Participant:** POZNAN 
@@ -603,7 +603,7 @@
 
 ---
 #### r1st 
-[**`Results`**](./results.md#r1st), [**`Participants`**](./participants.md#pingan_nlp), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.r1st.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.r1st), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.r1st), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.r1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/r1st.pdf) 
+[**`Results`**](./results.md#r1st) | [**`Participants`**](./participants.md#pingan_nlp) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.r1st.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.r1st) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.r1st) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.r1st) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/r1st.pdf) 
 
 - :material-rename: **Run ID:** r1st 
 - :fontawesome-solid-user-group: **Participant:** PINGAN_NLP 
@@ -617,7 +617,7 @@
 
 ---
 #### rrf 
-[**`Results`**](./results.md#rrf), [**`Participants`**](./participants.md#bitua), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf.pdf) 
+[**`Results`**](./results.md#rrf) | [**`Participants`**](./participants.md#bitua) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf.pdf) 
 
 - :material-rename: **Run ID:** rrf 
 - :fontawesome-solid-user-group: **Participant:** BIT.UA 
@@ -631,7 +631,7 @@
 
 ---
 #### rrf_p10 
-[**`Results`**](./results.md#rrf_p10), [**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_p10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_p10), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_p10), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_p10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_p10.pdf) 
+[**`Results`**](./results.md#rrf_p10) | [**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_p10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_p10) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_p10) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_p10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_p10.pdf) 
 
 - :material-rename: **Run ID:** rrf_p10 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -645,7 +645,7 @@
 
 ---
 #### rrf_prf_infndcg 
-[**`Results`**](./results.md#rrf_prf_infndcg), [**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_infndcg.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_infndcg), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_infndcg), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_infndcg), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_infndcg.pdf) 
+[**`Results`**](./results.md#rrf_prf_infndcg) | [**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_infndcg.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_infndcg) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_infndcg) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_infndcg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_infndcg.pdf) 
 
 - :material-rename: **Run ID:** rrf_prf_infndcg 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -659,7 +659,7 @@
 
 ---
 #### rrf_prf_p10 
-[**`Results`**](./results.md#rrf_prf_p10), [**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_p10.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_p10), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_p10), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_p10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_p10.pdf) 
+[**`Results`**](./results.md#rrf_prf_p10) | [**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_p10.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_p10) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_p10) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_p10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_p10.pdf) 
 
 - :material-rename: **Run ID:** rrf_prf_p10 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -673,7 +673,7 @@
 
 ---
 #### rrf_prf_rprec 
-[**`Results`**](./results.md#rrf_prf_rprec), [**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_rprec.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_rprec), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_rprec), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_rprec), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_rprec.pdf) 
+[**`Results`**](./results.md#rrf_prf_rprec) | [**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#a-study-on-query-expansion-and-rank-fusion-for-precision-medicine-the-ims-unipd-at-trec-2020-precision-medicine) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.rrf_prf_rprec.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.rrf_prf_rprec) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.rrf_prf_rprec) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.rrf_prf_rprec) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/rrf_prf_rprec.pdf) 
 
 - :material-rename: **Run ID:** rrf_prf_rprec 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -687,7 +687,7 @@
 
 ---
 #### run_bm25 
-[**`Results`**](./results.md#run_bm25), [**`Participants`**](./participants.md#vohcolab), [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.run_bm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.run_bm25), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.run_bm25), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.run_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/run_bm25.pdf) 
+[**`Results`**](./results.md#run_bm25) | [**`Participants`**](./participants.md#vohcolab) | [**`Proceedings`**](./proceedings.md#voh-colab-at-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.run_bm25.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.run_bm25) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.run_bm25) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.run_bm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/run_bm25.pdf) 
 
 - :material-rename: **Run ID:** run_bm25 
 - :fontawesome-solid-user-group: **Participant:** vohcolab 
@@ -701,7 +701,7 @@
 
 ---
 #### sibtm_run1 
-[**`Results`**](./results.md#sibtm_run1), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run1.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run1), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run1), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run1.pdf) 
+[**`Results`**](./results.md#sibtm_run1) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run1.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run1) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run1) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run1.pdf) 
 
 - :material-rename: **Run ID:** sibtm_run1 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -715,7 +715,7 @@
 
 ---
 #### sibtm_run2 
-[**`Results`**](./results.md#sibtm_run2), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run2.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run2), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run2), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run2), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run2.pdf) 
+[**`Results`**](./results.md#sibtm_run2) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run2.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run2) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run2) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run2.pdf) 
 
 - :material-rename: **Run ID:** sibtm_run2 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -729,7 +729,7 @@
 
 ---
 #### sibtm_run3 
-[**`Results`**](./results.md#sibtm_run3), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run3.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run3), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run3), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run3), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run3.pdf) 
+[**`Results`**](./results.md#sibtm_run3) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run3.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run3) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run3) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run3.pdf) 
 
 - :material-rename: **Run ID:** sibtm_run3 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -743,7 +743,7 @@
 
 ---
 #### sibtm_run4 
-[**`Results`**](./results.md#sibtm_run4), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run4.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run4), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run4), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run4), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run4.pdf) 
+[**`Results`**](./results.md#sibtm_run4) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run4.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run4) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run4) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run4) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run4.pdf) 
 
 - :material-rename: **Run ID:** sibtm_run4 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -757,7 +757,7 @@
 
 ---
 #### sibtm_run5 
-[**`Results`**](./results.md#sibtm_run5), [**`Participants`**](./participants.md#bitem), [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run5), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run5.pdf) 
+[**`Results`**](./results.md#sibtm_run5) | [**`Participants`**](./participants.md#bitem) | [**`Proceedings`**](./proceedings.md#sib-text-mining-at-trec-precision-medicine-2020) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.sibtm_run5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.sibtm_run5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.sibtm_run5) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.sibtm_run5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/sibtm_run5.pdf) 
 
 - :material-rename: **Run ID:** sibtm_run5 
 - :fontawesome-solid-user-group: **Participant:** BITEM 
@@ -771,7 +771,7 @@
 
 ---
 #### tier1st 
-[**`Results`**](./results.md#tier1st), [**`Participants`**](./participants.md#pingan_nlp), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.tier1st.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.tier1st), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.tier1st), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.tier1st), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/tier1st.pdf) 
+[**`Results`**](./results.md#tier1st) | [**`Participants`**](./participants.md#pingan_nlp) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.tier1st.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.tier1st) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.tier1st) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.tier1st) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/tier1st.pdf) 
 
 - :material-rename: **Run ID:** tier1st 
 - :fontawesome-solid-user-group: **Participant:** PINGAN_NLP 
@@ -785,7 +785,7 @@
 
 ---
 #### uog_ufmg_DFRee 
-[**`Results`**](./results.md#uog_ufmg_dfree), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_DFRee.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_DFRee), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_DFRee), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_DFRee), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_DFRee.pdf) 
+[**`Results`**](./results.md#uog_ufmg_dfree) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_DFRee.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_DFRee) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_DFRee) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_DFRee) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_DFRee.pdf) 
 
 - :material-rename: **Run ID:** uog_ufmg_DFRee 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -799,7 +799,7 @@
 
 ---
 #### uog_ufmg_s_dfr0 
-[**`Results`**](./results.md#uog_ufmg_s_dfr0), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_s_dfr0.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_s_dfr0), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_s_dfr0), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_s_dfr0), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_s_dfr0.pdf) 
+[**`Results`**](./results.md#uog_ufmg_s_dfr0) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_s_dfr0.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_s_dfr0) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_s_dfr0) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_s_dfr0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_s_dfr0.pdf) 
 
 - :material-rename: **Run ID:** uog_ufmg_s_dfr0 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -813,7 +813,7 @@
 
 ---
 #### uog_ufmg_s_dfr5 
-[**`Results`**](./results.md#uog_ufmg_s_dfr5), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_s_dfr5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_s_dfr5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_s_dfr5), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_s_dfr5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_s_dfr5.pdf) 
+[**`Results`**](./results.md#uog_ufmg_s_dfr5) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_s_dfr5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_s_dfr5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_s_dfr5) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_s_dfr5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_s_dfr5.pdf) 
 
 - :material-rename: **Run ID:** uog_ufmg_s_dfr5 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -827,7 +827,7 @@
 
 ---
 #### uog_ufmg_sb_df5 
-[**`Results`**](./results.md#uog_ufmg_sb_df5), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_sb_df5.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_sb_df5), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_sb_df5), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_sb_df5), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_sb_df5.pdf) 
+[**`Results`**](./results.md#uog_ufmg_sb_df5) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_sb_df5.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_sb_df5) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_sb_df5) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_sb_df5) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_sb_df5.pdf) 
 
 - :material-rename: **Run ID:** uog_ufmg_sb_df5 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -841,7 +841,7 @@
 
 ---
 #### uog_ufmg_secL2R 
-[**`Results`**](./results.md#uog_ufmg_secl2r), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_secL2R.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_secL2R), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_secL2R), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_secL2R), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_secL2R.pdf) 
+[**`Results`**](./results.md#uog_ufmg_secl2r) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-ufmg-at-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uog_ufmg_secL2R.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uog_ufmg_secL2R) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uog_ufmg_secL2R) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uog_ufmg_secL2R) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uog_ufmg_secL2R.pdf) 
 
 - :material-rename: **Run ID:** uog_ufmg_secL2R 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -855,7 +855,7 @@
 
 ---
 #### uwbm25 
-[**`Results`**](./results.md#uwbm25), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwbm25.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwbm25), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwbm25), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwbm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwbm25.pdf) 
+[**`Results`**](./results.md#uwbm25) | [**`Participants`**](./participants.md#mrg_uwaterloo) | [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwbm25.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwbm25) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwbm25) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwbm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwbm25.pdf) 
 
 - :material-rename: **Run ID:** uwbm25 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
@@ -869,7 +869,7 @@
 
 ---
 #### uwman 
-[**`Results`**](./results.md#uwman), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwman.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwman), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwman), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwman), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwman.pdf) 
+[**`Results`**](./results.md#uwman) | [**`Participants`**](./participants.md#mrg_uwaterloo) | [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwman.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwman) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwman) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwman) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwman.pdf) 
 
 - :material-rename: **Run ID:** uwman 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
@@ -883,7 +883,7 @@
 
 ---
 #### uwpr 
-[**`Results`**](./results.md#uwpr), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwpr.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwpr), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwpr), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwpr), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwpr.pdf) 
+[**`Results`**](./results.md#uwpr) | [**`Participants`**](./participants.md#mrg_uwaterloo) | [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwpr.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwpr) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwpr) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwpr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwpr.pdf) 
 
 - :material-rename: **Run ID:** uwpr 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
@@ -897,7 +897,7 @@
 
 ---
 #### uwr 
-[**`Results`**](./results.md#uwr), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwr.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwr), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwr), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwr), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwr.pdf) 
+[**`Results`**](./results.md#uwr) | [**`Participants`**](./participants.md#mrg_uwaterloo) | [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwr.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwr) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwr) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwr.pdf) 
 
 - :material-rename: **Run ID:** uwr 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 
@@ -911,7 +911,7 @@
 
 ---
 #### uwrn 
-[**`Results`**](./results.md#uwrn), [**`Participants`**](./participants.md#mrg_uwaterloo), [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track), [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwrn.gz), [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwrn), [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwrn), [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwrn), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwrn.pdf) 
+[**`Results`**](./results.md#uwrn) | [**`Participants`**](./participants.md#mrg_uwaterloo) | [**`Proceedings`**](./proceedings.md#mrg-uwaterloo-participation-in-the-trec-2020-precision-medicine-track) | [**`Input`**](https://trec.nist.gov/results/trec29/pm/input.uwrn.gz) | [**`Summary (trec_eval)`**](https://trec.nist.gov/results/trec29/pm/summary.treceval.uwrn) | [**`Summary (sample-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.sample-eval.uwrn) | [**`Summary (evidence-eval)`**](https://trec.nist.gov/results/trec29/pm/summary.evidence-eval.uwrn) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/pm/uwrn.pdf) 
 
 - :material-rename: **Run ID:** uwrn 
 - :fontawesome-solid-user-group: **Participant:** MRG_UWaterloo 

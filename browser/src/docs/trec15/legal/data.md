@@ -1,6 +1,6 @@
 # Data - Legal 2006 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/legal06.html`](https://trec.nist.gov/data/legal06.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/legal06.html`](https://trec.nist.gov/data/legal06.html)
 
 ---
 

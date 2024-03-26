@@ -9,7 +9,7 @@
 #### CLIP
  - :fontawesome-solid-user-group: **Name:** Mossaab Bagdouri
  - :octicons-organization-16: **Organization:** University of Maryland
- - :material-file-search: **Runs:** [CLIP3](./runs.md#clip3), [CLIP2](./runs.md#clip2), [CLIP1](./runs.md#clip1)
+ - :material-file-search: **Runs:** [CLIP3](./runs.md#clip3) | [CLIP2](./runs.md#clip2) | [CLIP1](./runs.md#clip1)
 
 ---
 #### CMUOAQA
@@ -51,7 +51,7 @@
 #### NUDTMDP
  - :fontawesome-solid-user-group: **Name:** Massive Data Processing Lab.
  - :octicons-organization-16: **Organization:** Massive Data Processing Lab., School of Computer, NUDT
- - :material-file-search: **Runs:** [NUDTMDP1](./runs.md#nudtmdp1), [NUDTMDP2](./runs.md#nudtmdp2), [NUDTMDP3](./runs.md#nudtmdp3)
+ - :material-file-search: **Runs:** [NUDTMDP1](./runs.md#nudtmdp1) | [NUDTMDP2](./runs.md#nudtmdp2) | [NUDTMDP3](./runs.md#nudtmdp3)
 
 ---
 #### QU
@@ -63,7 +63,7 @@
 #### RMIT
  - :fontawesome-solid-user-group: **Name:** Falk Scholer
  - :octicons-organization-16: **Organization:** RMIT University
- - :material-file-search: **Runs:** [RMIT1](./runs.md#rmit1), [RMIT3](./runs.md#rmit3), [RMIT2](./runs.md#rmit2), [system2](./runs.md#system2)
+ - :material-file-search: **Runs:** [RMIT1](./runs.md#rmit1) | [RMIT3](./runs.md#rmit3) | [RMIT2](./runs.md#rmit2) | [system2](./runs.md#system2)
 
 ---
 #### SCU

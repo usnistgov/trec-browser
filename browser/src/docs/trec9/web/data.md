@@ -1,6 +1,6 @@
 # Data - Web 2000 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t9.web.html`](https://trec.nist.gov/data/t9.web.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t9.web.html`](https://trec.nist.gov/data/t9.web.html)
 
 ---
 

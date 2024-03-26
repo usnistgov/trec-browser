@@ -1,7 +1,7 @@
 # Runs - Web 2009 
 
 #### arsc09web 
-[**`Results`**](./results.md#arsc09web), [**`Participants`**](./participants.md#arsc09), [**`Proceedings`**](./proceedings.md#lucene-for-n-grams-using-the-clueweb-collection), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.arsc09web.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ARSC09.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/arsc09web.adhoc.pdf) 
+[**`Results`**](./results.md#arsc09web) | [**`Participants`**](./participants.md#arsc09) | [**`Proceedings`**](./proceedings.md#lucene-for-n-grams-using-the-clueweb-collection) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.arsc09web.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ARSC09.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/arsc09web.adhoc.pdf) 
 
 - :material-rename: **Run ID:** arsc09web 
 - :fontawesome-solid-user-group: **Participant:** ARSC09 
@@ -15,7 +15,7 @@
 
 ---
 #### ICTNETADRun3 
-[**`Results`**](./results.md#ictnetadrun3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun3.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetadrun3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun3.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETADRun3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -29,7 +29,7 @@
 
 ---
 #### ICTNETADRun4 
-[**`Results`**](./results.md#ictnetadrun4), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun4.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun4.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetadrun4) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun4.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETADRun4 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -43,7 +43,7 @@
 
 ---
 #### ICTNETADRun5 
-[**`Results`**](./results.md#ictnetadrun5), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun5.adhoc.pdf) 
+[**`Results`**](./results.md#ictnetadrun5) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETADRun5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.ICTNET.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/ICTNETADRun5.adhoc.pdf) 
 
 - :material-rename: **Run ID:** ICTNETADRun5 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -57,7 +57,7 @@
 
 ---
 #### ICTNETDivR1 
-[**`Results`**](./results.md#ictnetdivr1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#ictnetdivr1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDivR1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -71,7 +71,7 @@
 
 ---
 #### ICTNETDivR2 
-[**`Results`**](./results.md#ictnetdivr2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#ictnetdivr2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDivR2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -85,7 +85,7 @@
 
 ---
 #### ICTNETDivR3 
-[**`Results`**](./results.md#ictnetdivr3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#ictnetdivr3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-2009-diversity-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.ICTNETDivR3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.ICTNETDivR3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** ICTNETDivR3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -99,7 +99,7 @@
 
 ---
 #### IE09 
-[**`Results`**](./results.md#ie09), [**`Participants`**](./participants.md#york), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.IE09.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.York.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/IE09.adhoc.pdf) 
+[**`Results`**](./results.md#ie09) | [**`Participants`**](./participants.md#york) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.IE09.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.York.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/IE09.adhoc.pdf) 
 
 - :material-rename: **Run ID:** IE09 
 - :fontawesome-solid-user-group: **Participant:** York 
@@ -113,7 +113,7 @@
 
 ---
 #### irra1a 
-[**`Results`**](./results.md#irra1a), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra1a.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra1a.adhoc.pdf) 
+[**`Results`**](./results.md#irra1a) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra1a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra1a.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra1a 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -127,7 +127,7 @@
 
 ---
 #### irra1d 
-[**`Results`**](./results.md#irra1d), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra1d.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra1d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#irra1d) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra1d.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra1d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** irra1d 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -141,7 +141,7 @@
 
 ---
 #### irra2a 
-[**`Results`**](./results.md#irra2a), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra2a.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra2a.adhoc.pdf) 
+[**`Results`**](./results.md#irra2a) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra2a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra2a.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra2a 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -155,7 +155,7 @@
 
 ---
 #### irra2d 
-[**`Results`**](./results.md#irra2d), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra2d.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra2d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#irra2d) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra2d.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra2d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** irra2d 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -169,7 +169,7 @@
 
 ---
 #### irra3a 
-[**`Results`**](./results.md#irra3a), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra3a.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra3a.adhoc.pdf) 
+[**`Results`**](./results.md#irra3a) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra3a.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.IRRA.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/irra3a.adhoc.pdf) 
 
 - :material-rename: **Run ID:** irra3a 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -183,7 +183,7 @@
 
 ---
 #### irra3d 
-[**`Results`**](./results.md#irra3d), [**`Participants`**](./participants.md#irra), [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra3d.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra3d.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#irra3d) | [**`Participants`**](./participants.md#irra) | [**`Proceedings`**](./proceedings.md#irra-at-trec-2009-index-term-weighting-based-on-divergence-from-independence-model) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.irra3d.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.irra3d.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** irra3d 
 - :fontawesome-solid-user-group: **Participant:** IRRA 
@@ -197,7 +197,7 @@
 
 ---
 #### MS1 
-[**`Results`**](./results.md#ms1), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS1.adhoc.pdf) 
+[**`Results`**](./results.md#ms1) | [**`Participants`**](./participants.md#msrc) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS1.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MS1 
 - :fontawesome-solid-user-group: **Participant:** msrc 
@@ -211,7 +211,7 @@
 
 ---
 #### MS2 
-[**`Results`**](./results.md#ms2), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS2.adhoc.pdf) 
+[**`Results`**](./results.md#ms2) | [**`Participants`**](./participants.md#msrc) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MS2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.msrc.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MS2.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MS2 
 - :fontawesome-solid-user-group: **Participant:** msrc 
@@ -225,7 +225,7 @@
 
 ---
 #### MSDiv1 
-[**`Results`**](./results.md#msdiv1), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msdiv1) | [**`Participants`**](./participants.md#msrc) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSDiv1 
 - :fontawesome-solid-user-group: **Participant:** msrc 
@@ -239,7 +239,7 @@
 
 ---
 #### MSDiv2 
-[**`Results`**](./results.md#msdiv2), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msdiv2) | [**`Participants`**](./participants.md#msrc) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSDiv2 
 - :fontawesome-solid-user-group: **Participant:** msrc 
@@ -253,7 +253,7 @@
 
 ---
 #### MSDiv3 
-[**`Results`**](./results.md#msdiv3), [**`Participants`**](./participants.md#msrc), [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msdiv3) | [**`Participants`**](./participants.md#msrc) | [**`Proceedings`**](./proceedings.md#microsoft-research-at-trec-2009-web-and-relevance-feedback-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSDiv3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSDiv3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSDiv3 
 - :fontawesome-solid-user-group: **Participant:** msrc 
@@ -267,7 +267,7 @@
 
 ---
 #### MSRAACSF 
-[**`Results`**](./results.md#msraacsf), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAACSF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRAACSF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msraacsf) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAACSF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRAACSF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSRAACSF 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -281,7 +281,7 @@
 
 ---
 #### MSRAAF 
-[**`Results`**](./results.md#msraaf), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAAF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAAF.adhoc.pdf) 
+[**`Results`**](./results.md#msraaf) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAAF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAAF.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MSRAAF 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -295,7 +295,7 @@
 
 ---
 #### MSRABASE 
-[**`Results`**](./results.md#msrabase), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRABASE.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRABASE.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msrabase) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRABASE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRABASE.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSRABASE 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -309,7 +309,7 @@
 
 ---
 #### MSRAC 
-[**`Results`**](./results.md#msrac), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAC.adhoc.pdf) 
+[**`Results`**](./results.md#msrac) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRAC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRAC.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MSRAC 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -323,7 +323,7 @@
 
 ---
 #### MSRACS 
-[**`Results`**](./results.md#msracs), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRACS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRACS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#msracs) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRACS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.MSRACS.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** MSRACS 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -337,7 +337,7 @@
 
 ---
 #### MSRANORM 
-[**`Results`**](./results.md#msranorm), [**`Participants`**](./participants.md#msrasia), [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRANORM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRANORM.adhoc.pdf) 
+[**`Results`**](./results.md#msranorm) | [**`Participants`**](./participants.md#msrasia) | [**`Proceedings`**](./proceedings.md#microsoft-research-asia-at-the-web-track-of-trec-2009) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.MSRANORM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.MSRAsia.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/MSRANORM.adhoc.pdf) 
 
 - :material-rename: **Run ID:** MSRANORM 
 - :fontawesome-solid-user-group: **Participant:** MSRAsia 
@@ -351,7 +351,7 @@
 
 ---
 #### muadanchor 
-[**`Results`**](./results.md#muadanchor), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadanchor.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadanchor.adhoc.pdf) 
+[**`Results`**](./results.md#muadanchor) | [**`Participants`**](./participants.md#unimelb) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadanchor.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadanchor.adhoc.pdf) 
 
 - :material-rename: **Run ID:** muadanchor 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -365,7 +365,7 @@
 
 ---
 #### muadibm5 
-[**`Results`**](./results.md#muadibm5), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadibm5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadibm5.adhoc.pdf) 
+[**`Results`**](./results.md#muadibm5) | [**`Participants`**](./participants.md#unimelb) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadibm5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadibm5.adhoc.pdf) 
 
 - :material-rename: **Run ID:** muadibm5 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -379,7 +379,7 @@
 
 ---
 #### muadimp 
-[**`Results`**](./results.md#muadimp), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadimp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadimp.adhoc.pdf) 
+[**`Results`**](./results.md#muadimp) | [**`Participants`**](./participants.md#unimelb) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.muadimp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.unimelb.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/muadimp.adhoc.pdf) 
 
 - :material-rename: **Run ID:** muadimp 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -393,7 +393,7 @@
 
 ---
 #### mudvibm5 
-[**`Results`**](./results.md#mudvibm5), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.mudvibm5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.mudvibm5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#mudvibm5) | [**`Participants`**](./participants.md#unimelb) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.mudvibm5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.mudvibm5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** mudvibm5 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -407,7 +407,7 @@
 
 ---
 #### mudvimp 
-[**`Results`**](./results.md#mudvimp), [**`Participants`**](./participants.md#unimelb), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.mudvimp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.mudvimp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#mudvimp) | [**`Participants`**](./participants.md#unimelb) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.mudvimp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.mudvimp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** mudvimp 
 - :fontawesome-solid-user-group: **Participant:** unimelb 
@@ -421,7 +421,7 @@
 
 ---
 #### NeuDiv1 
-[**`Results`**](./results.md#neudiv1), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuDiv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuDiv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#neudiv1) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuDiv1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuDiv1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** NeuDiv1 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -435,7 +435,7 @@
 
 ---
 #### NeuDivW75 
-[**`Results`**](./results.md#neudivw75), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuDivW75.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuDivW75.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#neudivw75) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuDivW75.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuDivW75.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** NeuDivW75 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -449,7 +449,7 @@
 
 ---
 #### NeuLMWeb300 
-[**`Results`**](./results.md#neulmweb300), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWeb300.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWeb300.adhoc.pdf) 
+[**`Results`**](./results.md#neulmweb300) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWeb300.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWeb300.adhoc.pdf) 
 
 - :material-rename: **Run ID:** NeuLMWeb300 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -463,7 +463,7 @@
 
 ---
 #### NeuLMWeb600 
-[**`Results`**](./results.md#neulmweb600), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWeb600.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWeb600.adhoc.pdf) 
+[**`Results`**](./results.md#neulmweb600) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWeb600.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWeb600.adhoc.pdf) 
 
 - :material-rename: **Run ID:** NeuLMWeb600 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -477,7 +477,7 @@
 
 ---
 #### NeuLMWebBase 
-[**`Results`**](./results.md#neulmwebbase), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWebBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWebBase.adhoc.pdf) 
+[**`Results`**](./results.md#neulmwebbase) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuLMWebBase.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.NEU.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/NeuLMWebBase.adhoc.pdf) 
 
 - :material-rename: **Run ID:** NeuLMWebBase 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -491,7 +491,7 @@
 
 ---
 #### NeuRRWeb300 
-[**`Results`**](./results.md#neurrweb300), [**`Participants`**](./participants.md#neu), [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuRRWeb300.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuRRWeb300.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#neurrweb300) | [**`Participants`**](./participants.md#neu) | [**`Proceedings`**](./proceedings.md#northeastern-university-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.NeuRRWeb300.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.NeuRRWeb300.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** NeuRRWeb300 
 - :fontawesome-solid-user-group: **Participant:** NEU 
@@ -505,7 +505,7 @@
 
 ---
 #### pkuLink 
-[**`Results`**](./results.md#pkulink), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuLink.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuLink.adhoc.pdf) 
+[**`Results`**](./results.md#pkulink) | [**`Participants`**](./participants.md#pku2009) | [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuLink.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuLink.adhoc.pdf) 
 
 - :material-rename: **Run ID:** pkuLink 
 - :fontawesome-solid-user-group: **Participant:** pku2009 
@@ -519,7 +519,7 @@
 
 ---
 #### pkuSewmTp 
-[**`Results`**](./results.md#pkusewmtp), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuSewmTp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuSewmTp.adhoc.pdf) 
+[**`Results`**](./results.md#pkusewmtp) | [**`Participants`**](./participants.md#pku2009) | [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuSewmTp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuSewmTp.adhoc.pdf) 
 
 - :material-rename: **Run ID:** pkuSewmTp 
 - :fontawesome-solid-user-group: **Participant:** pku2009 
@@ -533,7 +533,7 @@
 
 ---
 #### pkuStruct 
-[**`Results`**](./results.md#pkustruct), [**`Participants`**](./participants.md#pku2009), [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuStruct.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuStruct.adhoc.pdf) 
+[**`Results`**](./results.md#pkustruct) | [**`Participants`**](./participants.md#pku2009) | [**`Proceedings`**](./proceedings.md#paradise-based-search-engine-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.pkuStruct.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.pku2009.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/pkuStruct.adhoc.pdf) 
 
 - :material-rename: **Run ID:** pkuStruct 
 - :fontawesome-solid-user-group: **Participant:** pku2009 
@@ -547,7 +547,7 @@
 
 ---
 #### RmitDiv 
-[**`Results`**](./results.md#rmitdiv), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitDiv.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.RmitDiv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#rmitdiv) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitDiv.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.RmitDiv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** RmitDiv 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -561,7 +561,7 @@
 
 ---
 #### RmitLm 
-[**`Results`**](./results.md#rmitlm), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitLm.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.RMIT.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/RmitLm.adhoc.pdf) 
+[**`Results`**](./results.md#rmitlm) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitLm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.RMIT.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/RmitLm.adhoc.pdf) 
 
 - :material-rename: **Run ID:** RmitLm 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -575,7 +575,7 @@
 
 ---
 #### RmitOkapi 
-[**`Results`**](./results.md#rmitokapi), [**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitOkapi.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.RMIT.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/RmitOkapi.adhoc.pdf) 
+[**`Results`**](./results.md#rmitokapi) | [**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#rmit-university-at-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.RmitOkapi.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.RMIT.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/RmitOkapi.adhoc.pdf) 
 
 - :material-rename: **Run ID:** RmitOkapi 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -589,7 +589,7 @@
 
 ---
 #### Sab9wtBase 
-[**`Results`**](./results.md#sab9wtbase), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBase.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBase.adhoc.pdf) 
+[**`Results`**](./results.md#sab9wtbase) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBase.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBase.adhoc.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBase 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -603,7 +603,7 @@
 
 ---
 #### Sab9wtBDiv1 
-[**`Results`**](./results.md#sab9wtbdiv1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBDiv1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBDiv1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#sab9wtbdiv1) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBDiv1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBDiv1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBDiv1 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -617,7 +617,7 @@
 
 ---
 #### Sab9wtBDiv2 
-[**`Results`**](./results.md#sab9wtbdiv2), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBDiv2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBDiv2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#sab9wtbdiv2) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBDiv2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBDiv2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBDiv2 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -631,7 +631,7 @@
 
 ---
 #### Sab9wtBf1 
-[**`Results`**](./results.md#sab9wtbf1), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf1.adhoc.pdf) 
+[**`Results`**](./results.md#sab9wtbf1) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf1.adhoc.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBf1 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -645,7 +645,7 @@
 
 ---
 #### Sab9wtBf2 
-[**`Results`**](./results.md#sab9wtbf2), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf2.adhoc.pdf) 
+[**`Results`**](./results.md#sab9wtbf2) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBf2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SABIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/Sab9wtBf2.adhoc.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBf2 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -659,7 +659,7 @@
 
 ---
 #### Sab9wtBfDiv 
-[**`Results`**](./results.md#sab9wtbfdiv), [**`Participants`**](./participants.md#sabir), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBfDiv.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBfDiv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#sab9wtbfdiv) | [**`Participants`**](./participants.md#sabir) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.Sab9wtBfDiv.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.Sab9wtBfDiv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** Sab9wtBfDiv 
 - :fontawesome-solid-user-group: **Participant:** SABIR 
@@ -673,7 +673,7 @@
 
 ---
 #### scutrun1 
-[**`Results`**](./results.md#scutrun1), [**`Participants`**](./participants.md#scut_kapok), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun1.adhoc.pdf) 
+[**`Results`**](./results.md#scutrun1) | [**`Participants`**](./participants.md#scut_kapok) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun1.adhoc.pdf) 
 
 - :material-rename: **Run ID:** scutrun1 
 - :fontawesome-solid-user-group: **Participant:** scut_kapok 
@@ -687,7 +687,7 @@
 
 ---
 #### scutrun2 
-[**`Results`**](./results.md#scutrun2), [**`Participants`**](./participants.md#scut_kapok), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun2.adhoc.pdf) 
+[**`Results`**](./results.md#scutrun2) | [**`Participants`**](./participants.md#scut_kapok) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun2.adhoc.pdf) 
 
 - :material-rename: **Run ID:** scutrun2 
 - :fontawesome-solid-user-group: **Participant:** scut_kapok 
@@ -701,7 +701,7 @@
 
 ---
 #### scutrun3 
-[**`Results`**](./results.md#scutrun3), [**`Participants`**](./participants.md#scut_kapok), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun3.adhoc.pdf) 
+[**`Results`**](./results.md#scutrun3) | [**`Participants`**](./participants.md#scut_kapok) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.scutrun3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.scut_kapok.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/scutrun3.adhoc.pdf) 
 
 - :material-rename: **Run ID:** scutrun3 
 - :fontawesome-solid-user-group: **Participant:** scut_kapok 
@@ -715,7 +715,7 @@
 
 ---
 #### SIEL09 
-[**`Results`**](./results.md#siel09), [**`Participants`**](./participants.md#siel), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.SIEL09.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SIEL.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/SIEL09.adhoc.pdf) 
+[**`Results`**](./results.md#siel09) | [**`Participants`**](./participants.md#siel) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.SIEL09.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.SIEL.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/SIEL09.adhoc.pdf) 
 
 - :material-rename: **Run ID:** SIEL09 
 - :fontawesome-solid-user-group: **Participant:** SIEL 
@@ -729,7 +729,7 @@
 
 ---
 #### spc 
-[**`Results`**](./results.md#spc), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.spc.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.spc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#spc) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.spc.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.spc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** spc 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -743,7 +743,7 @@
 
 ---
 #### THUIR09AbClu 
-[**`Results`**](./results.md#thuir09abclu), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09AbClu.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09AbClu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#thuir09abclu) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09AbClu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09AbClu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** THUIR09AbClu 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -757,7 +757,7 @@
 
 ---
 #### THUIR09An 
-[**`Results`**](./results.md#thuir09an), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09An.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09An.adhoc.pdf) 
+[**`Results`**](./results.md#thuir09an) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09An.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09An.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR09An 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -771,7 +771,7 @@
 
 ---
 #### THUIR09FuClu 
-[**`Results`**](./results.md#thuir09fuclu), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09FuClu.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09FuClu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#thuir09fuclu) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09FuClu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09FuClu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** THUIR09FuClu 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -785,7 +785,7 @@
 
 ---
 #### THUIR09LuTA 
-[**`Results`**](./results.md#thuir09luta), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09LuTA.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09LuTA.adhoc.pdf) 
+[**`Results`**](./results.md#thuir09luta) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09LuTA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09LuTA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR09LuTA 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -799,7 +799,7 @@
 
 ---
 #### THUIR09QeDiv 
-[**`Results`**](./results.md#thuir09qediv), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09QeDiv.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09QeDiv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#thuir09qediv) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09QeDiv.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.THUIR09QeDiv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** THUIR09QeDiv 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -813,7 +813,7 @@
 
 ---
 #### THUIR09TxAn 
-[**`Results`**](./results.md#thuir09txan), [**`Participants`**](./participants.md#thuir), [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09TxAn.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09TxAn.adhoc.pdf) 
+[**`Results`**](./results.md#thuir09txan) | [**`Participants`**](./participants.md#thuir) | [**`Proceedings`**](./proceedings.md#thuir-at-trec-2009-web-track-finding-relevant-and-diverse-results-for-large-scale-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.THUIR09TxAn.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.THUIR.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/THUIR09TxAn.adhoc.pdf) 
 
 - :material-rename: **Run ID:** THUIR09TxAn 
 - :fontawesome-solid-user-group: **Participant:** THUIR 
@@ -827,7 +827,7 @@
 
 ---
 #### tm 
-[**`Results`**](./results.md#tm), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.tm.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.tm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#tm) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.tm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.tm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** tm 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -841,7 +841,7 @@
 
 ---
 #### twCSodpRBB 
-[**`Results`**](./results.md#twcsodprbb), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSodpRBB.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.twCSodpRBB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#twcsodprbb) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSodpRBB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.twCSodpRBB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** twCSodpRBB 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -855,7 +855,7 @@
 
 ---
 #### twCSodpRNB 
-[**`Results`**](./results.md#twcsodprnb), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSodpRNB.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.twCSodpRNB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#twcsodprnb) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSodpRNB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.twCSodpRNB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** twCSodpRNB 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -869,7 +869,7 @@
 
 ---
 #### twCSrs9N 
-[**`Results`**](./results.md#twcsrs9n), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrs9N.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrs9N.adhoc.pdf) 
+[**`Results`**](./results.md#twcsrs9n) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrs9N.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrs9N.adhoc.pdf) 
 
 - :material-rename: **Run ID:** twCSrs9N 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -883,7 +883,7 @@
 
 ---
 #### twCSrsR 
-[**`Results`**](./results.md#twcsrsr), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrsR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrsR.adhoc.pdf) 
+[**`Results`**](./results.md#twcsrsr) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twCSrsR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twCSrsR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** twCSrsR 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -897,7 +897,7 @@
 
 ---
 #### twJ48rsU 
-[**`Results`**](./results.md#twj48rsu), [**`Participants`**](./participants.md#utwente), [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twJ48rsU.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twJ48rsU.adhoc.pdf) 
+[**`Results`**](./results.md#twj48rsu) | [**`Participants`**](./participants.md#utwente) | [**`Proceedings`**](./proceedings.md#university-of-twente-trec-2009-indexing-half-a-million-web-pages) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.twJ48rsU.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.utwente.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/twJ48rsU.adhoc.pdf) 
 
 - :material-rename: **Run ID:** twJ48rsU 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -911,7 +911,7 @@
 
 ---
 #### UamsAw7an3 
-[**`Results`**](./results.md#uamsaw7an3), [**`Participants`**](./participants.md#amsterdam), [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsAw7an3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Amsterdam.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UamsAw7an3.adhoc.pdf) 
+[**`Results`**](./results.md#uamsaw7an3) | [**`Participants`**](./participants.md#amsterdam) | [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsAw7an3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Amsterdam.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UamsAw7an3.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UamsAw7an3 
 - :fontawesome-solid-user-group: **Participant:** Amsterdam 
@@ -925,7 +925,7 @@
 
 ---
 #### UamsAwebQE10 
-[**`Results`**](./results.md#uamsawebqe10), [**`Participants`**](./participants.md#amsterdam), [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsAwebQE10.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Amsterdam.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UamsAwebQE10.adhoc.pdf) 
+[**`Results`**](./results.md#uamsawebqe10) | [**`Participants`**](./participants.md#amsterdam) | [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsAwebQE10.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Amsterdam.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UamsAwebQE10.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UamsAwebQE10 
 - :fontawesome-solid-user-group: **Participant:** Amsterdam 
@@ -939,7 +939,7 @@
 
 ---
 #### UamsDancTFb1 
-[**`Results`**](./results.md#uamsdanctfb1), [**`Participants`**](./participants.md#amsterdam), [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDancTFb1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDancTFb1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uamsdanctfb1) | [**`Participants`**](./participants.md#amsterdam) | [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDancTFb1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDancTFb1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** UamsDancTFb1 
 - :fontawesome-solid-user-group: **Participant:** Amsterdam 
@@ -953,7 +953,7 @@
 
 ---
 #### UamsDwebLFou 
-[**`Results`**](./results.md#uamsdweblfou), [**`Participants`**](./participants.md#amsterdam), [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDwebLFou.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDwebLFou.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uamsdweblfou) | [**`Participants`**](./participants.md#amsterdam) | [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDwebLFou.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDwebLFou.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** UamsDwebLFou 
 - :fontawesome-solid-user-group: **Participant:** Amsterdam 
@@ -967,7 +967,7 @@
 
 ---
 #### UamsDwQE10TF 
-[**`Results`**](./results.md#uamsdwqe10tf), [**`Participants`**](./participants.md#amsterdam), [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDwQE10TF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDwQE10TF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uamsdwqe10tf) | [**`Participants`**](./participants.md#amsterdam) | [**`Proceedings`**](./proceedings.md#result-diversity-and-entity-ranking-experiments-anchors-links-text-and-wikipedia) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UamsDwQE10TF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UamsDwQE10TF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** UamsDwQE10TF 
 - :fontawesome-solid-user-group: **Participant:** Amsterdam 
@@ -981,7 +981,7 @@
 
 ---
 #### UCDSIFTdiv 
-[**`Results`**](./results.md#ucdsiftdiv), [**`Participants`**](./participants.md#csiucd), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTdiv.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UCDSIFTdiv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#ucdsiftdiv) | [**`Participants`**](./participants.md#csiucd) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTdiv.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.UCDSIFTdiv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTdiv 
 - :fontawesome-solid-user-group: **Participant:** CSIUCD 
@@ -995,7 +995,7 @@
 
 ---
 #### UCDSIFTinter 
-[**`Results`**](./results.md#ucdsiftinter), [**`Participants`**](./participants.md#csiucd), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTinter.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTinter.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftinter) | [**`Participants`**](./participants.md#csiucd) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTinter.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTinter.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTinter 
 - :fontawesome-solid-user-group: **Participant:** CSIUCD 
@@ -1009,7 +1009,7 @@
 
 ---
 #### UCDSIFTprob 
-[**`Results`**](./results.md#ucdsiftprob), [**`Participants`**](./participants.md#csiucd), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTprob.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTprob.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftprob) | [**`Participants`**](./participants.md#csiucd) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTprob.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTprob.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTprob 
 - :fontawesome-solid-user-group: **Participant:** CSIUCD 
@@ -1023,7 +1023,7 @@
 
 ---
 #### UCDSIFTslide 
-[**`Results`**](./results.md#ucdsiftslide), [**`Participants`**](./participants.md#csiucd), [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTslide.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTslide.adhoc.pdf) 
+[**`Results`**](./results.md#ucdsiftslide) | [**`Participants`**](./participants.md#csiucd) | [**`Proceedings`**](./proceedings.md#ucd-sift-in-the-trec-2009-web-track) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UCDSIFTslide.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.CSIUCD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UCDSIFTslide.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UCDSIFTslide 
 - :fontawesome-solid-user-group: **Participant:** CSIUCD 
@@ -1037,7 +1037,7 @@
 
 ---
 #### udelFMRM 
-[**`Results`**](./results.md#udelfmrm), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelFMRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelFMRM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#udelfmrm) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelFMRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelFMRM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** udelFMRM 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1051,7 +1051,7 @@
 
 ---
 #### udelFMWG 
-[**`Results`**](./results.md#udelfmwg), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelFMWG.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelFMWG.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#udelfmwg) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelFMWG.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelFMWG.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** udelFMWG 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1065,7 +1065,7 @@
 
 ---
 #### udelIndDMRM 
-[**`Results`**](./results.md#udelinddmrm), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDMRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDMRM.adhoc.pdf) 
+[**`Results`**](./results.md#udelinddmrm) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDMRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDMRM.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndDMRM 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1079,7 +1079,7 @@
 
 ---
 #### udelIndDRPR 
-[**`Results`**](./results.md#udelinddrpr), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDRPR.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDRPR.adhoc.pdf) 
+[**`Results`**](./results.md#udelinddrpr) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDRPR.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDRPR.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndDRPR 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1093,7 +1093,7 @@
 
 ---
 #### udelIndDRSP 
-[**`Results`**](./results.md#udelinddrsp), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDRSP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDRSP.adhoc.pdf) 
+[**`Results`**](./results.md#udelinddrsp) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelIndDRSP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UDel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/udelIndDRSP.adhoc.pdf) 
 
 - :material-rename: **Run ID:** udelIndDRSP 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1107,7 +1107,7 @@
 
 ---
 #### udelSimPrune 
-[**`Results`**](./results.md#udelsimprune), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelSimPrune.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelSimPrune.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#udelsimprune) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#ad-hoc-and-diversity-retrieval-at-the-university-of-delaware) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.udelSimPrune.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.udelSimPrune.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** udelSimPrune 
 - :fontawesome-solid-user-group: **Participant:** UDel 
@@ -1121,7 +1121,7 @@
 
 ---
 #### UDWAxBL 
-[**`Results`**](./results.md#udwaxbl), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxBL.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxBL.adhoc.pdf) 
+[**`Results`**](./results.md#udwaxbl) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxBL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxBL.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWAxBL 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -1135,7 +1135,7 @@
 
 ---
 #### UDWAxQE 
-[**`Results`**](./results.md#udwaxqe), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxQE.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxQE.adhoc.pdf) 
+[**`Results`**](./results.md#udwaxqe) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxQE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxQE.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWAxQE 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -1149,7 +1149,7 @@
 
 ---
 #### UDWAxQEWeb 
-[**`Results`**](./results.md#udwaxqeweb), [**`Participants`**](./participants.md#eceudel), [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxQEWeb.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxQEWeb.adhoc.pdf) 
+[**`Results`**](./results.md#udwaxqeweb) | [**`Participants`**](./participants.md#eceudel) | [**`Proceedings`**](./proceedings.md#axiomatic-approaches-to-information-retrievaluniversity-of-delaware-at-trec-2009-million-query-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UDWAxQEWeb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.EceUdel.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UDWAxQEWeb.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UDWAxQEWeb 
 - :fontawesome-solid-user-group: **Participant:** EceUdel 
@@ -1163,7 +1163,7 @@
 
 ---
 #### UMHOObm25B 
-[**`Results`**](./results.md#umhoobm25b), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25B.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOObm25B.adhoc.pdf) 
+[**`Results`**](./results.md#umhoobm25b) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOObm25B.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOObm25B 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1177,7 +1177,7 @@
 
 ---
 #### UMHOObm25GS 
-[**`Results`**](./results.md#umhoobm25gs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25GS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25GS.adhoc.pdf) 
+[**`Results`**](./results.md#umhoobm25gs) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25GS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25GS.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOObm25GS 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1191,7 +1191,7 @@
 
 ---
 #### UMHOObm25IF 
-[**`Results`**](./results.md#umhoobm25if), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25IF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25IF.adhoc.pdf) 
+[**`Results`**](./results.md#umhoobm25if) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOObm25IF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOObm25IF.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOObm25IF 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1205,7 +1205,7 @@
 
 ---
 #### UMHOOqlB 
-[**`Results`**](./results.md#umhooqlb), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlB.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOqlB.adhoc.pdf) 
+[**`Results`**](./results.md#umhooqlb) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOqlB.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOOqlB 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1219,7 +1219,7 @@
 
 ---
 #### UMHOOqlGS 
-[**`Results`**](./results.md#umhooqlgs), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlGS.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlGS.adhoc.pdf) 
+[**`Results`**](./results.md#umhooqlgs) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlGS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlGS.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOOqlGS 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1233,7 +1233,7 @@
 
 ---
 #### UMHOOqlIF 
-[**`Results`**](./results.md#umhooqlif), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlIF.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlIF.adhoc.pdf) 
+[**`Results`**](./results.md#umhooqlif) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOqlIF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/UMHOOqlIF.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOOqlIF 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1247,7 +1247,7 @@
 
 ---
 #### UMHOOsd 
-[**`Results`**](./results.md#umhoosd), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOsd.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOsd.adhoc.pdf) 
+[**`Results`**](./results.md#umhoosd) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOsd.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOsd.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOOsd 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1261,7 +1261,7 @@
 
 ---
 #### UMHOOsdp 
-[**`Results`**](./results.md#umhoosdp), [**`Participants`**](./participants.md#umd), [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOsdp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOsdp.adhoc.pdf) 
+[**`Results`**](./results.md#umhoosdp) | [**`Participants`**](./participants.md#umd) | [**`Proceedings`**](./proceedings.md#of-ivory-and-smurfs-loxodontan-mapreduce-experiments-for-web-search) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.UMHOOsdp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UMD.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/UMHOOsdp.adhoc.pdf) 
 
 - :material-rename: **Run ID:** UMHOOsdp 
 - :fontawesome-solid-user-group: **Participant:** UMD 
@@ -1275,7 +1275,7 @@
 
 ---
 #### uogTrDPCQcdB 
-[**`Results`**](./results.md#uogtrdpcqcdb), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDPCQcdB.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDPCQcdB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uogtrdpcqcdb) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDPCQcdB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDPCQcdB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** uogTrDPCQcdB 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1289,7 +1289,7 @@
 
 ---
 #### uogTrdphA 
-[**`Results`**](./results.md#uogtrdpha), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphA.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/uogTrdphA.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrdpha) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/uogTrdphA.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrdphA 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1303,7 +1303,7 @@
 
 ---
 #### uogTrdphCEwP 
-[**`Results`**](./results.md#uogtrdphcewp), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphCEwP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/uogTrdphCEwP.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrdphcewp) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphCEwP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-b/uogTrdphCEwP.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrdphCEwP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1317,7 +1317,7 @@
 
 ---
 #### uogTrdphP 
-[**`Results`**](./results.md#uogtrdphp), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphP.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uogTrdphP.adhoc.pdf) 
+[**`Results`**](./results.md#uogtrdphp) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrdphP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.uogTr.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uogTrdphP.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uogTrdphP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1331,7 +1331,7 @@
 
 ---
 #### uogTrDYCcsB 
-[**`Results`**](./results.md#uogtrdyccsb), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDYCcsB.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDYCcsB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uogtrdyccsb) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDYCcsB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDYCcsB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** uogTrDYCcsB 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1345,7 +1345,7 @@
 
 ---
 #### uogTrDYScdA 
-[**`Results`**](./results.md#uogtrdyscda), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDYScdA.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDYScdA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uogtrdyscda) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2009-experiments-with-terrier) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uogTrDYScdA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uogTrDYScdA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** uogTrDYScdA 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -1359,7 +1359,7 @@
 
 ---
 #### uvaaol 
-[**`Results`**](./results.md#uvaaol), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaaol.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uvaaol.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uvaaol) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaaol.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uvaaol.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** uvaaol 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -1373,7 +1373,7 @@
 
 ---
 #### uvaee 
-[**`Results`**](./results.md#uvaee), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaee.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvaee.adhoc.pdf) 
+[**`Results`**](./results.md#uvaee) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvaee.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvaee.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uvaee 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -1387,7 +1387,7 @@
 
 ---
 #### uvamrf 
-[**`Results`**](./results.md#uvamrf), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrf.adhoc.pdf) 
+[**`Results`**](./results.md#uvamrf) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrf.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uvamrf 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -1401,7 +1401,7 @@
 
 ---
 #### uvamrftop 
-[**`Results`**](./results.md#uvamrftop), [**`Participants`**](./participants.md#uams), [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrftop.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrftop.adhoc.pdf) 
+[**`Results`**](./results.md#uvamrftop) | [**`Participants`**](./participants.md#uams) | [**`Proceedings`**](./proceedings.md#heuristic-ranking-and-diversification-of-web-documents) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uvamrftop.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UAms.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/uvamrftop.adhoc.pdf) 
 
 - :material-rename: **Run ID:** uvamrftop 
 - :fontawesome-solid-user-group: **Participant:** UAms 
@@ -1415,7 +1415,7 @@
 
 ---
 #### uwgym 
-[**`Results`**](./results.md#uwgym), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uwgym.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uwgym.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#uwgym) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.uwgym.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.uwgym.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** uwgym 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1429,7 +1429,7 @@
 
 ---
 #### watd1 
-[**`Results`**](./results.md#watd1), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watd1) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** watd1 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1443,7 +1443,7 @@
 
 ---
 #### watd3 
-[**`Results`**](./results.md#watd3), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watd3) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** watd3 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1457,7 +1457,7 @@
 
 ---
 #### watd5 
-[**`Results`**](./results.md#watd5), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd5.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watd5) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watd5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.watd5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** watd5 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1471,7 +1471,7 @@
 
 ---
 #### watprf 
-[**`Results`**](./results.md#watprf), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watprf.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watprf.adhoc.pdf) 
+[**`Results`**](./results.md#watprf) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watprf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watprf.adhoc.pdf) 
 
 - :material-rename: **Run ID:** watprf 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1485,7 +1485,7 @@
 
 ---
 #### watrrfw 
-[**`Results`**](./results.md#watrrfw), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watrrfw.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watrrfw.adhoc.pdf) 
+[**`Results`**](./results.md#watrrfw) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watrrfw.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watrrfw.adhoc.pdf) 
 
 - :material-rename: **Run ID:** watrrfw 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1499,7 +1499,7 @@
 
 ---
 #### WatSdmrm3 
-[**`Results`**](./results.md#watsdmrm3), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3.adhoc.pdf) 
+[**`Results`**](./results.md#watsdmrm3) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3.adhoc.pdf) 
 
 - :material-rename: **Run ID:** WatSdmrm3 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1513,7 +1513,7 @@
 
 ---
 #### WatSdmrm3we 
-[**`Results`**](./results.md#watsdmrm3we), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3we.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3we.adhoc.pdf) 
+[**`Results`**](./results.md#watsdmrm3we) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSdmrm3we.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSdmrm3we.adhoc.pdf) 
 
 - :material-rename: **Run ID:** WatSdmrm3we 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1527,7 +1527,7 @@
 
 ---
 #### WatSklfb 
-[**`Results`**](./results.md#watsklfb), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklfb.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklfb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watsklfb) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklfb.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklfb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** WatSklfb 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1541,7 +1541,7 @@
 
 ---
 #### WatSklfu 
-[**`Results`**](./results.md#watsklfu), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklfu.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklfu.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watsklfu) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklfu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklfu.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** WatSklfu 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1555,7 +1555,7 @@
 
 ---
 #### WatSklq 
-[**`Results`**](./results.md#watsklq), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklq.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklq.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#watsklq) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSklq.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.WatSklq.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** WatSklq 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1569,7 +1569,7 @@
 
 ---
 #### WatSql 
-[**`Results`**](./results.md#watsql), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSql.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSql.adhoc.pdf) 
+[**`Results`**](./results.md#watsql) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#experiments-with-clueweb09-relevance-feedback-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.WatSql.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.UWaterlooMDS.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/WatSql.adhoc.pdf) 
 
 - :material-rename: **Run ID:** WatSql 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1583,7 +1583,7 @@
 
 ---
 #### watwp 
-[**`Results`**](./results.md#watwp), [**`Participants`**](./participants.md#waterloo), [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watwp.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watwp.adhoc.pdf) 
+[**`Results`**](./results.md#watwp) | [**`Participants`**](./participants.md#waterloo) | [**`Proceedings`**](./proceedings.md#machine-learning-for-information-retrieval-trec-2009-web-relevance-feedback-and-legal-tracks) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.watwp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.Waterloo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/watwp.adhoc.pdf) 
 
 - :material-rename: **Run ID:** watwp 
 - :fontawesome-solid-user-group: **Participant:** Waterloo 
@@ -1597,7 +1597,7 @@
 
 ---
 #### wume1 
-[**`Results`**](./results.md#wume1), [**`Participants`**](./participants.md#lu_wume), [**`Proceedings`**](./proceedings.md#diversifying-search-results-with-popular-subtopics), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.wume1.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.wume1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#wume1) | [**`Participants`**](./participants.md#lu_wume) | [**`Proceedings`**](./proceedings.md#diversifying-search-results-with-popular-subtopics) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.wume1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.wume1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** wume1 
 - :fontawesome-solid-user-group: **Participant:** LU_WUME 
@@ -1611,7 +1611,7 @@
 
 ---
 #### wume2 
-[**`Results`**](./results.md#wume2), [**`Participants`**](./participants.md#lu_wume), [**`Proceedings`**](./proceedings.md#diversifying-search-results-with-popular-subtopics), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.wume2.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.wume2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
+[**`Results`**](./results.md#wume2) | [**`Participants`**](./participants.md#lu_wume) | [**`Proceedings`**](./proceedings.md#diversifying-search-results-with-popular-subtopics) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.wume2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.diversity.wume2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-diversity/appendix.pdf) 
 
 - :material-rename: **Run ID:** wume2 
 - :fontawesome-solid-user-group: **Participant:** LU_WUME 
@@ -1625,7 +1625,7 @@
 
 ---
 #### yhooumd09BFM 
-[**`Results`**](./results.md#yhooumd09bfm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BFM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BFM.adhoc.pdf) 
+[**`Results`**](./results.md#yhooumd09bfm) | [**`Participants`**](./participants.md#yahoo) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BFM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BFM.adhoc.pdf) 
 
 - :material-rename: **Run ID:** yhooumd09BFM 
 - :fontawesome-solid-user-group: **Participant:** yahoo 
@@ -1639,7 +1639,7 @@
 
 ---
 #### yhooumd09BGC 
-[**`Results`**](./results.md#yhooumd09bgc), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGC.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGC.adhoc.pdf) 
+[**`Results`**](./results.md#yhooumd09bgc) | [**`Participants`**](./participants.md#yahoo) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGC.adhoc.pdf) 
 
 - :material-rename: **Run ID:** yhooumd09BGC 
 - :fontawesome-solid-user-group: **Participant:** yahoo 
@@ -1653,7 +1653,7 @@
 
 ---
 #### yhooumd09BGM 
-[**`Results`**](./results.md#yhooumd09bgm), [**`Participants`**](./participants.md#yahoo), [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGM.gz), [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz), [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGM.adhoc.pdf) 
+[**`Results`**](./results.md#yhooumd09bgm) | [**`Participants`**](./participants.md#yahoo) | [**`Input`**](https://trec.nist.gov/results/trec18/web/input.yhooumd09BGM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec18/web/summary.adhoc.yahoo.tgz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec18/appendices/web-adhoc-a/yhooumd09BGM.adhoc.pdf) 
 
 - :material-rename: **Run ID:** yhooumd09BGM 
 - :fontawesome-solid-user-group: **Participant:** yahoo 

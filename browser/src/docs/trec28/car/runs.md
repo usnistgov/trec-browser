@@ -1,7 +1,7 @@
 # Runs - Complex Answer Retrieval 2019 
 
 #### Bert-ConvKNRM 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-ConvKNRM.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-ConvKNRM.pdf) 
 
 - :material-rename: **Run ID:** Bert-ConvKNRM 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -14,7 +14,7 @@
 
 ---
 #### Bert-ConvKNRM-50 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-ConvKNRM-50.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-ConvKNRM-50.pdf) 
 
 - :material-rename: **Run ID:** Bert-ConvKNRM-50 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -27,7 +27,7 @@
 
 ---
 #### Bert-DRMMTKS 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-DRMMTKS.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/Bert-DRMMTKS.pdf) 
 
 - :material-rename: **Run ID:** Bert-DRMMTKS 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -40,7 +40,7 @@
 
 ---
 #### bm25-populated 
-[**`Participants`**](./participants.md#smith), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/bm25-populated.pdf) 
+[**`Participants`**](./participants.md#smith) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/bm25-populated.pdf) 
 
 - :material-rename: **Run ID:** bm25-populated 
 - :fontawesome-solid-user-group: **Participant:** Smith 
@@ -53,7 +53,7 @@
 
 ---
 #### dangnt-nlp 
-[**`Participants`**](./participants.md#dangnt-nlp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/dangnt-nlp.pdf) 
+[**`Participants`**](./participants.md#dangnt-nlp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/dangnt-nlp.pdf) 
 
 - :material-rename: **Run ID:** dangnt-nlp 
 - :fontawesome-solid-user-group: **Participant:** DANGNT-NLP 
@@ -66,7 +66,7 @@
 
 ---
 #### ECNU_BM25 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_BM25.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_BM25.pdf) 
 
 - :material-rename: **Run ID:** ECNU_BM25 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -79,7 +79,7 @@
 
 ---
 #### ECNU_BM25_1 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_BM25_1.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_BM25_1.pdf) 
 
 - :material-rename: **Run ID:** ECNU_BM25_1 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -92,7 +92,7 @@
 
 ---
 #### ECNU_ReRank1 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_ReRank1.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ECNU_ReRank1.pdf) 
 
 - :material-rename: **Run ID:** ECNU_ReRank1 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -105,7 +105,7 @@
 
 ---
 #### ICT-BM25 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ICT-BM25.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ICT-BM25.pdf) 
 
 - :material-rename: **Run ID:** ICT-BM25 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -118,7 +118,7 @@
 
 ---
 #### ICT-DRMMTKS 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ICT-DRMMTKS.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ICT-DRMMTKS.pdf) 
 
 - :material-rename: **Run ID:** ICT-DRMMTKS 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -131,7 +131,7 @@
 
 ---
 #### IRIT_run1 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run1.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run1.pdf) 
 
 - :material-rename: **Run ID:** IRIT_run1 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -144,7 +144,7 @@
 
 ---
 #### IRIT_run2 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run2.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run2.pdf) 
 
 - :material-rename: **Run ID:** IRIT_run2 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -157,7 +157,7 @@
 
 ---
 #### IRIT_run3 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run3.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-2019-incident-streams-and-complex-answer-retrieval-tracks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/IRIT_run3.pdf) 
 
 - :material-rename: **Run ID:** IRIT_run3 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -170,7 +170,7 @@
 
 ---
 #### neural 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/neural.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/neural.pdf) 
 
 - :material-rename: **Run ID:** neural 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -183,7 +183,7 @@
 
 ---
 #### ReRnak2_BERT 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ReRnak2_BERT.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ReRnak2_BERT.pdf) 
 
 - :material-rename: **Run ID:** ReRnak2_BERT 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -196,7 +196,7 @@
 
 ---
 #### ReRnak3_BERT 
-[**`Participants`**](./participants.md#ecnu), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ReRnak3_BERT.pdf) 
+[**`Participants`**](./participants.md#ecnu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/ReRnak3_BERT.pdf) 
 
 - :material-rename: **Run ID:** ReRnak3_BERT 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -209,7 +209,7 @@
 
 ---
 #### UNH-bm25-ecmpsg 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-ecmpsg.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-ecmpsg.pdf) 
 
 - :material-rename: **Run ID:** UNH-bm25-ecmpsg 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -222,7 +222,7 @@
 
 ---
 #### UNH-bm25-rm 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-rm.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-rm.pdf) 
 
 - :material-rename: **Run ID:** UNH-bm25-rm 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -235,7 +235,7 @@
 
 ---
 #### UNH-bm25-stem 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-stem.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-bm25-stem.pdf) 
 
 - :material-rename: **Run ID:** UNH-bm25-stem 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -248,7 +248,7 @@
 
 ---
 #### UNH-dl100 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-dl100.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-dl100.pdf) 
 
 - :material-rename: **Run ID:** UNH-dl100 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -261,7 +261,7 @@
 
 ---
 #### UNH-dl300 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-dl300.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-dl300.pdf) 
 
 - :material-rename: **Run ID:** UNH-dl300 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -274,7 +274,7 @@
 
 ---
 #### UNH-ecn 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-ecn.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-ecn.pdf) 
 
 - :material-rename: **Run ID:** UNH-ecn 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -287,7 +287,7 @@
 
 ---
 #### UNH-qee 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-qee.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-qee.pdf) 
 
 - :material-rename: **Run ID:** UNH-qee 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -300,7 +300,7 @@
 
 ---
 #### UNH-tfidf-lem 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-lem.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-lem.pdf) 
 
 - :material-rename: **Run ID:** UNH-tfidf-lem 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -313,7 +313,7 @@
 
 ---
 #### UNH-tfidf-ptsim 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-ptsim.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-ptsim.pdf) 
 
 - :material-rename: **Run ID:** UNH-tfidf-ptsim 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -326,7 +326,7 @@
 
 ---
 #### UNH-tfidf-stem 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-stem.pdf) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-car-2019) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UNH-tfidf-stem.pdf) 
 
 - :material-rename: **Run ID:** UNH-tfidf-stem 
 - :fontawesome-solid-user-group: **Participant:** TREMA-UNH 
@@ -339,7 +339,7 @@
 
 ---
 #### UvABM25RM3 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABM25RM3.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABM25RM3.pdf) 
 
 - :material-rename: **Run ID:** UvABM25RM3 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -352,7 +352,7 @@
 
 ---
 #### UvABottomUp1 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUp1.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUp1.pdf) 
 
 - :material-rename: **Run ID:** UvABottomUp1 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -365,7 +365,7 @@
 
 ---
 #### UvABottomUp2 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUp2.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUp2.pdf) 
 
 - :material-rename: **Run ID:** UvABottomUp2 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -378,7 +378,7 @@
 
 ---
 #### UvABottomUpChangeOrder 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUpChangeOrder.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2019-complex-answer-retrieval-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/car/UvABottomUpChangeOrder.pdf) 
 
 - :material-rename: **Run ID:** UvABottomUpChangeOrder 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 

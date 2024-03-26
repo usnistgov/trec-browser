@@ -1,6 +1,6 @@
 # Data - Fair Ranking 2022 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/fair2022.html`](https://trec.nist.gov/data/fair2022.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/fair2022.html`](https://trec.nist.gov/data/fair2022.html)
 
 ---
 

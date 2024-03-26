@@ -1,7 +1,7 @@
 # Runs - Video 2002 
 
 #### VBremen 
-[**`Participants`**](./participants.md#ubremen), [**`Proceedings`**](./proceedings.md#automatic-shot-boundary-detection-and-classification-of-indoor-and-outdoor-scenes), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#ubremen) | [**`Proceedings`**](./proceedings.md#automatic-shot-boundary-detection-and-classification-of-indoor-and-outdoor-scenes) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VBremen 
 - :fontawesome-solid-user-group: **Participant:** ubremen 
@@ -10,7 +10,7 @@
 
 ---
 #### Vclips 
-[**`Participants`**](./participants.md#clips-imag), [**`Proceedings`**](./proceedings.md#clips-at-trec-11-experiments-in-video-retrieval), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#clips-imag) | [**`Proceedings`**](./proceedings.md#clips-at-trec-11-experiments-in-video-retrieval) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** Vclips 
 - :fontawesome-solid-user-group: **Participant:** clips-imag 
@@ -19,7 +19,7 @@
 
 ---
 #### VCMU 
-[**`Participants`**](./participants.md#cmu-hauptmann-video), [**`Proceedings`**](./proceedings.md#video-classification-and-retrieval-with-the-informedia-digital-video-library-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#cmu-hauptmann-video) | [**`Proceedings`**](./proceedings.md#video-classification-and-retrieval-with-the-informedia-digital-video-library-system) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VCMU 
 - :fontawesome-solid-user-group: **Participant:** cmu-Hauptmann-video 
@@ -28,7 +28,7 @@
 
 ---
 #### VCWI 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-the-trec-2002-video-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-the-trec-2002-video-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VCWI 
 - :fontawesome-solid-user-group: **Participant:** cwi 
@@ -37,7 +37,7 @@
 
 ---
 #### VDublin 
-[**`Participants`**](./participants.md#dublin), [**`Proceedings`**](./proceedings.md#dublin-city-university-video-track-experiments-for-trec-2002), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#dublin) | [**`Proceedings`**](./proceedings.md#dublin-city-university-video-track-experiments-for-trec-2002) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VDublin 
 - :fontawesome-solid-user-group: **Participant:** dublin 
@@ -46,7 +46,7 @@
 
 ---
 #### Veurecom 
-[**`Participants`**](./participants.md#eurecom), [**`Proceedings`**](./proceedings.md#semantic-feature-extraction-using-mpeg-macro-block-classification), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#eurecom) | [**`Proceedings`**](./proceedings.md#semantic-feature-extraction-using-mpeg-macro-block-classification) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** Veurecom 
 - :fontawesome-solid-user-group: **Participant:** eurecom 
@@ -55,7 +55,7 @@
 
 ---
 #### VFudan 
-[**`Participants`**](./participants.md#fudan), [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#fudan) | [**`Proceedings`**](./proceedings.md#fdu-at-trec-2002-filtering-q-a-web-and-video-tasks) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VFudan 
 - :fontawesome-solid-user-group: **Participant:** Fudan 
@@ -64,7 +64,7 @@
 
 ---
 #### VIBM 
-[**`Participants`**](./participants.md#ibm-video), [**`Proceedings`**](./proceedings.md#ibm-research-trec-2002-video-retrieval-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#ibm-video) | [**`Proceedings`**](./proceedings.md#ibm-research-trec-2002-video-retrieval-system) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VIBM 
 - :fontawesome-solid-user-group: **Participant:** ibm-video 
@@ -73,7 +73,7 @@
 
 ---
 #### VImperial 
-[**`Participants`**](./participants.md#imperial), [**`Proceedings`**](./proceedings.md#video-retrieval-using-global-features-in-keyframes), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#imperial) | [**`Proceedings`**](./proceedings.md#video-retrieval-using-global-features-in-keyframes) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VImperial 
 - :fontawesome-solid-user-group: **Participant:** imperial 
@@ -82,7 +82,7 @@
 
 ---
 #### VIndiana 
-[**`Participants`**](./participants.md#indiana), [**`Proceedings`**](./proceedings.md#video-searching-and-browsing-using-viewfinder), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#indiana) | [**`Proceedings`**](./proceedings.md#video-searching-and-browsing-using-viewfinder) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VIndiana 
 - :fontawesome-solid-user-group: **Participant:** indiana 
@@ -91,7 +91,7 @@
 
 ---
 #### Vmicrosoft 
-[**`Participants`**](./participants.md#microsoft_video), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#microsoft_video) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** Vmicrosoft 
 - :fontawesome-solid-user-group: **Participant:** microsoft_video 
@@ -100,7 +100,7 @@
 
 ---
 #### VNUS 
-[**`Participants`**](./participants.md#singapre_hui), [**`Proceedings`**](./proceedings.md#temporal-multi-resolution-framework-for-shot-boundary-detection-and-keyframe-extraction), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#singapre_hui) | [**`Proceedings`**](./proceedings.md#temporal-multi-resolution-framework-for-shot-boundary-detection-and-keyframe-extraction) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VNUS 
 - :fontawesome-solid-user-group: **Participant:** singapre_hui 
@@ -109,7 +109,7 @@
 
 ---
 #### VOulu 
-[**`Participants`**](./participants.md#oulu), [**`Proceedings`**](./proceedings.md#trec-2002-video-track-experiments-at-mediateam-oulu-and-vtt), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#oulu) | [**`Proceedings`**](./proceedings.md#trec-2002-video-track-experiments-at-mediateam-oulu-and-vtt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VOulu 
 - :fontawesome-solid-user-group: **Participant:** oulu 
@@ -118,7 +118,7 @@
 
 ---
 #### Vprous 
-[**`Participants`**](./participants.md#prous), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#prous) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** Vprous 
 - :fontawesome-solid-user-group: **Participant:** prous 
@@ -127,7 +127,7 @@
 
 ---
 #### VRMIT 
-[**`Participants`**](./participants.md#rmit), [**`Proceedings`**](./proceedings.md#shot-boundary-detection-using-the-moving-query-window), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#rmit) | [**`Proceedings`**](./proceedings.md#shot-boundary-detection-using-the-moving-query-window) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VRMIT 
 - :fontawesome-solid-user-group: **Participant:** RMIT 
@@ -136,7 +136,7 @@
 
 ---
 #### VTNOTPD 
-[**`Participants`**](./participants.md#tno_tpd), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#tno_tpd) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VTNOTPD 
 - :fontawesome-solid-user-group: **Participant:** tno_tpd 
@@ -145,7 +145,7 @@
 
 ---
 #### VTwente 
-[**`Participants`**](./participants.md#utwente), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#utwente) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VTwente 
 - :fontawesome-solid-user-group: **Participant:** utwente 
@@ -154,7 +154,7 @@
 
 ---
 #### VUMD 
-[**`Participants`**](./participants.md#umd_oard), [**`Proceedings`**](./proceedings.md#video-indexing-and-retrieval-at-umd), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#umd_oard) | [**`Proceedings`**](./proceedings.md#video-indexing-and-retrieval-at-umd) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** VUMD 
 - :fontawesome-solid-user-group: **Participant:** umd_oard 
@@ -163,7 +163,7 @@
 
 ---
 #### Vworring 
-[**`Participants`**](./participants.md#amsterdam_isis), [**`Proceedings`**](./proceedings.md#trec-feature-extraction-by-active-learning), [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
+[**`Participants`**](./participants.md#amsterdam_isis) | [**`Proceedings`**](./proceedings.md#trec-feature-extraction-by-active-learning) | [**`Appendix`**](https://trec.nist.gov/pubs/trec11/appendices/video.sb.html) 
 
 - :material-rename: **Run ID:** Vworring 
 - :fontawesome-solid-user-group: **Participant:** amsterdam_isis 

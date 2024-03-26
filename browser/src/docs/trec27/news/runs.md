@@ -1,7 +1,7 @@
 # Runs - News 2018 
 
 #### anserini_1000w 
-[**`Results`**](./results.md#anserini_1000w), [**`Participants`**](./participants.md#anserini), [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_1000w.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_1000w) 
+[**`Results`**](./results.md#anserini_1000w) | [**`Participants`**](./participants.md#anserini) | [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_1000w.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_1000w) 
 
 - :material-rename: **Run ID:** anserini_1000w 
 - :fontawesome-solid-user-group: **Participant:** Anserini 
@@ -15,7 +15,7 @@
 
 ---
 #### anserini_axp 
-[**`Results`**](./results.md#anserini_axp), [**`Participants`**](./participants.md#anserini), [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_axp.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_axp) 
+[**`Results`**](./results.md#anserini_axp) | [**`Participants`**](./participants.md#anserini) | [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_axp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_axp) 
 
 - :material-rename: **Run ID:** anserini_axp 
 - :fontawesome-solid-user-group: **Participant:** Anserini 
@@ -29,7 +29,7 @@
 
 ---
 #### anserini_nax 
-[**`Results`**](./results.md#anserini_nax), [**`Participants`**](./participants.md#anserini), [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_nax.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_nax) 
+[**`Results`**](./results.md#anserini_nax) | [**`Participants`**](./participants.md#anserini) | [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_nax.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_nax) 
 
 - :material-rename: **Run ID:** anserini_nax 
 - :fontawesome-solid-user-group: **Participant:** Anserini 
@@ -43,7 +43,7 @@
 
 ---
 #### anserini_nsdm 
-[**`Results`**](./results.md#anserini_nsdm), [**`Participants`**](./participants.md#anserini), [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_nsdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_nsdm) 
+[**`Results`**](./results.md#anserini_nsdm) | [**`Participants`**](./participants.md#anserini) | [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_nsdm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_nsdm) 
 
 - :material-rename: **Run ID:** anserini_nsdm 
 - :fontawesome-solid-user-group: **Participant:** Anserini 
@@ -57,7 +57,7 @@
 
 ---
 #### anserini_sdmp 
-[**`Results`**](./results.md#anserini_sdmp), [**`Participants`**](./participants.md#anserini), [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_sdmp.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_sdmp) 
+[**`Results`**](./results.md#anserini_sdmp) | [**`Participants`**](./participants.md#anserini) | [**`Proceedings`**](./proceedings.md#anserini-at-trec-2018-centre-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.anserini_sdmp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.anserini_sdmp) 
 
 - :material-rename: **Run ID:** anserini_sdmp 
 - :fontawesome-solid-user-group: **Participant:** Anserini 
@@ -71,7 +71,7 @@
 
 ---
 #### htwsaar1 
-[**`Results`**](./results.md#htwsaar1), [**`Participants`**](./participants.md#htwsaar), [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar1.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar1) 
+[**`Results`**](./results.md#htwsaar1) | [**`Participants`**](./participants.md#htwsaar) | [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar1) 
 
 - :material-rename: **Run ID:** htwsaar1 
 - :fontawesome-solid-user-group: **Participant:** htwsaar 
@@ -85,7 +85,7 @@
 
 ---
 #### htwsaar2 
-[**`Results`**](./results.md#htwsaar2), [**`Participants`**](./participants.md#htwsaar), [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar2.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar2) 
+[**`Results`**](./results.md#htwsaar2) | [**`Participants`**](./participants.md#htwsaar) | [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar2) 
 
 - :material-rename: **Run ID:** htwsaar2 
 - :fontawesome-solid-user-group: **Participant:** htwsaar 
@@ -99,7 +99,7 @@
 
 ---
 #### htwsaar3 
-[**`Results`**](./results.md#htwsaar3), [**`Participants`**](./participants.md#htwsaar), [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar3.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar3) 
+[**`Results`**](./results.md#htwsaar3) | [**`Participants`**](./participants.md#htwsaar) | [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar3) 
 
 - :material-rename: **Run ID:** htwsaar3 
 - :fontawesome-solid-user-group: **Participant:** htwsaar 
@@ -113,7 +113,7 @@
 
 ---
 #### htwsaar4 
-[**`Results`**](./results.md#htwsaar4), [**`Participants`**](./participants.md#htwsaar), [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar4.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar4) 
+[**`Results`**](./results.md#htwsaar4) | [**`Participants`**](./participants.md#htwsaar) | [**`Proceedings`**](./proceedings.md#htw-saar-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.htwsaar4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.htwsaar4) 
 
 - :material-rename: **Run ID:** htwsaar4 
 - :fontawesome-solid-user-group: **Participant:** htwsaar 
@@ -127,7 +127,7 @@
 
 ---
 #### signal-ucl-eff 
-[**`Results`**](./results.md#signal-ucl-eff), [**`Participants`**](./participants.md#signal), [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-eff.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-eff) 
+[**`Results`**](./results.md#signal-ucl-eff) | [**`Participants`**](./participants.md#signal) | [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-eff.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-eff) 
 
 - :material-rename: **Run ID:** signal-ucl-eff 
 - :fontawesome-solid-user-group: **Participant:** signal 
@@ -141,7 +141,7 @@
 
 ---
 #### signal-ucl-sel 
-[**`Results`**](./results.md#signal-ucl-sel), [**`Participants`**](./participants.md#signal), [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-sel.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-sel) 
+[**`Results`**](./results.md#signal-ucl-sel) | [**`Participants`**](./participants.md#signal) | [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-sel.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-sel) 
 
 - :material-rename: **Run ID:** signal-ucl-sel 
 - :fontawesome-solid-user-group: **Participant:** signal 
@@ -155,7 +155,7 @@
 
 ---
 #### signal-ucl-slst 
-[**`Results`**](./results.md#signal-ucl-slst), [**`Participants`**](./participants.md#signal), [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-slst.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-slst) 
+[**`Results`**](./results.md#signal-ucl-slst) | [**`Participants`**](./participants.md#signal) | [**`Proceedings`**](./proceedings.md#signal-at-trec-2018-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.signal-ucl-slst.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.signal-ucl-slst) 
 
 - :material-rename: **Run ID:** signal-ucl-slst 
 - :fontawesome-solid-user-group: **Participant:** signal 
@@ -169,7 +169,7 @@
 
 ---
 #### SINAI_base_A 
-[**`Results`**](./results.md#sinai_base_a), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_A.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_A) 
+[**`Results`**](./results.md#sinai_base_a) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_A) 
 
 - :material-rename: **Run ID:** SINAI_base_A 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -183,7 +183,7 @@
 
 ---
 #### SINAI_base_T 
-[**`Results`**](./results.md#sinai_base_t), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_T.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_T) 
+[**`Results`**](./results.md#sinai_base_t) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_T.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_T) 
 
 - :material-rename: **Run ID:** SINAI_base_T 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -197,7 +197,7 @@
 
 ---
 #### SINAI_base_TA 
-[**`Results`**](./results.md#sinai_base_ta), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_TA.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_TA) 
+[**`Results`**](./results.md#sinai_base_ta) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_base_TA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_base_TA) 
 
 - :material-rename: **Run ID:** SINAI_base_TA 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -211,7 +211,7 @@
 
 ---
 #### SINAI_cluster_A 
-[**`Results`**](./results.md#sinai_cluster_a), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_cluster_A.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_cluster_A) 
+[**`Results`**](./results.md#sinai_cluster_a) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_cluster_A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_cluster_A) 
 
 - :material-rename: **Run ID:** SINAI_cluster_A 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -225,7 +225,7 @@
 
 ---
 #### SINAI_cluster_T 
-[**`Results`**](./results.md#sinai_cluster_t), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_cluster_T.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_cluster_T) 
+[**`Results`**](./results.md#sinai_cluster_t) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_cluster_T.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_cluster_T) 
 
 - :material-rename: **Run ID:** SINAI_cluster_T 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -239,7 +239,7 @@
 
 ---
 #### SINAI_clusterTA 
-[**`Results`**](./results.md#sinai_clusterta), [**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_clusterTA.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_clusterTA) 
+[**`Results`**](./results.md#sinai_clusterta) | [**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#using-clustering-to-filter-results-of-an-information-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.SINAI_clusterTA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.SINAI_clusterTA) 
 
 - :material-rename: **Run ID:** SINAI_clusterTA 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -253,7 +253,7 @@
 
 ---
 #### UDInfolab_kwef 
-[**`Results`**](./results.md#udinfolab_kwef), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwef.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwef) 
+[**`Results`**](./results.md#udinfolab_kwef) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwef.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwef) 
 
 - :material-rename: **Run ID:** UDInfolab_kwef 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -267,7 +267,7 @@
 
 ---
 #### UDInfolab_kweh 
-[**`Results`**](./results.md#udinfolab_kweh), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kweh.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kweh) 
+[**`Results`**](./results.md#udinfolab_kweh) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kweh.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kweh) 
 
 - :material-rename: **Run ID:** UDInfolab_kweh 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -281,7 +281,7 @@
 
 ---
 #### UDInfolab_kwev 
-[**`Results`**](./results.md#udinfolab_kwev), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwev.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwev) 
+[**`Results`**](./results.md#udinfolab_kwev) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwev.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwev) 
 
 - :material-rename: **Run ID:** UDInfolab_kwev 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -295,7 +295,7 @@
 
 ---
 #### UDInfolab_kwf 
-[**`Results`**](./results.md#udinfolab_kwf), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwf.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwf) 
+[**`Results`**](./results.md#udinfolab_kwf) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwf.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwf) 
 
 - :material-rename: **Run ID:** UDInfolab_kwf 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -309,7 +309,7 @@
 
 ---
 #### UDInfolab_kwh 
-[**`Results`**](./results.md#udinfolab_kwh), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwh.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwh) 
+[**`Results`**](./results.md#udinfolab_kwh) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#paragraph-as-lead-finding-background-documents-for-news-articles) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UDInfolab_kwh.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UDInfolab_kwh) 
 
 - :material-rename: **Run ID:** UDInfolab_kwh 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -323,7 +323,7 @@
 
 ---
 #### umass_cbrdm 
-[**`Results`**](./results.md#umass_cbrdm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_cbrdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_cbrdm) 
+[**`Results`**](./results.md#umass_cbrdm) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_cbrdm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_cbrdm) 
 
 - :material-rename: **Run ID:** umass_cbrdm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -337,7 +337,7 @@
 
 ---
 #### umass_rdm 
-[**`Results`**](./results.md#umass_rdm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_rdm.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_rdm) 
+[**`Results`**](./results.md#umass_rdm) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_rdm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_rdm) 
 
 - :material-rename: **Run ID:** umass_rdm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -351,7 +351,7 @@
 
 ---
 #### umass_rm 
-[**`Results`**](./results.md#umass_rm), [**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_rm.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_rm) 
+[**`Results`**](./results.md#umass_rm) | [**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.umass_rm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.umass_rm) 
 
 - :material-rename: **Run ID:** umass_rm 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -365,7 +365,7 @@
 
 ---
 #### UNH-ParaBm25 
-[**`Results`**](./results.md#unh-parabm25), [**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-ParaBm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-ParaBm25) 
+[**`Results`**](./results.md#unh-parabm25) | [**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-ParaBm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-ParaBm25) 
 
 - :material-rename: **Run ID:** UNH-ParaBm25 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -379,7 +379,7 @@
 
 ---
 #### UNH-ParaBm25Ecm 
-[**`Results`**](./results.md#unh-parabm25ecm), [**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-ParaBm25Ecm.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-ParaBm25Ecm) 
+[**`Results`**](./results.md#unh-parabm25ecm) | [**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-ParaBm25Ecm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-ParaBm25Ecm) 
 
 - :material-rename: **Run ID:** UNH-ParaBm25Ecm 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -393,7 +393,7 @@
 
 ---
 #### UNH-TitleBm25 
-[**`Results`**](./results.md#unh-titlebm25), [**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track), [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-TitleBm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-TitleBm25) 
+[**`Results`**](./results.md#unh-titlebm25) | [**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) | [**`Input`**](https://trec.nist.gov/results/trec27/news/input.UNH-TitleBm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec27/news/summary.UNH-TitleBm25) 
 
 - :material-rename: **Run ID:** UNH-TitleBm25 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 

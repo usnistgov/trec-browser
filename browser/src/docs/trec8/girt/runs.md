@@ -1,7 +1,7 @@
 # Runs - GIRT 1999 
 
 #### BKCLGR01 
-[**`Participants`**](./participants.md#berkeley_gey), [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR01.table.pdf) 
+[**`Participants`**](./participants.md#berkeley_gey) | [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR01.table.pdf) 
 
 - :material-rename: **Run ID:** BKCLGR01 
 - :fontawesome-solid-user-group: **Participant:** berkeley_gey 
@@ -13,7 +13,7 @@
 
 ---
 #### BKCLGR02 
-[**`Participants`**](./participants.md#berkeley_gey), [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR02.table.pdf) 
+[**`Participants`**](./participants.md#berkeley_gey) | [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR02.table.pdf) 
 
 - :material-rename: **Run ID:** BKCLGR02 
 - :fontawesome-solid-user-group: **Participant:** berkeley_gey 
@@ -25,7 +25,7 @@
 
 ---
 #### BKCLGR03 
-[**`Participants`**](./participants.md#berkeley_gey), [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR03.table.pdf) 
+[**`Participants`**](./participants.md#berkeley_gey) | [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR03.table.pdf) 
 
 - :material-rename: **Run ID:** BKCLGR03 
 - :fontawesome-solid-user-group: **Participant:** berkeley_gey 
@@ -37,7 +37,7 @@
 
 ---
 #### BKCLGR04 
-[**`Participants`**](./participants.md#berkeley_gey), [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR04.table.pdf) 
+[**`Participants`**](./participants.md#berkeley_gey) | [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR04.table.pdf) 
 
 - :material-rename: **Run ID:** BKCLGR04 
 - :fontawesome-solid-user-group: **Participant:** berkeley_gey 
@@ -49,7 +49,7 @@
 
 ---
 #### BKCLGR05 
-[**`Participants`**](./participants.md#berkeley_gey), [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR05.table.pdf) 
+[**`Participants`**](./participants.md#berkeley_gey) | [**`Proceedings`**](./proceedings.md#english-german-cross-language-retrieval-for-the-girt-collection-exploiting-a-multilingual-thesaurus) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.BKCLGR05.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/BKCLGR05.table.pdf) 
 
 - :material-rename: **Run ID:** BKCLGR05 
 - :fontawesome-solid-user-group: **Participant:** berkeley_gey 
@@ -61,7 +61,7 @@
 
 ---
 #### EIT99geg 
-[**`Participants`**](./participants.md#eurospider), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99geg.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99geg.table.pdf) 
+[**`Participants`**](./participants.md#eurospider) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99geg.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99geg.table.pdf) 
 
 - :material-rename: **Run ID:** EIT99geg 
 - :fontawesome-solid-user-group: **Participant:** eurospider 
@@ -73,7 +73,7 @@
 
 ---
 #### EIT99gfg 
-[**`Participants`**](./participants.md#eurospider), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99gfg.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99gfg.table.pdf) 
+[**`Participants`**](./participants.md#eurospider) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99gfg.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99gfg.table.pdf) 
 
 - :material-rename: **Run ID:** EIT99gfg 
 - :fontawesome-solid-user-group: **Participant:** eurospider 
@@ -85,7 +85,7 @@
 
 ---
 #### EIT99gmt 
-[**`Participants`**](./participants.md#eurospider), [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99gmt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99gmt.table.pdf) 
+[**`Participants`**](./participants.md#eurospider) | [**`Input`**](https://trec.nist.gov/results/trec8/trec8.results.input/tracks/girt/input.EIT99gmt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec8/appendices/A/xlingual_girt_results/EIT99gmt.table.pdf) 
 
 - :material-rename: **Run ID:** EIT99gmt 
 - :fontawesome-solid-user-group: **Participant:** eurospider 

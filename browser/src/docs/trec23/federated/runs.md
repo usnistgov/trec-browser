@@ -1,7 +1,7 @@
 # Runs - Federated Web Search 2014 
 
 #### basedef 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/basedef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/basedef.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/basedef.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/basedef.pdf) 
 
 - :material-rename: **Run ID:** basedef 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -14,7 +14,7 @@
 
 ---
 #### drexelRS1 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS1.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS1.pdf) 
 
 - :material-rename: **Run ID:** drexelRS1 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -27,7 +27,7 @@
 
 ---
 #### drexelRS1mR 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS1mR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS1mR.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS1mR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS1mR.pdf) 
 
 - :material-rename: **Run ID:** drexelRS1mR 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -40,7 +40,7 @@
 
 ---
 #### drexelRS2 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS2.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS2.pdf) 
 
 - :material-rename: **Run ID:** drexelRS2 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -53,7 +53,7 @@
 
 ---
 #### drexelRS3 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS3.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS3.pdf) 
 
 - :material-rename: **Run ID:** drexelRS3 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -66,7 +66,7 @@
 
 ---
 #### drexelRS4 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS4.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS4.pdf) 
 
 - :material-rename: **Run ID:** drexelRS4 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -79,7 +79,7 @@
 
 ---
 #### drexelRS4mW 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS4mW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS4mW.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS4mW.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS4mW.pdf) 
 
 - :material-rename: **Run ID:** drexelRS4mW 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -92,7 +92,7 @@
 
 ---
 #### drexelRS5 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS5.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS5.pdf) 
 
 - :material-rename: **Run ID:** drexelRS5 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -105,7 +105,7 @@
 
 ---
 #### drexelRS6 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6.pdf) 
 
 - :material-rename: **Run ID:** drexelRS6 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -118,7 +118,7 @@
 
 ---
 #### drexelRS6mR 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6mR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6mR.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6mR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6mR.pdf) 
 
 - :material-rename: **Run ID:** drexelRS6mR 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -131,7 +131,7 @@
 
 ---
 #### drexelRS6mW 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6mW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6mW.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS6mW.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS6mW.pdf) 
 
 - :material-rename: **Run ID:** drexelRS6mW 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -144,7 +144,7 @@
 
 ---
 #### drexelRS7 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS7.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS7.pdf) 
 
 - :material-rename: **Run ID:** drexelRS7 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -157,7 +157,7 @@
 
 ---
 #### drexelRS7mW 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS7mW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS7mW.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelRS7mW.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelRS7mW.pdf) 
 
 - :material-rename: **Run ID:** drexelRS7mW 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -170,7 +170,7 @@
 
 ---
 #### drexelVS1 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS1.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS1.pdf) 
 
 - :material-rename: **Run ID:** drexelVS1 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -183,7 +183,7 @@
 
 ---
 #### drexelVS2 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS2.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS2.pdf) 
 
 - :material-rename: **Run ID:** drexelVS2 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -196,7 +196,7 @@
 
 ---
 #### drexelVS3 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS3.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS3.pdf) 
 
 - :material-rename: **Run ID:** drexelVS3 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -209,7 +209,7 @@
 
 ---
 #### drexelVS4 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS4.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS4.pdf) 
 
 - :material-rename: **Run ID:** drexelVS4 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -222,7 +222,7 @@
 
 ---
 #### drexelVS5 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS5.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS5.pdf) 
 
 - :material-rename: **Run ID:** drexelVS5 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -235,7 +235,7 @@
 
 ---
 #### drexelVS6 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS6.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS6.pdf) 
 
 - :material-rename: **Run ID:** drexelVS6 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -248,7 +248,7 @@
 
 ---
 #### drexelVS7 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS7.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/drexelVS7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/drexelVS7.pdf) 
 
 - :material-rename: **Run ID:** drexelVS7 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -261,7 +261,7 @@
 
 ---
 #### ecomsv 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsv.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsv.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsv.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsv.pdf) 
 
 - :material-rename: **Run ID:** ecomsv 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -274,7 +274,7 @@
 
 ---
 #### ecomsvt 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsvt.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsvt.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsvt.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsvt.pdf) 
 
 - :material-rename: **Run ID:** ecomsvt 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -287,7 +287,7 @@
 
 ---
 #### ecomsvz 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsvz.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsvz.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ecomsvz.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ecomsvz.pdf) 
 
 - :material-rename: **Run ID:** ecomsvz 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -300,7 +300,7 @@
 
 ---
 #### ekwma 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ekwma.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ekwma.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ekwma.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ekwma.pdf) 
 
 - :material-rename: **Run ID:** ekwma 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -313,7 +313,7 @@
 
 ---
 #### eseif 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/eseif.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/eseif.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/eseif.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/eseif.pdf) 
 
 - :material-rename: **Run ID:** eseif 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -326,7 +326,7 @@
 
 ---
 #### esevs 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/esevs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esevs.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/esevs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esevs.pdf) 
 
 - :material-rename: **Run ID:** esevs 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -339,7 +339,7 @@
 
 ---
 #### esevsru 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/esevsru.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esevsru.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/esevsru.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esevsru.pdf) 
 
 - :material-rename: **Run ID:** esevsru 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -352,7 +352,7 @@
 
 ---
 #### esmimax 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/esmimax.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esmimax.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/esmimax.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esmimax.pdf) 
 
 - :material-rename: **Run ID:** esmimax 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -365,7 +365,7 @@
 
 ---
 #### esvru 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/esvru.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esvru.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/esvru.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/esvru.pdf) 
 
 - :material-rename: **Run ID:** esvru 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -378,7 +378,7 @@
 
 ---
 #### etfidf 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/etfidf.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/etfidf.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/etfidf.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/etfidf.pdf) 
 
 - :material-rename: **Run ID:** etfidf 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -391,7 +391,7 @@
 
 ---
 #### FW14basemR 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14basemR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14basemR.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14basemR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14basemR.pdf) 
 
 - :material-rename: **Run ID:** FW14basemR 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -404,7 +404,7 @@
 
 ---
 #### FW14basemW 
-[**`Participants`**](./participants.md#dragon), [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14basemW.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14basemW.pdf) 
+[**`Participants`**](./participants.md#dragon) | [**`Proceedings`**](./proceedings.md#drexel-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14basemW.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14basemW.pdf) 
 
 - :material-rename: **Run ID:** FW14basemW 
 - :fontawesome-solid-user-group: **Participant:** dragon 
@@ -417,7 +417,7 @@
 
 ---
 #### FW14Docs100 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs100.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs100.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs100.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs100.pdf) 
 
 - :material-rename: **Run ID:** FW14Docs100 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -430,7 +430,7 @@
 
 ---
 #### FW14Docs50 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs50.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs50.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs50.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs50.pdf) 
 
 - :material-rename: **Run ID:** FW14Docs50 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -443,7 +443,7 @@
 
 ---
 #### FW14Docs75 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs75.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs75.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Docs75.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Docs75.pdf) 
 
 - :material-rename: **Run ID:** FW14Docs75 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -456,7 +456,7 @@
 
 ---
 #### FW14Search100 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search100.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search100.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search100.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search100.pdf) 
 
 - :material-rename: **Run ID:** FW14Search100 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -469,7 +469,7 @@
 
 ---
 #### FW14Search50 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search50.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search50.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search50.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search50.pdf) 
 
 - :material-rename: **Run ID:** FW14Search50 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -482,7 +482,7 @@
 
 ---
 #### FW14Search75 
-[**`Participants`**](./participants.md#info_ruc), [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models), [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search75.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search75.pdf) 
+[**`Participants`**](./participants.md#info_ruc) | [**`Proceedings`**](./proceedings.md#ruc-at-trec-2014-select-resources-using-topic-models) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/FW14Search75.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/FW14Search75.pdf) 
 
 - :material-rename: **Run ID:** FW14Search75 
 - :fontawesome-solid-user-group: **Participant:** info_ruc 
@@ -495,7 +495,7 @@
 
 ---
 #### googTermWise7 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging), [**`Input`**](https://trec.nist.gov/results/trec23/federated/googTermWise7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/googTermWise7.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/googTermWise7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/googTermWise7.pdf) 
 
 - :material-rename: **Run ID:** googTermWise7 
 - :fontawesome-solid-user-group: **Participant:** CMU_LTI 
@@ -508,7 +508,7 @@
 
 ---
 #### googUniform7 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging), [**`Input`**](https://trec.nist.gov/results/trec23/federated/googUniform7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/googUniform7.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/googUniform7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/googUniform7.pdf) 
 
 - :material-rename: **Run ID:** googUniform7 
 - :fontawesome-solid-user-group: **Participant:** CMU_LTI 
@@ -521,7 +521,7 @@
 
 ---
 #### ICTNETRM01 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM01.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM01.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM01 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -534,7 +534,7 @@
 
 ---
 #### ICTNETRM02 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM02.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM02.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM02 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -547,7 +547,7 @@
 
 ---
 #### ICTNETRM03 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM03.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM03.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM03 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -560,7 +560,7 @@
 
 ---
 #### ICTNETRM04 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM04.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM04.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM04 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -573,7 +573,7 @@
 
 ---
 #### ICTNETRM05 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM05.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM05.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM05.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM05 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -586,7 +586,7 @@
 
 ---
 #### ICTNETRM06 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM06.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM06.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM06.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM06 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -599,7 +599,7 @@
 
 ---
 #### ICTNETRM07 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM07.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM07.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRM07.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRM07.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRM07 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -612,7 +612,7 @@
 
 ---
 #### ICTNETRS01 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS01.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS01.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS01 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -625,7 +625,7 @@
 
 ---
 #### ICTNETRS02 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS02.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS02.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS02 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -638,7 +638,7 @@
 
 ---
 #### ICTNETRS03 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS03.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS03.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS03 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -651,7 +651,7 @@
 
 ---
 #### ICTNETRS04 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS04.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS04.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS04 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -664,7 +664,7 @@
 
 ---
 #### ICTNETRS05 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS05.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS05.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS05.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS05 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -677,7 +677,7 @@
 
 ---
 #### ICTNETRS06 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS06.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS06.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS06.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS06 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -690,7 +690,7 @@
 
 ---
 #### ICTNETRS07 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS07.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS07.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETRS07.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETRS07.pdf) 
 
 - :material-rename: **Run ID:** ICTNETRS07 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -703,7 +703,7 @@
 
 ---
 #### ICTNETVS02 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS02.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS02.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS02 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -716,7 +716,7 @@
 
 ---
 #### ICTNETVS03 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS03.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS03.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS03.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS03.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS03 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -729,7 +729,7 @@
 
 ---
 #### ICTNETVS04 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS04.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS04.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS04.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS04.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS04 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -742,7 +742,7 @@
 
 ---
 #### ICTNETVS05 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS05.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS05.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS05.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS05.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS05 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -755,7 +755,7 @@
 
 ---
 #### ICTNETVS06 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS06.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS06.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS06.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS06.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS06 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -768,7 +768,7 @@
 
 ---
 #### ICTNETVS07 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS07.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS07.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS07.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS07.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS07 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -781,7 +781,7 @@
 
 ---
 #### ICTNETVS1 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS1.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-federated-web-search-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ICTNETVS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ICTNETVS1.pdf) 
 
 - :material-rename: **Run ID:** ICTNETVS1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -794,7 +794,7 @@
 
 ---
 #### NTNUiSrs1 
-[**`Participants`**](./participants.md#ntnuis), [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection), [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs1.pdf) 
+[**`Participants`**](./participants.md#ntnuis) | [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs1.pdf) 
 
 - :material-rename: **Run ID:** NTNUiSrs1 
 - :fontawesome-solid-user-group: **Participant:** NTNUiS 
@@ -807,7 +807,7 @@
 
 ---
 #### NTNUiSrs2 
-[**`Participants`**](./participants.md#ntnuis), [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection), [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs2.pdf) 
+[**`Participants`**](./participants.md#ntnuis) | [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs2.pdf) 
 
 - :material-rename: **Run ID:** NTNUiSrs2 
 - :fontawesome-solid-user-group: **Participant:** NTNUiS 
@@ -820,7 +820,7 @@
 
 ---
 #### NTNUiSrs3 
-[**`Participants`**](./participants.md#ntnuis), [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection), [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs3.pdf) 
+[**`Participants`**](./participants.md#ntnuis) | [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSrs3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSrs3.pdf) 
 
 - :material-rename: **Run ID:** NTNUiSrs3 
 - :fontawesome-solid-user-group: **Participant:** NTNUiS 
@@ -833,7 +833,7 @@
 
 ---
 #### NTNUiSvs2 
-[**`Participants`**](./participants.md#ntnuis), [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection), [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSvs2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSvs2.pdf) 
+[**`Participants`**](./participants.md#ntnuis) | [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSvs2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSvs2.pdf) 
 
 - :material-rename: **Run ID:** NTNUiSvs2 
 - :fontawesome-solid-user-group: **Participant:** NTNUiS 
@@ -846,7 +846,7 @@
 
 ---
 #### NTNUiSvs3 
-[**`Participants`**](./participants.md#ntnuis), [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection), [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSvs3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSvs3.pdf) 
+[**`Participants`**](./participants.md#ntnuis) | [**`Proceedings`**](./proceedings.md#learning-to-combine-collection-centric-and-document-centric-models-for-resource-selection) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/NTNUiSvs3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/NTNUiSvs3.pdf) 
 
 - :material-rename: **Run ID:** NTNUiSvs3 
 - :fontawesome-solid-user-group: **Participant:** NTNUiS 
@@ -859,7 +859,7 @@
 
 ---
 #### plain 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging), [**`Input`**](https://trec.nist.gov/results/trec23/federated/plain.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/plain.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/plain.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/plain.pdf) 
 
 - :material-rename: **Run ID:** plain 
 - :fontawesome-solid-user-group: **Participant:** CMU_LTI 
@@ -872,7 +872,7 @@
 
 ---
 #### SCUTKapok1 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok1.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok1.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok1 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -881,11 +881,11 @@
 - :material-upload: **Submission:** 9/13/2014 
 - :material-text-search: **Task:** merging 
 - :material-fingerprint: **MD5:** `00d1bca5748e432284de216b09de2532` 
-- :material-text: **Run description:** using the resource and vertical weight to make the result merging.The formula is score= β*(score1)+(1-β)*(verticalweight*resourceweight)。 
+- :material-text: **Run description:** using the resource and vertical weight to make the result merging.The formula is score= *(score1)+(1-)*(verticalweight*resourceweight) 
 
 ---
 #### SCUTKapok2 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok2.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok2.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok2 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -898,7 +898,7 @@
 
 ---
 #### SCUTKapok3 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok3.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok3.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok3 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -907,11 +907,11 @@
 - :material-upload: **Submission:** 9/15/2014 
 - :material-text-search: **Task:** merging 
 - :material-fingerprint: **MD5:** `1a84a85a67269dfba7cd9261107920cc` 
-- :material-text: **Run description:** using the resource and vertical weight to do the result merging.The formula is totalscore = β*(score*resourceweight)+(1-β)*（vertical weight）. 
+- :material-text: **Run description:** using the resource and vertical weight to do the result merging.The formula is totalscore = *(score*resourceweight)+(1-)*vertical weight. 
 
 ---
 #### SCUTKapok4 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok4.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok4.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok4 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -924,7 +924,7 @@
 
 ---
 #### SCUTKapok5 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok5.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok5.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok5 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -937,7 +937,7 @@
 
 ---
 #### SCUTKapok6 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok6.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok6.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok6 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -946,11 +946,11 @@
 - :material-upload: **Submission:** 9/15/2014 
 - :material-text-search: **Task:** merging 
 - :material-fingerprint: **MD5:** `b10400b3f73e2450db4f5eb5a30685f3` 
-- :material-text: **Run description:** this run uses the formula:a*score+b*resourcesweight+c*verticalsweightf，calculate the score .consider the weight of resources and verticals. 
+- :material-text: **Run description:** this run uses the formula:a*score+b*resourcesweight+c*verticalsweightfcalculate the score .consider the weight of resources and verticals. 
 
 ---
 #### SCUTKapok7 
-[**`Participants`**](./participants.md#scutkapok), [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok7.pdf) 
+[**`Participants`**](./participants.md#scutkapok) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/SCUTKapok7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/SCUTKapok7.pdf) 
 
 - :material-rename: **Run ID:** SCUTKapok7 
 - :fontawesome-solid-user-group: **Participant:** SCUTKapok 
@@ -963,7 +963,7 @@
 
 ---
 #### sdm5 
-[**`Participants`**](./participants.md#cmu_lti), [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging), [**`Input`**](https://trec.nist.gov/results/trec23/federated/sdm5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/sdm5.pdf) 
+[**`Participants`**](./participants.md#cmu_lti) | [**`Proceedings`**](./proceedings.md#query-transformations-for-result-merging) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/sdm5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/sdm5.pdf) 
 
 - :material-rename: **Run ID:** sdm5 
 - :fontawesome-solid-user-group: **Participant:** CMU_LTI 
@@ -976,7 +976,7 @@
 
 ---
 #### svmtrain 
-[**`Participants`**](./participants.md#ecnucs), [**`Input`**](https://trec.nist.gov/results/trec23/federated/svmtrain.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/svmtrain.pdf) 
+[**`Participants`**](./participants.md#ecnucs) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/svmtrain.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/svmtrain.pdf) 
 
 - :material-rename: **Run ID:** svmtrain 
 - :fontawesome-solid-user-group: **Participant:** ECNUCS 
@@ -989,7 +989,7 @@
 
 ---
 #### udelftrsbs 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftrsbs.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftrsbs.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftrsbs.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftrsbs.pdf) 
 
 - :material-rename: **Run ID:** udelftrsbs 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -1002,7 +1002,7 @@
 
 ---
 #### udelftrssn 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftrssn.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftrssn.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftrssn.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftrssn.pdf) 
 
 - :material-rename: **Run ID:** udelftrssn 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -1015,7 +1015,7 @@
 
 ---
 #### udelftvql 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftvql.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftvql.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftvql.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftvql.pdf) 
 
 - :material-rename: **Run ID:** udelftvql 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -1028,7 +1028,7 @@
 
 ---
 #### udelftvqlR 
-[**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftvqlR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftvqlR.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/udelftvqlR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/udelftvqlR.pdf) 
 
 - :material-rename: **Run ID:** udelftvqlR 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -1041,7 +1041,7 @@
 
 ---
 #### uiucGSLISf1 
-[**`Participants`**](./participants.md#uiucgslis), [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/uiucGSLISf1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/uiucGSLISf1.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/uiucGSLISf1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/uiucGSLISf1.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLISf1 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1054,7 +1054,7 @@
 
 ---
 #### uiucGSLISf2 
-[**`Participants`**](./participants.md#uiucgslis), [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/federated/uiucGSLISf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/uiucGSLISf2.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/uiucGSLISf2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/uiucGSLISf2.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLISf2 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -1067,7 +1067,7 @@
 
 ---
 #### ULuganoCL2V 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoCL2V.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoCL2V.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoCL2V.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoCL2V.pdf) 
 
 - :material-rename: **Run ID:** ULuganoCL2V 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1080,7 +1080,7 @@
 
 ---
 #### ULuganoColL2 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoColL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoColL2.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoColL2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoColL2.pdf) 
 
 - :material-rename: **Run ID:** ULuganoColL2 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1093,7 +1093,7 @@
 
 ---
 #### ULuganoDFR 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDFR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDFR.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDFR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDFR.pdf) 
 
 - :material-rename: **Run ID:** ULuganoDFR 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1106,7 +1106,7 @@
 
 ---
 #### ULuganoDFRV 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDFRV.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDFRV.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDFRV.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDFRV.pdf) 
 
 - :material-rename: **Run ID:** ULuganoDFRV 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1119,7 +1119,7 @@
 
 ---
 #### ULuganoDL2V 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDL2V.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDL2V.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDL2V.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDL2V.pdf) 
 
 - :material-rename: **Run ID:** ULuganoDL2V 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1132,7 +1132,7 @@
 
 ---
 #### ULuganoDocL2 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDocL2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDocL2.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULuganoDocL2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULuganoDocL2.pdf) 
 
 - :material-rename: **Run ID:** ULuganoDocL2 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1145,7 +1145,7 @@
 
 ---
 #### ULugDFRNoOp 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugDFRNoOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugDFRNoOp.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugDFRNoOp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugDFRNoOp.pdf) 
 
 - :material-rename: **Run ID:** ULugDFRNoOp 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1158,7 +1158,7 @@
 
 ---
 #### ULugDFROp 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugDFROp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugDFROp.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugDFROp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugDFROp.pdf) 
 
 - :material-rename: **Run ID:** ULugDFROp 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1171,7 +1171,7 @@
 
 ---
 #### ULugFWBsNoOp 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugFWBsNoOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugFWBsNoOp.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugFWBsNoOp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugFWBsNoOp.pdf) 
 
 - :material-rename: **Run ID:** ULugFWBsNoOp 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1184,7 +1184,7 @@
 
 ---
 #### ULugFWBsOp 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugFWBsOp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugFWBsOp.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#opinions-in-federated-search-university-of-lugano-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/ULugFWBsOp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/ULugFWBsOp.pdf) 
 
 - :material-rename: **Run ID:** ULugFWBsOp 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -1197,7 +1197,7 @@
 
 ---
 #### UPDFW14r1ksm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14r1ksm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14r1ksm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14r1ksm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14r1ksm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14r1ksm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1210,7 +1210,7 @@
 
 ---
 #### UPDFW14tiknm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tiknm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tiknm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tiknm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tiknm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tiknm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1223,7 +1223,7 @@
 
 ---
 #### UPDFW14tiksm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tiksm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tiksm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tiksm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tiksm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tiksm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1236,7 +1236,7 @@
 
 ---
 #### UPDFW14tinnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tinnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tinnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tinnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tinnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tinnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1249,7 +1249,7 @@
 
 ---
 #### UPDFW14tinsm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tinsm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tinsm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tinsm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tinsm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tinsm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1262,7 +1262,7 @@
 
 ---
 #### UPDFW14tipnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tipnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tipnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tipnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tipnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tipnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1275,7 +1275,7 @@
 
 ---
 #### UPDFW14tipsm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tipsm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tipsm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14tipsm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14tipsm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14tipsm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1288,7 +1288,7 @@
 
 ---
 #### UPDFW14v0knm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0knm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0knm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0knm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0knm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v0knm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1301,7 +1301,7 @@
 
 ---
 #### UPDFW14v0nnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0nnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0nnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0nnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0nnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v0nnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1314,7 +1314,7 @@
 
 ---
 #### UPDFW14v0pnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0pnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0pnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v0pnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v0pnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v0pnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1327,7 +1327,7 @@
 
 ---
 #### UPDFW14v1knm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1knm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1knm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1knm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1knm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v1knm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1340,7 +1340,7 @@
 
 ---
 #### UPDFW14v1nnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1nnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1nnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1nnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1nnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v1nnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1353,7 +1353,7 @@
 
 ---
 #### UPDFW14v1pnm 
-[**`Participants`**](./participants.md#upd), [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1pnm.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1pnm.pdf) 
+[**`Participants`**](./participants.md#upd) | [**`Proceedings`**](./proceedings.md#university-of-padua-at-trec-2014-federated-web-search-track) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UPDFW14v1pnm.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UPDFW14v1pnm.pdf) 
 
 - :material-rename: **Run ID:** UPDFW14v1pnm 
 - :fontawesome-solid-user-group: **Participant:** UPD 
@@ -1366,7 +1366,7 @@
 
 ---
 #### UTTailyG2000 
-[**`Participants`**](./participants.md#ut), [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation), [**`Input`**](https://trec.nist.gov/results/trec23/federated/UTTailyG2000.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UTTailyG2000.pdf) 
+[**`Participants`**](./participants.md#ut) | [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec23/federated/UTTailyG2000.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/federated/UTTailyG2000.pdf) 
 
 - :material-rename: **Run ID:** UTTailyG2000 
 - :fontawesome-solid-user-group: **Participant:** ut 

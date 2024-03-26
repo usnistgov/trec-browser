@@ -2,7 +2,7 @@
 
 ## Cross-Language
 
-[`Overview`](./xlingual/overview.md), [`Proceedings`](./xlingual/proceedings.md), [`Results`](./xlingual/results.md), [`Runs`](./xlingual/runs.md), [`Participants`](./xlingual/participants.md)
+[`Overview`](./xlingual/overview.md) | [`Proceedings`](./xlingual/proceedings.md) | [`Results`](./xlingual/results.md) | [`Runs`](./xlingual/runs.md) | [`Participants`](./xlingual/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ Nine teams participated in the TREC-2002 cross-language information retrieval tr
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -42,7 +42,7 @@ The TREC-2002 Web Track moved away from non-Web relevance ranking and towards We
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Data`](./filtering/data.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -81,7 +81,7 @@ Given a topic description and some example relevant documents, build a filtering
 
 ## Novelty
 
-[`Overview`](./novelty/overview.md), [`Proceedings`](./novelty/proceedings.md), [`Data`](./novelty/data.md), [`Results`](./novelty/results.md), [`Runs`](./novelty/runs.md), [`Participants`](./novelty/participants.md)
+[`Overview`](./novelty/overview.md) | [`Proceedings`](./novelty/proceedings.md) | [`Data`](./novelty/data.md) | [`Results`](./novelty/results.md) | [`Runs`](./novelty/runs.md) | [`Participants`](./novelty/participants.md)
 
 {==
 
@@ -100,7 +100,7 @@ The TREC 2002 novelty track is designed to investigate systems' abilities to loc
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 
@@ -119,7 +119,7 @@ TREC is organized along several tracks, each of which addresses a particular ret
 
 ## Video
 
-[`Overview`](./video/overview.md), [`Proceedings`](./video/proceedings.md), [`Runs`](./video/runs.md), [`Participants`](./video/participants.md)
+[`Overview`](./video/overview.md) | [`Proceedings`](./video/proceedings.md) | [`Runs`](./video/runs.md) | [`Participants`](./video/participants.md)
 
 {==
 

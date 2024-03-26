@@ -1,6 +1,6 @@
 # Overview - OpenSearch 2017
 
-[`Proceedings`](./proceedings.md), [`Runs`](./runs.md), [`Participants`](./participants.md)
+[`Proceedings`](./proceedings.md) | [`Runs`](./runs.md) | [`Participants`](./participants.md)
 
 {==
 

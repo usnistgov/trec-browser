@@ -1,7 +1,7 @@
 # Runs - Spam 2005 
 
 #### 1BASresults 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#1basresults) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** 1BASresults 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -12,7 +12,7 @@
 
 ---
 #### 1cefhuj 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#1cefhuj) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** 1cefhuj 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -25,7 +25,7 @@
 
 ---
 #### 2adphu 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#2adphu) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** 2adphu 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -38,7 +38,7 @@
 
 ---
 #### 2V2Bresults 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#2v2bresults) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** 2V2Bresults 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -49,7 +49,7 @@
 
 ---
 #### 3adphd 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#3adphd) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** 3adphd 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -62,7 +62,7 @@
 
 ---
 #### 3V2Eresults 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#3v2eresults) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** 3V2Eresults 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -73,7 +73,7 @@
 
 ---
 #### 4adp 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#4adp) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** 4adp 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -86,7 +86,7 @@
 
 ---
 #### 4V5Bresults 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#4v5bresults) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** 4V5Bresults 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -97,7 +97,7 @@
 
 ---
 #### 621SPAM1FIN 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1fin) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1FIN 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -110,7 +110,7 @@
 
 ---
 #### 621SPAM1FT1 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1ft1) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1FT1 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -123,7 +123,7 @@
 
 ---
 #### 621SPAM1FUL 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1ful) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1FUL 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -134,7 +134,7 @@
 
 ---
 #### 621SPAM1H25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1h25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1H25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -145,7 +145,7 @@
 
 ---
 #### 621SPAM1H50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1h50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1H50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -156,7 +156,7 @@
 
 ---
 #### 621SPAM1S25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1s25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1S25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -167,7 +167,7 @@
 
 ---
 #### 621SPAM1S50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam1s50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM1S50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -178,7 +178,7 @@
 
 ---
 #### 621SPAM2FUL 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam2ful) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM2FUL 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -189,7 +189,7 @@
 
 ---
 #### 621SPAM2H25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam2h25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM2H25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -200,7 +200,7 @@
 
 ---
 #### 621SPAM2H50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam2h50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM2H50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -211,7 +211,7 @@
 
 ---
 #### 621SPAM2S25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam2s25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM2S25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -222,7 +222,7 @@
 
 ---
 #### 621SPAM2S50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam2s50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM2S50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -233,7 +233,7 @@
 
 ---
 #### 621SPAM3FUL 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam3ful) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM3FUL 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -244,7 +244,7 @@
 
 ---
 #### 621SPAM3H25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam3h25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM3H25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -255,7 +255,7 @@
 
 ---
 #### 621SPAM3H50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam3h50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM3H50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -266,7 +266,7 @@
 
 ---
 #### 621SPAM3S25 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam3s25) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM3S25 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -277,7 +277,7 @@
 
 ---
 #### 621SPAM3S50 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spam3s50) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAM3S50 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -288,7 +288,7 @@
 
 ---
 #### 621SPAMFT1 
-[**`Participants`**](./participants.md#ibmsegal), [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#621spamft1) | [**`Participants`**](./participants.md#ibmsegal) | [**`Proceedings`**](./proceedings.md#ibm-spamguru-on-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.621SPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621agg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621full.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621mrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621sb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621tm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/621.pdf) 
 
 - :material-rename: **Run ID:** 621SPAMFT1 
 - :fontawesome-solid-user-group: **Participant:** ibm.segal 
@@ -299,7 +299,7 @@
 
 ---
 #### azeSPAM1BNS 
-[**`Participants`**](./participants.md#uparis-sudaze), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#azespam1bns) | [**`Participants`**](./participants.md#uparis-sudaze) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.azeSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azeagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azefull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azemrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azesb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azetm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/aze.pdf) 
 
 - :material-rename: **Run ID:** azeSPAM1BNS 
 - :fontawesome-solid-user-group: **Participant:** uparis-sud.aze 
@@ -312,7 +312,7 @@
 
 ---
 #### azeSPAM1res 
-[**`Participants`**](./participants.md#uparis-sudaze), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#azespam1res) | [**`Participants`**](./participants.md#uparis-sudaze) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.azeSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azeagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azefull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azemrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azesb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azetm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/aze.pdf) 
 
 - :material-rename: **Run ID:** azeSPAM1res 
 - :fontawesome-solid-user-group: **Participant:** uparis-sud.aze 
@@ -323,7 +323,7 @@
 
 ---
 #### azeSPAM2CSS 
-[**`Participants`**](./participants.md#uparis-sudaze), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#azespam2css) | [**`Participants`**](./participants.md#uparis-sudaze) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.azeSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azeagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azefull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azemrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azesb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azetm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/aze.pdf) 
 
 - :material-rename: **Run ID:** azeSPAM2CSS 
 - :fontawesome-solid-user-group: **Participant:** uparis-sud.aze 
@@ -336,7 +336,7 @@
 
 ---
 #### azeSPAMpf01 
-[**`Participants`**](./participants.md#uparis-sudaze), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#azespampf01) | [**`Participants`**](./participants.md#uparis-sudaze) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.azeSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azeagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azefull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azemrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azesb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/azetm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/aze.pdf) 
 
 - :material-rename: **Run ID:** azeSPAMpf01 
 - :fontawesome-solid-user-group: **Participant:** uparis-sud.aze 
@@ -349,7 +349,7 @@
 
 ---
 #### cao1knf 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#cao1knf) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** cao1knf 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -360,7 +360,7 @@
 
 ---
 #### cao2ruk 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#cao2ruk) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** cao2ruk 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -371,7 +371,7 @@
 
 ---
 #### cao3knf 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#cao3knf) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** cao3knf 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -382,7 +382,7 @@
 
 ---
 #### cao4hyb 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#cao4hyb) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** cao4hyb 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -393,7 +393,7 @@
 
 ---
 #### crmSPAM1full 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1full) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1full 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -404,7 +404,7 @@
 
 ---
 #### crmSPAM1ham2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1ham2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1ham2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -415,7 +415,7 @@
 
 ---
 #### crmSPAM1ham5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1ham5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1ham5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -426,7 +426,7 @@
 
 ---
 #### crmSPAM1osf 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1osf) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1osf 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -439,7 +439,7 @@
 
 ---
 #### crmSPAM1spm2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1spm2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1spm2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -450,7 +450,7 @@
 
 ---
 #### crmSPAM1spm5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam1spm5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM1spm5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -461,7 +461,7 @@
 
 ---
 #### crmSPAM2full 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2full) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2full 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -472,7 +472,7 @@
 
 ---
 #### crmSPAM2ham2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2ham2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2ham2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -483,7 +483,7 @@
 
 ---
 #### crmSPAM2ham5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2ham5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2ham5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -494,7 +494,7 @@
 
 ---
 #### crmSPAM2spm2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2spm2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2spm2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -505,7 +505,7 @@
 
 ---
 #### crmSPAM2spm5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2spm5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2spm5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -516,7 +516,7 @@
 
 ---
 #### crmSPAM2win 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam2win) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM2win 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -529,7 +529,7 @@
 
 ---
 #### crmSPAM3full 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3full) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3full 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -540,7 +540,7 @@
 
 ---
 #### crmSPAM3ham2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3ham2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3ham2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -551,7 +551,7 @@
 
 ---
 #### crmSPAM3ham5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3ham5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3ham5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -562,7 +562,7 @@
 
 ---
 #### crmSPAM3osu 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3osu) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3osu 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -575,7 +575,7 @@
 
 ---
 #### crmSPAM3spm2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3spm2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3spm2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -586,7 +586,7 @@
 
 ---
 #### crmSPAM3spm5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam3spm5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM3spm5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -597,7 +597,7 @@
 
 ---
 #### crmSPAM4full 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4full) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4full 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -608,7 +608,7 @@
 
 ---
 #### crmSPAM4ham2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4ham2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4ham2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -619,7 +619,7 @@
 
 ---
 #### crmSPAM4ham5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4ham5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4ham5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -630,7 +630,7 @@
 
 ---
 #### crmSPAM4osb 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4osb) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4osb 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -643,7 +643,7 @@
 
 ---
 #### crmSPAM4spm2 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4spm2) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4spm2 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -654,7 +654,7 @@
 
 ---
 #### crmSPAM4spm5 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspam4spm5) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAM4spm5 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -665,7 +665,7 @@
 
 ---
 #### crmSPAMp1of 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspamp1of) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAMp1of 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -678,7 +678,7 @@
 
 ---
 #### crmSPAMp2wi 
-[**`Participants`**](./participants.md#merlyerazunis), [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#crmspamp2wi) | [**`Participants`**](./participants.md#merlyerazunis) | [**`Proceedings`**](./proceedings.md#crm114-versus-mr-x-crm114-notes-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.crmSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crmtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/crm.pdf) 
 
 - :material-rename: **Run ID:** crmSPAMp2wi 
 - :fontawesome-solid-user-group: **Participant:** merl.yerazunis 
@@ -691,7 +691,7 @@
 
 ---
 #### dalSPAM1fsw 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam1fsw) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM1fsw 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -704,7 +704,7 @@
 
 ---
 #### dalSPAM1sw1 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam1sw1) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM1sw1 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -715,7 +715,7 @@
 
 ---
 #### dalSPAM1sx2 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam1sx2) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM1sx2 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -726,7 +726,7 @@
 
 ---
 #### dalSPAM1sxw 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam1sxw) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM1sxw 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -739,7 +739,7 @@
 
 ---
 #### dalSPAM2f 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2f) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2f 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -750,7 +750,7 @@
 
 ---
 #### dalSPAM2h25 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2h25) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2h25 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -761,7 +761,7 @@
 
 ---
 #### dalSPAM2h50 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2h50) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2h50 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -772,7 +772,7 @@
 
 ---
 #### DalSPAM2n4 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2n4) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** DalSPAM2n4 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -785,7 +785,7 @@
 
 ---
 #### dalSPAM2s25 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2s25) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2s25 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -796,7 +796,7 @@
 
 ---
 #### dalSPAM2s50 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2s50) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2s50 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -807,7 +807,7 @@
 
 ---
 #### dalSPAM2vla 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam2vla) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM2vla 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -820,7 +820,7 @@
 
 ---
 #### dalSPAM3f 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3f) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3f 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -831,7 +831,7 @@
 
 ---
 #### dalSPAM3h25 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3h25) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3h25 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -842,7 +842,7 @@
 
 ---
 #### dalSPAM3h50 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3h50) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3h50 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -853,7 +853,7 @@
 
 ---
 #### DalSPAM3n5 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3n5) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** DalSPAM3n5 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -866,7 +866,7 @@
 
 ---
 #### dalSPAM3s25 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3s25) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3s25 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -877,7 +877,7 @@
 
 ---
 #### dalSPAM3s50 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3s50) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3s50 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -888,7 +888,7 @@
 
 ---
 #### dalSPAM3vla 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam3vla) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM3vla 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -901,7 +901,7 @@
 
 ---
 #### dalSPAM4fsw 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam4fsw) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM4fsw 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -914,7 +914,7 @@
 
 ---
 #### dalSPAM4sw1 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam4sw1) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM4sw1 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -925,7 +925,7 @@
 
 ---
 #### dalSPAM4sx2 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam4sx2) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM4sx2 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -936,7 +936,7 @@
 
 ---
 #### dalSPAM4sxw 
-[**`Participants`**](./participants.md#dalhousieukeselj), [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#dalspam4sxw) | [**`Participants`**](./participants.md#dalhousieukeselj) | [**`Proceedings`**](./proceedings.md#daltrec-2005-spam-track-spam-filtering-using-n-gram-based-techniques) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.dalSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dalsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/daltm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/dal.pdf) 
 
 - :material-rename: **Run ID:** dalSPAM4sxw 
 - :fontawesome-solid-user-group: **Participant:** dalhousieu.keselj 
@@ -949,7 +949,7 @@
 
 ---
 #### ICTSPAM1WNB 
-[**`Participants`**](./participants.md#cas-ictwang), [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ictspam1wnb) | [**`Participants`**](./participants.md#cas-ictwang) | [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ICTSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICT.pdf) 
 
 - :material-rename: **Run ID:** ICTSPAM1WNB 
 - :fontawesome-solid-user-group: **Participant:** cas-ict.wang 
@@ -962,7 +962,7 @@
 
 ---
 #### ICTSPAM2WNH 
-[**`Participants`**](./participants.md#cas-ictwang), [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ictspam2wnh) | [**`Participants`**](./participants.md#cas-ictwang) | [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ICTSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICT.pdf) 
 
 - :material-rename: **Run ID:** ICTSPAM2WNH 
 - :fontawesome-solid-user-group: **Participant:** cas-ict.wang 
@@ -975,7 +975,7 @@
 
 ---
 #### ICTSPAM3NBH 
-[**`Participants`**](./participants.md#cas-ictwang), [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ictspam3nbh) | [**`Participants`**](./participants.md#cas-ictwang) | [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ICTSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICT.pdf) 
 
 - :material-rename: **Run ID:** ICTSPAM3NBH 
 - :fontawesome-solid-user-group: **Participant:** cas-ict.wang 
@@ -988,7 +988,7 @@
 
 ---
 #### ICTSPAM4NBB 
-[**`Participants`**](./participants.md#cas-ictwang), [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ictspam4nbb) | [**`Participants`**](./participants.md#cas-ictwang) | [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ICTSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICT.pdf) 
 
 - :material-rename: **Run ID:** ICTSPAM4NBB 
 - :fontawesome-solid-user-group: **Participant:** cas-ict.wang 
@@ -1001,7 +1001,7 @@
 
 ---
 #### ICTSPAMpWNB 
-[**`Participants`**](./participants.md#cas-ictwang), [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ictspampwnb) | [**`Participants`**](./participants.md#cas-ictwang) | [**`Proceedings`**](./proceedings.md#cas-ict-at-trec-2005-spam-track-using-non-textual-information-to-improve-spam-filtering-performance) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ICTSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICTtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ICT.pdf) 
 
 - :material-rename: **Run ID:** ICTSPAMpWNB 
 - :fontawesome-solid-user-group: **Participant:** cas-ict.wang 
@@ -1014,7 +1014,7 @@
 
 ---
 #### ijsSPAM1full 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam1full) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM1full 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1025,7 +1025,7 @@
 
 ---
 #### ijsSPAM1h25 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam1h25) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM1h25 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1036,7 +1036,7 @@
 
 ---
 #### ijsSPAM1pm1 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam1pm1) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM1pm1 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1049,7 +1049,7 @@
 
 ---
 #### ijsSPAM1pm8 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam1pm8) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM1pm8 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1062,7 +1062,7 @@
 
 ---
 #### ijsSPAM2cw1 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam2cw1) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM2cw1 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1075,7 +1075,7 @@
 
 ---
 #### ijsSPAM2full 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam2full) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM2full 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1086,7 +1086,7 @@
 
 ---
 #### ijsSPAM2h25 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam2h25) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM2h25 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1097,7 +1097,7 @@
 
 ---
 #### ijsSPAM2pm6 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam2pm6) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM2pm6 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1110,7 +1110,7 @@
 
 ---
 #### ijsSPAM3cw2 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam3cw2) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM3cw2 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1123,7 +1123,7 @@
 
 ---
 #### ijsSPAM3full 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam3full) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM3full 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1134,7 +1134,7 @@
 
 ---
 #### ijsSPAM3h25 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam3h25) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM3h25 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1145,7 +1145,7 @@
 
 ---
 #### ijsSPAM3pm2 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam3pm2) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM3pm2 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1158,7 +1158,7 @@
 
 ---
 #### ijsSPAM3pm4 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam3pm4) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM3pm4 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1171,7 +1171,7 @@
 
 ---
 #### ijsSPAM4cw2 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam4cw2) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM4cw2 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1184,7 +1184,7 @@
 
 ---
 #### ijsSPAM4cw8 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam4cw8) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM4cw8 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1197,7 +1197,7 @@
 
 ---
 #### ijsSPAM4full 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam4full) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM4full 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1208,7 +1208,7 @@
 
 ---
 #### ijsSPAM4h25 
-[**`Participants`**](./participants.md#jozef-stefan-instbratko), [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#ijsspam4h25) | [**`Participants`**](./participants.md#jozef-stefan-instbratko) | [**`Proceedings`**](./proceedings.md#spam-filtering-using-character-level-markov-models-experiments-for-the-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.ijsSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijsmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijssb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijstm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ijs.pdf) 
 
 - :material-rename: **Run ID:** ijsSPAM4h25 
 - :fontawesome-solid-user-group: **Participant:** jozef-stefan-inst.bratko 
@@ -1219,7 +1219,7 @@
 
 ---
 #### indSPAM1f4f 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#indspam1f4f) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.indSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ind.pdf) 
 
 - :material-rename: **Run ID:** indSPAM1f4f 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -1232,7 +1232,7 @@
 
 ---
 #### indSPAM2f42 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#indspam2f42) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.indSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ind.pdf) 
 
 - :material-rename: **Run ID:** indSPAM2f42 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -1245,7 +1245,7 @@
 
 ---
 #### indSPAM3f40 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#indspam3f40) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.indSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ind.pdf) 
 
 - :material-rename: **Run ID:** indSPAM3f40 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -1258,7 +1258,7 @@
 
 ---
 #### indSPAM4pf4 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#indspam4pf4) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.indSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ind.pdf) 
 
 - :material-rename: **Run ID:** indSPAM4pf4 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -1271,7 +1271,7 @@
 
 ---
 #### indSPAMpwf4 
-[**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#indspampwf4) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2005-hard-robust-and-spam-tracks) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.indSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/indtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/ind.pdf) 
 
 - :material-rename: **Run ID:** indSPAMpwf4 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -1284,7 +1284,7 @@
 
 ---
 #### kidSPAM1BAS 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#kidspam1bas) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** kidSPAM1BAS 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -1297,7 +1297,7 @@
 
 ---
 #### kidSPAM2V2B 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#kidspam2v2b) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** kidSPAM2V2B 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -1310,7 +1310,7 @@
 
 ---
 #### kidSPAM3V2E 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#kidspam3v2e) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** kidSPAM3V2E 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -1323,7 +1323,7 @@
 
 ---
 #### kidSPAM4V5B 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#kidspam4v5b) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** kidSPAM4V5B 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -1336,7 +1336,7 @@
 
 ---
 #### kidSPAMpBAS 
-[**`Participants`**](./participants.md#beijinguguo), [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#kidspampbas) | [**`Participants`**](./participants.md#beijinguguo) | [**`Proceedings`**](./proceedings.md#pris-kidult-anti-spam-solution-at-the-trec-2005-spam-track-improving-the-performance-of-naive-bayes-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.kidSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kidtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/kid.pdf) 
 
 - :material-rename: **Run ID:** kidSPAMpBAS 
 - :fontawesome-solid-user-group: **Participant:** beijingu.guo 
@@ -1349,7 +1349,7 @@
 
 ---
 #### No2 
-[**`Participants`**](./participants.md#casnlprjzhao), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#no2) | [**`Participants`**](./participants.md#casnlprjzhao) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.No2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
 
 - :material-rename: **Run ID:** No2 
 - :fontawesome-solid-user-group: **Participant:** cas.nlpr.jzhao 
@@ -1362,7 +1362,7 @@
 
 ---
 #### None 
-[**`Participants`**](./participants.md#casnlprjzhao), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#none) | [**`Participants`**](./participants.md#casnlprjzhao) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.None) | [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
 
 - :material-rename: **Run ID:** None 
 - :fontawesome-solid-user-group: **Participant:** cas.nlpr.jzhao 
@@ -1373,7 +1373,7 @@
 
 ---
 #### p1cefhuj 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#p1cefhuj) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** p1cefhuj 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1386,7 +1386,7 @@
 
 ---
 #### p2adphu 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#p2adphu) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** p2adphu 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1399,7 +1399,7 @@
 
 ---
 #### p3adphd 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#p3adphd) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** p3adphd 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1412,7 +1412,7 @@
 
 ---
 #### p4adp 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#p4adp) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** p4adp 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1425,7 +1425,7 @@
 
 ---
 #### pub1full 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub1full) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub1full 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1436,7 +1436,7 @@
 
 ---
 #### pub1ham50 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub1ham50) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub1ham50 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1447,7 +1447,7 @@
 
 ---
 #### pub1spam50 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub1spam50) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub1spam50 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1458,7 +1458,7 @@
 
 ---
 #### pub2full 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub2full) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub2full 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1469,7 +1469,7 @@
 
 ---
 #### pub3full 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub3full) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub3full 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1480,7 +1480,7 @@
 
 ---
 #### pub4full 
-[**`Participants`**](./participants.md#breyerlaird), [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pub4full) | [**`Participants`**](./participants.md#breyerlaird) | [**`Proceedings`**](./proceedings.md#dbacl-at-the-trec-2005) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.lbSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lbtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/lb.pdf) 
 
 - :material-rename: **Run ID:** pub4full 
 - :fontawesome-solid-user-group: **Participant:** breyer.laird 
@@ -1491,7 +1491,7 @@
 
 ---
 #### PUC 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#puc) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** PUC 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1504,7 +1504,7 @@
 
 ---
 #### pucrs0 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1517,7 +1517,7 @@
 
 ---
 #### pucrs0full 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0full) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0full 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1528,7 +1528,7 @@
 
 ---
 #### pucrs0ham25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0ham25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0ham25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1539,7 +1539,7 @@
 
 ---
 #### pucrs0ham50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0ham50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0ham50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1550,7 +1550,7 @@
 
 ---
 #### pucrs0spam25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0spam25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0spam25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1561,7 +1561,7 @@
 
 ---
 #### pucrs0spam50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs0spam50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs0spam50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1572,7 +1572,7 @@
 
 ---
 #### pucrs1 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1585,7 +1585,7 @@
 
 ---
 #### pucrs1full 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1full) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1full 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1596,7 +1596,7 @@
 
 ---
 #### pucrs1ham25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1ham25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1ham25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1607,7 +1607,7 @@
 
 ---
 #### pucrs1ham50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1ham50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1ham50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1618,7 +1618,7 @@
 
 ---
 #### pucrs1spam25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1spam25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1spam25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1629,7 +1629,7 @@
 
 ---
 #### pucrs1spam50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs1spam50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs1spam50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1640,7 +1640,7 @@
 
 ---
 #### pucrs2 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1653,7 +1653,7 @@
 
 ---
 #### pucrs2full 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2full) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2full 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1664,7 +1664,7 @@
 
 ---
 #### pucrs2ham25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2ham25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2ham25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1675,7 +1675,7 @@
 
 ---
 #### pucrs2ham50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2ham50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2ham50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1686,7 +1686,7 @@
 
 ---
 #### pucrs2spam25 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2spam25) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2spam25 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1697,7 +1697,7 @@
 
 ---
 #### pucrs2spam50 
-[**`Participants`**](./participants.md#puc-rsterra), [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#pucrs2spam50) | [**`Participants`**](./participants.md#puc-rsterra) | [**`Proceedings`**](./proceedings.md#simple-language-models-for-spam-detection) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.pucSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucmrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/pucsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puctm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/puc.pdf) 
 
 - :material-rename: **Run ID:** pucrs2spam50 
 - :fontawesome-solid-user-group: **Participant:** puc-rs.terra 
@@ -1708,7 +1708,7 @@
 
 ---
 #### tamSPAM1dte 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1dte) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1dte 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1721,7 +1721,7 @@
 
 ---
 #### tamSPAM1full 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1full) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1full 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1732,7 +1732,7 @@
 
 ---
 #### tamSPAM1h25 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1h25) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1h25 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1743,7 +1743,7 @@
 
 ---
 #### tamSPAM1h50 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1h50) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1h50 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1754,7 +1754,7 @@
 
 ---
 #### tamSPAM1s25 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1s25) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1s25 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1765,7 +1765,7 @@
 
 ---
 #### tamSPAM1s50 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam1s50) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM1s50 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1776,7 +1776,7 @@
 
 ---
 #### tamSPAM2ber 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2ber) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2ber 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1789,7 +1789,7 @@
 
 ---
 #### tamSPAM2full 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2full) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2full 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1800,7 +1800,7 @@
 
 ---
 #### tamSPAM2h25 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2h25) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2h25 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1811,7 +1811,7 @@
 
 ---
 #### tamSPAM2h50 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2h50) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2h50 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1822,7 +1822,7 @@
 
 ---
 #### tamSPAM2s25 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2s25) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2s25 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1833,7 +1833,7 @@
 
 ---
 #### tamSPAM2s50 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam2s50) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM2s50 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1844,7 +1844,7 @@
 
 ---
 #### tamSPAM3bex 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam3bex) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM3bex 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1857,7 +1857,7 @@
 
 ---
 #### tamSPAM3full 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam3full) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM3full 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1868,7 +1868,7 @@
 
 ---
 #### tamSPAM3s25 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam3s25) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM3s25 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1879,7 +1879,7 @@
 
 ---
 #### tamSPAM4aex 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspam4aex) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAM4aex 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1892,7 +1892,7 @@
 
 ---
 #### tamSPAMpplt 
-[**`Participants`**](./participants.md#masseyumeyer), [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#tamspampplt) | [**`Participants`**](./participants.md#masseyumeyer) | [**`Proceedings`**](./proceedings.md#a-trec-along-the-spam-track-with-spambayes) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.tamSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamagg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tammrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tamtm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/tam.pdf) 
 
 - :material-rename: **Run ID:** tamSPAMpplt 
 - :fontawesome-solid-user-group: **Participant:** masseyu.meyer 
@@ -1905,7 +1905,7 @@
 
 ---
 #### yorSPAM1full 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1full) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1full 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1916,7 +1916,7 @@
 
 ---
 #### yorSPAM1ham2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1ham2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1ham2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1927,7 +1927,7 @@
 
 ---
 #### yorSPAM1ham5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1ham5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1ham5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1938,7 +1938,7 @@
 
 ---
 #### yorSPAM1knf 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1knf) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1knf 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1951,7 +1951,7 @@
 
 ---
 #### yorSPAM1spa2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1spa2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1spa2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1962,7 +1962,7 @@
 
 ---
 #### yorSPAM1spa5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam1spa5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM1spa5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1973,7 +1973,7 @@
 
 ---
 #### yorSPAM2full 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2full) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2full 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1984,7 +1984,7 @@
 
 ---
 #### yorSPAM2ham2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2ham2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2ham2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -1995,7 +1995,7 @@
 
 ---
 #### yorSPAM2ham5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2ham5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2ham5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2006,7 +2006,7 @@
 
 ---
 #### yorSPAM2ruk 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2ruk) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2ruk 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2015,11 +2015,11 @@
 - :material-upload: **Submission:** 7/29/2005 
 - :fontawesome-solid-user-gear: **Type:** final 
 - :material-text-search: **Task:** filter 
-- :material-text: **Run description:** Our filter reuses SpamAssassin’s code to do rule analysis, SA returns a preliminary result. The modified SA returns a parsed text to kNN which then do classify again. The final result is determined base on SA and kNN. In the training part, we use auto learning and then train on errors.   
+- :material-text: **Run description:** Our filter reuses SpamAssassins code to do rule analysis, SA returns a preliminary result. The modified SA returns a parsed text to kNN which then do classify again. The final result is determined base on SA and kNN. In the training part, we use auto learning and then train on errors.   
 
 ---
 #### yorSPAM2spa2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2spa2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2spa2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2030,7 +2030,7 @@
 
 ---
 #### yorSPAM2spa5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam2spa5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM2spa5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2041,7 +2041,7 @@
 
 ---
 #### yorSPAM3full 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3full) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3full 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2052,7 +2052,7 @@
 
 ---
 #### yorSPAM3ham2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3ham2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3ham2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2063,7 +2063,7 @@
 
 ---
 #### yorSPAM3ham5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3ham5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3ham5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2074,7 +2074,7 @@
 
 ---
 #### yorSPAM3knf 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3knf) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3knf 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2087,7 +2087,7 @@
 
 ---
 #### yorSPAM3spa2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3spa2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3spa2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2098,7 +2098,7 @@
 
 ---
 #### yorSPAM3spa5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam3spa5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM3spa5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2109,7 +2109,7 @@
 
 ---
 #### yorSPAM4full 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4full) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4full 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2120,7 +2120,7 @@
 
 ---
 #### yorSPAM4ham2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4ham2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4ham2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2131,7 +2131,7 @@
 
 ---
 #### yorSPAM4ham5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4ham5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4ham5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2142,7 +2142,7 @@
 
 ---
 #### yorSPAM4hyb 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4hyb) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4hyb 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2151,11 +2151,11 @@
 - :material-upload: **Submission:** 7/29/2005 
 - :fontawesome-solid-user-gear: **Type:** final 
 - :material-text-search: **Task:** filter 
-- :material-text: **Run description:** This filter is a combination of kNN, NaïveBayes and RandomForest tree learning. 
+- :material-text: **Run description:** This filter is a combination of kNN, NaveBayes and RandomForest tree learning. 
 
 ---
 #### yorSPAM4spa2 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4spa2) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4spa2 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2166,7 +2166,7 @@
 
 ---
 #### yorSPAM4spa5 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspam4spa5) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAM4spa5 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 
@@ -2177,7 +2177,7 @@
 
 ---
 #### yorSPAMpknn 
-[**`Participants`**](./participants.md#yorkuhuang), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec14/appendices/spam.results.html) 
+[**`Results`**](./results.md#yorspampknn) | [**`Participants`**](./participants.md#yorkuhuang) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2005-spam-track) | [**`Summary`**](https://trec.nist.gov/results/trec14/spam/summary.yorSPAM.tgz) | [**`Appendix (aggregate results)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yoragg.pdf) | [**`Appendix (public corpus [full])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorfull.pdf) | [**`Appendix (Mr. X Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yormrx.pdf) | [**`Appendix (S.B. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yorsb.pdf) | [**`Appendix (T.M. Private corpus)`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yortm.pdf) | [**`Appendix (public corpus [five subsets])`**](https://trec.nist.gov/pubs/trec14/appendices/spam/yor.pdf) 
 
 - :material-rename: **Run ID:** yorSPAMpknn 
 - :fontawesome-solid-user-group: **Participant:** yorku.huang 

@@ -1,7 +1,7 @@
 # Runs - Incident Streams 2018 
 
 #### cbnuC1 
-[**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuC1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
+[**`Participants`**](./participants.md#cbnu) | [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuC1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
 
 - :material-rename: **Run ID:** cbnuC1 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
@@ -15,7 +15,7 @@
 
 ---
 #### cbnuC2 
-[**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuC2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
+[**`Participants`**](./participants.md#cbnu) | [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuC2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
 
 - :material-rename: **Run ID:** cbnuC2 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
@@ -29,7 +29,7 @@
 
 ---
 #### cbnuS1 
-[**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
+[**`Participants`**](./participants.md#cbnu) | [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
 
 - :material-rename: **Run ID:** cbnuS1 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
@@ -43,7 +43,7 @@
 
 ---
 #### cbnuS2 
-[**`Participants`**](./participants.md#cbnu), [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
+[**`Participants`**](./participants.md#cbnu) | [**`Proceedings`**](./proceedings.md#cbnu-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.cbnuS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/cbnu.pdf) 
 
 - :material-rename: **Run ID:** cbnuS2 
 - :fontawesome-solid-user-group: **Participant:** cbnu 
@@ -57,7 +57,7 @@
 
 ---
 #### DLR_Augmented 
-[**`Participants`**](./participants.md#dlr_dw_bws), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Augmented.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
+[**`Participants`**](./participants.md#dlr_dw_bws) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Augmented.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
 
 - :material-rename: **Run ID:** DLR_Augmented 
 - :fontawesome-solid-user-group: **Participant:** DLR_DW_BWS 
@@ -71,7 +71,7 @@
 
 ---
 #### DLR_Baseline 
-[**`Participants`**](./participants.md#dlr_dw_bws), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Baseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
+[**`Participants`**](./participants.md#dlr_dw_bws) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Baseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
 
 - :material-rename: **Run ID:** DLR_Baseline 
 - :fontawesome-solid-user-group: **Participant:** DLR_DW_BWS 
@@ -85,7 +85,7 @@
 
 ---
 #### DLR_Fusion 
-[**`Participants`**](./participants.md#dlr_dw_bws), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Fusion.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
+[**`Participants`**](./participants.md#dlr_dw_bws) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Fusion.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
 
 - :material-rename: **Run ID:** DLR_Fusion 
 - :fontawesome-solid-user-group: **Participant:** DLR_DW_BWS 
@@ -99,7 +99,7 @@
 
 ---
 #### DLR_Simple_CNN 
-[**`Participants`**](./participants.md#dlr_dw_bws), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Simple_CNN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
+[**`Participants`**](./participants.md#dlr_dw_bws) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.DLR_Simple_CNN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DLR_DW_BWS.pdf) 
 
 - :material-rename: **Run ID:** DLR_Simple_CNN 
 - :fontawesome-solid-user-group: **Participant:** DLR_DW_BWS 
@@ -113,7 +113,7 @@
 
 ---
 #### IITBHU1 
-[**`Participants`**](./participants.md#iit-bhu), [**`Proceedings`**](./proceedings.md#iit-bhu-in-trec-2018-incidents-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.IITBHU1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/IIT-BHU.pdf) 
+[**`Participants`**](./participants.md#iit-bhu) | [**`Proceedings`**](./proceedings.md#iit-bhu-in-trec-2018-incidents-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.IITBHU1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/IIT-BHU.pdf) 
 
 - :material-rename: **Run ID:** IITBHU1 
 - :fontawesome-solid-user-group: **Participant:** IIT-BHU 
@@ -127,7 +127,7 @@
 
 ---
 #### IITBHU12 
-[**`Participants`**](./participants.md#iit-bhu), [**`Proceedings`**](./proceedings.md#iit-bhu-in-trec-2018-incidents-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.IITBHU12.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/IIT-BHU.pdf) 
+[**`Participants`**](./participants.md#iit-bhu) | [**`Proceedings`**](./proceedings.md#iit-bhu-in-trec-2018-incidents-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.IITBHU12.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/IIT-BHU.pdf) 
 
 - :material-rename: **Run ID:** IITBHU12 
 - :fontawesome-solid-user-group: **Participant:** IIT-BHU 
@@ -141,7 +141,7 @@
 
 ---
 #### KDEIS1_CLSTM 
-[**`Participants`**](./participants.md#kdeis), [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS1_CLSTM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
+[**`Participants`**](./participants.md#kdeis) | [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS1_CLSTM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
 
 - :material-rename: **Run ID:** KDEIS1_CLSTM 
 - :fontawesome-solid-user-group: **Participant:** KDEIS 
@@ -155,7 +155,7 @@
 
 ---
 #### KDEIS2_ACBLSTM 
-[**`Participants`**](./participants.md#kdeis), [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS2_ACBLSTM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
+[**`Participants`**](./participants.md#kdeis) | [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS2_ACBLSTM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
 
 - :material-rename: **Run ID:** KDEIS2_ACBLSTM 
 - :fontawesome-solid-user-group: **Participant:** KDEIS 
@@ -169,7 +169,7 @@
 
 ---
 #### KDEIS3_ACSBLSTM 
-[**`Participants`**](./participants.md#kdeis), [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS3_ACSBLSTM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
+[**`Participants`**](./participants.md#kdeis) | [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS3_ACSBLSTM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
 
 - :material-rename: **Run ID:** KDEIS3_ACSBLSTM 
 - :fontawesome-solid-user-group: **Participant:** KDEIS 
@@ -183,7 +183,7 @@
 
 ---
 #### KDEIS4_DM 
-[**`Participants`**](./participants.md#kdeis), [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS4_DM.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
+[**`Participants`**](./participants.md#kdeis) | [**`Proceedings`**](./proceedings.md#neural-networks-and-support-vector-machine-based-approach-for-classifying-tweets-by-information-types-at-trec-2018-incident-streams-task) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.KDEIS4_DM.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/KDEIS.pdf) 
 
 - :material-rename: **Run ID:** KDEIS4_DM 
 - :fontawesome-solid-user-group: **Participant:** KDEIS 
@@ -197,7 +197,7 @@
 
 ---
 #### myrun-10 
-[**`Participants`**](./participants.md#epic_mr), [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-10.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
+[**`Participants`**](./participants.md#epic_mr) | [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-10.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
 
 - :material-rename: **Run ID:** myrun-10 
 - :fontawesome-solid-user-group: **Participant:** EPIC_MR 
@@ -211,7 +211,7 @@
 
 ---
 #### myrun-11 
-[**`Participants`**](./participants.md#epic_mr), [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
+[**`Participants`**](./participants.md#epic_mr) | [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
 
 - :material-rename: **Run ID:** myrun-11 
 - :fontawesome-solid-user-group: **Participant:** EPIC_MR 
@@ -225,7 +225,7 @@
 
 ---
 #### myrun-2 
-[**`Participants`**](./participants.md#epic_mr), [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
+[**`Participants`**](./participants.md#epic_mr) | [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
 
 - :material-rename: **Run ID:** myrun-2 
 - :fontawesome-solid-user-group: **Participant:** EPIC_MR 
@@ -239,7 +239,7 @@
 
 ---
 #### myrun-21 
-[**`Participants`**](./participants.md#epic_mr), [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-21.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
+[**`Participants`**](./participants.md#epic_mr) | [**`Proceedings`**](./proceedings.md#epic-mr-participation-in-the-trec-2018-incidence-stream-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun-21.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/EPIC_MR.pdf) 
 
 - :material-rename: **Run ID:** myrun-21 
 - :fontawesome-solid-user-group: **Participant:** EPIC_MR 
@@ -253,7 +253,7 @@
 
 ---
 #### myrun1 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/BJUT.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/BJUT.pdf) 
 
 - :material-rename: **Run ID:** myrun1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -267,7 +267,7 @@
 
 ---
 #### myrun2 
-[**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/BJUT.pdf) 
+[**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.myrun2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/BJUT.pdf) 
 
 - :material-rename: **Run ID:** myrun2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -281,7 +281,7 @@
 
 ---
 #### NHK_run1 
-[**`Participants`**](./participants.md#nhk), [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
+[**`Participants`**](./participants.md#nhk) | [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
 
 - :material-rename: **Run ID:** NHK_run1 
 - :fontawesome-solid-user-group: **Participant:** NHK 
@@ -295,7 +295,7 @@
 
 ---
 #### NHK_run2 
-[**`Participants`**](./participants.md#nhk), [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
+[**`Participants`**](./participants.md#nhk) | [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
 
 - :material-rename: **Run ID:** NHK_run2 
 - :fontawesome-solid-user-group: **Participant:** NHK 
@@ -309,7 +309,7 @@
 
 ---
 #### NHK_run3 
-[**`Participants`**](./participants.md#nhk), [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
+[**`Participants`**](./participants.md#nhk) | [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
 
 - :material-rename: **Run ID:** NHK_run3 
 - :fontawesome-solid-user-group: **Participant:** NHK 
@@ -323,7 +323,7 @@
 
 ---
 #### NHK_run4 
-[**`Participants`**](./participants.md#nhk), [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
+[**`Participants`**](./participants.md#nhk) | [**`Proceedings`**](./proceedings.md#nhk-strl-at-trec-2018-incident-streams-track) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.NHK_run4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/NHK.pdf) 
 
 - :material-rename: **Run ID:** NHK_run4 
 - :fontawesome-solid-user-group: **Participant:** NHK 
@@ -337,7 +337,7 @@
 
 ---
 #### SINAI_run1 
-[**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
+[**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
 
 - :material-rename: **Run ID:** SINAI_run1 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -351,7 +351,7 @@
 
 ---
 #### SINAI_run2 
-[**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
+[**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
 
 - :material-rename: **Run ID:** SINAI_run2 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -365,7 +365,7 @@
 
 ---
 #### SINAI_run3 
-[**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
+[**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
 
 - :material-rename: **Run ID:** SINAI_run3 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -379,7 +379,7 @@
 
 ---
 #### SINAI_run4 
-[**`Participants`**](./participants.md#sinai), [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
+[**`Participants`**](./participants.md#sinai) | [**`Proceedings`**](./proceedings.md#sinai-at-trec-2018-experiments-in-incident-streams) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.SINAI_run4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/SINAI.pdf) 
 
 - :material-rename: **Run ID:** SINAI_run4 
 - :fontawesome-solid-user-group: **Participant:** SINAI 
@@ -393,7 +393,7 @@
 
 ---
 #### umdhcilbaseline 
-[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilbaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
+[**`Participants`**](./participants.md#umd_hcil) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilbaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
 
 - :material-rename: **Run ID:** umdhcilbaseline 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -407,7 +407,7 @@
 
 ---
 #### umdhcilfasttext 
-[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilfasttext.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
+[**`Participants`**](./participants.md#umd_hcil) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilfasttext.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
 
 - :material-rename: **Run ID:** umdhcilfasttext 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -421,7 +421,7 @@
 
 ---
 #### umdhcilfts 
-[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilfts.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
+[**`Participants`**](./participants.md#umd_hcil) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilfts.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
 
 - :material-rename: **Run ID:** umdhcilfts 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -435,7 +435,7 @@
 
 ---
 #### umdhcilspread 
-[**`Participants`**](./participants.md#umd_hcil), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilspread.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
+[**`Participants`**](./participants.md#umd_hcil) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.umdhcilspread.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/umd_hcil.pdf) 
 
 - :material-rename: **Run ID:** umdhcilspread 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -449,7 +449,7 @@
 
 ---
 #### uogTr.R1.asp 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R1.asp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R1.asp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
 
 - :material-rename: **Run ID:** uogTr.R1.asp 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -463,7 +463,7 @@
 
 ---
 #### uogTr.R2.asp 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R2.asp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R2.asp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
 
 - :material-rename: **Run ID:** uogTr.R2.asp 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -477,7 +477,7 @@
 
 ---
 #### uogTr.R3.asp 
-[**`Participants`**](./participants.md#uogtr), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R3.asp.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.uogTr.R3.asp.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/uogTr.pdf) 
 
 - :material-rename: **Run ID:** uogTr.R3.asp 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -491,7 +491,7 @@
 
 ---
 #### UPB_DICE1 
-[**`Participants`**](./participants.md#dice-upb), [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
+[**`Participants`**](./participants.md#dice-upb) | [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
 
 - :material-rename: **Run ID:** UPB_DICE1 
 - :fontawesome-solid-user-group: **Participant:** DICE-UPB 
@@ -505,7 +505,7 @@
 
 ---
 #### UPB_DICE2 
-[**`Participants`**](./participants.md#dice-upb), [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
+[**`Participants`**](./participants.md#dice-upb) | [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
 
 - :material-rename: **Run ID:** UPB_DICE2 
 - :fontawesome-solid-user-group: **Participant:** DICE-UPB 
@@ -519,7 +519,7 @@
 
 ---
 #### UPB_DICE3 
-[**`Participants`**](./participants.md#dice-upb), [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
+[**`Participants`**](./participants.md#dice-upb) | [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
 
 - :material-rename: **Run ID:** UPB_DICE3 
 - :fontawesome-solid-user-group: **Participant:** DICE-UPB 
@@ -533,7 +533,7 @@
 
 ---
 #### UPB_DICE4 
-[**`Participants`**](./participants.md#dice-upb), [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets), [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
+[**`Participants`**](./participants.md#dice-upb) | [**`Proceedings`**](./proceedings.md#dice-trec-is-2018-combining-knowledge-graphs-and-deep-learning-to-identify-crisis-relevant-tweets) | [**`Input`**](https://trec.nist.gov/results/trec27/incident/input.UPB_DICE4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec27/appendices/incident/DICE-UPB.pdf) 
 
 - :material-rename: **Run ID:** UPB_DICE4 
 - :fontawesome-solid-user-group: **Participant:** DICE-UPB 

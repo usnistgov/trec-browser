@@ -1,7 +1,7 @@
 # Runs - Fair Ranking 2020 
 
 #### Deltr-gammas 
-[**`Participants`**](./participants.md#mtg), [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.Deltr-gammas.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.Deltr-gammas), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/Deltr-gammas.pdf) 
+[**`Participants`**](./participants.md#mtg) | [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.Deltr-gammas.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.Deltr-gammas) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/Deltr-gammas.pdf) 
 
 - :material-rename: **Run ID:** Deltr-gammas 
 - :fontawesome-solid-user-group: **Participant:** MTG 
@@ -14,7 +14,7 @@
 
 ---
 #### LM-rel-groups 
-[**`Participants`**](./participants.md#mtg), [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-rel-groups.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-rel-groups), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-rel-groups.pdf) 
+[**`Participants`**](./participants.md#mtg) | [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-rel-groups.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-rel-groups) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-rel-groups.pdf) 
 
 - :material-rename: **Run ID:** LM-rel-groups 
 - :fontawesome-solid-user-group: **Participant:** MTG 
@@ -27,7 +27,7 @@
 
 ---
 #### LM-rel-year-100 
-[**`Participants`**](./participants.md#mtg), [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-rel-year-100.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-rel-year-100), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-rel-year-100.pdf) 
+[**`Participants`**](./participants.md#mtg) | [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-rel-year-100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-rel-year-100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-rel-year-100.pdf) 
 
 - :material-rename: **Run ID:** LM-rel-year-100 
 - :fontawesome-solid-user-group: **Participant:** MTG 
@@ -40,7 +40,7 @@
 
 ---
 #### LM-relev-year 
-[**`Participants`**](./participants.md#mtg), [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-relev-year.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-relev-year), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-relev-year.pdf) 
+[**`Participants`**](./participants.md#mtg) | [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-relev-year.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-relev-year) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-relev-year.pdf) 
 
 - :material-rename: **Run ID:** LM-relev-year 
 - :fontawesome-solid-user-group: **Participant:** MTG 
@@ -53,7 +53,7 @@
 
 ---
 #### LM-relevance 
-[**`Participants`**](./participants.md#mtg), [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-relevance.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-relevance), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-relevance.pdf) 
+[**`Participants`**](./participants.md#mtg) | [**`Proceedings`**](./proceedings.md#balancing-exposure-and-relevance-in-academic-search) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.LM-relevance.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.LM-relevance) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/LM-relevance.pdf) 
 
 - :material-rename: **Run ID:** LM-relevance 
 - :fontawesome-solid-user-group: **Participant:** MTG 
@@ -66,7 +66,7 @@
 
 ---
 #### MacEwan-base 
-[**`Participants`**](./participants.md#macewan_biz), [**`Proceedings`**](./proceedings.md#macewan-university-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.MacEwan-base.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.MacEwan-base), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/MacEwan-base.pdf) 
+[**`Participants`**](./participants.md#macewan_biz) | [**`Proceedings`**](./proceedings.md#macewan-university-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.MacEwan-base.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.MacEwan-base) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/MacEwan-base.pdf) 
 
 - :material-rename: **Run ID:** MacEwan-base 
 - :fontawesome-solid-user-group: **Participant:** MacEwan_Biz 
@@ -79,7 +79,7 @@
 
 ---
 #### MacEwan-norm 
-[**`Participants`**](./participants.md#macewan_biz), [**`Proceedings`**](./proceedings.md#macewan-university-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.MacEwan-norm.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.MacEwan-norm), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/MacEwan-norm.pdf) 
+[**`Participants`**](./participants.md#macewan_biz) | [**`Proceedings`**](./proceedings.md#macewan-university-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.MacEwan-norm.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.MacEwan-norm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/MacEwan-norm.pdf) 
 
 - :material-rename: **Run ID:** MacEwan-norm 
 - :fontawesome-solid-user-group: **Participant:** MacEwan_Biz 
@@ -92,7 +92,7 @@
 
 ---
 #### NLE_META_99_1 
-[**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_99_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_99_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_99_1.pdf) 
+[**`Participants`**](./participants.md#nle) | [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_99_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_99_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_99_1.pdf) 
 
 - :material-rename: **Run ID:** NLE_META_99_1 
 - :fontawesome-solid-user-group: **Participant:** NLE 
@@ -105,7 +105,7 @@
 
 ---
 #### NLE_META_9_1 
-[**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_9_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_9_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_9_1.pdf) 
+[**`Participants`**](./participants.md#nle) | [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_9_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_9_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_9_1.pdf) 
 
 - :material-rename: **Run ID:** NLE_META_9_1 
 - :fontawesome-solid-user-group: **Participant:** NLE 
@@ -118,7 +118,7 @@
 
 ---
 #### NLE_META_PKL 
-[**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_PKL.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_PKL), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_PKL.pdf) 
+[**`Participants`**](./participants.md#nle) | [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_META_PKL.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_META_PKL) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_META_PKL.pdf) 
 
 - :material-rename: **Run ID:** NLE_META_PKL 
 - :fontawesome-solid-user-group: **Participant:** NLE 
@@ -131,7 +131,7 @@
 
 ---
 #### NLE_TEXT_99_1 
-[**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_TEXT_99_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_TEXT_99_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_TEXT_99_1.pdf) 
+[**`Participants`**](./participants.md#nle) | [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_TEXT_99_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_TEXT_99_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_TEXT_99_1.pdf) 
 
 - :material-rename: **Run ID:** NLE_TEXT_99_1 
 - :fontawesome-solid-user-group: **Participant:** NLE 
@@ -144,7 +144,7 @@
 
 ---
 #### NLE_TEXT_9_1 
-[**`Participants`**](./participants.md#nle), [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_TEXT_9_1.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_TEXT_9_1), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_TEXT_9_1.pdf) 
+[**`Participants`**](./participants.md#nle) | [**`Proceedings`**](./proceedings.md#naver-labs-europe-at-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.NLE_TEXT_9_1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.NLE_TEXT_9_1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/NLE_TEXT_9_1.pdf) 
 
 - :material-rename: **Run ID:** NLE_TEXT_9_1 
 - :fontawesome-solid-user-group: **Participant:** NLE 
@@ -157,7 +157,7 @@
 
 ---
 #### umd_relfair_ltr 
-[**`Participants`**](./participants.md#umd_ir), [**`Proceedings`**](./proceedings.md#the-university-of-maryland-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.umd_relfair_ltr.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.umd_relfair_ltr), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/umd_relfair_ltr.pdf) 
+[**`Participants`**](./participants.md#umd_ir) | [**`Proceedings`**](./proceedings.md#the-university-of-maryland-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.umd_relfair_ltr.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.umd_relfair_ltr) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/umd_relfair_ltr.pdf) 
 
 - :material-rename: **Run ID:** umd_relfair_ltr 
 - :fontawesome-solid-user-group: **Participant:** UMD_IR 
@@ -170,7 +170,7 @@
 
 ---
 #### UoGTrBComFu 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComFu.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComFu), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComFu.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComFu.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComFu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComFu.pdf) 
 
 - :material-rename: **Run ID:** UoGTrBComFu 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -183,7 +183,7 @@
 
 ---
 #### UoGTrBComPro 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComPro.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComPro), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComPro.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComPro.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComPro) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComPro.pdf) 
 
 - :material-rename: **Run ID:** UoGTrBComPro 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -196,7 +196,7 @@
 
 ---
 #### UoGTrBComRel 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComRel.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComRel), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComRel.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBComRel.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBComRel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBComRel.pdf) 
 
 - :material-rename: **Run ID:** UoGTrBComRel 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -209,7 +209,7 @@
 
 ---
 #### UoGTrBRel 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBRel.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBRel), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBRel.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrBRel.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrBRel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrBRel.pdf) 
 
 - :material-rename: **Run ID:** UoGTrBRel 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -222,7 +222,7 @@
 
 ---
 #### UoGTrComRel 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrComRel.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrComRel), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrComRel.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-at-the-trec-2020-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UoGTrComRel.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UoGTrComRel) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UoGTrComRel.pdf) 
 
 - :material-rename: **Run ID:** UoGTrComRel 
 - :fontawesome-solid-user-group: **Participant:** UoGTr 
@@ -235,7 +235,7 @@
 
 ---
 #### UW_bm25 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_bm25.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_bm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_bm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_bm25.pdf) 
 
 - :material-rename: **Run ID:** UW_bm25 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -248,7 +248,7 @@
 
 ---
 #### UW_Kr_r0g0c100 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r0g0c100.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r0g0c100), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r0g0c100.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r0g0c100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r0g0c100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r0g0c100.pdf) 
 
 - :material-rename: **Run ID:** UW_Kr_r0g0c100 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -261,7 +261,7 @@
 
 ---
 #### UW_Kr_r0g100c0 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r0g100c0.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r0g100c0), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r0g100c0.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r0g100c0.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r0g100c0) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r0g100c0.pdf) 
 
 - :material-rename: **Run ID:** UW_Kr_r0g100c0 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -274,7 +274,7 @@
 
 ---
 #### UW_Kr_r25g25c50 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r25g25c50.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r25g25c50), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r25g25c50.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r25g25c50.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r25g25c50) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r25g25c50.pdf) 
 
 - :material-rename: **Run ID:** UW_Kr_r25g25c50 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -287,7 +287,7 @@
 
 ---
 #### UW_Kr_r60g20c20 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r60g20c20.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r60g20c20), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r60g20c20.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kr_r60g20c20.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kr_r60g20c20) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kr_r60g20c20.pdf) 
 
 - :material-rename: **Run ID:** UW_Kr_r60g20c20 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -300,7 +300,7 @@
 
 ---
 #### UW_Kt_r0g0c100 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r0g0c100.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r0g0c100), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r0g0c100.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r0g0c100.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r0g0c100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r0g0c100.pdf) 
 
 - :material-rename: **Run ID:** UW_Kt_r0g0c100 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -313,7 +313,7 @@
 
 ---
 #### UW_Kt_r25g25c50 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r25g25c50.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r25g25c50), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r25g25c50.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r25g25c50.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r25g25c50) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r25g25c50.pdf) 
 
 - :material-rename: **Run ID:** UW_Kt_r25g25c50 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -326,7 +326,7 @@
 
 ---
 #### UW_Kt_r60g20c20 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r60g20c20.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r60g20c20), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r60g20c20.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r60g20c20.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r60g20c20) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r60g20c20.pdf) 
 
 - :material-rename: **Run ID:** UW_Kt_r60g20c20 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -339,7 +339,7 @@
 
 ---
 #### UW_Kt_r80g10c10 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r80g10c10.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r80g10c10), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r80g10c10.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_Kt_r80g10c10.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_Kt_r80g10c10) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_Kt_r80g10c10.pdf) 
 
 - :material-rename: **Run ID:** UW_Kt_r80g10c10 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 
@@ -352,7 +352,7 @@
 
 ---
 #### UW_t_bm25 
-[**`Participants`**](./participants.md#infoseeking), [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_t_bm25.gz), [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_t_bm25), [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_t_bm25.pdf) 
+[**`Participants`**](./participants.md#infoseeking) | [**`Proceedings`**](./proceedings.md#university-of-washington-at-trec-2020-fairness-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec29/fair/input.UW_t_bm25.gz) | [**`Summary`**](https://trec.nist.gov/results/trec29/fair/summary.UW_t_bm25) | [**`Appendix`**](https://trec.nist.gov/pubs/trec29/appendices/fair/UW_t_bm25.pdf) 
 
 - :material-rename: **Run ID:** UW_t_bm25 
 - :fontawesome-solid-user-group: **Participant:** InfoSeeking 

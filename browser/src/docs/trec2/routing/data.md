@@ -1,6 +1,6 @@
 # Data - Routing 1993 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/results/trec2/index.html`](https://trec.nist.gov/results/trec2/index.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/results/trec2/index.html`](https://trec.nist.gov/results/trec2/index.html)
 
 ---
 
@@ -11,4 +11,4 @@
 
 ---
 
-**Other:** [`qrels.51-100.disk3.part1.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part1.gz), [`qrels.51-100.disk3.part2.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part2.gz), [`qrels.51-100.disk3.part3.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part3.gz), [`qrels.51-100.disk3.part4.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part4.gz), [`qrels.51-100.disk3.part5.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part5.gz)
+**Other:** [`qrels.51-100.disk3.part1.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part1.gz) | [`qrels.51-100.disk3.part2.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part2.gz) | [`qrels.51-100.disk3.part3.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part3.gz) | [`qrels.51-100.disk3.part4.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part4.gz) | [`qrels.51-100.disk3.part5.gz`](https://trec.nist.gov/data/qrels_eng/qrels.51-100.disk3.part5.gz)

@@ -1,7 +1,7 @@
 # Runs - Million Query 2007 
 
 #### exegyexact 
-[**`Results`**](./results.md#exegyexact), [**`Participants`**](./participants.md#exegyindeck), [**`Proceedings`**](./proceedings.md#exegy-at-trec-2007-million-query-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.exegyexact.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.exegyexact.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.exegyexact.gz) 
+[**`Results`**](./results.md#exegyexact) | [**`Participants`**](./participants.md#exegyindeck) | [**`Proceedings`**](./proceedings.md#exegy-at-trec-2007-million-query-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.exegyexact.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.exegyexact.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.exegyexact.gz) 
 
 - :material-rename: **Run ID:** exegyexact 
 - :fontawesome-solid-user-group: **Participant:** exegy.indeck 
@@ -13,7 +13,7 @@
 
 ---
 #### ffind07c 
-[**`Results`**](./results.md#ffind07c), [**`Participants`**](./participants.md#ualaskanewby), [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07c.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07c.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07c.gz) 
+[**`Results`**](./results.md#ffind07c) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07c.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07c.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07c.gz) 
 
 - :material-rename: **Run ID:** ffind07c 
 - :fontawesome-solid-user-group: **Participant:** ualaska.newby 
@@ -25,7 +25,7 @@
 
 ---
 #### ffind07d 
-[**`Results`**](./results.md#ffind07d), [**`Participants`**](./participants.md#ualaskanewby), [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07d.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07d.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07d.gz) 
+[**`Results`**](./results.md#ffind07d) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07d.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07d.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07d.gz) 
 
 - :material-rename: **Run ID:** ffind07d 
 - :fontawesome-solid-user-group: **Participant:** ualaska.newby 
@@ -37,7 +37,7 @@
 
 ---
 #### hedge0 
-[**`Results`**](./results.md#hedge0), [**`Participants`**](./participants.md#northeasteruaslam), [**`Proceedings`**](./proceedings.md#the-hedge-algorithm-for-metasearch-at-trec-2007), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hedge0.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hedge0.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hedge0.gz) 
+[**`Results`**](./results.md#hedge0) | [**`Participants`**](./participants.md#northeasteruaslam) | [**`Proceedings`**](./proceedings.md#the-hedge-algorithm-for-metasearch-at-trec-2007) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hedge0.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hedge0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hedge0.gz) 
 
 - :material-rename: **Run ID:** hedge0 
 - :fontawesome-solid-user-group: **Participant:** northeasteru.aslam 
@@ -49,7 +49,7 @@
 
 ---
 #### hitir2007mq 
-[**`Results`**](./results.md#hitir2007mq), [**`Participants`**](./participants.md#heilongjiang-itqi), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hitir2007mq.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hitir2007mq.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hitir2007mq.gz) 
+[**`Results`**](./results.md#hitir2007mq) | [**`Participants`**](./participants.md#heilongjiang-itqi) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hitir2007mq.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hitir2007mq.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hitir2007mq.gz) 
 
 - :material-rename: **Run ID:** hitir2007mq 
 - :fontawesome-solid-user-group: **Participant:** heilongjiang-it.qi 
@@ -61,7 +61,7 @@
 
 ---
 #### indriDM 
-[**`Results`**](./results.md#indridm), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDM.gz) 
+[**`Results`**](./results.md#indridm) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDM.gz) 
 
 - :material-rename: **Run ID:** indriDM 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -73,7 +73,7 @@
 
 ---
 #### indriDMCSC 
-[**`Results`**](./results.md#indridmcsc), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDMCSC.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDMCSC.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDMCSC.gz) 
+[**`Results`**](./results.md#indridmcsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDMCSC.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDMCSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDMCSC.gz) 
 
 - :material-rename: **Run ID:** indriDMCSC 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -85,7 +85,7 @@
 
 ---
 #### indriQL 
-[**`Results`**](./results.md#indriql), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQL.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQL.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQL.gz) 
+[**`Results`**](./results.md#indriql) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQL.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQL.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQL.gz) 
 
 - :material-rename: **Run ID:** indriQL 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -97,7 +97,7 @@
 
 ---
 #### indriQLSC 
-[**`Results`**](./results.md#indriqlsc), [**`Participants`**](./participants.md#umassallan), [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQLSC.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQLSC.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQLSC.gz) 
+[**`Results`**](./results.md#indriqlsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQLSC.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQLSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQLSC.gz) 
 
 - :material-rename: **Run ID:** indriQLSC 
 - :fontawesome-solid-user-group: **Participant:** umass.allan 
@@ -109,7 +109,7 @@
 
 ---
 #### JuruSynE 
-[**`Results`**](./results.md#jurusyne), [**`Participants`**](./participants.md#ibmcarmel), [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.JuruSynE.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.JuruSynE.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.JuruSynE.gz) 
+[**`Results`**](./results.md#jurusyne) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.JuruSynE.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.JuruSynE.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.JuruSynE.gz) 
 
 - :material-rename: **Run ID:** JuruSynE 
 - :fontawesome-solid-user-group: **Participant:** ibm.carmel 
@@ -121,7 +121,7 @@
 
 ---
 #### LucSpel0 
-[**`Results`**](./results.md#lucspel0), [**`Participants`**](./participants.md#ibmcarmel), [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSpel0.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSpel0.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSpel0.gz) 
+[**`Results`**](./results.md#lucspel0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSpel0.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSpel0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSpel0.gz) 
 
 - :material-rename: **Run ID:** LucSpel0 
 - :fontawesome-solid-user-group: **Participant:** ibm.carmel 
@@ -133,7 +133,7 @@
 
 ---
 #### LucSyn0 
-[**`Results`**](./results.md#lucsyn0), [**`Participants`**](./participants.md#ibmcarmel), [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSyn0.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSyn0.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSyn0.gz) 
+[**`Results`**](./results.md#lucsyn0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSyn0.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSyn0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSyn0.gz) 
 
 - :material-rename: **Run ID:** LucSyn0 
 - :fontawesome-solid-user-group: **Participant:** ibm.carmel 
@@ -145,7 +145,7 @@
 
 ---
 #### LucSynEx 
-[**`Results`**](./results.md#lucsynex), [**`Participants`**](./participants.md#ibmcarmel), [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSynEx.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSynEx.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSynEx.gz) 
+[**`Results`**](./results.md#lucsynex) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSynEx.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSynEx.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSynEx.gz) 
 
 - :material-rename: **Run ID:** LucSynEx 
 - :fontawesome-solid-user-group: **Participant:** ibm.carmel 
@@ -157,7 +157,7 @@
 
 ---
 #### rmitbase 
-[**`Results`**](./results.md#rmitbase), [**`Participants`**](./participants.md#rmituscholer), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.rmitbase.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.rmitbase.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.rmitbase.gz) 
+[**`Results`**](./results.md#rmitbase) | [**`Participants`**](./participants.md#rmituscholer) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.rmitbase.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.rmitbase.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.rmitbase.gz) 
 
 - :material-rename: **Run ID:** rmitbase 
 - :fontawesome-solid-user-group: **Participant:** rmitu.scholer 
@@ -169,7 +169,7 @@
 
 ---
 #### sabmq07a1 
-[**`Results`**](./results.md#sabmq07a1), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07a1.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07a1.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07a1.gz) 
+[**`Results`**](./results.md#sabmq07a1) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07a1.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07a1.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07a1.gz) 
 
 - :material-rename: **Run ID:** sabmq07a1 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -181,7 +181,7 @@
 
 ---
 #### sabmq07sam 
-[**`Results`**](./results.md#sabmq07sam), [**`Participants`**](./participants.md#sabirbuckley), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07sam.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07sam.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07sam.gz) 
+[**`Results`**](./results.md#sabmq07sam) | [**`Participants`**](./participants.md#sabirbuckley) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07sam.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07sam.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07sam.gz) 
 
 - :material-rename: **Run ID:** sabmq07sam 
 - :fontawesome-solid-user-group: **Participant:** sabir.buckley 
@@ -193,7 +193,7 @@
 
 ---
 #### UAmsT06tAnLM 
-[**`Results`**](./results.md#uamst06tanlm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tAnLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tAnLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tAnLM.gz) 
+[**`Results`**](./results.md#uamst06tanlm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tAnLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tAnLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tAnLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT06tAnLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -205,7 +205,7 @@
 
 ---
 #### UAmsT06tAnVS 
-[**`Results`**](./results.md#uamst06tanvs), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tAnVS.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tAnVS.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tAnVS.gz) 
+[**`Results`**](./results.md#uamst06tanvs) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tAnVS.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tAnVS.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tAnVS.gz) 
 
 - :material-rename: **Run ID:** UAmsT06tAnVS 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -217,7 +217,7 @@
 
 ---
 #### UAmsT06tTeLM 
-[**`Results`**](./results.md#uamst06ttelm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTeLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTeLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTeLM.gz) 
+[**`Results`**](./results.md#uamst06ttelm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTeLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTeLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTeLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT06tTeLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -229,7 +229,7 @@
 
 ---
 #### UAmsT06tTeVS 
-[**`Results`**](./results.md#uamst06ttevs), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTeVS.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTeVS.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTeVS.gz) 
+[**`Results`**](./results.md#uamst06ttevs) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTeVS.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTeVS.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTeVS.gz) 
 
 - :material-rename: **Run ID:** UAmsT06tTeVS 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -241,7 +241,7 @@
 
 ---
 #### UAmsT06tTiLM 
-[**`Results`**](./results.md#uamst06ttilm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTiLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTiLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTiLM.gz) 
+[**`Results`**](./results.md#uamst06ttilm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT06tTiLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT06tTiLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT06tTiLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT06tTiLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -253,7 +253,7 @@
 
 ---
 #### UAmsT07MAnLM 
-[**`Results`**](./results.md#uamst07manlm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MAnLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MAnLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MAnLM.gz) 
+[**`Results`**](./results.md#uamst07manlm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MAnLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MAnLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MAnLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MAnLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -265,7 +265,7 @@
 
 ---
 #### UAmsT07MSm8L 
-[**`Results`**](./results.md#uamst07msm8l), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSm8L.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSm8L.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSm8L.gz) 
+[**`Results`**](./results.md#uamst07msm8l) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSm8L.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSm8L.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSm8L.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MSm8L 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -277,7 +277,7 @@
 
 ---
 #### UAmsT07MSum6 
-[**`Results`**](./results.md#uamst07msum6), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum6.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum6.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum6.gz) 
+[**`Results`**](./results.md#uamst07msum6) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum6.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum6.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum6.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MSum6 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -289,7 +289,7 @@
 
 ---
 #### UAmsT07MSum8 
-[**`Results`**](./results.md#uamst07msum8), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum8.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum8.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum8.gz) 
+[**`Results`**](./results.md#uamst07msum8) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum8.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum8.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum8.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MSum8 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -301,7 +301,7 @@
 
 ---
 #### UAmsT07MTeLM 
-[**`Results`**](./results.md#uamst07mtelm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeLM.gz) 
+[**`Results`**](./results.md#uamst07mtelm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MTeLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -313,7 +313,7 @@
 
 ---
 #### UAmsT07MTeVS 
-[**`Results`**](./results.md#uamst07mtevs), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeVS.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeVS.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeVS.gz) 
+[**`Results`**](./results.md#uamst07mtevs) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeVS.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeVS.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeVS.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MTeVS 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -325,7 +325,7 @@
 
 ---
 #### UAmsT07MTiLM 
-[**`Results`**](./results.md#uamst07mtilm), [**`Participants`**](./participants.md#uamsterdamderijke), [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTiLM.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTiLM.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTiLM.gz) 
+[**`Results`**](./results.md#uamst07mtilm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTiLM.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTiLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTiLM.gz) 
 
 - :material-rename: **Run ID:** UAmsT07MTiLM 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.deRijke 
@@ -337,7 +337,7 @@
 
 ---
 #### UiucMQbl 
-[**`Results`**](./results.md#uiucmqbl), [**`Participants`**](./participants.md#uc-zhai), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQbl.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQbl.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQbl.gz) 
+[**`Results`**](./results.md#uiucmqbl) | [**`Participants`**](./participants.md#uc-zhai) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQbl.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQbl.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQbl.gz) 
 
 - :material-rename: **Run ID:** UiucMQbl 
 - :fontawesome-solid-user-group: **Participant:** uc-zhai 
@@ -349,7 +349,7 @@
 
 ---
 #### UiucMQqe1 
-[**`Results`**](./results.md#uiucmqqe1), [**`Participants`**](./participants.md#uc-zhai), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQqe1.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQqe1.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQqe1.gz) 
+[**`Results`**](./results.md#uiucmqqe1) | [**`Participants`**](./participants.md#uc-zhai) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQqe1.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQqe1.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQqe1.gz) 
 
 - :material-rename: **Run ID:** UiucMQqe1 
 - :fontawesome-solid-user-group: **Participant:** uc-zhai 
@@ -361,7 +361,7 @@
 
 ---
 #### UiucMQqe2 
-[**`Results`**](./results.md#uiucmqqe2), [**`Participants`**](./participants.md#uc-zhai), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQqe2.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQqe2.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQqe2.gz) 
+[**`Results`**](./results.md#uiucmqqe2) | [**`Participants`**](./participants.md#uc-zhai) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UiucMQqe2.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UiucMQqe2.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UiucMQqe2.gz) 
 
 - :material-rename: **Run ID:** UiucMQqe2 
 - :fontawesome-solid-user-group: **Participant:** uc-zhai 
@@ -373,7 +373,7 @@
 
 ---
 #### umelbexp 
-[**`Results`**](./results.md#umelbexp), [**`Participants`**](./participants.md#umelbournengoc-ahn), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbexp.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbexp.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbexp.gz) 
+[**`Results`**](./results.md#umelbexp) | [**`Participants`**](./participants.md#umelbournengoc-ahn) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbexp.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbexp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbexp.gz) 
 
 - :material-rename: **Run ID:** umelbexp 
 - :fontawesome-solid-user-group: **Participant:** umelbourne.ngoc-ahn 
@@ -385,7 +385,7 @@
 
 ---
 #### umelbimp 
-[**`Results`**](./results.md#umelbimp), [**`Participants`**](./participants.md#umelbournengoc-ahn), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbimp.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbimp.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbimp.gz) 
+[**`Results`**](./results.md#umelbimp) | [**`Participants`**](./participants.md#umelbournengoc-ahn) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbimp.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbimp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbimp.gz) 
 
 - :material-rename: **Run ID:** umelbimp 
 - :fontawesome-solid-user-group: **Participant:** umelbourne.ngoc-ahn 
@@ -397,7 +397,7 @@
 
 ---
 #### umelbsim 
-[**`Results`**](./results.md#umelbsim), [**`Participants`**](./participants.md#umelbournengoc-ahn), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbsim.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbsim.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbsim.gz) 
+[**`Results`**](./results.md#umelbsim) | [**`Participants`**](./participants.md#umelbournengoc-ahn) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbsim.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbsim.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbsim.gz) 
 
 - :material-rename: **Run ID:** umelbsim 
 - :fontawesome-solid-user-group: **Participant:** umelbourne.ngoc-ahn 
@@ -409,7 +409,7 @@
 
 ---
 #### umelbstd 
-[**`Results`**](./results.md#umelbstd), [**`Participants`**](./participants.md#umelbournengoc-ahn), [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbstd.gz), [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbstd.gz), [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbstd.gz) 
+[**`Results`**](./results.md#umelbstd) | [**`Participants`**](./participants.md#umelbournengoc-ahn) | [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbstd.gz) | [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbstd.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbstd.gz) 
 
 - :material-rename: **Run ID:** umelbstd 
 - :fontawesome-solid-user-group: **Participant:** umelbourne.ngoc-ahn 

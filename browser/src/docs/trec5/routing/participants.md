@@ -3,25 +3,25 @@
 #### Berkeley
  - :fontawesome-solid-user-group: **Name:** Fredric C. Gey
  - :octicons-organization-16: **Organization:** University of California, Berkeley
- - :material-file-search: **Runs:** [brkly13](./runs.md#brkly13), [brkly14](./runs.md#brkly14)
+ - :material-file-search: **Runs:** [brkly13](./runs.md#brkly13) | [brkly14](./runs.md#brkly14)
 
 ---
 #### City
  - :fontawesome-solid-user-group: **Name:** S.E. Robertson
  - :octicons-organization-16: **Organization:** City University
- - :material-file-search: **Runs:** [city96r1](./runs.md#city96r1), [city96r2](./runs.md#city96r2)
+ - :material-file-search: **Runs:** [city96r1](./runs.md#city96r1) | [city96r2](./runs.md#city96r2)
 
 ---
 #### Cornell
  - :fontawesome-solid-user-group: **Name:** Chris Buckley
  - :octicons-organization-16: **Organization:** Cornell University
- - :material-file-search: **Runs:** [Cor5R1cc](./runs.md#cor5r1cc), [Cor5R2cr](./runs.md#cor5r2cr)
+ - :material-file-search: **Runs:** [Cor5R1cc](./runs.md#cor5r1cc) | [Cor5R2cr](./runs.md#cor5r2cr)
 
 ---
 #### CUNY
  - :fontawesome-solid-user-group: **Name:** K.L. Kwok
  - :octicons-organization-16: **Organization:** Queens College, CUNY
- - :material-file-search: **Runs:** [pircsg0](./runs.md#pircsg0), [pircsg6](./runs.md#pircsg6)
+ - :material-file-search: **Runs:** [pircsg0](./runs.md#pircsg0) | [pircsg6](./runs.md#pircsg6)
 
 ---
 #### ERLI
@@ -39,19 +39,19 @@
 #### GE-NYU
  - :fontawesome-solid-user-group: **Name:** Tomek Strzalkowski
  - :octicons-organization-16: **Organization:** GE
- - :material-file-search: **Runs:** [genrl5](./runs.md#genrl5), [genrl6](./runs.md#genrl6)
+ - :material-file-search: **Runs:** [genrl5](./runs.md#genrl5) | [genrl6](./runs.md#genrl6)
 
 ---
 #### IRIT
  - :fontawesome-solid-user-group: **Name:** C. Soule-Dupuy
  - :octicons-organization-16: **Organization:** Institut de Recherche en Informatique de Toulouse
- - :material-file-search: **Runs:** [Mercure1](./runs.md#mercure1), [Mercure2](./runs.md#mercure2)
+ - :material-file-search: **Runs:** [Mercure1](./runs.md#mercure1) | [Mercure2](./runs.md#mercure2)
 
 ---
 #### ITI-SG
  - :fontawesome-solid-user-group: **Name:** Kok F. Lai
  - :octicons-organization-16: **Organization:** Information Technology Institute
- - :material-file-search: **Runs:** [itidp1](./runs.md#itidp1), [itidp2](./runs.md#itidp2)
+ - :material-file-search: **Runs:** [itidp1](./runs.md#itidp1) | [itidp2](./runs.md#itidp2)
 
 ---
 #### NMSU-C
@@ -63,7 +63,7 @@
 #### RutgersK
  - :fontawesome-solid-user-group: **Name:** Paul Kantor
  - :octicons-organization-16: **Organization:** Rutgers University
- - :material-file-search: **Runs:** [rutAPspt](./runs.md#rutapspt), [rutAPglob](./runs.md#rutapglob)
+ - :material-file-search: **Runs:** [rutAPspt](./runs.md#rutapspt) | [rutAPglob](./runs.md#rutapglob)
 
 ---
 #### UCSD
@@ -93,6 +93,6 @@
 #### Xerox
  - :fontawesome-solid-user-group: **Name:** Jan Pedersen
  - :octicons-organization-16: **Organization:** Xerox
- - :material-file-search: **Runs:** [xerox.rout1](./runs.md#xerox.rout1), [xerox.rout2](./runs.md#xerox.rout2), [xerox.rout3](./runs.md#xerox.rout3)
+ - :material-file-search: **Runs:** [xerox.rout1](./runs.md#xeroxrout1) | [xerox.rout2](./runs.md#xeroxrout2) | [xerox.rout3](./runs.md#xeroxrout3)
 
 ---

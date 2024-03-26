@@ -2,7 +2,7 @@
 
 ## Precision Medicine
 
-[`Overview`](./pm/overview.md), [`Proceedings`](./pm/proceedings.md), [`Data`](./pm/data.md), [`Results`](./pm/results.md), [`Runs`](./pm/runs.md), [`Participants`](./pm/participants.md)
+[`Overview`](./pm/overview.md) | [`Proceedings`](./pm/proceedings.md) | [`Data`](./pm/data.md) | [`Results`](./pm/results.md) | [`Runs`](./pm/runs.md) | [`Participants`](./pm/participants.md)
 
 {==
 
@@ -26,7 +26,7 @@ The fundamental philosophy behind precision medicine is that for many complex di
 
 ## Common Core
 
-[`Overview`](./core/overview.md), [`Proceedings`](./core/proceedings.md), [`Data`](./core/data.md), [`Results`](./core/results.md), [`Runs`](./core/runs.md), [`Participants`](./core/participants.md)
+[`Overview`](./core/overview.md) | [`Proceedings`](./core/proceedings.md) | [`Data`](./core/data.md) | [`Results`](./core/results.md) | [`Runs`](./core/runs.md) | [`Participants`](./core/participants.md)
 
 {==
 
@@ -47,7 +47,7 @@ The primary goals of the proposed core track are three-fold: (a) to bring togeth
 
 ## Real-time Summarization
 
-[`Overview`](./rts/overview.md), [`Proceedings`](./rts/proceedings.md), [`Data`](./rts/data.md), [`Runs`](./rts/runs.md), [`Participants`](./rts/participants.md)
+[`Overview`](./rts/overview.md) | [`Proceedings`](./rts/proceedings.md) | [`Data`](./rts/data.md) | [`Runs`](./rts/runs.md) | [`Participants`](./rts/participants.md)
 
 {==
 
@@ -68,7 +68,7 @@ The TREC 2018 Real-Time Summarization (RTS) Track is the third iteration of a co
 
 ## Complex Answer Retrieval
 
-[`Overview`](./car/overview.md), [`Proceedings`](./car/proceedings.md), [`Data`](./car/data.md), [`Runs`](./car/runs.md), [`Participants`](./car/participants.md)
+[`Overview`](./car/overview.md) | [`Proceedings`](./car/proceedings.md) | [`Data`](./car/data.md) | [`Runs`](./car/runs.md) | [`Participants`](./car/participants.md)
 
 {==
 
@@ -90,7 +90,7 @@ Current retrieval systems provide good solutions towards phrase-level retrieval 
 
 ## News
 
-[`Overview`](./news/overview.md), [`Proceedings`](./news/proceedings.md), [`Data`](./news/data.md), [`Results`](./news/results.md), [`Runs`](./news/runs.md), [`Participants`](./news/participants.md)
+[`Overview`](./news/overview.md) | [`Proceedings`](./news/proceedings.md) | [`Data`](./news/data.md) | [`Results`](./news/results.md) | [`Runs`](./news/runs.md) | [`Participants`](./news/participants.md)
 
 {==
 
@@ -111,7 +111,7 @@ The News track is a new track for TREC 2019, focused on information retrieval in
 
 ## Incident Streams
 
-[`Overview`](./incident/overview.md), [`Proceedings`](./incident/proceedings.md), [`Data`](./incident/data.md), [`Runs`](./incident/runs.md), [`Participants`](./incident/participants.md)
+[`Overview`](./incident/overview.md) | [`Proceedings`](./incident/proceedings.md) | [`Data`](./incident/data.md) | [`Runs`](./incident/runs.md) | [`Participants`](./incident/participants.md)
 
 {==
 
@@ -132,7 +132,7 @@ The Text Retrieval Conference (TREC) Incident Streams track is a new initiative 
 
 ## CENTRE
 
-[`Overview`](./centre/overview.md), [`Proceedings`](./centre/proceedings.md), [`Runs`](./centre/runs.md), [`Participants`](./centre/participants.md)
+[`Overview`](./centre/overview.md) | [`Proceedings`](./centre/proceedings.md) | [`Runs`](./centre/runs.md) | [`Participants`](./centre/participants.md)
 
 {==
 

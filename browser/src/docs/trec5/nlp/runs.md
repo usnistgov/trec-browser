@@ -1,7 +1,7 @@
 # Runs - NLP 1996 
 
 #### CLATMC 
-[**`Results`**](./results.md#clatmc), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLATMC.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLATMC.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#clatmc) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLATMC.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLATMC.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLATMC 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -12,7 +12,7 @@
 
 ---
 #### CLATMN 
-[**`Results`**](./results.md#clatmn), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLATMN.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLATMN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#clatmn) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLATMN.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLATMN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLATMN 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -23,7 +23,7 @@
 
 ---
 #### CLPHR0 
-[**`Results`**](./results.md#clphr0), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR0.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR0.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#clphr0) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR0.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR0.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLPHR0 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -34,7 +34,7 @@
 
 ---
 #### CLPHR1 
-[**`Results`**](./results.md#clphr1), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#clphr1) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLPHR1 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -45,7 +45,7 @@
 
 ---
 #### CLPHR2 
-[**`Results`**](./results.md#clphr2), [**`Participants`**](./participants.md#claritech), [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#clphr2) | [**`Participants`**](./participants.md#claritech) | [**`Proceedings`**](./proceedings.md#evaluation-of-syntactic-phrase-indexing-clarit-nlp-track-report) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.CLPHR2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.CLPHR2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** CLPHR2 
 - :fontawesome-solid-user-group: **Participant:** CLARITECH 
@@ -56,7 +56,7 @@
 
 ---
 #### genlp1 
-[**`Results`**](./results.md#genlp1), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#genlp1) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp1 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -68,7 +68,7 @@
 
 ---
 #### genlp2 
-[**`Results`**](./results.md#genlp2), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#genlp2) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp2 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -80,7 +80,7 @@
 
 ---
 #### genlp3 
-[**`Results`**](./results.md#genlp3), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#genlp3) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp3 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -92,7 +92,7 @@
 
 ---
 #### genlp4 
-[**`Results`**](./results.md#genlp4), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#genlp4) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.genlp4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.genlp4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** genlp4 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -104,7 +104,7 @@
 
 ---
 #### MTRa961 
-[**`Results`**](./results.md#mtra961), [**`Participants`**](./participants.md#mitre), [**`Proceedings`**](./proceedings.md#information-retrieval-and-trainable-natural-language-processing), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.MTRa961.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.MTRa961.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#mtra961) | [**`Participants`**](./participants.md#mitre) | [**`Proceedings`**](./proceedings.md#information-retrieval-and-trainable-natural-language-processing) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.MTRa961.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.MTRa961.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** MTRa961 
 - :fontawesome-solid-user-group: **Participant:** MITRE 
@@ -114,7 +114,7 @@
 
 ---
 #### sbase1 
-[**`Results`**](./results.md#sbase1), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.sbase1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.sbase1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#sbase1) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.sbase1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.sbase1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** sbase1 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -126,7 +126,7 @@
 
 ---
 #### sbase2 
-[**`Results`**](./results.md#sbase2), [**`Participants`**](./participants.md#ge-nyu), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.sbase2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.sbase2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#sbase2) | [**`Participants`**](./participants.md#ge-nyu) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.sbase2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.sbase2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** sbase2 
 - :fontawesome-solid-user-group: **Participant:** GE-NYU 
@@ -138,7 +138,7 @@
 
 ---
 #### xerox-nlp1 
-[**`Results`**](./results.md#xerox-nlp1), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp1.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp1) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp1 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -149,7 +149,7 @@
 
 ---
 #### xerox-nlp2 
-[**`Results`**](./results.md#xerox-nlp2), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp2.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp2) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp2 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -160,7 +160,7 @@
 
 ---
 #### xerox-nlp3 
-[**`Results`**](./results.md#xerox-nlp3), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp3.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp3) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp3 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -170,7 +170,7 @@
 
 ---
 #### xerox-nlp4 
-[**`Results`**](./results.md#xerox-nlp4), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp4.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp4) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp4 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -180,7 +180,7 @@
 
 ---
 #### xerox-nlp5 
-[**`Results`**](./results.md#xerox-nlp5), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp5.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp5) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp5 
 - :fontawesome-solid-user-group: **Participant:** Xerox 
@@ -190,7 +190,7 @@
 
 ---
 #### xerox-nlp6 
-[**`Results`**](./results.md#xerox-nlp6), [**`Participants`**](./participants.md#xerox), [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks), [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp6.gz), [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
+[**`Results`**](./results.md#xerox-nlp6) | [**`Participants`**](./participants.md#xerox) | [**`Proceedings`**](./proceedings.md#xerox-trec-5-site-report-routing-filtering-nlp-and-spanish-tracks) | [**`Input`**](https://trec.nist.gov/results/trec5/trec5.results.input/tracks/nlp/input.xerox-nlp6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec5/trec5.results.summary/tracks/nlp/summary.xerox-nlp6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec5/appendices/A/nlp.graphs.ps.gz) 
 
 - :material-rename: **Run ID:** xerox-nlp6 
 - :fontawesome-solid-user-group: **Participant:** Xerox 

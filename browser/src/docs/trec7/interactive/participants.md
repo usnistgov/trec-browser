@@ -27,7 +27,7 @@
 #### okapi
  - :fontawesome-solid-user-group: **Name:** Stephen Robertson
  - :octicons-organization-16: **Organization:** City University/Univ. of Sheffield/Microsoft
- - :material-file-search: **Runs:** [ok_noRF-zp_noRF](./runs.md#ok_norf-zp_norf), [ok_noRF-ok_withRF](./runs.md#ok_norf-ok_withrf)
+ - :material-file-search: **Runs:** [ok_noRF-zp_noRF](./runs.md#ok_norf-zp_norf) | [ok_noRF-ok_withRF](./runs.md#ok_norf-ok_withrf)
 
 ---
 #### RMIT
@@ -45,6 +45,6 @@
 #### UNC-N
  - :fontawesome-solid-user-group: **Name:** Gregory Newby
  - :octicons-organization-16: **Organization:** UNC Chapel Hill
- - :material-file-search: **Runs:** [irisa-iriss](./runs.md#irisa-iriss), [irisp-iriss](./runs.md#irisp-iriss)
+ - :material-file-search: **Runs:** [irisa-iriss](./runs.md#irisa-iriss) | [irisp-iriss](./runs.md#irisp-iriss)
 
 ---

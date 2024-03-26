@@ -1,7 +1,7 @@
 # Runs - Contextual Suggestion 2013 
 
 #### 1 
-[**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/context/1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/1.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/context/1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/1.pdf) 
 
 - :material-rename: **Run ID:** 1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -14,7 +14,7 @@
 
 ---
 #### 2 
-[**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/context/2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/2.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/context/2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/2.pdf) 
 
 - :material-rename: **Run ID:** 2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -27,7 +27,7 @@
 
 ---
 #### baselineA 
-[**`Participants`**](./participants.md#uwaterlooclac), [**`Input`**](https://trec.nist.gov/results/trec22/context/baselineA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/baselineA.pdf) 
+[**`Participants`**](./participants.md#uwaterlooclac) | [**`Input`**](https://trec.nist.gov/results/trec22/context/baselineA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/baselineA.pdf) 
 
 - :material-rename: **Run ID:** baselineA 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooCLAC 
@@ -40,7 +40,7 @@
 
 ---
 #### baselineB 
-[**`Participants`**](./participants.md#uwaterlooclac), [**`Input`**](https://trec.nist.gov/results/trec22/context/baselineB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/baselineB.pdf) 
+[**`Participants`**](./participants.md#uwaterlooclac) | [**`Input`**](https://trec.nist.gov/results/trec22/context/baselineB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/baselineB.pdf) 
 
 - :material-rename: **Run ID:** baselineB 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooCLAC 
@@ -54,7 +54,7 @@
 
 ---
 #### BOW_V17 
-[**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#boosting-venue-page-rankings-for-contextual-retrieval-georgetown-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/BOW_V17.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/BOW_V17.pdf) 
+[**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#boosting-venue-page-rankings-for-contextual-retrieval-georgetown-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/BOW_V17.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/BOW_V17.pdf) 
 
 - :material-rename: **Run ID:** BOW_V17 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -68,7 +68,7 @@
 
 ---
 #### BOW_V18 
-[**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#boosting-venue-page-rankings-for-contextual-retrieval-georgetown-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/BOW_V18.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/BOW_V18.pdf) 
+[**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#boosting-venue-page-rankings-for-contextual-retrieval-georgetown-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/BOW_V18.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/BOW_V18.pdf) 
 
 - :material-rename: **Run ID:** BOW_V18 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -82,7 +82,7 @@
 
 ---
 #### CIRG_IRDISCOA 
-[**`Participants`**](./participants.md#cirg_irdisco), [**`Proceedings`**](./proceedings.md#cirgirdisco-at-trec-2013-contextual-suggestion-track-using-the-wikipedia-graph-structure-for-item-to-item-recommendation), [**`Input`**](https://trec.nist.gov/results/trec22/context/CIRG_IRDISCOA.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/CIRG_IRDISCOA.pdf) 
+[**`Participants`**](./participants.md#cirg_irdisco) | [**`Proceedings`**](./proceedings.md#cirgirdisco-at-trec-2013-contextual-suggestion-track-using-the-wikipedia-graph-structure-for-item-to-item-recommendation) | [**`Input`**](https://trec.nist.gov/results/trec22/context/CIRG_IRDISCOA.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/CIRG_IRDISCOA.pdf) 
 
 - :material-rename: **Run ID:** CIRG_IRDISCOA 
 - :fontawesome-solid-user-group: **Participant:** CIRG_IRDISCO 
@@ -95,7 +95,7 @@
 
 ---
 #### CIRG_IRDISCOB 
-[**`Participants`**](./participants.md#cirg_irdisco), [**`Proceedings`**](./proceedings.md#cirgirdisco-at-trec-2013-contextual-suggestion-track-using-the-wikipedia-graph-structure-for-item-to-item-recommendation), [**`Input`**](https://trec.nist.gov/results/trec22/context/CIRG_IRDISCOB.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/CIRG_IRDISCOB.pdf) 
+[**`Participants`**](./participants.md#cirg_irdisco) | [**`Proceedings`**](./proceedings.md#cirgirdisco-at-trec-2013-contextual-suggestion-track-using-the-wikipedia-graph-structure-for-item-to-item-recommendation) | [**`Input`**](https://trec.nist.gov/results/trec22/context/CIRG_IRDISCOB.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/CIRG_IRDISCOB.pdf) 
 
 - :material-rename: **Run ID:** CIRG_IRDISCOB 
 - :fontawesome-solid-user-group: **Participant:** CIRG_IRDISCO 
@@ -108,7 +108,7 @@
 
 ---
 #### complexScore 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-the-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/complexScore.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/complexScore.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-the-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/complexScore.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/complexScore.pdf) 
 
 - :material-rename: **Run ID:** complexScore 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -121,7 +121,7 @@
 
 ---
 #### csui01 
-[**`Participants`**](./participants.md#fasilkomui), [**`Input`**](https://trec.nist.gov/results/trec22/context/csui01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/csui01.pdf) 
+[**`Participants`**](./participants.md#fasilkomui) | [**`Input`**](https://trec.nist.gov/results/trec22/context/csui01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/csui01.pdf) 
 
 - :material-rename: **Run ID:** csui01 
 - :fontawesome-solid-user-group: **Participant:** fasilkomui 
@@ -134,7 +134,7 @@
 
 ---
 #### csui02 
-[**`Participants`**](./participants.md#fasilkomui), [**`Input`**](https://trec.nist.gov/results/trec22/context/csui02.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/csui02.pdf) 
+[**`Participants`**](./participants.md#fasilkomui) | [**`Input`**](https://trec.nist.gov/results/trec22/context/csui02.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/csui02.pdf) 
 
 - :material-rename: **Run ID:** csui02 
 - :fontawesome-solid-user-group: **Participant:** fasilkomui 
@@ -147,7 +147,7 @@
 
 ---
 #### DuTH_A 
-[**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/DuTH_A.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/DuTH_A.pdf) 
+[**`Participants`**](./participants.md#duth) | [**`Proceedings`**](./proceedings.md#duth-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/DuTH_A.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/DuTH_A.pdf) 
 
 - :material-rename: **Run ID:** DuTH_A 
 - :fontawesome-solid-user-group: **Participant:** DuTH 
@@ -160,7 +160,7 @@
 
 ---
 #### DuTH_B 
-[**`Participants`**](./participants.md#duth), [**`Proceedings`**](./proceedings.md#duth-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/DuTH_B.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/DuTH_B.pdf) 
+[**`Participants`**](./participants.md#duth) | [**`Proceedings`**](./proceedings.md#duth-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/DuTH_B.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/DuTH_B.pdf) 
 
 - :material-rename: **Run ID:** DuTH_B 
 - :fontawesome-solid-user-group: **Participant:** DuTH 
@@ -173,7 +173,7 @@
 
 ---
 #### IBCosTop1 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/context/IBCosTop1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IBCosTop1.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-and-tu-delft-notebook-trec-2013-contextual-suggestion-federated-web-search-kba-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/context/IBCosTop1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IBCosTop1.pdf) 
 
 - :material-rename: **Run ID:** IBCosTop1 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -187,7 +187,7 @@
 
 ---
 #### IRIT.ClueWeb 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-geocomp-and-liuppa-at-the-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/IRIT.ClueWeb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IRIT.ClueWeb.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-geocomp-and-liuppa-at-the-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/IRIT.ClueWeb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IRIT.ClueWeb.pdf) 
 
 - :material-rename: **Run ID:** IRIT.ClueWeb 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -201,7 +201,7 @@
 
 ---
 #### IRIT.OpenWeb 
-[**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-geocomp-and-liuppa-at-the-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/IRIT.OpenWeb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IRIT.OpenWeb.pdf) 
+[**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-geocomp-and-liuppa-at-the-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/IRIT.OpenWeb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/IRIT.OpenWeb.pdf) 
 
 - :material-rename: **Run ID:** IRIT.OpenWeb 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -214,7 +214,7 @@
 
 ---
 #### isirun 
-[**`Participants`**](./participants.md#isiattrec), [**`Proceedings`**](./proceedings.md#a-simple-context-dependent-suggestion-system), [**`Input`**](https://trec.nist.gov/results/trec22/context/isirun.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/isirun.pdf) 
+[**`Participants`**](./participants.md#isiattrec) | [**`Proceedings`**](./proceedings.md#a-simple-context-dependent-suggestion-system) | [**`Input`**](https://trec.nist.gov/results/trec22/context/isirun.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/isirun.pdf) 
 
 - :material-rename: **Run ID:** isirun 
 - :fontawesome-solid-user-group: **Participant:** ISIatTREC 
@@ -227,7 +227,7 @@
 
 ---
 #### ming_1 
-[**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/ming_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/ming_1.pdf) 
+[**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/ming_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/ming_1.pdf) 
 
 - :material-rename: **Run ID:** ming_1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -240,7 +240,7 @@
 
 ---
 #### ming_2 
-[**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/ming_2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/ming_2.pdf) 
+[**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/ming_2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/ming_2.pdf) 
 
 - :material-rename: **Run ID:** ming_2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -253,7 +253,7 @@
 
 ---
 #### run01 
-[**`Participants`**](./participants.md#icmc_usp), [**`Input`**](https://trec.nist.gov/results/trec22/context/run01.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/run01.pdf) 
+[**`Participants`**](./participants.md#icmc_usp) | [**`Input`**](https://trec.nist.gov/results/trec22/context/run01.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/run01.pdf) 
 
 - :material-rename: **Run ID:** run01 
 - :fontawesome-solid-user-group: **Participant:** ICMC_USP 
@@ -267,7 +267,7 @@
 
 ---
 #### RUN1 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/context/RUN1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/RUN1.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/context/RUN1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/RUN1.pdf) 
 
 - :material-rename: **Run ID:** RUN1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -281,7 +281,7 @@
 
 ---
 #### RUN2 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/context/RUN2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/RUN2.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-context-suggestion-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/context/RUN2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/RUN2.pdf) 
 
 - :material-rename: **Run ID:** RUN2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -295,7 +295,7 @@
 
 ---
 #### simpleScore 
-[**`Participants`**](./participants.md#ulugano), [**`Proceedings`**](./proceedings.md#university-of-lugano-at-the-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/simpleScore.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/simpleScore.pdf) 
+[**`Participants`**](./participants.md#ulugano) | [**`Proceedings`**](./proceedings.md#university-of-lugano-at-the-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/simpleScore.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/simpleScore.pdf) 
 
 - :material-rename: **Run ID:** simpleScore 
 - :fontawesome-solid-user-group: **Participant:** ULugano 
@@ -308,7 +308,7 @@
 
 ---
 #### UAmsTF30WU 
-[**`Participants`**](./participants.md#uamsterdam), [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2013-contextual-suggestion-track-learning-user-preferences-from-wikitravel-categories), [**`Input`**](https://trec.nist.gov/results/trec22/context/UAmsTF30WU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UAmsTF30WU.pdf) 
+[**`Participants`**](./participants.md#uamsterdam) | [**`Proceedings`**](./proceedings.md#university-of-amsterdam-at-the-trec-2013-contextual-suggestion-track-learning-user-preferences-from-wikitravel-categories) | [**`Input`**](https://trec.nist.gov/results/trec22/context/UAmsTF30WU.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UAmsTF30WU.pdf) 
 
 - :material-rename: **Run ID:** UAmsTF30WU 
 - :fontawesome-solid-user-group: **Participant:** UAmsterdam 
@@ -321,7 +321,7 @@
 
 ---
 #### udel_run_D 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/context/udel_run_D.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/udel_run_D.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/context/udel_run_D.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/udel_run_D.pdf) 
 
 - :material-rename: **Run ID:** udel_run_D 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -334,7 +334,7 @@
 
 ---
 #### udel_run_SD 
-[**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/context/udel_run_SD.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/udel_run_SD.pdf) 
+[**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/context/udel_run_SD.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/udel_run_SD.pdf) 
 
 - :material-rename: **Run ID:** udel_run_SD 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -347,7 +347,7 @@
 
 ---
 #### UDInfoCS1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-opinion-aware-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec22/context/UDInfoCS1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UDInfoCS1.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-opinion-aware-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec22/context/UDInfoCS1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UDInfoCS1.pdf) 
 
 - :material-rename: **Run ID:** UDInfoCS1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -360,7 +360,7 @@
 
 ---
 #### UDInfoCS2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#an-opinion-aware-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec22/context/UDInfoCS2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UDInfoCS2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#an-opinion-aware-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec22/context/UDInfoCS2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/UDInfoCS2.pdf) 
 
 - :material-rename: **Run ID:** UDInfoCS2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -373,7 +373,7 @@
 
 ---
 #### uncsils_base 
-[**`Participants`**](./participants.md#unc_sils), [**`Proceedings`**](./proceedings.md#a-nearest-neighbor-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec22/context/uncsils_base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uncsils_base.pdf) 
+[**`Participants`**](./participants.md#unc_sils) | [**`Proceedings`**](./proceedings.md#a-nearest-neighbor-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec22/context/uncsils_base.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uncsils_base.pdf) 
 
 - :material-rename: **Run ID:** uncsils_base 
 - :fontawesome-solid-user-group: **Participant:** UNC_SILS 
@@ -386,7 +386,7 @@
 
 ---
 #### uncsils_param 
-[**`Participants`**](./participants.md#unc_sils), [**`Proceedings`**](./proceedings.md#a-nearest-neighbor-approach-to-contextual-suggestion), [**`Input`**](https://trec.nist.gov/results/trec22/context/uncsils_param.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uncsils_param.pdf) 
+[**`Participants`**](./participants.md#unc_sils) | [**`Proceedings`**](./proceedings.md#a-nearest-neighbor-approach-to-contextual-suggestion) | [**`Input`**](https://trec.nist.gov/results/trec22/context/uncsils_param.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uncsils_param.pdf) 
 
 - :material-rename: **Run ID:** uncsils_param 
 - :fontawesome-solid-user-group: **Participant:** UNC_SILS 
@@ -399,7 +399,7 @@
 
 ---
 #### uogTrCFP 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2013-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/context/uogTrCFP.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uogTrCFP.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2013-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/context/uogTrCFP.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uogTrCFP.pdf) 
 
 - :material-rename: **Run ID:** uogTrCFP 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -412,7 +412,7 @@
 
 ---
 #### uogTrCFX 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2013-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec22/context/uogTrCFX.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uogTrCFX.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2013-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec22/context/uogTrCFX.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/uogTrCFX.pdf) 
 
 - :material-rename: **Run ID:** uogTrCFX 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -425,7 +425,7 @@
 
 ---
 #### york13cr1 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/york13cr1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/york13cr1.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/york13cr1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/york13cr1.pdf) 
 
 - :material-rename: **Run ID:** york13cr1 
 - :fontawesome-solid-user-group: **Participant:** YORK 
@@ -438,7 +438,7 @@
 
 ---
 #### york13cr2 
-[**`Participants`**](./participants.md#york), [**`Proceedings`**](./proceedings.md#york-university-at-trec-2013-contextual-suggestion-track), [**`Input`**](https://trec.nist.gov/results/trec22/context/york13cr2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/york13cr2.pdf) 
+[**`Participants`**](./participants.md#york) | [**`Proceedings`**](./proceedings.md#york-university-at-trec-2013-contextual-suggestion-track) | [**`Input`**](https://trec.nist.gov/results/trec22/context/york13cr2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/context/york13cr2.pdf) 
 
 - :material-rename: **Run ID:** york13cr2 
 - :fontawesome-solid-user-group: **Participant:** YORK 

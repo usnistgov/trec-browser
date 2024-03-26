@@ -1,6 +1,6 @@
 # Data - Dynamic Domain 2017 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/domain2017.html`](https://trec.nist.gov/data/domain2017.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/domain2017.html`](https://trec.nist.gov/data/domain2017.html)
 
 ---
 

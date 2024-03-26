@@ -1,7 +1,7 @@
 # Runs - Blog 2006 
 
 #### Abstract 
-[**`Results`**](./results.md#abstract), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/Abstract.pdf) 
+[**`Results`**](./results.md#abstract) | [**`Participants`**](./participants.md#robert-gordonuharper) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/Abstract.pdf) 
 
 - :material-rename: **Run ID:** Abstract 
 - :fontawesome-solid-user-group: **Participant:** robert-gordonu.harper 
@@ -12,7 +12,7 @@
 
 ---
 #### blog06r1 
-[**`Results`**](./results.md#blog06r1), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r1.opinion.pdf) 
+[**`Results`**](./results.md#blog06r1) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r1.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r1 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -25,7 +25,7 @@
 
 ---
 #### blog06r2 
-[**`Results`**](./results.md#blog06r2), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r2.opinion.pdf) 
+[**`Results`**](./results.md#blog06r2) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r2.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r2 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -38,7 +38,7 @@
 
 ---
 #### blog06r3 
-[**`Results`**](./results.md#blog06r3), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r3.opinion.pdf) 
+[**`Results`**](./results.md#blog06r3) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r3.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r3 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -51,7 +51,7 @@
 
 ---
 #### blog06r4 
-[**`Results`**](./results.md#blog06r4), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r4.opinion.pdf) 
+[**`Results`**](./results.md#blog06r4) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r4.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r4 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -64,7 +64,7 @@
 
 ---
 #### blog06r5 
-[**`Results`**](./results.md#blog06r5), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r5.opinion.pdf) 
+[**`Results`**](./results.md#blog06r5) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r5.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r5 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -77,7 +77,7 @@
 
 ---
 #### blog06r6 
-[**`Results`**](./results.md#blog06r6), [**`Participants`**](./participants.md#cmudircallan), [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r6.opinion.pdf) 
+[**`Results`**](./results.md#blog06r6) | [**`Participants`**](./participants.md#cmudircallan) | [**`Proceedings`**](./proceedings.md#knowledge-transfer-and-opinion-detection-in-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.blog06r6.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.blog06r6.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.blog06r6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/blog06r6.opinion.pdf) 
 
 - :material-rename: **Run ID:** blog06r6 
 - :fontawesome-solid-user-group: **Participant:** cmu.dir.callan 
@@ -90,7 +90,7 @@
 
 ---
 #### csirabstract 
-[**`Results`**](./results.md#csirabstract), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirabstract.pdf) 
+[**`Results`**](./results.md#csirabstract) | [**`Participants`**](./participants.md#csiro-ictmcarthur) | [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirabstract.pdf) 
 
 - :material-rename: **Run ID:** csirabstract 
 - :fontawesome-solid-user-group: **Participant:** csiro-ict.mcarthur 
@@ -101,7 +101,7 @@
 
 ---
 #### csirofull 
-[**`Results`**](./results.md#csirofull), [**`Participants`**](./participants.md#csiro-ictmcarthur), [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirofull.pdf) 
+[**`Results`**](./results.md#csirofull) | [**`Participants`**](./participants.md#csiro-ictmcarthur) | [**`Proceedings`**](./proceedings.md#deep-context-with-a-sense-of-self) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/csirofull.pdf) 
 
 - :material-rename: **Run ID:** csirofull 
 - :fontawesome-solid-user-group: **Participant:** csiro-ict.mcarthur 
@@ -112,7 +112,7 @@
 
 ---
 #### ICT 
-[**`Results`**](./results.md#ict), [**`Participants`**](./participants.md#cas-iiistan), [**`Proceedings`**](./proceedings.md#combining-language-model-with-sentiment-analysis-for-opinion-retrieval-of-blog-post), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ICT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ICT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ICT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ICT.opinion.pdf) 
+[**`Results`**](./results.md#ict) | [**`Participants`**](./participants.md#cas-iiistan) | [**`Proceedings`**](./proceedings.md#combining-language-model-with-sentiment-analysis-for-opinion-retrieval-of-blog-post) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ICT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ICT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ICT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ICT.opinion.pdf) 
 
 - :material-rename: **Run ID:** ICT 
 - :fontawesome-solid-user-group: **Participant:** cas-iiis.tan 
@@ -125,7 +125,7 @@
 
 ---
 #### IIIS 
-[**`Results`**](./results.md#iiis), [**`Participants`**](./participants.md#cas-iiistan), [**`Proceedings`**](./proceedings.md#combining-language-model-with-sentiment-analysis-for-opinion-retrieval-of-blog-post), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.IIIS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.IIIS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.IIIS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/IIIS.opinion.pdf) 
+[**`Results`**](./results.md#iiis) | [**`Participants`**](./participants.md#cas-iiistan) | [**`Proceedings`**](./proceedings.md#combining-language-model-with-sentiment-analysis-for-opinion-retrieval-of-blog-post) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.IIIS.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.IIIS.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.IIIS.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/IIIS.opinion.pdf) 
 
 - :material-rename: **Run ID:** IIIS 
 - :fontawesome-solid-user-group: **Participant:** cas-iiis.tan 
@@ -138,7 +138,7 @@
 
 ---
 #### mcwil1k 
-[**`Results`**](./results.md#mcwil1k), [**`Participants`**](./participants.md#fudanwu), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.mcwil1k.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.mcwil1k.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.mcwil1k.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/mcwil1k.opinion.pdf) 
+[**`Results`**](./results.md#mcwil1k) | [**`Participants`**](./participants.md#fudanwu) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.mcwil1k.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.mcwil1k.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.mcwil1k.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/mcwil1k.opinion.pdf) 
 
 - :material-rename: **Run ID:** mcwil1k 
 - :fontawesome-solid-user-group: **Participant:** fudan.wu 
@@ -151,7 +151,7 @@
 
 ---
 #### mcwil2knl 
-[**`Results`**](./results.md#mcwil2knl), [**`Participants`**](./participants.md#fudanwu), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.mcwil2knl.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.mcwil2knl.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.mcwil2knl.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/mcwil2knl.opinion.pdf) 
+[**`Results`**](./results.md#mcwil2knl) | [**`Participants`**](./participants.md#fudanwu) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.mcwil2knl.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.mcwil2knl.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.mcwil2knl.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/mcwil2knl.opinion.pdf) 
 
 - :material-rename: **Run ID:** mcwil2knl 
 - :fontawesome-solid-user-group: **Participant:** fudan.wu 
@@ -164,7 +164,7 @@
 
 ---
 #### necabstract 
-[**`Results`**](./results.md#necabstract), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necabstract.pdf) 
+[**`Results`**](./results.md#necabstract) | [**`Participants`**](./participants.md#nec-labstseng) | [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necabstract.pdf) 
 
 - :material-rename: **Run ID:** necabstract 
 - :fontawesome-solid-user-group: **Participant:** nec-labs.tseng 
@@ -175,7 +175,7 @@
 
 ---
 #### necnistfinal 
-[**`Results`**](./results.md#necnistfinal), [**`Participants`**](./participants.md#nec-labstseng), [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necnistfinal.pdf) 
+[**`Results`**](./results.md#necnistfinal) | [**`Participants`**](./participants.md#nec-labstseng) | [**`Proceedings`**](./proceedings.md#the-splog-detection-task-and-a-solution-based-on-temporal-and-link-properties) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/necnistfinal.pdf) 
 
 - :material-rename: **Run ID:** necnistfinal 
 - :fontawesome-solid-user-group: **Participant:** nec-labs.tseng 
@@ -186,7 +186,7 @@
 
 ---
 #### NII1 
-[**`Results`**](./results.md#nii1), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII1.opinion.pdf) 
+[**`Results`**](./results.md#nii1) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII1.opinion.pdf) 
 
 - :material-rename: **Run ID:** NII1 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -199,7 +199,7 @@
 
 ---
 #### NII3 
-[**`Results`**](./results.md#nii3), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII3.opinion.pdf) 
+[**`Results`**](./results.md#nii3) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII3.opinion.pdf) 
 
 - :material-rename: **Run ID:** NII3 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -212,7 +212,7 @@
 
 ---
 #### NII5 
-[**`Results`**](./results.md#nii5), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII5.opinion.pdf) 
+[**`Results`**](./results.md#nii5) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII5.opinion.pdf) 
 
 - :material-rename: **Run ID:** NII5 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -225,7 +225,7 @@
 
 ---
 #### NII6 
-[**`Results`**](./results.md#nii6), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII6.opinion.pdf) 
+[**`Results`**](./results.md#nii6) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII6.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII6.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII6.opinion.pdf) 
 
 - :material-rename: **Run ID:** NII6 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -238,7 +238,7 @@
 
 ---
 #### NII7 
-[**`Results`**](./results.md#nii7), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII7.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII7.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII7.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII7.opinion.pdf) 
+[**`Results`**](./results.md#nii7) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.NII7.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.NII7.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.NII7.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NII7.opinion.pdf) 
 
 - :material-rename: **Run ID:** NII7 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -251,7 +251,7 @@
 
 ---
 #### NIIabstract 
-[**`Results`**](./results.md#niiabstract), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIabstract.pdf) 
+[**`Results`**](./results.md#niiabstract) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIabstract.pdf) 
 
 - :material-rename: **Run ID:** NIIabstract 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -262,7 +262,7 @@
 
 ---
 #### NIIfinal 
-[**`Results`**](./results.md#niifinal), [**`Participants`**](./participants.md#nii-eguchi), [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIfinal.pdf) 
+[**`Results`**](./results.md#niifinal) | [**`Participants`**](./participants.md#nii-eguchi) | [**`Proceedings`**](./proceedings.md#opinion-retrieval-experiments-using-generative-models-experiments-for-the-trec-2006-blog-track) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/NIIfinal.pdf) 
 
 - :material-rename: **Run ID:** NIIfinal 
 - :fontawesome-solid-user-group: **Participant:** nii-eguchi 
@@ -273,7 +273,7 @@
 
 ---
 #### ParTiDesDmt2 
-[**`Results`**](./results.md#partidesdmt2), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTiDesDmt2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTiDesDmt2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTiDesDmt2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTiDesDmt2.opinion.pdf) 
+[**`Results`**](./results.md#partidesdmt2) | [**`Participants`**](./participants.md#umarylandoard) | [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTiDesDmt2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTiDesDmt2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTiDesDmt2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTiDesDmt2.opinion.pdf) 
 
 - :material-rename: **Run ID:** ParTiDesDmt2 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -286,7 +286,7 @@
 
 ---
 #### ParTiDesDmt3 
-[**`Results`**](./results.md#partidesdmt3), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTiDesDmt3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTiDesDmt3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTiDesDmt3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTiDesDmt3.opinion.pdf) 
+[**`Results`**](./results.md#partidesdmt3) | [**`Participants`**](./participants.md#umarylandoard) | [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTiDesDmt3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTiDesDmt3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTiDesDmt3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTiDesDmt3.opinion.pdf) 
 
 - :material-rename: **Run ID:** ParTiDesDmt3 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -299,7 +299,7 @@
 
 ---
 #### ParTitDef 
-[**`Results`**](./results.md#partitdef), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTitDef.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTitDef.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTitDef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTitDef.opinion.pdf) 
+[**`Results`**](./results.md#partitdef) | [**`Participants`**](./participants.md#umarylandoard) | [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTitDef.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTitDef.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTitDef.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTitDef.opinion.pdf) 
 
 - :material-rename: **Run ID:** ParTitDef 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -312,7 +312,7 @@
 
 ---
 #### ParTitDesDef 
-[**`Results`**](./results.md#partitdesdef), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTitDesDef.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTitDesDef.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTitDesDef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTitDesDef.opinion.pdf) 
+[**`Results`**](./results.md#partitdesdef) | [**`Participants`**](./participants.md#umarylandoard) | [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ParTitDesDef.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ParTitDesDef.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ParTitDesDef.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ParTitDesDef.opinion.pdf) 
 
 - :material-rename: **Run ID:** ParTitDesDef 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -325,7 +325,7 @@
 
 ---
 #### PasTitDesDef 
-[**`Results`**](./results.md#pastitdesdef), [**`Participants`**](./participants.md#umarylandoard), [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.PasTitDesDef.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.PasTitDesDef.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.PasTitDesDef.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/PasTitDesDef.opinion.pdf) 
+[**`Results`**](./results.md#pastitdesdef) | [**`Participants`**](./participants.md#umarylandoard) | [**`Proceedings`**](./proceedings.md#trec-2006-at-maryland-blog-enterprise-legal-and-qa-tracks) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.PasTitDesDef.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.PasTitDesDef.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.PasTitDesDef.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/PasTitDesDef.opinion.pdf) 
 
 - :material-rename: **Run ID:** PasTitDesDef 
 - :fontawesome-solid-user-group: **Participant:** umaryland.oard 
@@ -338,7 +338,7 @@
 
 ---
 #### pisaBlDes 
-[**`Results`**](./results.md#pisabldes), [**`Participants`**](./participants.md#upisaattardi), [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlDes.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlDes.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlDes.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlDes.opinion.pdf) 
+[**`Results`**](./results.md#pisabldes) | [**`Participants`**](./participants.md#upisaattardi) | [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlDes.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlDes.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlDes.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlDes.opinion.pdf) 
 
 - :material-rename: **Run ID:** pisaBlDes 
 - :fontawesome-solid-user-group: **Participant:** upisa.attardi 
@@ -351,7 +351,7 @@
 
 ---
 #### pisaBlDesOp6 
-[**`Results`**](./results.md#pisabldesop6), [**`Participants`**](./participants.md#upisaattardi), [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlDesOp6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlDesOp6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlDesOp6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlDesOp6.opinion.pdf) 
+[**`Results`**](./results.md#pisabldesop6) | [**`Participants`**](./participants.md#upisaattardi) | [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlDesOp6.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlDesOp6.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlDesOp6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlDesOp6.opinion.pdf) 
 
 - :material-rename: **Run ID:** pisaBlDesOp6 
 - :fontawesome-solid-user-group: **Participant:** upisa.attardi 
@@ -364,7 +364,7 @@
 
 ---
 #### pisaBlTit 
-[**`Results`**](./results.md#pisabltit), [**`Participants`**](./participants.md#upisaattardi), [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlTit.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlTit.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlTit.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlTit.opinion.pdf) 
+[**`Results`**](./results.md#pisabltit) | [**`Participants`**](./participants.md#upisaattardi) | [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlTit.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlTit.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlTit.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlTit.opinion.pdf) 
 
 - :material-rename: **Run ID:** pisaBlTit 
 - :fontawesome-solid-user-group: **Participant:** upisa.attardi 
@@ -377,7 +377,7 @@
 
 ---
 #### pisaBlTitOp6 
-[**`Results`**](./results.md#pisabltitop6), [**`Participants`**](./participants.md#upisaattardi), [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlTitOp6.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlTitOp6.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlTitOp6.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlTitOp6.opinion.pdf) 
+[**`Results`**](./results.md#pisabltitop6) | [**`Participants`**](./participants.md#upisaattardi) | [**`Proceedings`**](./proceedings.md#blog-mining-through-opinionated-words) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.pisaBlTitOp6.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.pisaBlTitOp6.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.pisaBlTitOp6.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/pisaBlTitOp6.opinion.pdf) 
 
 - :material-rename: **Run ID:** pisaBlTitOp6 
 - :fontawesome-solid-user-group: **Participant:** upisa.attardi 
@@ -390,7 +390,7 @@
 
 ---
 #### rguBL 
-[**`Results`**](./results.md#rgubl), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguBL.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguBL.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguBL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguBL.opinion.pdf) 
+[**`Results`**](./results.md#rgubl) | [**`Participants`**](./participants.md#robert-gordonuharper) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguBL.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguBL.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguBL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguBL.opinion.pdf) 
 
 - :material-rename: **Run ID:** rguBL 
 - :fontawesome-solid-user-group: **Participant:** robert-gordonu.harper 
@@ -403,7 +403,7 @@
 
 ---
 #### rguOPN 
-[**`Results`**](./results.md#rguopn), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguOPN.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguOPN.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguOPN.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguOPN.opinion.pdf) 
+[**`Results`**](./results.md#rguopn) | [**`Participants`**](./participants.md#robert-gordonuharper) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguOPN.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguOPN.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguOPN.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguOPN.opinion.pdf) 
 
 - :material-rename: **Run ID:** rguOPN 
 - :fontawesome-solid-user-group: **Participant:** robert-gordonu.harper 
@@ -416,7 +416,7 @@
 
 ---
 #### rguSBJ 
-[**`Results`**](./results.md#rgusbj), [**`Participants`**](./participants.md#robert-gordonuharper), [**`Proceedings`**](./proceedings.md#the-robert-gordon-university), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguSBJ.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguSBJ.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguSBJ.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguSBJ.opinion.pdf) 
+[**`Results`**](./results.md#rgusbj) | [**`Participants`**](./participants.md#robert-gordonuharper) | [**`Proceedings`**](./proceedings.md#the-robert-gordon-university) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.rguSBJ.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.rguSBJ.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.rguSBJ.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/rguSBJ.opinion.pdf) 
 
 - :material-rename: **Run ID:** rguSBJ 
 - :fontawesome-solid-user-group: **Participant:** robert-gordonu.harper 
@@ -429,7 +429,7 @@
 
 ---
 #### THUBLOGMF 
-[**`Results`**](./results.md#thublogmf), [**`Participants`**](./participants.md#tsinghuauzhang), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGMF.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGMF.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGMF.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGMF.opinion.pdf) 
+[**`Results`**](./results.md#thublogmf) | [**`Participants`**](./participants.md#tsinghuauzhang) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGMF.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGMF.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGMF.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGMF.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUBLOGMF 
 - :fontawesome-solid-user-group: **Participant:** tsinghuau.zhang 
@@ -442,7 +442,7 @@
 
 ---
 #### THUBLOGMFNO 
-[**`Results`**](./results.md#thublogmfno), [**`Participants`**](./participants.md#tsinghuauzhang), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGMFNO.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGMFNO.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGMFNO.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGMFNO.opinion.pdf) 
+[**`Results`**](./results.md#thublogmfno) | [**`Participants`**](./participants.md#tsinghuauzhang) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGMFNO.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGMFNO.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGMFNO.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGMFNO.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUBLOGMFNO 
 - :fontawesome-solid-user-group: **Participant:** tsinghuau.zhang 
@@ -455,7 +455,7 @@
 
 ---
 #### THUBLOGPFS 
-[**`Results`**](./results.md#thublogpfs), [**`Participants`**](./participants.md#tsinghuauzhang), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPFS.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPFS.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPFS.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPFS.opinion.pdf) 
+[**`Results`**](./results.md#thublogpfs) | [**`Participants`**](./participants.md#tsinghuauzhang) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPFS.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPFS.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPFS.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPFS.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUBLOGPFS 
 - :fontawesome-solid-user-group: **Participant:** tsinghuau.zhang 
@@ -468,7 +468,7 @@
 
 ---
 #### THUBLOGPMCT 
-[**`Results`**](./results.md#thublogpmct), [**`Participants`**](./participants.md#tsinghuauzhang), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPMCT.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPMCT.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPMCT.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPMCT.opinion.pdf) 
+[**`Results`**](./results.md#thublogpmct) | [**`Participants`**](./participants.md#tsinghuauzhang) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPMCT.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPMCT.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPMCT.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPMCT.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUBLOGPMCT 
 - :fontawesome-solid-user-group: **Participant:** tsinghuau.zhang 
@@ -481,7 +481,7 @@
 
 ---
 #### THUBLOGPMFU 
-[**`Results`**](./results.md#thublogpmfu), [**`Participants`**](./participants.md#tsinghuauzhang), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPMFU.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPMFU.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPMFU.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPMFU.opinion.pdf) 
+[**`Results`**](./results.md#thublogpmfu) | [**`Participants`**](./participants.md#tsinghuauzhang) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.THUBLOGPMFU.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.THUBLOGPMFU.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.THUBLOGPMFU.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/THUBLOGPMFU.opinion.pdf) 
 
 - :material-rename: **Run ID:** THUBLOGPMFU 
 - :fontawesome-solid-user-group: **Participant:** tsinghuau.zhang 
@@ -494,7 +494,7 @@
 
 ---
 #### UABas11 
-[**`Results`**](./results.md#uabas11), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UABas11.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UABas11.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UABas11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UABas11.opinion.pdf) 
+[**`Results`**](./results.md#uabas11) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UABas11.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UABas11.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UABas11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UABas11.opinion.pdf) 
 
 - :material-rename: **Run ID:** UABas11 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -507,7 +507,7 @@
 
 ---
 #### UAEX11 
-[**`Results`**](./results.md#uaex11), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX11.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX11.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX11.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX11.opinion.pdf) 
+[**`Results`**](./results.md#uaex11) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX11.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX11.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX11.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX11.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAEX11 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -520,7 +520,7 @@
 
 ---
 #### UAEX12 
-[**`Results`**](./results.md#uaex12), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX12.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX12.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX12.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX12.opinion.pdf) 
+[**`Results`**](./results.md#uaex12) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX12.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX12.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX12.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX12.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAEX12 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -533,7 +533,7 @@
 
 ---
 #### UAEX13 
-[**`Results`**](./results.md#uaex13), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX13.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX13.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX13.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX13.opinion.pdf) 
+[**`Results`**](./results.md#uaex13) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX13.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX13.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX13.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX13.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAEX13 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -546,7 +546,7 @@
 
 ---
 #### UAEX21 
-[**`Results`**](./results.md#uaex21), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX21.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX21.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX21.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX21.opinion.pdf) 
+[**`Results`**](./results.md#uaex21) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAEX21.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAEX21.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAEX21.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAEX21.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAEX21 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -559,7 +559,7 @@
 
 ---
 #### UALR06a260r2 
-[**`Results`**](./results.md#ualr06a260r2), [**`Participants`**](./participants.md#uarkansas-littlerockjoshi), [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06a260r2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06a260r2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06a260r2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06a260r2.opinion.pdf) 
+[**`Results`**](./results.md#ualr06a260r2) | [**`Participants`**](./participants.md#uarkansas-littlerockjoshi) | [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06a260r2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06a260r2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06a260r2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06a260r2.opinion.pdf) 
 
 - :material-rename: **Run ID:** UALR06a260r2 
 - :fontawesome-solid-user-group: **Participant:** uarkansas-littlerock.joshi 
@@ -572,7 +572,7 @@
 
 ---
 #### UALR06a500r4 
-[**`Results`**](./results.md#ualr06a500r4), [**`Participants`**](./participants.md#uarkansas-littlerockjoshi), [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06a500r4.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06a500r4.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06a500r4.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06a500r4.opinion.pdf) 
+[**`Results`**](./results.md#ualr06a500r4) | [**`Participants`**](./participants.md#uarkansas-littlerockjoshi) | [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06a500r4.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06a500r4.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06a500r4.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06a500r4.opinion.pdf) 
 
 - :material-rename: **Run ID:** UALR06a500r4 
 - :fontawesome-solid-user-group: **Participant:** uarkansas-littlerock.joshi 
@@ -585,7 +585,7 @@
 
 ---
 #### UALR06m260r3 
-[**`Results`**](./results.md#ualr06m260r3), [**`Participants`**](./participants.md#uarkansas-littlerockjoshi), [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m260r3.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m260r3.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m260r3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m260r3.opinion.pdf) 
+[**`Results`**](./results.md#ualr06m260r3) | [**`Participants`**](./participants.md#uarkansas-littlerockjoshi) | [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m260r3.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m260r3.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m260r3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m260r3.opinion.pdf) 
 
 - :material-rename: **Run ID:** UALR06m260r3 
 - :fontawesome-solid-user-group: **Participant:** uarkansas-littlerock.joshi 
@@ -598,7 +598,7 @@
 
 ---
 #### UALR06m500r5 
-[**`Results`**](./results.md#ualr06m500r5), [**`Participants`**](./participants.md#uarkansas-littlerockjoshi), [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m500r5.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m500r5.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m500r5.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m500r5.opinion.pdf) 
+[**`Results`**](./results.md#ualr06m500r5) | [**`Participants`**](./participants.md#uarkansas-littlerockjoshi) | [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m500r5.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m500r5.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m500r5.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m500r5.opinion.pdf) 
 
 - :material-rename: **Run ID:** UALR06m500r5 
 - :fontawesome-solid-user-group: **Participant:** uarkansas-littlerock.joshi 
@@ -611,7 +611,7 @@
 
 ---
 #### UALR06m5Tr1 
-[**`Results`**](./results.md#ualr06m5tr1), [**`Participants`**](./participants.md#uarkansas-littlerockjoshi), [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m5Tr1.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m5Tr1.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m5Tr1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m5Tr1.opinion.pdf) 
+[**`Results`**](./results.md#ualr06m5tr1) | [**`Participants`**](./participants.md#uarkansas-littlerockjoshi) | [**`Proceedings`**](./proceedings.md#ualr-at-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UALR06m5Tr1.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UALR06m5Tr1.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UALR06m5Tr1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UALR06m5Tr1.opinion.pdf) 
 
 - :material-rename: **Run ID:** UALR06m5Tr1 
 - :fontawesome-solid-user-group: **Participant:** uarkansas-littlerock.joshi 
@@ -624,7 +624,7 @@
 
 ---
 #### UAmsB06All 
-[**`Results`**](./results.md#uamsb06all), [**`Participants`**](./participants.md#uamsterdamilps), [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06All.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06All.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06All.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06All.opinion.pdf) 
+[**`Results`**](./results.md#uamsb06all) | [**`Participants`**](./participants.md#uamsterdamilps) | [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06All.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06All.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06All.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06All.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAmsB06All 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.ilps 
@@ -637,7 +637,7 @@
 
 ---
 #### UAmsB06Base 
-[**`Results`**](./results.md#uamsb06base), [**`Participants`**](./participants.md#uamsterdamilps), [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06Base.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06Base.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06Base.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06Base.opinion.pdf) 
+[**`Results`**](./results.md#uamsb06base) | [**`Participants`**](./participants.md#uamsterdamilps) | [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06Base.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06Base.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06Base.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06Base.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAmsB06Base 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.ilps 
@@ -650,7 +650,7 @@
 
 ---
 #### UAmsB06L 
-[**`Results`**](./results.md#uamsb06l), [**`Participants`**](./participants.md#uamsterdamilps), [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06L.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06L.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06L.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06L.opinion.pdf) 
+[**`Results`**](./results.md#uamsb06l) | [**`Participants`**](./participants.md#uamsterdamilps) | [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06L.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06L.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06L.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06L.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAmsB06L 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.ilps 
@@ -663,7 +663,7 @@
 
 ---
 #### UAmsB06O 
-[**`Results`**](./results.md#uamsb06o), [**`Participants`**](./participants.md#uamsterdamilps), [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06O.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06O.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06O.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06O.opinion.pdf) 
+[**`Results`**](./results.md#uamsb06o) | [**`Participants`**](./participants.md#uamsterdamilps) | [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06O.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06O.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06O.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06O.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAmsB06O 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.ilps 
@@ -676,7 +676,7 @@
 
 ---
 #### UAmsB06S 
-[**`Results`**](./results.md#uamsb06s), [**`Participants`**](./participants.md#uamsterdamilps), [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06S.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06S.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06S.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06S.opinion.pdf) 
+[**`Results`**](./results.md#uamsb06s) | [**`Participants`**](./participants.md#uamsterdamilps) | [**`Proceedings`**](./proceedings.md#multiple-ranking-strategies-for-opinion-retrieval-in-blogs-the-university-of-amsterdam-at-the-2006-trec-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.UAmsB06S.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.UAmsB06S.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.UAmsB06S.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/UAmsB06S.opinion.pdf) 
 
 - :material-rename: **Run ID:** UAmsB06S 
 - :fontawesome-solid-user-group: **Participant:** uamsterdam.ilps 
@@ -689,7 +689,7 @@
 
 ---
 #### uaplabstract 
-[**`Results`**](./results.md#uaplabstract), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplabstract.pdf) 
+[**`Results`**](./results.md#uaplabstract) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplabstract.pdf) 
 
 - :material-rename: **Run ID:** uaplabstract 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -700,7 +700,7 @@
 
 ---
 #### uaplfinal 
-[**`Results`**](./results.md#uaplfinal), [**`Participants`**](./participants.md#umaryland-bcfinin), [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplfinal.pdf) 
+[**`Results`**](./results.md#uaplfinal) | [**`Participants`**](./participants.md#umaryland-bcfinin) | [**`Proceedings`**](./proceedings.md#the-blogvox-opinion-retrieval-system) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uaplfinal.pdf) 
 
 - :material-rename: **Run ID:** uaplfinal 
 - :fontawesome-solid-user-group: **Participant:** umaryland-bc.finin 
@@ -711,7 +711,7 @@
 
 ---
 #### ucscauto 
-[**`Results`**](./results.md#ucscauto), [**`Participants`**](./participants.md#ucaliforniasczhang), [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscauto.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscauto.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscauto.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscauto.opinion.pdf) 
+[**`Results`**](./results.md#ucscauto) | [**`Participants`**](./participants.md#ucaliforniasczhang) | [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscauto.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscauto.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscauto.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscauto.opinion.pdf) 
 
 - :material-rename: **Run ID:** ucscauto 
 - :fontawesome-solid-user-group: **Participant:** ucalifornia.sc.zhang 
@@ -724,7 +724,7 @@
 
 ---
 #### ucscdesc 
-[**`Results`**](./results.md#ucscdesc), [**`Participants`**](./participants.md#ucaliforniasczhang), [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscdesc.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscdesc.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscdesc.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscdesc.opinion.pdf) 
+[**`Results`**](./results.md#ucscdesc) | [**`Participants`**](./participants.md#ucaliforniasczhang) | [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscdesc.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscdesc.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscdesc.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscdesc.opinion.pdf) 
 
 - :material-rename: **Run ID:** ucscdesc 
 - :fontawesome-solid-user-group: **Participant:** ucalifornia.sc.zhang 
@@ -737,7 +737,7 @@
 
 ---
 #### ucscrelfb 
-[**`Results`**](./results.md#ucscrelfb), [**`Participants`**](./participants.md#ucaliforniasczhang), [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscrelfb.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscrelfb.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscrelfb.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscrelfb.opinion.pdf) 
+[**`Results`**](./results.md#ucscrelfb) | [**`Participants`**](./participants.md#ucaliforniasczhang) | [**`Proceedings`**](./proceedings.md#ucsc-on-rec-2006-blog-opinion-mining) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.ucscrelfb.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.ucscrelfb.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.ucscrelfb.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/ucscrelfb.opinion.pdf) 
 
 - :material-rename: **Run ID:** ucscrelfb 
 - :fontawesome-solid-user-group: **Participant:** ucalifornia.sc.zhang 
@@ -750,7 +750,7 @@
 
 ---
 #### uicsr 
-[**`Results`**](./results.md#uicsr), [**`Participants`**](./participants.md#uillinoischicagozhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.uicsr.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.uicsr.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.uicsr.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uicsr.opinion.pdf) 
+[**`Results`**](./results.md#uicsr) | [**`Participants`**](./participants.md#uillinoischicagozhang) | [**`Proceedings`**](./proceedings.md#uic-at-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.uicsr.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.uicsr.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.uicsr.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uicsr.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicsr 
 - :fontawesome-solid-user-group: **Participant:** uillinois.chicago.zhang 
@@ -763,7 +763,7 @@
 
 ---
 #### uicst 
-[**`Results`**](./results.md#uicst), [**`Participants`**](./participants.md#uillinoischicagozhang), [**`Proceedings`**](./proceedings.md#uic-at-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.uicst.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.uicst.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.uicst.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uicst.opinion.pdf) 
+[**`Results`**](./results.md#uicst) | [**`Participants`**](./participants.md#uillinoischicagozhang) | [**`Proceedings`**](./proceedings.md#uic-at-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.uicst.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.uicst.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.uicst.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/uicst.opinion.pdf) 
 
 - :material-rename: **Run ID:** uicst 
 - :fontawesome-solid-user-group: **Participant:** uillinois.chicago.zhang 
@@ -776,7 +776,7 @@
 
 ---
 #### woqln2 
-[**`Results`**](./results.md#woqln2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.woqln2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.woqln2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.woqln2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/woqln2.opinion.pdf) 
+[**`Results`**](./results.md#woqln2) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.woqln2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.woqln2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.woqln2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/woqln2.opinion.pdf) 
 
 - :material-rename: **Run ID:** woqln2 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -789,7 +789,7 @@
 
 ---
 #### woqs2 
-[**`Results`**](./results.md#woqs2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.woqs2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.woqs2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.woqs2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/woqs2.opinion.pdf) 
+[**`Results`**](./results.md#woqs2) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.woqs2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.woqs2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.woqs2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/woqs2.opinion.pdf) 
 
 - :material-rename: **Run ID:** woqs2 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -802,7 +802,7 @@
 
 ---
 #### wxoqf2 
-[**`Results`**](./results.md#wxoqf2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqf2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqf2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqf2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqf2.opinion.pdf) 
+[**`Results`**](./results.md#wxoqf2) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqf2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqf2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqf2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqf2.opinion.pdf) 
 
 - :material-rename: **Run ID:** wxoqf2 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -815,7 +815,7 @@
 
 ---
 #### wxoqln2 
-[**`Results`**](./results.md#wxoqln2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqln2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqln2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqln2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqln2.opinion.pdf) 
+[**`Results`**](./results.md#wxoqln2) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqln2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqln2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqln2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqln2.opinion.pdf) 
 
 - :material-rename: **Run ID:** wxoqln2 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 
@@ -828,7 +828,7 @@
 
 ---
 #### wxoqs2 
-[**`Results`**](./results.md#wxoqs2), [**`Participants`**](./participants.md#indianauyang), [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track), [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqs2.gz), [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqs2.gz), [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqs2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqs2.opinion.pdf) 
+[**`Results`**](./results.md#wxoqs2) | [**`Participants`**](./participants.md#indianauyang) | [**`Proceedings`**](./proceedings.md#widit-in-trec-2006-blog-track) | [**`Input`**](https://trec.nist.gov/results/trec15/blog/input.wxoqs2.gz) | [**`Summary (topicrel)`**](https://trec.nist.gov/results/trec15/blog/summary.topicrel.wxoqs2.gz) | [**`Summary (opinion)`**](https://trec.nist.gov/results/trec15/blog/summary.opinion.wxoqs2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec15/appendices/blog/wxoqs2.opinion.pdf) 
 
 - :material-rename: **Run ID:** wxoqs2 
 - :fontawesome-solid-user-group: **Participant:** indianau.yang 

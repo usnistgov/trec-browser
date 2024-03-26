@@ -1,6 +1,6 @@
 # Data - Medical 2012 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/medical2012.html`](https://trec.nist.gov/data/medical2012.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/medical2012.html`](https://trec.nist.gov/data/medical2012.html)
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-**Other:** [`TREC 2012 qrels file suitable for use with trec_eval`](https://trec.nist.gov/data/medical/12/2012-sampleval-qrels.txt), [`sample_eval.pl evaluation script`](https://trec.nist.gov/data/medical/12/sample_eval.pl), [`Report to Visit Map`](https://trec.nist.gov/data/medical/12/UnivOfPittReportMappingToVisit.txt)
+**Other:** [`TREC 2012 qrels file suitable for use with trec_eval`](https://trec.nist.gov/data/medical/12/2012-sampleval-qrels.txt) | [`sample_eval.pl evaluation script`](https://trec.nist.gov/data/medical/12/sample_eval.pl) | [`Report to Visit Map`](https://trec.nist.gov/data/medical/12/UnivOfPittReportMappingToVisit.txt)

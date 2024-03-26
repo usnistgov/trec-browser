@@ -1,6 +1,6 @@
 # Data - Confusion 1996 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t5_confusion.html`](https://trec.nist.gov/data/t5_confusion.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t5_confusion.html`](https://trec.nist.gov/data/t5_confusion.html)
 
 ---
 

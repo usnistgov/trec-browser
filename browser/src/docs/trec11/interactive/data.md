@@ -1,6 +1,6 @@
 # Data - Interactive 2002 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t2002_interactive.html`](https://trec.nist.gov/data/t2002_interactive.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t2002_interactive.html`](https://trec.nist.gov/data/t2002_interactive.html)
 
 ---
 

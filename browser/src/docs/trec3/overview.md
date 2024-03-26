@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -21,7 +21,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ## Routing
 
-[`Overview`](./routing/overview.md), [`Proceedings`](./routing/proceedings.md), [`Data`](./routing/data.md), [`Results`](./routing/results.md), [`Runs`](./routing/runs.md), [`Participants`](./routing/participants.md)
+[`Overview`](./routing/overview.md) | [`Proceedings`](./routing/proceedings.md) | [`Data`](./routing/data.md) | [`Results`](./routing/results.md) | [`Runs`](./routing/runs.md) | [`Participants`](./routing/participants.md)
 
 {==
 

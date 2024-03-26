@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The ad hoc retrieval task investigates the performance of systems that search a 
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Data`](./filtering/data.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -42,7 +42,7 @@ The TREC-8 filtering track measures the ability of systems to build persistent u
 
 ## Large Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -63,7 +63,7 @@ The TREC-8 Web Track defined ad hoc retrieval tasks over the 100 gigabyte VLC2 c
 
 ## Query
 
-[`Overview`](./query/overview.md), [`Proceedings`](./query/proceedings.md), [`Data`](./query/data.md), [`Runs`](./query/runs.md), [`Participants`](./query/participants.md)
+[`Overview`](./query/overview.md) | [`Proceedings`](./query/proceedings.md) | [`Data`](./query/data.md) | [`Runs`](./query/runs.md) | [`Participants`](./query/participants.md)
 
 {==
 
@@ -83,7 +83,7 @@ The Query Track in TREC-8 is a bit different from all the other tracks. It is a 
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -103,7 +103,7 @@ The TREC-8 Question Answering track was the first large scale evaluation of doma
 
 ## Spoken Document Retrieval
 
-[`Overview`](./sdr/overview.md), [`Proceedings`](./sdr/proceedings.md), [`Data`](./sdr/data.md), [`Results`](./sdr/results.md), [`Runs`](./sdr/runs.md), [`Participants`](./sdr/participants.md)
+[`Overview`](./sdr/overview.md) | [`Proceedings`](./sdr/proceedings.md) | [`Data`](./sdr/data.md) | [`Results`](./sdr/results.md) | [`Runs`](./sdr/runs.md) | [`Participants`](./sdr/participants.md)
 
 {==
 
@@ -124,7 +124,7 @@ SDR involves the search and retrieval of excerpts from spoken audio recordings u
 
 ## Cross-Language
 
-[`Overview`](./xlingual/overview.md), [`Proceedings`](./xlingual/proceedings.md), [`Results`](./xlingual/results.md), [`Runs`](./xlingual/runs.md), [`Participants`](./xlingual/participants.md)
+[`Overview`](./xlingual/overview.md) | [`Proceedings`](./xlingual/proceedings.md) | [`Results`](./xlingual/results.md) | [`Runs`](./xlingual/runs.md) | [`Participants`](./xlingual/participants.md)
 
 {==
 
@@ -145,7 +145,7 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 ## GIRT
 
-[`Overview`](./girt/overview.md), [`Proceedings`](./girt/proceedings.md), [`Runs`](./girt/runs.md), [`Participants`](./girt/participants.md)
+[`Overview`](./girt/overview.md) | [`Proceedings`](./girt/proceedings.md) | [`Runs`](./girt/runs.md) | [`Participants`](./girt/participants.md)
 
 {==
 
@@ -166,7 +166,7 @@ A cross-language retrieval track was offered for the third time at TREC-8. The m
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 

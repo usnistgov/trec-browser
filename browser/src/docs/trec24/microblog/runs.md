@@ -1,7 +1,7 @@
 # Runs - Microblog 2015 
 
 #### BJUTllyQE 
-[**`Results`**](./results.md#bjutllyqe), [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BJUTllyQE.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BJUTllyQE.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BJUTllyQE.pdf) 
+[**`Results`**](./results.md#bjutllyqe) | [**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BJUTllyQE.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BJUTllyQE.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BJUTllyQE.pdf) 
 
 - :material-rename: **Run ID:** BJUTllyQE 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -15,7 +15,7 @@
 
 ---
 #### BjutNMF1 
-[**`Results`**](./results.md#bjutnmf1), [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BjutNMF1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BjutNMF1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BjutNMF1.pdf) 
+[**`Results`**](./results.md#bjutnmf1) | [**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BjutNMF1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BjutNMF1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BjutNMF1.pdf) 
 
 - :material-rename: **Run ID:** BjutNMF1 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -29,7 +29,7 @@
 
 ---
 #### BjutNMF2 
-[**`Results`**](./results.md#bjutnmf2), [**`Participants`**](./participants.md#bjut), [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BjutNMF2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BjutNMF2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BjutNMF2.pdf) 
+[**`Results`**](./results.md#bjutnmf2) | [**`Participants`**](./participants.md#bjut) | [**`Proceedings`**](./proceedings.md#bjut-at-trec-2015-microblog-track-real-time-filtering-using-knowledge-base) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/BjutNMF2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-BjutNMF2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/BjutNMF2.pdf) 
 
 - :material-rename: **Run ID:** BjutNMF2 
 - :fontawesome-solid-user-group: **Participant:** BJUT 
@@ -43,7 +43,7 @@
 
 ---
 #### CLIP-A-5.0-0.5 
-[**`Results`**](./results.md#clip-a-50-05), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-5.0-0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-5.0-0.5.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-5.0-0.5.pdf) 
+[**`Results`**](./results.md#clip-a-50-05) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-5.0-0.5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-5.0-0.5.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-5.0-0.5.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-5.0-0.5 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -57,7 +57,7 @@
 
 ---
 #### CLIP-A-5.0-0.6 
-[**`Results`**](./results.md#clip-a-50-06), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-5.0-0.6.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-5.0-0.6.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-5.0-0.6.pdf) 
+[**`Results`**](./results.md#clip-a-50-06) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-5.0-0.6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-5.0-0.6.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-5.0-0.6.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-5.0-0.6 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -71,7 +71,7 @@
 
 ---
 #### CLIP-A-DYN-0.5 
-[**`Results`**](./results.md#clip-a-dyn-05), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-DYN-0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-DYN-0.5.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-DYN-0.5.pdf) 
+[**`Results`**](./results.md#clip-a-dyn-05) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-A-DYN-0.5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-CLIP-A-DYN-0.5.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-A-DYN-0.5.pdf) 
 
 - :material-rename: **Run ID:** CLIP-A-DYN-0.5 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -85,7 +85,7 @@
 
 ---
 #### CLIP-B-0.4 
-[**`Results`**](./results.md#clip-b-04), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.4.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.4.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.4.pdf) 
+[**`Results`**](./results.md#clip-b-04) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.4.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.4.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.4.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-0.4 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -99,7 +99,7 @@
 
 ---
 #### CLIP-B-0.5 
-[**`Results`**](./results.md#clip-b-05), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.5.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.5.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.5.pdf) 
+[**`Results`**](./results.md#clip-b-05) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.5.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.5.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.5.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-0.5 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -113,7 +113,7 @@
 
 ---
 #### CLIP-B-0.6 
-[**`Results`**](./results.md#clip-b-06), [**`Participants`**](./participants.md#clip), [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.6.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.6.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.6.pdf) 
+[**`Results`**](./results.md#clip-b-06) | [**`Participants`**](./participants.md#clip) | [**`Proceedings`**](./proceedings.md#clip-at-trec-2015-microblog-and-liveqa) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/CLIP-B-0.6.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-CLIP-B-0.6.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/CLIP-B-0.6.pdf) 
 
 - :material-rename: **Run ID:** CLIP-B-0.6 
 - :fontawesome-solid-user-group: **Participant:** CLIP 
@@ -127,7 +127,7 @@
 
 ---
 #### DALTREC_B_PREP 
-[**`Results`**](./results.md#daltrec_b_prep), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTREC_B_PREP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTREC_B_PREP.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTREC_B_PREP.pdf) 
+[**`Results`**](./results.md#daltrec_b_prep) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTREC_B_PREP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTREC_B_PREP.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTREC_B_PREP.pdf) 
 
 - :material-rename: **Run ID:** DALTREC_B_PREP 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -141,7 +141,7 @@
 
 ---
 #### DALTRECAA1 
-[**`Results`**](./results.md#daltrecaa1), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECAA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECAA1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECAA1.pdf) 
+[**`Results`**](./results.md#daltrecaa1) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECAA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECAA1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECAA1.pdf) 
 
 - :material-rename: **Run ID:** DALTRECAA1 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -156,7 +156,7 @@
 
 ---
 #### DALTRECAB1 
-[**`Results`**](./results.md#daltrecab1), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECAB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTRECAB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECAB1.pdf) 
+[**`Results`**](./results.md#daltrecab1) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECAB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTRECAB1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECAB1.pdf) 
 
 - :material-rename: **Run ID:** DALTRECAB1 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -171,7 +171,7 @@
 
 ---
 #### DALTRECMA1 
-[**`Results`**](./results.md#daltrecma1), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECMA1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMA1.pdf) 
+[**`Results`**](./results.md#daltrecma1) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECMA1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMA1.pdf) 
 
 - :material-rename: **Run ID:** DALTRECMA1 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -185,7 +185,7 @@
 
 ---
 #### DALTRECMA2 
-[**`Results`**](./results.md#daltrecma2), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECMA2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMA2.pdf) 
+[**`Results`**](./results.md#daltrecma2) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-DALTRECMA2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMA2.pdf) 
 
 - :material-rename: **Run ID:** DALTRECMA2 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -199,7 +199,7 @@
 
 ---
 #### DALTRECMB1 
-[**`Results`**](./results.md#daltrecmb1), [**`Participants`**](./participants.md#daltrec), [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTRECMB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMB1.pdf) 
+[**`Results`**](./results.md#daltrecmb1) | [**`Participants`**](./participants.md#daltrec) | [**`Proceedings`**](./proceedings.md#real-time-filtering-of-tweets-using-wikipedia-concepts-and-google-tri-gram-semantic-relatedness) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/DALTRECMB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-DALTRECMB1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/DALTRECMB1.pdf) 
 
 - :material-rename: **Run ID:** DALTRECMB1 
 - :fontawesome-solid-user-group: **Participant:** DalTREC 
@@ -214,7 +214,7 @@
 
 ---
 #### ECNURUNA1 
-[**`Results`**](./results.md#ecnuruna1), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA1.pdf) 
+[**`Results`**](./results.md#ecnuruna1) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA1.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNA1 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -229,7 +229,7 @@
 
 ---
 #### ECNURUNA2 
-[**`Results`**](./results.md#ecnuruna2), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA2.pdf) 
+[**`Results`**](./results.md#ecnuruna2) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA2.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNA2 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -244,7 +244,7 @@
 
 ---
 #### ECNURUNA3 
-[**`Results`**](./results.md#ecnuruna3), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA3.pdf) 
+[**`Results`**](./results.md#ecnuruna3) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNA3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-ECNURUNA3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNA3.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNA3 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -259,7 +259,7 @@
 
 ---
 #### ECNURUNB1 
-[**`Results`**](./results.md#ecnurunb1), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB1.pdf) 
+[**`Results`**](./results.md#ecnurunb1) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB1.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNB1 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -274,7 +274,7 @@
 
 ---
 #### ECNURUNB2 
-[**`Results`**](./results.md#ecnurunb2), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB2.pdf) 
+[**`Results`**](./results.md#ecnurunb2) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB2.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNB2 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -289,7 +289,7 @@
 
 ---
 #### ECNURUNB3 
-[**`Results`**](./results.md#ecnurunb3), [**`Participants`**](./participants.md#ecnu), [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB3.pdf) 
+[**`Results`**](./results.md#ecnurunb3) | [**`Participants`**](./participants.md#ecnu) | [**`Proceedings`**](./proceedings.md#ecnu-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/ECNURUNB3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-ECNURUNB3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/ECNURUNB3.pdf) 
 
 - :material-rename: **Run ID:** ECNURUNB3 
 - :fontawesome-solid-user-group: **Participant:** ECNU 
@@ -304,7 +304,7 @@
 
 ---
 #### hpclab_pi_algA 
-[**`Results`**](./results.md#hpclab_pi_alga), [**`Participants`**](./participants.md#hpclab_pi), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/hpclab_pi_algA.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-hpclab_pi_algA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/hpclab_pi_algA.pdf) 
+[**`Results`**](./results.md#hpclab_pi_alga) | [**`Participants`**](./participants.md#hpclab_pi) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/hpclab_pi_algA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-hpclab_pi_algA.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/hpclab_pi_algA.pdf) 
 
 - :material-rename: **Run ID:** hpclab_pi_algA 
 - :fontawesome-solid-user-group: **Participant:** HPCLAB_PI 
@@ -317,7 +317,7 @@
 
 ---
 #### hpclabpibm25mod 
-[**`Results`**](./results.md#hpclabpibm25mod), [**`Participants`**](./participants.md#hpclab_pi), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/hpclabpibm25mod.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-hpclabpibm25mod.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/hpclabpibm25mod.pdf) 
+[**`Results`**](./results.md#hpclabpibm25mod) | [**`Participants`**](./participants.md#hpclab_pi) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/hpclabpibm25mod.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-hpclabpibm25mod.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/hpclabpibm25mod.pdf) 
 
 - :material-rename: **Run ID:** hpclabpibm25mod 
 - :fontawesome-solid-user-group: **Participant:** HPCLAB_PI 
@@ -330,7 +330,7 @@
 
 ---
 #### IRIT-KLTFIDF 
-[**`Results`**](./results.md#irit-kltfidf), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-KLTFIDF.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IRIT-KLTFIDF.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-KLTFIDF.pdf) 
+[**`Results`**](./results.md#irit-kltfidf) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-KLTFIDF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IRIT-KLTFIDF.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-KLTFIDF.pdf) 
 
 - :material-rename: **Run ID:** IRIT-KLTFIDF 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -343,7 +343,7 @@
 
 ---
 #### IRIT-RTDig.33 
-[**`Results`**](./results.md#irit-rtdig33), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-RTDig.33.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IRIT-RTDig.33.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-RTDig.33.pdf) 
+[**`Results`**](./results.md#irit-rtdig33) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-RTDig.33.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IRIT-RTDig.33.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-RTDig.33.pdf) 
 
 - :material-rename: **Run ID:** IRIT-RTDig.33 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -357,7 +357,7 @@
 
 ---
 #### IRIT-RTNotif.33 
-[**`Results`**](./results.md#irit-rtnotif33), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-RTNotif.33.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IRIT-RTNotif.33.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-RTNotif.33.pdf) 
+[**`Results`**](./results.md#irit-rtnotif33) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT-RTNotif.33.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IRIT-RTNotif.33.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT-RTNotif.33.pdf) 
 
 - :material-rename: **Run ID:** IRIT-RTNotif.33 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -371,7 +371,7 @@
 
 ---
 #### IRIT100KLTFIDF 
-[**`Results`**](./results.md#irit100kltfidf), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT100KLTFIDF.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IRIT100KLTFIDF.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT100KLTFIDF.pdf) 
+[**`Results`**](./results.md#irit100kltfidf) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IRIT100KLTFIDF.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IRIT100KLTFIDF.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IRIT100KLTFIDF.pdf) 
 
 - :material-rename: **Run ID:** IRIT100KLTFIDF 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -384,7 +384,7 @@
 
 ---
 #### IritSigSDA 
-[**`Results`**](./results.md#iritsigsda), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IritSigSDA.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IritSigSDA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IritSigSDA.pdf) 
+[**`Results`**](./results.md#iritsigsda) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IritSigSDA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-IritSigSDA.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IritSigSDA.pdf) 
 
 - :material-rename: **Run ID:** IritSigSDA 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -398,7 +398,7 @@
 
 ---
 #### IritSigSDB 
-[**`Results`**](./results.md#iritsigsdb), [**`Participants`**](./participants.md#irit), [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IritSigSDB.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IritSigSDB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IritSigSDB.pdf) 
+[**`Results`**](./results.md#iritsigsdb) | [**`Participants`**](./participants.md#irit) | [**`Proceedings`**](./proceedings.md#irit-at-trec-microblog-2015) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/IritSigSDB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-IritSigSDB.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/IritSigSDB.pdf) 
 
 - :material-rename: **Run ID:** IritSigSDB 
 - :fontawesome-solid-user-group: **Participant:** IRIT 
@@ -412,7 +412,7 @@
 
 ---
 #### MPII_COM_MAXREP 
-[**`Results`**](./results.md#mpii_com_maxrep), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COM_MAXREP.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_COM_MAXREP.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COM_MAXREP.pdf) 
+[**`Results`**](./results.md#mpii_com_maxrep) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COM_MAXREP.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_COM_MAXREP.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COM_MAXREP.pdf) 
 
 - :material-rename: **Run ID:** MPII_COM_MAXREP 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -427,7 +427,7 @@
 
 ---
 #### MPII_COMB_MART 
-[**`Results`**](./results.md#mpii_comb_mart), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COMB_MART.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_COMB_MART.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COMB_MART.pdf) 
+[**`Results`**](./results.md#mpii_comb_mart) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COMB_MART.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_COMB_MART.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COMB_MART.pdf) 
 
 - :material-rename: **Run ID:** MPII_COMB_MART 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -442,7 +442,7 @@
 
 ---
 #### MPII_COMB_SORT 
-[**`Results`**](./results.md#mpii_comb_sort), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COMB_SORT.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_COMB_SORT.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COMB_SORT.pdf) 
+[**`Results`**](./results.md#mpii_comb_sort) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_COMB_SORT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_COMB_SORT.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_COMB_SORT.pdf) 
 
 - :material-rename: **Run ID:** MPII_COMB_SORT 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -457,7 +457,7 @@
 
 ---
 #### MPII_HYBRID_PW 
-[**`Results`**](./results.md#mpii_hybrid_pw), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_HYBRID_PW.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_HYBRID_PW.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_HYBRID_PW.pdf) 
+[**`Results`**](./results.md#mpii_hybrid_pw) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_HYBRID_PW.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_HYBRID_PW.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_HYBRID_PW.pdf) 
 
 - :material-rename: **Run ID:** MPII_HYBRID_PW 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -472,7 +472,7 @@
 
 ---
 #### MPII_LUC_MART 
-[**`Results`**](./results.md#mpii_luc_mart), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_LUC_MART.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_LUC_MART.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_LUC_MART.pdf) 
+[**`Results`**](./results.md#mpii_luc_mart) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_LUC_MART.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-MPII_LUC_MART.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_LUC_MART.pdf) 
 
 - :material-rename: **Run ID:** MPII_LUC_MART 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -487,7 +487,7 @@
 
 ---
 #### MPII_LUC_SORT 
-[**`Results`**](./results.md#mpii_luc_sort), [**`Participants`**](./participants.md#mpii), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_LUC_SORT.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_LUC_SORT.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_LUC_SORT.pdf) 
+[**`Results`**](./results.md#mpii_luc_sort) | [**`Participants`**](./participants.md#mpii) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/MPII_LUC_SORT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-MPII_LUC_SORT.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/MPII_LUC_SORT.pdf) 
 
 - :material-rename: **Run ID:** MPII_LUC_SORT 
 - :fontawesome-solid-user-group: **Participant:** MPII 
@@ -502,7 +502,7 @@
 
 ---
 #### PKUICSTRunA1 
-[**`Results`**](./results.md#pkuicstruna1), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA1.pdf) 
+[**`Results`**](./results.md#pkuicstruna1) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA1.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunA1 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -517,7 +517,7 @@
 
 ---
 #### PKUICSTRunA2 
-[**`Results`**](./results.md#pkuicstruna2), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA2.pdf) 
+[**`Results`**](./results.md#pkuicstruna2) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA2.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunA2 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -531,7 +531,7 @@
 
 ---
 #### PKUICSTRunA3 
-[**`Results`**](./results.md#pkuicstruna3), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA3.pdf) 
+[**`Results`**](./results.md#pkuicstruna3) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunA3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-PKUICSTRunA3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunA3.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunA3 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -546,7 +546,7 @@
 
 ---
 #### PKUICSTRunB1 
-[**`Results`**](./results.md#pkuicstrunb1), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB1.pdf) 
+[**`Results`**](./results.md#pkuicstrunb1) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB1.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB1 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -561,7 +561,7 @@
 
 ---
 #### PKUICSTRunB2 
-[**`Results`**](./results.md#pkuicstrunb2), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB2.pdf) 
+[**`Results`**](./results.md#pkuicstrunb2) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB2.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB2 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -575,7 +575,7 @@
 
 ---
 #### PKUICSTRunB3 
-[**`Results`**](./results.md#pkuicstrunb3), [**`Participants`**](./participants.md#pkuicst), [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB3.pdf) 
+[**`Results`**](./results.md#pkuicstrunb3) | [**`Participants`**](./participants.md#pkuicst) | [**`Proceedings`**](./proceedings.md#pkuicst-at-trec-2015-microblog-track-query-biased-adaptive-filtering-in-real-time-microblog-stream) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/PKUICSTRunB3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-PKUICSTRunB3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/PKUICSTRunB3.pdf) 
 
 - :material-rename: **Run ID:** PKUICSTRunB3 
 - :fontawesome-solid-user-group: **Participant:** PKUICST 
@@ -590,7 +590,7 @@
 
 ---
 #### prnaTaskA1 
-[**`Results`**](./results.md#prnataska1), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA1.pdf) 
+[**`Results`**](./results.md#prnataska1) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA1.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskA1 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -604,7 +604,7 @@
 
 ---
 #### prnaTaskA2 
-[**`Results`**](./results.md#prnataska2), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA2.pdf) 
+[**`Results`**](./results.md#prnataska2) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA2.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskA2 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -618,7 +618,7 @@
 
 ---
 #### prnaTaskA3 
-[**`Results`**](./results.md#prnataska3), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA3.pdf) 
+[**`Results`**](./results.md#prnataska3) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskA3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-prnaTaskA3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskA3.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskA3 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -632,7 +632,7 @@
 
 ---
 #### prnaTaskB1 
-[**`Results`**](./results.md#prnataskb1), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB1.pdf) 
+[**`Results`**](./results.md#prnataskb1) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB1.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskB1 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -646,7 +646,7 @@
 
 ---
 #### prnaTaskB2 
-[**`Results`**](./results.md#prnataskb2), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB2.pdf) 
+[**`Results`**](./results.md#prnataskb2) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB2.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskB2 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -660,7 +660,7 @@
 
 ---
 #### prnaTaskB3 
-[**`Results`**](./results.md#prnataskb3), [**`Participants`**](./participants.md#prna), [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB3.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB3.pdf) 
+[**`Results`**](./results.md#prnataskb3) | [**`Participants`**](./participants.md#prna) | [**`Proceedings`**](./proceedings.md#exploiting-neural-embeddings-for-social-media-data-analysis) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/prnaTaskB3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-prnaTaskB3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/prnaTaskB3.pdf) 
 
 - :material-rename: **Run ID:** prnaTaskB3 
 - :fontawesome-solid-user-group: **Participant:** prna 
@@ -674,7 +674,7 @@
 
 ---
 #### QUBaseline 
-[**`Results`**](./results.md#qubaseline), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUBaseline.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUBaseline.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUBaseline.pdf) 
+[**`Results`**](./results.md#qubaseline) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUBaseline.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUBaseline.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUBaseline.pdf) 
 
 - :material-rename: **Run ID:** QUBaseline 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -688,7 +688,7 @@
 
 ---
 #### QUBaselineB 
-[**`Results`**](./results.md#qubaselineb), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUBaselineB.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUBaselineB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUBaselineB.pdf) 
+[**`Results`**](./results.md#qubaselineb) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUBaselineB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUBaselineB.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUBaselineB.pdf) 
 
 - :material-rename: **Run ID:** QUBaselineB 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -702,7 +702,7 @@
 
 ---
 #### QUDyn 
-[**`Results`**](./results.md#qudyn), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUDyn.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUDyn.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUDyn.pdf) 
+[**`Results`**](./results.md#qudyn) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUDyn.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUDyn.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUDyn.pdf) 
 
 - :material-rename: **Run ID:** QUDyn 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -716,7 +716,7 @@
 
 ---
 #### QUDynExp 
-[**`Results`**](./results.md#qudynexp), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUDynExp.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUDynExp.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUDynExp.pdf) 
+[**`Results`**](./results.md#qudynexp) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUDynExp.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-QUDynExp.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUDynExp.pdf) 
 
 - :material-rename: **Run ID:** QUDynExp 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -730,7 +730,7 @@
 
 ---
 #### QUExpB 
-[**`Results`**](./results.md#quexpb), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUExpB.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUExpB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUExpB.pdf) 
+[**`Results`**](./results.md#quexpb) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUExpB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUExpB.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUExpB.pdf) 
 
 - :material-rename: **Run ID:** QUExpB 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -744,7 +744,7 @@
 
 ---
 #### QUFullExpB 
-[**`Results`**](./results.md#qufullexpb), [**`Participants`**](./participants.md#qu), [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUFullExpB.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUFullExpB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUFullExpB.pdf) 
+[**`Results`**](./results.md#qufullexpb) | [**`Participants`**](./participants.md#qu) | [**`Proceedings`**](./proceedings.md#qu-at-trec-2015-building-real-time-systems-for-tweet-filtering-and-question-answering) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/QUFullExpB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-QUFullExpB.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/QUFullExpB.pdf) 
 
 - :material-rename: **Run ID:** QUFullExpB 
 - :fontawesome-solid-user-group: **Participant:** QU 
@@ -758,7 +758,7 @@
 
 ---
 #### SNACS 
-[**`Results`**](./results.md#snacs), [**`Participants`**](./participants.md#nudtsna), [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-SNACS.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS.pdf) 
+[**`Results`**](./results.md#snacs) | [**`Participants`**](./participants.md#nudtsna) | [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-SNACS.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS.pdf) 
 
 - :material-rename: **Run ID:** SNACS 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -773,7 +773,7 @@
 
 ---
 #### SNACS_LA 
-[**`Results`**](./results.md#snacs_la), [**`Participants`**](./participants.md#nudtsna), [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS_LA.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-SNACS_LA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS_LA.pdf) 
+[**`Results`**](./results.md#snacs_la) | [**`Participants`**](./participants.md#nudtsna) | [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS_LA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-SNACS_LA.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS_LA.pdf) 
 
 - :material-rename: **Run ID:** SNACS_LA 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -788,7 +788,7 @@
 
 ---
 #### SNACS_LB 
-[**`Results`**](./results.md#snacs_lb), [**`Participants`**](./participants.md#nudtsna), [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS_LB.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-SNACS_LB.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS_LB.pdf) 
+[**`Results`**](./results.md#snacs_lb) | [**`Participants`**](./participants.md#nudtsna) | [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACS_LB.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-SNACS_LB.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACS_LB.pdf) 
 
 - :material-rename: **Run ID:** SNACS_LB 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -803,7 +803,7 @@
 
 ---
 #### SNACSA 
-[**`Results`**](./results.md#snacsa), [**`Participants`**](./participants.md#nudtsna), [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACSA.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-SNACSA.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACSA.pdf) 
+[**`Results`**](./results.md#snacsa) | [**`Participants`**](./participants.md#nudtsna) | [**`Proceedings`**](./proceedings.md#nudtsna-at-trec-2015-microblog-track-a-live-retrieval-system-framework-for-social-network-based-on-semantic-expansion-and-quality-model) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/SNACSA.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-SNACSA.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/SNACSA.pdf) 
 
 - :material-rename: **Run ID:** SNACSA 
 - :fontawesome-solid-user-group: **Participant:** NUDTSNA 
@@ -818,7 +818,7 @@
 
 ---
 #### udelRun1A 
-[**`Results`**](./results.md#udelrun1a), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun1A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun1A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun1A.pdf) 
+[**`Results`**](./results.md#udelrun1a) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun1A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun1A.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun1A.pdf) 
 
 - :material-rename: **Run ID:** udelRun1A 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -832,7 +832,7 @@
 
 ---
 #### udelRun1B 
-[**`Results`**](./results.md#udelrun1b), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun1B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun1B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun1B.pdf) 
+[**`Results`**](./results.md#udelrun1b) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun1B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun1B.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun1B.pdf) 
 
 - :material-rename: **Run ID:** udelRun1B 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -846,7 +846,7 @@
 
 ---
 #### udelRun2A 
-[**`Results`**](./results.md#udelrun2a), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun2A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun2A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun2A.pdf) 
+[**`Results`**](./results.md#udelrun2a) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun2A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun2A.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun2A.pdf) 
 
 - :material-rename: **Run ID:** udelRun2A 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -860,7 +860,7 @@
 
 ---
 #### udelRun2B 
-[**`Results`**](./results.md#udelrun2b), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun2B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun2B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun2B.pdf) 
+[**`Results`**](./results.md#udelrun2b) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun2B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun2B.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun2B.pdf) 
 
 - :material-rename: **Run ID:** udelRun2B 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -874,7 +874,7 @@
 
 ---
 #### udelRun3A 
-[**`Results`**](./results.md#udelrun3a), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun3A.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun3A.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun3A.pdf) 
+[**`Results`**](./results.md#udelrun3a) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun3A.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-udelRun3A.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun3A.pdf) 
 
 - :material-rename: **Run ID:** udelRun3A 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -888,7 +888,7 @@
 
 ---
 #### udelRun3B 
-[**`Results`**](./results.md#udelrun3b), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun3B.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun3B.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun3B.pdf) 
+[**`Results`**](./results.md#udelrun3b) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/udelRun3B.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-udelRun3B.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/udelRun3B.pdf) 
 
 - :material-rename: **Run ID:** udelRun3B 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -902,7 +902,7 @@
 
 ---
 #### umd_hcil_run01 
-[**`Results`**](./results.md#umd_hcil_run01), [**`Participants`**](./participants.md#umd_hcil), [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run01.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-umd_hcil_run01.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run01.pdf) 
+[**`Results`**](./results.md#umd_hcil_run01) | [**`Participants`**](./participants.md#umd_hcil) | [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run01.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-umd_hcil_run01.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run01.pdf) 
 
 - :material-rename: **Run ID:** umd_hcil_run01 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -917,7 +917,7 @@
 
 ---
 #### umd_hcil_run02 
-[**`Results`**](./results.md#umd_hcil_run02), [**`Participants`**](./participants.md#umd_hcil), [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run02.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-umd_hcil_run02.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run02.pdf) 
+[**`Results`**](./results.md#umd_hcil_run02) | [**`Participants`**](./participants.md#umd_hcil) | [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run02.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-umd_hcil_run02.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run02.pdf) 
 
 - :material-rename: **Run ID:** umd_hcil_run02 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -932,7 +932,7 @@
 
 ---
 #### umd_hcil_run03 
-[**`Results`**](./results.md#umd_hcil_run03), [**`Participants`**](./participants.md#umd_hcil), [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run03.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-umd_hcil_run03.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run03.pdf) 
+[**`Results`**](./results.md#umd_hcil_run03) | [**`Participants`**](./participants.md#umd_hcil) | [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run03.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-umd_hcil_run03.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run03.pdf) 
 
 - :material-rename: **Run ID:** umd_hcil_run03 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -947,7 +947,7 @@
 
 ---
 #### umd_hcil_run04 
-[**`Results`**](./results.md#umd_hcil_run04), [**`Participants`**](./participants.md#umd_hcil), [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run04.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-umd_hcil_run04.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run04.pdf) 
+[**`Results`**](./results.md#umd_hcil_run04) | [**`Participants`**](./participants.md#umd_hcil) | [**`Proceedings`**](./proceedings.md#burst-detection-in-social-media-streams-for-tracking-interest-profiles-in-real-time) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/umd_hcil_run04.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-umd_hcil_run04.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/umd_hcil_run04.pdf) 
 
 - :material-rename: **Run ID:** umd_hcil_run04 
 - :fontawesome-solid-user-group: **Participant:** umd_hcil 
@@ -962,7 +962,7 @@
 
 ---
 #### UNCSILS_HRM 
-[**`Results`**](./results.md#uncsils_hrm), [**`Participants`**](./participants.md#uncsils), [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_HRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_HRM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_HRM.pdf) 
+[**`Results`**](./results.md#uncsils_hrm) | [**`Participants`**](./participants.md#uncsils) | [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_HRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_HRM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_HRM.pdf) 
 
 - :material-rename: **Run ID:** UNCSILS_HRM 
 - :fontawesome-solid-user-group: **Participant:** UNCSILS 
@@ -976,7 +976,7 @@
 
 ---
 #### UNCSILS_TRM 
-[**`Results`**](./results.md#uncsils_trm), [**`Participants`**](./participants.md#uncsils), [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_TRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_TRM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_TRM.pdf) 
+[**`Results`**](./results.md#uncsils_trm) | [**`Participants`**](./participants.md#uncsils) | [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_TRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_TRM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_TRM.pdf) 
 
 - :material-rename: **Run ID:** UNCSILS_TRM 
 - :fontawesome-solid-user-group: **Participant:** UNCSILS 
@@ -990,7 +990,7 @@
 
 ---
 #### UNCSILS_WRM 
-[**`Results`**](./results.md#uncsils_wrm), [**`Participants`**](./participants.md#uncsils), [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_WRM.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_WRM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_WRM.pdf) 
+[**`Results`**](./results.md#uncsils_wrm) | [**`Participants`**](./participants.md#uncsils) | [**`Proceedings`**](./proceedings.md#query-expansion-approaches-for-microblog-retrieval) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UNCSILS_WRM.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UNCSILS_WRM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UNCSILS_WRM.pdf) 
 
 - :material-rename: **Run ID:** UNCSILS_WRM 
 - :fontawesome-solid-user-group: **Participant:** UNCSILS 
@@ -1004,7 +1004,7 @@
 
 ---
 #### UWaterlooATDK 
-[**`Results`**](./results.md#uwaterlooatdk), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATDK.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATDK.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATDK.pdf) 
+[**`Results`**](./results.md#uwaterlooatdk) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATDK.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATDK.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATDK.pdf) 
 
 - :material-rename: **Run ID:** UWaterlooATDK 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1018,7 +1018,7 @@
 
 ---
 #### UWaterlooATEK 
-[**`Results`**](./results.md#uwaterlooatek), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATEK.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATEK.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATEK.pdf) 
+[**`Results`**](./results.md#uwaterlooatek) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATEK.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATEK.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATEK.pdf) 
 
 - :material-rename: **Run ID:** UWaterlooATEK 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1032,7 +1032,7 @@
 
 ---
 #### UWaterlooATNDEK 
-[**`Results`**](./results.md#uwaterlooatndek), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATNDEK.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATNDEK.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATNDEK.pdf) 
+[**`Results`**](./results.md#uwaterlooatndek) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooATNDEK.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWaterlooATNDEK.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooATNDEK.pdf) 
 
 - :material-rename: **Run ID:** UWaterlooATNDEK 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1046,7 +1046,7 @@
 
 ---
 #### UWaterlooBT 
-[**`Results`**](./results.md#uwaterloobt), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooBT.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWaterlooBT.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooBT.pdf) 
+[**`Results`**](./results.md#uwaterloobt) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooBT.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWaterlooBT.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooBT.pdf) 
 
 - :material-rename: **Run ID:** UWaterlooBT 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1060,7 +1060,7 @@
 
 ---
 #### UWaterlooBTND 
-[**`Results`**](./results.md#uwaterloobtnd), [**`Participants`**](./participants.md#uwaterloomds), [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooBTND.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWaterlooBTND.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooBTND.pdf) 
+[**`Results`**](./results.md#uwaterloobtnd) | [**`Participants`**](./participants.md#uwaterloomds) | [**`Proceedings`**](./proceedings.md#university-of-waterloo-at-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWaterlooBTND.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWaterlooBTND.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWaterlooBTND.pdf) 
 
 - :material-rename: **Run ID:** UWaterlooBTND 
 - :fontawesome-solid-user-group: **Participant:** UWaterlooMDS 
@@ -1074,7 +1074,7 @@
 
 ---
 #### UWCMBE1 
-[**`Results`**](./results.md#uwcmbe1), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBE1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWCMBE1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBE1.pdf) 
+[**`Results`**](./results.md#uwcmbe1) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBE1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWCMBE1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBE1.pdf) 
 
 - :material-rename: **Run ID:** UWCMBE1 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1088,7 +1088,7 @@
 
 ---
 #### UWCMBE2 
-[**`Results`**](./results.md#uwcmbe2), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBE2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWCMBE2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBE2.pdf) 
+[**`Results`**](./results.md#uwcmbe2) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBE2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-b-UWCMBE2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBE2.pdf) 
 
 - :material-rename: **Run ID:** UWCMBE2 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1102,7 +1102,7 @@
 
 ---
 #### UWCMBP1 
-[**`Results`**](./results.md#uwcmbp1), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBP1.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWCMBP1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBP1.pdf) 
+[**`Results`**](./results.md#uwcmbp1) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBP1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWCMBP1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBP1.pdf) 
 
 - :material-rename: **Run ID:** UWCMBP1 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -1116,7 +1116,7 @@
 
 ---
 #### UWCMBP2 
-[**`Results`**](./results.md#uwcmbp2), [**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track), [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBP2.gz), [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWCMBP2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBP2.pdf) 
+[**`Results`**](./results.md#uwcmbp2) | [**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-microblog-track) | [**`Input`**](https://trec.nist.gov/results/trec24/microblog/UWCMBP2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec24/microblog/summary-a-UWCMBP2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec24/appendices/microblog/UWCMBP2.pdf) 
 
 - :material-rename: **Run ID:** UWCMBP2 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 

@@ -2,7 +2,7 @@
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 
@@ -21,7 +21,7 @@ TREC-9 marked a broadening of the range of of search task types represented in t
 
 ## Spoken Document Retrieval
 
-[`Overview`](./sdr/overview.md), [`Proceedings`](./sdr/proceedings.md), [`Results`](./sdr/results.md), [`Runs`](./sdr/runs.md), [`Participants`](./sdr/participants.md)
+[`Overview`](./sdr/overview.md) | [`Proceedings`](./sdr/proceedings.md) | [`Results`](./sdr/results.md) | [`Runs`](./sdr/runs.md) | [`Participants`](./sdr/participants.md)
 
 {==
 
@@ -42,7 +42,7 @@ The SDR track fosters research on retrieval methodologies for spoken documents (
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -61,7 +61,7 @@ The TREC question answering track is an effort to bring the benefits of large-sc
 
 ## Cross-Language
 
-[`Overview`](./xlingual/overview.md), [`Proceedings`](./xlingual/proceedings.md), [`Results`](./xlingual/results.md), [`Runs`](./xlingual/runs.md), [`Participants`](./xlingual/participants.md)
+[`Overview`](./xlingual/overview.md) | [`Proceedings`](./xlingual/proceedings.md) | [`Results`](./xlingual/results.md) | [`Runs`](./xlingual/runs.md) | [`Participants`](./xlingual/participants.md)
 
 {==
 
@@ -80,7 +80,7 @@ For TREC-9 the cross-language information retrieval task was to utilize English 
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Data`](./filtering/data.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -100,7 +100,7 @@ The TREC-9 filtering track measures the ability of systems to build persistent u
 
 ## Query
 
-[`Overview`](./query/overview.md), [`Proceedings`](./query/proceedings.md), [`Runs`](./query/runs.md), [`Participants`](./query/participants.md)
+[`Overview`](./query/overview.md) | [`Proceedings`](./query/proceedings.md) | [`Runs`](./query/runs.md) | [`Participants`](./query/participants.md)
 
 {==
 
@@ -119,7 +119,7 @@ The Query Track in TREC-9 is unlike the other tracks in TREC. The other tracks a
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 

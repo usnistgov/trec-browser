@@ -1,7 +1,7 @@
 # Runs - Session 2013 
 
 #### FixInt28.RL1 
-[**`Results`**](./results.md#fixint28), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
+[**`Results`**](./results.md#fixint28) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
 
 - :material-rename: **Run ID:** FixInt28.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -15,7 +15,7 @@
 
 ---
 #### FixInt28.RL2 
-[**`Results`**](./results.md#fixint28), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
+[**`Results`**](./results.md#fixint28) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
 
 - :material-rename: **Run ID:** FixInt28.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -29,7 +29,7 @@
 
 ---
 #### FixInt28.RL3 
-[**`Results`**](./results.md#fixint28), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
+[**`Results`**](./results.md#fixint28) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28.pdf) 
 
 - :material-rename: **Run ID:** FixInt28.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -43,7 +43,7 @@
 
 ---
 #### FixInt28N.RL1 
-[**`Results`**](./results.md#fixint28n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
+[**`Results`**](./results.md#fixint28n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
 
 - :material-rename: **Run ID:** FixInt28N.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -57,7 +57,7 @@
 
 ---
 #### FixInt28N.RL2 
-[**`Results`**](./results.md#fixint28n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
+[**`Results`**](./results.md#fixint28n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
 
 - :material-rename: **Run ID:** FixInt28N.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -71,7 +71,7 @@
 
 ---
 #### FixInt28N.RL3 
-[**`Results`**](./results.md#fixint28n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
+[**`Results`**](./results.md#fixint28n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt28N.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt28N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt28N.pdf) 
 
 - :material-rename: **Run ID:** FixInt28N.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -85,7 +85,7 @@
 
 ---
 #### FixInt58.RL1 
-[**`Results`**](./results.md#fixint58), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
+[**`Results`**](./results.md#fixint58) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
 
 - :material-rename: **Run ID:** FixInt58.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -99,7 +99,7 @@
 
 ---
 #### FixInt58.RL2 
-[**`Results`**](./results.md#fixint58), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
+[**`Results`**](./results.md#fixint58) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
 
 - :material-rename: **Run ID:** FixInt58.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -113,7 +113,7 @@
 
 ---
 #### FixInt58.RL3 
-[**`Results`**](./results.md#fixint58), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
+[**`Results`**](./results.md#fixint58) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58.pdf) 
 
 - :material-rename: **Run ID:** FixInt58.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -127,7 +127,7 @@
 
 ---
 #### FixInt58N.RL1 
-[**`Results`**](./results.md#fixint58n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
+[**`Results`**](./results.md#fixint58n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
 
 - :material-rename: **Run ID:** FixInt58N.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -141,7 +141,7 @@
 
 ---
 #### FixInt58N.RL2 
-[**`Results`**](./results.md#fixint58n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
+[**`Results`**](./results.md#fixint58n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
 
 - :material-rename: **Run ID:** FixInt58N.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -155,7 +155,7 @@
 
 ---
 #### FixInt58N.RL3 
-[**`Results`**](./results.md#fixint58n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
+[**`Results`**](./results.md#fixint58n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-FixInt58N.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-FixInt58N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/FixInt58N.pdf) 
 
 - :material-rename: **Run ID:** FixInt58N.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -169,7 +169,7 @@
 
 ---
 #### GUrun1.RL1 
-[**`Results`**](./results.md#gurun1), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
+[**`Results`**](./results.md#gurun1) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
 
 - :material-rename: **Run ID:** GUrun1.RL1 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -183,7 +183,7 @@
 
 ---
 #### GUrun1.RL2 
-[**`Results`**](./results.md#gurun1), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
+[**`Results`**](./results.md#gurun1) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
 
 - :material-rename: **Run ID:** GUrun1.RL2 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -197,7 +197,7 @@
 
 ---
 #### GUrun1.RL3 
-[**`Results`**](./results.md#gurun1), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
+[**`Results`**](./results.md#gurun1) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun1.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun1.pdf) 
 
 - :material-rename: **Run ID:** GUrun1.RL3 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -211,7 +211,7 @@
 
 ---
 #### GUrun2.RL1 
-[**`Results`**](./results.md#gurun2), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
+[**`Results`**](./results.md#gurun2) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
 
 - :material-rename: **Run ID:** GUrun2.RL1 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -225,7 +225,7 @@
 
 ---
 #### GUrun2.RL2 
-[**`Results`**](./results.md#gurun2), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
+[**`Results`**](./results.md#gurun2) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
 
 - :material-rename: **Run ID:** GUrun2.RL2 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -239,7 +239,7 @@
 
 ---
 #### GUrun2.RL3 
-[**`Results`**](./results.md#gurun2), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
+[**`Results`**](./results.md#gurun2) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun2.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun2.pdf) 
 
 - :material-rename: **Run ID:** GUrun2.RL3 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -253,7 +253,7 @@
 
 ---
 #### GUrun3.RL1 
-[**`Results`**](./results.md#gurun3), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
+[**`Results`**](./results.md#gurun3) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
 
 - :material-rename: **Run ID:** GUrun3.RL1 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -267,7 +267,7 @@
 
 ---
 #### GUrun3.RL2 
-[**`Results`**](./results.md#gurun3), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
+[**`Results`**](./results.md#gurun3) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
 
 - :material-rename: **Run ID:** GUrun3.RL2 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -281,7 +281,7 @@
 
 ---
 #### GUrun3.RL3 
-[**`Results`**](./results.md#gurun3), [**`Participants`**](./participants.md#georgetownyang), [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
+[**`Results`**](./results.md#gurun3) | [**`Participants`**](./participants.md#georgetownyang) | [**`Proceedings`**](./proceedings.md#applying-the-query-change-retrieval-model-on-session-search-georgetown-at-trec-2013-session-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-GUrun3.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-GUrun3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/GUrun3.pdf) 
 
 - :material-rename: **Run ID:** GUrun3.RL3 
 - :fontawesome-solid-user-group: **Participant:** GeorgetownYang 
@@ -295,7 +295,7 @@
 
 ---
 #### ICTNET13SER1.RL1 
-[**`Results`**](./results.md#ictnet13ser1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
+[**`Results`**](./results.md#ictnet13ser1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER1.RL1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -309,7 +309,7 @@
 
 ---
 #### ICTNET13SER1.RL2 
-[**`Results`**](./results.md#ictnet13ser1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
+[**`Results`**](./results.md#ictnet13ser1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER1.RL2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -323,7 +323,7 @@
 
 ---
 #### ICTNET13SER1.RL3 
-[**`Results`**](./results.md#ictnet13ser1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
+[**`Results`**](./results.md#ictnet13ser1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER1.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER1.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER1.RL3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -337,7 +337,7 @@
 
 ---
 #### ICTNET13SER2.RL1 
-[**`Results`**](./results.md#ictnet13ser2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
+[**`Results`**](./results.md#ictnet13ser2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER2.RL1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -351,7 +351,7 @@
 
 ---
 #### ICTNET13SER2.RL2 
-[**`Results`**](./results.md#ictnet13ser2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
+[**`Results`**](./results.md#ictnet13ser2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER2.RL2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -365,7 +365,7 @@
 
 ---
 #### ICTNET13SER2.RL3 
-[**`Results`**](./results.md#ictnet13ser2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
+[**`Results`**](./results.md#ictnet13ser2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER2.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER2.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER2.RL3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -379,7 +379,7 @@
 
 ---
 #### ICTNET13SER3.RL1 
-[**`Results`**](./results.md#ictnet13ser3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
+[**`Results`**](./results.md#ictnet13ser3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER3.RL1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -393,7 +393,7 @@
 
 ---
 #### ICTNET13SER3.RL2 
-[**`Results`**](./results.md#ictnet13ser3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
+[**`Results`**](./results.md#ictnet13ser3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER3.RL2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -407,7 +407,7 @@
 
 ---
 #### ICTNET13SER3.RL3 
-[**`Results`**](./results.md#ictnet13ser3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
+[**`Results`**](./results.md#ictnet13ser3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-session-track-trec-2013) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-ICTNET13SER3.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-ICTNET13SER3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/ICTNET13SER3.pdf) 
 
 - :material-rename: **Run ID:** ICTNET13SER3.RL3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -421,7 +421,7 @@
 
 ---
 #### KM1.RL1 
-[**`Results`**](./results.md#km1), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
+[**`Results`**](./results.md#km1) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
 
 - :material-rename: **Run ID:** KM1.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -435,7 +435,7 @@
 
 ---
 #### KM1.RL2 
-[**`Results`**](./results.md#km1), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
+[**`Results`**](./results.md#km1) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
 
 - :material-rename: **Run ID:** KM1.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -449,7 +449,7 @@
 
 ---
 #### KM1.RL3 
-[**`Results`**](./results.md#km1), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
+[**`Results`**](./results.md#km1) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1.pdf) 
 
 - :material-rename: **Run ID:** KM1.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -463,7 +463,7 @@
 
 ---
 #### KM1N.RL1 
-[**`Results`**](./results.md#km1n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
+[**`Results`**](./results.md#km1n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
 
 - :material-rename: **Run ID:** KM1N.RL1 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -477,7 +477,7 @@
 
 ---
 #### KM1N.RL2 
-[**`Results`**](./results.md#km1n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
+[**`Results`**](./results.md#km1n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
 
 - :material-rename: **Run ID:** KM1N.RL2 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -491,7 +491,7 @@
 
 ---
 #### KM1N.RL3 
-[**`Results`**](./results.md#km1n), [**`Participants`**](./participants.md#pitt), [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
+[**`Results`**](./results.md#km1n) | [**`Participants`**](./participants.md#pitt) | [**`Proceedings`**](./proceedings.md#pitt-at-trec-2013-different-effects-of-click-through-and-past-queries-on-whole-session-search-performance) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-KM1N.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-KM1N.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/KM1N.pdf) 
 
 - :material-rename: **Run ID:** KM1N.RL3 
 - :fontawesome-solid-user-group: **Participant:** PITT 
@@ -505,7 +505,7 @@
 
 ---
 #### udelCombUD.RL1 
-[**`Results`**](./results.md#udelcombud), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
+[**`Results`**](./results.md#udelcombud) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
 
 - :material-rename: **Run ID:** udelCombUD.RL1 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -519,7 +519,7 @@
 
 ---
 #### udelCombUD.RL2 
-[**`Results`**](./results.md#udelcombud), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
+[**`Results`**](./results.md#udelcombud) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
 
 - :material-rename: **Run ID:** udelCombUD.RL2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -533,7 +533,7 @@
 
 ---
 #### udelCombUD.RL3 
-[**`Results`**](./results.md#udelcombud), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
+[**`Results`**](./results.md#udelcombud) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-udelCombUD.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-udelCombUD.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/udelCombUD.pdf) 
 
 - :material-rename: **Run ID:** udelCombUD.RL3 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -547,7 +547,7 @@
 
 ---
 #### UDVirtualCmb.RL1 
-[**`Results`**](./results.md#udvirtualcmb), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
+[**`Results`**](./results.md#udvirtualcmb) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualCmb.RL1 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -561,7 +561,7 @@
 
 ---
 #### UDVirtualCmb.RL2 
-[**`Results`**](./results.md#udvirtualcmb), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
+[**`Results`**](./results.md#udvirtualcmb) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualCmb.RL2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -575,7 +575,7 @@
 
 ---
 #### UDVirtualCmb.RL3 
-[**`Results`**](./results.md#udvirtualcmb), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
+[**`Results`**](./results.md#udvirtualcmb) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualCmb.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualCmb.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualCmb.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualCmb.RL3 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -589,7 +589,7 @@
 
 ---
 #### UDVirtualLM.RL1 
-[**`Results`**](./results.md#udvirtuallm), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
+[**`Results`**](./results.md#udvirtuallm) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualLM.RL1 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -603,7 +603,7 @@
 
 ---
 #### UDVirtualLM.RL2 
-[**`Results`**](./results.md#udvirtuallm), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
+[**`Results`**](./results.md#udvirtuallm) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualLM.RL2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -617,7 +617,7 @@
 
 ---
 #### UDVirtualLM.RL3 
-[**`Results`**](./results.md#udvirtuallm), [**`Participants`**](./participants.md#udel), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
+[**`Results`**](./results.md#udvirtuallm) | [**`Participants`**](./participants.md#udel) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-UDVirtualLM.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-UDVirtualLM.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/UDVirtualLM.pdf) 
 
 - :material-rename: **Run ID:** UDVirtualLM.RL3 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -631,7 +631,7 @@
 
 ---
 #### wdtiger1.RL1 
-[**`Results`**](./results.md#wdtiger1), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
+[**`Results`**](./results.md#wdtiger1) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
 
 - :material-rename: **Run ID:** wdtiger1.RL1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -645,7 +645,7 @@
 
 ---
 #### wdtiger1.RL2 
-[**`Results`**](./results.md#wdtiger1), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
+[**`Results`**](./results.md#wdtiger1) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
 
 - :material-rename: **Run ID:** wdtiger1.RL2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -659,7 +659,7 @@
 
 ---
 #### wdtiger1.RL3 
-[**`Results`**](./results.md#wdtiger1), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
+[**`Results`**](./results.md#wdtiger1) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger1.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger1.pdf) 
 
 - :material-rename: **Run ID:** wdtiger1.RL3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -673,7 +673,7 @@
 
 ---
 #### wdtiger2.RL1 
-[**`Results`**](./results.md#wdtiger2), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
+[**`Results`**](./results.md#wdtiger2) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
 
 - :material-rename: **Run ID:** wdtiger2.RL1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -687,7 +687,7 @@
 
 ---
 #### wdtiger2.RL2 
-[**`Results`**](./results.md#wdtiger2), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
+[**`Results`**](./results.md#wdtiger2) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
 
 - :material-rename: **Run ID:** wdtiger2.RL2 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -701,7 +701,7 @@
 
 ---
 #### wdtiger2.RL3 
-[**`Results`**](./results.md#wdtiger2), [**`Participants`**](./participants.md#pris), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
+[**`Results`**](./results.md#wdtiger2) | [**`Participants`**](./participants.md#pris) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-wdtiger2.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-wdtiger2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/wdtiger2.pdf) 
 
 - :material-rename: **Run ID:** wdtiger2.RL3 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -715,7 +715,7 @@
 
 ---
 #### webisS1.RL1 
-[**`Results`**](./results.md#webiss1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
+[**`Results`**](./results.md#webiss1) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
 
 - :material-rename: **Run ID:** webisS1.RL1 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -729,7 +729,7 @@
 
 ---
 #### webisS1.RL2 
-[**`Results`**](./results.md#webiss1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
+[**`Results`**](./results.md#webiss1) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
 
 - :material-rename: **Run ID:** webisS1.RL2 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -743,7 +743,7 @@
 
 ---
 #### webisS1.RL3 
-[**`Results`**](./results.md#webiss1), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
+[**`Results`**](./results.md#webiss1) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS1.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS1.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS1.pdf) 
 
 - :material-rename: **Run ID:** webisS1.RL3 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -757,7 +757,7 @@
 
 ---
 #### webisS2.RL1 
-[**`Results`**](./results.md#webiss2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
+[**`Results`**](./results.md#webiss2) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
 
 - :material-rename: **Run ID:** webisS2.RL1 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -771,7 +771,7 @@
 
 ---
 #### webisS2.RL2 
-[**`Results`**](./results.md#webiss2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
+[**`Results`**](./results.md#webiss2) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
 
 - :material-rename: **Run ID:** webisS2.RL2 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -785,7 +785,7 @@
 
 ---
 #### webisS2.RL3 
-[**`Results`**](./results.md#webiss2), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
+[**`Results`**](./results.md#webiss2) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS2.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS2.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS2.pdf) 
 
 - :material-rename: **Run ID:** webisS2.RL3 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -799,7 +799,7 @@
 
 ---
 #### webisS3.RL1 
-[**`Results`**](./results.md#webiss3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL1.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
+[**`Results`**](./results.md#webiss3) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL1.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
 
 - :material-rename: **Run ID:** webisS3.RL1 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -813,7 +813,7 @@
 
 ---
 #### webisS3.RL2 
-[**`Results`**](./results.md#webiss3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL2.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
+[**`Results`**](./results.md#webiss3) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL2.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
 
 - :material-rename: **Run ID:** webisS3.RL2 
 - :fontawesome-solid-user-group: **Participant:** webis 
@@ -827,7 +827,7 @@
 
 ---
 #### webisS3.RL3 
-[**`Results`**](./results.md#webiss3), [**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track), [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL3.gz), [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt), [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
+[**`Results`**](./results.md#webiss3) | [**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2013-session-and-web-track) | [**`Input`**](https://trec.nist.gov/results/trec22/session/input-webisS3.RL3.gz) | [**`Summary`**](https://trec.nist.gov/results/trec22/session/summary-webisS3.txt) | [**`Appendix`**](https://trec.nist.gov/pubs/trec22/appendices/session/webisS3.pdf) 
 
 - :material-rename: **Run ID:** webisS3.RL3 
 - :fontawesome-solid-user-group: **Participant:** webis 

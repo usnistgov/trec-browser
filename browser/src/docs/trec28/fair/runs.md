@@ -1,7 +1,7 @@
 # Runs - Fair Ranking 2019 
 
 #### fair_LambdaMART 
-[**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#fair-ranking-in-academic-search-notebook-for-the-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.fair_LambdaMART.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.fair_LambdaMART), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.fair_LambdaMART), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/fair_LambdaMART.pdf) 
+[**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#fair-ranking-in-academic-search-notebook-for-the-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.fair_LambdaMART.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.fair_LambdaMART) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.fair_LambdaMART) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/fair_LambdaMART.pdf) 
 
 - :material-rename: **Run ID:** fair_LambdaMART 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -14,7 +14,7 @@
 
 ---
 #### fair_random 
-[**`Participants`**](./participants.md#ir-cologne), [**`Proceedings`**](./proceedings.md#fair-ranking-in-academic-search-notebook-for-the-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.fair_random.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.fair_random), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.fair_random), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/fair_random.pdf) 
+[**`Participants`**](./participants.md#ir-cologne) | [**`Proceedings`**](./proceedings.md#fair-ranking-in-academic-search-notebook-for-the-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.fair_random.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.fair_random) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.fair_random) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/fair_random.pdf) 
 
 - :material-rename: **Run ID:** fair_random 
 - :fontawesome-solid-user-group: **Participant:** IR-Cologne 
@@ -27,7 +27,7 @@
 
 ---
 #### first 
-[**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ict-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.first.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.first), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.first), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/first.pdf) 
+[**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ict-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.first.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.first) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.first) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/first.pdf) 
 
 - :material-rename: **Run ID:** first 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -40,7 +40,7 @@
 
 ---
 #### MacEwanBase 
-[**`Participants`**](./participants.md#macewansob), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.MacEwanBase.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.MacEwanBase), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.MacEwanBase), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/MacEwanBase.pdf) 
+[**`Participants`**](./participants.md#macewansob) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.MacEwanBase.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.MacEwanBase) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.MacEwanBase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/MacEwanBase.pdf) 
 
 - :material-rename: **Run ID:** MacEwanBase 
 - :fontawesome-solid-user-group: **Participant:** MacEwanSoB 
@@ -53,7 +53,7 @@
 
 ---
 #### QUARTZ-e0.00001 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00001.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00001), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00001), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00001.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00001.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00001) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00001) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00001.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.00001 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -66,7 +66,7 @@
 
 ---
 #### QUARTZ-e0.00010 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00010.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00010), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00010), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00010.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00010.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00010) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00010) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00010.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.00010 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -79,7 +79,7 @@
 
 ---
 #### QUARTZ-e0.00100 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00100.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00100), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00100), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00100.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00100.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00100) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00100) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00100.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.00100 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -92,7 +92,7 @@
 
 ---
 #### QUARTZ-e0.00200 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00200.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00200), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00200), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00200.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00200.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00200) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00200) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00200.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.00200 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -105,7 +105,7 @@
 
 ---
 #### QUARTZ-e0.00500 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00500.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00500), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00500), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00500.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.00500.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.00500) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.00500) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.00500.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.00500 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -118,7 +118,7 @@
 
 ---
 #### QUARTZ-e0.01000 
-[**`Participants`**](./participants.md#quartz_itn), [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.01000.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.01000), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.01000), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.01000.pdf) 
+[**`Participants`**](./participants.md#quartz_itn) | [**`Proceedings`**](./proceedings.md#testing-fairness-using-the-log-likelihood-ratio) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.QUARTZ-e0.01000.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.QUARTZ-e0.01000) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.QUARTZ-e0.01000) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/QUARTZ-e0.01000.pdf) 
 
 - :material-rename: **Run ID:** QUARTZ-e0.01000 
 - :fontawesome-solid-user-group: **Participant:** QUARTZ_ITN 
@@ -131,7 +131,7 @@
 
 ---
 #### uognleDivAAsp 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleDivAAsp.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleDivAAsp), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleDivAAsp), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleDivAAsp.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleDivAAsp.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleDivAAsp) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleDivAAsp) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleDivAAsp.pdf) 
 
 - :material-rename: **Run ID:** uognleDivAAsp 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -144,7 +144,7 @@
 
 ---
 #### uognleDivAJc 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleDivAJc.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleDivAJc), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleDivAJc), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleDivAJc.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleDivAJc.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleDivAJc) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleDivAJc) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleDivAJc.pdf) 
 
 - :material-rename: **Run ID:** uognleDivAJc 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -157,7 +157,7 @@
 
 ---
 #### uognleMaxUtil 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleMaxUtil.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleMaxUtil), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleMaxUtil), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleMaxUtil.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleMaxUtil.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleMaxUtil) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleMaxUtil) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleMaxUtil.pdf) 
 
 - :material-rename: **Run ID:** uognleMaxUtil 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -170,7 +170,7 @@
 
 ---
 #### uognleSgbrFair 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleSgbrFair.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleSgbrFair), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleSgbrFair), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleSgbrFair.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleSgbrFair.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleSgbrFair) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleSgbrFair) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleSgbrFair.pdf) 
 
 - :material-rename: **Run ID:** uognleSgbrFair 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -183,7 +183,7 @@
 
 ---
 #### uognleSgbrUtil 
-[**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track), [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleSgbrUtil.gz), [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleSgbrUtil), [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleSgbrUtil), [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleSgbrUtil.pdf) 
+[**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-terrier-team-and-naver-labs-europe-at-trec-2019-fair-ranking-track) | [**`Input`**](https://trec.nist.gov/results/trec28/fair/input.uognleSgbrUtil.gz) | [**`Summary (level)`**](https://trec.nist.gov/results/trec28/fair/summary.level.uognleSgbrUtil) | [**`Summary (hindex)`**](https://trec.nist.gov/results/trec28/fair/summary.hindex.uognleSgbrUtil) | [**`Appendix`**](https://trec.nist.gov/pubs/trec28/appendices/fair/uognleSgbrUtil.pdf) 
 
 - :material-rename: **Run ID:** uognleSgbrUtil 
 - :fontawesome-solid-user-group: **Participant:** uogTr 

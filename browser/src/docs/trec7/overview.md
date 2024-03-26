@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -22,7 +22,7 @@ The ad hoc task investigates the performance of systems that search a static set
 
 ## High-Precision
 
-[`Overview`](./hp/overview.md), [`Proceedings`](./hp/proceedings.md), [`Results`](./hp/results.md), [`Runs`](./hp/runs.md), [`Participants`](./hp/participants.md)
+[`Overview`](./hp/overview.md) | [`Proceedings`](./hp/proceedings.md) | [`Results`](./hp/results.md) | [`Runs`](./hp/runs.md) | [`Participants`](./hp/participants.md)
 
 {==
 
@@ -41,7 +41,7 @@ TREC 7 is the second year the High-Precision (HP) track has been run. It is an a
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Proceedings`](./filtering/proceedings.md), [`Data`](./filtering/data.md), [`Runs`](./filtering/runs.md), [`Participants`](./filtering/participants.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md) | [`Runs`](./filtering/runs.md) | [`Participants`](./filtering/participants.md)
 
 {==
 
@@ -60,7 +60,7 @@ Given a topic description, build a filtering profile which will select the most 
 
 ## Spoken Document Retrieval
 
-[`Overview`](./sdr/overview.md), [`Proceedings`](./sdr/proceedings.md), [`Data`](./sdr/data.md), [`Results`](./sdr/results.md), [`Runs`](./sdr/runs.md), [`Participants`](./sdr/participants.md)
+[`Overview`](./sdr/overview.md) | [`Proceedings`](./sdr/proceedings.md) | [`Data`](./sdr/data.md) | [`Results`](./sdr/results.md) | [`Runs`](./sdr/runs.md) | [`Participants`](./sdr/participants.md)
 
 {==
 
@@ -83,7 +83,7 @@ Spoken Document Retrieval (SDR) involves the search and retrieval of excerpts fr
 
 ## Cross-Language
 
-[`Overview`](./xlingual/overview.md), [`Proceedings`](./xlingual/proceedings.md), [`Data`](./xlingual/data.md), [`Results`](./xlingual/results.md), [`Runs`](./xlingual/runs.md), [`Participants`](./xlingual/participants.md)
+[`Overview`](./xlingual/overview.md) | [`Proceedings`](./xlingual/proceedings.md) | [`Data`](./xlingual/data.md) | [`Results`](./xlingual/results.md) | [`Runs`](./xlingual/runs.md) | [`Participants`](./xlingual/participants.md)
 
 {==
 
@@ -105,7 +105,7 @@ This year, the TREC cross-language retrieval track took place for the second tim
 
 ## Query
 
-[`Overview`](./query/overview.md), [`Proceedings`](./query/proceedings.md), [`Results`](./query/results.md), [`Runs`](./query/runs.md), [`Participants`](./query/participants.md)
+[`Overview`](./query/overview.md) | [`Proceedings`](./query/proceedings.md) | [`Results`](./query/results.md) | [`Runs`](./query/runs.md) | [`Participants`](./query/participants.md)
 
 {==
 
@@ -124,7 +124,7 @@ General IR research is being held up because we don't have enough queries of var
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 

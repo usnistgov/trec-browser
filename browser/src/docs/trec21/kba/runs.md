@@ -1,7 +1,7 @@
 # Runs - Knowledge Base Acceleration 2012 
 
 #### CWI-DISAMBIGUATOR 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-DISAMBIGUATOR.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-DISAMBIGUATOR.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-DISAMBIGUATOR.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-DISAMBIGUATOR.pdf) 
 
 - :material-rename: **Run ID:** CWI-DISAMBIGUATOR 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -15,7 +15,7 @@
 
 ---
 #### CWI-google_dic_1 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_1.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_1.pdf) 
 
 - :material-rename: **Run ID:** CWI-google_dic_1 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -29,7 +29,7 @@
 
 ---
 #### CWI-google_dic_2 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_2.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_2.pdf) 
 
 - :material-rename: **Run ID:** CWI-google_dic_2 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -43,7 +43,7 @@
 
 ---
 #### CWI-google_dic_3 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_3.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_dic_3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_dic_3.pdf) 
 
 - :material-rename: **Run ID:** CWI-google_dic_3 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -57,7 +57,7 @@
 
 ---
 #### CWI-google_strip_1 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_strip_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_strip_1.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_strip_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_strip_1.pdf) 
 
 - :material-rename: **Run ID:** CWI-google_strip_1 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -71,7 +71,7 @@
 
 ---
 #### CWI-google_strip_2 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_strip_2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_strip_2.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-google_strip_2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-google_strip_2.pdf) 
 
 - :material-rename: **Run ID:** CWI-google_strip_2 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -85,7 +85,7 @@
 
 ---
 #### CWI-LANGUAGEMODEL 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-LANGUAGEMODEL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-LANGUAGEMODEL.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-LANGUAGEMODEL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-LANGUAGEMODEL.pdf) 
 
 - :material-rename: **Run ID:** CWI-LANGUAGEMODEL 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -99,7 +99,7 @@
 
 ---
 #### CWI-LEARNING16000 
-[**`Participants`**](./participants.md#cwi), [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-LEARNING16000.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-LEARNING16000.pdf) 
+[**`Participants`**](./participants.md#cwi) | [**`Proceedings`**](./proceedings.md#cwi-at-trec-2012-kba-track-and-session-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.CWI-LEARNING16000.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/CWI-LEARNING16000.pdf) 
 
 - :material-rename: **Run ID:** CWI-LEARNING16000 
 - :fontawesome-solid-user-group: **Participant:** CWI 
@@ -113,7 +113,7 @@
 
 ---
 #### helsinki-disgraph 
-[**`Participants`**](./participants.md#helsinki), [**`Proceedings`**](./proceedings.md#team-association-analysis-for-named-entity-filtering), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.helsinki-disgraph.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/helsinki-disgraph.pdf) 
+[**`Participants`**](./participants.md#helsinki) | [**`Proceedings`**](./proceedings.md#team-association-analysis-for-named-entity-filtering) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.helsinki-disgraph.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/helsinki-disgraph.pdf) 
 
 - :material-rename: **Run ID:** helsinki-disgraph 
 - :fontawesome-solid-user-group: **Participant:** helsinki 
@@ -127,7 +127,7 @@
 
 ---
 #### helsinki-disgraph2 
-[**`Participants`**](./participants.md#helsinki), [**`Proceedings`**](./proceedings.md#team-association-analysis-for-named-entity-filtering), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.helsinki-disgraph2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/helsinki-disgraph2.pdf) 
+[**`Participants`**](./participants.md#helsinki) | [**`Proceedings`**](./proceedings.md#team-association-analysis-for-named-entity-filtering) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.helsinki-disgraph2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/helsinki-disgraph2.pdf) 
 
 - :material-rename: **Run ID:** helsinki-disgraph2 
 - :fontawesome-solid-user-group: **Participant:** helsinki 
@@ -141,7 +141,7 @@
 
 ---
 #### hltcoe-wordNER 
-[**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#the-hltcoe-approach-to-the-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.hltcoe-wordNER.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/hltcoe-wordNER.pdf) 
+[**`Participants`**](./participants.md#hltcoe) | [**`Proceedings`**](./proceedings.md#the-hltcoe-approach-to-the-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.hltcoe-wordNER.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/hltcoe-wordNER.pdf) 
 
 - :material-rename: **Run ID:** hltcoe-wordNER 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
@@ -155,7 +155,7 @@
 
 ---
 #### hltcoe-wordNER500 
-[**`Participants`**](./participants.md#hltcoe), [**`Proceedings`**](./proceedings.md#the-hltcoe-approach-to-the-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.hltcoe-wordNER500.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/hltcoe-wordNER500.pdf) 
+[**`Participants`**](./participants.md#hltcoe) | [**`Proceedings`**](./proceedings.md#the-hltcoe-approach-to-the-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.hltcoe-wordNER500.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/hltcoe-wordNER500.pdf) 
 
 - :material-rename: **Run ID:** hltcoe-wordNER500 
 - :fontawesome-solid-user-group: **Participant:** hltcoe 
@@ -169,7 +169,7 @@
 
 ---
 #### igpi2012-ner50_tuned 
-[**`Participants`**](./participants.md#igpi2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.igpi2012-ner50_tuned.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/igpi2012-ner50_tuned.pdf) 
+[**`Participants`**](./participants.md#igpi2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.igpi2012-ner50_tuned.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/igpi2012-ner50_tuned.pdf) 
 
 - :material-rename: **Run ID:** igpi2012-ner50_tuned 
 - :fontawesome-solid-user-group: **Participant:** igpi2012 
@@ -183,7 +183,7 @@
 
 ---
 #### igpi2012-ner_jaccard 
-[**`Participants`**](./participants.md#igpi2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.igpi2012-ner_jaccard.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/igpi2012-ner_jaccard.pdf) 
+[**`Participants`**](./participants.md#igpi2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.igpi2012-ner_jaccard.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/igpi2012-ner_jaccard.pdf) 
 
 - :material-rename: **Run ID:** igpi2012-ner_jaccard 
 - :fontawesome-solid-user-group: **Participant:** igpi2012 
@@ -197,7 +197,7 @@
 
 ---
 #### LSIS-lsisRFAll 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisRFAll.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisRFAll.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisRFAll.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisRFAll.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisRFAll 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -207,11 +207,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `793b0fef8a02c83ebf7e9adefb8d91a0` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1 if s2 < 0.5 or ((s1*s2)/2) + 0.5 if s2 >= 0.5 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1 if s2 < 0.5 or ((s1*s2)/2) + 0.5 if s2 >= 0.5 
 
 ---
 #### LSIS-lsisRFYes 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisRFYes.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisRFYes.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisRFYes.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisRFYes.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisRFYes 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -221,11 +221,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `cec886b91247beccede1f9571ec9dc43` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
 
 ---
 #### LSIS-lsisSRFAll 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSRFAll.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSRFAll.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSRFAll.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSRFAll.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisSRFAll 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -235,11 +235,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `ef5bc9b175d3e6456cf75bae8688dee0` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1 if s2 < 0.5 or ((s1*s2)/2) + 0.5 if s2 >= 0.5 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1 if s2 < 0.5 or ((s1*s2)/2) + 0.5 if s2 >= 0.5 
 
 ---
 #### LSIS-lsisSRFYes 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSRFYes.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSRFYes.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSRFYes.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSRFYes.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisSRFYes 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -249,11 +249,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `c551fcad28c1708a2f559c7e35e34675` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
 
 ---
 #### LSIS-lsisSys1 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSys1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSys1.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSys1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSys1.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisSys1 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -263,11 +263,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `32f9601710d97179f17cde69c77c6479` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  ((s1*s2)/2) + 0.5. 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  ((s1*s2)/2) + 0.5. 
 
 ---
 #### LSIS-lsisSys2 
-[**`Participants`**](./participants.md#lsis), [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSys2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSys2.pdf) 
+[**`Participants`**](./participants.md#lsis) | [**`Proceedings`**](./proceedings.md#lsis-lia-at-trec-2012-knowledge-base-acceleration) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.LSIS-lsisSys2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/LSIS-lsisSys2.pdf) 
 
 - :material-rename: **Run ID:** LSIS-lsisSys2 
 - :fontawesome-solid-user-group: **Participant:** LSIS 
@@ -277,11 +277,11 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `d5b7e1fcf62fceb27f90ff41c4f518b8` 
-- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,…). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
+- :material-text: **Run description:** With the help of the wikipedia web pages, variant names have been found for each topics which in some cases may help to disambiguate the topic itself (e.g., Basic Element company and music group). Each single hour of the corpus have been indexed separately in order to based our documents retrieval on a real stream. The following steps are done for each topic  As the process go through the stream, each index is queried with the topic's url_name as well as the variants. A queue is build with a day granularity and can contains up to seven days. Then for each document, statistics are computed based on what can be found in the document (e.g, number of wikipedia's related entity coming from the wikipedia page), what can be found in the current day (number of document found that particular day), and what has been seen on the previous days currently in the queue (number of mentions in title, in previous documents,). Those statistics are used for training a RandomCommittee classifier which uses multiple RandomForrest classifier as a committee to build a deep trees that consider all features in all possible cases. Two classifications are done as so, one to separate garbage from relevant and Central (c1) and give a score (s1), the other (c2) one to choose between relevant and central (s2). For this run, s2 is computed as so  s1*s2. 
 
 ---
 #### PRIS-PRIS_Run_1 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_1.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_1.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_1 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -295,7 +295,7 @@
 
 ---
 #### PRIS-PRIS_Run_400 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_400.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_400.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_400.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_400.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_400 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -309,7 +309,7 @@
 
 ---
 #### PRIS-PRIS_Run_500 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_500.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_500.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_500.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_500.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_500 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -323,7 +323,7 @@
 
 ---
 #### PRIS-PRIS_Run_600 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_600.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_600.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_600.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_600.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_600 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -337,7 +337,7 @@
 
 ---
 #### PRIS-PRIS_Run_700 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_700.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_700.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_700.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_700.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_700 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -351,7 +351,7 @@
 
 ---
 #### PRIS-PRIS_Run_800 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_800.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_800.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_800.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_800.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_800 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -365,7 +365,7 @@
 
 ---
 #### PRIS-PRIS_Run_900 
-[**`Participants`**](./participants.md#pris), [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_900.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_900.pdf) 
+[**`Participants`**](./participants.md#pris) | [**`Proceedings`**](./proceedings.md#pris-at-trec-2012-kba-track) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.PRIS-PRIS_Run_900.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/PRIS-PRIS_Run_900.pdf) 
 
 - :material-rename: **Run ID:** PRIS-PRIS_Run_900 
 - :fontawesome-solid-user-group: **Participant:** PRIS 
@@ -379,7 +379,7 @@
 
 ---
 #### SCIAITeam-B1 
-[**`Participants`**](./participants.md#sciaiteam), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-B1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-B1.pdf) 
+[**`Participants`**](./participants.md#sciaiteam) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-B1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-B1.pdf) 
 
 - :material-rename: **Run ID:** SCIAITeam-B1 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -393,7 +393,7 @@
 
 ---
 #### SCIAITeam-L2 
-[**`Participants`**](./participants.md#sciaiteam), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-L2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-L2.pdf) 
+[**`Participants`**](./participants.md#sciaiteam) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-L2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-L2.pdf) 
 
 - :material-rename: **Run ID:** SCIAITeam-L2 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -407,7 +407,7 @@
 
 ---
 #### SCIAITeam-L3 
-[**`Participants`**](./participants.md#sciaiteam), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-L3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-L3.pdf) 
+[**`Participants`**](./participants.md#sciaiteam) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-L3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-L3.pdf) 
 
 - :material-rename: **Run ID:** SCIAITeam-L3 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -421,7 +421,7 @@
 
 ---
 #### SCIAITeam-W1 
-[**`Participants`**](./participants.md#sciaiteam), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-W1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-W1.pdf) 
+[**`Participants`**](./participants.md#sciaiteam) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.SCIAITeam-W1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/SCIAITeam-W1.pdf) 
 
 - :material-rename: **Run ID:** SCIAITeam-W1 
 - :fontawesome-solid-user-group: **Participant:** SCIAITeam 
@@ -435,7 +435,7 @@
 
 ---
 #### udel_fang-UDInfoKBA_EX 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_EX.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_EX.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_EX.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_EX.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoKBA_EX 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -449,7 +449,7 @@
 
 ---
 #### udel_fang-UDInfoKBA_WIKI1 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI1.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI1.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI1.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI1.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoKBA_WIKI1 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -463,7 +463,7 @@
 
 ---
 #### udel_fang-UDInfoKBA_WIKI2 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI2.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI2.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI2.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI2.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoKBA_WIKI2 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -477,7 +477,7 @@
 
 ---
 #### udel_fang-UDInfoKBA_WIKI3 
-[**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI3.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI3.pdf) 
+[**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-profile-based-approach-in-automatic-knowledge-finding) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.udel_fang-UDInfoKBA_WIKI3.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/udel_fang-UDInfoKBA_WIKI3.pdf) 
 
 - :material-rename: **Run ID:** udel_fang-UDInfoKBA_WIKI3 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -491,7 +491,7 @@
 
 ---
 #### uiucGSLIS-gslis_adaptive 
-[**`Participants`**](./participants.md#uiucgslis), [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.uiucGSLIS-gslis_adaptive.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/uiucGSLIS-gslis_adaptive.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.uiucGSLIS-gslis_adaptive.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/uiucGSLIS-gslis_adaptive.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-gslis_adaptive 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -505,7 +505,7 @@
 
 ---
 #### uiucGSLIS-gslis_mult 
-[**`Participants`**](./participants.md#uiucgslis), [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.uiucGSLIS-gslis_mult.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/uiucGSLIS-gslis_mult.pdf) 
+[**`Participants`**](./participants.md#uiucgslis) | [**`Proceedings`**](./proceedings.md#the-university-of-illinois-graduate-school-of-library-and-information-science-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.uiucGSLIS-gslis_mult.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/uiucGSLIS-gslis_mult.pdf) 
 
 - :material-rename: **Run ID:** uiucGSLIS-gslis_mult 
 - :fontawesome-solid-user-group: **Participant:** uiucGSLIS 
@@ -519,7 +519,7 @@
 
 ---
 #### UMass_CIIR-FS_NV_6000 
-[**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-FS_NV_6000.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-FS_NV_6000.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-FS_NV_6000.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-FS_NV_6000.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-FS_NV_6000 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -532,7 +532,7 @@
 
 ---
 #### UMass_CIIR-PC_NV_1500 
-[**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_NV_1500.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_NV_1500.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_NV_1500.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_NV_1500.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-PC_NV_1500 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -546,7 +546,7 @@
 
 ---
 #### UMass_CIIR-PC_RM10_1500 
-[**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM10_1500.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM10_1500.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM10_1500.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM10_1500.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-PC_RM10_1500 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -560,7 +560,7 @@
 
 ---
 #### UMass_CIIR-PC_RM10_TACRL 
-[**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM10_TACRL.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM10_TACRL.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM10_TACRL.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM10_TACRL.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-PC_RM10_TACRL 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -574,7 +574,7 @@
 
 ---
 #### UMass_CIIR-PC_RM20_1500 
-[**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM20_1500.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM20_1500.pdf) 
+[**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UMass_CIIR-PC_RM20_1500.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UMass_CIIR-PC_RM20_1500.pdf) 
 
 - :material-rename: **Run ID:** UMass_CIIR-PC_RM20_1500 
 - :fontawesome-solid-user-group: **Participant:** UMass_CIIR 
@@ -588,7 +588,7 @@
 
 ---
 #### UvA-UvAbaseline 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAbaseline.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAbaseline.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAbaseline.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAbaseline.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvAbaseline 
 - :fontawesome-solid-user-group: **Participant:** UvA 
@@ -602,7 +602,7 @@
 
 ---
 #### UvA-UvAIncLearnHigh 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnHigh.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnHigh.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnHigh.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnHigh.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvAIncLearnHigh 
 - :fontawesome-solid-user-group: **Participant:** UvA 
@@ -616,7 +616,7 @@
 
 ---
 #### UvA-UvAIncLearnLow 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnLow.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnLow.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnLow.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnLow.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvAIncLearnLow 
 - :fontawesome-solid-user-group: **Participant:** UvA 
@@ -630,7 +630,7 @@
 
 ---
 #### UvA-UvAIncLearnT25 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnT25.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnT25.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnT25.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnT25.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvAIncLearnT25 
 - :fontawesome-solid-user-group: **Participant:** UvA 
@@ -644,7 +644,7 @@
 
 ---
 #### UvA-UvAIncLearnT50 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnT50.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnT50.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvAIncLearnT50.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvAIncLearnT50.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvAIncLearnT50 
 - :fontawesome-solid-user-group: **Participant:** UvA 
@@ -658,7 +658,7 @@
 
 ---
 #### UvA-UvALearning 
-[**`Participants`**](./participants.md#uva), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012), [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvALearning.gz), [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvALearning.pdf) 
+[**`Participants`**](./participants.md#uva) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-at-trec-2012) | [**`Input`**](https://trec.nist.gov/results/trec21/kba/input.UvA-UvALearning.gz) | [**`Appendix`**](https://trec.nist.gov/pubs/trec21/appendices/kba/UvA-UvALearning.pdf) 
 
 - :material-rename: **Run ID:** UvA-UvALearning 
 - :fontawesome-solid-user-group: **Participant:** UvA 

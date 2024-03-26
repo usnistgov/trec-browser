@@ -2,7 +2,7 @@
 
 ## Genomics
 
-[`Overview`](./genomics/overview.md), [`Proceedings`](./genomics/proceedings.md), [`Data`](./genomics/data.md), [`Results`](./genomics/results.md), [`Runs`](./genomics/runs.md), [`Participants`](./genomics/participants.md)
+[`Overview`](./genomics/overview.md) | [`Proceedings`](./genomics/proceedings.md) | [`Data`](./genomics/data.md) | [`Results`](./genomics/results.md) | [`Runs`](./genomics/runs.md) | [`Participants`](./genomics/participants.md)
 
 {==
 
@@ -26,7 +26,7 @@ The TREC 2004 Genomics Track consisted of two tasks. The first task was a standa
 
 ## HARD
 
-[`Overview`](./HARD/overview.md), [`Proceedings`](./HARD/proceedings.md), [`Runs`](./HARD/runs.md), [`Participants`](./HARD/participants.md)
+[`Overview`](./HARD/overview.md) | [`Proceedings`](./HARD/proceedings.md) | [`Runs`](./HARD/runs.md) | [`Participants`](./HARD/participants.md)
 
 {==
 
@@ -45,7 +45,7 @@ The HARD track of TREC 2004 aims to improve the accuracy of information retrieva
 
 ## Novelty
 
-[`Overview`](./novelty/overview.md), [`Proceedings`](./novelty/proceedings.md), [`Data`](./novelty/data.md), [`Results`](./novelty/results.md), [`Runs`](./novelty/runs.md), [`Participants`](./novelty/participants.md)
+[`Overview`](./novelty/overview.md) | [`Proceedings`](./novelty/proceedings.md) | [`Data`](./novelty/data.md) | [`Results`](./novelty/results.md) | [`Runs`](./novelty/runs.md) | [`Participants`](./novelty/participants.md)
 
 {==
 
@@ -64,7 +64,7 @@ The Novelty Track is designed to investigate systems' abilities to locate releva
 
 ## Question Answering
 
-[`Overview`](./qa/overview.md), [`Proceedings`](./qa/proceedings.md), [`Data`](./qa/data.md), [`Runs`](./qa/runs.md), [`Participants`](./qa/participants.md)
+[`Overview`](./qa/overview.md) | [`Proceedings`](./qa/proceedings.md) | [`Data`](./qa/data.md) | [`Runs`](./qa/runs.md) | [`Participants`](./qa/participants.md)
 
 {==
 
@@ -83,7 +83,7 @@ The TREC 2004 Question Answering track contained a single task in which question
 
 ## Robust
 
-[`Overview`](./robust/overview.md), [`Proceedings`](./robust/proceedings.md), [`Data`](./robust/data.md), [`Results`](./robust/results.md), [`Runs`](./robust/runs.md), [`Participants`](./robust/participants.md)
+[`Overview`](./robust/overview.md) | [`Proceedings`](./robust/proceedings.md) | [`Data`](./robust/data.md) | [`Results`](./robust/results.md) | [`Runs`](./robust/runs.md) | [`Participants`](./robust/participants.md)
 
 {==
 
@@ -102,7 +102,7 @@ The goal of the Robust track is to improve the consistency of retrieval technolo
 
 ## Terabyte
 
-[`Overview`](./terabyte/overview.md), [`Proceedings`](./terabyte/proceedings.md), [`Data`](./terabyte/data.md), [`Results`](./terabyte/results.md), [`Runs`](./terabyte/runs.md), [`Participants`](./terabyte/participants.md)
+[`Overview`](./terabyte/overview.md) | [`Proceedings`](./terabyte/proceedings.md) | [`Data`](./terabyte/data.md) | [`Results`](./terabyte/results.md) | [`Runs`](./terabyte/runs.md) | [`Participants`](./terabyte/participants.md)
 
 {==
 
@@ -123,7 +123,7 @@ The goal of the Terabyte Track is to develop an evaluation methodology for terab
 
 ## Web
 
-[`Overview`](./web/overview.md), [`Proceedings`](./web/proceedings.md), [`Data`](./web/data.md), [`Results`](./web/results.md), [`Runs`](./web/runs.md), [`Participants`](./web/participants.md)
+[`Overview`](./web/overview.md) | [`Proceedings`](./web/proceedings.md) | [`Data`](./web/data.md) | [`Results`](./web/results.md) | [`Runs`](./web/runs.md) | [`Participants`](./web/participants.md)
 
 {==
 

@@ -1,7 +1,7 @@
 # Runs - Web 2014 
 
 #### CiirAll1 
-[**`Results`**](./results.md#ciirall1), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirAll1.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirAll1), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirAll1), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirAll1.pdf) 
+[**`Results`**](./results.md#ciirall1) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirAll1.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirAll1) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirAll1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirAll1.pdf) 
 
 - :material-rename: **Run ID:** CiirAll1 
 - :fontawesome-solid-user-group: **Participant:** UMASS_CIIR 
@@ -15,7 +15,7 @@
 
 ---
 #### CiirSdm 
-[**`Results`**](./results.md#ciirsdm), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSdm.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSdm), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSdm), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSdm.pdf) 
+[**`Results`**](./results.md#ciirsdm) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSdm.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSdm) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSdm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSdm.pdf) 
 
 - :material-rename: **Run ID:** CiirSdm 
 - :fontawesome-solid-user-group: **Participant:** UMASS_CIIR 
@@ -29,7 +29,7 @@
 
 ---
 #### CiirSub1 
-[**`Results`**](./results.md#ciirsub1), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSub1.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSub1), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSub1), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSub1.pdf) 
+[**`Results`**](./results.md#ciirsub1) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSub1.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSub1) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSub1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSub1.pdf) 
 
 - :material-rename: **Run ID:** CiirSub1 
 - :fontawesome-solid-user-group: **Participant:** UMASS_CIIR 
@@ -43,7 +43,7 @@
 
 ---
 #### CiirSub2 
-[**`Results`**](./results.md#ciirsub2), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSub2.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSub2), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSub2), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSub2.pdf) 
+[**`Results`**](./results.md#ciirsub2) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirSub2.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirSub2) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirSub2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirSub2.pdf) 
 
 - :material-rename: **Run ID:** CiirSub2 
 - :fontawesome-solid-user-group: **Participant:** UMASS_CIIR 
@@ -57,7 +57,7 @@
 
 ---
 #### CiirWikiRm 
-[**`Results`**](./results.md#ciirwikirm), [**`Participants`**](./participants.md#umass_ciir), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirWikiRm.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirWikiRm), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirWikiRm), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirWikiRm.pdf) 
+[**`Results`**](./results.md#ciirwikirm) | [**`Participants`**](./participants.md#umass_ciir) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.CiirWikiRm.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.CiirWikiRm) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.CiirWikiRm) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/CiirWikiRm.pdf) 
 
 - :material-rename: **Run ID:** CiirWikiRm 
 - :fontawesome-solid-user-group: **Participant:** UMASS_CIIR 
@@ -71,7 +71,7 @@
 
 ---
 #### ICTNET14ADR1 
-[**`Results`**](./results.md#ictnet14adr1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR1.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR1), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR1), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR1.pdf) 
+[**`Results`**](./results.md#ictnet14adr1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR1.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR1) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR1.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14ADR1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -85,7 +85,7 @@
 
 ---
 #### ICTNET14ADR2 
-[**`Results`**](./results.md#ictnet14adr2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR2.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR2), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR2), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR2.pdf) 
+[**`Results`**](./results.md#ictnet14adr2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR2.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR2) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR2.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14ADR2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -99,7 +99,7 @@
 
 ---
 #### ICTNET14ADR3 
-[**`Results`**](./results.md#ictnet14adr3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR3.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR3), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR3), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR3.pdf) 
+[**`Results`**](./results.md#ictnet14adr3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14ADR3.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14ADR3) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14ADR3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14ADR3.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14ADR3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -113,7 +113,7 @@
 
 ---
 #### ICTNET14RSR1 
-[**`Results`**](./results.md#ictnet14rsr1), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR1.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR1), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR1), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR1), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR1), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR1), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR1), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR1), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR1), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR1), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR1), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR1.pdf) 
+[**`Results`**](./results.md#ictnet14rsr1) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR1.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR1) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR1) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR1) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR1) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR1) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR1) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR1) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR1) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR1) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR1.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14RSR1 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -127,7 +127,7 @@
 
 ---
 #### ICTNET14RSR2 
-[**`Results`**](./results.md#ictnet14rsr2), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR2.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR2), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR2), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR2), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR2), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR2), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR2), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR2), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR2), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR2), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR2), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR2.pdf) 
+[**`Results`**](./results.md#ictnet14rsr2) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR2.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR2) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR2) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR2) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR2) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR2) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR2) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR2) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR2) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR2) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR2.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14RSR2 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -141,7 +141,7 @@
 
 ---
 #### ICTNET14RSR3 
-[**`Results`**](./results.md#ictnet14rsr3), [**`Participants`**](./participants.md#ictnet), [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR3.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR3), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR3), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR3), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR3), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR3), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR3), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR3), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR3), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR3), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR3), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR3.pdf) 
+[**`Results`**](./results.md#ictnet14rsr3) | [**`Participants`**](./participants.md#ictnet) | [**`Proceedings`**](./proceedings.md#ictnet-at-web-track-trec2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.ICTNET14RSR3.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.ICTNET14RSR3) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.ICTNET14RSR3) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.ICTNET14RSR3) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.ICTNET14RSR3) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.ICTNET14RSR3) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.ICTNET14RSR3) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.ICTNET14RSR3) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.ICTNET14RSR3) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.ICTNET14RSR3) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.ICTNET14RSR3) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/ICTNET14RSR3.pdf) 
 
 - :material-rename: **Run ID:** ICTNET14RSR3 
 - :fontawesome-solid-user-group: **Participant:** ICTNET 
@@ -155,7 +155,7 @@
 
 ---
 #### Protoss 
-[**`Results`**](./results.md#protoss), [**`Participants`**](./participants.md#groupxu), [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Protoss.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Protoss), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Protoss), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Protoss.pdf) 
+[**`Results`**](./results.md#protoss) | [**`Participants`**](./participants.md#groupxu) | [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Protoss.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Protoss) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Protoss) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Protoss.pdf) 
 
 - :material-rename: **Run ID:** Protoss 
 - :fontawesome-solid-user-group: **Participant:** Group.Xu 
@@ -169,7 +169,7 @@
 
 ---
 #### SNUMedinfo11 
-[**`Results`**](./results.md#snumedinfo11), [**`Participants`**](./participants.md#snumedinfo), [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo11.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo11), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo11), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo11.pdf) 
+[**`Results`**](./results.md#snumedinfo11) | [**`Participants`**](./participants.md#snumedinfo) | [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo11.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo11) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo11) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo11.pdf) 
 
 - :material-rename: **Run ID:** SNUMedinfo11 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
@@ -183,7 +183,7 @@
 
 ---
 #### SNUMedinfo12 
-[**`Results`**](./results.md#snumedinfo12), [**`Participants`**](./participants.md#snumedinfo), [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo12.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo12), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo12), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo12.pdf) 
+[**`Results`**](./results.md#snumedinfo12) | [**`Participants`**](./participants.md#snumedinfo) | [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo12.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo12) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo12) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo12.pdf) 
 
 - :material-rename: **Run ID:** SNUMedinfo12 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
@@ -197,7 +197,7 @@
 
 ---
 #### SNUMedinfo13 
-[**`Results`**](./results.md#snumedinfo13), [**`Participants`**](./participants.md#snumedinfo), [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo13.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo13), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo13), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo13.pdf) 
+[**`Results`**](./results.md#snumedinfo13) | [**`Participants`**](./participants.md#snumedinfo) | [**`Proceedings`**](./proceedings.md#snumedinfo-at-trec-web-track-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.SNUMedinfo13.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.SNUMedinfo13) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.SNUMedinfo13) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/SNUMedinfo13.pdf) 
 
 - :material-rename: **Run ID:** SNUMedinfo13 
 - :fontawesome-solid-user-group: **Participant:** SNUMedinfo 
@@ -211,7 +211,7 @@
 
 ---
 #### Terran 
-[**`Results`**](./results.md#terran), [**`Participants`**](./participants.md#groupxu), [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Terran.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Terran), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Terran), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Terran.pdf) 
+[**`Results`**](./results.md#terran) | [**`Participants`**](./participants.md#groupxu) | [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Terran.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Terran) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Terran) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Terran.pdf) 
 
 - :material-rename: **Run ID:** Terran 
 - :fontawesome-solid-user-group: **Participant:** Group.Xu 
@@ -225,7 +225,7 @@
 
 ---
 #### udel_itu 
-[**`Results`**](./results.md#udel_itu), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udel_itu.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udel_itu), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udel_itu), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udel_itu.pdf) 
+[**`Results`**](./results.md#udel_itu) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udel_itu.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udel_itu) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udel_itu) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udel_itu.pdf) 
 
 - :material-rename: **Run ID:** udel_itu 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -239,7 +239,7 @@
 
 ---
 #### udel_itub 
-[**`Results`**](./results.md#udel_itub), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udel_itub.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udel_itub), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udel_itub), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udel_itub.pdf) 
+[**`Results`**](./results.md#udel_itub) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udel_itub.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udel_itub) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udel_itub) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udel_itub.pdf) 
 
 - :material-rename: **Run ID:** udel_itub 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -253,7 +253,7 @@
 
 ---
 #### udelCombCAT2 
-[**`Results`**](./results.md#udelcombcat2), [**`Participants`**](./participants.md#udel), [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udelCombCAT2.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udelCombCAT2), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udelCombCAT2), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.udelCombCAT2), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.udelCombCAT2), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.udelCombCAT2), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.udelCombCAT2), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.udelCombCAT2), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.udelCombCAT2), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.udelCombCAT2), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.udelCombCAT2), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udelCombCAT2.pdf) 
+[**`Results`**](./results.md#udelcombcat2) | [**`Participants`**](./participants.md#udel) | [**`Proceedings`**](./proceedings.md#university-of-delaware-at-trec-2014) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.udelCombCAT2.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.udelCombCAT2) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.udelCombCAT2) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.udelCombCAT2) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.udelCombCAT2) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.udelCombCAT2) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.udelCombCAT2) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.udelCombCAT2) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.udelCombCAT2) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.udelCombCAT2) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.udelCombCAT2) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/udelCombCAT2.pdf) 
 
 - :material-rename: **Run ID:** udelCombCAT2 
 - :fontawesome-solid-user-group: **Participant:** udel 
@@ -267,7 +267,7 @@
 
 ---
 #### UDInfoWebAX 
-[**`Results`**](./results.md#udinfowebax), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebAX.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebAX), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebAX), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebAX.pdf) 
+[**`Results`**](./results.md#udinfowebax) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebAX.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebAX) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebAX) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebAX.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebAX 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -281,7 +281,7 @@
 
 ---
 #### UDInfoWebENT 
-[**`Results`**](./results.md#udinfowebent), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebENT.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebENT), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebENT), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebENT.pdf) 
+[**`Results`**](./results.md#udinfowebent) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebENT.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebENT) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebENT) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebENT.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebENT 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -295,7 +295,7 @@
 
 ---
 #### UDInfoWebLES 
-[**`Results`**](./results.md#udinfowebles), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebLES.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebLES), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebLES), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebLES.pdf) 
+[**`Results`**](./results.md#udinfowebles) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebLES.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebLES) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebLES) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebLES.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebLES 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -309,7 +309,7 @@
 
 ---
 #### UDInfoWebRiskAX 
-[**`Results`**](./results.md#udinfowebriskax), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskAX.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskAX), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskAX), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskAX), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskAX), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskAX), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskAX), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskAX), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskAX), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskAX), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskAX), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskAX.pdf) 
+[**`Results`**](./results.md#udinfowebriskax) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskAX.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskAX) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskAX) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskAX) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskAX) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskAX) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskAX) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskAX) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskAX) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskAX) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskAX) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskAX.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebRiskAX 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -323,7 +323,7 @@
 
 ---
 #### UDInfoWebRiskRM 
-[**`Results`**](./results.md#udinfowebriskrm), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskRM.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskRM), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskRM), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskRM), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskRM), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskRM), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskRM), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskRM), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskRM), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskRM), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskRM), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskRM.pdf) 
+[**`Results`**](./results.md#udinfowebriskrm) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskRM.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskRM) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskRM) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskRM) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskRM) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskRM) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskRM) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskRM) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskRM) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskRM) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskRM) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskRM.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebRiskRM 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -337,7 +337,7 @@
 
 ---
 #### UDInfoWebRiskTR 
-[**`Results`**](./results.md#udinfowebrisktr), [**`Participants`**](./participants.md#udel_fang), [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskTR.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskTR), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskTR), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskTR), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskTR), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskTR), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskTR), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskTR), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskTR), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskTR), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskTR), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskTR.pdf) 
+[**`Results`**](./results.md#udinfowebrisktr) | [**`Participants`**](./participants.md#udel_fang) | [**`Proceedings`**](./proceedings.md#entity-came-to-rescue-leveraging-entities-to-minimize-risks-in-web-search) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.UDInfoWebRiskTR.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.UDInfoWebRiskTR) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.UDInfoWebRiskTR) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.UDInfoWebRiskTR) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.UDInfoWebRiskTR) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.UDInfoWebRiskTR) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.UDInfoWebRiskTR) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.UDInfoWebRiskTR) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.UDInfoWebRiskTR) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.UDInfoWebRiskTR) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.UDInfoWebRiskTR) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/UDInfoWebRiskTR.pdf) 
 
 - :material-rename: **Run ID:** UDInfoWebRiskTR 
 - :fontawesome-solid-user-group: **Participant:** udel_fang 
@@ -351,7 +351,7 @@
 
 ---
 #### uogTrBwf 
-[**`Results`**](./results.md#uogtrbwf), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrBwf.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrBwf), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrBwf), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrBwf), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrBwf), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrBwf), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrBwf), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrBwf), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrBwf), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrBwf), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrBwf), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrBwf.pdf) 
+[**`Results`**](./results.md#uogtrbwf) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrBwf.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrBwf) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrBwf) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrBwf) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrBwf) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrBwf) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrBwf) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrBwf) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrBwf) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrBwf) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrBwf) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrBwf.pdf) 
 
 - :material-rename: **Run ID:** uogTrBwf 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -365,7 +365,7 @@
 
 ---
 #### uogTrDuax 
-[**`Results`**](./results.md#uogtrduax), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDuax.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDuax), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDuax), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDuax.pdf) 
+[**`Results`**](./results.md#uogtrduax) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDuax.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDuax) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDuax) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDuax.pdf) 
 
 - :material-rename: **Run ID:** uogTrDuax 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -379,7 +379,7 @@
 
 ---
 #### uogTrDwl 
-[**`Results`**](./results.md#uogtrdwl), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDwl.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDwl), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDwl), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDwl.pdf) 
+[**`Results`**](./results.md#uogtrdwl) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDwl.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDwl) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDwl) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDwl.pdf) 
 
 - :material-rename: **Run ID:** uogTrDwl 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -393,7 +393,7 @@
 
 ---
 #### uogTrDwsts 
-[**`Results`**](./results.md#uogtrdwsts), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDwsts.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDwsts), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDwsts), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrDwsts), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrDwsts), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrDwsts), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrDwsts), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrDwsts), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrDwsts), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrDwsts), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrDwsts), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDwsts.pdf) 
+[**`Results`**](./results.md#uogtrdwsts) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrDwsts.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrDwsts) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrDwsts) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrDwsts) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrDwsts) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrDwsts) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrDwsts) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrDwsts) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrDwsts) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrDwsts) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrDwsts) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrDwsts.pdf) 
 
 - :material-rename: **Run ID:** uogTrDwsts 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -407,7 +407,7 @@
 
 ---
 #### uogTrIwa 
-[**`Results`**](./results.md#uogtriwa), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrIwa.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrIwa), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrIwa), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrIwa.pdf) 
+[**`Results`**](./results.md#uogtriwa) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrIwa.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrIwa) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrIwa) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrIwa.pdf) 
 
 - :material-rename: **Run ID:** uogTrIwa 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -421,7 +421,7 @@
 
 ---
 #### uogTrq1 
-[**`Results`**](./results.md#uogtrq1), [**`Participants`**](./participants.md#uogtr), [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrq1.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrq1), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrq1), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrq1), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrq1), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrq1), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrq1), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrq1), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrq1), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrq1), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrq1), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrq1.pdf) 
+[**`Results`**](./results.md#uogtrq1) | [**`Participants`**](./participants.md#uogtr) | [**`Proceedings`**](./proceedings.md#university-of-glasgow-at-trec-2014-experiments-with-terrier-in-contextual-suggestion-temporal-summarisation-and-web-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.uogTrq1.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.uogTrq1) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.uogTrq1) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.uogTrq1) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.uogTrq1) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.uogTrq1) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.uogTrq1) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.uogTrq1) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.uogTrq1) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.uogTrq1) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.uogTrq1) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/uogTrq1.pdf) 
 
 - :material-rename: **Run ID:** uogTrq1 
 - :fontawesome-solid-user-group: **Participant:** uogTr 
@@ -435,7 +435,7 @@
 
 ---
 #### utbase 
-[**`Results`**](./results.md#utbase), [**`Participants`**](./participants.md#ut), [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.utbase.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.utbase), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.utbase), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/utbase.pdf) 
+[**`Results`**](./results.md#utbase) | [**`Participants`**](./participants.md#ut) | [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.utbase.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.utbase) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.utbase) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/utbase.pdf) 
 
 - :material-rename: **Run ID:** utbase 
 - :fontawesome-solid-user-group: **Participant:** ut 
@@ -449,7 +449,7 @@
 
 ---
 #### utexact 
-[**`Results`**](./results.md#utexact), [**`Participants`**](./participants.md#ut), [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.utexact.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.utexact), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.utexact), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/utexact.pdf) 
+[**`Results`**](./results.md#utexact) | [**`Participants`**](./participants.md#ut) | [**`Proceedings`**](./proceedings.md#two-selfless-contributions-to-web-search-evaluation) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.utexact.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.utexact) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.utexact) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/utexact.pdf) 
 
 - :material-rename: **Run ID:** utexact 
 - :fontawesome-solid-user-group: **Participant:** ut 
@@ -463,7 +463,7 @@
 
 ---
 #### webisWt14axAll 
-[**`Results`**](./results.md#webiswt14axall), [**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axAll.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axAll), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axAll), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axAll.pdf) 
+[**`Results`**](./results.md#webiswt14axall) | [**`Participants`**](./participants.md#buw) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axAll.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axAll) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axAll) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axAll.pdf) 
 
 - :material-rename: **Run ID:** webisWt14axAll 
 - :fontawesome-solid-user-group: **Participant:** BUW 
@@ -477,7 +477,7 @@
 
 ---
 #### webisWt14axMax 
-[**`Results`**](./results.md#webiswt14axmax), [**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axMax.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axMax), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axMax), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axMax.pdf) 
+[**`Results`**](./results.md#webiswt14axmax) | [**`Participants`**](./participants.md#buw) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axMax.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axMax) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axMax) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axMax.pdf) 
 
 - :material-rename: **Run ID:** webisWt14axMax 
 - :fontawesome-solid-user-group: **Participant:** BUW 
@@ -491,7 +491,7 @@
 
 ---
 #### webisWt14axSyn 
-[**`Results`**](./results.md#webiswt14axsyn), [**`Participants`**](./participants.md#buw), [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axSyn.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axSyn), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axSyn), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axSyn.pdf) 
+[**`Results`**](./results.md#webiswt14axsyn) | [**`Participants`**](./participants.md#buw) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2014-web-session-and-contextual-suggestion-tracks) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.webisWt14axSyn.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.webisWt14axSyn) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.webisWt14axSyn) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/webisWt14axSyn.pdf) 
 
 - :material-rename: **Run ID:** webisWt14axSyn 
 - :fontawesome-solid-user-group: **Participant:** BUW 
@@ -505,7 +505,7 @@
 
 ---
 #### wistud.runA 
-[**`Results`**](./results.md#wistudruna), [**`Participants`**](./participants.md#wistud), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runA.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runA), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runA), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runA.pdf) 
+[**`Results`**](./results.md#wistudruna) | [**`Participants`**](./participants.md#wistud) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runA.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runA) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runA) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runA.pdf) 
 
 - :material-rename: **Run ID:** wistud.runA 
 - :fontawesome-solid-user-group: **Participant:** wistud 
@@ -519,7 +519,7 @@
 
 ---
 #### wistud.runB 
-[**`Results`**](./results.md#wistudrunb), [**`Participants`**](./participants.md#wistud), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runB.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runB), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runB), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runB.pdf) 
+[**`Results`**](./results.md#wistudrunb) | [**`Participants`**](./participants.md#wistud) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runB.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runB) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runB) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runB.pdf) 
 
 - :material-rename: **Run ID:** wistud.runB 
 - :fontawesome-solid-user-group: **Participant:** wistud 
@@ -533,7 +533,7 @@
 
 ---
 #### wistud.runC 
-[**`Results`**](./results.md#wistudrunc), [**`Participants`**](./participants.md#wistud), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runC.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runC), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runC), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runC.pdf) 
+[**`Results`**](./results.md#wistudrunc) | [**`Participants`**](./participants.md#wistud) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runC.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runC) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runC) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runC.pdf) 
 
 - :material-rename: **Run ID:** wistud.runC 
 - :fontawesome-solid-user-group: **Participant:** wistud 
@@ -547,7 +547,7 @@
 
 ---
 #### wistud.runD 
-[**`Results`**](./results.md#wistudrund), [**`Participants`**](./participants.md#wistud), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runD.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runD), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runD), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.wistud.runD), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.wistud.runD), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.wistud.runD), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.wistud.runD), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.wistud.runD), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.wistud.runD), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.wistud.runD), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.wistud.runD), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runD.pdf) 
+[**`Results`**](./results.md#wistudrund) | [**`Participants`**](./participants.md#wistud) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runD.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runD) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runD) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.wistud.runD) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.wistud.runD) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.wistud.runD) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.wistud.runD) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.wistud.runD) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.wistud.runD) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.wistud.runD) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.wistud.runD) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runD.pdf) 
 
 - :material-rename: **Run ID:** wistud.runD 
 - :fontawesome-solid-user-group: **Participant:** wistud 
@@ -561,7 +561,7 @@
 
 ---
 #### wistud.runE 
-[**`Results`**](./results.md#wistudrune), [**`Participants`**](./participants.md#wistud), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runE.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runE), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runE), [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.wistud.runE), [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.wistud.runE), [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.wistud.runE), [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.wistud.runE), [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.wistud.runE), [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.wistud.runE), [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.wistud.runE), [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.wistud.runE), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runE.pdf) 
+[**`Results`**](./results.md#wistudrune) | [**`Participants`**](./participants.md#wistud) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.wistud.runE.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.wistud.runE) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.wistud.runE) | [**`Summary (risk-rm-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-gd.wistud.runE) | [**`Summary (risk-rm-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a0-nd.wistud.runE) | [**`Summary (risk-rm-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-gd.wistud.runE) | [**`Summary (risk-rm-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-rm-a5-nd.wistud.runE) | [**`Summary (risk-terrier-a0-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-gd.wistud.runE) | [**`Summary (risk-terrier-a0-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a0-nd.wistud.runE) | [**`Summary (risk-terrier-a5-gd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-gd.wistud.runE) | [**`Summary (risk-terrier-a5-nd)`**](https://trec.nist.gov/results/trec23/web/summary.risk-terrier-a5-nd.wistud.runE) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/wistud.runE.pdf) 
 
 - :material-rename: **Run ID:** wistud.runE 
 - :fontawesome-solid-user-group: **Participant:** wistud 
@@ -575,7 +575,7 @@
 
 ---
 #### Zerg 
-[**`Results`**](./results.md#zerg), [**`Participants`**](./participants.md#groupxu), [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework), [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Zerg.gz), [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Zerg), [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Zerg), [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Zerg.pdf) 
+[**`Results`**](./results.md#zerg) | [**`Participants`**](./participants.md#groupxu) | [**`Proceedings`**](./proceedings.md#towards-a-simple-and-efficient-web-search-framework) | [**`Input`**](https://trec.nist.gov/results/trec23/web/input.Zerg.gz) | [**`Summary (std-gd)`**](https://trec.nist.gov/results/trec23/web/summary.std-gd.Zerg) | [**`Summary (std-nd)`**](https://trec.nist.gov/results/trec23/web/summary.std-nd.Zerg) | [**`Appendix`**](https://trec.nist.gov/pubs/trec23/appendices/web/Zerg.pdf) 
 
 - :material-rename: **Run ID:** Zerg 
 - :fontawesome-solid-user-group: **Participant:** Group.Xu 

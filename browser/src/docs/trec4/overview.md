@@ -2,7 +2,7 @@
 
 ## Adhoc
 
-[`Overview`](./adhoc/overview.md), [`Proceedings`](./adhoc/proceedings.md), [`Data`](./adhoc/data.md), [`Results`](./adhoc/results.md), [`Runs`](./adhoc/runs.md), [`Participants`](./adhoc/participants.md)
+[`Overview`](./adhoc/overview.md) | [`Proceedings`](./adhoc/proceedings.md) | [`Data`](./adhoc/data.md) | [`Results`](./adhoc/results.md) | [`Runs`](./adhoc/runs.md) | [`Participants`](./adhoc/participants.md)
 
 {==
 
@@ -21,7 +21,7 @@ The adhoc task is represented by new topics for known documents. 50 new test top
 
 ## Database Merging
 
-[`Overview`](./dbmerge/overview.md), [`Proceedings`](./dbmerge/proceedings.md), [`Data`](./dbmerge/data.md), [`Results`](./dbmerge/results.md), [`Runs`](./dbmerge/runs.md), [`Participants`](./dbmerge/participants.md)
+[`Overview`](./dbmerge/overview.md) | [`Proceedings`](./dbmerge/proceedings.md) | [`Data`](./dbmerge/data.md) | [`Results`](./dbmerge/results.md) | [`Runs`](./dbmerge/runs.md) | [`Participants`](./dbmerge/participants.md)
 
 {==
 
@@ -40,7 +40,7 @@ The database merging task also represents a focussing of the adhoc task. In this
 
 ## Routing
 
-[`Overview`](./routing/overview.md), [`Proceedings`](./routing/proceedings.md), [`Data`](./routing/data.md), [`Results`](./routing/results.md), [`Runs`](./routing/runs.md), [`Participants`](./routing/participants.md)
+[`Overview`](./routing/overview.md) | [`Proceedings`](./routing/proceedings.md) | [`Data`](./routing/data.md) | [`Results`](./routing/results.md) | [`Runs`](./routing/runs.md) | [`Participants`](./routing/participants.md)
 
 {==
 
@@ -59,7 +59,7 @@ In TREC the routing task is represented by using known topics and known relevant
 
 ## Spanish
 
-[`Overview`](./spanish/overview.md), [`Proceedings`](./spanish/proceedings.md), [`Data`](./spanish/data.md), [`Results`](./spanish/results.md), [`Runs`](./spanish/runs.md), [`Participants`](./spanish/participants.md)
+[`Overview`](./spanish/overview.md) | [`Proceedings`](./spanish/proceedings.md) | [`Data`](./spanish/data.md) | [`Results`](./spanish/results.md) | [`Runs`](./spanish/runs.md) | [`Participants`](./spanish/participants.md)
 
 {==
 
@@ -78,7 +78,7 @@ The multilingual track represents an extension of the adhoc task to a second lan
 
 ## Filtering
 
-[`Overview`](./filtering/overview.md), [`Data`](./filtering/data.md)
+[`Overview`](./filtering/overview.md) | [`Proceedings`](./filtering/proceedings.md) | [`Data`](./filtering/data.md)
 
 {==
 
@@ -97,7 +97,7 @@ The filtering track represents a variation of the routing task, and was designed
 
 ## Confusion
 
-[`Overview`](./confusion/overview.md), [`Proceedings`](./confusion/proceedings.md), [`Data`](./confusion/data.md), [`Results`](./confusion/results.md), [`Runs`](./confusion/runs.md), [`Participants`](./confusion/participants.md)
+[`Overview`](./confusion/overview.md) | [`Proceedings`](./confusion/proceedings.md) | [`Data`](./confusion/data.md) | [`Results`](./confusion/results.md) | [`Runs`](./confusion/runs.md) | [`Participants`](./confusion/participants.md)
 
 {==
 
@@ -116,7 +116,7 @@ The confusion track represents an extension of the current tasks to deal with co
 
 ## Interactive
 
-[`Overview`](./interactive/overview.md), [`Proceedings`](./interactive/proceedings.md), [`Data`](./interactive/data.md), [`Results`](./interactive/results.md), [`Runs`](./interactive/runs.md), [`Participants`](./interactive/participants.md)
+[`Overview`](./interactive/overview.md) | [`Proceedings`](./interactive/proceedings.md) | [`Data`](./interactive/data.md) | [`Results`](./interactive/results.md) | [`Runs`](./interactive/runs.md) | [`Participants`](./interactive/participants.md)
 
 {==
 

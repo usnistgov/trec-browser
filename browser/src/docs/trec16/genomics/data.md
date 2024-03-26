@@ -1,6 +1,6 @@
 # Data - Genomics 2007 
 
-:fontawesome-solid-globe: **TREC Web Page**: [`https://trec.nist.gov/data/t2007_genomics.html`](https://trec.nist.gov/data/t2007_genomics.html)
+:fontawesome-solid-globe: **`trec.nist.gov`**: [`https://trec.nist.gov/data/t2007_genomics.html`](https://trec.nist.gov/data/t2007_genomics.html)
 
 ---
 

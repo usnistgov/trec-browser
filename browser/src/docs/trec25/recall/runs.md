@@ -1,7 +1,7 @@
 # Runs - Total Recall 2016 
 
 #### ah4_descsubset 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
+[**`Participants`**](./participants.md#irsfsu2016) | [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
 - :material-rename: **Run ID:** ah4_descsubset 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
@@ -14,7 +14,7 @@
 
 ---
 #### ah4_run1 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
+[**`Participants`**](./participants.md#irsfsu2016) | [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
 - :material-rename: **Run ID:** ah4_run1 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
@@ -23,11 +23,11 @@
 - :material-upload: **Submission:** 8/28/2016 
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** full 
-- :material-text: **Run description:** This run combines following methodologies: 1. Reducing Increasing Rate of Batch Size According to the best result among the experiment on athome1, we decide increase the batch-size by L/20.  2. Using Unigram/Bigram SVM Features Data analysis of the athome1 task reveals that the relevant documents usually contain the query phrases, while the non-relevant documents contain only single terms, and often these single terms convey slightly different meaning from the query topic. This inspires this approach of combining bigram features with original unigram features. 3. Stopword pruning The 25 pruned stop words used are :  "a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "has", "he", "in", "is", "it", "its", "of", "on", "that", "the", "to", "was", "were", "will", “with" 4. Preserving words contain digits BMI skips words contain digits[0-9] while building the inverted index of corpus. We expect preserving words contain digits or pure numbers can improve the recall of BMI.   
+- :material-text: **Run description:** This run combines following methodologies: 1. Reducing Increasing Rate of Batch Size According to the best result among the experiment on athome1, we decide increase the batch-size by L/20.  2. Using Unigram/Bigram SVM Features Data analysis of the athome1 task reveals that the relevant documents usually contain the query phrases, while the non-relevant documents contain only single terms, and often these single terms convey slightly different meaning from the query topic. This inspires this approach of combining bigram features with original unigram features. 3. Stopword pruning The 25 pruned stop words used are :  "a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "has", "he", "in", "is", "it", "its", "of", "on", "that", "the", "to", "was", "were", "will", with" 4. Preserving words contain digits BMI skips words contain digits[0-9] while building the inverted index of corpus. We expect preserving words contain digits or pure numbers can improve the recall of BMI.   
 
 ---
 #### ah4_run2_seed_expansion 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
+[**`Participants`**](./participants.md#irsfsu2016) | [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
 - :material-rename: **Run ID:** ah4_run2_seed_expansion 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
@@ -40,7 +40,7 @@
 
 ---
 #### auto_shift_rotation 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** auto_shift_rotation 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -53,7 +53,7 @@
 
 ---
 #### auto_shift_rotation_exp 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** auto_shift_rotation_exp 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -66,7 +66,7 @@
 
 ---
 #### baseline_bm25 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** baseline_bm25 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -79,7 +79,7 @@
 
 ---
 #### baseline_bm25_smoothing 
-[**`Participants`**](./participants.md#ims_unipd), [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#ims_unipd) | [**`Proceedings`**](./proceedings.md#the-university-of-padua-ims-at-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** baseline_bm25_smoothing 
 - :fontawesome-solid-user-group: **Participant:** ims_unipd 
@@ -92,7 +92,7 @@
 
 ---
 #### manual_seed 
-[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#an-exploration-of-total-recall-with-multiple-manual-seedings) 
+[**`Participants`**](./participants.md#catres) | [**`Proceedings`**](./proceedings.md#an-exploration-of-total-recall-with-multiple-manual-seedings) 
 
 - :material-rename: **Run ID:** manual_seed 
 - :fontawesome-solid-user-group: **Participant:** catres 
@@ -105,7 +105,7 @@
 
 ---
 #### Run1 
-[**`Participants`**](./participants.md#e-discoveryteam), [**`Proceedings`**](./proceedings.md#trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#e-discoveryteam) | [**`Proceedings`**](./proceedings.md#trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** Run1 
 - :fontawesome-solid-user-group: **Participant:** e-discoveryteam 
@@ -118,7 +118,7 @@
 
 ---
 #### sandbox_run 
-[**`Participants`**](./participants.md#irsfsu2016), [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
+[**`Participants`**](./participants.md#irsfsu2016) | [**`Proceedings`**](./proceedings.md#san-francisco-state-university-sfsu-at-total-recall-track-of-trec-2016) 
 
 - :material-rename: **Run ID:** sandbox_run 
 - :fontawesome-solid-user-group: **Participant:** IR.SFSU.2016 
@@ -131,7 +131,7 @@
 
 ---
 #### UWathome4Baseline 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4Baseline 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -144,7 +144,7 @@
 
 ---
 #### UWathome4descBaseline 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4descBaseline 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -157,7 +157,7 @@
 
 ---
 #### UWathome4descKnee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4descKnee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -170,7 +170,7 @@
 
 ---
 #### UWathome4descTarget 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4descTarget 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -183,7 +183,7 @@
 
 ---
 #### UWathome4Knee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4Knee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -196,7 +196,7 @@
 
 ---
 #### UWathome4Target 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** UWathome4Target 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -209,7 +209,7 @@
 
 ---
 #### uwsandboxknee 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** uwsandboxknee 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -222,7 +222,7 @@
 
 ---
 #### uwsandboxtarget 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#when-to-stop-waterloo-cormack-participation-in-the-trec-2016-total-recall-track) 
 
 - :material-rename: **Run ID:** uwsandboxtarget 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 

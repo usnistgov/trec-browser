@@ -1,7 +1,7 @@
 # Runs - Total Recall 2015 
 
 #### 1NB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1NB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -14,7 +14,7 @@
 
 ---
 #### 1NB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1NB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -27,7 +27,7 @@
 
 ---
 #### 1SB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1SB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -40,7 +40,7 @@
 
 ---
 #### 1SB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1SB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -53,7 +53,7 @@
 
 ---
 #### 1ST 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1ST 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -66,7 +66,7 @@
 
 ---
 #### 1ST_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 1ST_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -79,7 +79,7 @@
 
 ---
 #### 6NB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6NB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -92,7 +92,7 @@
 
 ---
 #### 6NB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6NB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -105,7 +105,7 @@
 
 ---
 #### 6SB 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6SB 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -118,7 +118,7 @@
 
 ---
 #### 6SB_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6SB_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -131,7 +131,7 @@
 
 ---
 #### 6ST 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6ST 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -144,7 +144,7 @@
 
 ---
 #### 6ST_sandbox 
-[**`Participants`**](./participants.md#tuw), [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
+[**`Participants`**](./participants.md#tuw) | [**`Proceedings`**](./proceedings.md#tuw-at-the-first-total-recall-track) 
 
 - :material-rename: **Run ID:** 6ST_sandbox 
 - :fontawesome-solid-user-group: **Participant:** TUW 
@@ -196,7 +196,7 @@
 
 ---
 #### attemptone 
-[**`Participants`**](./participants.md#catres), [**`Proceedings`**](./proceedings.md#a-constrained-approach-to-manual-total-recall) 
+[**`Participants`**](./participants.md#catres) | [**`Proceedings`**](./proceedings.md#a-constrained-approach-to-manual-total-recall) 
 
 - :material-rename: **Run ID:** attemptone 
 - :fontawesome-solid-user-group: **Participant:** catres 
@@ -209,7 +209,7 @@
 
 ---
 #### Baseline 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
 - :material-rename: **Run ID:** Baseline 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -222,7 +222,7 @@
 
 ---
 #### BASELINE 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** BASELINE 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -235,7 +235,7 @@
 
 ---
 #### BASELINE2 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** BASELINE2 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -248,7 +248,7 @@
 
 ---
 #### BASELINE2_SANDBOX 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** BASELINE2_SANDBOX 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -261,7 +261,7 @@
 
 ---
 #### BASELINE_SANDBOX 
-[**`Participants`**](./participants.md#uvailps), [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#uvailps) | [**`Proceedings`**](./proceedings.md#the-university-of-amsterdam-ilps-at-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** BASELINE_SANDBOX 
 - :fontawesome-solid-user-group: **Participant:** UvA.ILPS 
@@ -274,7 +274,7 @@
 
 ---
 #### CCRi-athome 
-[**`Participants`**](./participants.md#ccri), [**`Proceedings`**](./proceedings.md#efficient-semantic-indexing-via-neural-networks-with-dynamic-supervised-feedback) 
+[**`Participants`**](./participants.md#ccri) | [**`Proceedings`**](./proceedings.md#efficient-semantic-indexing-via-neural-networks-with-dynamic-supervised-feedback) 
 
 - :material-rename: **Run ID:** CCRi-athome 
 - :fontawesome-solid-user-group: **Participant:** CCRi 
@@ -287,7 +287,7 @@
 
 ---
 #### iterative_expansion 
-[**`Participants`**](./participants.md#whu_irgroup), [**`Proceedings`**](./proceedings.md#whu-at-trec-total-recall-track-2015) 
+[**`Participants`**](./participants.md#whu_irgroup) | [**`Proceedings`**](./proceedings.md#whu-at-trec-total-recall-track-2015) 
 
 - :material-rename: **Run ID:** iterative_expansion 
 - :fontawesome-solid-user-group: **Participant:** WHU_IRGroup 
@@ -300,7 +300,7 @@
 
 ---
 #### Keyphrase 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
 - :material-rename: **Run ID:** Keyphrase 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -313,7 +313,7 @@
 
 ---
 #### Multimodal 
-[**`Participants`**](./participants.md#ediscoveryteam), [**`Proceedings`**](./proceedings.md#e-discovery-team-at-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#ediscoveryteam) | [**`Proceedings`**](./proceedings.md#e-discovery-team-at-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** Multimodal 
 - :fontawesome-solid-user-group: **Participant:** eDiscoveryTeam 
@@ -326,7 +326,7 @@
 
 ---
 #### SandboxBaseline 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
 - :material-rename: **Run ID:** SandboxBaseline 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -339,7 +339,7 @@
 
 ---
 #### SandboxKeyphrase 
-[**`Participants`**](./participants.md#webis), [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
+[**`Participants`**](./participants.md#webis) | [**`Proceedings`**](./proceedings.md#webis-at-trec-2015-tasks-and-total-recall-tracks) 
 
 - :material-rename: **Run ID:** SandboxKeyphrase 
 - :fontawesome-solid-user-group: **Participant:** Webis 
@@ -352,7 +352,7 @@
 
 ---
 #### stop3299 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** stop3299 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -365,7 +365,7 @@
 
 ---
 #### UWGVCknee100 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** UWGVCknee100 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -378,7 +378,7 @@
 
 ---
 #### UWGVCknee1000 
-[**`Participants`**](./participants.md#waterloocormack), [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#waterloocormack) | [**`Proceedings`**](./proceedings.md#waterloo-cormack-participation-in-the-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** UWGVCknee1000 
 - :fontawesome-solid-user-group: **Participant:** WaterlooCormack 
@@ -391,7 +391,7 @@
 
 ---
 #### UWPAH 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** UWPAH 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 
@@ -404,7 +404,7 @@
 
 ---
 #### UWPAH_ 
-[**`Participants`**](./participants.md#waterlooclarke), [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
+[**`Participants`**](./participants.md#waterlooclarke) | [**`Proceedings`**](./proceedings.md#waterlooclarke-trec-2015-total-recall-track) 
 
 - :material-rename: **Run ID:** UWPAH_ 
 - :fontawesome-solid-user-group: **Participant:** WaterlooClarke 

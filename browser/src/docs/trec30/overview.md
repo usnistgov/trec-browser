@@ -2,7 +2,7 @@
 
 ## Incident Streams
 
-[`Overview`](./incident/overview.md), [`Proceedings`](./incident/proceedings.md), [`Data`](./incident/data.md), [`Runs`](./incident/runs.md), [`Participants`](./incident/participants.md)
+[`Overview`](./incident/overview.md) | [`Proceedings`](./incident/proceedings.md) | [`Data`](./incident/data.md) | [`Runs`](./incident/runs.md) | [`Participants`](./incident/participants.md)
 
 {==
 
@@ -23,7 +23,7 @@ The Incident Streams track is designed to bring together academia and industry t
 
 ## News
 
-[`Overview`](./news/overview.md), [`Proceedings`](./news/proceedings.md), [`Data`](./news/data.md), [`Results`](./news/results.md), [`Runs`](./news/runs.md), [`Participants`](./news/participants.md)
+[`Overview`](./news/overview.md) | [`Proceedings`](./news/proceedings.md) | [`Data`](./news/data.md) | [`Results`](./news/results.md) | [`Runs`](./news/runs.md) | [`Participants`](./news/participants.md)
 
 {==
 
@@ -44,7 +44,7 @@ The News track features modern search tasks in the news domain. In partnership w
 
 ## Fair Ranking
 
-[`Overview`](./fair/overview.md), [`Proceedings`](./fair/proceedings.md), [`Data`](./fair/data.md), [`Runs`](./fair/runs.md), [`Participants`](./fair/participants.md)
+[`Overview`](./fair/overview.md) | [`Proceedings`](./fair/proceedings.md) | [`Data`](./fair/data.md) | [`Runs`](./fair/runs.md) | [`Participants`](./fair/participants.md)
 
 {==
 
@@ -66,7 +66,7 @@ The Fair Ranking track focuses on building two-sided systems that offer fair exp
 
 ## Deep Learning
 
-[`Overview`](./deep/overview.md), [`Proceedings`](./deep/proceedings.md), [`Data`](./deep/data.md), [`Results`](./deep/results.md), [`Runs`](./deep/runs.md), [`Participants`](./deep/participants.md)
+[`Overview`](./deep/overview.md) | [`Proceedings`](./deep/proceedings.md) | [`Data`](./deep/data.md) | [`Results`](./deep/results.md) | [`Runs`](./deep/runs.md) | [`Participants`](./deep/participants.md)
 
 {==
 
@@ -89,7 +89,7 @@ The Deep Learning track focuses on IR tasks where a large training set is availa
 
 ## Clinical Trials
 
-[`Overview`](./trials/overview.md), [`Proceedings`](./trials/proceedings.md), [`Data`](./trials/data.md), [`Results`](./trials/results.md), [`Runs`](./trials/runs.md), [`Participants`](./trials/participants.md)
+[`Overview`](./trials/overview.md) | [`Proceedings`](./trials/proceedings.md) | [`Data`](./trials/data.md) | [`Results`](./trials/results.md) | [`Runs`](./trials/runs.md) | [`Participants`](./trials/participants.md)
 
 {==
 
@@ -111,7 +111,7 @@ The goal of the new Clinical Trials track is to focus research on the clinical t
 
 ## Conversational Assistance
 
-[`Overview`](./cast/overview.md), [`Proceedings`](./cast/proceedings.md), [`Data`](./cast/data.md), [`Results`](./cast/results.md), [`Runs`](./cast/runs.md), [`Participants`](./cast/participants.md)
+[`Overview`](./cast/overview.md) | [`Proceedings`](./cast/proceedings.md) | [`Data`](./cast/data.md) | [`Results`](./cast/results.md) | [`Runs`](./cast/runs.md) | [`Participants`](./cast/participants.md)
 
 {==
 
@@ -132,7 +132,7 @@ The main aim of Conversational Assistance Track (CAsT) is to advance research on
 
 ## Health Misinformation
 
-[`Overview`](./misinfo/overview.md), [`Proceedings`](./misinfo/proceedings.md), [`Data`](./misinfo/data.md), [`Results`](./misinfo/results.md), [`Runs`](./misinfo/runs.md), [`Participants`](./misinfo/participants.md)
+[`Overview`](./misinfo/overview.md) | [`Proceedings`](./misinfo/proceedings.md) | [`Data`](./misinfo/data.md) | [`Results`](./misinfo/results.md) | [`Runs`](./misinfo/runs.md) | [`Participants`](./misinfo/participants.md)
 
 {==
 
@@ -153,7 +153,7 @@ The Health Misinformation track aims to (1) provide a venue for research on retr
 
 ## Podcast
 
-[`Overview`](./podcast/overview.md), [`Proceedings`](./podcast/proceedings.md), [`Data`](./podcast/data.md), [`Results`](./podcast/results.md), [`Runs`](./podcast/runs.md), [`Participants`](./podcast/participants.md)
+[`Overview`](./podcast/overview.md) | [`Proceedings`](./podcast/proceedings.md) | [`Data`](./podcast/data.md) | [`Results`](./podcast/results.md) | [`Runs`](./podcast/runs.md) | [`Participants`](./podcast/participants.md)
 
 {==
 

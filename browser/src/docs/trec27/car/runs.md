@@ -15,7 +15,7 @@
 
 ---
 #### CUIS-dogeDodge 
-[**`Participants`**](./participants.md#cuis), [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
+[**`Participants`**](./participants.md#cuis) | [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
 
 - :material-rename: **Run ID:** CUIS-dogeDodge 
 - :fontawesome-solid-user-group: **Participant:** CUIS 
@@ -29,7 +29,7 @@
 
 ---
 #### CUIS-F150 
-[**`Participants`**](./participants.md#cuis), [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
+[**`Participants`**](./participants.md#cuis) | [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
 
 - :material-rename: **Run ID:** CUIS-F150 
 - :fontawesome-solid-user-group: **Participant:** CUIS 
@@ -43,7 +43,7 @@
 
 ---
 #### CUIS-MX5 
-[**`Participants`**](./participants.md#cuis), [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
+[**`Participants`**](./participants.md#cuis) | [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
 
 - :material-rename: **Run ID:** CUIS-MX5 
 - :fontawesome-solid-user-group: **Participant:** CUIS 
@@ -57,7 +57,7 @@
 
 ---
 #### CUIS-Swift 
-[**`Participants`**](./participants.md#cuis), [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
+[**`Participants`**](./participants.md#cuis) | [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
 
 - :material-rename: **Run ID:** CUIS-Swift 
 - :fontawesome-solid-user-group: **Participant:** CUIS 
@@ -71,7 +71,7 @@
 
 ---
 #### CUIS-XTS 
-[**`Participants`**](./participants.md#cuis), [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
+[**`Participants`**](./participants.md#cuis) | [**`Proceedings`**](./proceedings.md#cuis-team-at-trec-2018-car-track) 
 
 - :material-rename: **Run ID:** CUIS-XTS 
 - :fontawesome-solid-user-group: **Participant:** CUIS 
@@ -85,7 +85,7 @@
 
 ---
 #### DWS-UMA-EntAspBM25none 
-[**`Participants`**](./participants.md#dws-uma), [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
+[**`Participants`**](./participants.md#dws-uma) | [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
 
 - :material-rename: **Run ID:** DWS-UMA-EntAspBM25none 
 - :fontawesome-solid-user-group: **Participant:** DWS-UMA 
@@ -99,7 +99,7 @@
 
 ---
 #### DWS-UMA-EntAspQLrm 
-[**`Participants`**](./participants.md#dws-uma), [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
+[**`Participants`**](./participants.md#dws-uma) | [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
 
 - :material-rename: **Run ID:** DWS-UMA-EntAspQLrm 
 - :fontawesome-solid-user-group: **Participant:** DWS-UMA 
@@ -113,7 +113,7 @@
 
 ---
 #### DWS-UMA-SemqQueryExp 
-[**`Participants`**](./participants.md#dws-uma), [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
+[**`Participants`**](./participants.md#dws-uma) | [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
 
 - :material-rename: **Run ID:** DWS-UMA-SemqQueryExp 
 - :fontawesome-solid-user-group: **Participant:** DWS-UMA 
@@ -127,7 +127,7 @@
 
 ---
 #### DWS-UMA-SemqQueryExp20 
-[**`Participants`**](./participants.md#dws-uma), [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
+[**`Participants`**](./participants.md#dws-uma) | [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
 
 - :material-rename: **Run ID:** DWS-UMA-SemqQueryExp20 
 - :fontawesome-solid-user-group: **Participant:** DWS-UMA 
@@ -141,7 +141,7 @@
 
 ---
 #### DWS-UMA-SemqQueryExp30 
-[**`Participants`**](./participants.md#dws-uma), [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
+[**`Participants`**](./participants.md#dws-uma) | [**`Proceedings`**](./proceedings.md#trec-car-2018-a-simple-unsupervised-semantic-query-expansion-model) 
 
 - :material-rename: **Run ID:** DWS-UMA-SemqQueryExp30 
 - :fontawesome-solid-user-group: **Participant:** DWS-UMA 
@@ -155,7 +155,7 @@
 
 ---
 #### entityEmbedLambdaMart 
-[**`Participants`**](./participants.md#umass), [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks) 
+[**`Participants`**](./participants.md#umass) | [**`Proceedings`**](./proceedings.md#umass-at-trec-2018-car-common-core-and-news-tracks) 
 
 - :material-rename: **Run ID:** entityEmbedLambdaMart 
 - :fontawesome-solid-user-group: **Participant:** UMass 
@@ -169,7 +169,7 @@
 
 ---
 #### guir 
-[**`Participants`**](./participants.md#guir), [**`Proceedings`**](./proceedings.md#pacrr-gated-expansion-for-trec-car-2018) 
+[**`Participants`**](./participants.md#guir) | [**`Proceedings`**](./proceedings.md#pacrr-gated-expansion-for-trec-car-2018) 
 
 - :material-rename: **Run ID:** guir 
 - :fontawesome-solid-user-group: **Participant:** GUIR 
@@ -183,7 +183,7 @@
 
 ---
 #### guir-exp 
-[**`Participants`**](./participants.md#guir), [**`Proceedings`**](./proceedings.md#pacrr-gated-expansion-for-trec-car-2018) 
+[**`Participants`**](./participants.md#guir) | [**`Proceedings`**](./proceedings.md#pacrr-gated-expansion-for-trec-car-2018) 
 
 - :material-rename: **Run ID:** guir-exp 
 - :fontawesome-solid-user-group: **Participant:** GUIR 
@@ -197,7 +197,7 @@
 
 ---
 #### NYU-L 
-[**`Participants`**](./participants.md#nyu-dl), [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#nyu-dl) | [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** NYU-L 
 - :fontawesome-solid-user-group: **Participant:** NYU-DL 
@@ -211,7 +211,7 @@
 
 ---
 #### NYU-M 
-[**`Participants`**](./participants.md#nyu-dl), [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#nyu-dl) | [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** NYU-M 
 - :fontawesome-solid-user-group: **Participant:** NYU-DL 
@@ -225,7 +225,7 @@
 
 ---
 #### NYU-XL 
-[**`Participants`**](./participants.md#nyu-dl), [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#nyu-dl) | [**`Proceedings`**](./proceedings.md#new-york-university-at-trec-2018-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** NYU-XL 
 - :fontawesome-solid-user-group: **Participant:** NYU-DL 
@@ -239,7 +239,7 @@
 
 ---
 #### UNH-e-graph 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-e-graph 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -253,7 +253,7 @@
 
 ---
 #### UNH-e-L2R 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-e-L2R 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -267,7 +267,7 @@
 
 ---
 #### UNH-e-mixed 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-e-mixed 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -281,7 +281,7 @@
 
 ---
 #### UNH-p-l2r 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-p-l2r 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -295,7 +295,7 @@
 
 ---
 #### UNH-p-mixed 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-p-mixed 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -309,7 +309,7 @@
 
 ---
 #### UNH-p-sdm 
-[**`Participants`**](./participants.md#trema-unh), [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
+[**`Participants`**](./participants.md#trema-unh) | [**`Proceedings`**](./proceedings.md#trema-unh-at-trec-2018-complex-answer-retrieval-and-news-track) 
 
 - :material-rename: **Run ID:** UNH-p-sdm 
 - :fontawesome-solid-user-group: **Participant:** trema-unh 
@@ -407,7 +407,7 @@
 
 ---
 #### UTDHLTRI2 
-[**`Participants`**](./participants.md#utdhltri), [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2018-complex-answer-retrieval-track) 
+[**`Participants`**](./participants.md#utdhltri) | [**`Proceedings`**](./proceedings.md#utd-hltri-at-trec-2018-complex-answer-retrieval-track) 
 
 - :material-rename: **Run ID:** UTDHLTRI2 
 - :fontawesome-solid-user-group: **Participant:** UTDHLTRI 

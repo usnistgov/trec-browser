@@ -6,7 +6,12 @@ _Chris Buckley, Mandar Mitra, Janet A. Walz, Claire Cardie_
 
 - :fontawesome-solid-user-group: **Participant:** [Cornell/Sabir](./participants.md#cornell/sabir)
 - :material-file-pdf-box: **Paper:** [https://trec.nist.gov/pubs/trec7/papers/cornell.pdf.gz](https://trec.nist.gov/pubs/trec7/papers/cornell.pdf.gz)
-- :material-file-search: **Runs:** [CorCor1](./runs.md#corcor1), [CorCor2](./runs.md#corcor2), [CorCor3](./runs.md#corcor3), [CorCor5](./runs.md#corcor5), [CorAPL1a](./runs.md#corapl1a), [CorAPL2a](./runs.md#corapl2a), [CorAPL5a](./runs.md#corapl5a), [CorAPL5b](./runs.md#corapl5b), [CorCor4](./runs.md#corcor4)
+- :material-file-search: **Runs:** [CorCor1](./runs.md#corcor1) | [CorCor2](./runs.md#corcor2) | [CorCor3](./runs.md#corcor3) | [CorCor5](./runs.md#corcor5) | [CorAPL1a](./runs.md#corapl1a) | [CorAPL2a](./runs.md#corapl2a) | [CorAPL5a](./runs.md#corapl5a) | [CorAPL5b](./runs.md#corapl5b) | [CorCor4](./runs.md#corcor4)
+
+??? abstract "Abstract"
+	
+	The Smart information retrieval project emphasizes completely automatic approaches to the understanding and retrieval of large quantities of text. We continue our work in TREC 7, concentrating on high precision retrieval. In particular, we present an in-depth analysis of our High-Precision Track results, including offering evaluation approaches and measures for time dependent evaluation. We participated in the Query Track, making initial efforts at analyzing query variability, one of the major obstacles for improving retrieval effectiveness.
+	
 
 ??? quote "Bibtex [:material-link-variant:](https://dblp.org/rec/conf/trec/BuckleyMWC98.bib) "
 	```
