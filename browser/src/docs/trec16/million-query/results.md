@@ -6,7 +6,7 @@ search:
 # Results - Million Query 2007 
 
 #### indriQL 
-[**`Metadata`**](./runs.md#indriql) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQL.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQL.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQL.gz)
+[**`Metadata`**](./runs.md#indriql) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQL.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQL.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQL.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/indriQL.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2960
@@ -19,7 +19,7 @@ search:
 	```
 ---
 #### indriQLSC 
-[**`Metadata`**](./runs.md#indriqlsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQLSC.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQLSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQLSC.gz)
+[**`Metadata`**](./runs.md#indriqlsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriQLSC.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriQLSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriQLSC.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/indriQLSC.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2939
@@ -32,7 +32,7 @@ search:
 	```
 ---
 #### indriDMCSC 
-[**`Metadata`**](./runs.md#indridmcsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDMCSC.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDMCSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDMCSC.gz)
+[**`Metadata`**](./runs.md#indridmcsc) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDMCSC.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDMCSC.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDMCSC.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/indriDMCSC.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.3197
@@ -45,7 +45,7 @@ search:
 	```
 ---
 #### exegyexact 
-[**`Metadata`**](./runs.md#exegyexact) | [**`Participants`**](./participants.md#exegyindeck) | [**`Proceedings`**](./proceedings.md#exegy-at-trec-2007-million-query-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.exegyexact.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.exegyexact.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.exegyexact.gz)
+[**`Metadata`**](./runs.md#exegyexact) | [**`Participants`**](./participants.md#exegyindeck) | [**`Proceedings`**](./proceedings.md#exegy-at-trec-2007-million-query-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.exegyexact.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.exegyexact.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.exegyexact.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/exegyexact.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.0752
@@ -58,7 +58,7 @@ search:
 	```
 ---
 #### indriDM 
-[**`Metadata`**](./runs.md#indridm) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDM.gz)
+[**`Metadata`**](./runs.md#indridm) | [**`Participants`**](./participants.md#umassallan) | [**`Proceedings`**](./proceedings.md#indri-at-trec-2007-million-query-1mq-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.indriDM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.indriDM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.indriDM.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/indriDM.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.3238
@@ -71,7 +71,7 @@ search:
 	```
 ---
 #### sabmq07a1 
-[**`Metadata`**](./runs.md#sabmq07a1) | [**`Participants`**](./participants.md#sabirbuckley)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07a1.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07a1.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07a1.gz)
+[**`Metadata`**](./runs.md#sabmq07a1) | [**`Participants`**](./participants.md#sabirbuckley)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.sabmq07a1.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.sabmq07a1.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.sabmq07a1.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/sabmq07a1.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1376
@@ -84,7 +84,7 @@ search:
 	```
 ---
 #### hitir2007mq 
-[**`Metadata`**](./runs.md#hitir2007mq) | [**`Participants`**](./participants.md#heilongjiang-itqi)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hitir2007mq.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hitir2007mq.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hitir2007mq.gz)
+[**`Metadata`**](./runs.md#hitir2007mq) | [**`Participants`**](./participants.md#heilongjiang-itqi)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hitir2007mq.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hitir2007mq.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hitir2007mq.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/hitir2007mq.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2873
@@ -97,7 +97,7 @@ search:
 	```
 ---
 #### UAmsT07MTiLM 
-[**`Metadata`**](./runs.md#uamst07mtilm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTiLM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTiLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTiLM.gz)
+[**`Metadata`**](./runs.md#uamst07mtilm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTiLM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTiLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTiLM.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/UAmsT07MTiLM.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.0392
@@ -110,7 +110,7 @@ search:
 	```
 ---
 #### LucSynEx 
-[**`Metadata`**](./runs.md#lucsynex) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSynEx.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSynEx.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSynEx.gz)
+[**`Metadata`**](./runs.md#lucsynex) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSynEx.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSynEx.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSynEx.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/LucSynEx.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2939
@@ -123,7 +123,7 @@ search:
 	```
 ---
 #### umelbexp 
-[**`Metadata`**](./runs.md#umelbexp) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbexp.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbexp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbexp.gz)
+[**`Metadata`**](./runs.md#umelbexp) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbexp.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbexp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbexp.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/umelbexp.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1251
@@ -136,7 +136,7 @@ search:
 	```
 ---
 #### ffind07d 
-[**`Metadata`**](./runs.md#ffind07d) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07d.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07d.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07d.gz)
+[**`Metadata`**](./runs.md#ffind07d) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07d.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07d.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07d.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/ffind07d.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1360
@@ -149,7 +149,7 @@ search:
 	```
 ---
 #### UAmsT07MAnLM 
-[**`Metadata`**](./runs.md#uamst07manlm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MAnLM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MAnLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MAnLM.gz)
+[**`Metadata`**](./runs.md#uamst07manlm) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MAnLM.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MAnLM.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MAnLM.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/UAmsT07MAnLM.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.0278
@@ -162,7 +162,7 @@ search:
 	```
 ---
 #### UAmsT07MSum8 
-[**`Metadata`**](./runs.md#uamst07msum8) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum8.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum8.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum8.gz)
+[**`Metadata`**](./runs.md#uamst07msum8) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum8.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum8.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum8.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/UAmsT07MSum8.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1621
@@ -175,7 +175,7 @@ search:
 	```
 ---
 #### UAmsT07MSum6 
-[**`Metadata`**](./runs.md#uamst07msum6) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum6.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum6.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum6.gz)
+[**`Metadata`**](./runs.md#uamst07msum6) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MSum6.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MSum6.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MSum6.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/UAmsT07MSum6.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1398
@@ -188,7 +188,7 @@ search:
 	```
 ---
 #### LucSpel0 
-[**`Metadata`**](./runs.md#lucspel0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSpel0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSpel0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSpel0.gz)
+[**`Metadata`**](./runs.md#lucspel0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSpel0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSpel0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSpel0.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/LucSpel0.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2940
@@ -201,7 +201,7 @@ search:
 	```
 ---
 #### umelbimp 
-[**`Metadata`**](./runs.md#umelbimp) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbimp.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbimp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbimp.gz)
+[**`Metadata`**](./runs.md#umelbimp) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbimp.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbimp.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbimp.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/umelbimp.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2499
@@ -214,7 +214,7 @@ search:
 	```
 ---
 #### JuruSynE 
-[**`Metadata`**](./runs.md#jurusyne) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.JuruSynE.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.JuruSynE.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.JuruSynE.gz)
+[**`Metadata`**](./runs.md#jurusyne) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.JuruSynE.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.JuruSynE.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.JuruSynE.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/JuruSynE.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.3135
@@ -227,7 +227,7 @@ search:
 	```
 ---
 #### ffind07c 
-[**`Metadata`**](./runs.md#ffind07c) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07c.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07c.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07c.gz)
+[**`Metadata`**](./runs.md#ffind07c) | [**`Participants`**](./participants.md#ualaskanewby) | [**`Proceedings`**](./proceedings.md#collection-selection-based-on-historical-performance-for-efficient-processing)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.ffind07c.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.ffind07c.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.ffind07c.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/ffind07c.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1272
@@ -240,7 +240,7 @@ search:
 	```
 ---
 #### UAmsT07MTeVS 
-[**`Metadata`**](./runs.md#uamst07mtevs) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeVS.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeVS.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeVS.gz)
+[**`Metadata`**](./runs.md#uamst07mtevs) | [**`Participants`**](./participants.md#uamsterdamderijke) | [**`Proceedings`**](./proceedings.md#parsimonious-language-models-for-a-terabyte-of-text)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.UAmsT07MTeVS.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.UAmsT07MTeVS.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.UAmsT07MTeVS.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/UAmsT07MTeVS.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1654
@@ -253,7 +253,7 @@ search:
 	```
 ---
 #### rmitbase 
-[**`Metadata`**](./runs.md#rmitbase) | [**`Participants`**](./participants.md#rmituscholer)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.rmitbase.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.rmitbase.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.rmitbase.gz)
+[**`Metadata`**](./runs.md#rmitbase) | [**`Participants`**](./participants.md#rmituscholer)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.rmitbase.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.rmitbase.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.rmitbase.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/rmitbase.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2936
@@ -266,7 +266,7 @@ search:
 	```
 ---
 #### umelbsim 
-[**`Metadata`**](./runs.md#umelbsim) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbsim.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbsim.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbsim.gz)
+[**`Metadata`**](./runs.md#umelbsim) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbsim.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbsim.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbsim.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/umelbsim.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2641
@@ -279,7 +279,7 @@ search:
 	```
 ---
 #### LucSyn0 
-[**`Metadata`**](./runs.md#lucsyn0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSyn0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSyn0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSyn0.gz)
+[**`Metadata`**](./runs.md#lucsyn0) | [**`Participants`**](./participants.md#ibmcarmel) | [**`Proceedings`**](./proceedings.md#lucene-and-juru-at-trec-2007-1-million-queries-track)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.LucSyn0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.LucSyn0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.LucSyn0.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/LucSyn0.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2940
@@ -292,7 +292,7 @@ search:
 	```
 ---
 #### hedge0 
-[**`Metadata`**](./runs.md#hedge0) | [**`Participants`**](./participants.md#northeasteruaslam) | [**`Proceedings`**](./proceedings.md#the-hedge-algorithm-for-metasearch-at-trec-2007)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hedge0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hedge0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hedge0.gz)
+[**`Metadata`**](./runs.md#hedge0) | [**`Participants`**](./participants.md#northeasteruaslam) | [**`Proceedings`**](./proceedings.md#the-hedge-algorithm-for-metasearch-at-trec-2007)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.hedge0.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.hedge0.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.hedge0.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/hedge0.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.1708
@@ -305,7 +305,7 @@ search:
 	```
 ---
 #### umelbstd 
-[**`Metadata`**](./runs.md#umelbstd) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbstd.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbstd.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbstd.gz)
+[**`Metadata`**](./runs.md#umelbstd) | [**`Participants`**](./participants.md#umelbournengoc-ahn)| [**`Input`**](https://trec.nist.gov/results/trec16/million-query/input.umelbstd.gz)| [**`Summary (tb-topics)`**](https://trec.nist.gov/results/trec16/million-query/summary.tb-topics.umelbstd.gz) | [**`Summary (statMAP)`**](https://trec.nist.gov/results/trec16/million-query/summary.statMAP.umelbstd.gz)| [**`Appendix`**](https://trec.nist.gov/pubs/trec16/appendices/million.query/umelbstd.official.pdf)
 ??? example "summary (trec_eval)"
 	```
 	map				all	0.2532

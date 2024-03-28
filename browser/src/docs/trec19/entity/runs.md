@@ -11,7 +11,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `0daeed79f5f26944ba3468d5c0ec3ce5` 
-- :material-text: **Run description:** Named entities are extracted using SAP Business Objects Thingfinder (TF) without special domain dictionaries. Our system constructs a extraction rule for TF from the pre-processed query which consists of tokens of the source entity (plus synonyms), target entity type (as predefined in TF) and most important tokens of the narrative. Target entities a scored by the minimal distance within a document, which are aggregated across the candidate documents (also considering the relevance of the retrieved document). - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: BING, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
+- :material-text: **Run description:** - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: BING, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
 
 ---
 #### bitDSHPRun 
@@ -25,7 +25,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `e7f27d6f1a41aea6f1f76bdef022d643` 
-- :material-text: **Run description:** Make use of Stanford Name Entity Identifier and prefer to extract Name entities from table or list which have the common features. Reconstruct logical sitemap of the source entity's site and locate the most relevant pages to extract related entity with the target type.And employ different sources such as inlink,google,realname and different homepage features which differ person and product types from that of organization and location. 
+- :material-text: **Run description:** Reconstruct logical sitemap of the source entity's site and locate the most relevant pages to extract related entity with the target type.And employ different sources such as inlink,google,realname and different homepage features which differ person and product types from that of organization and location. 
 
 ---
 #### bitDSRRun 
@@ -39,7 +39,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `95cc59b11ee6d94f19be3f7bdb939358` 
-- :material-text: **Run description:** Standford Name Entity Identifier To reconstruct logical sitemap of the target entities and locate the most relevant pages to extract list or table entities. Search Google and realnames with entity names to help homepage finding. 
+- :material-text: **Run description:** To reconstruct logical sitemap of the target entities and locate the most relevant pages to extract list or table entities. Search Google and realnames with entity names to help homepage finding. 
 
 ---
 #### bitRFRun 
@@ -53,7 +53,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3f4af220f770c4503edbc6326566acb9` 
-- :material-text: **Run description:** Standford Name Entity Identifier To reconstruct logical sitemap of the target entities and locate the most relevant pages to extract list or table entities. Search Google and realnames with entity names to help homepage finding. 
+- :material-text: **Run description:** To reconstruct logical sitemap of the target entities and locate the most relevant pages to extract list or table entities. Search Google and realnames with entity names to help homepage finding. 
 
 ---
 #### CARDENSMBLE 
@@ -67,7 +67,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `1fd7f12b5b6fb10f2ebff92c264400f2` 
-- :material-text: **Run description:** as nodes as entity entity graph entity tagging, indexing, entity entity graph, Ensemble approach, homepage finding 
+- :material-text: **Run description:** entity tagging, indexing, entity entity graph, Ensemble approach, homepage finding 
 
 ---
 #### CARDFPR 
@@ -81,7 +81,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `c8d975133d9f29d254ff995cb285f78d` 
-- :material-text: **Run description:** as nodes as entity entity graph entity tagging, indexing, entity entity graph, pagerank approach, homepage finding 
+- :material-text: **Run description:** entity tagging, indexing, entity entity graph, pagerank approach, homepage finding 
 
 ---
 #### CARDHITS 
@@ -95,7 +95,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `5c8606cfd7d256c8d6ba1c80172e0224` 
-- :material-text: **Run description:** as nodes as document entity graph entity tagging, indexing, document entity graph, HITS approach, homepage finding 
+- :material-text: **Run description:** entity tagging, indexing, document entity graph, HITS approach, homepage finding 
 
 ---
 #### CARDSGFCS 
@@ -109,7 +109,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `f8aa85849447f66f749db9b87e1a5284` 
-- :material-text: **Run description:** as nodes as entity entity graph entity tagging, indexing, entity entity graph, cumulative similarity approach, homepage finding 
+- :material-text: **Run description:** entity tagging, indexing, entity entity graph, cumulative similarity approach, homepage finding 
 
 ---
 #### Comp 
@@ -123,7 +123,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `d4f842b97a412b2bfd6fd3c0bdd335ba` 
-- :material-text: **Run description:** For Location, Person and Organization, named entities are found by means of Sanford NER. For Products we take the longest strings which have only words starting with a uppercase letter. If there is a number after the string we add it to the string. To get the "canonical form" of a person we submit to the Yahoo! web search engine the form what we have. We count the occurences of all named entities found in the ten first snippets and select the most frequent. For all ours runs, we start by downloading one hundred web pages with Yahoo! web search engine. We divide this web pages in passages of one or three sentences. Those passages are indexed by Indri and we keep the five hundred top ranked passages. Named entities are found by means of Stanford NER. We rank them by employing our own scoring function and search homepages on the web from new specific queries . Lastly, we map the url to the corresponding (if exists) clueweb id. For this baseline run, we used a density measure of question words around a candidate named entity which is called compacity. 
+- :material-text: **Run description:** For all ours runs, we start by downloading one hundred web pages with Yahoo! web search engine. We divide this web pages in passages of one or three sentences. Those passages are indexed by Indri and we keep the five hundred top ranked passages. Named entities are found by means of Stanford NER. We rank them by employing our own scoring function and search homepages on the web from new specific queries . Lastly, we map the url to the corresponding (if exists) clueweb id. For this baseline run, we used a density measure of question words around a candidate named entity which is called compacity. 
 
 ---
 #### Div 
@@ -137,7 +137,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `5b0cc9cd07aee35c0b3a782fae1a094b` 
-- :material-text: **Run description:** For Location, Person and Organization, named entities are found by means of Sanford NER. For Products we take the longest strings which have only words starting with a uppercase letter. If there is a number after the string we add it to the string. To get the "canonical form" of a person we submit to the Yahoo! web search engine the form what we have. We count the occurences of all named entities found in the ten first snippets and select the most frequent. To filter the named entities with a little more accuracy than just the type (person, place, ...) we try to extract from the topic a more specific type expected (teammate, champion sports, ...) with grammatical rules . We then try to determine the lexical context of this type and whether the candidate named entities share it. For this we calculate here the probability distribution of n-grams in a corpus of web page on the subject. A first corpus is recovered on the internet searching for the type (eg, subjecting the word "teammate" in a search engine and recovered to 100 pages) which will be calculated the probability of occurrence of n-grams. For each candidate named entity such procedure will be performed (we shall then submit the text of the named entity in the search engine). Our assumption here is that the higher the probability distribution of an candidate named entity is close to the one of the expected type, so there are more chances of it being such. This distance is calculated using the Kullback-Leibler divergence. More important it is for a named entity, more it will be penalized in its rankings. 
+- :material-text: **Run description:** To filter the named entities with a little more accuracy than just the type (person, place, ...) we try to extract from the topic a more specific type expected (teammate, champion sports, ...) with grammatical rules . We then try to determine the lexical context of this type and whether the candidate named entities share it. For this we calculate here the probability distribution of n-grams in a corpus of web page on the subject. A first corpus is recovered on the internet searching for the type (eg, subjecting the word "teammate" in a search engine and recovered to 100 pages) which will be calculated the probability of occurrence of n-grams. For each candidate named entity such procedure will be performed (we shall then submit the text of the named entity in the search engine). Our assumption here is that the higher the probability distribution of an candidate named entity is close to the one of the expected type, so there are more chances of it being such. This distance is calculated using the Kullback-Leibler divergence. More important it is for a named entity, more it will be penalized in its rankings. 
 
 ---
 #### EntityHP 
@@ -151,7 +151,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `49637bec30286efeef58d8dc201dae9d` 
-- :material-text: **Run description:** Results with named entities test 
+- :material-text: **Run description:** test 
 
 ---
 #### EntityHP1 
@@ -165,7 +165,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `4f425699a158276f3640565b59606b2e` 
-- :material-text: **Run description:** With Named Entities With groundtruth entity & Homepage Finding 
+- :material-text: **Run description:** With groundtruth entity & Homepage Finding 
 
 ---
 #### FduWimET1 
@@ -179,7 +179,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `e4893f6d508e2a516ce00247088f464f` 
-- :material-text: **Run description:** Use Standford NER to extract entity Adopt text pattern recognition methods to raise the accuracy Use Wikipedia titles for both identifying and disambiguating Get named entities from lists of authority homepages Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
+- :material-text: **Run description:** Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
 
 ---
 #### FduWimET2 
@@ -193,7 +193,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `b187eb45dd0714a505c1b2393a5b92cd` 
-- :material-text: **Run description:** Use Standford NER to extract entity Adopt text pattern recognition methods to raise the accuracy Use Wikipedia titles for both identifying and disambiguating Get named entities from lists of authority homepages Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
+- :material-text: **Run description:** Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
 
 ---
 #### FduWimET3 
@@ -207,7 +207,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `a0f382cc1cdd4f788f65d6703e78d190` 
-- :material-text: **Run description:** Use Standford NER to extract entity Adopt text pattern recognition methods to raise the accuracy Use Wikipedia titles for both identifying and disambiguating Get named entities from lists of authority homepages Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection Construct the queries for document retrieval manually External resource: Google 
+- :material-text: **Run description:** Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection Construct the queries for document retrieval manually External resource: Google 
 
 ---
 #### FduWimET4 
@@ -221,7 +221,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `a21bb131827ec612c0273d6270bbc1bb` 
-- :material-text: **Run description:** Use Standford NER to extract entity Adopt text pattern recognition methods to raise the accuracy Get named entities from lists of authority homepages Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
+- :material-text: **Run description:** Combine corpus-based association rules and search engine in the entities Entity ranking according to multiple keywords Deep mining of authority pages Feature-based algorithm in entity homepage detection External resource: Google 
 
 ---
 #### G16 
@@ -235,7 +235,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `37e0916005611a4c2812dbf681d3c826` 
-- :material-text: **Run description:** Named entities are extracted using SAP Business Objects Thingfinder (TF) without special domain dictionaries. Our system constructs a extraction rule for TF from the pre-processed query which consists of tokens of the source entity (plus synonyms), target entity type (as predefined in TF) and most important tokens of the narrative. Target entities a scored by the minimal distance within a document, which are aggregated across the candidate documents (also considering the relevance of the retrieved document). - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Google, we took in this run 16 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
+- :material-text: **Run description:** - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Google, we took in this run 16 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
 
 ---
 #### G64 
@@ -249,7 +249,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `032b36b2fdb75fe472c2758c3dac36f6` 
-- :material-text: **Run description:** Named entities are extracted using SAP Business Objects Thingfinder (TF) without special domain dictionaries. Our system constructs a extraction rule for TF from the pre-processed query which consists of tokens of the source entity (plus synonyms), target entity type (as predefined in TF) and most important tokens of the narrative. Target entities a scored by the minimal distance within a document, which are aggregated across the candidate documents (also considering the relevance of the retrieved document). - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Google, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
+- :material-text: **Run description:** - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Google, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
 
 ---
 #### ICTNETRun1 
@@ -263,7 +263,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `0d94b2bd88e28144ff9e4ada4372f2ea` 
-- :material-text: **Run description:** We use the stanford NER tools(CRF model) combined with anchor text to recognize the named entity.And then define  some heuristic rules to check if two mentions are the same entity.  Procedure: 1. Extend the keyword set with WordNet 2. Search for the relevant documents in the dataSetA. 3. Extract the target named entities using the stanford NER tools 4. Extract the table list which may include some target named entities. Here we use html tag (such as <table> or  <ul>) and some heuristic methods to recognize the tables which we want 5. compute the initial ranking value of the candidae entities using some classic models such as language model 6. Reinforce the ranking value of the candidate entities with the help of table list. 7. Search for the homepages of candidate entities using google External Resources:  1. Extend the keyword set with WordNet. 2. Get the urls of homepage of candidate entity using google  
+- :material-text: **Run description:** Procedure: 1. Extend the keyword set with WordNet 2. Search for the relevant documents in the dataSetA. 3. Extract the target named entities using the stanford NER tools 4. Extract the table list which may include some target named entities. Here we use html tag (such as <table> or  <ul>) and some heuristic methods to recognize the tables which we want 5. compute the initial ranking value of the candidae entities using some classic models such as language model 6. Reinforce the ranking value of the candidate entities with the help of table list. 7. Search for the homepages of candidate entities using google External Resources:  1. Extend the keyword set with WordNet. 2. Get the urls of homepage of candidate entity using google  
 
 ---
 #### ilpsA500 
@@ -277,7 +277,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `e0ade9666cf43cf895a5281ae60e4da7` 
-- :material-text: **Run description:** stanford tagger, normalized with freebase freebase, dbpedia, stanford tagger, bing 
+- :material-text: **Run description:** freebase, dbpedia, stanford tagger, bing 
 
 ---
 #### ilpsM50 
@@ -291,7 +291,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `793be828d1dde0513be65fb90225f4b5` 
-- :material-text: **Run description:** stanford tagger, freebase alias keys for normalization stanford tagger, freebase, dbpedia, bing 
+- :material-text: **Run description:** stanford tagger, freebase, dbpedia, bing 
 
 ---
 #### ilpsM50agfil 
@@ -305,7 +305,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3ad7c8e2fc9e61b17358bfda9b1da824` 
-- :material-text: **Run description:** stanford tagger, freebase normalization stanford tagger, freebase, bing ,dbpedia 
+- :material-text: **Run description:** stanford tagger, freebase, bing ,dbpedia 
 
 ---
 #### ilpsM50var 
@@ -319,7 +319,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `f35a0817192c96400248cece4ddd7291` 
-- :material-text: **Run description:** stanford tagger, normalized with freebase keys stanford tagger, dbpedia, freebase, bing 
+- :material-text: **Run description:** stanford tagger, dbpedia, freebase, bing 
 
 ---
 #### ilpsSetOL 
@@ -333,7 +333,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `8872d701d63868392d6c2ec879999d37` 
-- :material-text: **Run description:**  Candidate entities are ranked according to set overlap with the predicates and objects linked to by the example entities. Candidates are entities that share common objects with example entities. 
+- :material-text: **Run description:** Candidate entities are ranked according to set overlap with the predicates and objects linked to by the example entities. Candidates are entities that share common objects with example entities. 
 
 ---
 #### ilpsSetOLnar 
@@ -347,7 +347,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `1ec522bec8e42ccb955b1547e2dec4df` 
-- :material-text: **Run description:**  filtered with category, source entity and narrative 
+- :material-text: **Run description:** filtered with category, source entity and narrative 
 
 ---
 #### KMR1PU 
@@ -361,7 +361,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `66aa6625adfb1b20ccb8dcf842c5720e` 
-- :material-text: **Run description:** We train CRF models to identify the named entities  We have special treatment on table and list data. We use Google to retrieve a set of candidate homepages and train classifiers to identify the homepages.  
+- :material-text: **Run description:** We have special treatment on table and list data. We use Google to retrieve a set of candidate homepages and train classifiers to identify the homepages.  
 
 ---
 #### KMR3PU 
@@ -375,7 +375,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `1e25ec6435dbe33250c2a296818d7cdc` 
-- :material-text: **Run description:** We train CRF models to identify the named entities  We utilize the structures of tables and lists to find the related entities. We use Google to retrieve a set of candidate answer pages as well as candidate homepages. We train logistic regression models on the four types of entities respectively.  
+- :material-text: **Run description:** We utilize the structures of tables and lists to find the related entities. We use Google to retrieve a set of candidate answer pages as well as candidate homepages. We train logistic regression models on the four types of entities respectively.  
 
 ---
 #### KMR5PU 
@@ -389,7 +389,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `f8fb240f52eff9843c447af065536a42` 
-- :material-text: **Run description:**  We build entity profiles only from BTC-2009 and index them by Indri. The retrieved entities are filtered based on the target entity types inferred from queries. 
+- :material-text: **Run description:** We build entity profiles only from BTC-2009 and index them by Indri. The retrieved entities are filtered based on the target entity types inferred from queries. 
 
 ---
 #### LearnDPI 
@@ -403,7 +403,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `22920c2a4b63b4b06965fa54384caf74` 
-- :material-text: **Run description:** For Location, Person and Organization, named entities are found by means of Sanford NER. For Products we take the longest strings which have only words starting with a uppercase letter. If there is a number after the string we add it to the string. To get the "canonical form" of a person we submit to the Yahoo! web search engine the form what we have. We count the occurences of all named entities found in the ten first snippets and select the most frequent. In this final run, we try to use all the measures we have (divergence, "compacit", passages score, idf, ...) to determine the rank of a named entity. For this we determine a class "Yes" which that means the named entity is correct, answering to the request and a class "No". For train, we build a corpora from the lists questions from TREC QA 2007 and 2006. Lastly we rank candidates answers according to their belonging to the "Yes" class. 
+- :material-text: **Run description:** In this final run, we try to use all the measures we have (divergence, "compacit", passages score, idf, ...) to determine the rank of a named entity. For this we determine a class "Yes" which that means the named entity is correct, answering to the request and a class "No". For train, we build a corpora from the lists questions from TREC QA 2007 and 2006. Lastly we rank candidates answers according to their belonging to the "Yes" class. 
 
 ---
 #### LiraSealClwb 
@@ -417,7 +417,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `804b4d8e3c9ae0aeff518903e16f21bb` 
-- :material-text: **Run description:**  1. I used a relation and list extraction technique called SEAL (Set Expander for Any Language) 2. I used the Clueweb index built in CMU :    http://boston.lti.cs.cmu.edu:8085/clueweb09/search/cata_english/lemur.cgi 3. I also used the billion tripple index built by Krisztian Balog     http://zookst1.science.uva.nl:8888/btc-webapp-0.1/btc2009 
+- :material-text: **Run description:** 1. I used a relation and list extraction technique called SEAL (Set Expander for Any Language) 2. I used the Clueweb index built in CMU :    http://boston.lti.cs.cmu.edu:8085/clueweb09/search/cata_english/lemur.cgi 3. I also used the billion tripple index built by Krisztian Balog     http://zookst1.science.uva.nl:8888/btc-webapp-0.1/btc2009 
 
 ---
 #### LiraSealgoog 
@@ -431,7 +431,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `ffc4d7141a5615995e892c1f33db8c39` 
-- :material-text: **Run description:**  1. I used a relation and list extraction technique called SEAL (Set Expander for Any Language)  2. I used Google search engine to query the web.  3. I also used the billion tripple index built by Krisztian Balog     http://zookst1.science.uva.nl:8888/btc-webapp-0.1/btc2009 
+- :material-text: **Run description:** 1. I used a relation and list extraction technique called SEAL (Set Expander for Any Language)  2. I used Google search engine to query the web.  3. I also used the billion tripple index built by Krisztian Balog     http://zookst1.science.uva.nl:8888/btc-webapp-0.1/btc2009 
 
 ---
 #### PRIS1 
@@ -445,7 +445,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `eba08c0e1fb21e49710e4a65a25a6bc2` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity list Document-Centered Model by Indri, giving priority to entities extracted manually 
+- :material-text: **Run description:** Document-Centered Model by Indri, giving priority to entities extracted manually 
 
 ---
 #### PRIS2 
@@ -459,7 +459,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `9d13add7ff457e6dcc9b1b2e6341808b` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity list Document-Centered Model by Indri 
+- :material-text: **Run description:** Document-Centered Model by Indri 
 
 ---
 #### PRIS3 
@@ -473,7 +473,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `46123f7748b3e9f2d3f623052554daf7` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity list Entity-Centered Model by Indri 
+- :material-text: **Run description:** Entity-Centered Model by Indri 
 
 ---
 #### PRIS4 
@@ -487,7 +487,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `1f462727d944c1317b91386827df9b0f` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity list Entity-Centered Model by Lemur (Okapi) 
+- :material-text: **Run description:** Entity-Centered Model by Lemur (Okapi) 
 
 ---
 #### RanksDivComp 
@@ -501,7 +501,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `399657cf84da905a8bd8c8e6d5c6540d` 
-- :material-text: **Run description:** For Location, Person and Organization, named entities are found by means of Sanford NER. For Products we take the longest strings which have only words starting with a uppercase letter. If there is a number after the string we add it to the string. To get the "canonical form" of a person we submit to the Yahoo! web search engine the form what we have. We count the occurences of all named entities found in the ten first snippets and select the most frequent. In this run we merge the measure of divergence with the compacity for a given named entity by the f-measure of it ranks for each measures. 
+- :material-text: **Run description:** In this run we merge the measure of divergence with the compacity for a given named entity by the f-measure of it ranks for each measures. 
 
 ---
 #### SIEL10RUN1 
@@ -515,7 +515,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3f9acc5e8af3d9083a3728ee338ff5c2` 
-- :material-text: **Run description:** Named entities appear in lists, tables etc, present in specific patterns in wikipedia pages and in the homepages of source entities. We had submitted 2 runs already, under the organization SIEL_IIITH, but it was a misunderstanding as it was an account of the previous year. So, we now submit these results with this year's (siel10) account. The features of this run are : 1) Used wikipedia data to find required entities appearing in certain patterns like lists, tables etc. 2) Used homepages of source entities to crawl them upto a certain depth (since we do not have the clueweb category A dataset) and find the required entites and if possible, links to their homepages, which appear in specific patterns. 3) Combine the results and find their homepages by searching in urls present in the url-docid dataset. 4) Use the clueweb url-docid dataset to retrieve the clueweb id's of each url, and present them. 
+- :material-text: **Run description:** We had submitted 2 runs already, under the organization SIEL_IIITH, but it was a misunderstanding as it was an account of the previous year. So, we now submit these results with this year's (siel10) account. The features of this run are : 1) Used wikipedia data to find required entities appearing in certain patterns like lists, tables etc. 2) Used homepages of source entities to crawl them upto a certain depth (since we do not have the clueweb category A dataset) and find the required entites and if possible, links to their homepages, which appear in specific patterns. 3) Combine the results and find their homepages by searching in urls present in the url-docid dataset. 4) Use the clueweb url-docid dataset to retrieve the clueweb id's of each url, and present them. 
 
 ---
 #### SIELRUN1 
@@ -529,7 +529,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `194b3a307af277f012d744df3dfa8385` 
-- :material-text: **Run description:** Named Entities are treated as lists that appear in a specific pattern in a web page The approach followed is: 1. Used wikipedia dump for finding results by matching the words in given query. 2. Using homepages given in a query, we crawled a domain (since we do not have the actual dataset - Category A) at a particular depth to find required pages by matching output entity types and the words in the query. 3. combine the result of 1 and 2 to find common entities   4. We find the homepages of required entites using the clueweb url-docid dataset. 
+- :material-text: **Run description:** The approach followed is: 1. Used wikipedia dump for finding results by matching the words in given query. 2. Using homepages given in a query, we crawled a domain (since we do not have the actual dataset - Category A) at a particular depth to find required pages by matching output entity types and the words in the query. 3. combine the result of 1 and 2 to find common entities   4. We find the homepages of required entites using the clueweb url-docid dataset. 
 
 ---
 #### SIELRUN2 
@@ -543,7 +543,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `327ca02671734a370d52d65eca3f6ffc` 
-- :material-text: **Run description:** Same as run 1 Same as run 1 - changed the ranks 
+- :material-text: **Run description:** Same as run 1 - changed the ranks 
 
 ---
 #### Supp 
@@ -557,7 +557,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `28626bbcf27a40f93533c4d9f902076d` 
-- :material-text: **Run description:** UIUC NE toolkit is used to identify named entities. Use MINPAR to parse queries and supporting sentences. Use YAGO BOSS for retrieval.  
+- :material-text: **Run description:** Use MINPAR to parse queries and supporting sentences. Use YAGO BOSS for retrieval.  
 
 ---
 #### SuppHome 
@@ -571,7 +571,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `292298ddddffebe19f44cfc942bd1150` 
-- :material-text: **Run description:** UIUC NE toolkit is used to identify named entities.  Use MINPAR to parse queries and supporting sentences. Use Homepage for similarity calculation. Use YAGO BOSS for retrieval.  
+- :material-text: **Run description:** Use MINPAR to parse queries and supporting sentences. Use Homepage for similarity calculation. Use YAGO BOSS for retrieval.  
 
 ---
 #### SuppHomeIsA 
@@ -585,7 +585,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `412daf64f076404059c6483240f892cd` 
-- :material-text: **Run description:** UIUC NE toolkit is used to identify named entities.  Use YAGO data to learn patterns for isA relations. Use MINPAR to parse queries and supporting sentences. Use Homepage for similarity calculation. Use YAGO BOSS for retrieval.  
+- :material-text: **Run description:** Use YAGO data to learn patterns for isA relations. Use MINPAR to parse queries and supporting sentences. Use Homepage for similarity calculation. Use YAGO BOSS for retrieval.  
 
 ---
 #### SuppIsA 
@@ -599,7 +599,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `7595f4583d7d9cbf59ad84c5a6cf6060` 
-- :material-text: **Run description:** UIUC NE toolkit is used to identify named entities. Use YAGO data to learn patterns for isA relations. Use MINPAR to parse queries and supporting sentences. Use YAGO BOSS for retrieval.  
+- :material-text: **Run description:** Use YAGO data to learn patterns for isA relations. Use MINPAR to parse queries and supporting sentences. Use YAGO BOSS for retrieval.  
 
 ---
 #### UAbaseanchB 
@@ -613,7 +613,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `aa17674a7f1c410017ef8324bfb555ee` 
-- :material-text: **Run description:** Named entities are extracted from the titles of Wikpediapages. Wikipedia is used as a pivot. We search Wikipedia for the narrative first, for each retrieved Wikipedia page we use the title to search an anchor text index of Category B. 
+- :material-text: **Run description:** Wikipedia is used as a pivot. We search Wikipedia for the narrative first, for each retrieved Wikipedia page we use the title to search an anchor text index of Category B. 
 
 ---
 #### UAbaselinkA 
@@ -627,7 +627,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `dd5e02602feb804c483f10c96b060a3b` 
-- :material-text: **Run description:** Named entities are extracted from the titles of Wikpediapages. Wikipedia is used as a pivot. We search Wikipedia for the narrative first, for each retrieved Wikipedia page we follow the external links to search in Category A.  
+- :material-text: **Run description:** Wikipedia is used as a pivot. We search Wikipedia for the narrative first, for each retrieved Wikipedia page we follow the external links to search in Category A.  
 
 ---
 #### UAcatscombB 
@@ -641,7 +641,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `dc039065138b824bd5e1c0fc67fae745` 
-- :material-text: **Run description:** Named entities are extracted from the titles of Wikpediapages. Wikipedia is used as a pivot. We search Wikipedia for the narrative first, using manually assigned topic categories. For each retrieved Wikipedia page we follow the external links to search in Category B, if no link is found, we search an anchor text index for the page title.  
+- :material-text: **Run description:** Wikipedia is used as a pivot. We search Wikipedia for the narrative first, using manually assigned topic categories. For each retrieved Wikipedia page we follow the external links to search in Category B, if no link is found, we search an anchor text index for the page title.  
 
 ---
 #### UAcatslinkA 
@@ -655,7 +655,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `1e796eaaea4b8bdfbfe30e015ad2c313` 
-- :material-text: **Run description:** Named entities are extracted from the titles of Wikpediapages. Wikipedia is used as a pivot. We search Wikipedia for the narrative first, using manually assigned topic categories. For each retrieved Wikipedia page we follow the external links to search in Category A.  
+- :material-text: **Run description:** Wikipedia is used as a pivot. We search Wikipedia for the narrative first, using manually assigned topic categories. For each retrieved Wikipedia page we follow the external links to search in Category A.  
 
 ---
 #### UWAT1 
@@ -669,7 +669,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `a395ff3e7c9871ee88339fe19c3ac82b` 
-- :material-text: **Run description:** A named entity tagger was used in one of the stages. Top 50 web pages were retrieved using a search engine in response to queries generated from title and narrative. Snippets surrounding query term occurrences were processed using a named entity tagger. Candidate entities were ranked by tf*idf. 
+- :material-text: **Run description:** Top 50 web pages were retrieved using a search engine in response to queries generated from title and narrative. Snippets surrounding query term occurrences were processed using a named entity tagger. Candidate entities were ranked by tf*idf. 
 
 ---
 #### UWAT2 
@@ -683,7 +683,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `4a8ea6e843f7fb506461ce382ae429e2` 
-- :material-text: **Run description:** A named entity tagger was used in one of the stages. Top 50 web pages were retrieved using a search engine in response to queries generated from title and narrative. Snippets surrounding query term occurrences were processed using a named entity tagger. The selected named entities were then ranked and pruned by distributional similarity to seed entities. Seed entities were selected by extracting hyponyms of entity categories specified in the narrative. 
+- :material-text: **Run description:** Top 50 web pages were retrieved using a search engine in response to queries generated from title and narrative. Snippets surrounding query term occurrences were processed using a named entity tagger. The selected named entities were then ranked and pruned by distributional similarity to seed entities. Seed entities were selected by extracting hyponyms of entity categories specified in the narrative. 
 
 ---
 #### UWEntTI 
@@ -697,7 +697,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `9e0e0f106b6b2db87ee8bdd6dec1d898` 
-- :material-text: **Run description:** A list of named entities is extracted from the top ranked Web documents and goes through some filters e.g., those with a frequency less than a threshold and a length more than certain number of words are removed. Then the entities are ranked by TFIDF using statistics from CatB. And finally, one document from catA is reported as the potential homepage for each entity.  We used Yahoo! for retrieving the initial sets of documents from the Web and for finding homepages of entities.    
+- :material-text: **Run description:** We used Yahoo! for retrieving the initial sets of documents from the Web and for finding homepages of entities.    
 
 ---
 #### ValueDoc 
@@ -711,7 +711,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `c69c5e2c762aec00aab5e0acfee9c1d2` 
-- :material-text: **Run description:** Results with named entities test 
+- :material-text: **Run description:** test 
 
 ---
 #### Y64 
@@ -725,7 +725,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `3ffcc87a37b1bbd1d5e9e8ec7ef31488` 
-- :material-text: **Run description:** Named entities are extracted using SAP Business Objects Thingfinder (TF) without special domain dictionaries. Our system constructs a extraction rule for TF from the pre-processed query which consists of tokens of the source entity (plus synonyms), target entity type (as predefined in TF) and most important tokens of the narrative. Target entities a scored by the minimal distance within a document, which are aggregated across the candidate documents (also considering the relevance of the retrieved document). - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Yahoo!, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
+- :material-text: **Run description:** - The narrative query is pre-processed using the Stanford Part-of-Speech-Tagger - The source entity is queried to Freebase and the most popular synonyms are retrieved - A key word query is constructed consisting source entity, alternative names and verbs and nouns from the narrative (plus additional rewriting wrt. advanced search engines features) - Candidate documents are retrieved from a commercial web search engine (Life Web: Yahoo!, we took in this run 64 documents) - Candidate target entities are scored as described above - For home page finding, we collect advanced features of the web search engine (such as "find related documents" or "homepage URL occurs in anchors of other Web-pages") - As set of features is applied to score potential homepages, the features are aggregated using weights which are trained using a genetic algorithm - Finally the homepage URLs are mapped to Clueweb-IDs  
 
 ---
 #### YahooEnHP 
@@ -739,6 +739,6 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** main 
 - :material-fingerprint: **MD5:** `fbfab8c729436d3300d4e6540d35a446` 
-- :material-text: **Run description:** With Named Entities Search on Yahoo, Entity Extraction & Homepage Finding 
+- :material-text: **Run description:** Search on Yahoo, Entity Extraction & Homepage Finding 
 
 ---

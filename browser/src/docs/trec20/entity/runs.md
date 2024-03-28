@@ -11,7 +11,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** reflod 
 - :material-fingerprint: **MD5:** `d287442d93e99aee2743d326e77a405a` 
-- :material-text: **Run description:** We mapped target entity types to dbpedia ontology We used dbpedia for entity verification. 
+- :material-text: **Run description:** We used dbpedia for entity verification. 
 
 ---
 #### CARDHTMLA 
@@ -25,7 +25,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** reflod 
 - :material-fingerprint: **MD5:** `f5f1721c7d85f21044520dba892af670` 
-- :material-text: **Run description:** We mapped target entity types to dbpedia ontology We used dbpedia for entity verification. 
+- :material-text: **Run description:** We used dbpedia for entity verification. 
 
 ---
 #### CARDHTMLB 
@@ -39,7 +39,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** reflod 
 - :material-fingerprint: **MD5:** `42e807c85022a396032325967a27f725` 
-- :material-text: **Run description:** We mapped target entity types to dbpedia ontology We obtained relevant documents from Bing API. We used dbpedia for entity verification. 
+- :material-text: **Run description:** We obtained relevant documents from Bing API. We used dbpedia for entity verification. 
 
 ---
 #### CARDHTMLM 
@@ -53,7 +53,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** reflod 
 - :material-fingerprint: **MD5:** `a71497742858cbb816c13ef9af780245` 
-- :material-text: **Run description:** We mapped target entity types to dbpedia ontology We used dbpedia for entity verification. 
+- :material-text: **Run description:** We used dbpedia for entity verification. 
 
 ---
 #### ICSTaveAll 
@@ -67,7 +67,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `9bbd10b56ed6ea8b76b279b17125f797` 
-- :material-text: **Run description:** We use the entity names and some key words as queries, and then get the collection of pages from search engine via those queries. We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
+- :material-text: **Run description:** We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
 
 ---
 #### ICSTaveSni 
@@ -81,7 +81,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `17790d424a62af541930cafedda47f37` 
-- :material-text: **Run description:** We use the entity names and some key words as queries, and then get the collection of pages from search engine via those queries. We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
+- :material-text: **Run description:** We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
 
 ---
 #### ICSTmaxAll 
@@ -95,7 +95,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `055853d68e2f4130586ef24528b1d28a` 
-- :material-text: **Run description:** We use the entity names and some key words as queries, and then get the collection of pages from search engine via those queries. We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
+- :material-text: **Run description:** We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
 
 ---
 #### ICSTmaxSni 
@@ -109,7 +109,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `bb449d8e788395a69fd118d1c79e9b5b` 
-- :material-text: **Run description:** We use the entity names and some key words as queries, and then get the collection of pages from search engine via those queries. We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
+- :material-text: **Run description:** We first recognize homepages from ClueWeb09. Then we get a collection of homepages. And the answer must be in this collection if we have a high confidence of this homepage collection. Then we use this entity list to extract target entities from the related web pages. 
 
 ---
 #### ICTNET11ENR1 
@@ -123,7 +123,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `3493f9dd6ace047cf7584abad7cfeee8` 
-- :material-text: **Run description:**  A simple search on Sindice-2011. 
+- :material-text: **Run description:** A simple search on Sindice-2011. 
 
 ---
 #### ICTNET11ENR2 
@@ -137,7 +137,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `14e566c45099c7d7bc1b3f79bc6183f2` 
-- :material-text: **Run description:**  Search on Sindice2011 based on some rules. 
+- :material-text: **Run description:** Search on Sindice2011 based on some rules. 
 
 ---
 #### ilpslinkcand 
@@ -151,7 +151,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `311759e24924814a73f38148b1b932a8` 
-- :material-text: **Run description:**  This method uses the object that examples link to, to retrieve candidates. The candidates are then ranked based on the link overlap with the example entities. 
+- :material-text: **Run description:** This method uses the object that examples link to, to retrieve candidates. The candidates are then ranked based on the link overlap with the example entities. 
 
 ---
 #### ilpslinkOL 
@@ -165,7 +165,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `ace4b04b2811e9bfebf5c63264263dd7` 
-- :material-text: **Run description:**  Entities are ranked based on the link overlap between the example entities and candidate entities. Candidate entities are harvested from 3 sources: homepage domain of the source entity, pages linking to the source entity homepage domain, and dbpedia pages relevant to the narrative and source entity.  
+- :material-text: **Run description:** Entities are ranked based on the link overlap between the example entities and candidate entities. Candidate entities are harvested from 3 sources: homepage domain of the source entity, pages linking to the source entity homepage domain, and dbpedia pages relevant to the narrative and source entity.  
 
 ---
 #### ilpsPMIcMNZ 
@@ -179,7 +179,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `cd2c9f44176d10488f5a19ac1308e52c` 
-- :material-text: **Run description:**  Method combines ranked lists from text, and link based runs. Mehtod weights candidates found by each of the methods by co-ocurrence in the homepage ; inlinks to homepage and wikipedia pages relevant to the narrative. 
+- :material-text: **Run description:** Method combines ranked lists from text, and link based runs. Mehtod weights candidates found by each of the methods by co-ocurrence in the homepage ; inlinks to homepage and wikipedia pages relevant to the narrative. 
 
 ---
 #### ilpsTextFilt 
@@ -193,7 +193,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `5c908369eb6843bcfeee0eebdc33ee90` 
-- :material-text: **Run description:**  Method finds candidates by querying a LOD index (ED entity centered) with the relation and source entity. Candidates are filtered based on the "type" field (created by the trec entity tool) and the given dbpedia type. 
+- :material-text: **Run description:** Method finds candidates by querying a LOD index (ED entity centered) with the relation and source entity. Candidates are filtered based on the "type" field (created by the trec entity tool) and the given dbpedia type. 
 
 ---
 #### LIAcwb 
@@ -207,7 +207,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `ed3dddd092b9c34bbf38bdaf172967ad` 
-- :material-text: **Run description:**  Our baseline, with a QA-like framework, using as named entities relevance measures the compacity and confidence in the selected uri. The documents used are retrieved in the clueweb09 with a local indri index. 
+- :material-text: **Run description:** Our baseline, with a QA-like framework, using as named entities relevance measures the compacity and confidence in the selected uri. The documents used are retrieved in the clueweb09 with a local indri index. 
 
 ---
 #### LIAwb 
@@ -221,7 +221,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `0d6d7572c17a02706414e4229d3b3b1a` 
-- :material-text: **Run description:**  Our second baseline, the same as the LIAcwb run but using Bing api to retrieve document instead of clueweb09. 
+- :material-text: **Run description:** Our second baseline, the same as the LIAcwb run but using Bing api to retrieve document instead of clueweb09. 
 
 ---
 #### LIAwc 
@@ -235,7 +235,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `b75085594d9603f7c3dd8d9331a0edab` 
-- :material-text: **Run description:**  This run is an extension of LIA-wb. The homepage of the source entities was crawled and added to the document collection retrieved with Bing Api in order to found passages and candidate named entities. Two new scores were introduced here. The first one is how many examples are with a given candidate in lists or tables. The second is computed by downloading snippets about each candidate and example which were then clustered in two groups. A candidate earned more if its associated snippets are with snippets associated to the examples. 
+- :material-text: **Run description:** This run is an extension of LIA-wb. The homepage of the source entities was crawled and added to the document collection retrieved with Bing Api in order to found passages and candidate named entities. Two new scores were introduced here. The first one is how many examples are with a given candidate in lists or tables. The second is computed by downloading snippets about each candidate and example which were then clustered in two groups. A candidate earned more if its associated snippets are with snippets associated to the examples. 
 
 ---
 #### LIAwd 
@@ -249,7 +249,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `0e5748812dd0fd2b69b657e3573c02ca` 
-- :material-text: **Run description:**  This run is an extension of LIA-wb. The homepage of the source entities was crawled and added to the document collection retrieved with Bing Api in order to found passages and candidate named entities. Two new scores were introduced here. The first one is how many examples are with a given candidate in lists or tables. The second is computed by downloading snippets about each candidate and example, then for each candidate the similarity between word probabilites in its snippets and the word probabilities in examples's snippets is computed and used to ranked it. 
+- :material-text: **Run description:** This run is an extension of LIA-wb. The homepage of the source entities was crawled and added to the document collection retrieved with Bing Api in order to found passages and candidate named entities. Two new scores were introduced here. The first one is how many examples are with a given candidate in lists or tables. The second is computed by downloading snippets about each candidate and example, then for each candidate the similarity between word probabilites in its snippets and the word probabilities in examples's snippets is computed and used to ranked it. 
 
 ---
 #### PRISELC1 
@@ -263,7 +263,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `1f015299354d418027bb046ca814c0b4` 
-- :material-text: **Run description:**  DCM model, Entity Activation Forces model. Resources: Lemur ClueWeb Online Query Service, Stanford NER, Wikipedia 
+- :material-text: **Run description:** DCM model, Entity Activation Forces model. Resources: Lemur ClueWeb Online Query Service, Stanford NER, Wikipedia 
 
 ---
 #### PRISELC2 
@@ -277,7 +277,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `ab4e59c2b0edbda9052c2cd50ec6d688` 
-- :material-text: **Run description:**  DCM model, distance between keywords and entities. Resources: Google, Stanford NER, Wikipedia 
+- :material-text: **Run description:** DCM model, distance between keywords and entities. Resources: Google, Stanford NER, Wikipedia 
 
 ---
 #### PRISELC3 
@@ -291,7 +291,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `d36f3d2c82fd214ff1882feddbd46c85` 
-- :material-text: **Run description:**  DCM model, Entity Activation Forces model. Resources: Google, Stanford NER, Wikipedia 
+- :material-text: **Run description:** DCM model, Entity Activation Forces model. Resources: Google, Stanford NER, Wikipedia 
 
 ---
 #### PRISELC4 
@@ -305,7 +305,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `b2fc7ac806c03b9e388b9a556c047462` 
-- :material-text: **Run description:**  DCM model, distance between keywords and entities, Entity Activation Forces model. Resources: Google, Stanford NER, Wikipedia 
+- :material-text: **Run description:** DCM model, distance between keywords and entities, Entity Activation Forces model. Resources: Google, Stanford NER, Wikipedia 
 
 ---
 #### PRISREF1 
@@ -319,7 +319,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `b3d562711c4a638bec0d892bc2a17dde` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity lexicon 2010 DCM model, Lemur ClueWeb Online Query Service, Stanford NER, Google 
+- :material-text: **Run description:** 2010 DCM model, Lemur ClueWeb Online Query Service, Stanford NER, Google 
 
 ---
 #### PRISREF2 
@@ -333,7 +333,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `13bdd73835a20f84119dce5b25c678bf` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity lexicon snippet, Lemur ClueWeb Online Query Service, Stanford NER, Google 
+- :material-text: **Run description:** snippet, Lemur ClueWeb Online Query Service, Stanford NER, Google 
 
 ---
 #### PRISREF3 
@@ -347,7 +347,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `d93bbb900ed68e0048d37d85dc5513a6` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity lexicon 2010 DCM model, distance between keywords and entities, Lemur ClueWeb Online Query Service, Stanford NER, Google 
+- :material-text: **Run description:** 2010 DCM model, distance between keywords and entities, Lemur ClueWeb Online Query Service, Stanford NER, Google 
 
 ---
 #### PRISREF4 
@@ -361,7 +361,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `b9d3a1744e69668e4314dca6a9dd74fd` 
-- :material-text: **Run description:** Special webpage, Stanford NER, and entity lexicon 2011 DCM model, distance between keywords and entities, Lemur ClueWeb Online Query Service, Stanford NER, Google 
+- :material-text: **Run description:** 2011 DCM model, distance between keywords and entities, Lemur ClueWeb Online Query Service, Stanford NER, Google 
 
 ---
 #### stecam 
@@ -375,7 +375,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `c1530c6e89a0afeeafd667ac0c0e7e89` 
-- :material-text: **Run description:**  - the ranking algorithm extends bm25f by adding an additional structure within a field. 
+- :material-text: **Run description:** - the ranking algorithm extends bm25f by adding an additional structure within a field. 
 
 ---
 #### stecam2 
@@ -389,7 +389,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `850986123e7a3a9a7d7924e59025b19e` 
-- :material-text: **Run description:**  - the ranking algorithm extends bm25f by adding an additional structure within a field; - query dependent weights are used. 
+- :material-text: **Run description:** - the ranking algorithm extends bm25f by adding an additional structure within a field; - query dependent weights are used. 
 
 ---
 #### stecam3 
@@ -403,7 +403,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `adaf9adf5184fd68e2c2ea327cda97dc` 
-- :material-text: **Run description:**  - the sindice ranking algorithm which is a basic tf-idf, i.e., the one that comes with the Lucene search engine; - query dependent weights. 
+- :material-text: **Run description:** - the sindice ranking algorithm which is a basic tf-idf, i.e., the one that comes with the Lucene search engine; - query dependent weights. 
 
 ---
 #### TongKeyEN1 
@@ -417,7 +417,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `a6e6be8d0cdbc97cfd70d6846edb69aa` 
-- :material-text: **Run description:** Use Stanford Named Entity Recognition and pattern recognition method to extract entities  Multiple keywords used for entity ranking Strict filtering rules Pattern recognition Authority page mining Feature-based method for homepage detection  
+- :material-text: **Run description:** Multiple keywords used for entity ranking Strict filtering rules Pattern recognition Authority page mining Feature-based method for homepage detection  
 
 ---
 #### TongKeyEN2 
@@ -431,7 +431,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `d53215c35ac3155d73d4ea26c7270406` 
-- :material-text: **Run description:** Use Stanford Named Entity Recognition and pattern recognition method to extract entities  Multiple keywords used for entity ranking Pattern recognition Authority page mining Feature-based method for homepage detection  
+- :material-text: **Run description:** Multiple keywords used for entity ranking Pattern recognition Authority page mining Feature-based method for homepage detection  
 
 ---
 #### uiRunAll01 
@@ -445,7 +445,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `c919e26906d51f89e4fd09b9e37ec8af` 
-- :material-text: **Run description:**  We use Dbpedia Spotlight (http://spotlight.dbpedia.org) to identify the entities based on the dbpedia target from ClueWeb snippets, by which at the same time we also count the occurences of each entity as a parameter to rank the result list. Beyond that, Dbpedia Spotlight also gives relevant URI for each entities, which could be used to validate the URI from Sindice search results. 
+- :material-text: **Run description:** We use Dbpedia Spotlight (http://spotlight.dbpedia.org) to identify the entities based on the dbpedia target from ClueWeb snippets, by which at the same time we also count the occurences of each entity as a parameter to rank the result list. Beyond that, Dbpedia Spotlight also gives relevant URI for each entities, which could be used to validate the URI from Sindice search results. 
 
 ---
 #### uiRunAll02 
@@ -459,7 +459,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `e77364c700626a843e82f25f23a346e6` 
-- :material-text: **Run description:**  The main strategy is the same as Run1. The difference is that in this run, we also included the entity examples from each query in the result list. 
+- :material-text: **Run description:** The main strategy is the same as Run1. The difference is that in this run, we also included the entity examples from each query in the result list. 
 
 ---
 #### uiRunAll03 
@@ -473,7 +473,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `95589232267c1ce8bbb7d1a629733522` 
-- :material-text: **Run description:**  The main strategy is the same as Run2. The difference is that we adjust the rank function by penalized the score of the example candidates which were included in the result list. For all run, we use the Sindice-ED-2011 Dataset. 
+- :material-text: **Run description:** The main strategy is the same as Run2. The difference is that we adjust the rank function by penalized the score of the example candidates which were included in the result list. For all run, we use the Sindice-ED-2011 Dataset. 
 
 ---
 #### WhuRun 
@@ -487,7 +487,7 @@
 - :fontawesome-solid-user-gear: **Type:** automatic 
 - :material-text-search: **Task:** elc 
 - :material-fingerprint: **MD5:** `5ae02ee4a71ab47100859b522ba4fba9` 
-- :material-text: **Run description:**  We mainly  used the query syntax based SIREN to complete this task 
+- :material-text: **Run description:** We mainly  used the query syntax based SIREN to complete this task 
 
 ---
 #### WhuRun1 
@@ -501,7 +501,7 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `f90e16cea466c0bf32c8923fe698c82a` 
-- :material-text: **Run description:** We use Stanford NER for coarse-grained named entity recognition. Then we map fined-grained entity types for each topic to coarse-grained entity types regarding to DBPedia. We use natural language processing method to construct an efficient query regarding to the topic description. We analysis the top 200 documents returned by Lemur ClueWeb Online Query Service. Then we use lucene to index the context around candidate entities. At last, narrative is used as query, the rank of the context is the rank of the candidate entity. 
+- :material-text: **Run description:** We use natural language processing method to construct an efficient query regarding to the topic description. We analysis the top 200 documents returned by Lemur ClueWeb Online Query Service. Then we use lucene to index the context around candidate entities. At last, narrative is used as query, the rank of the context is the rank of the candidate entity. 
 
 ---
 #### WhuRun2 
@@ -515,6 +515,6 @@
 - :fontawesome-solid-user-gear: **Type:** manual 
 - :material-text-search: **Task:** ref 
 - :material-fingerprint: **MD5:** `5f71bf1675787acf9b8d7ed9755167ba` 
-- :material-text: **Run description:** We use Stanford NER for coarse-grained named entity recognition. Then we map fined-grained entity types for each topic to coarse-grained entity types regarding to DBPedia. We use natural language processing method to construct an efficient query regarding to the topic description. We analysis the top 200 documents returned by Lemur ClueWeb Online Query Service. Besides the co-occurrance of candidate entity with the given entity, we compute the contribution of each co-occurrance using the context around the candidate entity. Then we sum the score for candidates ranking. 
+- :material-text: **Run description:** We use natural language processing method to construct an efficient query regarding to the topic description. We analysis the top 200 documents returned by Lemur ClueWeb Online Query Service. Besides the co-occurrance of candidate entity with the given entity, we compute the contribution of each co-occurrance using the context around the candidate entity. Then we sum the score for candidates ranking. 
 
 ---
