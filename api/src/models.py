@@ -14,23 +14,20 @@ def is_json(json_data):
 
 
 class Run(db.Model):
-
     __tablename__ = 'runs'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     runid = db.Column(db.String(64))
+    pid = db.Column(db.String(64))
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
-    pid = db.Column(db.String(64))
-    year = db.Column(db.String(64))
-    date = db.Column(db.String(64))
     type = db.Column(db.String(64))
     task = db.Column(db.String(64))
-    track = db.Column(db.String(64))
     md5 = db.Column(db.String(64))
+    year = db.Column(db.String(64))
+    date = db.Column(db.String(64))
     description = db.Column(db.String(64))
-    summary_url = db.Column(db.String(64))
     input_url = db.Column(db.String(64))
+    summary_url = db.Column(db.String(64))
     appendix_url = db.Column(db.String(64))
     other = db.Column(db.String(64))
 
@@ -40,11 +37,9 @@ class Run(db.Model):
     
 
     def to_json(self):
-
         json_run = {
             'runid': self.runid,
             'trec': self.trec,
-            'track': self.track,
             'type': self.type,
             'task': self.task,
             'track': self.track,
@@ -63,114 +58,45 @@ class Run(db.Model):
                 json_run[attr] = json.loads(json_run[attr]) if is_json(json_run[attr]) else json_run[attr]
 
         participant = Participant.query.filter(Participant.trec==self.trec, Participant.pid==self.pid).first()
-
         if participant:
-            organization =  participant.organization
-            name =  participant.name
-
-            json_run.update(
-                {
-                    'participant': {
-                        'name': name,
-                        'organization': organization,
-                        'pid': self.pid,
-                    }
-                }
-            )
+            json_run.update({'participant': participant.to_json()})
+            del json_run['participant']['trec']
+            del json_run['participant']['year']
 
         publication = Publication.query.filter(Publication.trec==self.trec, Publication.pid==self.pid).first()
         if publication:
-            puburl = publication.url
-            biburl =  publication.biburl
-            pubkey = publication.key
-            pubtitle = publication.title
-            pubauthor = publication.author
-            pubbibtex = publication.bibtex
-
-            json_run.update(
-                {
-                    'publication': {
-                        'url': puburl,
-                        'biburl': biburl,
-                        'key': pubkey, 
-                        'title': pubtitle,
-                        'author': pubauthor,
-                        'bibtex': pubbibtex
-                    }
-                }
-            )
+            json_run.update({'publication': publication.to_json()})
+            del json_run['publication']['trec']
+            del json_run['publication']['track']
+            del json_run['publication']['pid']
 
         dataset = Dataset.query.filter(Dataset.trec==self.trec, Dataset.track==self.track).first()
-
         if dataset:
-            if hasattr(dataset, 'ir_datasets'):
-                ir_datasets = json.loads(dataset.ir_datasets) if is_json(dataset.ir_datasets) else dataset.ir_datasets 
-            if hasattr(dataset, 'corpus'):
-                corpus = json.loads(dataset.corpus) if is_json(dataset.corpus) else dataset.corpus  
-            if hasattr(dataset, 'topics'):
-                topics = json.loads(dataset.topics) if is_json(dataset.topics) else dataset.topics 
-            if hasattr(dataset, 'qrels'):
-                qrels = json.loads(dataset.qrels) if is_json(dataset.qrels) else dataset.qrels 
-            if hasattr(dataset, 'other'):
-                if dataset.other:
-                    if is_json(dataset.other):
-                        other = json.loads(dataset.other)
-                else:
-                    other = dataset.other
-            else:
-                other = dataset.other
-
-            json_run.update(
-                {
-                    'data':{
-                        'ir_datasets': ir_datasets,
-                        'corpus': corpus,
-                        'topics': topics,
-                        'qrels': qrels,
-                        'other': other,
-                    }
-                }
-            )
+            json_run.update({'data': dataset.to_json()})
 
         results = Result.query.filter(Result.trec==self.trec, Result.track==self.track, Result.runid==self.runid).all()
-
         evals = set([r.eval for r in results])
-        _res = dict.fromkeys(evals, dict())
-
+        results_dict = dict.fromkeys(evals, dict())
         for eval in evals:
-
             topics = set([r.topic for r in results])
-            _res_eval = dict.fromkeys(topics, dict())
-
+            res_eval = dict.fromkeys(topics, dict())
             for result in results:
-
                 if result.measure == 'summary':
                     continue
-
                 if result.eval == eval:
-
-                    _res_eval[result.topic].update(
-                    {
-                        result.measure: result.score
-                    }
-                )
-                
-            _res[eval] = _res_eval
-
-
-        json_run.update(
-            {
-                'results': _res
-            }
-        )
+                    res_eval[result.topic].update({result.measure: result.score})
+            results_dict[eval] = res_eval
+        json_run.update({'results': results_dict})
+    
+        track = Track.query.filter(Track.trec==self.trec, Track.track==self.track).first()
+        if track:
+            json_run.update({'track': track.to_json()})
 
         return json_run
     
 
 class Participant(db.Model):
-
     __tablename__ = 'participants'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     pid = db.Column(db.String(64))
     organization = db.Column(db.String(64))
@@ -184,7 +110,7 @@ class Participant(db.Model):
 
 
     def to_json(self):
-        json_participant = {
+        return {
             'pid': self.pid,
             'organization': self.organization,
             'name': self.name,
@@ -192,13 +118,9 @@ class Participant(db.Model):
             'year': self.year
         }
 
-        return json_participant
-
 
 class Dataset(db.Model):
-
     __tablename__ = 'datasets'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
@@ -214,7 +136,6 @@ class Dataset(db.Model):
 
 
     def to_json(self):
-
         if hasattr(self, 'ir_datasets'):
             ir_datasets = json.loads(self.ir_datasets) if is_json(self.ir_datasets) else self.ir_datasets 
         if hasattr(self, 'corpus'):
@@ -224,13 +145,7 @@ class Dataset(db.Model):
         if hasattr(self, 'qrels'):
             qrels = json.loads(self.qrels) if is_json(self.qrels) else self.qrels 
         if hasattr(self, 'other'):
-            if self.other:
-                if is_json(self.other):
-                    other = json.loads(self.other)
-            else:
-                other = self.other
-        else:
-            other = self.other
+            other = json.loads(self.other) if is_json(self.other) else self.other 
 
         return {
             'ir_datasets': ir_datasets,
@@ -242,9 +157,7 @@ class Dataset(db.Model):
 
 
 class Publication(db.Model):
-
     __tablename__ = 'publications'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
@@ -263,7 +176,7 @@ class Publication(db.Model):
     
 
     def to_json(self):
-        json_publication = {
+        return {
             'trec': self.trec,
             'track': self.track,
             'pid': self.pid,
@@ -272,17 +185,13 @@ class Publication(db.Model):
             'key': self.key,
             'title': self.title,
             'author': self.author,
-            'author': self.abstract,
+            'abstract': self.abstract,
             'bibtex': self.bibtex
         }
 
-        return json_publication
-
 
 class Result(db.Model):
-
     __tablename__ = 'results'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
@@ -298,7 +207,7 @@ class Result(db.Model):
     
 
     def to_json(self):
-        json_publication = {
+        return {
             'trec': self.trec,
             'track': self.track,
             'runid': self.runid,
@@ -308,17 +217,17 @@ class Result(db.Model):
             'score': self.score
         }
 
-        return json_publication
-
 
 class Track(db.Model):
-
     __tablename__ = 'tracks'
-
     index = db.Column(db.Integer, unique=True, primary_key=True)
     trec = db.Column(db.String(64))
     track = db.Column(db.String(64))
     fullname = db.Column(db.String(64))
+    tasks = db.Column(db.String(64))
+    webpage = db.Column(db.String(64))
+    coordinators = db.Column(db.String(64))
+    description = db.Column(db.String(64))
 
 
     def __repr__(self):
@@ -326,10 +235,12 @@ class Track(db.Model):
 
 
     def to_json(self):
-        json_track = {
+        return {
             'trec': self.trec,
-            'track': self.track,
-            'fullname': self.fullname
+            'trackid': self.track,
+            'fullname': self.fullname,
+            'tasks': json.loads(self.tasks) if is_json(self.tasks) else self.tasks, 
+            'webpage': self.webpage,
+            'coordinators': self.coordinators.split(':'),
+            'description': self.description
         }
-
-        return json_track
