@@ -29,11 +29,10 @@ class Run(db.Model):
     track = db.Column(db.String(64))
     md5 = db.Column(db.String(64))
     description = db.Column(db.String(64))
-    repository = db.Column(db.String(64))
-    hardware = db.Column(db.String(64))
     summary_url = db.Column(db.String(64))
     input_url = db.Column(db.String(64))
     appendix_url = db.Column(db.String(64))
+    other = db.Column(db.String(64))
 
 
     def __repr__(self):
@@ -53,12 +52,15 @@ class Run(db.Model):
             'year': self.year,
             'date': self.date,
             'description': self.description,
-            'repository': self.repository,
-            'hardware': self.hardware,
             'input_url': self.input_url,
             'summary_url': self.summary_url,
-            'appendix_url': self.appendix_url
+            'appendix_url': self.appendix_url,
+            'other': self.other
         }
+
+        for attr in ['summary_url', 'appendix_url', 'other']:
+            if json_run.get(attr):
+                json_run[attr] = json.loads(json_run[attr]) if is_json(json_run[attr]) else json_run[attr]
 
         participant = Participant.query.filter(Participant.trec==self.trec, Participant.pid==self.pid).first()
 
