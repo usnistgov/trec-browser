@@ -254,6 +254,7 @@ class Publication(db.Model):
     key = db.Column(db.String(64))
     title = db.Column(db.String(64))
     author = db.Column(db.String(64))
+    abstract = db.Column(db.String(64))
     bibtex = db.Column(db.String(64))
 
 
@@ -271,6 +272,7 @@ class Publication(db.Model):
             'key': self.key,
             'title': self.title,
             'author': self.author,
+            'author': self.abstract,
             'bibtex': self.bibtex
         }
 
