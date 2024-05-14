@@ -7,14 +7,13 @@ theme:
     repo: fontawesome/brands/git-alt
   palette:
   - scheme: default
-    primary: light blue
-    accent: light blue
+    primary: indigo
+    accent: indigo
     toggle:
       icon: material/toggle-switch
       name: Switch to dark mode
-  - scheme: slate
-    primary: light blue
-    accent: light blue
+  - scheme: dark_mode
+    primary: blue grey
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to light mode
@@ -41,6 +40,7 @@ markdown_extensions:
     permalink: true
 extra_css:
 - https://pages.nist.gov/nist-header-footer/css/nist-combined.css
+- stylesheets/extra.css
 extra_javascript:
 - https://code.jquery.com/jquery-3.6.2.min.js
 - https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js
