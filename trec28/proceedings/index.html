@@ -42744,14 +42744,15 @@
 <p>The vision of TREC Complex Answer Retrieval is to create complex long-form answers in response to a wide-variety information needs. In general, we aspire to create answers that are reminiscent to Wikipedia articles or school text books (e.g. TQA). However, while the vast majority of Wikipedia articles are about people, in TREC CAR we aim at information needs that are off the beaten path, covering topics in popular science, technology, and illnesses. The first two years of TREC CAR, we aimed to reproduce Wikipedia articles. This provided a very large-scale automated benchmark, which had significant impact on neural ranking research [7, 6], as well as feature-based ranking models [1, 4]. The downside was that we had to prohibit access to Wikipedia, collections that could include Wikipedia (e.g. ClueWeb), and knowledge bases derived from Wikipedia (we provided the part of Wikipedia from which a knowledge graph can be built that excludes the benchmark topics, called “allButBenchmark”). Technically this would even affect resources that are trained on Wikipedia, such as most word embeddings and BERT [3]. To avoid this difficulty, in this year, our test topics come exclusively from an collection of school text book chapters, which are provided along with the TQA dataset [5]. These chapters have a similar length as Wikipedia articles, but are written for a younger audience. We derive outlines from TQA chapters, and ask participants to populate these outlines with paragraphs from Wikipedia, using the paragraphCorpus from previous years. We manually cleaned and rewrote the outlines so that they are suitable to be treated like search queries. This test collection is called benchmarkY3test. A downside of this decision is that no automatic evaluation can be conducted. We recommend to train data-hungry methods on the “train” collection provided in the first year (Y1). Since previous year's test data (benchmarkY2test ) contained both contained Wikipedia topics and TQA topics, we re-released manually assessed TQA topics as training data for this year, released as benchmarkY3train.</p>
 </details>
 <details class="quote">
-<summary>Bibtex <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:x6kEYfcjEkEJ:scholar.google.com/&amp;output=citation&amp;scisdr=ClExb-odEI3yvPdKzig:AFWwaeYAAAAAZV5M1ijsr8LikHF522hK7hZDfUo&amp;scisig=AFWwaeYAAAAAZV5M1hVoivVav21M3c0KyyDwwMA&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42Z"/></svg></span></a> </summary>
+<summary>Bibtex <a href=""><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42Z"/></svg></span></a> </summary>
 <div class="highlight"><pre><span></span><code>@inproceedings{dietz2019trec,
     title = {{TREC} {CAR} {Y3}: Complex Answer Retrieval Overview},
     author = {Laura Dietz and John Foley},
     booktitle = {Proceedings of Text REtrieval Conference (TREC)},
     url = {https://trec-car.cs.unh.edu/results-Y3/trec-car-overview-2019.pdf},
-    biburl = {https://scholar.googleusercontent.com/scholar.bib?q=info:x6kEYfcjEkEJ:scholar.google.com/&amp;output=citation&amp;scisdr=ClExb-odEI3yvPdKzig:AFWwaeYAAAAAZV5M1ijsr8LikHF522hK7hZDfUo&amp;scisig=AFWwaeYAAAAAZV5M1hVoivVav21M3c0KyyDwwMA&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en},
-    year = {2019}
+    biburl = {},
+    year = {2019},
+    doi = {10.6028/NIST.SP.1250.car-overview}
 }
 </code></pre></div>
 </details>
@@ -42780,7 +42781,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/IRIT.IS.CAR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/DusartHP19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.car-IRIT}
 }
 </code></pre></div>
 </details>
@@ -42809,7 +42811,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.CAR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RenXZCCJ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.car-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -42838,7 +42841,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UAmsterdam.CAR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ShahshahaniKM19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.car-UAmsterdam}
 }
 </code></pre></div>
 </details>
@@ -42867,7 +42871,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/TREMA-UNH.CAR.C.DL.N.pdf},
     timestamp = {Tue, 21 Mar 2023 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RamsdellKCOD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-TREMA-UNH}
 }
 </code></pre></div>
 </details>
@@ -42897,7 +42902,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ChenCJ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -42926,7 +42932,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UCAS.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ChenLHS19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-UCAS}
 }
 </code></pre></div>
 </details>
@@ -42955,7 +42962,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CMU.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/DaiC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-CMU}
 }
 </code></pre></div>
 </details>
@@ -42984,7 +42992,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/TUA1.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/GaoKRY19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-TUA1}
 }
 </code></pre></div>
 </details>
@@ -43013,7 +43022,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/TU-Vienna.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/HofstatterZH19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-TU-Vienna}
 }
 </code></pre></div>
 </details>
@@ -43042,7 +43052,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CCNU\_IRGroup.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/HuWTH19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-CCNU_IRGroup}
 }
 </code></pre></div>
 </details>
@@ -43071,7 +43082,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/BITEM\_DL.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/KnafouJMTR19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-BITEM_DL}
 }
 </code></pre></div>
 </details>
@@ -43100,7 +43112,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Microsoft.DL.pdf},
     timestamp = {Wed, 27 Apr 2022 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/MitraC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-Microsoft}
 }
 </code></pre></div>
 </details>
@@ -43129,7 +43142,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/uogTr.DL.pdf},
     timestamp = {Tue, 04 May 2021 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/SuWMO19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-uogTr}
 }
 </code></pre></div>
 </details>
@@ -43158,7 +43172,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/IDST.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/YanLWBWXS19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-IDST}
 }
 </code></pre></div>
 </details>
@@ -43187,7 +43202,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Brown.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ZerveasZKE19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-Brown}
 }
 </code></pre></div>
 </details>
@@ -43216,7 +43232,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/udel\_fang.DL.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ZhaoF19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.deep-udel_fang}
 }
 </code></pre></div>
 </details>
@@ -43244,7 +43261,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/OVERVIEW.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RobertsDVHBLPM19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-overview}
 }
 </code></pre></div>
 </details>
@@ -43273,7 +43291,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Brown.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/AhmedAZNTWE19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-Brown}
 }
 </code></pre></div>
 </details>
@@ -43302,7 +43321,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/BITEM\_PM.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/CaucheteurPGMMR19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-BITEM_PM}
 }
 </code></pre></div>
 </details>
@@ -43331,7 +43351,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Poznan.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/CieslewiczDJ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-POZNAN}
 }
 </code></pre></div>
 </details>
@@ -43360,7 +43381,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UNIVAQ.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/Consuegra-Ayala19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-UNIVAQ}
 }
 </code></pre></div>
 </details>
@@ -43389,7 +43411,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/julie-mug.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/FaesslerHO19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-julie-mug}
 }
 </code></pre></div>
 </details>
@@ -43418,7 +43441,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/DUTIR.PM.pdf},
     timestamp = {Mon, 03 May 2021 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/FengYLLLW19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-DUTIR}
 }
 </code></pre></div>
 </details>
@@ -43447,7 +43471,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/cbnu.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/JoL19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-cbnu}
 }
 </code></pre></div>
 </details>
@@ -43476,7 +43501,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CCNL.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/LiuLYD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-CCNL}
 }
 </code></pre></div>
 </details>
@@ -43505,7 +43531,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/imi\_mug.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/Lopez-UbedaVL19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-imi_mug}
 }
 </code></pre></div>
 </details>
@@ -43534,7 +43561,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ims\_unipd.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/NunzioMA19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-ims_unipd}
 }
 </code></pre></div>
 </details>
@@ -43563,7 +43591,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UNC\_SILS.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/QuW19a.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-UNC_SILS}
 }
 </code></pre></div>
 </details>
@@ -43592,7 +43621,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CSIROmed.PM.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RybinskiKP19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-CSIROmed}
 }
 </code></pre></div>
 </details>
@@ -43621,7 +43651,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CincyMedIR.PM.pdf},
     timestamp = {Thu, 11 Nov 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/WuSL19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-CincyMedIR}
 }
 </code></pre></div>
 </details>
@@ -43650,7 +43681,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ECNU\_ICA.PM.pdf},
     timestamp = {Mon, 01 Aug 2022 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/ZhengLHYHX19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.pm-ECNU-ICA}
 }
 </code></pre></div>
 </details>
@@ -43680,7 +43712,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ADAPT-DCU.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/AroraKJ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-ADAPT-DCU}
 }
 </code></pre></div>
 </details>
@@ -43709,7 +43742,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/WaterlooClarke.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/Clarke19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-WaterlooClarke}
 }
 </code></pre></div>
 </details>
@@ -43738,7 +43772,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/HaoZYZ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -43767,7 +43802,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UMass.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/HashemiC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-UMass}
 }
 </code></pre></div>
 </details>
@@ -43796,7 +43832,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/mpi-inf-d5.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/KaiserRW19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-mpi-inf-d5}
 }
 </code></pre></div>
 </details>
@@ -43825,7 +43862,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/RUIR.N.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/KamphuisHVC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-RUIR}
 }
 </code></pre></div>
 </details>
@@ -43854,7 +43892,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CMU.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/KumarC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-CMU}
 }
 </code></pre></div>
 </details>
@@ -43883,7 +43922,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ECNU\_ICA.C.pdf},
     timestamp = {Tue, 14 Feb 2023 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/LiSZHYH19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-ECNU-ICA}
 }
 </code></pre></div>
 </details>
@@ -43912,7 +43952,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/mpii.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/MehrotraY19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-mpii}
 }
 </code></pre></div>
 </details>
@@ -43941,7 +43982,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/USI.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RissolaCCA19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-USI}
 }
 </code></pre></div>
 </details>
@@ -43970,7 +44012,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/VES.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/StamatisAW19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-VES}
 }
 </code></pre></div>
 </details>
@@ -43999,7 +44042,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UvA.ILPS.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/VoskaridesLPR19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-UvA.ILPS}
 }
 </code></pre></div>
 </details>
@@ -44028,7 +44072,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/udel\_fang.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/WangF19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-udel_fang}
 }
 </code></pre></div>
 </details>
@@ -44057,7 +44102,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CFDA\_CLIP.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/YangLWLT19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-CFDA_CLIP}
 }
 </code></pre></div>
 </details>
@@ -44086,7 +44132,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/RUCIR.C.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ZuoYDW19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.cast-RUCIR}
 }
 </code></pre></div>
 </details>
@@ -44115,7 +44162,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/TREMA-UNH.CAR.C.DL.N.pdf},
     timestamp = {Tue, 21 Mar 2023 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RamsdellKCOD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-TREMA-UNH}
 }
 </code></pre></div>
 </details>
@@ -44145,7 +44193,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.N.pdf},
     timestamp = {Tue, 27 Jun 2023 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/DingLZLDH19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -44174,7 +44223,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/QU.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/EssamE19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-QU}
 }
 </code></pre></div>
 </details>
@@ -44203,7 +44253,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Smith.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/FoleyMP19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-Smith}
 }
 </code></pre></div>
 </details>
@@ -44232,7 +44283,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CMU.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/GoncalvesMC19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-CMU}
 }
 </code></pre></div>
 </details>
@@ -44261,7 +44313,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UQ.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/LeD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-UQ}
 }
 </code></pre></div>
 </details>
@@ -44290,7 +44343,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/udel\_fang.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/LuF19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-udel_fang}
 }
 </code></pre></div>
 </details>
@@ -44319,7 +44373,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UNC\_SILS.N.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/QuW19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-UNC_SILS}
 }
 </code></pre></div>
 </details>
@@ -44348,7 +44403,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/TREMA-UNH.CAR.C.DL.N.pdf},
     timestamp = {Tue, 21 Mar 2023 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/RamsdellKCOD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-TREMA-UNH}
 }
 </code></pre></div>
 </details>
@@ -44377,7 +44433,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/OzUNLP.News.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/FayoumiY19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-OzUNLP}
 }
 </code></pre></div>
 </details>
@@ -44406,7 +44463,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/cityuni.News.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/MissaouiMMG19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.news-cityuni}
 }
 </code></pre></div>
 </details>
@@ -44436,7 +44494,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UWaterlooMDS.D.pdf},
     timestamp = {Mon, 31 Jul 2023 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/AbualsaudBSD19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.decisions-UWaterlooMDS}
 }
 </code></pre></div>
 </details>
@@ -44465,7 +44524,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/Webis.D.pdf},
     timestamp = {Fri, 19 Aug 2022 01:00:00 +0200},
     biburl = {https://dblp.org/rec/conf/trec/BondarenkoFKHVS19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.decisions-Webis}
 }
 </code></pre></div>
 </details>
@@ -44494,7 +44554,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.D.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/CuiJTG19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.decisions-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -44523,7 +44584,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/UQ.D.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/JimmyZ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.decisions-UQ}
 }
 </code></pre></div>
 </details>
@@ -44553,7 +44615,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/IR-Cologne.FR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/Bonart19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.fair-IR-Cologne}
 }
 </code></pre></div>
 </details>
@@ -44582,7 +44645,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/uogTr.FR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/McDonaldOMTR19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.fair-uogTr}
 }
 </code></pre></div>
 </details>
@@ -44611,7 +44675,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/DUTIR.FR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/Melucci19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.fair-QUARTZ_ITN}
 }
 </code></pre></div>
 </details>
@@ -44640,7 +44705,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.FR.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/WangZLFZ19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.fair-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -44670,7 +44736,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/cbnu.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ChoiL19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-cbnu}
 }
 </code></pre></div>
 </details>
@@ -44699,7 +44766,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/ICTNET.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/GuangshengKJX19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-ICTNET}
 }
 </code></pre></div>
 </details>
@@ -44728,7 +44796,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/DLR\_DW.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/KruspeKK19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-DLR_DW}
 }
 </code></pre></div>
 </details>
@@ -44757,7 +44826,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/IIT\_BHU.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/MishraP19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-IIT_BHU}
 }
 </code></pre></div>
 </details>
@@ -44786,7 +44856,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CS-UCD.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/WangL19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-CS-UCD}
 }
 </code></pre></div>
 </details>
@@ -44815,7 +44886,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/DICE\_UPB.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ZaheraEJS19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-DICE_UPB}
 }
 </code></pre></div>
 </details>
@@ -44844,7 +44916,8 @@
     url = {https://trec.nist.gov/pubs/trec28/papers/CMUInformedia.IS.pdf},
     timestamp = {Wed, 03 Feb 2021 00:00:00 +0100},
     biburl = {https://dblp.org/rec/conf/trec/ZhouWHH19.bib},
-    bibsource = {dblp computer science bibliography, https://dblp.org}
+    bibsource = {dblp computer science bibliography, https://dblp.org},
+    doi = {10.6028/NIST.SP.1250.incident-CMUInformedia}
 }
 </code></pre></div>
 </details>
