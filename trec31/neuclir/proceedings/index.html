@@ -21,18 +21,23 @@
       
       
       <link rel="icon" href="../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+      <meta name="generator" content="zensical-0.0.24">
     
     
       
-        <title>Proceedings - TREC Browser</title>
+        <title>Proceedings - NeuCLIR 2022 - TREC Browser</title>
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      <link rel="stylesheet" href="../../../assets/stylesheets/modern/main.28978c9b.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/modern/palette.dfe2e883.min.css">
       
       
 
@@ -46,14 +51,14 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
       
     
     
       <link rel="stylesheet" href="https://pages.nist.gov/nist-header-footer/css/nist-combined.css">
     
-    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
     
       
 
@@ -101,7 +106,7 @@
     </a>
     <label class="md-header__button md-icon" for="__drawer">
       
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-menu" viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -113,7 +118,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Proceedings
+              Proceedings - NeuCLIR 2022
             
           </span>
         </div>
@@ -126,7 +131,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
     
       <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
@@ -136,7 +141,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
     
       <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
@@ -155,55 +160,28 @@
       
         <label class="md-header__button md-icon" for="__search">
           
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-search" viewBox="0 0 24 24"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
         </label>
-        <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
 </div>
       
     
-    
-      <div class="md-header__source">
+    <div class="md-header__source">
+      
         <a href="https://github.com/usnistgov/trec-browser" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     usnistgov/trec-browser
   </div>
 </a>
-      </div>
-    
+      
+    </div>
   </nav>
   
 </header>
@@ -241,7 +219,7 @@
       <a href="https://github.com/usnistgov/trec-browser" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     usnistgov/trec-browser
@@ -5755,7 +5733,7 @@
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <a href="./" class="md-nav__link md-nav__link--active">
+      <a href="././" class="md-nav__link md-nav__link--active">
         
   
   
@@ -5774,7 +5752,8 @@
       
         
 
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
   
   
   
@@ -5783,7 +5762,7 @@
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
-      Table of contents
+      On this page
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
@@ -53283,7 +53262,8 @@
                   <div class="md-sidebar__inner">
                     
 
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
   
   
   
@@ -53292,7 +53272,7 @@
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
-      Table of contents
+      On this page
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
@@ -53442,8 +53422,6 @@
               <article class="md-content__inner md-typeset">
                 
                   
-
-
   
   
 
@@ -53480,9 +53458,9 @@
 <h4 id="cfda-clip-at-trec-2022-neuclir-track">CFDA &amp; CLIP at TREC 2022 NeuCLIR Track<a class="headerlink" href="#cfda-clip-at-trec-2022-neuclir-track" title="Permanent link">&para;</a></h4>
 <p><em>Jia-Huei Ju,  Wei-Chih Chen,  Heng-Ta Chang,  Cheng-Wei Lin,  Ming-Feng Tsai,  Chuan-Ju Wang</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#cfda_clip">CFDA_CLIP</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#cfda_clip">CFDA_CLIP</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-CFDA_CLIP">10.6028/NIST.SP.500-338.neuclir-CFDA_CLIP</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#cfda_clip_dq">CFDA_CLIP_dq</a> | <a href="../runs/#cfda_clip_rus_dq">CFDA_CLIP_rus_dq</a> | <a href="../runs/#cfda_clip_zho_l">CFDA_CLIP_zho_L</a> | <a href="../runs/#cfda_clip_fas_clf">CFDA_CLIP_fas_clf</a> | <a href="../runs/#cfda_clip_rus_clf">CFDA_CLIP_rus_clf</a> | <a href="../runs/#cfda_clip_fas_l">CFDA_CLIP_fas_L</a> | <a href="../runs/#cfda_clip_rus_l">CFDA_CLIP_rus_L</a> | <a href="../runs/#cfda_clip_zho_dq">CFDA_CLIP_zho_dq</a> | <a href="../runs/#cfda_clip_zho_clf">CFDA_CLIP_zho_clf</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#cfda_clip_dq">CFDA_CLIP_dq</a> | <a href=".././runs/#cfda_clip_rus_dq">CFDA_CLIP_rus_dq</a> | <a href=".././runs/#cfda_clip_zho_l">CFDA_CLIP_zho_L</a> | <a href=".././runs/#cfda_clip_fas_clf">CFDA_CLIP_fas_clf</a> | <a href=".././runs/#cfda_clip_rus_clf">CFDA_CLIP_rus_clf</a> | <a href=".././runs/#cfda_clip_fas_l">CFDA_CLIP_fas_L</a> | <a href=".././runs/#cfda_clip_rus_l">CFDA_CLIP_rus_L</a> | <a href=".././runs/#cfda_clip_zho_dq">CFDA_CLIP_zho_dq</a> | <a href=".././runs/#cfda_clip_zho_clf">CFDA_CLIP_zho_clf</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53510,9 +53488,9 @@
 <h4 id="hnust-trec-2022-neuclir-track">HNUST @ TREC 2022 NeuCLIR Track<a class="headerlink" href="#hnust-trec-2022-neuclir-track" title="Permanent link">&para;</a></h4>
 <p><em>Ge Zhang,  Qiwen Ye,  Mengmeng Wang,  Dong Zhou</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#f4">F4</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#f4">F4</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-F4">10.6028/NIST.SP.500-338.neuclir-F4</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#f4-pyterrierpl2">F4-PyTerrierPL2</a> | <a href="../runs/#f4-pyterrierpl2-ru">F4-PyTerrierPL2-ru</a> | <a href="../runs/#f4-pyterrierpl2-zh">F4-PyTerrierPL2-zh</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#f4-pyterrierpl2">F4-PyTerrierPL2</a> | <a href=".././runs/#f4-pyterrierpl2-ru">F4-PyTerrierPL2-ru</a> | <a href=".././runs/#f4-pyterrierpl2-zh">F4-PyTerrierPL2-zh</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53540,9 +53518,9 @@
 <h4 id="extremely-fast-fine-tuning-for-cross-language-information-retrieval-via-generalized-canonical-correlation">Extremely Fast Fine-Tuning for Cross Language Information Retrieval  via Generalized Canonical Correlation<a class="headerlink" href="#extremely-fast-fine-tuning-for-cross-language-information-retrieval-via-generalized-canonical-correlation" title="Permanent link">&para;</a></h4>
 <p><em>John M. Conroy,  Neil P. Molino,  Julia S. Yang</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#idaccs">IDACCS</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#idaccs">IDACCS</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-IDACCS">10.6028/NIST.SP.500-338.neuclir-IDACCS</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#idaccs-run1">IDACCS-run1</a> | <a href="../runs/#idaccs-run1_reranking">IDACCS-run1_reranking</a> | <a href="../runs/#idaccs-baseline_raranking">IDACCS-baseline_raranking</a> | <a href="../runs/#idaccs-baseline">IDACCS-baseline</a> | <a href="../runs/#idaccs-baseline_rus">IDACCS-baseline_rus</a> | <a href="../runs/#idaccs-baseline_rrank_rus">IDACCS-baseline_rrank_rus</a> | <a href="../runs/#idaccs-run1_rrank_rus">IDACCS-run1_rrank_rus</a> | <a href="../runs/#idaccs-run1_rus">IDACCS-run1_rus</a> | <a href="../runs/#idaccs-run1_zho">IDACCS-run1_zho</a> | <a href="../runs/#idaccs-run1_rrank_zho">IDACCS-run1_rrank_zho</a> | <a href="../runs/#idaccs-baseline_rrank_zho">IDACCS-baseline_rrank_zho</a> | <a href="../runs/#idaccs-baseline_zho">IDACCS-baseline_zho</a> | <a href="../runs/#idaccs-run2_fas">IDACCS-run2_fas</a> | <a href="../runs/#idaccs-run2_rrank_fas">IDACCS-run2_rrank_fas</a> | <a href="../runs/#idaccs-run2_rrank_rus">IDACCS-run2_rrank_rus</a> | <a href="../runs/#idaccs-run2_rus">IDACCS-run2_rus</a> | <a href="../runs/#idaccs-run2_zho">IDACCS-run2_zho</a> | <a href="../runs/#idaccs-run2_rrank_zho">IDACCS-run2_rrank_zho</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#idaccs-run1">IDACCS-run1</a> | <a href=".././runs/#idaccs-run1_reranking">IDACCS-run1_reranking</a> | <a href=".././runs/#idaccs-baseline_raranking">IDACCS-baseline_raranking</a> | <a href=".././runs/#idaccs-baseline">IDACCS-baseline</a> | <a href=".././runs/#idaccs-baseline_rus">IDACCS-baseline_rus</a> | <a href=".././runs/#idaccs-baseline_rrank_rus">IDACCS-baseline_rrank_rus</a> | <a href=".././runs/#idaccs-run1_rrank_rus">IDACCS-run1_rrank_rus</a> | <a href=".././runs/#idaccs-run1_rus">IDACCS-run1_rus</a> | <a href=".././runs/#idaccs-run1_zho">IDACCS-run1_zho</a> | <a href=".././runs/#idaccs-run1_rrank_zho">IDACCS-run1_rrank_zho</a> | <a href=".././runs/#idaccs-baseline_rrank_zho">IDACCS-baseline_rrank_zho</a> | <a href=".././runs/#idaccs-baseline_zho">IDACCS-baseline_zho</a> | <a href=".././runs/#idaccs-run2_fas">IDACCS-run2_fas</a> | <a href=".././runs/#idaccs-run2_rrank_fas">IDACCS-run2_rrank_fas</a> | <a href=".././runs/#idaccs-run2_rrank_rus">IDACCS-run2_rrank_rus</a> | <a href=".././runs/#idaccs-run2_rus">IDACCS-run2_rus</a> | <a href=".././runs/#idaccs-run2_zho">IDACCS-run2_zho</a> | <a href=".././runs/#idaccs-run2_rrank_zho">IDACCS-run2_rrank_zho</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53570,9 +53548,9 @@
 <h4 id="kasys-at-the-trec-2022-neuclir-track">KASYS at the TREC 2022 NeuCLIR Track<a class="headerlink" href="#kasys-at-the-trec-2022-neuclir-track" title="Permanent link">&para;</a></h4>
 <p><em>Kenya Abe</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#kasys">KASYS</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#kasys">KASYS</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-KASYS">10.6028/NIST.SP.500-338.neuclir-KASYS</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#kasys-run">KASYS-run</a> | <a href="../runs/#kasys-run-rus">KASYS-run-rus</a> | <a href="../runs/#kasys-run-zho">KASYS-run-zho</a> | <a href="../runs/#kasys_one_model-fas">KASYS_one_model-fas</a> | <a href="../runs/#kasys_onemodel-rerank-fas">KASYS_onemodel-rerank-fas</a> | <a href="../runs/#kasys_onemodel-rerank-rus">KASYS_onemodel-rerank-rus</a> | <a href="../runs/#kasys_one_model-rus">KASYS_one_model-rus</a> | <a href="../runs/#kasys_one_model-zho">KASYS_one_model-zho</a> | <a href="../runs/#kasys_onemodel-rerank-zho">KASYS_onemodel-rerank-zho</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#kasys-run">KASYS-run</a> | <a href=".././runs/#kasys-run-rus">KASYS-run-rus</a> | <a href=".././runs/#kasys-run-zho">KASYS-run-zho</a> | <a href=".././runs/#kasys_one_model-fas">KASYS_one_model-fas</a> | <a href=".././runs/#kasys_onemodel-rerank-fas">KASYS_onemodel-rerank-fas</a> | <a href=".././runs/#kasys_onemodel-rerank-rus">KASYS_onemodel-rerank-rus</a> | <a href=".././runs/#kasys_one_model-rus">KASYS_one_model-rus</a> | <a href=".././runs/#kasys_one_model-zho">KASYS_one_model-zho</a> | <a href=".././runs/#kasys_onemodel-rerank-zho">KASYS_onemodel-rerank-zho</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53600,9 +53578,9 @@
 <h4 id="naver-labs-europe-splade-trec-neuclir-2022">Naver Labs Europe (SPLADE) @ TREC NeuCLIR 2022<a class="headerlink" href="#naver-labs-europe-splade-trec-neuclir-2022" title="Permanent link">&para;</a></h4>
 <p><em>Carlos Lassance,  Stéphane Clinchant</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#nle">NLE</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#nle">NLE</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-NLE">10.6028/NIST.SP.500-338.neuclir-NLE</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#nle_fa_mono_rr">NLE_fa_mono_rr</a> | <a href="../runs/#nle_fa_mono">NLE_fa_mono</a> | <a href="../runs/#nle_fa_adhoc">NLE_fa_adhoc</a> | <a href="../runs/#nle_fa_adhoc_rr">NLE_fa_adhoc_rr</a> | <a href="../runs/#splade_farsi_ht">splade_farsi_ht</a> | <a href="../runs/#splade_farsi_mt">splade_farsi_mt</a> | <a href="../runs/#splade_farsi_dt">splade_farsi_dt</a> | <a href="../runs/#splade_russian_dt">splade_russian_dt</a> | <a href="../runs/#splade_russian_mt">splade_russian_mt</a> | <a href="../runs/#splade_russian_ht">splade_russian_ht</a> | <a href="../runs/#nle_ru_mono_rr">NLE_ru_mono_rr</a> | <a href="../runs/#nle_ru_mono">NLE_ru_mono</a> | <a href="../runs/#nle_ru_adhoc_rr">NLE_ru_adhoc_rr</a> | <a href="../runs/#nle_ru_adhoc">NLE_ru_adhoc</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#nle_fa_mono_rr">NLE_fa_mono_rr</a> | <a href=".././runs/#nle_fa_mono">NLE_fa_mono</a> | <a href=".././runs/#nle_fa_adhoc">NLE_fa_adhoc</a> | <a href=".././runs/#nle_fa_adhoc_rr">NLE_fa_adhoc_rr</a> | <a href=".././runs/#splade_farsi_ht">splade_farsi_ht</a> | <a href=".././runs/#splade_farsi_mt">splade_farsi_mt</a> | <a href=".././runs/#splade_farsi_dt">splade_farsi_dt</a> | <a href=".././runs/#splade_russian_dt">splade_russian_dt</a> | <a href=".././runs/#splade_russian_mt">splade_russian_mt</a> | <a href=".././runs/#splade_russian_ht">splade_russian_ht</a> | <a href=".././runs/#nle_ru_mono_rr">NLE_ru_mono_rr</a> | <a href=".././runs/#nle_ru_mono">NLE_ru_mono</a> | <a href=".././runs/#nle_ru_adhoc_rr">NLE_ru_adhoc_rr</a> | <a href=".././runs/#nle_ru_adhoc">NLE_ru_adhoc</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53630,9 +53608,9 @@
 <h4 id="neuralmind-unicamp-at-2022-trec-neuclir-large-boring-rerankers-for-cross-lingual-retrieval">NeuralMind-UNICAMP at 2022 TREC NeuCLIR: Large Boring Rerankers  for Cross-lingual Retrieval<a class="headerlink" href="#neuralmind-unicamp-at-2022-trec-neuclir-large-boring-rerankers-for-cross-lingual-retrieval" title="Permanent link">&para;</a></h4>
 <p><em>Vitor Jeronymo,  Roberto de Alencar Lotufo,  Rodrigo Frassetto Nogueira</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#nmunicamp">NM.unicamp</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#nmunicamp">NM.unicamp</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-NM.unicamp">10.6028/NIST.SP.500-338.neuclir-NM.unicamp</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#p1fahoc">p1.fa.hoc</a> | <a href="../runs/#p1ruhoc">p1.ru.hoc</a> | <a href="../runs/#p1zhhoc">p1.zh.hoc</a> | <a href="../runs/#p2farerank">p2.fa.rerank</a> | <a href="../runs/#p2rurerank">p2.ru.rerank</a> | <a href="../runs/#p2zhrerank">p2.zh.rerank</a> | <a href="../runs/#p3famono">p3.fa.mono</a> | <a href="../runs/#p3rumono">p3.ru.mono</a> | <a href="../runs/#p3zhmono">p3.zh.mono</a> | <a href="../runs/#p4fahoc">p4.fa.hoc</a> | <a href="../runs/#p4ruhoc">p4.ru.hoc</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#p1fahoc">p1.fa.hoc</a> | <a href=".././runs/#p1ruhoc">p1.ru.hoc</a> | <a href=".././runs/#p1zhhoc">p1.zh.hoc</a> | <a href=".././runs/#p2farerank">p2.fa.rerank</a> | <a href=".././runs/#p2rurerank">p2.ru.rerank</a> | <a href=".././runs/#p2zhrerank">p2.zh.rerank</a> | <a href=".././runs/#p3famono">p3.fa.mono</a> | <a href=".././runs/#p3rumono">p3.ru.mono</a> | <a href=".././runs/#p3zhmono">p3.zh.mono</a> | <a href=".././runs/#p4fahoc">p4.fa.hoc</a> | <a href=".././runs/#p4ruhoc">p4.ru.hoc</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53660,9 +53638,9 @@
 <h4 id="simple-yet-effective-neural-ranking-and-reranking-baselines-for-cross-lingual-information-retrieval">Simple Yet Effective Neural Ranking and Reranking Baselines for Cross-Lingual  Information Retrieval<a class="headerlink" href="#simple-yet-effective-neural-ranking-and-reranking-baselines-for-cross-lingual-information-retrieval" title="Permanent link">&para;</a></h4>
 <p><em>Jimmy Lin,  David Alfonso-Hermelo,  Vitor Jeronymo,  Ehsan Kamalloo,  Carlos Lassance,  Rodrigo Frassetto Nogueira,  Odunayo Ogundepo,  Mehdi Rezagholizadeh,  Nandan Thakur,  Jheng-Hong Yang,  Xinyu Zhang</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#h2oloo">h2oloo</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#h2oloo">h2oloo</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-h2oloo">10.6028/NIST.SP.500-338.neuclir-h2oloo</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#zh_2t">zh_2t</a> | <a href="../runs/#zh_2tr">zh_2tr</a> | <a href="../runs/#zh_qt">zh_qt</a> | <a href="../runs/#zh_qtr">zh_qtr</a> | <a href="../runs/#zh_dt">zh_dt</a> | <a href="../runs/#zh_dtr">zh_dtr</a> | <a href="../runs/#zh_4rrf">zh_4rrf</a> | <a href="../runs/#zh_4rrfprf">zh_4rrfprf</a> | <a href="../runs/#zh_4rrf2">zh_4rrf2</a> | <a href="../runs/#ru_2t">ru_2t</a> | <a href="../runs/#ru_2tr">ru_2tr</a> | <a href="../runs/#ru_qt">ru_qt</a> | <a href="../runs/#ru_qtr">ru_qtr</a> | <a href="../runs/#ru_dt">ru_dt</a> | <a href="../runs/#ru_dtr">ru_dtr</a> | <a href="../runs/#ru_2rrf">ru_2rrf</a> | <a href="../runs/#ru_2rrfprf">ru_2rrfprf</a> | <a href="../runs/#ru_2rrf2">ru_2rrf2</a> | <a href="../runs/#fa_2t">fa_2t</a> | <a href="../runs/#fa_2tr">fa_2tr</a> | <a href="../runs/#fa_qt">fa_qt</a> | <a href="../runs/#fa_qtr">fa_qtr</a> | <a href="../runs/#fa_dt">fa_dt</a> | <a href="../runs/#fa_dtr">fa_dtr</a> | <a href="../runs/#fa_3rrf">fa_3rrf</a> | <a href="../runs/#fa_3rrfprf">fa_3rrfprf</a> | <a href="../runs/#fa_3rrf2">fa_3rrf2</a> | <a href="../runs/#fa_xdprxorhn-mmendr">fa_xdpr.xorHn-mm.EN.d.R</a> | <a href="../runs/#zh_xdprxorhn-mmendr">zh_xdpr.xorHn-mm.EN.d.R</a> | <a href="../runs/#ru_xdprxorhn-mmendr">ru_xdpr.xorHn-mm.EN.d.R</a> | <a href="../runs/#fa_xdprmm2rrf-mtqallr">fa_xdpr.mm.2rrf-mtQ.all.R</a> | <a href="../runs/#zh_xdprmm4rrf-mtqallr">zh_xdpr.mm.4rrf-mtQ.all.R</a> | <a href="../runs/#ru_xdprmm2rrf-mtqallr">ru_xdpr.mm.2rrf-mtQ.all.R</a> | <a href="../runs/#fa_dense-rrfprf">fa_dense-rrf.prf</a> | <a href="../runs/#zh_dense-rrfprf">zh_dense-rrf.prf</a> | <a href="../runs/#ru_dense-rrfprf">ru_dense-rrf.prf</a> | <a href="../runs/#fa_dense-rrfbm25splade">fa_dense-rrf.BM25.SPLADE</a> | <a href="../runs/#zh_dense-rrfbm25">zh_dense-rrf.BM25</a> | <a href="../runs/#ru_dense-rrfbm25splade">ru_dense-rrf.BM25.SPLADE</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#zh_2t">zh_2t</a> | <a href=".././runs/#zh_2tr">zh_2tr</a> | <a href=".././runs/#zh_qt">zh_qt</a> | <a href=".././runs/#zh_qtr">zh_qtr</a> | <a href=".././runs/#zh_dt">zh_dt</a> | <a href=".././runs/#zh_dtr">zh_dtr</a> | <a href=".././runs/#zh_4rrf">zh_4rrf</a> | <a href=".././runs/#zh_4rrfprf">zh_4rrfprf</a> | <a href=".././runs/#zh_4rrf2">zh_4rrf2</a> | <a href=".././runs/#ru_2t">ru_2t</a> | <a href=".././runs/#ru_2tr">ru_2tr</a> | <a href=".././runs/#ru_qt">ru_qt</a> | <a href=".././runs/#ru_qtr">ru_qtr</a> | <a href=".././runs/#ru_dt">ru_dt</a> | <a href=".././runs/#ru_dtr">ru_dtr</a> | <a href=".././runs/#ru_2rrf">ru_2rrf</a> | <a href=".././runs/#ru_2rrfprf">ru_2rrfprf</a> | <a href=".././runs/#ru_2rrf2">ru_2rrf2</a> | <a href=".././runs/#fa_2t">fa_2t</a> | <a href=".././runs/#fa_2tr">fa_2tr</a> | <a href=".././runs/#fa_qt">fa_qt</a> | <a href=".././runs/#fa_qtr">fa_qtr</a> | <a href=".././runs/#fa_dt">fa_dt</a> | <a href=".././runs/#fa_dtr">fa_dtr</a> | <a href=".././runs/#fa_3rrf">fa_3rrf</a> | <a href=".././runs/#fa_3rrfprf">fa_3rrfprf</a> | <a href=".././runs/#fa_3rrf2">fa_3rrf2</a> | <a href=".././runs/#fa_xdprxorhn-mmendr">fa_xdpr.xorHn-mm.EN.d.R</a> | <a href=".././runs/#zh_xdprxorhn-mmendr">zh_xdpr.xorHn-mm.EN.d.R</a> | <a href=".././runs/#ru_xdprxorhn-mmendr">ru_xdpr.xorHn-mm.EN.d.R</a> | <a href=".././runs/#fa_xdprmm2rrf-mtqallr">fa_xdpr.mm.2rrf-mtQ.all.R</a> | <a href=".././runs/#zh_xdprmm4rrf-mtqallr">zh_xdpr.mm.4rrf-mtQ.all.R</a> | <a href=".././runs/#ru_xdprmm2rrf-mtqallr">ru_xdpr.mm.2rrf-mtQ.all.R</a> | <a href=".././runs/#fa_dense-rrfprf">fa_dense-rrf.prf</a> | <a href=".././runs/#zh_dense-rrfprf">zh_dense-rrf.prf</a> | <a href=".././runs/#ru_dense-rrfprf">ru_dense-rrf.prf</a> | <a href=".././runs/#fa_dense-rrfbm25splade">fa_dense-rrf.BM25.SPLADE</a> | <a href=".././runs/#zh_dense-rrfbm25">zh_dense-rrf.BM25</a> | <a href=".././runs/#ru_dense-rrfbm25splade">ru_dense-rrf.BM25.SPLADE</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53690,9 +53668,9 @@
 <h4 id="hltcoe-at-trec-2022-neuclir-track">HLTCOE at TREC 2022 NeuCLIR Track<a class="headerlink" href="#hltcoe-at-trec-2022-neuclir-track" title="Permanent link">&para;</a></h4>
 <p><em>Eugene Yang,  Dawn J. Lawrie,  James Mayfield</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#hltcoe-jhu">hltcoe-jhu</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#hltcoe-jhu">hltcoe-jhu</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-hltcoe-jhu">10.6028/NIST.SP.500-338.neuclir-hltcoe-jhu</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#hltcoe22tht">hltcoe22tht</a> | <a href="../runs/#coe22-mhq-zho_colxtt">coe22-mhq-zho_colxtt</a> | <a href="../runs/#coe22-mhq-rus_colxtt">coe22-mhq-rus_colxtt</a> | <a href="../runs/#coe22-mhq-fas_colxtt">coe22-mhq-fas_colxtt</a> | <a href="../runs/#coe22-tdq-fas_colxtt">coe22-tdq-fas_colxtt</a> | <a href="../runs/#coe22-tdq-rus_colxtt">coe22-tdq-rus_colxtt</a> | <a href="../runs/#coe22-tdq-zho_colxtt">coe22-tdq-zho_colxtt</a> | <a href="../runs/#coe22-tdq-fas_colxmtt">coe22-tdq-fas_colxmtt</a> | <a href="../runs/#coe22-tdq-rus_colxmtt">coe22-tdq-rus_colxmtt</a> | <a href="../runs/#coe22-tdq-zho_colxmtt">coe22-tdq-zho_colxmtt</a> | <a href="../runs/#coe22-tq-fas_colxtt">coe22-tq-fas_colxtt</a> | <a href="../runs/#coe22-tq-rus_colxtt">coe22-tq-rus_colxtt</a> | <a href="../runs/#coe22-tq-zho_colxtt">coe22-tq-zho_colxtt</a> | <a href="../runs/#coe22-tq-fas_colxmtt">coe22-tq-fas_colxmtt</a> | <a href="../runs/#coe22-tq-rus_colxmtt">coe22-tq-rus_colxmtt</a> | <a href="../runs/#coe22-tq-zho_colxmtt">coe22-tq-zho_colxmtt</a> | <a href="../runs/#coe22-man-fas">coe22-man-fas</a> | <a href="../runs/#coe22-man-rus">coe22-man-rus</a> | <a href="../runs/#coe22-man-zho">coe22-man-zho</a> | <a href="../runs/#coe22-bm25-td-dt-fas">coe22-bm25-td-dt-fas</a> | <a href="../runs/#coe22-bm25-td-dt-rus">coe22-bm25-td-dt-rus</a> | <a href="../runs/#coe22-bm25-td-dt-zho">coe22-bm25-td-dt-zho</a> | <a href="../runs/#coe22-bm25-d-dt-zho">coe22-bm25-d-dt-zho</a> | <a href="../runs/#coe22-bm25-d-dt-rus">coe22-bm25-d-dt-rus</a> | <a href="../runs/#coe22-bm25-d-dt-fas">coe22-bm25-d-dt-fas</a> | <a href="../runs/#coe22-bm25-t-dt-fas">coe22-bm25-t-dt-fas</a> | <a href="../runs/#coe22-bm25-t-dt-rus">coe22-bm25-t-dt-rus</a> | <a href="../runs/#coe22-bm25-t-dt-zho">coe22-bm25-t-dt-zho</a> | <a href="../runs/#coe22-bm25-t-ht-zho">coe22-bm25-t-ht-zho</a> | <a href="../runs/#coe22-bm25-t-ht-rus">coe22-bm25-t-ht-rus</a> | <a href="../runs/#coe22-bm25-td-ht-rus">coe22-bm25-td-ht-rus</a> | <a href="../runs/#coe22-bm25-td-ht-fas">coe22-bm25-td-ht-fas</a> | <a href="../runs/#coe22-bm25-td-ht-zho">coe22-bm25-td-ht-zho</a> | <a href="../runs/#coe22-bm25-d-ht-zho">coe22-bm25-d-ht-zho</a> | <a href="../runs/#coe22-bm25-d-ht-rus">coe22-bm25-d-ht-rus</a> | <a href="../runs/#coe22-bm25-d-ht-fas">coe22-bm25-d-ht-fas</a> | <a href="../runs/#coe22-bm25-d-mt-fas">coe22-bm25-d-mt-fas</a> | <a href="../runs/#coe22-bm25-d-mt-rus">coe22-bm25-d-mt-rus</a> | <a href="../runs/#coe22-bm25-d-mt-zho">coe22-bm25-d-mt-zho</a> | <a href="../runs/#coe22-bm25-td-mt-zho">coe22-bm25-td-mt-zho</a> | <a href="../runs/#coe22-bm25-td-mt-rus">coe22-bm25-td-mt-rus</a> | <a href="../runs/#coe22-bm25-td-mt-fas">coe22-bm25-td-mt-fas</a> | <a href="../runs/#coe22-bm25-t-mt-fas">coe22-bm25-t-mt-fas</a> | <a href="../runs/#coe22-bm25-t-mt-rus">coe22-bm25-t-mt-rus</a> | <a href="../runs/#coe22-bm25-t-mt-zho">coe22-bm25-t-mt-zho</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#hltcoe22tht">hltcoe22tht</a> | <a href=".././runs/#coe22-mhq-zho_colxtt">coe22-mhq-zho_colxtt</a> | <a href=".././runs/#coe22-mhq-rus_colxtt">coe22-mhq-rus_colxtt</a> | <a href=".././runs/#coe22-mhq-fas_colxtt">coe22-mhq-fas_colxtt</a> | <a href=".././runs/#coe22-tdq-fas_colxtt">coe22-tdq-fas_colxtt</a> | <a href=".././runs/#coe22-tdq-rus_colxtt">coe22-tdq-rus_colxtt</a> | <a href=".././runs/#coe22-tdq-zho_colxtt">coe22-tdq-zho_colxtt</a> | <a href=".././runs/#coe22-tdq-fas_colxmtt">coe22-tdq-fas_colxmtt</a> | <a href=".././runs/#coe22-tdq-rus_colxmtt">coe22-tdq-rus_colxmtt</a> | <a href=".././runs/#coe22-tdq-zho_colxmtt">coe22-tdq-zho_colxmtt</a> | <a href=".././runs/#coe22-tq-fas_colxtt">coe22-tq-fas_colxtt</a> | <a href=".././runs/#coe22-tq-rus_colxtt">coe22-tq-rus_colxtt</a> | <a href=".././runs/#coe22-tq-zho_colxtt">coe22-tq-zho_colxtt</a> | <a href=".././runs/#coe22-tq-fas_colxmtt">coe22-tq-fas_colxmtt</a> | <a href=".././runs/#coe22-tq-rus_colxmtt">coe22-tq-rus_colxmtt</a> | <a href=".././runs/#coe22-tq-zho_colxmtt">coe22-tq-zho_colxmtt</a> | <a href=".././runs/#coe22-man-fas">coe22-man-fas</a> | <a href=".././runs/#coe22-man-rus">coe22-man-rus</a> | <a href=".././runs/#coe22-man-zho">coe22-man-zho</a> | <a href=".././runs/#coe22-bm25-td-dt-fas">coe22-bm25-td-dt-fas</a> | <a href=".././runs/#coe22-bm25-td-dt-rus">coe22-bm25-td-dt-rus</a> | <a href=".././runs/#coe22-bm25-td-dt-zho">coe22-bm25-td-dt-zho</a> | <a href=".././runs/#coe22-bm25-d-dt-zho">coe22-bm25-d-dt-zho</a> | <a href=".././runs/#coe22-bm25-d-dt-rus">coe22-bm25-d-dt-rus</a> | <a href=".././runs/#coe22-bm25-d-dt-fas">coe22-bm25-d-dt-fas</a> | <a href=".././runs/#coe22-bm25-t-dt-fas">coe22-bm25-t-dt-fas</a> | <a href=".././runs/#coe22-bm25-t-dt-rus">coe22-bm25-t-dt-rus</a> | <a href=".././runs/#coe22-bm25-t-dt-zho">coe22-bm25-t-dt-zho</a> | <a href=".././runs/#coe22-bm25-t-ht-zho">coe22-bm25-t-ht-zho</a> | <a href=".././runs/#coe22-bm25-t-ht-rus">coe22-bm25-t-ht-rus</a> | <a href=".././runs/#coe22-bm25-td-ht-rus">coe22-bm25-td-ht-rus</a> | <a href=".././runs/#coe22-bm25-td-ht-fas">coe22-bm25-td-ht-fas</a> | <a href=".././runs/#coe22-bm25-td-ht-zho">coe22-bm25-td-ht-zho</a> | <a href=".././runs/#coe22-bm25-d-ht-zho">coe22-bm25-d-ht-zho</a> | <a href=".././runs/#coe22-bm25-d-ht-rus">coe22-bm25-d-ht-rus</a> | <a href=".././runs/#coe22-bm25-d-ht-fas">coe22-bm25-d-ht-fas</a> | <a href=".././runs/#coe22-bm25-d-mt-fas">coe22-bm25-d-mt-fas</a> | <a href=".././runs/#coe22-bm25-d-mt-rus">coe22-bm25-d-mt-rus</a> | <a href=".././runs/#coe22-bm25-d-mt-zho">coe22-bm25-d-mt-zho</a> | <a href=".././runs/#coe22-bm25-td-mt-zho">coe22-bm25-td-mt-zho</a> | <a href=".././runs/#coe22-bm25-td-mt-rus">coe22-bm25-td-mt-rus</a> | <a href=".././runs/#coe22-bm25-td-mt-fas">coe22-bm25-td-mt-fas</a> | <a href=".././runs/#coe22-bm25-t-mt-fas">coe22-bm25-t-mt-fas</a> | <a href=".././runs/#coe22-bm25-t-mt-rus">coe22-bm25-t-mt-rus</a> | <a href=".././runs/#coe22-bm25-t-mt-zho">coe22-bm25-t-mt-zho</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53720,9 +53698,9 @@
 <h4 id="huawei-noahs-ark-lab-at-trec-neuclir-2022">Huawei Noah's Ark Lab at TREC NeuCLIR 2022<a class="headerlink" href="#huawei-noahs-ark-lab-at-trec-neuclir-2022" title="Permanent link">&para;</a></h4>
 <p><em>Ehsan Kamalloo,  David Alfonso-Hermelo,  Mehdi Rezagholizadeh</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#huaweimtl">huaweimtl</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#huaweimtl">huaweimtl</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-huaweimtl">10.6028/NIST.SP.500-338.neuclir-huaweimtl</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#fa_xdprmsohtdr">fa_xdpr.ms.oht.d.R</a> | <a href="../runs/#zh_xdprmsohtdr">zh_xdpr.ms.oht.d.R</a> | <a href="../runs/#ru_xdprmsohtdr">ru_xdpr.ms.oht.d.R</a> | <a href="../runs/#huaweimtl-fa-m-hybrid1">huaweimtl-fa-m-hybrid1</a> | <a href="../runs/#huaweimtl-fa-c-hybrid2">huaweimtl-fa-c-hybrid2</a> | <a href="../runs/#huaweimtl-fa-c-hybrid3">huaweimtl-fa-c-hybrid3</a> | <a href="../runs/#huaweimtl-zh-m-hybrid1">huaweimtl-zh-m-hybrid1</a> | <a href="../runs/#huaweimtl-zh-c-hybrid2">huaweimtl-zh-c-hybrid2</a> | <a href="../runs/#huaweimtl-zh-c-hybrid3">huaweimtl-zh-c-hybrid3</a> | <a href="../runs/#huaweimtl-ru-m-hybrid1">huaweimtl-ru-m-hybrid1</a> | <a href="../runs/#huaweimtl-ru-c-hybrid2">huaweimtl-ru-c-hybrid2</a> | <a href="../runs/#huaweimtl-ru-c-hybrid3">huaweimtl-ru-c-hybrid3</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#fa_xdprmsohtdr">fa_xdpr.ms.oht.d.R</a> | <a href=".././runs/#zh_xdprmsohtdr">zh_xdpr.ms.oht.d.R</a> | <a href=".././runs/#ru_xdprmsohtdr">ru_xdpr.ms.oht.d.R</a> | <a href=".././runs/#huaweimtl-fa-m-hybrid1">huaweimtl-fa-m-hybrid1</a> | <a href=".././runs/#huaweimtl-fa-c-hybrid2">huaweimtl-fa-c-hybrid2</a> | <a href=".././runs/#huaweimtl-fa-c-hybrid3">huaweimtl-fa-c-hybrid3</a> | <a href=".././runs/#huaweimtl-zh-m-hybrid1">huaweimtl-zh-m-hybrid1</a> | <a href=".././runs/#huaweimtl-zh-c-hybrid2">huaweimtl-zh-c-hybrid2</a> | <a href=".././runs/#huaweimtl-zh-c-hybrid3">huaweimtl-zh-c-hybrid3</a> | <a href=".././runs/#huaweimtl-ru-m-hybrid1">huaweimtl-ru-m-hybrid1</a> | <a href=".././runs/#huaweimtl-ru-c-hybrid2">huaweimtl-ru-c-hybrid2</a> | <a href=".././runs/#huaweimtl-ru-c-hybrid3">huaweimtl-ru-c-hybrid3</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53750,9 +53728,9 @@
 <h4 id="non-neural-baselines-experiments-for-clir-at-trec-2022">Non-Neural Baselines Experiments for CLIR at TREC 2022<a class="headerlink" href="#non-neural-baselines-experiments-for-clir-at-trec-2022" title="Permanent link">&para;</a></h4>
 <p><em>Paul McNamee</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#jhumcnamee">jhu.mcnamee</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#jhumcnamee">jhu.mcnamee</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-jhu.mcnamee">10.6028/NIST.SP.500-338.neuclir-jhu.mcnamee</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#jhumcfa5tdrf">jhumc.fa5.td.rf</a> | <a href="../runs/#jhumcru5tdrf">jhumc.ru5.td.rf</a> | <a href="../runs/#jhumczh5tdrf">jhumc.zh5.td.rf</a> | <a href="../runs/#jhumcru5tdcerf">jhumc.ru5.td.ce.rf</a> | <a href="../runs/#jhumczh5tdcerf">jhumc.zh5.td.ce.rf</a> | <a href="../runs/#jhumcfa4tdrf">jhumc.fa4.td.rf</a> | <a href="../runs/#jhumcru4tdrf">jhumc.ru4.td.rf</a> | <a href="../runs/#jhumczh4tdrf">jhumc.zh4.td.rf</a> | <a href="../runs/#jhumcfawordstdrf">jhumc.fawords.td.rf</a> | <a href="../runs/#jhumcruwordstdrf">jhumc.ruwords.td.rf</a> | <a href="../runs/#jhumczhwordstdrf">jhumc.zhwords.td.rf</a> | <a href="../runs/#jhumcfa5tdcerf">jhumc.fa5.td.ce.rf</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#jhumcfa5tdrf">jhumc.fa5.td.rf</a> | <a href=".././runs/#jhumcru5tdrf">jhumc.ru5.td.rf</a> | <a href=".././runs/#jhumczh5tdrf">jhumc.zh5.td.rf</a> | <a href=".././runs/#jhumcru5tdcerf">jhumc.ru5.td.ce.rf</a> | <a href=".././runs/#jhumczh5tdcerf">jhumc.zh5.td.ce.rf</a> | <a href=".././runs/#jhumcfa4tdrf">jhumc.fa4.td.rf</a> | <a href=".././runs/#jhumcru4tdrf">jhumc.ru4.td.rf</a> | <a href=".././runs/#jhumczh4tdrf">jhumc.zh4.td.rf</a> | <a href=".././runs/#jhumcfawordstdrf">jhumc.fawords.td.rf</a> | <a href=".././runs/#jhumcruwordstdrf">jhumc.ruwords.td.rf</a> | <a href=".././runs/#jhumczhwordstdrf">jhumc.zhwords.td.rf</a> | <a href=".././runs/#jhumcfa5tdcerf">jhumc.fa5.td.ce.rf</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53780,9 +53758,9 @@
 <h4 id="probabilistic-structured-queries-the-university-of-maryland-at-the-trec-2022-neuclir-track">Probabilistic Structured Queries: The University of Maryland at the  TREC 2022 NeuCLIR Track<a class="headerlink" href="#probabilistic-structured-queries-the-university-of-maryland-at-the-trec-2022-neuclir-track" title="Permanent link">&para;</a></h4>
 <p><em>Suraj Nair,  Douglas W. Oard</em></p>
 <ul>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href="../participants/#umcp">umcp</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M64 128a112 112 0 1 1 224 0 112 112 0 1 1-224 0M0 464c0-97.2 78.8-176 176-176s176 78.8 176 176v6c0 23.2-18.8 42-42 42H42c-23.2 0-42-18.8-42-42zM432 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192m0 240c79.5 0 144 64.5 144 144v22.4c0 23-18.6 41.6-41.6 41.6H389.6c6.6-12.5 10.4-26.8 10.4-42v-6c0-51.5-17.4-98.9-46.5-136.7 22.6-14.7 49.6-23.3 78.5-23.3"/></svg></span> <strong>Participant:</strong> <a href=".././participants/#umcp">umcp</a></li>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://doi.org/10.6028/NIST.SP.500-338.neuclir-umcp">10.6028/NIST.SP.500-338.neuclir-umcp</a></li>
-<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href="../runs/#umcp_hmm_zh">umcp_hmm_zh</a> | <a href="../runs/#umcp_hmm_fa">umcp_hmm_fa</a> | <a href="../runs/#umcp_hmm_ru">umcp_hmm_ru</a></li>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7c-.41-.25-.8-.56-1.14-.9a6.48 6.48 0 0 1-.36-9.18C13.69 9.5 17.33 9.13 20 11V8zm-1 7V3.5L18.5 9zm7.31 9.9c1.33-2.11.69-4.9-1.4-6.22-2.11-1.33-4.91-.68-6.22 1.4-1.34 2.11-.69 4.89 1.4 6.22 1.46.93 3.32.93 4.79.02L22 23.39 23.39 22zm-3.81.1a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5"/></svg></span> <strong>Runs:</strong> <a href=".././runs/#umcp_hmm_zh">umcp_hmm_zh</a> | <a href=".././runs/#umcp_hmm_fa">umcp_hmm_fa</a> | <a href=".././runs/#umcp_hmm_ru">umcp_hmm_ru</a></li>
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
@@ -53819,6 +53797,8 @@
 
 
 
+
+
                 
               </article>
             </div>
@@ -53837,8 +53817,8 @@
   
   
     Made with
-    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-      Material for MkDocs
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
     </a>
   
 </div>
@@ -53856,10 +53836,11 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["content.code.copy", "navigation.instant"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"../../..","features":["content.code.copy","navigation.instant"],"search":"../../../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.16f8adc2.min.js"></script>
       
         <script src="https://code.jquery.com/jquery-3.6.2.min.js"></script>
       

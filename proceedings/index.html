@@ -17,7 +17,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+      <meta name="generator" content="zensical-0.0.24">
     
     
       
@@ -25,10 +25,15 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      <link rel="stylesheet" href="../assets/stylesheets/modern/main.28978c9b.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../assets/stylesheets/modern/palette.dfe2e883.min.css">
       
       
 
@@ -42,14 +47,14 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
       
     
     
       <link rel="stylesheet" href="https://pages.nist.gov/nist-header-footer/css/nist-combined.css">
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
     
       
 
@@ -90,14 +95,14 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="TREC Browser" class="md-header__button md-logo" aria-label="TREC Browser" data-md-component="logo">
+    <a href="./.." title="TREC Browser" class="md-header__button md-logo" aria-label="TREC Browser" data-md-component="logo">
       
   <img src="../assets/search.svg" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
       
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-menu" viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -122,7 +127,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
     
       <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
@@ -132,7 +137,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
     
       <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
@@ -151,55 +156,28 @@
       
         <label class="md-header__button md-icon" for="__search">
           
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-search" viewBox="0 0 24 24"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
         </label>
-        <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
 </div>
       
     
-    
-      <div class="md-header__source">
+    <div class="md-header__source">
+      
         <a href="https://github.com/usnistgov/trec-browser" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     usnistgov/trec-browser
   </div>
 </a>
-      </div>
-    
+      
+    </div>
   </nav>
   
 </header>
@@ -225,7 +203,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="TREC Browser" class="md-nav__button md-logo" aria-label="TREC Browser" data-md-component="logo">
+    <a href="./.." title="TREC Browser" class="md-nav__button md-logo" aria-label="TREC Browser" data-md-component="logo">
       
   <img src="../assets/search.svg" alt="logo">
 
@@ -237,7 +215,7 @@
       <a href="https://github.com/usnistgov/trec-browser" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     usnistgov/trec-browser
@@ -254,7 +232,7 @@
   
   
     <li class="md-nav__item">
-      <a href=".." class="md-nav__link">
+      <a href="./.." class="md-nav__link">
         
   
   
@@ -53096,7 +53074,8 @@
                   <div class="md-sidebar__inner">
                     
 
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
   
   
   
@@ -53105,7 +53084,7 @@
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
-      Table of contents
+      On this page
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
@@ -53486,183 +53465,181 @@
               <article class="md-content__inner md-typeset">
                 
                   
-
-
   
   
 
 
 <h1 id="trec-proceedings">TREC Proceedings<a class="headerlink" href="#trec-proceedings" title="Permanent link">&para;</a></h1>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg></span> <strong><code>trec.nist.gov</code>:</strong> <a href="https://trec.nist.gov/proceedings/proceedings.html"><code>https://trec.nist.gov/proceedings/proceedings.html</code></a></p>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg></span> <strong><code>trec.nist.gov</code>:</strong> <a href="https://trec.nist.gov/proceedings/proceedings.html"><code>https://trec.nist.gov/proceedings/proceedings.html</code></a></p>
 <h4 id="nist-special-publication-1329-the-thirty-third-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec33/index.html">NIST Special Publication 1329: The Thirty-Third Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-1329-the-thirty-third-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Thirty-Third Text REtrieval Conference (TREC 2024) held online November 18--22, 2024.  <br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ian-soboroff"><em>Ian Soboroff</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec33/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec33/index.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec33/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec33/index.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-1328-the-thirty-second-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec32/index.html">NIST Special Publication 1328: The Thirty-Second Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-1328-the-thirty-second-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Thirty-Second Text REtrieval Conference (TREC 2023) held online November 14--17, 2023. <br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ian-soboroff"><em>Ian Soboroff</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec32/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec32/index.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec32/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec32/index.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-338-the-thirty-first-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec31/index.html">NIST Special Publication 500-338: The Thirty-First Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-338-the-thirty-first-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Thirty-First Text REtrieval Conference (TREC 2022) held online November 15--19, 2022.<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ian-soboroff"><em>Ian Soboroff</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec31/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec31/index.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec31/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec31/index.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-335-the-thirtieth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec30/trec2021.html">NIST Special Publication 500-335: The Thirtieth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-335-the-thirtieth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Thirtieth Text REtrieval Conference (TREC 2021) held online November 15--19, 2021.<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ian-soboroff"><em>Ian Soboroff</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec30/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec30/trec2021.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec30/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec30/trec2021.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-1266-the-twenty-ninth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec29/trec2020.html">NIST Special Publication 1266: The Twenty-Ninth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-1266-the-twenty-ninth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Ninth Text REtrieval Conference (TREC 2020) held online November 16--20, 2020.<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec29/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec29/trec2020.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec29/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec29/trec2020.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-1250-the-twenty-eighth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec28/trec2019.html">NIST Special Publication 1250: The Twenty-Eighth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-1250-the-twenty-eighth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Eighth Text REtrieval Conference (TREC 2019) held in Gaithersburg, Maryland, November 13--15, 2019.<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec28/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec28/trec2019.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec28/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec28/trec2019.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-331-the-twenty-seventh-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec27/trec2018.html">NIST Special Publication 500-331: The Twenty-Seventh Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-331-the-twenty-seventh-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Seventh Text REtrieval Conference (TREC 2018) held in Gaithersburg, Maryland, November 14--16, 2018.<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec27/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec27/trec2018.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec27/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec27/trec2018.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-324-the-twenty-sixth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec26/trec2017.html">NIST Special Publication 500-324: The Twenty-Sixth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-324-the-twenty-sixth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Sixth Text REtrieval Conference (TREC 2017) held in Gaithersburg, Maryland, November 15--17, 2017. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec26/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec26/trec2017.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec26/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec26/trec2017.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-321-the-twenty-fifth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec25/trec2016.html">NIST Special Publication 500-321: The Twenty-Fifth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-321-the-twenty-fifth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Fifth Text REtrieval Conference (TREC 2016) held in Gaithersburg, Maryland, November 15--18, 2016. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec25/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec25/trec2016.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec25/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec25/trec2016.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-319-the-twenty-fourth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec24/trec2015.html">NIST Special Publication 500-319: The Twenty-Fourth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-319-the-twenty-fourth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Fourth Text REtrieval Conference (TREC 2015) held in Gaithersburg, Maryland, November 17--20, 2015. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec24/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec24/trec2015.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec24/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec24/trec2015.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-308-the-twenty-third-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec23/trec2014.html">NIST Special Publication 500-308: The Twenty-Third Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-308-the-twenty-third-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Third Text REtrieval Conference (TREC 2014) held in Gaithersburg, Maryland, November 19--21, 2014. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and <a href="https://www.nist.gov/people/angela-g-ellis"><em>Angela Ellis</em></a>  </p>
-<p><a href="../trec23/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec23/trec2014.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec23/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec23/trec2014.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-302-the-twenty-second-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec22/trec2013.html">NIST Special Publication 500-302: The Twenty-Second Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-302-the-twenty-second-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-Second Text REtrieval Conference (TREC 2013) held in Gaithersburg, Maryland, November 19--22, 2013. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Editor:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> </p>
-<p><a href="../trec22/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec22/trec2013.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec22/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec22/trec2013.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-298-the-twenty-first-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec21/t21.proceedings.html">NIST Special Publication 500-298: The Twenty-First Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-298-the-twenty-first-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twenty-First Text REtrieval Conference (TREC 2012) held in Gaithersburg, Maryland, November 6-9, 2012. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec21/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec21/t21.proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec21/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec21/t21.proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-296-the-twentieth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec20/t20.proceedings.html">NIST Special Publication 500-296: The Twentieth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-296-the-twentieth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twentieth Text REtrieval Conference (TREC 2011) held in Gaithersburg, Maryland, November 15-18, 2011. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec20/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec20/t20.proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec20/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec20/t20.proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-294-the-nineteenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec19/t19.proceedings.html">NIST Special Publication 500-294: The Nineteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-294-the-nineteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Nineteenth Text REtrieval Conference (TREC 2010) held in Gaithersburg, Maryland, November 16-19, 2010. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec19/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec19/t19.proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec19/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec19/t19.proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-278-the-eighteenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec18/t18_proceedings.html">NIST Special Publication 500-278: The Eighteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-278-the-eighteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Eighteenth Text REtrieval Conference (TREC 2009) held in Gaithersburg, Maryland, November 17-20, 2009. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec18/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec18/t18_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec18/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec18/t18_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-277-the-seventeenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec17/t17_proceedings.html">NIST Special Publication 500-277: The Seventeenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-277-the-seventeenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Seventeenth Text REtrieval Conference (TREC 2008) held in Gaithersburg, Maryland, November 18-21, 2008. The conference was co-sponsored bythe National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec17/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec17/t17_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec17/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec17/t17_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-274-the-sixteenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec15/t15_proceedings.html">NIST Special Publication 500-274: The Sixteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-274-the-sixteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Sixteenth Text REtrieval Conference (TREC 2007) held in Gaithersburg, Maryland, November 5-9, 2007. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec16/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec15/t15_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec16/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec15/t15_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-272-the-fifteenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec14/t14_proceedings.html">NIST Special Publication 500-272: The Fifteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-272-the-fifteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Ffteenth Text REtrieval Conference (TREC 2006) held in Gaithersburg, Maryland, November 14-17, 2006. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec15/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec14/t14_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec15/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec14/t14_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-266-the-fourteenth-text-retrieval-conference-proceedings"><a href="">NIST Special Publication 500-266: The Fourteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-266-the-fourteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Fourteenth Text REtrieval Conference (TREC 2005) held in Gaithersburg, Maryland, November 15-18, 2005. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec14/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec/trec.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec14/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec/trec.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-261-the-thirteenth-text-retrieval-conference-proceedings"><a href="https://trec.nist.gov/pubs/trec13/t13_proceedings.html">NIST Special Publication 500-261: The Thirteenth Text REtrieval Conference Proceedings</a><a class="headerlink" href="#nist-special-publication-500-261-the-thirteenth-text-retrieval-conference-proceedings" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Thirteenth Text REtrieval Conference (TREC 2004) held in Gaithersburg, Maryland, November 16-19, 2004. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec13/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec13/t13_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec13/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec13/t13_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-255the-twelfth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec12/t12_proceedings.html">NIST Special Publication 500-255:The Twelfth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-255the-twelfth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Twelfth Text REtrieval Conference (TREC 2003) held in Gaithersburg, Maryland, November 18-21, 2003. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec12/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec12/t12_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec12/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec12/t12_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-251-the-eleventh-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec11/t11_proceedings.html">NIST Special Publication 500-251: The Eleventh Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-251-the-eleventh-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Eleventh Text REtrieval Conference (TREC 2002) held in Gaithersburg, Maryland, November 19-22, 2002. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and Lori P. Buckland</p>
-<p><a href="../trec11/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec11/t11_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec11/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec11/t11_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-250-the-tenth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec10/t10_proceedings.html">NIST Special Publication 500-250: The Tenth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-250-the-tenth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Tenth Text REtrieval Conference (TREC-2001) held in Gaithersburg, Maryland, November 13-16, 2001. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency (DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec10/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec10/t10_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec10/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec10/t10_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-249-the-ninth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec9/t9_proceedings.html">NIST Special Publication 500-249: The Ninth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-249-the-ninth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the Ninth Text REtrieval Conference (TREC-9 ) held in Gaithersburg, Maryland, November 13-16, 2000. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) the Defense Advanced Research Projects Agency(DARPA) and the Advanced Research and Development Activity (ARDA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec9/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec9/t9_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec9/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec9/t9_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-246-the-eighth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec8/t8_proceedings.html">NIST Special Publication 500-246: The Eighth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-246-the-eighth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the eighth Text REtrieval Conference (TREC-8) held in Gaithersburg, Maryland, November 17-19, 1999. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec8/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec8/t8_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec8/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec8/t8_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-242-the-seventh-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec7/t7_proceedings.html">NIST Special Publication 500-242: The Seventh Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-242-the-seventh-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the seventh Text REtrieval Conference (TREC-7) held in Gaithersburg, Maryland, November 09-11, 1998. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec7/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec7/t7_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec7/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec7/t7_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-240-the-sixth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec6/t6_proceedings.html">NIST Special Publication 500-240: The Sixth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-240-the-sixth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the sixth Text REtrieval Conference (TREC-6) held in Gaithersburg, Maryland, November 19-21, 1997. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA).<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec6/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec6/t6_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec6/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec6/t6_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-238-the-fifth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec5/t5_proceedings.html">NIST Special Publication 500-238: The Fifth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-238-the-fifth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the fifth Text REtrieval Conference (TREC-5) held in Gaithersburg, Maryland, November 20-22, 1996. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA), and was attended by 145 people. Thirty-eight groups including participants from nine different countries and ten companies were represented.<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec5/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec5/t5_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec5/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec5/t5_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-236-the-fourth-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec4/t4_proceedings.html">NIST Special Publication 500-236: The Fourth Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-236-the-fourth-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the fourth Text REtrieval Conference (TREC-4) held in Gaithersburg, Maryland, November 1-3, 1995. The conferences was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA), and was attended by 140 people involved in the 36 participating groups. The conference was the fourth in an on-going series of workshops to evaluate new technologies in text retrieval.<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editors:</strong> <a href="https://www.nist.gov/people/ellen-m-voorhees"><em>Ellen M. Voorhees</em></a> and D. K. Harman</p>
-<p><a href="../trec4/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec4/t4_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec4/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec4/t4_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-225-overview-of-the-third-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec3/t3_proceedings.html">NIST Special Publication 500-225: Overview of the Third Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-225-overview-of-the-third-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the third Text REtrieval Conference (TREC-3) held in Gaithersburg, Maryland, November 2-4, 1994. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Advanced Research Projects Agency (ARPA), and was attended by 150 people involved in the 32 participating groups. The conference was the third in an on-going series of workshops to evaluate new technologies in text retrieval.<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editor:</strong> D. K. Harman</p>
-<p><a href="../trec3/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec3/t3_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec3/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec3/t3_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-215-the-second-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec2/t2_proceedings.html">NIST Special Publication 500-215: The Second Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-215-the-second-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the second Text REtrieval Conference (TREC-2) held in Gaithersburg, Maryland, August 31-September 2, 1993. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Advanced Research Projects Agency (ARPA), and was attended by 150 people involved in the 31 participating groups. The conference was the second in an on-going series of workshops to evaluate new technologies in text retrieval.<br />
 <strong>Publisher:</strong> <a href="https://trec.nist.gov/proceedings/www.doc.gov">Department of Commerce</a>, <a href="http://www.nist.gov/">National Institute of Standards and Technology</a><br />
 <strong>Editor:</strong> D. K. Harman</p>
-<p><a href="../trec2/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec2/t2_proceedings.html"><code>trec.nist.gov</code></a>  </p>
+<p><a href=".././trec2/proceedings/"><code>TREC Browser</code></a> <a href="https://trec.nist.gov/pubs/trec2/t2_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
 <h4 id="nist-special-publication-500-207-the-first-text-retrieval-conference"><a href="https://trec.nist.gov/pubs/trec1/t1_proceedings.html">NIST Special Publication 500-207: The First Text REtrieval Conference</a><a class="headerlink" href="#nist-special-publication-500-207-the-first-text-retrieval-conference" title="Permanent link">&para;</a></h4>
 <p>This report constitutes the proceedings of the first Text REtrieval Conference (TREC-1) held in Gaithersburg, Maryland, November 4-6, 1992. The conference was co-sponsored by the National Institute of Standards and Technology (NIST) and the Defense Advanced Research Projects Agency (DARPA), and was attended by 92 people involved in the 25 participating groups. The conference was the first in an on-going series of workshops to evaluate new technologies in text retrieval.<br />
@@ -53670,6 +53647,8 @@
 <strong>Editor:</strong> D. K. Harman</p>
 <p><a href="https://trec.nist.gov/pubs/trec1/t1_proceedings.html"><code>trec.nist.gov</code></a>  </p>
 <hr />
+
+
 
 
 
@@ -53700,8 +53679,8 @@
   
   
     Made with
-    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-      Material for MkDocs
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
     </a>
   
 </div>
@@ -53719,10 +53698,11 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["content.code.copy", "navigation.instant"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"..","features":["content.code.copy","navigation.instant"],"search":"../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
     
     
-      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../assets/javascripts/bundle.16f8adc2.min.js"></script>
       
         <script src="https://code.jquery.com/jquery-3.6.2.min.js"></script>
       
