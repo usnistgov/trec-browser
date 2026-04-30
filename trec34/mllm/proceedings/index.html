@@ -2427,6 +2427,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#overview-of-the-trec-2025-million-large-language-models-track" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OVERVIEW OF THE TREC 2025 MILLION LARGE LANGUAGE MODELS TRACK
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#discovering-expert-llms-via-next-token-log-probabilities-and-supervised-ranking" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -55305,6 +55316,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#overview-of-the-trec-2025-million-large-language-models-track" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OVERVIEW OF THE TREC 2025 MILLION LARGE LANGUAGE MODELS TRACK
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#discovering-expert-llms-via-next-token-log-probabilities-and-supervised-ranking" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -55367,6 +55389,27 @@
 
 
 <h1 id="proceedings-million-llms-track-mllm-2025">Proceedings - Million LLMs Track (MLLM) 2025<a class="headerlink" href="#proceedings-million-llms-track-mllm-2025" title="Permanent link">&para;</a></h1>
+<h4 id="overview-of-the-trec-2025-million-large-language-models-track">OVERVIEW OF THE TREC 2025 MILLION LARGE LANGUAGE MODELS TRACK<a class="headerlink" href="#overview-of-the-trec-2025-million-large-language-models-track" title="Permanent link">&para;</a></h4>
+<p><em>Evangelos Kanoulas,  Panagiotis Eustratiadis,  Jamie Callan,  Mark Sanderson,  Yongkang Li,  Jingfen Qiao,  Gabrielle Poerwawinata,  Vaishali Pal</em></p>
+<ul>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://trec.nist.gov/pubs/trec34/papers/Overview_mllm.pdf">https://trec.nist.gov/pubs/trec34/papers/Overview_mllm.pdf</a></li>
+</ul>
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Agentic AI envisions ecosystems of intelligent agents collaboratively solving complex tasks with minimal human intervention. In such ecosystems, each agent possesses specialized expertise, making effective expert selection central to overall system performance. While most current approaches assume a small number of well-documented models, real-world expertise is far more diverse and cannot be adequately captured through static metadata or hand-written descriptions. We anticipate a future with millions of specialized language models (LLMs), each excelling in different domains or problem types. Rather than relying on predefined capability statements, we propose a retrieval-based paradigm in which an assistant agent infers expertise dynamically by examining models’ observable behavior. Upon receiving a user query, the assistant ranks candidate LLMs based on demonstrated competence, enabling efficient and adaptive expert selection. The TREC Million LLM Track operationalizes this paradigm by shifting the retrieval target from documents to expert LLMs. Participants are given a discovery set consisting of queries, answers, and log-probabilities from more than one thousand LLMs, and are challenged to infer meaningful expertise representations for each model. Given an unseen test query, systems must then rank the LLMs according to their expected performance, providing the first large-scale benchmark for expertise retrieval in agentic AI.</p>
+</details>
+<details class="quote">
+<summary>Bibtex</summary>
+<div class="highlight"><pre><span></span><code>@inproceedings{coordinators-trec2025-papers-proc-8,
+    title = {OVERVIEW OF THE TREC 2025 MILLION LARGE LANGUAGE MODELS TRACK},
+    author = {Evangelos Kanoulas and Panagiotis Eustratiadis and Jamie Callan and Mark Sanderson and Yongkang Li and Jingfen Qiao and Gabrielle Poerwawinata and Vaishali Pal},
+    booktitle = {Proceedings of the 34th Text {REtrieval} Conference (TREC 2025)},
+    year = {2025},
+    address = {Gaithersburg, Maryland},
+    series = {NIST SP xxxx}
+}
+</code></pre></div>
+</details>
 <h4 id="discovering-expert-llms-via-next-token-log-probabilities-and-supervised-ranking">Discovering Expert LLMs via Next-Token Log Probabilities and Supervised Ranking<a class="headerlink" href="#discovering-expert-llms-via-next-token-log-probabilities-and-supervised-ranking" title="Permanent link">&para;</a></h4>
 <p><em>Gabrielle Poerwawinata,  Jingfen Qiao</em></p>
 <ul>
@@ -55399,7 +55442,7 @@
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
-<p>The Million LLMs Track, part of TREC 2025, addresses the challenge of determining which LLMs are best suited to answer a specific user query. The main goal of the track is to evaluate the ability of a system to predict LLM expertise: given a query and a set of LLM IDs, the system must rank the models by how likely they are to provide a high quality answer. Unlike traditional IR settings, this ranking must be produced without querying the models at test time. Instead, participants must rely on precomputed discovery data, including LLM responses, metadata, and development labels, to infer each model’s strengths and capabilities. This report explains our submission to the Million LLMs Track and outlines the methods we implemented for the task.</p>
+<p>The Million LLMs Track, part of TREC 2025, addresses the challenge of determining which LLMs are best suited to answer a specific user query. This report explains our submission to the Million LLMs Track and outlines the methods we implemented for the task. We describe different strategies—ranging from hierarchical, unsupervised profile-based approaches to weakly supervised parametric models—and provide context on the formulation, datasets, and evaluation of the task. Our findings on the Development Set suggest that methods exploiting the geometric structure of the embedding space, specifically through hybrid or retrieval-based designs, achieve the most effective expertise prediction.</p>
 </details>
 <details class="quote">
 <summary>Bibtex</summary>
