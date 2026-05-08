@@ -3012,6 +3012,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#overview-of-the-trec-2025-ragtime-track" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview of the TREC 2025 RAGTIME Track
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#amu-at-trec-2025-ragtime-a-minimalist-gpt-5-baseline-for-multilingual-retrieval-augmented-report-generation" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -55349,6 +55360,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#overview-of-the-trec-2025-ragtime-track" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview of the TREC 2025 RAGTIME Track
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#amu-at-trec-2025-ragtime-a-minimalist-gpt-5-baseline-for-multilingual-retrieval-augmented-report-generation" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -55455,6 +55477,27 @@
 
 
 <h1 id="proceedings-rag-trec-instrument-for-multilingual-evaluation-ragtime-2025">Proceedings - RAG TREC Instrument for Multilingual Evaluation (RAGTIME) 2025<a class="headerlink" href="#proceedings-rag-trec-instrument-for-multilingual-evaluation-ragtime-2025" title="Permanent link">&para;</a></h1>
+<h4 id="overview-of-the-trec-2025-ragtime-track">Overview of the TREC 2025 RAGTIME Track<a class="headerlink" href="#overview-of-the-trec-2025-ragtime-track" title="Permanent link">&para;</a></h4>
+<p><em>Dawn Lawrie,  Sean MacAvaney,  James Mayfield,  Luca Soldaini,  Eugene Yang,  Andrew Yates</em></p>
+<ul>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg></span> <strong>Paper:</strong> <a href="https://trec.nist.gov/pubs/trec34/papers/Overview_ragtime.pdf">https://trec.nist.gov/pubs/trec34/papers/Overview_ragtime.pdf</a></li>
+</ul>
+<details class="abstract">
+<summary>Abstract</summary>
+<p>The principal goal of the RAG TREC Instrument for Multilingual Evaluation (RAGTIME) track at TREC is to study report generation from multilingual source documents. The track has created a document collection containing Arabic, Chinese, English, and Russian news stories. RAGTIME includes three task types: Multilingual Report Generation, English Report Generation, and Multilingual Information Retrieval (MLIR). A total of 125 runs were submitted by 13 participating teams (and as baselines by the track coordinators) for three tasks. This overview describes these three tasks and presents the available results.</p>
+</details>
+<details class="quote">
+<summary>Bibtex</summary>
+<div class="highlight"><pre><span></span><code>@inproceedings{coordinators-trec2025-papers-proc-9,
+    title = {Overview of the TREC 2025 RAGTIME Track},
+    author = {Dawn Lawrie and Sean MacAvaney and James Mayfield and Luca Soldaini and Eugene Yang and Andrew Yates},
+    booktitle = {Proceedings of the 34th Text {REtrieval} Conference (TREC 2025)},
+    year = {2025},
+    address = {Gaithersburg, Maryland},
+    series = {NIST SP xxxx}
+}
+</code></pre></div>
+</details>
 <h4 id="amu-at-trec-2025-ragtime-a-minimalist-gpt-5-baseline-for-multilingual-retrieval-augmented-report-generation">AMU at TREC 2025 RAGTIME: A Minimalist GPT-5 Baseline for Multilingual Retrieval-Augmented Report Generation<a class="headerlink" href="#amu-at-trec-2025-ragtime-a-minimalist-gpt-5-baseline-for-multilingual-retrieval-augmented-report-generation" title="Permanent link">&para;</a></h4>
 <p><em>Maciej Czajka,  Piotr Jabłonski,  Konrad Pierzynski,  Ryszard Staruch</em></p>
 <ul>
@@ -55556,7 +55599,7 @@
 </ul>
 <details class="abstract">
 <summary>Abstract</summary>
-<p>Deep research agents represent a significant advance in AI-assisted information synthesis, capable of conducting comprehensive investigations that traditionally required substantial human effort. However, ensuring completeness in automatically generated research reports remains challenging: existing systems rely on ad-hoc query decomposition through prompt engineering, providing no formal guarantees about coverage or diversity, and evaluation frameworks often assess single dimensions rather than holistic report quality. This thesis addresses these limitations through three primary contributions. First, we propose a multi-dimensional framework that operationalizes completeness as three interdependent aspects: coverage (breadth and relevance of information), grounding (citation accuracy and factual consistency), and presentation quality (clarity and structural coherence). Second, we present HERO (High Enrichment Retrieval Orchestrator), a hierarchical deep research architecture that combines submodular optimization for query diversification with a novel two-stage enrichment mechanism that identifies and addresses information gaps through targeted follow-up investigation. Third, we conduct comprehensive evaluation across both academic (ScholarQABench) and general knowledge (DeepResearchGym) domains, enabling holistic evaluation of Deep Research agents. HERO achieves state-of-the-art performance on both benchmarks, with the highest coverage metrics (Key Point Recall of 67.63 on DeepResearchGym), strongest grounding (Citation F1: 91.57), and superior presentation quality scores. Ablation studies reveal that submodular optimization and hierarchical enrichment each contribute distinct improvements, with synergistic effects when combined. However, important limitations remain: our analysis reveals systematic sycophantic bias where the system adapts argumentative positions to match query framing, demonstrating that architectural improvements alone cannot overcome inherent behavioral patterns in foundation models. This work contributes both a concrete system demonstrating measurable improvements in report completeness and a framework for multi-dimensional evaluation of deep research agents. As these systems evolve toward deployment in high-stakes domains, the architectural principles and evaluation methodology established here provide a foundation for building reliable, comprehensive AI research assistants.</p>
+<p>Deep research agents represent a significant advance in AI-assisted information synthesis, capable of conducting comprehensive investigations that traditionally required substantial human effort. However, ensuring completeness in automatically generated research reports remains challenging: existing systems rely on ad-hoc query decomposition through prompt engineering, providing no formal guarantees about coverage or diversity, and evaluation frameworks often assess single dimensions rather than holistic report quality. This thesis addresses these limitations through three primary contributions. First, we propose a multi-dimensional framework that operationalizes completeness as three interdependent aspects: coverage (breadth and relevance of information), grounding (citation accuracy and factual consistency), and presentation quality (clarity and structural coherence). Second, we present HERO (High Enrichment Retrieval Orchestrator), a hierarchical deep research architecture that combines submodular optimization for query diversification with a novel two-stage enrichment mechanism that identifies and addresses information gaps through targeted follow-up investigation. Third, we conduct comprehensive evaluation across both academic (ScholarQABench) and general knowledge (DeepResearchGym) domains, enabling holistic evaluation of Deep Research agents. HERO achieves state-of-the-art performance on both benchmarks, with the highest coverage metrics (Key Point Recall of 67.63 on DeepResearchGym), strongest grounding (Citation F1: 91.57), and superior presentation quality scores. Ablation studies reveal that submodular optimization and hierarchical enrichment each contribute distinct improvements, with synergistic effects when combined. However, important limitations remain: our analysis reveals systematic sycophantic bias where the system adapts argumentative positions to match query framing, demonstrating that architectural improvements alone cannot overcome inherent behavioral patterns in foundation models.</p>
 </details>
 <details class="quote">
 <summary>Bibtex</summary>
